@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11375, N-11376, N-11377
-  - Hole-minted Nodes (reintro-ep018): N-10454, N-10799
-  - Tip-minted Nodes (reintro-ep018): N-869, N-11337
+  - Tip-minted Nodes (supplement_2026-10g): N-11291, N-11292, N-11293
+  - Hole-minted Nodes (reintro-ep018): N-10423, N-10723
+  - Tip-minted Nodes (reintro-ep018): N-869, N-11253
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1608–C-1709
-  - New Nodes Introduced: N-174, N-175, N-176, N-178, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190
-  - Reused Nodes Appearing: N-10180, N-10184, N-10187, N-22, N-36, N-38, N-46, N-73, N-126, N-10000, N-10006, N-10012, N-10014, N-10027, N-10055, N-10063, N-10065, N-10095, N-10134, N-10139, N-10164, N-10169, N-10172, N-10175, N-10192, N-10315, N-10350
+  - New Nodes Introduced: N-174, N-175, N-176, N-178, N-10173, N-10174, N-10175, N-10177, N-10178, N-10180, N-10181, N-10182
+  - Reused Nodes Appearing: N-10172, N-10176, N-10179, N-22, N-36, N-38, N-46, N-73, N-126, N-10000, N-10006, N-10012, N-10014, N-10027, N-10052, N-10060, N-10062, N-10091, N-10129, N-10134, N-10100, N-10162, N-10165, N-10168, N-10184, N-10296, N-10328
 
 This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolvet tweet purporting to convey a surgeon's account of the bullet path, then asserts – as a fact-checked finding – that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-11
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:02:50–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (paraphrase read aloud; tweet itself not displayed)
 
-*Related: C-1610, C-1611, N-14, N-10180*
+*Related: C-1610, C-1611, N-14, N-10172*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:08:44–00:09:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1620, C-1626, N-174, N-10182*
+*Related: C-1620, C-1626, N-174, N-10174*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:14:50–00:15:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-174, N-175, N-10182*
+*Related: C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-174, N-175, N-10174*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:23:00–00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1649, N-175, N-10180, N-10181*
+*Related: C-1649, N-175, N-10172, N-10173*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:27:27–00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1658, N-10181*
+*Related: C-1658, N-10173*
 
 ---
 
@@ -338,7 +338,7 @@ Video Timestamp: 00:25:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1652, C-1653, N-3, N-1, N-10799*
+*Related: C-1652, C-1653, N-3, N-1, N-10723*
 
 ---
 
@@ -366,7 +366,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1251.1, C-1610, C-1611, C-1622, N-10180*
+*Related: A-1251.1, C-1610, C-1611, C-1622, N-10172*
 
 ---
 
@@ -379,7 +379,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1620, C-1626, C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-175, N-10182*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1620, C-1626, C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-175, N-10174*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1254.1, C-1649, N-10180, N-10181*
+*Related: A-1254.1, C-1649, N-10172, N-10173*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1638, N-10183*
+*Related: C-1638, N-10175*
 
 ---
 
@@ -418,7 +418,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1679, C-1681, N-10186*
+*Related: C-1679, C-1681, N-10178*
 
 ---
 
@@ -448,7 +448,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Persistent target: whether the recovered projectile was a .30-06, where the fragment was recovered, and whether the death certificate reflects it.
 
@@ -461,7 +461,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10181** Multiple Shooter Theory
+**N-10173** Multiple Shooter Theory
 
 Persistent target: whether more than one shooter / weapon was involved at the Utah Valley event.
 
@@ -474,7 +474,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10182** Cooper Brown Identity Verification
+**N-10174** Cooper Brown Identity Verification
 
 Persistent target: verifying Cooper Brown's institutional affiliation, biographical claims, and presence at the event.
 
@@ -487,7 +487,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Weiss Amaro
+**N-10175** Medical Examiner Inquiry – Weiss Amaro
 
 Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.
 
@@ -500,7 +500,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10184** Caldera Engineering Background Investigation
+**N-10176** Caldera Engineering Background Investigation
 
 Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.
 
@@ -513,7 +513,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10185** Plane N1098L Investigation
+**N-10177** Plane N1098L Investigation
 
 Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.
 
@@ -522,11 +522,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1671, C-1672, C-1673, N-10189*
+*Related: C-1671, C-1672, C-1673, N-10181*
 
 ---
 
-**N-10186** Plane 888 / Maxfield Plane Investigation
+**N-10178** Plane 888 / Maxfield Plane Investigation
 
 Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxfield.
 
@@ -539,7 +539,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Persistent target: chronological placement and substantive content of the released text exchange relative to Charlie Kirk's known Israel-related shift.
 
@@ -552,7 +552,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10188** Leadership Institute (entity)
+**N-10180** Leadership Institute (entity)
 
 Organization identified by Cooper Brown as his employer and described by host as working "hand-in-hand" with TPUSA, YAL, and Students for Life on conservative coalition events.
 
@@ -565,7 +565,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10189** Las Vegas Aviation LLC (entity)
+**N-10181** Las Vegas Aviation LLC (entity)
 
 Company identified by host as the owner/contractor of plane N1098L.
 
@@ -574,11 +574,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1672, N-10185*
+*Related: C-1672, N-10177*
 
 ---
 
-**N-10190** Signature FBO / Million Air FBO (entity cluster)
+**N-10182** Signature FBO / Million Air FBO (entity cluster)
 
 Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.
 
@@ -587,7 +587,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1681, C-1683, N-10186*
+*Related: C-1681, C-1683, N-10178*
 
 ---
 
@@ -728,7 +728,7 @@ Location of the August retreat Hammer's statement addresses.
 
 ---
 
-**N-10055** Federal Footage Sweep
+**N-10052** Federal Footage Sweep
 
 Existing topic reused for camera-removal claims.
 
@@ -736,7 +736,7 @@ Existing topic reused for camera-removal claims.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place at the center of the host's discussion of the peace deal.
 
@@ -744,7 +744,7 @@ Place at the center of the host's discussion of the peace deal.
 
 ---
 
-**N-10065** Caldera Engineering
+**N-10062** Caldera Engineering
 
 Valve maker the host investigates.
 
@@ -752,7 +752,7 @@ Valve maker the host investigates.
 
 ---
 
-**N-10095** 9/10 Eyewitness Pattern Investigation
+**N-10091** 9/10 Eyewitness Pattern Investigation
 
 Existing topic reused for the multiple-shot witnesses.
 
@@ -760,7 +760,7 @@ Existing topic reused for the multiple-shot witnesses.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Existing topic reused for Hammer's statement.
 
@@ -768,7 +768,7 @@ Existing topic reused for Hammer's statement.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for the pastors remark.
 
@@ -776,7 +776,7 @@ Existing topic reused for the pastors remark.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
+**N-10100** Catholic Conversion Rumor
 
 Existing topic reused for the Catholicism remark.
 
@@ -784,7 +784,7 @@ Existing topic reused for the Catholicism remark.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing topic reused for the call-timing and purpose claims.
 
@@ -792,7 +792,7 @@ Existing topic reused for the call-timing and purpose claims.
 
 ---
 
-**N-10172** Multiple Decoys Theory (4 Decoys Named)
+**N-10165** Multiple Decoys Theory (4 Decoys Named)
 
 Existing topic reused for the decoy-rifle claim.
 
@@ -800,7 +800,7 @@ Existing topic reused for the decoy-rifle claim.
 
 ---
 
-**N-10175** UVU Left-Side Footage Black Hole
+**N-10168** UVU Left-Side Footage Black Hole
 
 Existing topic reused for the left-side blind spot.
 
@@ -808,7 +808,7 @@ Existing topic reused for the left-side blind spot.
 
 ---
 
-**N-10192** Camera Operator Behavior Pattern
+**N-10184** Camera Operator Behavior Pattern
 
 Existing topic reused for the camera-removal claims.
 
@@ -816,7 +816,7 @@ Existing topic reused for the camera-removal claims.
 
 ---
 
-**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
+**N-10296** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
 Existing topic reused for the witness-selection claims.
 
@@ -824,7 +824,7 @@ Existing topic reused for the witness-selection claims.
 
 ---
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Existing topic reused for the Catholicism remark.
 
@@ -832,7 +832,7 @@ Existing topic reused for the Catholicism remark.
 
 ---
 
-**N-10454** Gaza Death Toll and Documentation Claims
+**N-10423** Gaza Death Toll and Documentation Claims
 
 Existing topic reused for the Gaza destruction claim.
 
@@ -840,7 +840,7 @@ Existing topic reused for the Gaza destruction claim.
 
 ---
 
-**N-10799** Back-Camera Footage Discrepancy
+**N-10723** Back-Camera Footage Discrepancy
 
 Existing topic reused for the rear footage claims.
 
@@ -848,7 +848,7 @@ Existing topic reused for the rear footage claims.
 
 ---
 
-**N-11337** Hamas
+**N-11253** Hamas
 
 Organization named in the peace deal discussion.
 
@@ -856,7 +856,7 @@ Organization named in the peace deal discussion.
 
 ---
 
-**N-11375** Gaza Peace Deal First Phase Announcement (October 2025)
+**N-11291** Gaza Peace Deal First Phase Announcement (October 2025)
 
 Node Type: Topic
 The reported first phase of an Israel and Hamas agreement with troop withdrawal and hostage release, and the Trump announcement and negotiators the host criticizes.
@@ -865,7 +865,7 @@ The reported first phase of an Israel and Hamas agreement with troop withdrawal 
 
 ---
 
-**N-11376** Military Bot Farm Allegation
+**N-11292** Military Bot Activity Claim
 
 Node Type: Topic
 The host's allegation that military-run bot farms operate on X and other platforms.
@@ -874,7 +874,7 @@ The host's allegation that military-run bot farms operate on X and other platfor
 
 ---
 
-**N-11377** TPUSA Media Silence Instruction at the 9/10 Event
+**N-11293** TPUSA Media Silence Instruction at the 9/10 Event
 
 Node Type: Topic
 The host's report that a person was said to have been told not to speak to the media and that a TPUSA text told people not to speak to the media.
@@ -893,7 +893,7 @@ Claim: The host says she is telling viewers 100% that Charlie Kirk was shot from
 
 Anchored Artifacts: A-1251.1
 Mentions: N-1, N-3
-Related Nodes: N-10180
+Related Nodes: N-10172
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
 ---
@@ -906,7 +906,7 @@ Claim: The host says that, as she has fact-checked with multiple sources, a bull
 
 Anchored Artifacts: A-1251.1
 Mentions: N-1, N-3
-Related Nodes: N-10180
+Related Nodes: N-10172
 Investigative Direction: Compare against autopsy report and forensic pathology images for exact fragment location.
 
 ---
@@ -919,7 +919,7 @@ Claim: The host says Charlie Kirk's death certificate does not reflect a recover
 
 Anchored Artifacts: A-1251.1
 Mentions: N-1, N-3
-Related Nodes: N-10180
+Related Nodes: N-10172
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
 ---
@@ -932,7 +932,7 @@ Claim: The host reads a long tweet by Andrew Kolvet in which he says he spoke wi
 
 Anchored Artifacts: A-1251.1
 Mentions: N-14, N-1
-Related Nodes: N-10180
+Related Nodes: N-10172
 Investigative Direction: Locate original Kolbatz tweet and verify direct quotes and publication date.
 
 ---
@@ -945,7 +945,7 @@ Claim: Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet s
 
 Anchored Artifacts: A-1251.1
 Mentions: N-14
-Related Nodes: N-10180
+Related Nodes: N-10172
 Investigative Direction: Identify the named surgeon (if given) and confirm statement through independent medical record review.
 
 ---
@@ -958,7 +958,7 @@ Claim: A witness in the viral clip stated he was in the third row, heard a shot 
 
 Anchored Artifacts: A-1252.1
 Mentions: 
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Identify the witness and obtain a signed statement consistent with his on-camera description.
 
 ---
@@ -971,7 +971,7 @@ Claim: The host says she determined the man who physically pushed/shoved the wit
 
 Anchored Artifacts: A-1252.1, A-1253.1
 Mentions: N-174
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Identify the pusher and verify his institutional affiliation at the time of the event.
 
 ---
@@ -984,7 +984,7 @@ Claim: Cooper Brown stated on Fox News that he works for the Leadership Institut
 
 Anchored Artifacts: A-1253.1
 Mentions: N-174
-Related Nodes: N-10182, N-10188
+Related Nodes: N-10174, N-10180
 Investigative Direction: Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.
 
 ---
@@ -997,7 +997,7 @@ Claim: The host says Cooper Brown appeared on Jesse Watters' Fox News program th
 
 Anchored Artifacts: A-1253.1
 Mentions: N-174
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
 ---
@@ -1010,7 +1010,7 @@ Claim: The host says Cooper Brown appeared on Fox News again the day after the s
 
 Anchored Artifacts: A-1253.2
 Mentions: N-174
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
 ---
@@ -1023,7 +1023,7 @@ Claim: Cooper Brown stated his event responsibility was managing the microphone 
 
 Anchored Artifacts: A-1253.2
 Mentions: N-174
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Cross-reference event staff logs or volunteer rosters provided by organizers.
 
 ---
@@ -1036,7 +1036,7 @@ Claim: The host says Cooper Brown's resume, on the website where he says he work
 
 Anchored Artifacts: A-1253.2
 Mentions: N-174
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Pull registrar verification or alumni records (subject to FERPA limits).
 
 ---
@@ -1049,7 +1049,7 @@ Claim: The host says that at the small New Hampshire college she found someone w
 
 Anchored Artifacts: A-1253.2
 Mentions: N-174
-Related Nodes: N-10182
+Related Nodes: N-10174
 Investigative Direction: Confirm whether the female same-name individual is or is not the same person through independent records.
 
 ---
@@ -1062,7 +1062,7 @@ Claim: Jason Chaffetz stated on Fox News that, "if I had to guess," the shot loo
 
 Anchored Artifacts: A-1254.1
 Mentions: N-175
-Related Nodes: N-10180, N-10181
+Related Nodes: N-10172, N-10173
 Investigative Direction: Confirm full segment and any subsequent Chaffetz statements on the topic.
 
 ---
@@ -1075,7 +1075,7 @@ Claim: The host says two women seen in Phil Lyman's footage outside the building
 
 Anchored Artifacts: A-1255.1
 Mentions: N-61
-Related Nodes: N-10181
+Related Nodes: N-10173
 Investigative Direction: Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata.
 
 ---
@@ -1088,7 +1088,7 @@ Claim: The host says she received an emailed tip urging her to look into Dr. Dei
 
 Anchored Artifacts: (host-stated; no displayed primary artifact – see Optional Flags)
 Mentions: N-176
-Related Nodes: N-10183
+Related Nodes: N-10175
 Investigative Direction: Locate Utah state announcement and prior employment records.
 
 ---
@@ -1100,7 +1100,7 @@ Claim Timestamp: 00:30:39
 Claim: The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error.
 
 Anchored Artifacts: (host-stated; web link referenced but full artifact not displayed – see Optional Flags)
-Related Nodes: N-10184
+Related Nodes: N-10176
 Investigative Direction: Obtain Utah LLC formation records (pre-digitization, requires in-person request) and Israeli business registries.
 
 ---
@@ -1112,7 +1112,7 @@ Claim Timestamp: 00:31:26
 Claim: The host says Caldera Engineering was established in 1997.
 
 Anchored Artifacts: (host-stated; no primary artifact displayed – see Optional Flags)
-Related Nodes: N-10184
+Related Nodes: N-10176
 Investigative Direction: Verify via Utah Division of Corporations records and trademark filings.
 
 ---
@@ -1124,7 +1124,7 @@ Claim Timestamp: 00:30:39
 Claim: The host says that, per a tip she received, a person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.
 
 Anchored Artifacts: (host-stated; resume referenced but not displayed – see Optional Flags)
-Related Nodes: N-10184
+Related Nodes: N-10176
 Investigative Direction: Verify via LinkedIn / professional profile cross-checks.
 
 ---
@@ -1137,7 +1137,7 @@ Claim: The host says the lawyer Caldera Engineering used for trademark purposes 
 
 Anchored Artifacts: (host-stated based on legal records review; primary filing not displayed – see Optional Flags)
 Mentions: N-11
-Related Nodes: N-10184
+Related Nodes: N-10176
 Investigative Direction: Pull Arizona trademark filings and confirm attorney of record.
 
 ---
@@ -1149,7 +1149,7 @@ Claim Timestamp: 00:37:31
 Claim: The host says a plane with tail number N1098L, which she says people have recognized as military and which had been used in the military, flew over Utah around the time of the shooting.
 
 Anchored Artifacts: (host-stated; flight tracking not displayed – see Optional Flags)
-Related Nodes: N-10185
+Related Nodes: N-10177
 Investigative Direction: Pull FAA registry for N1098L and prior military tail assignments.
 
 ---
@@ -1161,7 +1161,7 @@ Claim Timestamp: 00:37:31
 Claim: The host says Plane N1098L was owned by, or contracted through, Las Vegas Aviation LLC.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-10185, N-10189
+Related Nodes: N-10177, N-10181
 Investigative Direction: Confirm ownership via FAA registry and Nevada Secretary of State filings for Las Vegas Aviation LLC.
 
 ---
@@ -1173,7 +1173,7 @@ Claim Timestamp: 00:37:31
 Claim: The host says Plane N1098L departed Texas and routed to Utah around the time of the shooting.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-10185
+Related Nodes: N-10177
 Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for N1098L on the date.
 
 ---
@@ -1186,7 +1186,7 @@ Claim: The host says a second plane, which she remembers as having '888' in its 
 
 Anchored Artifacts: (host-stated – see Optional Flags)
 Mentions: N-94
-Related Nodes: N-10186
+Related Nodes: N-10178
 Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Shelaine Maxfield.
 
 ---
@@ -1198,7 +1198,7 @@ Claim Timestamp: 00:39:09
 Claim: The host says Plane 888's intended destination was Page, Arizona.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-10186
+Related Nodes: N-10178
 Investigative Direction: Verify via filed flight plan and FBO records.
 
 ---
@@ -1210,7 +1210,7 @@ Claim Timestamp: 00:39:09
 Claim: The host says the ADSB transponder on plane 888 appeared to turn off during the flight.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-10186
+Related Nodes: N-10178
 Investigative Direction: Pull historical ADSB / radar track for the aircraft on the date.
 
 ---
@@ -1223,7 +1223,7 @@ Claim: The host says Kash Patel told them plane 888 never stopped transponding.
 
 Anchored Artifacts: (host-stated; Kash Patel public statement not displayed – see Optional Flags)
 Mentions: N-69
-Related Nodes: N-10186
+Related Nodes: N-10178
 Investigative Direction: Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.
 
 ---
@@ -1236,7 +1236,7 @@ Claim: The host says Derek Maxfield stated on Instagram that the air traffic con
 
 Anchored Artifacts: (host-stated; Derek Maxfield Instagram post not displayed – see Optional Flags)
 Mentions: N-94
-Related Nodes: N-10186
+Related Nodes: N-10178
 Investigative Direction: Locate Maxfield's original Instagram post and any corroborating ATC logs.
 
 ---
@@ -1248,7 +1248,7 @@ Claim Timestamp: 00:40:53
 Claim: The host says Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Related Nodes: N-10186, N-10190
+Related Nodes: N-10178, N-10182
 Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire and Signature).
 
 ---
@@ -1260,7 +1260,7 @@ Claim Timestamp: 00:41:07
 Claim: The host says that a person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.
 
 Anchored Artifacts: (host-stated; secondhand report – see Optional Flags)
-Related Nodes: N-10186, N-10190
+Related Nodes: N-10178, N-10182
 Investigative Direction: Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs.
 
 ---
@@ -1273,7 +1273,7 @@ Claim: The host says Josh Hammer publicly released text messages between himself
 
 Anchored Artifacts: A-1256.1
 Mentions: N-55, N-1
-Related Nodes: N-10187
+Related Nodes: N-10179
 Investigative Direction: Verify release date and source channel.
 
 ---
@@ -1286,7 +1286,7 @@ Claim: The released texts include a "thank you for your help guys" message (attr
 
 Anchored Artifacts: A-1256.1
 Mentions: N-55, N-1
-Related Nodes: N-10187
+Related Nodes: N-10179
 Investigative Direction: Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.
 
 ---
@@ -1324,7 +1324,7 @@ Claim: The host says Matt Walsh thought Charlie Kirk's text messages were fake b
 
 Anchored Artifacts: A-1259.1
 Mentions: N-163, N-1
-Related Nodes: N-10187
+Related Nodes: N-10179
 Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---
@@ -1380,7 +1380,7 @@ Transcript Snippet: I can't tell you exactly who the information came from or wh
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180
+Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Ask the host to document, privately or via an intermediary, the number and type of sources behind the neck-injury finding; compare with the autopsy and death-certificate record.
 
@@ -1396,7 +1396,7 @@ Transcript Snippet: It likely would have killed those standing behind him, too. 
 
 Anchored Artifacts: A-1251.1
 Mentions: N-14, N-1
-Related Nodes: N-10180
+Related Nodes: N-10172
 Supports: C-595
 Tags: relevance:core
 Investigative Direction: Locate the original Kolvet tweet and compare it with the autopsy findings; ask the Utah medical examiner's office where the projectile was recovered.
@@ -1413,7 +1413,7 @@ Transcript Snippet: I have fact-checked this information from multiple sources n
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10180
+Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Establish when the host first received the finding, for example from her own messages with sources, and compare with earlier episodes that touched the bullet.
 
@@ -1429,7 +1429,7 @@ Transcript Snippet: I've spoken to quite a few, but when the gun and the bullet 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10180
+Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Ask Utah and other state medical examiners whether weapon and projectile details are entered on death certificates, and pull Utah's death-certificate standards.
 
@@ -1445,7 +1445,7 @@ Transcript Snippet: It means that he was shot with a completely different kind o
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180, N-10181
+Related Nodes: N-10172, N-10173
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy, wound-ballistics and projectile reports and have an independent forensic pathologist assess the wound and recovered fragment against the .30-06 and smaller calibers.
 
@@ -1461,7 +1461,7 @@ Transcript Snippet: there were people who were insisting, by the way, they were 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10315, N-10095, N-10181
+Related Nodes: N-10296, N-10091, N-10173
 Tags: relevance:core
 Investigative Direction: Collect named witness statements and any police interview summaries on the number of shots heard, and compare with which witnesses the networks interviewed.
 
@@ -1477,7 +1477,7 @@ Transcript Snippet: if a shot, a high-powered rifle, came from 250 yards behind 
 
 Anchored Artifacts: A-1252.1
 Mentions: N-3
-Related Nodes: N-10181
+Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Identify the witness and interview him about where he was standing and which direction the sound seemed to come from; get the full unedited clip.
 
@@ -1493,7 +1493,7 @@ Transcript Snippet: He doesn't want to speak to media because he's been instruct
 
 Anchored Artifacts: A-1252.1
 Mentions: N-3
-Related Nodes: N-10000, N-11377
+Related Nodes: N-10000, N-11293
 Tags: relevance:core
 Investigative Direction: Obtain the private message exchange and identify who instructed the man and which TPUSA chapter had earlier been in trouble over media comments.
 
@@ -1509,7 +1509,7 @@ Transcript Snippet: Turning Point USA what sent her on a text and said, "Nobody 
 
 Anchored Artifacts: A-1252.1
 Mentions: N-3
-Related Nodes: N-10000, N-11377
+Related Nodes: N-10000, N-11293
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for any message sent to chapters or volunteers about speaking to media on 9/10, and ask the people who received it.
 
@@ -1541,7 +1541,7 @@ Transcript Snippet: that young man, whose name is Cooper, and I'm very comfortab
 
 Anchored Artifacts: A-1253.1
 Mentions: N-174, N-3
-Related Nodes: N-10182, N-10006
+Related Nodes: N-10174, N-10006
 Tags: relevance:core
 Investigative Direction: Compare the viral shoving footage with Cooper Brown's Fox News appearances to confirm the two are the same person.
 
@@ -1557,7 +1557,7 @@ Transcript Snippet: One email said, "Hey, I'm actually his cousin and here is hi
 
 Anchored Artifacts: 
 Mentions: N-174, N-3
-Related Nodes: N-10182
+Related Nodes: N-10174
 Tags: relevance:context
 Investigative Direction: Review the original email and verify the sender's relationship to Cooper Brown without publishing private contact details.
 
@@ -1573,7 +1573,7 @@ Transcript Snippet: a Phoenix-based number. So, I'm going, "Who is this person? 
 
 Anchored Artifacts: 
 Mentions: N-174, N-3
-Related Nodes: N-10182
+Related Nodes: N-10174
 Tags: relevance:context
 Investigative Direction: Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1634 may blend this with the same-name graduate.
 
@@ -1589,7 +1589,7 @@ Transcript Snippet: That's supposed to be like kind of an honor at Utah events. 
 
 Anchored Artifacts: A-1253.2
 Mentions: N-174, N-3
-Related Nodes: N-10182, N-10000
+Related Nodes: N-10174, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the UVU event volunteer roster and microphone assignment, and ask UVU chapter students who normally held the microphone.
 
@@ -1605,7 +1605,7 @@ Transcript Snippet: We definitely did hear a very recognizable sound of a rifle 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180, N-10181
+Related Nodes: N-10172, N-10173
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ballistics findings and the audio of the shot sequence to test whether the audible rifle shot and the fatal wound match.
 
@@ -1621,7 +1621,7 @@ Transcript Snippet: this person an email insisted to me that this is somebody th
 
 Anchored Artifacts: 
 Mentions: N-3, N-176
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Review the tip email for its basis and verify the examiner's career record independently.
 
@@ -1637,7 +1637,7 @@ Transcript Snippet: And uh if you've got something, you know this her personally
 
 Anchored Artifacts: A-3284.1
 Mentions: N-3, N-176
-Related Nodes: N-10183
+Related Nodes: N-10175
 Tags: relevance:core
 Investigative Direction: Record tip volume and follow-up in later episodes where the host cites emailed tips about the examiner.
 
@@ -1653,7 +1653,7 @@ Transcript Snippet: It is likely that a rifle was fired to muffle the sound of a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10181, N-10172
+Related Nodes: N-10173, N-10165
 Tags: relevance:core
 Investigative Direction: Obtain acoustic analyses of the shot audio from multiple recordings and ask forensic audio experts whether more than one weapon discharge can be identified.
 
@@ -1669,7 +1669,7 @@ Transcript Snippet: that is now my well-informed opinion, well-informed opinion,
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10181
+Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Map audience positions at the moment of the shot against the trajectory the host describes, using all available footage.
 
@@ -1685,7 +1685,7 @@ Transcript Snippet: Another tons of other cameras, that one gets grabbed first.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10799, N-10055
+Related Nodes: N-10723, N-10052
 Tags: relevance:core
 Investigative Direction: Establish the sequence in which each camera was removed or its card taken, from event staff, police logs and camera operator accounts.
 
@@ -1701,7 +1701,7 @@ Transcript Snippet: I told you, Tyler Bowyer lied. He just lied. The person who 
 
 Anchored Artifacts: 
 Mentions: N-11, N-3
-Related Nodes: N-10192, N-10799
+Related Nodes: N-10184, N-10723
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Obtain statements from the investigating agency about whether anyone instructed removal of the camera or SD card, and compare with Bowyer's account.
@@ -1718,7 +1718,7 @@ Transcript Snippet: I actually feel that there is this remarkable blind spot on 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10175
+Related Nodes: N-10168
 Supports: C-1566
 Tags: relevance:core
 Investigative Direction: Collect all video from the audience's left side and map camera fields of view across the tent area to confirm the gap.
@@ -1735,7 +1735,7 @@ Transcript Snippet: all these Caldera engineering engineering connected people w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10184, N-10315
+Related Nodes: N-10062, N-10176, N-10296
 Tags: relevance:core
 Investigative Direction: Compile the list of media-interviewed witnesses and test each against employment or family ties to Caldera Engineering.
 
@@ -1767,7 +1767,7 @@ Transcript Snippet: he was rebutting, cuz he was on a couple of shows, rebutting
 
 Anchored Artifacts: A-1254.1
 Mentions: N-175
-Related Nodes: N-10180, N-10181, N-10006
+Related Nodes: N-10172, N-10173, N-10006
 Supports: C-1649
 Tags: relevance:core
 Investigative Direction: Pull the Fox News segments in which Chaffetz addresses shot distance and compare wording.
@@ -1784,7 +1784,7 @@ Transcript Snippet: when he's on Fox News and people are saying the shot was fro
 
 Anchored Artifacts: A-1254.1
 Mentions: N-175
-Related Nodes: N-10180, N-10006
+Related Nodes: N-10172, N-10006
 Tags: relevance:core
 Investigative Direction: Confirm in the Fox transcripts that Chaffetz rejects the building theory; the building name is transcribed as Losee and is probably the Losee Center.
 
@@ -1816,7 +1816,7 @@ Transcript Snippet: That way, they were going to say that they recovered a.30-06
 
 Anchored Artifacts: A-3285.1
 Mentions: N-3, N-1
-Related Nodes: N-10799, N-10180
+Related Nodes: N-10723, N-10172
 Tags: relevance:core
 Investigative Direction: Establish who controlled the back-camera footage and when it was first provided to investigators, and what the first official statements said about the recovered projectile.
 
@@ -1832,7 +1832,7 @@ Transcript Snippet: not only did the bullet not pierce through, but there wasn't
 
 Anchored Artifacts: A-3285.1
 Mentions: N-3, N-1
-Related Nodes: N-10799, N-10180
+Related Nodes: N-10723, N-10172
 Supports: C-516
 Tags: relevance:core
 Investigative Direction: Obtain the unedited rear-camera footage and have it reviewed frame by frame by a forensic video analyst.
@@ -1849,7 +1849,7 @@ Transcript Snippet: I think it is likely that what we should be looking for are 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10181
+Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Identify the positions of all people identified as armed or carrying on 9/10 and any alerts about a second weapon.
 
@@ -1865,7 +1865,7 @@ Transcript Snippet: There's no UVU kids that were in the mainstream media.
 
 Anchored Artifacts: 
 Mentions: N-174, N-3
-Related Nodes: N-10315, N-10012
+Related Nodes: N-10296, N-10012
 Tags: relevance:core
 Investigative Direction: Survey network coverage of 9/10 and count interviewees with verified UVU enrollment.
 
@@ -1881,7 +1881,7 @@ Transcript Snippet: one of the first things he said to me was that I felt like t
 
 Anchored Artifacts: 
 Mentions: N-126, N-3
-Related Nodes: N-10315, N-10014
+Related Nodes: N-10296, N-10014
 Tags: relevance:core
 Investigative Direction: Interview Nick and other students about who approached them after the shooting, what was said and whether they identified themselves.
 
@@ -1897,7 +1897,7 @@ Transcript Snippet: there were these people walking around that we didn't recogn
 
 Anchored Artifacts: 
 Mentions: N-126, N-3
-Related Nodes: N-10315
+Related Nodes: N-10296
 Tags: relevance:core
 Investigative Direction: Collect other students' accounts of being approached and identify the people through badge, uniform or footage.
 
@@ -1913,7 +1913,7 @@ Transcript Snippet: we probably need to be now looking for a shooter that was in
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10181, N-10175
+Related Nodes: N-10173, N-10168
 Tags: relevance:core
 Investigative Direction: Determine who sat or stood to Charlie's left in the audience and obtain all video of that area.
 
@@ -1929,7 +1929,7 @@ Transcript Snippet: this one went straight into the front left lower side of his
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180
+Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy wound description and imaging to test the entry location, laterality and fragment location the host gives.
 
@@ -1945,7 +1945,7 @@ Transcript Snippet: Erwin Steele. This Steel. So many Steels were involved. It t
 
 Anchored Artifacts: 
 Mentions: N-73, N-3
-Related Nodes: N-10065, N-10184
+Related Nodes: N-10062, N-10176
 Supports: C-415
 Tags: relevance:context
 Investigative Direction: Pull Utah business filings for Caldera Engineering and check officers, owners and employees against the Steele family.
@@ -1962,7 +1962,7 @@ Transcript Snippet: people who work with valves, who've been in the industry for
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10184
+Related Nodes: N-10062, N-10176
 Tags: relevance:context
 Investigative Direction: Identify and contact valve distributors in the region to ask about Caldera Engineering's customers, catalog and market presence.
 
@@ -1978,7 +1978,7 @@ Transcript Snippet: Uh we obviously know that Caldera engineering had said that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10184
+Related Nodes: N-10062, N-10176
 Tags: relevance:context
 Investigative Direction: Retrieve archived versions of the Caldera Engineering website and list the projects and countries it cited.
 
@@ -1994,7 +1994,7 @@ Transcript Snippet: You can find LLC docs in general, but they didn't start digi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10184, N-10065
+Related Nodes: N-10176, N-10062
 Tags: relevance:context
 Investigative Direction: File an in-person or mail records request with the Utah Division of Corporations for the original formation filings.
 
@@ -2010,7 +2010,7 @@ Transcript Snippet: I'd like to hear from you. Again, more tips at candaceowens.
 
 Anchored Artifacts: A-3284.2
 Mentions: N-3
-Related Nodes: N-10065, N-10184
+Related Nodes: N-10062, N-10176
 Tags: relevance:context
 Investigative Direction: Record tip volume and follow-up in later episodes where the host cites emailed tips about Caldera.
 
@@ -2026,7 +2026,7 @@ Transcript Snippet: right about the time uh that Charlie got assassinated. It di
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10185
+Related Nodes: N-10177
 Tags: relevance:core
 Investigative Direction: Pull ADS-B altitude and track data for N1098L on 9/10 to test the descent and loiter behavior.
 
@@ -2042,7 +2042,7 @@ Transcript Snippet: multiple pilots, people that work at these airports, people 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10186, N-10190
+Related Nodes: N-10178, N-10182
 Tags: relevance:core
 Investigative Direction: Obtain direct statements from the pilots and airport staff who contacted the host, and corroborate with FBO and FAA records.
 
@@ -2058,7 +2058,7 @@ Transcript Snippet: They are guarding information about this flight. That doesn'
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10190, N-10186, N-10014
+Related Nodes: N-10182, N-10178, N-10014
 Tags: relevance:core
 Investigative Direction: Identify any federal agency presence at the FBO and ask for the records on the ramp activity that day.
 
@@ -2074,7 +2074,7 @@ Transcript Snippet: he was releasing a statement about how wonderful the Hampton
 
 Anchored Artifacts: A-3286.1
 Mentions: N-55, N-38, N-1
-Related Nodes: N-10134, N-10027
+Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's original public statement and compare with attendee accounts of the retreat.
 
@@ -2090,7 +2090,7 @@ Transcript Snippet: I came to the Hamptons because Charlie wanted me to bring si
 
 Anchored Artifacts: A-3286.1
 Mentions: N-55, N-1
-Related Nodes: N-10134, N-10027
+Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Verify Hammer's statement and ask other attendees whether signed books were requested or distributed.
 
@@ -2106,7 +2106,7 @@ Transcript Snippet: it lets us know that the call happened at the exact same tim
 
 Anchored Artifacts: A-1256.1
 Mentions: N-55
-Related Nodes: N-10169, N-10187
+Related Nodes: N-10162, N-10179
 Tags: relevance:core
 Investigative Direction: Obtain call logs and message timestamps for Hammer and Charlie for 9/9 and compare with the retweet time.
 
@@ -2122,7 +2122,7 @@ Transcript Snippet: his whole story was that Charlie was reaching out to him bec
 
 Anchored Artifacts: A-1256.1
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10169, N-10187
+Related Nodes: N-10162, N-10179
 Tags: relevance:core
 Investigative Direction: Compile Hammer's various accounts of the call's purpose and compare them with the text exchange.
 
@@ -2138,7 +2138,7 @@ Transcript Snippet: Israel is going to partially withdraw its troops from Gaza a
 
 Anchored Artifacts: A-1257.1
 Mentions: N-3
-Related Nodes: N-11375, N-10063, N-11337
+Related Nodes: N-11291, N-10060, N-11253
 Tags: relevance:tangential
 Investigative Direction: Check the published first-phase terms against the host's summary.
 
@@ -2154,7 +2154,7 @@ Transcript Snippet: hundreds of thousands of Palestinians are missing and yeah, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10454, N-10063
+Related Nodes: N-10423, N-10060
 Tags: relevance:tangential
 Investigative Direction: Compare with UN and OCHA damage assessments and missing-persons counts.
 
@@ -2170,7 +2170,7 @@ Transcript Snippet: They arrived on Wednesday morning to represent the US negoti
 
 Anchored Artifacts: 
 Mentions: N-869, N-178, N-3
-Related Nodes: N-11375, N-10063
+Related Nodes: N-11291, N-10060
 Tags: relevance:tangential
 Investigative Direction: Check the participants and arrival timing against press reports of the talks.
 
@@ -2186,7 +2186,7 @@ Transcript Snippet: Bibi Netanyahu is on camera explicitly before October 7th sa
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Locate the pre-October 7 Netanyahu video the host refers to and verify its date and wording.
 
@@ -2202,7 +2202,7 @@ Transcript Snippet: Jared Kushner is is involved in He will financially benefit 
 
 Anchored Artifacts: A-1258.1
 Mentions: N-178, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Look for any Kushner-linked investment or development vehicle tied to Gaza reconstruction.
 
@@ -2218,7 +2218,7 @@ Transcript Snippet: And Trump wants a Nobel Peace Prize, by the way. For the pla
 
 Anchored Artifacts: A-1258.1
 Mentions: N-5, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Assess against official US plans for Gaza reconstruction; this is the host's characterization.
 
@@ -2234,7 +2234,7 @@ Transcript Snippet: I have no choice but to leave the pro-Israel cause.
 
 Anchored Artifacts: 
 Mentions: N-1, N-163, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Locate the full Charlie Kirk text thread containing that sentence and establish its date and recipient; it is not in the A-1256.1 exchange as read.
 
@@ -2250,7 +2250,7 @@ Transcript Snippet: I've never seen any side of any argument lose this much supp
 
 Anchored Artifacts: A-1259.1
 Mentions: N-163
-Related Nodes: N-10187
+Related Nodes: N-10179
 Tags: relevance:context
 Investigative Direction: Locate the original Walsh segment and compare with polling on US support for Israel.
 
@@ -2266,7 +2266,7 @@ Transcript Snippet: there's like military bot farms on X, which sucks, but that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11376
+Related Nodes: N-11292
 Tags: relevance:context
 Investigative Direction: Look for platform transparency reports or researcher studies of coordinated military accounts, and the host's evidence.
 
@@ -2282,7 +2282,7 @@ Transcript Snippet: which was something that I would speak about with Charlie be
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10350, N-10164
+Related Nodes: N-10328, N-10100
 Tags: relevance:context
 Investigative Direction: Compare with Charlie's public statements about Catholicism and accounts from people close to him.
 
@@ -2298,7 +2298,7 @@ Transcript Snippet: it's too many pastors get up on a stage and preach about Meg
 
 Anchored Artifacts: 
 Mentions: N-46, N-22, N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Collect sermon clips naming Kelly or Carlson and check any common source.
 
@@ -2314,7 +2314,7 @@ Transcript Snippet: I can tell you definitively definitively, definitively, defi
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180, N-10181
+Related Nodes: N-10172, N-10173
 Tags: relevance:core
 Investigative Direction: Compare the autopsy entry-wound description with the trajectory models posted by ballistics analysts.
 
@@ -2330,7 +2330,7 @@ Transcript Snippet: I'm not saying that a shot wasn't fired from behind. I'm not
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10181
+Related Nodes: N-10173
 Tags: relevance:core
 Investigative Direction: Review acoustic and physical evidence for a second discharge location.
 
@@ -2346,7 +2346,7 @@ Transcript Snippet: I went through great hoops, multiple people I had to confirm
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10180, N-10014
+Related Nodes: N-10172, N-10014
 Tags: relevance:core
 Investigative Direction: Ask the host to state the number and kind of sources behind the finding.
 

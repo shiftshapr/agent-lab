@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-801, N-11184, N-11185
-  - Hole-minted Nodes (reintro-ep070): N-10510, N-10816
+  - Tip-minted Nodes (supplement_2026-10c): N-801, N-11100, N-11101
+  - Hole-minted Nodes (reintro-ep070): N-10470
   - Tip-minted Nodes (reintro-ep070): N-733
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6245–C-6314
-  - New Nodes Introduced: N-550, N-10494
-  - Reused Nodes Appearing: N-10496, N-10492, N-10493, N-10495, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-186, N-270, N-312, N-10000, N-10004, N-10018, N-10026, N-10027, N-10075, N-10117, N-10122, N-10268, N-10290, N-10316, N-10317, N-10340, N-10342, N-10386, N-10422, N-10446, N-10456, N-10483, N-10548, N-10549, N-10560, N-10905, N-11038, N-11186, N-10806
+  - New Nodes Introduced: N-550, N-10457
+  - Reused Nodes Appearing: N-10239, N-10456, N-10280, N-10458, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-186, N-270, N-312, N-10000, N-10004, N-10018, N-10026, N-10027, N-10072, N-10113, N-10117, N-10252, N-10272, N-10297, N-10298, N-10318, N-10320, N-10359, N-10395, N-10415, N-10425, N-10449, N-10502, N-10503, N-10826, N-10956, N-11102, N-10730
   - (see registers)
 
 ## 2. Executive Summary
@@ -212,7 +212,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6288, C-6290, C-6292, C-6291, N-550, N-493, N-10492*
+*Related: C-6288, C-6290, C-6292, C-6291, N-550, N-493, N-10456*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:35:13–00:36:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6300, N-10492*
+*Related: C-6300, N-10456*
 
 ---
 
@@ -337,7 +337,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, C-6288, C-6290, C-6292, C-6291, N-493, N-10492*
+*Related: A-1747.1, C-6288, C-6290, C-6292, C-6291, N-493, N-10456*
 
 **N-493** Marina Minas
 
@@ -361,7 +361,7 @@ Investigative Pressure: Low
 
 *Related: A-1748.1, C-6298, C-6299, N-2*
 
-**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern
+**N-10456** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
 Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.
 
@@ -372,7 +372,7 @@ Investigative Pressure: Medium
 
 *Related: A-1747.1, A-1749.1, C-6290, C-6292, C-6291, C-6300, N-550, N-493*
 
-**N-10493** Pierre / French Donor Investigation
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 Unconfirmed French individual, alleged by host to have committed "billions" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.
 
@@ -381,9 +381,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High (host-flagged, unverified)
 
-*Related: N-2, N-10494*
+*Related: N-2, N-10457*
 
-**N-10494** Erika Kirk September 10 Morning Itinerary Discrepancy
+**N-10457** Erika Kirk September 10 Morning Itinerary Discrepancy
 
 Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.
 
@@ -394,7 +394,7 @@ Investigative Pressure: Medium
 
 *Related: A-1746.2, C-6284, N-2*
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
 Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding "taking Turning Point USA to the next level"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.
 
@@ -405,7 +405,7 @@ Investigative Pressure: Medium (host-flagged, unverified)
 
 *Related: N-1, N-2*
 
-**N-10496** Egyptian Planes Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Host-raised investigative target referencing "Egyptian planes" that allegedly departed Delaware; no artifact anchor in this episode.
 
@@ -414,7 +414,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (host-flagged, unverified)
 
-*Related: N-10494*
+*Related: N-10457*
 
 ---
 
@@ -569,7 +569,7 @@ Place of the dinner at which the host says Netanyahu made his offer.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Place; the host says it never answered her French Foreign Legion inquiry.
 
@@ -593,7 +593,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10122** Jezebel
+**N-10117** Jezebel
 
 Existing organization reused for the host's account of Charlie Kirk's fear.
 
@@ -601,7 +601,7 @@ Existing organization reused for the host's account of Charlie Kirk's fear.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -609,7 +609,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for the AmFest pay-to-play claim.
 
@@ -617,7 +617,7 @@ Existing topic reused for the AmFest pay-to-play claim.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Existing topic reused for new claims in this episode.
 
@@ -625,7 +625,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused for new claims in this episode.
 
@@ -633,7 +633,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10317** Pierre Falcone / Turning Point USA Connection Claim
+**N-10298** Pierre Falcone / Turning Point USA Connection Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -641,7 +641,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -657,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -665,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -673,7 +673,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -681,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing topic reused for new claims in this episode.
 
@@ -689,7 +689,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10483** Erika's Mother Medical Narrative
+**N-10449** Erika's Mother Medical Narrative
 
 Existing topic reused for new claims in this episode.
 
@@ -697,7 +697,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10510** TPUSA All-American Halftime Show Authenticity Question
+**N-10470** TPUSA All-American Halftime Show Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -705,7 +705,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10549** Egyptian Plane Transponding Correlation
+**N-10503** Egyptian Plane Transponding Correlation
 
 Existing topic reused for new claims in this episode.
 
@@ -721,15 +721,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10560** Tarmac Hug Timeline Reconciliation Question
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-6285, C-6286*
-
----
-
-**N-10806** Charlie Kirk Pre-Event Text Messages
+**N-10730** Charlie Kirk Pre-Event Text Messages
 
 Existing topic reused for new claims in this episode.
 
@@ -737,15 +729,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10816** Charlie Kirk September 9, 2025 Text Messages
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-6258, C-6259, C-6311*
-
----
-
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing topic reused for new claims in this episode.
 
@@ -753,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11038** Shaffer Security
+**N-10956** Shaffer Security
 
 Existing organization; the host's 'Shaffer security' in the transcript.
 
@@ -769,7 +753,7 @@ Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Ta
 
 ---
 
-**N-11184** Candace Owens 2019 TPUSA Resignation Account
+**N-11100** Candace Owens 2019 TPUSA Resignation Account
 
 Node Type: Topic
 The host's account of her May 2019 resignation as TPUSA communications director and her stated reason, that Charlie Kirk lied to her about money.
@@ -778,7 +762,7 @@ The host's account of her May 2019 resignation as TPUSA communications director 
 
 ---
 
-**N-11185** Charlie Kirk Mar-a-Lago Fundraising Meeting Concealment
+**N-11101** Charlie Kirk Mar-a-Lago Fundraising Meeting Concealment
 
 Node Type: Topic
 The host's account of a fundraising lunch between Charlie Kirk and 'Ike' at Mar-a-Lago that she says he concealed from her and then denied in an elevator.
@@ -787,7 +771,7 @@ The host's account of a fundraising lunch between Charlie Kirk and 'Ike' at Mar-
 
 ---
 
-**N-11186** Angolagate
+**N-11102** Angolagate
 
 Node Type: Topic
 The arms-sales affair the host connects to Pierre Falcone when guessing the identity of the donor Pierre.
@@ -846,7 +830,7 @@ Claim: In a clip the host plays from the Jesse Watters interview, Erika Kirk say
 
 Anchored Artifacts: A-1746.2
 Mentions: N-2, N-211
-Related Nodes: N-10494
+Related Nodes: N-10457
 Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.
 
 **C-6288** Aubrey Laitsch publicly identified herself as former TPUSA PR manager, recently terminated
@@ -867,7 +851,7 @@ Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew 
 
 Anchored Artifacts: A-1747.1
 Mentions: N-493, N-550, N-14
-Related Nodes: N-10492
+Related Nodes: N-10456
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
 **C-6292** Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent
@@ -878,7 +862,7 @@ Claim: Aubrey Laitsch's video states her personal belief that she was terminated
 
 Anchored Artifacts: A-1747.1
 Mentions: N-550, N-1
-Related Nodes: N-10492
+Related Nodes: N-10456
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Laitsch's stated belief; seek additional former-employee testimony.
 
 **C-6291** Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting
@@ -918,7 +902,7 @@ Claim Timestamp: 00:35:13–00:36:03
 Claim: The host describes an active GoFundMe campaign titled "Purge Fallout Fund" which she believes supports eight former Turning Point USA employees who were terminated without explanation after working through America Fest.
 
 Anchored Artifacts: A-1749.1
-Related Nodes: N-10492
+Related Nodes: N-10456
 Investigative Direction: Verify the GoFundMe campaign directly; identify the eight named beneficiaries; confirm termination circumstances for each.
 
 ---
@@ -963,7 +947,7 @@ Transcript Snippet: A few months later on May 1st, the public was informed that 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10000, N-11184
+Related Nodes: N-10000, N-11100
 Tags: relevance:context
 Investigative Direction: Compare the host's announced departure date and wording with contemporaneous TPUSA and press statements about her resignation.
 
@@ -979,7 +963,7 @@ Transcript Snippet: Charlie and I had a disagreement uh which fractured my trust
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-27
-Related Nodes: N-11184, N-10004
+Related Nodes: N-11100, N-10004
 Tags: relevance:context
 Investigative Direction: Look for contemporaneous press accounts of the host's 2019 departure and any messages or witnesses to the money disagreement.
 
@@ -995,7 +979,7 @@ Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Perlmut
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-733
-Related Nodes: N-11185
+Related Nodes: N-11101
 Tags: relevance:context
 Investigative Direction: Ike Perlmutter is confirmed by the HappyScribe transcript of Candace Ep 303 (00:04:58, "a meeting down in Florida with Ike Perlmutter at Mar-a-Lago"). Check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.
 
@@ -1011,7 +995,7 @@ Transcript Snippet: Because you had you had lunch with him yesterday at Mar-a-La
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-733
-Related Nodes: N-11185
+Related Nodes: N-11101
 Tags: relevance:context
 Investigative Direction: Seek corroboration (calendar entries, photos, staff) of the Mar-a-Lago lunch and of the elevator exchange; only the host and Charlie Kirk were present.
 
@@ -1043,7 +1027,7 @@ Transcript Snippet: I also warned him about Shaffer security and Dan Flood. You 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-270, N-2
-Related Nodes: N-11038, N-10806
+Related Nodes: N-10956, N-10730
 Tags: relevance:core
 Investigative Direction: Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Shaffer Security.
 
@@ -1121,7 +1105,7 @@ Transcript Snippet: maybe it's also because you have his phone. And when I revea
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10806, N-10816
+Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Establish custody of Charlie Kirk's phone after September 10 and whether the messages the host showed earlier match the device's records.
 
@@ -1137,7 +1121,7 @@ Transcript Snippet: the ones that I haven't yet revealed to the public, because 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10806, N-10816
+Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: The host has not released these messages; ask her team to publish them or have a forensic examiner verify their metadata.
 
@@ -1153,7 +1137,7 @@ Transcript Snippet: Didn't make him call a priest to pray over him. He thought s
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10122, N-10117, N-10806
+Related Nodes: N-10117, N-10113, N-10730
 Tags: relevance:core
 Investigative Direction: Identify the priest and the dates of any call, and obtain the written messages in which Charlie Kirk expressed fear of being killed.
 
@@ -1169,7 +1153,7 @@ Transcript Snippet: We spoke about the fact that we could both astral project.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10422
+Related Nodes: N-10395
 Tags: relevance:tangential
 Investigative Direction: No documentary record is offered; this is the host's recollection of private conversations.
 
@@ -1200,7 +1184,7 @@ Transcript Snippet: I also thought what was interesting is that you said the nex
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10905
+Related Nodes: N-10826
 Tags: relevance:core
 Investigative Direction: Locate the interview (the host's source for the wedding band detail is not named) and confirm Erika Kirk's exact words.
 
@@ -1216,7 +1200,7 @@ Transcript Snippet: I now have verifiable proof in writing that Justin Streiff a
 
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-15, N-2
-Related Nodes: N-10493
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Obtain the written exchange in which Streiff denied knowing Pierre and the document the host says contradicts it.
 
@@ -1232,7 +1216,7 @@ Transcript Snippet: You've personally met with Pierre. Um, Erika, you've met wit
 
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-15, N-2, N-1
-Related Nodes: N-10493
+Related Nodes: N-10280
 Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Seek calendars, travel or visitor records showing a meeting between Erika Kirk or Streiff and a donor named Pierre after September 10.
@@ -1249,7 +1233,7 @@ Transcript Snippet: there was a deal on the table with Pierre who yes is from Fr
 
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-1
-Related Nodes: N-10493, N-10317
+Related Nodes: N-10280, N-10298
 Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Obtain the host's documents on the deal; confirm Pierre's identity and compare with TPUSA donor and pledge records.
@@ -1266,7 +1250,7 @@ Transcript Snippet: Pierre had a phone call with Justin Streiff. He also had a p
 
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-15, N-801
-Related Nodes: N-10493, N-10000
+Related Nodes: N-10280, N-10000
 Tags: relevance:core
 Investigative Direction: Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.
 
@@ -1282,7 +1266,7 @@ Transcript Snippet: he knew that Charlie was dead before the rest of the world d
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10493
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Establish when Pierre first learned of the shooting (call logs, messages) and whether he had given to TPUSA before September 10.
 
@@ -1298,7 +1282,7 @@ Transcript Snippet: I uh I know that after Charlie died, that deal went through.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10493
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Check TPUSA financial statements and donor disclosures for large gifts received after September 2025.
 
@@ -1314,7 +1298,7 @@ Transcript Snippet: this might be the reason that the White House never got back
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10290, N-10316, N-10493, N-10075
+Related Nodes: N-10272, N-10297, N-10280, N-10072
 Tags: relevance:core
 Investigative Direction: Obtain the host's inquiry to the White House and any response; compare with her earlier French Foreign Legion claims.
 
@@ -1330,7 +1314,7 @@ Transcript Snippet: My best guess is that it was Pierre Falcone all along of Ang
 
 Anchored Artifacts: 
 Mentions: N-3, N-312
-Related Nodes: N-11186, N-10317, N-10026
+Related Nodes: N-11102, N-10298, N-10026
 Supports: C-4550
 Tags: relevance:core
 Investigative Direction: Verify whether Pierre Falcone had any contact with TPUSA officials after September 10; the host offers only a guess here.
@@ -1347,7 +1331,7 @@ Transcript Snippet: you were lying to cover BB Netanyahu's tracks.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36
-Related Nodes: N-10496, N-10342
+Related Nodes: N-10239, N-10320
 Tags: relevance:core
 Investigative Direction: Identify which of Erika Kirk's statements the host says were false and what evidence ties them to Netanyahu.
 
@@ -1363,7 +1347,7 @@ Transcript Snippet: Andrew told me that BB offered to take Turning Point USA to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36, N-1, N-2
-Related Nodes: N-10495, N-10342, N-10027, N-10446
+Related Nodes: N-10458, N-10320, N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Seek attendee lists, photos or staff accounts of the Hamptons dinner and Kolvet's own statements about the offer.
 
@@ -1395,7 +1379,7 @@ Transcript Snippet: the dinner that you thereafter allowed an army of influencer
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10027, N-10446
+Related Nodes: N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Collect the influencer posts denying the Hamptons dinner and compare them with any attendee records.
 
@@ -1427,7 +1411,7 @@ Transcript Snippet: Charlie didn't want to have him on the podcast according to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1, N-36
-Related Nodes: N-10456
+Related Nodes: N-10425
 Tags: relevance:core
 Investigative Direction: Ask Kolvet or show staff to confirm whether a Netanyahu appearance was requested and declined.
 
@@ -1459,7 +1443,7 @@ Transcript Snippet: I think France and Israel are involved in Charlie Kirk's ass
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10026, N-10316, N-10493
+Related Nodes: N-10026, N-10297, N-10280
 Tags: relevance:core
 Investigative Direction: This is the host's inference; no evidence is shown. Test by seeking the documents she says she holds on Pierre and the Netanyahu offer.
 
@@ -1475,7 +1459,7 @@ Transcript Snippet: very strong evidence which suggests that you lied about your
 
 Anchored Artifacts: A-2932.1
 Mentions: N-3, N-2
-Related Nodes: N-10494
+Related Nodes: N-10457
 Tags: relevance:core
 Investigative Direction: Obtain the evidence the host says contradicts Erika Kirk's account and compare with flight, phone and appointment records.
 
@@ -1491,7 +1475,7 @@ Transcript Snippet: You said that you were accompanying your mother as she was r
 
 Anchored Artifacts: A-2932.1
 Mentions: N-3, N-2
-Related Nodes: N-10494, N-10483
+Related Nodes: N-10457, N-10449
 Tags: relevance:core
 Investigative Direction: Find where Erika Kirk made the statement about her mother's treatment and the treatment's date and location.
 
@@ -1507,7 +1491,7 @@ Transcript Snippet: Andrew told me that when he deplaned, you guys embraced on t
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Supports: C-5410
 Tags: relevance:core
 Investigative Direction: Compare with Kolvet's public statements and airport or aircraft records for arrival times on the tarmac.
@@ -1524,7 +1508,7 @@ Transcript Snippet: which you confirmed to me which plane he was on and which pl
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Pull tail numbers and landing and wheels-down times for both flights to Provo on September 10 and test the one-hour gap.
 
@@ -1540,7 +1524,7 @@ Transcript Snippet: Who took off of Delaware? Who stayed behind to uh communicat
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10496, N-10549
+Related Nodes: N-10239, N-10503
 Tags: relevance:core
 Investigative Direction: Examine ADS-B and transponder logs for the Egyptian aircraft around September 10, 2025 and the Delaware departure the host mentions.
 
@@ -1588,7 +1572,7 @@ Transcript Snippet: I think in the end there when she says that this was actuall
 
 Anchored Artifacts: A-1747.1
 Mentions: N-3, N-550, N-2
-Related Nodes: N-10492
+Related Nodes: N-10456
 Tags: relevance:core
 Investigative Direction: Collect accounts from other fired employees about the stated and unstated reasons for their dismissals.
 
@@ -1604,7 +1588,7 @@ Transcript Snippet: Why is Ben pressing Megyn Kelly pretending that he he cares 
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-46, N-1
-Related Nodes: N-10026, N-10386
+Related Nodes: N-10026, N-10359
 Tags: relevance:context
 Investigative Direction: This is the host's inference from Shapiro's public conduct; identify the Shapiro and Kelly exchange she refers to.
 
@@ -1620,7 +1604,7 @@ Transcript Snippet: it just seemed like a a paytoplay is what Amfest looked like
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10026, N-10268
+Related Nodes: N-10026, N-10252
 Tags: relevance:context
 Investigative Direction: Obtain AmFest sponsor, speaker-fee and ticketing records to test whether any foreign-linked payments were made.
 
@@ -1652,7 +1636,7 @@ Transcript Snippet: If you know something, more tips at candace oowens. com.
 
 Anchored Artifacts: A-2930.1
 Mentions: N-3
-Related Nodes: N-10493
+Related Nodes: N-10280
 Tags: relevance:core
 Investigative Direction: Follow up on tips received about the donor Pierre and verify identity and residence.
 
@@ -1684,7 +1668,7 @@ Transcript Snippet: Erika and Justin Streiff know exactly who Pierre is. Justin 
 
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-2, N-15
-Related Nodes: N-10493
+Related Nodes: N-10280
 Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Same as the earlier Pierre claims: obtain the written proof and records of meetings.
@@ -1764,7 +1748,7 @@ Transcript Snippet: they also then fired her fiance. So their entire uh income i
 
 Anchored Artifacts: A-1747.1
 Mentions: N-3, N-550
-Related Nodes: N-10492
+Related Nodes: N-10456
 Tags: relevance:core
 Investigative Direction: Confirm the fiance's employment and dismissal with Laitsch or TPUSA records.
 
@@ -1780,7 +1764,7 @@ Transcript Snippet: an organization that made $250 million in a couple of months
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10492
+Related Nodes: N-10000, N-10456
 Tags: relevance:context
 Investigative Direction: Compare with TPUSA's reported post-assassination fundraising totals.
 
@@ -1796,7 +1780,7 @@ Transcript Snippet: Those messages were sent on iMessage.
 
 Anchored Artifacts: A-2933.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10806, N-10816
+Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: A forensic examination of the iMessage database on Charlie Kirk's phone and the recipients' devices would show whether the messages existed and were deleted.
 
@@ -1812,7 +1796,7 @@ Transcript Snippet: Dan Flood and Andrew Kolvet would have told her that.
 
 Anchored Artifacts: A-2933.1
 Mentions: N-3, N-270, N-14, N-2
-Related Nodes: N-10340, N-10806
+Related Nodes: N-10318, N-10730
 Tags: relevance:core
 Investigative Direction: Ask Flood and Kolvet whether they received the text and whether they informed Erika Kirk.
 
@@ -1828,7 +1812,7 @@ Transcript Snippet: I forgot they made the announcement about that halftime show
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10510, N-10000
+Related Nodes: N-10470, N-10000
 Tags: relevance:context
 Investigative Direction: Check TPUSA's announcement and the dates of the alternative halftime show.
 

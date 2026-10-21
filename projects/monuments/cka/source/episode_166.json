@@ -19,8 +19,8 @@
     "- **Model Version**: claude-manual-extract-seq166",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (catchup-2026-10-19): N-965, N-966, N-967, N-968, N-11434, N-11435, N-11436, N-11437, N-11438, N-11439, N-11440, N-11441, N-11442, N-11443, N-11444",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-591, N-897, N-955, N-957, N-960, N-961, N-10000, N-10012, N-10013, N-10062, N-10074, N-10388, N-10434, N-10533, N-10827, N-10874, N-10925, N-11313",
+    "  - Tip-minted Nodes (catchup-2026-10-19): N-965, N-966, N-967, N-968, N-11348, N-11349, N-11350, N-11351, N-11352, N-11353, N-11354, N-11355",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-591, N-897, N-955, N-957, N-960, N-961, N-10000, N-10012, N-10013, N-10059, N-10071, N-10361, N-10404, N-10488, N-10750, N-10795, N-10846, N-11229",
     "  - Claim Range: C-14306–C-14397",
     "  - (see registers)",
     "",
@@ -81,7 +81,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14309, N-41, N-11437*"
+     "raw": "*Related: C-14309, N-41, N-11342*"
     },
     {
      "raw": ""
@@ -117,7 +117,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14342, N-965, N-11439*"
+     "raw": "*Related: C-14342, N-965, N-11350*"
     },
     {
      "raw": ""
@@ -189,7 +189,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14397, N-10874*"
+     "raw": "*Related: C-14397, N-10795*"
     },
     {
      "raw": ""
@@ -242,7 +242,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14310, C-14311, C-14324, C-14325, C-14326, C-14328, N-41, N-11437*"
+     "raw": "*Related: C-14310, C-14311, C-14324, C-14325, C-14326, C-14328, N-41, N-11342*"
     },
     {
      "raw": ""
@@ -278,7 +278,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14327, N-41, N-11437*"
+     "raw": "*Related: C-14327, N-41, N-11342*"
     },
     {
      "raw": ""
@@ -338,7 +338,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14313, C-14314, N-957, N-2, N-10074*"
+     "raw": "*Related: C-14313, C-14314, N-957, N-2, N-10071*"
     },
     {
      "raw": ""
@@ -458,7 +458,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-965, N-966, N-11439, N-11440, N-10013*"
+     "raw": "*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-965, N-966, N-11350, N-11351, N-10013*"
     },
     {
      "raw": ""
@@ -501,7 +501,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14343, C-14344, N-11439, N-10533*"
+     "raw": "*Related: C-14343, C-14344, N-11350, N-10488*"
     },
     {
      "raw": ""
@@ -561,7 +561,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14355, C-14356, C-14357, C-14358, N-11436, N-10827, N-10925*"
+     "raw": "*Related: C-14355, C-14356, C-14357, C-14358, N-11349, N-10750, N-10846*"
     },
     {
      "raw": ""
@@ -604,7 +604,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14355, C-14360, N-11, N-11436, N-10827*"
+     "raw": "*Related: C-14355, C-14360, N-11, N-11349, N-10750*"
     },
     {
      "raw": ""
@@ -664,7 +664,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14308, C-14351, C-14361, N-11435, N-10925*"
+     "raw": "*Related: C-14308, C-14351, C-14361, N-11348, N-10846*"
     },
     {
      "raw": ""
@@ -724,7 +724,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14369, C-14370, N-960, N-11434*"
+     "raw": "*Related: C-14369, C-14370, N-960, N-11340*"
     },
     {
      "raw": ""
@@ -760,7 +760,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-960, N-95, N-11434, N-11441, N-11442*"
+     "raw": "*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-960, N-95, N-11340, N-11352, N-11353*"
     },
     {
      "raw": ""
@@ -820,7 +820,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14380, N-1, N-11443*"
+     "raw": "*Related: C-14380, N-1, N-11354*"
     },
     {
      "raw": ""
@@ -873,7 +873,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14382, C-14383, C-14384, N-5, N-968, N-11443*"
+     "raw": "*Related: C-14382, C-14383, C-14384, N-5, N-968, N-11354*"
     },
     {
      "raw": ""
@@ -933,7 +933,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-14386, N-2, N-1, N-11444*"
+     "raw": "*Related: C-14386, N-2, N-1, N-11355*"
     },
     {
      "raw": ""
@@ -1504,8 +1504,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10062",
-   "header": "**N-10062** Orem, Utah",
+   "id": "N-10059",
+   "header": "**N-10059** Orem, Utah",
    "label": "Orem, Utah",
    "lines": [
     {
@@ -1527,8 +1527,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -1550,8 +1550,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10388",
-   "header": "**N-10388** Missing Money from Turning Point Action",
+   "id": "N-10361",
+   "header": "**N-10361** Missing Money from Turning Point Action",
    "label": "Missing Money from Turning Point Action",
    "lines": [
     {
@@ -1573,8 +1573,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10434",
-   "header": "**N-10434** Charlie Kirk DOGE Pre-Death Establishment",
+   "id": "N-10404",
+   "header": "**N-10404** Charlie Kirk DOGE Pre-Death Establishment",
    "label": "Charlie Kirk DOGE Pre-Death Establishment",
    "lines": [
     {
@@ -1596,8 +1596,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10533",
-   "header": "**N-10533** Club America High School Pushback",
+   "id": "N-10488",
+   "header": "**N-10488** Club America High School Pushback",
    "label": "Club America High School Pushback",
    "lines": [
     {
@@ -1619,8 +1619,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10827",
-   "header": "**N-10827** Statue Vandalism Investigation",
+   "id": "N-10750",
+   "header": "**N-10750** Statue Vandalism Investigation",
    "label": "Statue Vandalism Investigation",
    "lines": [
     {
@@ -1642,8 +1642,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10874",
-   "header": "**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction",
+   "id": "N-10795",
+   "header": "**N-10795** UVU Independent Review Unnamed Fire Captain CPR Redaction",
    "label": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
    "lines": [
     {
@@ -1665,8 +1665,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10925",
-   "header": "**N-10925** Turning Point Action",
+   "id": "N-10846",
+   "header": "**N-10846** Turning Point Action",
    "label": "Turning Point Action",
    "lines": [
     {
@@ -1688,8 +1688,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11313",
-   "header": "**N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting",
+   "id": "N-11229",
+   "header": "**N-11229** Candace Owens Leave and Baron Coleman Substitute Hosting",
    "label": "Candace Owens Leave and Baron Coleman Substitute Hosting",
    "lines": [
     {
@@ -1911,8 +1911,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11434",
-   "header": "**N-11434** Katie Zacharia Lawyer Credential Question",
+   "id": "N-11340",
+   "header": "**N-11340** Katie Zacharia Lawyer Credential Question",
    "label": "Katie Zacharia Lawyer Credential Question",
    "lines": [
     {
@@ -1938,8 +1938,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11435",
-   "header": "**N-11435** Turning Point Action Funds Depletion Email",
+   "id": "N-11348",
+   "header": "**N-11348** Turning Point Action Funds Depletion Email",
    "label": "Turning Point Action Funds Depletion Email",
    "lines": [
     {
@@ -1965,8 +1965,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11436",
-   "header": "**N-11436** Commit 100 Ballot-Chasing Program",
+   "id": "N-11349",
+   "header": "**N-11349** Commit 100 Ballot-Chasing Program",
    "label": "Commit 100 Ballot-Chasing Program",
    "lines": [
     {
@@ -1992,8 +1992,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11437",
-   "header": "**N-11437** Governor Cox September 9–10, 2025 Schedule",
+   "id": "N-11342",
+   "header": "**N-11342** Governor Cox September 9–10, 2025 Schedule",
    "label": "Governor Cox September 9–10, 2025 Schedule",
    "lines": [
     {
@@ -2019,9 +2019,9 @@
   },
   {
    "kind": "node",
-   "id": "N-11438",
-   "header": "**N-11438** Tyler Clancy Bloodied Bag Disposal",
-   "label": "Tyler Clancy Bloodied Bag Disposal",
+   "id": "N-11339",
+   "header": "**N-11339** Tyler Clancy Bloodied Bag Disposal Allegation",
+   "label": "Tyler Clancy Bloodied Bag Disposal Allegation",
    "lines": [
     {
      "raw": ""
@@ -2046,8 +2046,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11439",
-   "header": "**N-11439** Taylor Dodd Arrest and Club America Affiliation Scrub",
+   "id": "N-11350",
+   "header": "**N-11350** Taylor Dodd Arrest and Club America Affiliation Scrub",
    "label": "Taylor Dodd Arrest and Club America Affiliation Scrub",
    "lines": [
     {
@@ -2073,8 +2073,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11440",
-   "header": "**N-11440** Bonners Ferry Herald",
+   "id": "N-11351",
+   "header": "**N-11351** Bonners Ferry Herald",
    "label": "Bonners Ferry Herald",
    "lines": [
     {
@@ -2100,8 +2100,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11441",
-   "header": "**N-11441** Pepperdine University",
+   "id": "N-11352",
+   "header": "**N-11352** Pepperdine University",
    "label": "Pepperdine University",
    "lines": [
     {
@@ -2127,8 +2127,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11442",
-   "header": "**N-11442** Jun He Law Firm",
+   "id": "N-11353",
+   "header": "**N-11353** Jun He Law Firm",
    "label": "Jun He Law Firm",
    "lines": [
     {
@@ -2154,8 +2154,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11443",
-   "header": "**N-11443** Fort Hood Shooter Execution Livestream Question",
+   "id": "N-11354",
+   "header": "**N-11354** Fort Hood Shooter Execution Livestream Question",
    "label": "Fort Hood Shooter Execution Livestream Question",
    "lines": [
     {
@@ -2181,8 +2181,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11444",
-   "header": "**N-11444** TPUSA AI Charlie and Never-Before-Seen Speeches Question",
+   "id": "N-11355",
+   "header": "**N-11355** TPUSA AI Charlie and Never-Before-Seen Speeches Question",
    "label": "TPUSA AI Charlie and Never-Before-Seen Speeches Question",
    "lines": [
     {
@@ -2260,7 +2260,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -2323,7 +2323,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11439"
+     "v": "N-10000, N-11350"
     },
     {
      "k": "Tags",
@@ -2385,7 +2385,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925, N-11435, N-11436"
+     "v": "N-10846, N-11348, N-11349"
     },
     {
      "k": "Tags",
@@ -2446,7 +2446,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -2507,7 +2507,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -2568,7 +2568,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -2691,7 +2691,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10074"
+     "v": "N-10071"
     },
     {
      "k": "Tags",
@@ -2815,7 +2815,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438, N-10000"
+     "v": "N-11339, N-10000"
     },
     {
      "k": "Tags",
@@ -2877,7 +2877,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -2939,7 +2939,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -3001,7 +3001,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -3063,7 +3063,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -3381,7 +3381,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3442,7 +3442,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3503,7 +3503,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3564,7 +3564,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3625,7 +3625,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3687,7 +3687,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3749,7 +3749,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11437"
+     "v": "N-11342"
     },
     {
      "k": "Tags",
@@ -3874,7 +3874,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10533"
+     "v": "N-10000, N-10488"
     },
     {
      "k": "Tags",
@@ -3936,7 +3936,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439, N-10533"
+     "v": "N-11350, N-10488"
     },
     {
      "k": "Tags",
@@ -3997,7 +3997,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439, N-11440"
+     "v": "N-11350, N-11351"
     },
     {
      "k": "Tags",
@@ -4058,7 +4058,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439, N-11440, N-10013"
+     "v": "N-11350, N-11351, N-10013"
     },
     {
      "k": "Tags",
@@ -4119,7 +4119,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439"
+     "v": "N-11350"
     },
     {
      "k": "Tags",
@@ -4180,7 +4180,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439"
+     "v": "N-11350"
     },
     {
      "k": "Tags",
@@ -4241,7 +4241,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439"
+     "v": "N-11350"
     },
     {
      "k": "Tags",
@@ -4302,7 +4302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439"
+     "v": "N-11350"
     },
     {
      "k": "Tags",
@@ -4363,7 +4363,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439"
+     "v": "N-11350"
     },
     {
      "k": "Tags",
@@ -4425,7 +4425,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11439"
+     "v": "N-10000, N-11350"
     },
     {
      "k": "Tags",
@@ -4486,7 +4486,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439, N-10000"
+     "v": "N-11350, N-10000"
     },
     {
      "k": "Tags",
@@ -4548,7 +4548,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439, N-10000"
+     "v": "N-11350, N-10000"
     },
     {
      "k": "Tags",
@@ -4610,7 +4610,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11439, N-10533"
+     "v": "N-11350, N-10488"
     },
     {
      "k": "Tags",
@@ -4672,7 +4672,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925"
+     "v": "N-10846"
     },
     {
      "k": "Tags",
@@ -4734,7 +4734,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925"
+     "v": "N-10846"
     },
     {
      "k": "Supports",
@@ -4800,7 +4800,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10434, N-10388, N-10925"
+     "v": "N-10404, N-10361, N-10846"
     },
     {
      "k": "Supports",
@@ -4866,7 +4866,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10388"
+     "v": "N-10361"
     },
     {
      "k": "Supports",
@@ -4932,7 +4932,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10388"
+     "v": "N-10361"
     },
     {
      "k": "Tags",
@@ -4994,7 +4994,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925"
+     "v": "N-10846"
     },
     {
      "k": "Tags",
@@ -5056,7 +5056,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925, N-11435"
+     "v": "N-10846, N-11348"
     },
     {
      "k": "Tags",
@@ -5118,7 +5118,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827"
+     "v": "N-10750"
     },
     {
      "k": "Tags",
@@ -5181,7 +5181,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827, N-10000"
+     "v": "N-10750, N-10000"
     },
     {
      "k": "Supports",
@@ -5248,7 +5248,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827, N-10000"
+     "v": "N-10750, N-10000"
     },
     {
      "k": "Tags",
@@ -5310,7 +5310,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827, N-10925, N-11436"
+     "v": "N-10750, N-10846, N-11349"
     },
     {
      "k": "Tags",
@@ -5371,7 +5371,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10925, N-11436, N-10827"
+     "v": "N-10000, N-10846, N-11349, N-10750"
     },
     {
      "k": "Tags",
@@ -5433,7 +5433,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11436, N-10827"
+     "v": "N-11349, N-10750"
     },
     {
      "k": "Supports",
@@ -5498,7 +5498,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827"
+     "v": "N-10750"
     },
     {
      "k": "Tags",
@@ -5561,7 +5561,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827"
+     "v": "N-10750"
     },
     {
      "k": "Tags",
@@ -5622,7 +5622,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11436, N-10827"
+     "v": "N-11349, N-10750"
     },
     {
      "k": "Supports",
@@ -5688,7 +5688,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925, N-11435"
+     "v": "N-10846, N-11348"
     },
     {
      "k": "Tags",
@@ -5750,7 +5750,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10388, N-10000, N-11435"
+     "v": "N-10361, N-10000, N-11348"
     },
     {
      "k": "Tags",
@@ -5812,7 +5812,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10827, N-10925"
+     "v": "N-10750, N-10846"
     },
     {
      "k": "Tags",
@@ -5874,7 +5874,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -5936,7 +5936,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -5998,7 +5998,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6060,7 +6060,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434, N-11441"
+     "v": "N-11340, N-11352"
     },
     {
      "k": "Tags",
@@ -6122,7 +6122,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6183,7 +6183,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6244,7 +6244,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6305,7 +6305,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434, N-11441"
+     "v": "N-11340, N-11352"
     },
     {
      "k": "Tags",
@@ -6366,7 +6366,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6427,7 +6427,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6488,7 +6488,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434, N-11442"
+     "v": "N-11340, N-11353"
     },
     {
      "k": "Tags",
@@ -6549,7 +6549,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434, N-11442"
+     "v": "N-11340, N-11353"
     },
     {
      "k": "Tags",
@@ -6610,7 +6610,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6672,7 +6672,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6734,7 +6734,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11434"
+     "v": "N-11340"
     },
     {
      "k": "Tags",
@@ -6796,7 +6796,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11443"
+     "v": "N-11354"
     },
     {
      "k": "Tags",
@@ -6857,7 +6857,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11443"
+     "v": "N-11354"
     },
     {
      "k": "Tags",
@@ -6981,7 +6981,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11443"
+     "v": "N-11354"
     },
     {
      "k": "Tags",
@@ -7042,7 +7042,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11443"
+     "v": "N-11354"
     },
     {
      "k": "Tags",
@@ -7103,7 +7103,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11443"
+     "v": "N-11354"
     },
     {
      "k": "Tags",
@@ -7165,7 +7165,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11313"
+     "v": "N-11229"
     },
     {
      "k": "Tags",
@@ -7226,7 +7226,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11444"
+     "v": "N-11355"
     },
     {
      "k": "Tags",
@@ -7288,7 +7288,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11444, N-10000"
+     "v": "N-11355, N-10000"
     },
     {
      "k": "Tags",
@@ -7416,7 +7416,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -7477,7 +7477,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11438"
+     "v": "N-11339"
     },
     {
      "k": "Tags",
@@ -7600,7 +7600,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Tags",
@@ -7661,7 +7661,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Supports",
@@ -7728,7 +7728,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874, N-10062, N-10074"
+     "v": "N-10795, N-10059, N-10071"
     },
     {
      "k": "Tags",
@@ -7790,7 +7790,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Supports",
@@ -7857,7 +7857,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Tags",
@@ -7918,7 +7918,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10874"
+     "v": "N-10795"
     },
     {
      "k": "Tags",
@@ -9068,7 +9068,7 @@
     "- MISTRANSCRIPTION: \"Karine Jean-Pierre\" -> \"Katie Zacharia\" (00:27:02, 00:27:35) source: https://abc30.com/story/white-house-press-secretary-katie-zacharia-says-she-did-not-pass-bar-exam/19943822/. Context (the new press secretary, Pepperdine, the bar exam) makes clear the subject is Zacharia. It is unconfirmed whether the captions erred or the host misspoke; if she misspoke, the claim prose keeps her words with [Katie Zacharia].",
     "- MISTRANSCRIPTION: \"Tyler Bowyer\" -> \"Tyler Bowyer\" (00:16:22, 00:17:27, 00:18:02, 00:18:32, 00:20:12, 00:21:48) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (matches N-11. Existing correction rule covers only \"Tyler Bowyer\").",
     "- MISTRANSCRIPTION: \"Mikey McCormick\" -> \"Mikey McCoy\" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (same proposition as C-13634, \"Mikey McCoy told people Charlie wanted to fire Tyler Bowyer\"). Medium confidence.",
-    "- MISTRANSCRIPTION: \"Osha\" -> \"DOGE\" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1005 (corpus: C-3462 Sept 2 DOGE email, N-10434 Charlie Kirk DOGE Pre-Death Establishment). Medium confidence.",
+    "- MISTRANSCRIPTION: \"Osha\" -> \"DOGE\" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1005 (corpus: C-3462 Sept 2 DOGE email, N-10404 Charlie Kirk DOGE Pre-Death Establishment). Medium confidence.",
     "- MISTRANSCRIPTION: \"Lori Frantzve\" -> \"Lori Frantzve\" (00:17:27, 00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1047 (N-489, Erika Kirk's mother).",
     "- MISTRANSCRIPTION: \"Justin's Tribe\" -> \"Justin Streiff\" (00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1082 (N-15).",
     "- MISTRANSCRIPTION: \"Frank and Bank\" -> \"Frank Turek\" (00:03:51) and \"Frank Church\" -> \"Frank Turek\" (00:05:43) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=231 (N-7). Medium confidence.",

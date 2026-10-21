@@ -788,8 +788,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "topic",
       "description": "Existing topic reused for the political pressure claim.",
@@ -805,8 +805,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10118",
-      "ref": "N-10118",
+      "@id": "N-10114",
+      "ref": "N-10114",
       "name": "Candace UK Premonition / Husband Meeting",
       "type": "topic",
       "description": "Existing topic reused for the unplanned London trip.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
       "type": "topic",
       "description": "Existing topic reused for Kirk's alleged dreams of his death.",
@@ -840,8 +840,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10415",
-      "ref": "N-10415",
+      "@id": "N-10388",
+      "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
       "type": "topic",
       "description": "Existing topic reused for the 2018 statements and the written choice.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10704",
-      "ref": "N-10704",
+      "@id": "N-10640",
+      "ref": "N-10640",
       "name": "Mossad \"Truman Show\" Analogy Application",
       "type": "topic",
       "description": "Existing topic reused for the Truman Show remark.",
@@ -875,8 +875,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
       "type": "topic",
       "description": "Existing topic reused for the sale of items in Kirk's name.",
@@ -893,8 +893,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11059",
-      "ref": "N-11059",
+      "@id": "N-10977",
+      "ref": "N-10977",
       "name": "Russian-Speaking Turning Point Network",
       "type": "topic",
       "description": "Existing topic reused for the Russian speakers at the memorial.",
@@ -1323,7 +1323,7 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -1434,7 +1434,7 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -1456,7 +1456,7 @@
         "A-2351.1"
       ],
       "related_nodes": [
-        "N-11059",
+        "N-10977",
         "N-10002"
       ],
       "tags": [
@@ -1681,8 +1681,8 @@
         "A-2351.3"
       ],
       "related_nodes": [
-        "N-10389",
-        "N-10415"
+        "N-10362",
+        "N-10388"
       ],
       "tags": [
         "relevance:core"
@@ -1757,7 +1757,7 @@
         "A-2351.3"
       ],
       "related_nodes": [
-        "N-10118"
+        "N-10114"
       ],
       "tags": [
         "relevance:context"
@@ -1822,8 +1822,8 @@
       ],
       "related_nodes": [
         "N-10026",
-        "N-10056",
-        "N-10704"
+        "N-10053",
+        "N-10640"
       ],
       "tags": [
         "relevance:core"
@@ -1913,7 +1913,7 @@
         "A-2351.4"
       ],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -1980,7 +1980,7 @@
         "A-2351.4"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [
         "relevance:core"

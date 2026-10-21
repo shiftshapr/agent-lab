@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq084
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep084): N-10582, N-10631
+  - Hole-minted Nodes (reintro-ep084): N-10577
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-594, N-595, N-596, N-10903, N-10904, N-10906
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-106, N-186, N-190, N-209, N-211, N-217, N-243, N-246, N-266, N-330, N-361, N-493, N-550, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587, N-597, N-10641, N-598
+  - Tip-minted Nodes (skeleton): N-594, N-595, N-596, N-10824, N-10825, N-10827
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-106, N-186, N-190, N-209, N-211, N-217, N-243, N-246, N-266, N-330, N-361, N-493, N-550, N-10000, N-10071, N-10104, N-10178, N-10195, N-10204, N-10342, N-10347, N-10351, N-10419, N-10445, N-10446, N-10449, N-10239, N-10106, N-10507, N-10502, N-10505, N-10826, N-10535, N-597, N-10586, N-598
   - Claim Range: C-7507–C-7556
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7509, C-7510, C-7511, N-595, N-2, N-10108, N-10074*
+*Related: C-7509, C-7510, C-7511, N-595, N-2, N-10104, N-10071*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:08:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: N-330, N-14, N-10554*
+*Related: N-330, N-14, N-10507*
 
 **A-2527.2** Baron Coleman flight-tracking clip and screen on the TPUSA-associated plane N582MM (Pierre–Chicago–Provo on September 10; Atlanta–Fort Huachuca–Kalispell on October 4)
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:33:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, N-330, N-246, N-10903*
+*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, N-330, N-246, N-10824*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:12:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7515, C-7522, C-7523, C-7524, C-7525, C-7526, C-7527, C-7528, C-7529, N-14, N-493, N-550, N-15, N-10547*
+*Related: C-7515, C-7522, C-7523, C-7524, C-7525, C-7526, C-7527, C-7528, C-7529, N-14, N-493, N-550, N-15, N-10507*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:18:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7532, C-7535, C-7536, C-7538, N-2, N-10905*
+*Related: C-7532, C-7535, C-7536, C-7538, N-2, N-10826*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:17:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7533, N-2, N-10479, N-10483*
+*Related: C-7533, N-2, N-10446, N-10449*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:47:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7554, N-30, N-10631*
+*Related: C-7554, N-30, N-10577*
 
 ---
 ## 4. Node Register
@@ -446,166 +446,154 @@ Organization whose September 10 movements, staff communications, cease and desis
 
 *Related: C-7507, C-7514, C-7520, C-7525, C-7526, C-7531, C-7543, A-2529.1, A-2534.1*
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Destination of the September 10 flights and site of the scanner-recorded airport pickup; Egyptian planes said to be back.
 
 *Related: C-7509, C-7546, C-7551, A-2525.1*
 
-**N-10108** Police Scanner Description
+**N-10104** Police Scanner Description
 
 The September 10 Provo scanner traffic on the airport pickup and hospital escort.
 
 *Related: C-7509, C-7529, A-2525.1*
 
-**N-10186** Plane 888 / Maxfield Plane Investigation
+**N-10178** Plane 888 / Maxfield Plane Investigation
 
 The host recalls the N888 flight shuttling to and from Page, Arizona.
 
 *Related: C-7524*
 
-**N-10203** Provo Airport Flight Anomaly Cluster
+**N-10195** Provo Airport Flight Anomaly Cluster
 
 The Page-to-Provo flight landing at 2:48 on September 10 is added to the cluster.
 
 *Related: C-7524*
 
-**N-10212** TPUSA Financial Irregularities Question
+**N-10204** TPUSA Financial Irregularities Question
 
 The Bessent letter on TPUSA's financial standing is cited.
 
 *Related: C-7543*
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's sighting is restated.
 
 *Related: C-7545*
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Mitch Snow's identification of Harpole is restated.
 
 *Related: C-7545*
 
-**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
+**N-10351** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Host alleges Kolvet fed podcasters information to attack the Fort Huachuca story.
 
 *Related: C-7544*
 
-**N-10450** Fort Huachuca PR Response Coordination Question
+**N-10419** Fort Huachuca PR Response Coordination Question
 
 The "some fort" response campaign is revisited.
 
 *Related: C-7544*
 
-**N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
+**N-10445** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 
 Host disputes the New York Times claim that Erika Kirk was in the hospital with her mother.
 
 *Related: C-7532, C-7534*
 
-**N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question
+**N-10446** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 
 Host dates the post of Erika Kirk's mother to September 8 and calls it manipulative.
 
 *Related: C-7533, A-2531.1*
 
-**N-10483** Erika's Mother Medical Narrative
+**N-10449** Erika's Mother Medical Narrative
 
 Host asserts the mother was not hospitalized September 8–10.
 
 *Related: C-7532, C-7533, C-7534, A-2531.1*
 
-**N-10496** Egyptian Planes Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Host says the Egyptian planes are back in Provo.
 
 *Related: C-7551*
 
-**N-10508** Tyler Robinson Evidence Sufficiency Question
+**N-10106** Tyler Robinson Evidence Gaps
 
 Host notes no plea or arraignment yet.
 
 *Related: C-7556*
 
-**N-10547** September 10 Plane Logistics Discrepancy
-
-The Santa Barbara–Scottsdale–Provo routing in the host's revised timeline.
-
-*Related: C-7515, C-7520, C-7522, C-7527, A-2528.1*
-
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Host relocates the hug from Provo to Scottsdale.
 
 *Related: C-7510, C-7512, C-7518, C-7520*
 
-**N-10551** Joe Kent Leak Accusation Chain
+**N-10505** Joe Kent Leak Accusation Chain
 
 Host says Kolvet blames Joe Kent although Kolvet shared the text widely.
 
 *Related: C-7552*
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Central thread: Kolvet's flight and what he knew while aboard.
 
 *Related: C-7511, C-7513, C-7514, C-7515, C-7516, C-7517, C-7518, C-7519, C-7522, C-7525, C-7527, C-7530, A-2527.1*
 
-**N-10560** Tarmac Hug Timeline Reconciliation Question
-
-The 3:30 scanner pickup time is set against the 4:30–4:40 tarmac account.
-
-*Related: C-7509, C-7510, C-7511, C-7512, C-7530*
-
-**N-10582** Erika Kirk September 10 Whereabouts Verification
+**N-10440** Erika Kirk September 10 Whereabouts Verification
 
 When and where Erika Kirk learned of the death and arrived at the hospital.
 
 *Related: C-7508, C-7523, C-7529, C-7535, C-7536, C-7537*
 
-**N-10587** Trump Truth Social Post Pattern Question
+**N-10535** Trump Truth Social Post Pattern Question
 
 The 2:40 Truth Social announcement as a timeline marker.
 
 *Related: C-7528*
 
-**N-10631** George Farmer / Tracy Robinson $6,987 Incident
+**N-10577** George Farmer / Tracy Robinson $6,987 Incident
 
 Online allegation about the host's husband and an insurance claim, which the host rebuts.
 
 *Related: C-7554, A-2536.1*
 
-**N-10641** Andrew Kolvet Text Message Full Context Verification
+**N-10586** Andrew Kolvet Text Message Full Context Verification
 
 How the night-before text came to circulate.
 
 *Related: C-7552*
 
-**N-10903** N582MM TPUSA-Associated Plane Flight Pattern
+**N-10824** N582MM TPUSA-Associated Plane Flight Pattern
 
 Node Type: Topic
 Investigation target: a plane with tail number N582MM, which Baron Coleman says a TPUSA insider described as frequently used by TPUSA. Per Coleman's tracking it flew Pierre–Chicago–Provo on September 10, 2025. It spent October 4 at Fort Huachuca after flying in from Atlanta, then went to Kalispell, Montana, the day before a Kalispell-to-Bozeman flight tied to the security team's Fairy Lake gathering. The host says it is plausibly attached to TPUSA's security apparatus.
 
 *Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, A-2527.2, N-330, N-246*
 
-**N-10904** Charlie Kirk Pilot "Jamie" Identification
+**N-10825** Charlie Kirk Pilot "Jamie" Identification
 
 Node Type: Topic
 Investigation target: the identity of Charlie Kirk's pilot, known to the host only as "Jamie" and possibly from Texas, whom the host considers a crucial unidentified witness to the September 10 flights.
 
 *Related: C-7521, N-596, N-1*
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Node Type: Topic
 Investigation target: the New York Times interview Erika Kirk gave shortly after the assassination. The host says it placed Erika in the hospital with her mother and stated Charlie was pronounced dead while she was airborne. She says it also gave a different account of his departure that morning. She argues these points conflict with Erika's later accounts and notes the article has never been corrected.
 
 *Related: C-7532, C-7535, C-7536, C-7538, A-2530.1, N-2*
 
-**N-10906** Frank Turek Schedule Change Tip
+**N-10827** Frank Turek Schedule Change Tip
 
 Node Type: Topic
 Investigation target: an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and was in Scottsdale with Charlie Kirk on September 8, 2025 despite saying he visits only once or twice a year.
@@ -624,7 +612,7 @@ Transcript Snippet: Baron Coleman has discovered and I have confirmed that there
 
 Anchored Artifacts: A-2527.2
 Mentions: N-330, N-3
-Related Nodes: N-10903, N-10000
+Related Nodes: N-10824, N-10000
 Investigative Direction: Obtain FAA/ADS-B track history for the aircraft later identified as N582MM and its registered owner or operator, and any charter records linking it to Turning Point USA.
 
 ---
@@ -640,7 +628,7 @@ Transcript Snippet: we could rely on Frank Turek's estimation that Erika arrived
 Anchored Artifacts: 
 
 Mentions: N-7, N-2, N-3
-Related Nodes: N-10582
+Related Nodes: N-10440
 Supports: C-7423
 Investigative Direction: Obtain Timpanogos Hospital entry logs, police escort records and Frank Turek's own account of when Erika Kirk arrived on September 10, 2025.
 
@@ -656,7 +644,7 @@ Transcript Snippet: Uh myself and Sergeant Dupey are uh in route to Provo Airpor
 
 Anchored Artifacts: A-2525.1
 Mentions: N-595, N-2
-Related Nodes: N-10108, N-10074, N-10560
+Related Nodes: N-10104, N-10071, N-10502
 Investigative Direction: Obtain the archived Provo Police Department radio traffic for September 10, 2025 and the dispatch/CAD log for the airport pickup, and confirm the identity of Sergeant Dupey.
 
 ---
@@ -671,7 +659,7 @@ Transcript Snippet: So basically we can conclusively confirm uh that Erika did n
 
 Anchored Artifacts: A-2525.1
 Mentions: N-2, N-14
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Investigative Direction: Compare Provo Airport FBO arrival logs and ADS-B landing times for September 10 against the police pickup time and Erika Kirk's public account of the tarmac hug.
 
 ---
@@ -686,7 +674,7 @@ Transcript Snippet: So this only makes sense if Andrew was aboard Charlie's plan
 
 Anchored Artifacts: A-2525.1
 Mentions: N-14, N-2, N-1
-Related Nodes: N-10554, N-10560
+Related Nodes: N-10507, N-10502
 Supports: C-7429
 Investigative Direction: Obtain the passenger manifest for Charlie Kirk's chartered aircraft on its September 10, 2025 Scottsdale-to-Provo leg.
 
@@ -703,7 +691,7 @@ Transcript Snippet: The tarmac hug obviously had to take place in Scottsdale. It
 Anchored Artifacts: 
 
 Mentions: N-14, N-2
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Investigative Direction: Seek Scottsdale Airport FBO security footage and staff testimony for the early afternoon of September 10, 2025.
 
 ---
@@ -718,7 +706,7 @@ Transcript Snippet: He said he was alone on the plane uh but he also said how he
 
 Anchored Artifacts: A-2526.2
 Mentions: N-14, N-3
-Related Nodes: N-10554
+Related Nodes: N-10507
 Investigative Direction: Obtain the full recording of the host's phone call with Andrew Kolvet and the charter manifest for the aircraft he flew on.
 
 ---
@@ -734,7 +722,7 @@ Transcript Snippet: Got about really about a 40-minute window where he did not k
 Anchored Artifacts: 
 
 Mentions: N-14, N-1
-Related Nodes: N-10554, N-10000
+Related Nodes: N-10507, N-10000
 Investigative Direction: Reconstruct internal TPUSA message timestamps on September 10, 2025 against the departure time of the Santa Barbara-to-Scottsdale flight.
 
 ---
@@ -749,7 +737,7 @@ Transcript Snippet: Andrew Kolvet was aboard this flight. I feel very confident 
 
 Anchored Artifacts: A-2528.1
 Mentions: N-14, N-1
-Related Nodes: N-10554, N-10547
+Related Nodes: N-10507
 Investigative Direction: Obtain the departure record and passenger manifest for the September 10, 2025 Santa Barbara-to-Scottsdale private flight.
 
 ---
@@ -764,7 +752,7 @@ Transcript Snippet: I messaged him at 12:40 Mountain Time, so a little under 20 
 
 Anchored Artifacts: A-2526.1
 Mentions: N-3, N-14, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Investigative Direction: Produce the original message thread with device timestamps.
 
 ---
@@ -779,7 +767,7 @@ Transcript Snippet: And then at 1:19 p. m. Utah time, Andrew said to me he has a
 
 Anchored Artifacts: A-2526.1
 Mentions: N-14, N-3, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Investigative Direction: Produce the original message with its device timestamp and compare with the plane's departure and Wi-Fi availability.
 
 ---
@@ -795,7 +783,7 @@ Transcript Snippet: Now Erika claims that he was on the flight that landed at 4:
 Anchored Artifacts: 
 
 Mentions: N-2, N-14, N-1
-Related Nodes: N-10548, N-10554
+Related Nodes: N-10502, N-10507
 Investigative Direction: Locate Erika Kirk's original statement on Kolvet's arrival and compare with Provo Airport arrival records for September 10, 2025.
 
 ---
@@ -810,7 +798,7 @@ Transcript Snippet: I want to say probably 30 or 40 minutes. Okay. So there was 
 
 Anchored Artifacts: A-2526.2
 Mentions: N-14, N-5, N-1
-Related Nodes: N-10554
+Related Nodes: N-10507
 Investigative Direction: Compare Kolvet's account with the timestamp of Trump's Truth Social post and TPUSA internal notification records.
 
 ---
@@ -826,7 +814,7 @@ Transcript Snippet: So what is much more likely is that they met at the Scottsda
 Anchored Artifacts: 
 
 Mentions: N-2, N-14, N-1
-Related Nodes: N-10548, N-10547, N-10000
+Related Nodes: N-10502, N-10507, N-10000
 Investigative Direction: Obtain Scottsdale Airport FBO visitor logs and footage for September 10, 2025 and the manifest of Charlie Kirk's chartered plane.
 
 ---
@@ -842,7 +830,7 @@ Transcript Snippet: I know that his first name is Jamie, but that's all I know. 
 Anchored Artifacts: 
 
 Mentions: N-596, N-1
-Related Nodes: N-10904
+Related Nodes: N-10825
 Investigative Direction: Identify the charter operator of Charlie Kirk's aircraft and its pilot roster for September 10, 2025.
 
 ---
@@ -857,7 +845,7 @@ Transcript Snippet: I'm putting this out as my theory that Andrew departed from 
 
 Anchored Artifacts: A-2528.1
 Mentions: N-14
-Related Nodes: N-10554, N-10547
+Related Nodes: N-10507
 Investigative Direction: Match the 1:03 departure against ADS-B data for Santa Barbara Airport departures on September 10, 2025.
 
 ---
@@ -872,7 +860,7 @@ Transcript Snippet: Erika told me, obviously, that she found out before like jus
 
 Anchored Artifacts: A-2528.1
 Mentions: N-2, N-3, N-1
-Related Nodes: N-10582
+Related Nodes: N-10440
 Investigative Direction: Compare the host's recollection of her meeting with Erika Kirk against Erika's public interviews and Scottsdale Airport timing.
 
 ---
@@ -886,7 +874,7 @@ Claim: The host says a flight departed Page, Arizona for Provo on September 10 (
 Transcript Snippet: there's this mysterious flight that I know nothing about uh but I think it's relevant. We saw it today that departs from Page, Arizona for Provo
 
 Anchored Artifacts: A-2528.1
-Related Nodes: N-10203, N-10186
+Related Nodes: N-10195, N-10178
 Supports: C-1676
 Investigative Direction: Obtain tail number, operator and manifest of the Page-to-Provo flight landing at 2:48 p.m. on September 10, 2025.
 
@@ -902,7 +890,7 @@ Transcript Snippet: Then we know that Marina Minas is going to ask Aubrey to dra
 
 Anchored Artifacts: A-2528.1
 Mentions: N-493, N-550, N-14
-Related Nodes: N-10554, N-10000
+Related Nodes: N-10507, N-10000
 Supports: C-7305
 Investigative Direction: Obtain the TPUSA PR group chat messages with timestamps from September 10, 2025.
 
@@ -933,7 +921,7 @@ Transcript Snippet: 2:31, Charlie's plane I believe with all of them on it depar
 
 Anchored Artifacts: A-2528.1
 Mentions: N-1
-Related Nodes: N-10547, N-10554
+Related Nodes: N-10507
 Investigative Direction: Obtain ADS-B departure data and manifest for Charlie Kirk's chartered aircraft leaving Scottsdale on September 10, 2025.
 
 ---
@@ -948,7 +936,7 @@ Transcript Snippet: Uh at 2:40, President Trump announces that Charlie has died 
 
 Anchored Artifacts: A-2528.1
 Mentions: N-5, N-1
-Related Nodes: N-10587
+Related Nodes: N-10535
 Investigative Direction: Confirm the archived timestamp of the Truth Social post.
 
 ---
@@ -963,7 +951,7 @@ Transcript Snippet: from the police scanner that Erika, Elizabeth, and Tyler, an
 
 Anchored Artifacts: A-2528.1
 Mentions: N-2, N-217, N-11, N-186, N-597
-Related Nodes: N-10108, N-10582
+Related Nodes: N-10104, N-10440
 Investigative Direction: Obtain the full scanner recording and police escort logs for the hospital transfer.
 
 ---
@@ -979,7 +967,7 @@ Transcript Snippet: I believe she then lands on that 4:36 plane from Santa Barba
 Anchored Artifacts: 
 
 Mentions: N-14, N-2, N-217, N-186, N-597, N-11
-Related Nodes: N-10554, N-10560
+Related Nodes: N-10507, N-10502
 Investigative Direction: Obtain the 4:36 Santa Barbara-to-Provo flight manifest and hospital entrance footage or visitor logs.
 
 ---
@@ -1009,7 +997,7 @@ Transcript Snippet: Little things like when they say Erika was in the hospital w
 
 Anchored Artifacts: A-2530.1
 Mentions: N-2
-Related Nodes: N-10905, N-10483, N-10478
+Related Nodes: N-10826, N-10449, N-10445
 Supports: C-6106
 Investigative Direction: Retrieve the published New York Times article and any correction history.
 
@@ -1025,7 +1013,7 @@ Transcript Snippet: That was the purpose, I believe, of her posting on September
 
 Anchored Artifacts: A-2531.1
 Mentions: N-2
-Related Nodes: N-10479, N-10483
+Related Nodes: N-10446, N-10449
 Supports: C-6105
 Investigative Direction: Archive Erika Kirk's Instagram post history to confirm the exact date of the post and the date of the prior post featuring her mother.
 
@@ -1042,7 +1030,7 @@ Transcript Snippet: Erika's mother was not in [clears throat] the hospital on Se
 Anchored Artifacts: 
 
 Mentions: N-2
-Related Nodes: N-10483, N-10478
+Related Nodes: N-10449, N-10445
 Investigative Direction: Identify the treatment facility referenced and seek records or witness confirmation of the mother's location on September 8–10, 2025.
 
 ---
@@ -1057,7 +1045,7 @@ Transcript Snippet: It says Mr. Kirk's chartered plane traveled back to Scottsda
 
 Anchored Artifacts: A-2530.1
 Mentions: N-1, N-2
-Related Nodes: N-10905, N-10582
+Related Nodes: N-10826, N-10440
 Investigative Direction: Contact the New York Times reporter for interview notes and check the article's correction log.
 
 ---
@@ -1072,7 +1060,7 @@ Transcript Snippet: It's not even what Erika told me to my face. She said which 
 
 Anchored Artifacts: A-2530.1
 Mentions: N-2, N-3, N-217
-Related Nodes: N-10905, N-10582
+Related Nodes: N-10826, N-10440
 Investigative Direction: Reconcile the New York Times article, Elizabeth McCoy's statements and the host's account of her meeting with Erika Kirk.
 
 ---
@@ -1087,7 +1075,7 @@ Transcript Snippet: No one teaches you how to comfort a a woman on a plane who o
 
 Anchored Artifacts: A-2532.1
 Mentions: N-217, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Investigative Direction: Archive the original Instagram post with its date and any later edits.
 
 ---
@@ -1102,7 +1090,7 @@ Transcript Snippet: She also slightly adjusts in the New York Times article when
 
 Anchored Artifacts: A-2530.1
 Mentions: N-2, N-211, N-1
-Related Nodes: N-10905
+Related Nodes: N-10826
 Investigative Direction: Compare the New York Times text with the Jesse Watters interview transcript and other Erika Kirk interviews.
 
 ---
@@ -1173,7 +1161,7 @@ Transcript Snippet: You can get Scott Bessent to issue a letter and say, "Turnin
 
 Anchored Artifacts: A-2534.1
 Mentions: N-598
-Related Nodes: N-10000, N-10212
+Related Nodes: N-10000, N-10204
 Investigative Direction: Locate the letter, its date, its author and the Treasury or personal capacity in which it was issued.
 
 ---
@@ -1189,7 +1177,7 @@ Transcript Snippet: Andrew was feeding information to like obscure podcasters tr
 Anchored Artifacts: 
 
 Mentions: N-14, N-3
-Related Nodes: N-10378, N-10450
+Related Nodes: N-10351, N-10419
 Supports: C-4487
 Investigative Direction: Collect the podcasts and posts attacking the Fort Huachuca story and any messages showing Kolvet supplied material to them.
 
@@ -1206,7 +1194,7 @@ Transcript Snippet: He felt he he was almost certain he saw Brian Harpool in a u
 Anchored Artifacts: 
 
 Mentions: N-361, N-266, N-1
-Related Nodes: N-10373, N-10367
+Related Nodes: N-10347, N-10342
 Supports: C-4348
 Investigative Direction: Obtain Fort Huachuca visitor access logs and Brian Harpole's travel records for September 8–9, 2025.
 
@@ -1222,7 +1210,7 @@ Transcript Snippet: It left Pierre, South Dakota, at 2:40 p. m. It landed in Chi
 
 Anchored Artifacts: A-2527.2
 Mentions: N-330
-Related Nodes: N-10903, N-10074
+Related Nodes: N-10824, N-10071
 Investigative Direction: Pull ADS-B data for N582MM on September 10, 2025 and the charter or owner records for that leg.
 
 ---
@@ -1237,7 +1225,7 @@ Transcript Snippet: This is Fort Huachuca. Atlanta to Fort Huachuca. It lands at
 
 Anchored Artifacts: A-2527.2
 Mentions: N-330
-Related Nodes: N-10903
+Related Nodes: N-10824
 Investigative Direction: Pull ADS-B data and Libby Army Airfield / Sierra Vista airport logs for N582MM on October 4, 2025.
 
 ---
@@ -1252,7 +1240,7 @@ Transcript Snippet: It was the following day, October 5th, when the security tea
 
 Anchored Artifacts: A-2527.2
 Mentions: N-246, N-330
-Related Nodes: N-10903
+Related Nodes: N-10824
 Investigative Direction: Obtain flight data for the Kalispell-to-Bozeman private flight and identify attendees of the Fairy Lake gathering.
 
 ---
@@ -1267,7 +1255,7 @@ Transcript Snippet: Definitively, Charlie's parents were not on that plane becau
 
 Anchored Artifacts: A-2527.2
 Mentions: N-4, N-1, N-330
-Related Nodes: N-10903
+Related Nodes: N-10824
 Investigative Direction: Confirm Air Force Two movements on September 10, 2025 and identify who was aboard N582MM from Chicago.
 
 ---
@@ -1282,7 +1270,7 @@ Transcript Snippet: Cool. Okay, I was really wrong. N582MM is that tail number.
 
 Anchored Artifacts: A-2527.2
 Mentions: N-330
-Related Nodes: N-10903
+Related Nodes: N-10824
 Investigative Direction: Look up N582MM in the FAA registry for owner, operator and any charter certificate.
 
 ---
@@ -1298,7 +1286,7 @@ Transcript Snippet: I should also mention that the Egyptian planes are back in t
 Anchored Artifacts: 
 
 Mentions: N-82
-Related Nodes: N-10496, N-10074
+Related Nodes: N-10239, N-10071
 Investigative Direction: Pull current ADS-B tracking for the Egyptian-registered aircraft previously tracked to Provo, and Brigitte Macron's public schedule for the same dates.
 
 ---
@@ -1314,7 +1302,7 @@ Transcript Snippet: Andrew believes that Joe he gave it to Joe Kent and maybe Jo
 Anchored Artifacts: 
 
 Mentions: N-14, N-209, N-3
-Related Nodes: N-10551, N-10641
+Related Nodes: N-10505, N-10586
 Investigative Direction: Identify everyone Kolvet shared the text with and when, and the earliest public appearance of the text.
 
 ---
@@ -1343,7 +1331,7 @@ Transcript Snippet: they showed an insurance claim that somebody made for $6,000
 
 Anchored Artifacts: A-2536.1
 Mentions: N-30, N-3
-Related Nodes: N-10631
+Related Nodes: N-10577
 Investigative Direction: Identify the author and source documents of the piece and the claimant on the insurance record.
 
 ---
@@ -1359,7 +1347,7 @@ Transcript Snippet: And I am working on a tip that somebody told me that Frank T
 Anchored Artifacts: 
 
 Mentions: N-7, N-1
-Related Nodes: N-10906
+Related Nodes: N-10827
 Investigative Direction: Obtain Frank Turek's speaking calendar and travel records for early September 2025.
 
 ---
@@ -1375,7 +1363,7 @@ Transcript Snippet: We haven't had his arraignment, guys. How are we saying Tyle
 Anchored Artifacts: 
 
 Mentions: N-40
-Related Nodes: N-10508
+Related Nodes: N-10106
 Investigative Direction: Check the Utah County court docket for Tyler Robinson's case status as of March 26, 2026.
 
 ---
@@ -1421,7 +1409,7 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
-- **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-6105 and node N-10479 date it September 7. C-7533 is linked as Supports C-6105 on the shared proposition; the date difference is preserved.
+- **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-6105 and node N-10446 date it September 7. C-7533 is linked as Supports C-6105 on the shared proposition; the date difference is preserved.
 - **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-217 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-597. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Minas" is matched to N-493 Marina (TPUSA CMO) through its alias.
 - **Transcription ambiguities**: The comedian is spelled "Druski", "Druski" and "Druski"; these are kept as written and aliased to N-594 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.

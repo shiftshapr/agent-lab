@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-875, N-11277, N-11278, N-11279, N-11280
+  - Tip-minted Nodes (supplement_2026-10e): N-875, N-11193, N-11194, N-11195, N-11196
   - Claim Range: C-3328–C-3407
-  - New Nodes Introduced: N-282, N-284, N-285, N-286, N-287, N-288, N-289, N-290, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
-  - Reused Nodes Appearing: none, N-283, N-377, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-72, N-10297
+  - New Nodes Introduced: N-282, N-284, N-285, N-286, N-287, N-288, N-289, N-290, N-10266, N-10267, N-10268, N-10269, N-10270, N-10273, N-10274, N-10275, N-10277, N-10278
+  - Reused Nodes Appearing: none, N-283, N-377, N-10249, N-10276, N-10271, N-10272, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10056, N-10071, N-10072, N-10084, N-10112, N-10140, N-10145, N-10196, N-10212, N-10250, N-10253, N-10254, N-10257, N-10260, N-10262, N-10297, N-10821, N-10928, N-10930, N-10931, N-72, N-10279
   - (see registers)
 
 ## 2. Executive Summary
@@ -121,7 +121,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article title and one paragraph read on air; full URL not displayed)
 
-*Related: C-3343, N-284, N-10293, N-3*
+*Related: C-3343, N-284, N-10275, N-3*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:13:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud summary, not full verbatim)
 
-*Related: C-3343, N-10293*
+*Related: C-3343, N-10275*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific units, dates, and host-cited source)
 
-*Related: C-3343, N-10290, N-40*
+*Related: C-3343, N-10272, N-40*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:19:45–00:21:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud with explicit quotes)
 
-*Related: C-3353, C-3352, A-1465.1, A-1468.1, N-10297*
+*Related: C-3353, C-3352, A-1465.1, A-1468.1, N-10279*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (paraphrased on air)
 
-*Related: C-3353, N-285, N-10297*
+*Related: C-3353, N-285, N-10279*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:25:55–00:26:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source email; treat as source-claim)
 
-*Related: C-3365, N-10283*
+*Related: C-3365, N-10266*
 
 **A-1469.2** Section: 920 North King Street, Wilmington – claim that three federal agencies work together in one building; identified in connection with a foreign dignitary escort and the attorneys filing the host's Brigitte-lawsuit paperwork.
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:24:24–00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email, uncorroborated in episode)
 
-*Related: C-3360, N-10284*
+*Related: C-3360, N-10249*
 
 **A-1469.3** Section: Bracebridge Complex at 1100 North King Street – originally built as Maryland Bank headquarters 1995; Bank of America acquired 2006 and pulled out of the buildings in 2018; in 2024 legislation was passed to provide financial support to the Longwood Foundation (founded by Pierre S. du Pont) to operate it as an educational center; complex spans six buildings connected to both French Street and King Street.
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:28:30–00:31:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (partially corroborated by A-1471)
 
-*Related: C-3366, C-3369, C-3368, N-10285, N-10287, N-288, N-289*
+*Related: C-3366, C-3369, C-3368, N-10267, N-10269, N-288, N-289*
 
 **A-1469.4** Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hoppenot (host self-corrects: "Hervé Hope No, Hoppenot"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:33:11–00:34:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source; spelling uncertain)
 
-*Related: C-3376, N-286, N-10286*
+*Related: C-3376, N-286, N-10268*
 
 **A-1469.5** Section: Wilmington Savings Fund Society / Wilmington Trust – claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:30:58–00:32:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-3371, N-290, N-10287, N-10288*
+*Related: C-3371, N-290, N-10269, N-10270*
 
 **A-1469.6** Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls "another bank center"); also references MG+M Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:30:58–00:33:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-3374, N-10289*
+*Related: C-3374, N-10271*
 
 **A-1469.7** Section: Wilmington LGBT/transgender services inventory – proximity list (Theater, "The Queen," Wilmington University LGBTQ programs, Transition Delaware LLC, plastic surgeons).
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:43:10–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (source-internal inventory, not a documentary record)
 
-*Related: N-10283 (context only)*
+*Related: N-10266 (context only)*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 00:28:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (visual anchor only)
 
-*Related: N-10284, N-10285*
+*Related: N-10249, N-10267*
 
 **A-1470.2** Map showing Bracebridge Complex at 1100 North King Street spanning six connected buildings, and the adjacent 1100 North Market Street / Rodney Square.
 
@@ -289,7 +289,7 @@ Video Timestamp: 00:30:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (visual anchor only)
 
-*Related: N-10285, N-10288*
+*Related: N-10267, N-10270*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:28:30–00:29:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article referenced but URL not visible)
 
-*Related: C-3366, N-10285*
+*Related: C-3366, N-10267*
 
 **A-1471.2** Local coverage quote from Miriam Deed: "I just feel like I don't understand why we're doing this without there being more accountability."
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:30:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quoted on air)
 
-*Related: C-3366, N-287, N-10285*
+*Related: C-3366, N-287, N-10267*
 
 ---
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:38:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed on screen)
 
-*Related: C-3385, N-10289*
+*Related: C-3385, N-10271*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air; specific photo not displayed)
 
-*Related: C-3388, N-82, N-10294*
+*Related: C-3388, N-82, N-10276*
 
 **A-1475.2** Photograph of Brigitte Macron with Zelensky at an interstate meeting (September 4, 2025); separately a daytime photo of Brigitte with a Saudi Arabia orchestra event.
 
@@ -379,7 +379,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air)
 
-*Related: C-3389, N-82, N-10294*
+*Related: C-3389, N-82, N-10276*
 
 ---
 
@@ -393,7 +393,7 @@ Video Timestamp: 00:53:57–00:54:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (live readout)
 
-*Related: C-3397, N-3, N-10295*
+*Related: C-3397, N-3, N-10277*
 
 ---
 
@@ -407,7 +407,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host assertion; specific source URL not displayed)
 
-*Related: C-3352, N-10290, N-10297*
+*Related: C-3352, N-10272, N-10279*
 
 ---
 
@@ -421,7 +421,7 @@ Video Timestamp: 00:21:39–00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host assertion; not artifact-verified in episode)
 
-*Related: C-3354, N-10291*
+*Related: C-3354, N-10273*
 
 ---
 
@@ -435,7 +435,7 @@ Video Timestamp: 00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific date and number read on air)
 
-*Related: C-3355, N-10292*
+*Related: C-3355, N-10274*
 
 ---
 
@@ -448,7 +448,7 @@ Video Timestamp: 00:08:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3338, C-3339, C-3340, C-3344, C-3345, C-3346, N-3, N-11280*
+*Related: C-3338, C-3339, C-3340, C-3344, C-3345, C-3346, N-3, N-11196*
 
 ---
 
@@ -545,7 +545,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1463.1, N-10293*
+*Related: A-1463.1, N-10275*
 
 ---
 
@@ -558,7 +558,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1468.1, C-3353, N-10297*
+*Related: A-1468.1, C-3353, N-10279*
 
 ---
 
@@ -571,7 +571,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.4, C-3376, N-10286*
+*Related: A-1469.4, C-3376, N-10268*
 
 ---
 
@@ -584,7 +584,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1471.2, N-10285*
+*Related: A-1471.2, N-10267*
 
 ---
 
@@ -597,7 +597,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-3369, C-3368, N-10285, N-10287, N-290*
+*Related: A-1469.3, C-3369, C-3368, N-10267, N-10269, N-290*
 
 ---
 
@@ -610,7 +610,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-3371, N-288, N-10287, N-10288*
+*Related: A-1469.5, C-3371, N-288, N-10269, N-10270*
 
 ---
 
@@ -640,7 +640,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10283** French Street Wilmington Historical Cluster
+**N-10266** French Street Wilmington Historical Cluster
 
 Persistent claim that Wilmington's North French Street originated as Willing Street in Thomas Willing's grid and was renamed after 1790s Haitian/French Revolution refugee settlement; central to the alleged "French network" narrative.
 
@@ -653,20 +653,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10284** 920 North King Street Federal Presence
-
-Claim that three federal agencies work together at 920 North King Street, Wilmington; also identified as the address to which a foreign dignitary was escorted and where the attorneys filing Candace Owens's Brigitte-lawsuit paperwork are housed.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1469.2, C-3360, A-1470.1*
-
----
-
-**N-10285** Bracebridge Complex French Connection
+**N-10267** Bracebridge Complex French Connection
 
 1100 North King Street complex: originally Maryland Bank HQ (1995), Bank of America acquired (2006) and vacated (2018); 2024 legislation supporting Longwood Foundation (Pierre S. du Pont) to operate as educational center; six connected buildings on French Street and King Street.
 
@@ -679,7 +666,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10286** Incyte Corporation French CEO
+**N-10268** Incyte Corporation French CEO
 
 Claim that long-time Incyte CEO was Hervé Hoppenot (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.
 
@@ -692,7 +679,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10287** Longwood Foundation / Pierre du Pont Educational Center
+**N-10269** Longwood Foundation / Pierre du Pont Educational Center
 
 Claim that 2024 legislation provided financial support to the Longwood Foundation (founded by Pierre S. du Pont) to function as an educational center at Bracebridge.
 
@@ -705,7 +692,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10288** Wilmington Trust / T. Coleman du Pont
+**N-10270** Wilmington Trust / T. Coleman du Pont
 
 Claim that the Wilmington Trust was founded by T. Coleman du Pont; located at 1100 North Market Street on Rodney Square, adjacent to Bracebridge; acquired WSFS branches in 1990.
 
@@ -714,11 +701,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-3371, N-289, N-10289*
+*Related: A-1469.5, C-3371, N-289, N-10271*
 
 ---
 
-**N-10289** Rodney Square / 500 Delaware Avenue Federal Cluster
+**N-10271** Rodney Square / 500 Delaware Avenue Federal Cluster
 
 Claim that 500 North Delaware Avenue hosts an FBI presence; MG+M Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.
 
@@ -731,7 +718,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Joint training exercises: (a) FFL 2nd Foreign Infantry Regiment with US Marines 6th Marine Regiment in California, August 2–25, 2025 (A-1465.1, confirmed by France 24 / French Ministry); (b) Operation Valhalla joint military-civilian exercise at Camp Ripley, MN, August 25–27, 2025 (A-1477.1, host-cited).
 
@@ -740,11 +727,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1465.1, A-1477.1, C-3343, C-3352, N-10297*
+*Related: A-1465.1, A-1477.1, C-3343, C-3352, N-10279*
 
 ---
 
-**N-10291** Operation Bright Star August–September 2025
+**N-10273** Operation Bright Star August–September 2025
 
 Claim that Operation Bright Star (bi-annual US-Egypt joint operation in Cairo) ran August 29 – September 10, 2025, ending on the day of the Charlie Kirk assassination.
 
@@ -757,7 +744,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10292** FFL Six-Regiment Command Change August 2025
+**N-10274** FFL Six-Regiment Command Change August 2025
 
 Per an August 20, 2025 article (A-1479.1), six French Foreign Legion regiments underwent changes of command in mid-August 2025.
 
@@ -770,7 +757,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10293** Safari Club Intelligence Network
+**N-10275** Safari Club Intelligence Network
 
 Wikipedia-summarized covert alliance of intelligence services formed in 1976 (members including pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, France, Israel, Djibouti, South Africa); central to Ponton's framing of plausibility.
 
@@ -783,7 +770,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10294** Brigitte Macron Schedule Gap September 4–10, 2025
+**N-10276** Brigitte Macron Schedule Gap September 4–10, 2025
 
 Documented Brigitte Macron public appearances on September 4, 2025 (Paris Design Week, Zelensky photo, Saudi Arabia orchestra); six-day absence in public schedule before Charlie Kirk's September 10 assassination. Not a separate artifact in this episode beyond A-1475.1/A-1475.2.
 
@@ -796,7 +783,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10295** YouTube Live Poll: Lawsuit as Government Operation
+**N-10277** YouTube Live Poll: Lawsuit as Government Operation
 
 Poll results from live show: 24,856 votes, 93% Yes on "Do you think that this lawsuit was an operation against me?"
 
@@ -809,7 +796,7 @@ Investigative Pressure: Low (audience opinion, not factual claim)
 
 ---
 
-**N-10296** Camp Riley vs Camp Ripley Typo Issue
+**N-10278** Camp Riley vs Camp Ripley Typo Issue
 
 Host typed "Camp Riley" in her X post when referring to Camp Ripley, Minnesota; the French Ministry and France 24 used this typo to assert the host's broader allegations were unfounded; Andy Parrish identified the correct camp name.
 
@@ -818,11 +805,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (typographical, not factual conflict)
 
-*Related: A-1467.1, A-1468.1, A-1477.1, C-3353, N-285, N-10290*
+*Related: A-1467.1, A-1468.1, A-1477.1, C-3353, N-285, N-10272*
 
 ---
 
-**N-10297** Eric Bolling / PBD Podcast Apology Incident
+**N-10279** Eric Bolling / PBD Podcast Apology Incident
 
 Eric Bolling sent an apology email to Candace Owens's PR after a PBD segment in which he claimed she had not been friends with Charlie Kirk since 2017; he blamed "that Alex guy" (Adam Sosnick) and said he did not even know Adam's name (initially referring to him as "Sam").
 
@@ -843,7 +830,7 @@ First named by the host at 00:00:01 in episode 38. The name the host uses for Br
 
 ---
 
-**N-11277** Macron Lawsuit Federal Setup Theory
+**N-11193** Macron Lawsuit Federal Setup Theory
 
 Node Type: Topic
 The host's theory that US federal agencies, with France and Israel, pressured or arranged the Macron defamation suit in Delaware to stop her research, including a federal call asking her to stop.
@@ -852,7 +839,7 @@ The host's theory that US federal agencies, with France and Israel, pressured or
 
 ---
 
-**N-11278** Ace Partners
+**N-11194** Ace Partners
 
 Node Type: Organization
 Tel Aviv firm the host names as the second largest shareholder of Satys, investing in aerospace and defense startups with a focus on Israel.
@@ -861,7 +848,7 @@ Tel Aviv firm the host names as the second largest shareholder of Satys, investi
 
 ---
 
-**N-11279** UVU Attendee Recognition and Media Avoidance Question
+**N-11195** UVU Attendee Recognition and Media Avoidance Question
 
 Node Type: Topic
 The host's account that UVU students did not recognize attendees at the September 10 event, that it was advertised late, and that national media avoided UVU students.
@@ -870,7 +857,7 @@ The host's account that UVU students did not recognize attendees at the Septembe
 
 ---
 
-**N-11280** Agency and Palace Responses to the French Plot Report
+**N-11196** Agency and Palace Responses to the French Plot Report
 
 Node Type: Topic
 What the Elysee Palace, the White House, counterterrorism and the FBI did or did not say to the host after her November 25 post and reports.
@@ -951,7 +938,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10145** UVU Campus Familiarity Question
+**N-10140** UVU Campus Familiarity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -967,7 +954,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Existing topic reused for new claims in this episode.
 
@@ -975,7 +962,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10088** Candace Owens FBI/CIA Reporting Incident
+**N-10084** Candace Owens FBI/CIA Reporting Incident
 
 Existing topic reused for new claims in this episode.
 
@@ -983,7 +970,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10150** Utah FBI Personnel Replacement
+**N-10145** Utah FBI Personnel Replacement
 
 Existing topic reused for new claims in this episode.
 
@@ -991,7 +978,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused for new claims in this episode.
 
@@ -999,7 +986,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10273** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
+**N-10257** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -1007,7 +994,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10279** Camp Ripley Training Center
+**N-10262** Camp Ripley Training Center
 
 Existing topic reused for new claims in this episode.
 
@@ -1015,7 +1002,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10277** Minot Air Force Base
+**N-10260** Minot Air Force Base
 
 Existing topic reused for new claims in this episode.
 
@@ -1023,7 +1010,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10204** Egyptian Air Force SU-BTT Provo Mission Question
+**N-10196** Egyptian Air Force SU-BTT Provo Mission Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1031,7 +1018,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10266** SUBTT Wilmington Visit Pattern
+**N-10250** SUBTT Wilmington Visit Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -1039,7 +1026,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing topic reused for new claims in this episode.
 
@@ -1047,7 +1034,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11008** Satys
+**N-10928** Satys
 
 Existing topic reused for new claims in this episode.
 
@@ -1055,7 +1042,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10269** Wilmington Airport Hangar Federal Connection
+**N-10253** Wilmington Airport Hangar Federal Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -1063,7 +1050,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -1071,7 +1058,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
+**N-10249** 920 North King Street / 1 Rodney Square Federal Facility
 
 Existing topic reused for new claims in this episode.
 
@@ -1079,7 +1066,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1103,7 +1090,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10116** MK Ultra Continuity Theory
+**N-10112** MK Ultra Continuity Theory
 
 Existing topic reused for new claims in this episode.
 
@@ -1119,7 +1106,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Existing topic reused for new claims in this episode.
 
@@ -1127,7 +1114,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10059** PBD Podcast
+**N-10056** PBD Podcast
 
 Existing topic reused for new claims in this episode.
 
@@ -1135,7 +1122,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10222** Israeli Cell Phone Presence on 9/10
+**N-10212** Israeli Cell Phone Presence on 9/10
 
 Existing topic reused for new claims in this episode.
 
@@ -1143,7 +1130,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11010** Lay-Low List Warning
+**N-10930** Lay-Low List Warning
 
 Existing topic reused for new claims in this episode.
 
@@ -1185,7 +1172,7 @@ Claim: Per the article by Freddie Ponton the host reads, the hesitation to dismi
 
 Anchored Artifacts: A-1463.1, A-1464.1
 Mentions: N-284, N-3
-Related Nodes: N-10293
+Related Nodes: N-10275
 Investigative Direction: Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.
 
 ---
@@ -1210,7 +1197,7 @@ Claim: Per a France 24 article the host reads, which quotes Andy Parrish on X, a
 
 Anchored Artifacts: A-1467.1, A-1468.1
 Mentions: N-285
-Related Nodes: N-10296
+Related Nodes: N-10278
 Investigative Direction: Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.
 
 ---
@@ -1222,7 +1209,7 @@ Claim Timestamp: 00:19:45
 Claim: A France 24 article reports that the French Ministry of the Armed Forces confirmed the August 2–25, 2025 California FFL training exercise and formally denied a follow-on exercise at a "Camp Riley" in Minnesota, noting no such camp exists.
 
 Anchored Artifacts: A-1467.1, A-1465.1
-Related Nodes: N-10290, N-10296
+Related Nodes: N-10272, N-10278
 Investigative Direction: Locate original France 24 article; verify whether the Ministry's denial extends to any Camp Ripley exercise or only to "Camp Riley" as named.
 
 ---
@@ -1235,7 +1222,7 @@ Claim: The host says Operation Bright Star, a bi-annual US-Egypt joint military 
 
 Anchored Artifacts: A-1478.1
 Mentions: N-1
-Related Nodes: N-10291
+Related Nodes: N-10273
 Investigative Direction: Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.
 
 ---
@@ -1247,7 +1234,7 @@ Claim Timestamp: 00:22:30
 Claim: An article dated August 20, 2025 reported a change of command across six French Foreign Legion regiments in mid-August 2025.
 
 Anchored Artifacts: A-1479.1
-Related Nodes: N-10292
+Related Nodes: N-10274
 Investigative Direction: Locate original article; obtain official command-change notices; identify the six regiments and whether any are the 2nd Foreign Infantry Regiment.
 
 ---
@@ -1259,7 +1246,7 @@ Claim Timestamp: 00:25:55
 Claim: Per a source email, North French Street in Wilmington, Delaware originated in the 1790s when a cluster of French-speaking refugees from Haiti and the French Revolution settled along Willing Street, and the nickname French Street took over.
 
 Anchored Artifacts: A-1469.1
-Related Nodes: N-10283
+Related Nodes: N-10266
 Investigative Direction: Verify via Wilmington city historical archives; corroborate the Thomas Willing grid and 1790s French/Haitian refugee settlement pattern with academic historical sources.
 
 ---
@@ -1271,7 +1258,7 @@ Claim Timestamp: 00:24:24
 Claim: The host says a source told her a foreign dignitary was escorted from the hangar to 920 North King Street in Wilmington, Delaware, which she says they learned and confirmed had three federal agencies working together in one building and also houses the attorneys filing her paperwork in the Brigitte lawsuit.
 
 Anchored Artifacts: A-1469.2
-Related Nodes: N-10284
+Related Nodes: N-10249
 Investigative Direction: Identify the specific federal agencies at 920 North King Street via public lease records; verify the attorneys-of-record for the Macron v. Owens Delaware filing and their physical address.
 
 ---
@@ -1283,7 +1270,7 @@ Claim Timestamp: 00:28:30
 Claim: Per the source email and an article the host shows, Bank of America pulled out of a few of the Bracebridge Complex buildings in 2018 and left it completely empty.
 
 Anchored Artifacts: A-1469.3, A-1471.1, A-1471.2
-Related Nodes: N-10285
+Related Nodes: N-10267
 Investigative Direction: Verify Bank of America's Bracebridge exit via Wilmington business filings or news archives; obtain Miriam Deed comment context (which public meeting or hearing).
 
 ---
@@ -1296,7 +1283,7 @@ Claim: Per the source email, the Longwood Foundation was founded by Pierre S. du
 
 Anchored Artifacts: A-1469.3
 Mentions: N-288
-Related Nodes: N-10287
+Related Nodes: N-10269
 Investigative Direction: Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.
 
 ---
@@ -1309,7 +1296,7 @@ Claim: Per the source email, 2024 legislation was passed to provide financial su
 
 Anchored Artifacts: A-1469.3
 Mentions: 
-Related Nodes: N-10285, N-10287
+Related Nodes: N-10267, N-10269
 Investigative Direction: Identify the specific Delaware legislation; obtain bill text and legislative history.
 
 ---
@@ -1322,7 +1309,7 @@ Claim: Per the source email the host reads, Hervé Hoppenot, a French national, 
 
 Anchored Artifacts: A-1469.4
 Mentions: N-286
-Related Nodes: N-10286
+Related Nodes: N-10268
 Investigative Direction: Verify Incyte CEO succession records via SEC filings; confirm Hoppenot's nationality and dates of service.
 
 ---
@@ -1335,7 +1322,7 @@ Claim: Per the source email, T. Coleman du Pont founded the Wilmington Trust, wh
 
 Anchored Artifacts: A-1469.5
 Mentions: N-289
-Related Nodes: N-10288
+Related Nodes: N-10270
 Investigative Direction: Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.
 
 ---
@@ -1347,7 +1334,7 @@ Claim Timestamp: 00:32:37
 Claim: Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the law firm MG+M has Suite 200, which the writer believes is directly below the FBI.
 
 Anchored Artifacts: A-1469.6
-Related Nodes: N-10289
+Related Nodes: N-10271
 Investigative Direction: Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MG+M Delaware Avenue's suite location.
 
 ---
@@ -1359,7 +1346,7 @@ Claim Timestamp: 00:38:00
 Claim: Per the Ace Partners website, the firm's mission is to identify, invest in, and support startups in aerospace and defense technology with a specific focus on Israel.
 
 Anchored Artifacts: A-1472.1
-Related Nodes: N-10289
+Related Nodes: N-10271
 Investigative Direction: Verify the current Ace Partners portfolio and confirm Satys as a portfolio company; cross-reference Israeli corporate registry.
 
 ---
@@ -1372,7 +1359,7 @@ Claim: The host says she believes Brigitte Macron opened Paris Design Week on Se
 
 Anchored Artifacts: A-1475.1
 Mentions: N-82
-Related Nodes: N-10294
+Related Nodes: N-10276
 Investigative Direction: Verify via Paris Design Week official programming and French Ministry of Culture announcements.
 
 ---
@@ -1385,7 +1372,7 @@ Claim: The host says Brigitte Macron was photographed with Ukrainian President Z
 
 Anchored Artifacts: A-1475.2
 Mentions: N-82
-Related Nodes: N-10294
+Related Nodes: N-10276
 Investigative Direction: Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.
 
 ---
@@ -1410,7 +1397,7 @@ Claim: The host reads an email Eric Bolling sent to her PR saying, "Tell Candace
 
 Anchored Artifacts: A-1474.1
 Mentions: N-282, N-72, N-3
-Related Nodes: N-10297
+Related Nodes: N-10279
 Investigative Direction: Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick "Sam"; obtain the full original PBD segment context.
 
 ---
@@ -1423,7 +1410,7 @@ Claim: The host says that in a YouTube live poll she ran, of approximately 24,85
 
 Anchored Artifacts: A-1476.1
 Mentions: N-3
-Related Nodes: N-10295
+Related Nodes: N-10277
 Investigative Direction: Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim.
 
 ---
@@ -1454,7 +1441,7 @@ Transcript Snippet: and that the French Foreign Legion was apparently involved a
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10316, N-10290, N-10012
+Related Nodes: N-10297, N-10272, N-10012
 Tags: relevance:core
 Investigative Direction: Ask the French Ministry of the Armed Forces and Utah authorities whether any Foreign Legion personnel entered the United States for or around September 10, 2025; obtain UVU event staffing and credential lists.
 
@@ -1470,7 +1457,7 @@ Transcript Snippet: I do not know who in the American government can be trusted 
 
 Anchored Artifacts: A-1461.1
 Mentions: N-3
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Obtain the host's original post and any record of what the source told her about US government awareness; ask the host which US officials she contacted.
 
@@ -1486,7 +1473,7 @@ Transcript Snippet: Journalist Xavier Poussard's life is also at risk.
 
 Anchored Artifacts: A-1461.1
 Mentions: N-3, N-283
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:context
 Investigative Direction: Ask Poussard whether he received threats or any warning in November 2025 and whether he reported them to French or US authorities.
 
@@ -1502,7 +1489,7 @@ Transcript Snippet: I said there was a paper trail that Macron allegedly paid $1
 
 Anchored Artifacts: A-1461.1
 Mentions: N-3, N-377, N-82
-Related Nodes: N-10316
+Related Nodes: N-10297
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the transfer records; any bank or transfer document would confirm or refute the amount and the payer.
@@ -1519,7 +1506,7 @@ Transcript Snippet: Two assassins were hired, one Israeli, one French-Canadian w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10316
+Related Nodes: N-10297
 Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host's source to identify the two individuals; check French and Canadian travel and law enforcement records only if a name is supplied.
@@ -1536,7 +1523,7 @@ Transcript Snippet: I also said that the money ran through the elite gentlemen's
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:core
 Investigative Direction: Identify the club the host means (the name is as transcribed) and request membership or banking records from the host's source.
 
@@ -1582,7 +1569,7 @@ Transcript Snippet: It's now been a full week since I made that announcement. An
 
 Anchored Artifacts: A-3110.1
 Mentions: N-3, N-377
-Related Nodes: N-11280
+Related Nodes: N-11196
 Tags: relevance:core
 Investigative Direction: Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.
 
@@ -1598,7 +1585,7 @@ Transcript Snippet: Press the White House for a response, right? The White House
 
 Anchored Artifacts: A-3110.1
 Mentions: N-3
-Related Nodes: N-10075, N-11280
+Related Nodes: N-10072, N-11196
 Tags: relevance:core
 Investigative Direction: Check White House press briefings and statements between November 25 and December 1, 2025 for any comment on the host's claim.
 
@@ -1614,7 +1601,7 @@ Transcript Snippet: Did I report it to the White House? Of course, I reported it
 
 Anchored Artifacts: A-3110.1
 Mentions: N-3
-Related Nodes: N-10075, N-10014, N-10088, N-11280
+Related Nodes: N-10072, N-10014, N-10084, N-11196
 Tags: relevance:core
 Investigative Direction: Request the host's report records (dates, recipients, channels) and FOIA the FBI and counterterrorism intake logs for late November 2025.
 
@@ -1646,7 +1633,7 @@ Transcript Snippet: I did hear back from the White House confirming that that me
 
 Anchored Artifacts: A-3110.1
 Mentions: N-3, N-5
-Related Nodes: N-10075, N-11280
+Related Nodes: N-10072, N-11196
 Tags: relevance:core
 Investigative Direction: Ask the host for the White House reply and its date; request the correspondence record from the White House.
 
@@ -1662,7 +1649,7 @@ Transcript Snippet: but the FBI left me on red.
 
 Anchored Artifacts: A-3110.1
 Mentions: N-3
-Related Nodes: N-10014, N-11280
+Related Nodes: N-10014, N-11196
 Tags: relevance:core
 Investigative Direction: Ask the host who received the text and when; FBI records of any contact from the host in late November 2025 would confirm or refute it.
 
@@ -1678,7 +1665,7 @@ Transcript Snippet: No phone calls even from Utah's FBI branch have come in to m
 
 Anchored Artifacts: A-3110.1
 Mentions: N-3
-Related Nodes: N-10014, N-10150, N-11280
+Related Nodes: N-10014, N-10145, N-11196
 Tags: relevance:core
 Investigative Direction: Ask the FBI Salt Lake City field office whether anyone attempted to contact the host after November 25, 2025.
 
@@ -1694,7 +1681,7 @@ Transcript Snippet: It was a joint exercise with civilians, which included um uh
 
 Anchored Artifacts: A-1477.1
 Mentions: N-3
-Related Nodes: N-10273, N-10279, N-10277, N-10290
+Related Nodes: N-10257, N-10262, N-10260, N-10272
 Tags: relevance:core
 Investigative Direction: Obtain Minnesota National Guard and Air Force press releases on Operation Valhalla at Camp Ripley, with dates, units and civilian participants.
 
@@ -1725,7 +1712,7 @@ Transcript Snippet: the UVU students who attended said that they felt like they 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10145, N-11279
+Related Nodes: N-10012, N-10140, N-11195
 Tags: relevance:core
 Investigative Direction: Interview attending UVU students and compare the event announcement timing with TPUSA's social posts and UVU event records.
 
@@ -1741,7 +1728,7 @@ Transcript Snippet: It looks like they're almost trying not to interview any UVU
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-11279
+Related Nodes: N-10012, N-11195
 Tags: relevance:core
 Investigative Direction: Survey national coverage from September 10-14, 2025 for on-record interviews with UVU students and compare to adults interviewed.
 
@@ -1757,7 +1744,7 @@ Transcript Snippet: we found that they have 12 regiments that are known of, and 
 
 Anchored Artifacts: A-1479.1
 Mentions: N-3
-Related Nodes: N-10292, N-10290
+Related Nodes: N-10274, N-10272
 Supports: C-3355
 Tags: relevance:context
 Investigative Direction: Check the Legion's regiment list and the August 2025 command-change notices to confirm the regiment count and the six units.
@@ -1774,7 +1761,7 @@ Transcript Snippet: we were trying to track the Egyptian plane, SUBTT, our yello
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10204, N-10266, N-10074
+Related Nodes: N-10196, N-10250, N-10071
 Tags: relevance:core
 Investigative Direction: Pull SU-BTT ADS-B and FAA flight records for September 10, 2025 for departure time, origin and destination.
 
@@ -1790,7 +1777,7 @@ Transcript Snippet: Satys, which is a French company, injected $1.5 million oste
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11008, N-10269
+Related Nodes: N-10928, N-10253
 Supports: C-3168
 Tags: relevance:core
 Investigative Direction: Obtain the hangar lease, Delaware filings and Satys investment announcements to confirm the amount, term and stated purpose.
@@ -1807,7 +1794,7 @@ Transcript Snippet: they sign off on that the very week that I get sent this cea
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11008, N-11011
+Related Nodes: N-10928, N-10931
 Supports: C-3167
 Tags: relevance:core
 Investigative Direction: Compare the cease-and-desist date with the Satys announcement and lease execution dates in public filings.
@@ -1824,7 +1811,7 @@ Transcript Snippet: a foreign dignitary was escorted, right, from that hangar to
 
 Anchored Artifacts: A-1469.2
 Mentions: N-3
-Related Nodes: N-10265, N-10284, N-10269
+Related Nodes: N-10249, N-10253
 Supports: C-3300
 Tags: relevance:core
 Investigative Direction: Identify the source's basis (witness, video or vehicle records) and check airport ground-transport and security logs for September 10, 2025.
@@ -1841,7 +1828,7 @@ Transcript Snippet: a place that we learned and confirmed had three federal agen
 
 Anchored Artifacts: A-1469.2
 Mentions: N-3
-Related Nodes: N-10265, N-10284
+Related Nodes: N-10249
 Supports: C-3360
 Tags: relevance:core
 Investigative Direction: Review GSA lease and federal tenant records for 920 North King Street to identify which agencies occupy it.
@@ -1858,7 +1845,7 @@ Transcript Snippet: it is also a place which houses the attorneys that are filin
 
 Anchored Artifacts: A-1469.2
 Mentions: N-3, N-82
-Related Nodes: N-10265, N-10270
+Related Nodes: N-10249, N-10254
 Tags: relevance:context
 Investigative Direction: Check the Delaware docket for counsel of record and their addresses.
 
@@ -1874,7 +1861,7 @@ Transcript Snippet: Brigitte's lawyers in my lawsuit are directly across the str
 
 Anchored Artifacts: A-1470.1
 Mentions: N-3, N-82
-Related Nodes: N-10265, N-10270
+Related Nodes: N-10249, N-10254
 Tags: relevance:context
 Investigative Direction: Compare counsel-of-record addresses on the Delaware docket for both parties.
 
@@ -1889,7 +1876,7 @@ Claim: The host reads a source email saying the Bracebridge Complex at 1100 Nort
 Transcript Snippet: It spans over 1 million square feet.
 
 Anchored Artifacts: A-1469.3
-Related Nodes: N-10285
+Related Nodes: N-10267
 Tags: relevance:context
 Investigative Direction: Check New Castle County property records and Wilmington commercial real estate coverage for the complex's size, builder and ownership history.
 
@@ -1905,7 +1892,7 @@ Transcript Snippet: they are the original manufacturers of Kevlar
 
 Anchored Artifacts: A-1469.3
 Mentions: 
-Related Nodes: N-10287
+Related Nodes: N-10269
 Tags: relevance:tangential
 Investigative Direction: Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.
 
@@ -1921,7 +1908,7 @@ Transcript Snippet: And that is also somehow owned by France.
 
 Anchored Artifacts: A-1469.6
 Mentions: N-3
-Related Nodes: N-10289
+Related Nodes: N-10271
 Tags: relevance:context
 Investigative Direction: Check New Castle County deed and tax records for the owner of 500 Delaware Avenue.
 
@@ -1937,7 +1924,7 @@ Transcript Snippet: MG+M and M has many employees that are either fluent in Fren
 
 Anchored Artifacts: A-1469.6
 Mentions: N-1
-Related Nodes: N-10289
+Related Nodes: N-10271
 Supports: C-3374
 Tags: relevance:context
 Investigative Direction: Identify the firm (the transcript renders it as MG+M) and check its lease date and staff biographies.
@@ -1953,7 +1940,7 @@ Claim: The host reads a source email saying that, with no public record of the p
 Transcript Snippet: apparently a global biopharmaceutical company called Incyte owns it, okay?
 
 Anchored Artifacts: A-1469.4
-Related Nodes: N-10286, N-10285
+Related Nodes: N-10268, N-10267
 Tags: relevance:context
 Investigative Direction: Check Delaware permits and Incyte filings for ownership of the 1100 North King Street site.
 
@@ -1969,7 +1956,7 @@ Transcript Snippet: On May 2024, they say that construction is expected to take 
 
 Anchored Artifacts: A-1469.4
 Mentions: N-3
-Related Nodes: N-10286, N-10285
+Related Nodes: N-10268, N-10267
 Tags: relevance:context
 Investigative Direction: Review the May 2024 article and Wilmington building permits for the project schedule and any stated purpose.
 
@@ -1985,7 +1972,7 @@ Transcript Snippet: He is directly responsible for this construction at Bracebri
 
 Anchored Artifacts: A-1469.4
 Mentions: N-286, N-1, N-3
-Related Nodes: N-10286
+Related Nodes: N-10268
 Supports: C-3376
 Tags: relevance:context
 Investigative Direction: Check Incyte SEC filings for the CEO-to-advisor transition date and the Bracebridge acquisition approvals.
@@ -2001,7 +1988,7 @@ Claim: The host reads a source email saying Incyte is plugged directly into the 
 Transcript Snippet: is also plugged directly into the federal medical supply chains, which include our VA systems
 
 Anchored Artifacts: A-1469.4
-Related Nodes: N-10286
+Related Nodes: N-10268
 Tags: relevance:context
 Investigative Direction: Check federal procurement records (USAspending, VA contracts) for Incyte.
 
@@ -2017,7 +2004,7 @@ Transcript Snippet: I get a call from federal government asking me to stop speak
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11277
+Related Nodes: N-11193
 Supports: C-3178, C-3179
 Tags: relevance:core
 Investigative Direction: Identify the callers and dates through the host's phone records; compare with the February 25-26 calls she previously described.
@@ -2050,7 +2037,7 @@ Transcript Snippet: I feel like I was set up by the federal government in terms 
 
 Anchored Artifacts: A-1476.1
 Mentions: N-3, N-82, N-875
-Related Nodes: N-11277, N-10270
+Related Nodes: N-11193, N-10254
 Tags: relevance:context
 Investigative Direction: Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.
 
@@ -2081,7 +2068,7 @@ Transcript Snippet: the mentioning of MK Ultra 18 times absurdly in my lawsuit
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10001, N-10116
+Related Nodes: N-10001, N-10112
 Supports: C-3200
 Tags: relevance:context
 Investigative Direction: Count MK Ultra references in the complaint and compare Brigitte Macron's stated birth date with the program's start date.
@@ -2098,7 +2085,7 @@ Transcript Snippet: They are the second largest shareholder to Satys.
 
 Anchored Artifacts: A-1472.1
 Mentions: N-3
-Related Nodes: N-11008, N-11278
+Related Nodes: N-10928, N-11194
 Tags: relevance:core
 Investigative Direction: Check Satys shareholder disclosures and Ace Partners' portfolio page.
 
@@ -2114,7 +2101,7 @@ Transcript Snippet: They are explicit, they only invest in companies and organiz
 
 Anchored Artifacts: A-1472.1
 Mentions: N-3
-Related Nodes: N-11278
+Related Nodes: N-11194
 Supports: C-3385
 Tags: relevance:context
 Investigative Direction: Archive and read the Ace Partners website text; note it differs from the on-air mission statement wording (global focus with a specific focus on Israel).
@@ -2131,7 +2118,7 @@ Transcript Snippet: after that Brigitte just falls off a cliff for 6 days. Brigi
 
 Anchored Artifacts: A-1475.2
 Mentions: N-3, N-82
-Related Nodes: N-10294
+Related Nodes: N-10276
 Tags: relevance:core
 Investigative Direction: Review Elysee schedules, press photos and French news for any appearance by Brigitte Macron between September 5 and 10, 2025.
 
@@ -2147,7 +2134,7 @@ Transcript Snippet: Our first ever trans congressman, you guys, guess where? Wil
 
 Anchored Artifacts: A-1469.7
 Mentions: N-3
-Related Nodes: N-10283
+Related Nodes: N-10266
 Tags: relevance:tangential
 Investigative Direction: This is a source-email generalization with no bearing on the case; no verification path beyond public records on local services.
 
@@ -2163,7 +2150,7 @@ Transcript Snippet: which would explain why they never commented on the absurdit
 
 Anchored Artifacts: A-1476.1
 Mentions: N-3
-Related Nodes: N-11277, N-10270
+Related Nodes: N-11193, N-10254
 Tags: relevance:context
 Investigative Direction: Check State Department and White House statements on the Macron lawsuit in 2025.
 
@@ -2194,7 +2181,7 @@ Transcript Snippet: I am still friends with every single one of my colleagues th
 
 Anchored Artifacts: A-1473.1
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Ask named Daily Wire colleagues whether they remain in contact with the host.
 
@@ -2210,7 +2197,7 @@ Transcript Snippet: it was notoriously Eric Bolling that sat across from Adam wh
 
 Anchored Artifacts: A-1474.1
 Mentions: N-3, N-72, N-282, N-1
-Related Nodes: N-10003, N-10297, N-10059
+Related Nodes: N-10003, N-10279, N-10056
 Tags: relevance:core
 Investigative Direction: Review the PBD episode for Bolling's exact words about 2017 and compare with Kirk and Owens messages and appearances after 2017.
 
@@ -2241,7 +2228,7 @@ Transcript Snippet: Andrew Kolvet called me from the hospital and basically said
 
 Anchored Artifacts: A-3111.1
 Mentions: N-3, N-14, N-22
-Related Nodes: N-11010
+Related Nodes: N-10930
 Supports: C-1574
 Tags: relevance:core
 Investigative Direction: Obtain the host's and Kolvet's phone records for September 10, 2025 and ask Kolvet to describe the call.
@@ -2258,7 +2245,7 @@ Transcript Snippet: Nobody mentioned that Tyler Robinson had a list.
 
 Anchored Artifacts: A-3111.1
 Mentions: N-3, N-40, N-22
-Related Nodes: N-11010
+Related Nodes: N-10930
 Tags: relevance:core
 Investigative Direction: Review charging documents and public filings for any mention of a list of targets; ask prosecutors whether one exists.
 
@@ -2289,7 +2276,7 @@ Transcript Snippet: Keep the same energy. Do it publicly. Say I lied or I misspo
 
 Anchored Artifacts: A-3112.1
 Mentions: N-3, N-72
-Related Nodes: N-10297
+Related Nodes: N-10279
 Tags: relevance:context
 Investigative Direction: Check Bolling's later broadcasts or posts for any public correction about the Kirk friendship.
 
@@ -2305,7 +2292,7 @@ Transcript Snippet: the fact that they didn't recognize anybody indicates that w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-11279
+Related Nodes: N-10012, N-11195
 Tags: relevance:core
 Investigative Direction: Request UVU and Utah National Guard deployment and credential records for September 10, 2025.
 
@@ -2321,7 +2308,7 @@ Transcript Snippet: I think there were some national guard national guard regime
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10222, N-10290
+Related Nodes: N-10012, N-10212, N-10272
 Tags: relevance:core
 Investigative Direction: Obtain the cell-site data behind the 12 phones claim and Utah National Guard activation orders for September 10, 2025.
 

@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 3f46a97cc2d74db2f5e0aded169f75f261d47410176adc1a91e509540ffe7f2f
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11397
-  - Hole-minted Nodes (reintro-ep085): N-410, N-418, N-10571, N-10572, N-10722
-  - Tip-minted Nodes (reintro-ep085): N-610, N-674, N-775, N-10919
+  - Tip-minted Nodes (supplement_2026-10g): N-11313
+  - Hole-minted Nodes (reintro-ep085): N-410, N-418, N-10522, N-10523, N-10657
+  - Tip-minted Nodes (reintro-ep085): N-610, N-674, N-775, N-10840
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7557–C-7684
-  - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-178, N-190, N-209, N-212, N-220, N-452, N-597, N-598, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
- - New Nodes Introduced: N-10568
+  - Reused Nodes Appearing: N-10518, N-10021, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-178, N-190, N-209, N-212, N-220, N-452, N-597, N-598, N-10000, N-10011, N-10012, N-10015, N-10022, N-10024, N-10027, N-10029, N-10045, N-10060, N-10106, N-10113, N-10124, N-10136, N-10137, N-10146, N-10148, N-10194, N-10216, N-10255, N-10282, N-10293, N-10297, N-10214, N-10327, N-10332, N-10336, N-10405, N-10412, N-10415, N-10466, N-10494, N-10496, N-10501, N-10515, N-10567, N-10931, N-10972, N-10998, N-11046, N-11047, N-11049
+ - New Nodes Introduced: N-10519
  - Hole-minted Nodes (wave3): N-397, N-408, N-409
  - Reused Nodes Appearing: N-1, N-2, N-272
  - (see registers)
@@ -153,7 +153,7 @@ Confidence: high
 - Ledger continuation summary:
  - Artifact Families Introduced: A-1903, A-1904, A-1905, A-1906, A-1907, A-1908, A-1909, A-1910, A-1911
  - New People Nodes Introduced: none (Wave 2: local ids removed)
- - New Investigation Target Nodes Introduced: N-10566, N-10567, N-10568
+ - New Investigation Target Nodes Introduced: N-10021, N-10518, N-10519
  - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
@@ -180,7 +180,7 @@ Video Timestamp: 00:05:42–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7565, C-7566, C-7567, C-7570, C-7572, C-7573, C-7576, C-7578, N-10568*
+*Related: C-7565, C-7566, C-7567, C-7570, C-7572, C-7573, C-7576, C-7578, N-10519*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:14:38–00:15:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7587, N-3, N-10567*
+*Related: C-7587, N-3, N-10518*
 
 ---
 
@@ -236,7 +236,7 @@ Video Timestamp: 00:40:25–00:41:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7654, C-7655, C-7656, N-1, N-2, N-41, N-10566*
+*Related: C-7654, C-7655, C-7656, N-1, N-2, N-41, N-10021*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:35:31–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7638, C-7639, C-7640, N-10566*
+*Related: C-7638, C-7639, C-7640, N-10021*
 
 **A-1908.2** Sheriff Brooksby's second press conference clip describing how Tyler Robinson and his parents were driven to the Sheriff's office
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:41:56–00:42:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7661, C-7663, N-10566*
+*Related: C-7661, C-7663, N-10021*
 
 ---
 
@@ -366,20 +366,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10566** Tyler Robinson Confession Narrative Discrepancy
-
-Persistent inconsistency between Governor Cox's claim (A-1907.1, C-7656) that Robinson "confessed or implied" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1907.1, A-1908.1, A-1908.2, C-7656, C-7663*
-
----
-
-**N-10567** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation
+**N-10518** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation
 
 Persistent unresolved target referenced via the host's November 2025 tweet (A-1906.1) and tied by the host to the broader French Masonic lodge case (A-1903.1). Direct evidence linking DGSE to the Charlie Kirk assassination is not presented in this episode.
 
@@ -392,7 +379,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10568** Athanor Lodge / French Freemason Murder Trial
+**N-10519** Athanor Lodge / French Freemason Murder Trial
 
 Discrete investigative event introduced in this episode via A-1903.1, in which 22 defendants including DGSE officers face charges for running a hit-squad network inside the Athanor Masonic lodge. Treated by the host as context for Charlie Kirk case theory.
 
@@ -762,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -770,7 +757,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Existing topic reused for new claims in this episode.
 
@@ -778,7 +765,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused for new claims in this episode.
 
@@ -786,7 +773,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -794,7 +781,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10129** Orem Police Department
+**N-10124** Orem Police Department
 
 Existing topic reused for new claims in this episode.
 
@@ -802,7 +789,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10141** Mike Mitchell Public Record Anomaly
+**N-10136** Mike Mitchell Public Record Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -810,7 +797,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10142** Brooksby Suicide Narrative Discrepancy
+**N-10137** Brooksby Suicide Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -818,7 +805,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -826,7 +813,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10153** "Robbie Hild" Identity Verification
+**N-10148** "Robbie Hild" Identity Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -834,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for new claims in this episode.
 
@@ -842,7 +829,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10229** Autopsy Report and Evidence Access Asymmetry
+**N-10216** Autopsy Report and Evidence Access Asymmetry
 
 Existing topic reused for new claims in this episode.
 
@@ -850,7 +837,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -858,7 +845,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Existing topic reused for new claims in this episode.
 
@@ -866,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Existing topic reused for new claims in this episode.
 
@@ -874,7 +861,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused for new claims in this episode.
 
@@ -882,7 +869,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing topic reused for new claims in this episode.
 
@@ -890,7 +877,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10349** Bari Weiss CBS Interview Question Selection
+**N-10327** Bari Weiss CBS Interview Question Selection
 
 Existing topic reused for new claims in this episode.
 
@@ -898,7 +885,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -906,7 +893,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10360** Gun Discovery Procedure Question
+**N-10336** Gun Discovery Procedure Question
 
 Existing topic reused for new claims in this episode.
 
@@ -914,7 +901,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -922,7 +909,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10443** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
+**N-10412** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -930,7 +917,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -938,7 +925,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10505** Erika Kirk Post-Assassination Conduct Composite
+**N-10466** Erika Kirk Post-Assassination Conduct Composite
 
 Existing topic reused for new claims in this episode.
 
@@ -946,7 +933,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -954,7 +941,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Existing topic reused for new claims in this episode.
 
@@ -962,7 +949,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10546** Joe Kent Resignation Aftermath Pattern
+**N-10501** Joe Kent Resignation Aftermath Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -970,7 +957,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10563** Alexis Wilkins 13-Part Thread Analysis
+**N-10515** Alexis Wilkins 13-Part Thread Analysis
 
 Existing topic reused for new claims in this episode.
 
@@ -978,7 +965,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10571** July 14, 2025 Long Beach Flight
+**N-10522** July 14, 2025 Long Beach Flight
 
 Existing topic reused for new claims in this episode.
 
@@ -986,7 +973,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10572** ATF Bullet-to-Gun Inconclusive Finding
+**N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
 Existing topic reused for new claims in this episode.
 
@@ -994,7 +981,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10621** Gun Firing Evidence Verification
+**N-10567** Gun Firing Evidence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -1002,7 +989,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10722** Clock Tower X / Israeli Influence Operation
+**N-10657** Clock Tower X / Israeli Influence Operation
 
 Existing topic reused for new claims in this episode.
 
@@ -1010,7 +997,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10919** Andrew Kolvet / House Inhabit PR Collaboration Question
+**N-10840** Andrew Kolvet / House Inhabit PR Collaboration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1018,7 +1005,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -1026,7 +1013,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11054** Bomb Dog Deployment at the Crime Scene
+**N-10972** Bomb Dog Deployment at the Crime Scene
 
 Existing topic reused for new claims in this episode.
 
@@ -1034,7 +1021,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11080** Student Action Summit July 2025 (Tampa)
+**N-10998** Student Action Summit July 2025 (Tampa)
 
 Existing topic reused for new claims in this episode.
 
@@ -1042,7 +1029,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Existing topic reused for new claims in this episode.
 
@@ -1050,7 +1037,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11129** Freemasonry
+**N-11047** Freemasonry
 
 Existing topic reused for new claims in this episode.
 
@@ -1058,7 +1045,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11131** Charlie Kirk Death as Spell Claim
+**N-11049** Charlie Kirk Death as Spell Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -1066,7 +1053,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11397** Brooksby Resignation Inquiry
+**N-11313** Brooksby Resignation Inquiry
 
 Node Type: Topic
 Sudden resignation of Washington County Sheriff Nate Brooksby on a Friday, with an interim sheriff appointed, his name removed from official pages, and the host speculating about a link to the Robinson case.
@@ -1084,7 +1071,7 @@ Claim Timestamp: 00:05:42
 Claim: A Guardian article reports that 22 people are on trial in France on charges of murder and other serious crimes centered on a Masonic lodge (the Athanor lodge) in the Paris suburb of Puteaux.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify via the original Guardian article and French court records.
 
 ---
@@ -1096,7 +1083,7 @@ Claim Timestamp: 00:06:50
 Claim: Per a Guardian article the host reads aloud, prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify prosecutor filings in the French trial.
 
 ---
@@ -1108,7 +1095,7 @@ Claim Timestamp: 00:06:50
 Claim: Per a Guardian article the host reads aloud, four officers from France's DGSE foreign intelligence service are among the 22 defendants.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Cross-reference with French court documents.
 
 ---
@@ -1120,7 +1107,7 @@ Claim Timestamp: 00:07:55
 Claim: Per a Guardian article the host reads aloud, the case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify date and circumstances of arrest via French press archives.
 
 ---
@@ -1132,7 +1119,7 @@ Claim Timestamp: 00:08:53
 Claim: Per a Guardian article the host reads aloud, the hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify investigator statements in court filings.
 
 ---
@@ -1144,7 +1131,7 @@ Claim Timestamp: 00:08:55
 Claim: Per a Guardian article the host reads aloud, the hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.
 
 Anchored Artifacts: A-1903.1
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify whether this allegation appears in formal charges or witness statements.
 
 ---
@@ -1157,7 +1144,7 @@ Claim: The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, 
 
 Anchored Artifacts: A-1903.1
 Mentions: N-409, N-408, N-397
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify role assignments via French court documents.
 
 ---
@@ -1170,7 +1157,7 @@ Claim: The host says Daniel Beaulieu, a retired intelligence officer, had an app
 
 Anchored Artifacts: A-1903.1
 Mentions: N-409
-Related Nodes: N-10568
+Related Nodes: N-10519
 Investigative Direction: Verify incident via French press reporting or court records.
 
 ---
@@ -1244,7 +1231,7 @@ Claim: In a November tweet the host shows, Candace Owens stated she had a source
 
 Anchored Artifacts: A-1906.1
 Mentions: N-3, N-1
-Related Nodes: N-10567
+Related Nodes: N-10518
 Investigative Direction: Locate the original tweet and any subsequent corroboration or denial.
 
 ---
@@ -1257,7 +1244,7 @@ Claim: Governor Cox stated that on the evening of September 11th, a family membe
 
 Anchored Artifacts: A-1907.1
 Mentions: N-41, N-40
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
@@ -1270,7 +1257,7 @@ Claim: Governor Cox stated the family friend contacted the Washington County She
 
 Anchored Artifacts: A-1907.1
 Mentions: N-41, N-40
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
@@ -1283,7 +1270,7 @@ Claim: Governor Cox stated that Robinson had "confessed to them or implied that 
 
 Anchored Artifacts: A-1907.1
 Mentions: N-41, N-40
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim.
 
 ---
@@ -1296,7 +1283,7 @@ Claim: Sheriff Brooksby stated that at 8:02 PM on September 11th he received a c
 
 Anchored Artifacts: A-1908.1
 Mentions: N-272
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Identify the individual via court filings.
 
 ---
@@ -1309,7 +1296,7 @@ Claim: Sheriff Brooksby stated he was told that Tyler Robinson had potential sui
 
 Anchored Artifacts: A-1908.1
 Mentions: N-40, N-272
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Verify against other sources.
 
 ---
@@ -1322,7 +1309,7 @@ Claim: Sheriff Brooksby stated Robinson's parents convinced him not to go to the
 
 Anchored Artifacts: A-1908.1
 Mentions: N-272, N-40
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Cross-reference with subsequent reporting.
 
 ---
@@ -1335,7 +1322,7 @@ Claim: Sheriff Brooksby stated that within the hour, his friend drove Tyler Robi
 
 Anchored Artifacts: A-1908.2
 Mentions: N-40, N-272
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Verify against court records and other accounts.
 
 ---
@@ -1348,7 +1335,7 @@ Claim: Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on 
 
 Anchored Artifacts: A-1908.2
 Mentions: N-40, N-272
-Related Nodes: N-10566
+Related Nodes: N-10021
 Investigative Direction: Compare with Cox's framing of an outright confession (C-7656).
 
 ---
@@ -1439,7 +1426,7 @@ Transcript Snippet: back in November, I was telling you guys that France was in 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10567, N-10316
+Related Nodes: N-10518, N-10297
 Supports: C-7587
 Tags: relevance:core
 Investigative Direction: Locate the November 2025 posts and episodes where the host first made the DGSE claim and compare the wording with this restatement; ask French authorities whether DGSE personnel were abroad on September 10, 2025.
@@ -1456,7 +1443,7 @@ Transcript Snippet: And that the whole 33 thing was not subtle, it was Freemason
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129, N-10316
+Related Nodes: N-11047, N-10297
 Tags: relevance:core
 Investigative Direction: Identify every official or TPUSA figure who used the number 33 publicly and when; compare to ordinary coincidence rates (33 hours of manhunt, date and time counts).
 
@@ -1472,7 +1459,7 @@ Transcript Snippet: America was in fact founded by warring factions of Freemason
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Check standard histories of Freemasonry in the American colonies; the claim about a 'new Atlantis' motive is the host's reading and needs a named source.
 
@@ -1520,7 +1507,7 @@ Transcript Snippet: the one that is in St. George, Utah, which is where Tyler Ro
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:core
 Investigative Direction: Check the Grand Lodge of Utah's list of lodges for the St. George lodge number and location; confirm that Robinson was taken to St. George (the Washington County Sheriff's Office).
 
@@ -1536,7 +1523,7 @@ Transcript Snippet: 33 also being the country code for Paris.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129, N-10316
+Related Nodes: N-11047, N-10297
 Tags: relevance:tangential
 Investigative Direction: Verify with the ITU country-code list: +33 is France's calling code (not specific to Paris); the claim is checkable but its link to the case is the host's inference.
 
@@ -1552,7 +1539,7 @@ Transcript Snippet: the Scottish Rite Freemasonry actually originated in France,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Consult historians of Freemasonry on the origin of the Scottish Rite; the host ties the Templars to Freemasonry, which mainstream scholarship treats as a legend rather than a lineage.
 
@@ -1568,7 +1555,7 @@ Transcript Snippet: They're saying the French Foreign Legion and the military wa
 
 Anchored Artifacts: A-1903.1
 Mentions: N-3
-Related Nodes: N-10568
+Related Nodes: N-10519
 Tags: relevance:context
 Investigative Direction: Compare against the Guardian article text: it names the parachute regiment and DGSE officers; check whether any defendant is a Foreign Legion member.
 
@@ -1584,7 +1571,7 @@ Transcript Snippet: And when they're in plain clothes, they wear maroon shirts.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10568, N-10311
+Related Nodes: N-10519, N-10293
 Tags: relevance:context
 Investigative Direction: Find a source for plain-clothes maroon shirts among French paratroopers; compare with the maroon-shirt witnesses at UVU, who have not been tied to French units.
 
@@ -1600,7 +1587,7 @@ Transcript Snippet: I I sent something to the FBI, I sent it to the White House.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10316, N-10567
+Related Nodes: N-10297, N-10518
 Supports: C-3275
 Tags: relevance:core
 Investigative Direction: Ask the host for the date, recipients and content of the FBI and White House submissions; check FBI tip-line and FOIA records.
@@ -1617,7 +1604,7 @@ Transcript Snippet: there is this persistent rumor that Brigitte Macron is actua
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10015, N-10316
+Related Nodes: N-10015, N-10297
 Supports: C-3381
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the tip source; no public record in this episode supports the rumor, and Macron's office has denied related claims.
@@ -1650,7 +1637,7 @@ Transcript Snippet: the hitmen say that Daniel is the one that told them that th
 
 Anchored Artifacts: A-1903.1
 Mentions: N-409, N-3
-Related Nodes: N-10568
+Related Nodes: N-10519
 Tags: relevance:context
 Investigative Direction: Check French court reporting for the hitmen's statements naming Balou as the source of the government claim.
 
@@ -1666,7 +1653,7 @@ Transcript Snippet: The Freemason mafia, as the story will tell you, has carried
 
 Anchored Artifacts: A-1903.1
 Mentions: N-3
-Related Nodes: N-10568
+Related Nodes: N-10519
 Tags: relevance:context
 Investigative Direction: Check the Guardian/AP text for the other crimes attributed to the Athanor group and the charges actually brought.
 
@@ -1682,7 +1669,7 @@ Transcript Snippet: say you're going to turn it into a real estate emperor uh em
 
 Anchored Artifacts: 
 Mentions: N-178, N-5, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Review public Gaza reconstruction plans attributed to Kushner or the administration, and Kushner's 2024 Harvard remarks.
 
@@ -1698,7 +1685,7 @@ Transcript Snippet: My friend Charlie Kirk stepped on the toes of Bibi Netanyahu
 
 Anchored Artifacts: 
 Mentions: N-1, N-36, N-3
-Related Nodes: N-10539, N-11128
+Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Compare with documented Kirk statements against an Iran war in June 2025 and the June 18 White House meeting.
 
@@ -1714,7 +1701,7 @@ Transcript Snippet: it is not a coincidence that everyone involved on September 
 
 Anchored Artifacts: 
 Mentions: N-7, N-190, N-17, N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Tags: relevance:core
 Investigative Direction: Compile verifiable military service and intelligence-career records for Turek, the McCoys and others named; separate documented service from the host's inference.
 
@@ -1730,7 +1717,7 @@ Transcript Snippet: It's not a coincidence that Kash Patel kept stressing the nu
 
 Anchored Artifacts: 
 Mentions: N-69, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Pull Patel's September 2025 statements and posts and count uses of 33 (hours, minutes) against the actual timeline.
 
@@ -1746,7 +1733,7 @@ Transcript Snippet: I will never stop saying that Charlie Kirk was the first cas
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11128, N-10539
+Related Nodes: N-11046, N-10494
 Tags: relevance:core
 Investigative Direction: This is the host's thesis; test it against dated evidence of Kirk's Iran-war opposition and the timing of US action.
 
@@ -1778,7 +1765,7 @@ Transcript Snippet: when I told people that the DGSE in Paris was involved and h
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10567
+Related Nodes: N-10518
 Tags: relevance:core
 Investigative Direction: Ask the host for the basis of the alleged DGSE hit and whether any threat was reported to law enforcement.
 
@@ -1794,7 +1781,7 @@ Transcript Snippet: Nobody official came out and denied it.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10567
+Related Nodes: N-10518
 Supports: C-7587
 Tags: relevance:core
 Investigative Direction: Check whether the French Ministry or Elysee commented; an earlier supplement notes a French Ministry denial about Robinson's Foreign Legion service (C-3349).
@@ -1811,7 +1798,7 @@ Transcript Snippet: Even weirder, I have an open case with Brigitte Macron.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11011
+Related Nodes: N-10931
 Tags: relevance:context
 Investigative Direction: Review the Delaware docket for the Macron defamation case to see whether the French-involvement claim is pleaded.
 
@@ -1827,7 +1814,7 @@ Transcript Snippet: We saw a lot that day, Australia, Russia, so many countries 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Ask the host which footage or tips show Australian or Russian personnel; none is shown in this episode.
 
@@ -1843,7 +1830,7 @@ Transcript Snippet: it was her sit-down with Bari Weiss literally 72 hours befor
 
 Anchored Artifacts: 
 Mentions: N-2, N-278, N-3
-Related Nodes: N-10349
+Related Nodes: N-10327
 Tags: relevance:core
 Investigative Direction: Establish the recording date of the Weiss interview and the date of the host's meeting with Erika to confirm the 72-hour interval.
 
@@ -1859,7 +1846,7 @@ Transcript Snippet: And then I sit down with her 72 hours later, and she tells m
 
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-278
-Related Nodes: N-10229
+Related Nodes: N-10216
 Supports: C-7406
 Contradicts: C-7593
 Tags: relevance:core
@@ -1877,7 +1864,7 @@ Transcript Snippet: then by May, which is fortunately around the corner, then sh
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10229
+Related Nodes: N-10216
 Tags: relevance:core
 Investigative Direction: Check the case calendar (preliminary hearing, discovery deadlines) for a May 2026 milestone matching the lawyer's statement.
 
@@ -1893,7 +1880,7 @@ Transcript Snippet: She was told to say that to make people believe that she had
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10229
+Related Nodes: N-10216
 Tags: relevance:core
 Investigative Direction: No evidence of coaching is shown; seek communications or staff accounts about preparation for the Weiss interview.
 
@@ -1925,7 +1912,7 @@ Transcript Snippet: Somehow Mikey pulled himself together. Called who needed to 
 
 Anchored Artifacts: A-1905.1
 Mentions: N-7, N-190, N-2
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Match with call logs for Mikey McCoy at the hospital and with hospital staff accounts of who questioned the doctors.
 
@@ -1941,7 +1928,7 @@ Transcript Snippet: because Justin told me he arranged all the planes that day.
 
 Anchored Artifacts: 
 Mentions: N-15, N-190, N-3
-Related Nodes: N-10300
+Related Nodes: N-10282
 Contradicts: C-7601
 Tags: relevance:core
 Investigative Direction: Obtain charter requests and flight-booking records for the Scottsdale-to-Provo plane to show who arranged it.
@@ -1958,7 +1945,7 @@ Transcript Snippet: Again, no family call to come rush to be her by her side, bu
 
 Anchored Artifacts: 
 Mentions: N-2, N-186, N-597, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Tags: relevance:core
 Investigative Direction: Ask Erika's family whether they were called that day and when; check phone records or statements.
 
@@ -1974,7 +1961,7 @@ Transcript Snippet: he had just flown back from a Student Action Summit, and he 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11080, N-10571
+Related Nodes: N-10998, N-10522
 Tags: relevance:core
 Investigative Direction: Check the Charlie Kirk Show July 14, 2025 episode, SAS schedule and Kirk's travel records for the July 13-14 timeline.
 
@@ -1990,7 +1977,7 @@ Transcript Snippet: He asked about where the heck Bill Ackman's money comes from
 
 Anchored Artifacts: 
 Mentions: N-22, N-37, N-3
-Related Nodes: N-10446
+Related Nodes: N-10415
 Supports: C-78
 Tags: relevance:context
 Investigative Direction: Find Tucker Carlson's SAS speech video to check the Ackman remarks and their date.
@@ -2007,7 +1994,7 @@ Transcript Snippet: In fact, on this July 14th episode, Charlie has Josh Hammer 
 
 Anchored Artifacts: 
 Mentions: N-1, N-55, N-39, N-3
-Related Nodes: N-11080
+Related Nodes: N-10998
 Tags: relevance:context
 Investigative Direction: Check the July 14, 2025 Charlie Kirk Show episode guest list and the Smith-Hammer debate date.
 
@@ -2023,7 +2010,7 @@ Transcript Snippet: A couple of weeks later, Bill Ackman would be hosting the no
 
 Anchored Artifacts: 
 Mentions: N-37, N-22, N-9, N-3
-Related Nodes: N-10027, N-10446
+Related Nodes: N-10027, N-10415
 Tags: relevance:core
 Investigative Direction: Match the summit date, attendee list and what Kirk asked about Epstein with the host's earlier Hamptons accounts and other attendees.
 
@@ -2039,7 +2026,7 @@ Transcript Snippet: Erika, who did not attend SAS in Florida, uh, boarded a priv
 
 Anchored Artifacts: 
 Mentions: N-2, N-597, N-674, N-3
-Related Nodes: N-10571, N-11080
+Related Nodes: N-10522, N-10998
 Tags: relevance:core
 Investigative Direction: Request the flight record for the July 14, 2025 trip (tail number, manifest, destination) and any Long Beach event or meeting.
 
@@ -2055,7 +2042,7 @@ Transcript Snippet: Again, that's Mikey McCoy's assistant, and she headed to Lon
 
 Anchored Artifacts: 
 Mentions: N-597, N-190, N-3
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings or LinkedIn for LoCastro's title and reporting line.
 
@@ -2071,7 +2058,7 @@ Transcript Snippet: He's a Marine in the Marine Corps from 2013 at least until u
 
 Anchored Artifacts: 
 Mentions: N-674, N-3
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Request his DD-214-equivalent public record or Marine Security Guard unit history; verify through public military records.
 
@@ -2087,7 +2074,7 @@ Transcript Snippet: He also worked as a helicopter technician for an attack squa
 
 Anchored Artifacts: 
 Mentions: N-674, N-3
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check public Marine and LinkedIn records for the Chile posting and the helicopter attack squadron assignment.
 
@@ -2103,7 +2090,7 @@ Transcript Snippet: Then, uh, from 2017 to 2022, he worked as a private investig
 
 Anchored Artifacts: 
 Mentions: N-674, N-3
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check Arizona PI licensing and business records for the firm, and ASU graduation records.
 
@@ -2119,7 +2106,7 @@ Transcript Snippet: suddenly he gets a job working in donations as development o
 
 Anchored Artifacts: 
 Mentions: N-674, N-3
-Related Nodes: N-10000, N-10436
+Related Nodes: N-10000, N-10405
 Tags: relevance:core
 Investigative Direction: Check his LinkedIn or TPUSA job postings for these roles and dates.
 
@@ -2135,7 +2122,7 @@ Transcript Snippet: and Erika's personal security guard, Derek Niekerk.
 
 Anchored Artifacts: 
 Mentions: N-2, N-674, N-418, N-597, N-190, N-3
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Verify the manifest of the July 14 flight and Niekerk's role as Erika's security.
 
@@ -2151,7 +2138,7 @@ Transcript Snippet: They only stayed for a couple of hours, and then they return
 
 Anchored Artifacts: 
 Mentions: N-2, N-674, N-418, N-3
-Related Nodes: N-10571
+Related Nodes: N-10522
 Tags: relevance:core
 Investigative Direction: Check FAA flight data for the same-day round trip, and ask who met them in Long Beach.
 
@@ -2167,7 +2154,7 @@ Transcript Snippet: Charlie was taken out. He was stepping on the toes of very p
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:core
 Investigative Direction: Name the individuals or interests alleged; the host offers no document in this episode.
 
@@ -2183,7 +2170,7 @@ Transcript Snippet: The IDF has said they're not going to put boots on the groun
 
 Anchored Artifacts: 
 Mentions: N-5, N-36, N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:context
 Investigative Direction: Check March 2026 reports on US deployment and any IDF statement; the transcript's offensive remark that follows is not a claim.
 
@@ -2215,7 +2202,7 @@ Transcript Snippet: He resigned, now there's an interim sheriff in place, and th
 
 Anchored Artifacts: 
 Mentions: N-272, N-3
-Related Nodes: N-10029, N-11397
+Related Nodes: N-10029, N-11313
 Tags: relevance:core
 Investigative Direction: Check the Washington County Commission's appointment of an interim sheriff and the 2026 candidate filings.
 
@@ -2231,7 +2218,7 @@ Transcript Snippet: and there was a lot of speculation, and I saw that some peop
 
 Anchored Artifacts: 
 Mentions: N-272, N-3
-Related Nodes: N-11397
+Related Nodes: N-11313
 Tags: relevance:context
 Investigative Direction: Monitor Washington County Commission releases and local press for any explanation; identify who said more would come out.
 
@@ -2265,7 +2252,7 @@ Transcript Snippet: None of this has been presented as evidence and said, I was 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10021, N-10566
+Related Nodes: N-10021
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Check the probable-cause statement and docket for any recorded or signed admission, and for a statement by Robinson's father.
@@ -2282,7 +2269,7 @@ Transcript Snippet: Tyler Robinson repeatedly said that he was not guilty, that 
 
 Anchored Artifacts: 
 Mentions: N-40, N-125, N-3
-Related Nodes: N-10021, N-10141
+Related Nodes: N-10021, N-10136
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Seek the source and any corroborating witnesses; compare with Brooksby's statement that Robinson had suicidal ideation and was talked down by his parents.
@@ -2299,7 +2286,7 @@ Transcript Snippet: who used to work for the Sheriff's Department, but Tyler Rob
 
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-3
-Related Nodes: N-10141
+Related Nodes: N-10136
 Supports: C-1106
 Tags: relevance:core
 Investigative Direction: Check Scouting leadership rosters and Mitchell's retirement record against the host's earlier findings.
@@ -2333,7 +2320,7 @@ Transcript Snippet: And miraculously we have no footage of that day and I think 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10271
+Related Nodes: N-10255
 Supports: C-7402
 Tags: relevance:core
 Investigative Direction: Request the Washington County Sheriff's Office records on surveillance and body-camera footage for the surrender, and any retention policy explanation.
@@ -2350,7 +2337,7 @@ Transcript Snippet: this person told me that the feds planted the gun. This pers
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054, N-10360
+Related Nodes: N-10972, N-10336
 Supports: C-7403
 Tags: relevance:core
 Investigative Direction: Request K-9 deployment logs and chain-of-custody for the rifle; identify firsthand witnesses.
@@ -2367,7 +2354,7 @@ Transcript Snippet: Everyone in the town, all the local sheriff departments, the
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054
+Related Nodes: N-10972
 Tags: relevance:core
 Investigative Direction: Interview local law enforcement participants; compare timestamped dispatch and CAD records with federal statements about the gun's location.
 
@@ -2383,7 +2370,7 @@ Transcript Snippet: They didn't want the bomb dogs to go into certain places.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054
+Related Nodes: N-10972
 Supports: C-7404
 Tags: relevance:core
 Investigative Direction: Obtain K-9 unit logs and search maps showing which areas the dogs covered.
@@ -2400,7 +2387,7 @@ Transcript Snippet: That's how I got the pictures inside of the car.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Identify which images she means (the interior of Robinson's car) and when they first aired; ask her to document their provenance.
 
@@ -2416,7 +2403,7 @@ Transcript Snippet: I feel 99.9% certain that Tyler Robinson did not shoot Charl
 
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Her evidence is not shown in this episode; the host offers to debate and to testify for the defense.
 
@@ -2448,7 +2435,7 @@ Transcript Snippet: Basically, that this Mike Mitchell guy came in, there was pr
 
 Anchored Artifacts: 
 Mentions: N-272, N-125, N-40, N-3
-Related Nodes: N-10021, N-10566
+Related Nodes: N-10021
 Supports: C-976
 Tags: relevance:core
 Investigative Direction: Compare the full Brooksby press-conference transcript with the host's reading; he refers to an unnamed friend, not Mitchell, in the clips played.
@@ -2465,7 +2452,7 @@ Transcript Snippet: um I know who I know who Charlie Kirk's shooter is. Um I I k
 
 Anchored Artifacts: A-1908.1
 Mentions: N-272
-Related Nodes: N-10566, N-10029
+Related Nodes: N-10021, N-10029
 Tags: relevance:core
 Investigative Direction: Identify the friend and the religious association; compare with the court documents describing him as a retired Washington County deputy.
 
@@ -2481,7 +2468,7 @@ Transcript Snippet: by the way, flies in the face of the fact he later on says h
 
 Anchored Artifacts: A-1908.1
 Mentions: N-272, N-40, N-3
-Related Nodes: N-10142, N-10566
+Related Nodes: N-10137, N-10021
 Tags: relevance:core
 Investigative Direction: Reconcile the two statements in the full transcript of Brooksby's remarks and ask why the friend would relay the suicide concern.
 
@@ -2497,7 +2484,7 @@ Transcript Snippet: The best I could tell, it seems like he was working undercov
 
 Anchored Artifacts: 
 Mentions: N-125, N-3
-Related Nodes: N-10151
+Related Nodes: N-10146
 Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Check the 1999 Salt Lake County article and Mitchell's career record against the host's earlier findings.
@@ -2514,7 +2501,7 @@ Transcript Snippet: I think he was working with the feds on trying to to get Tyl
 
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-3
-Related Nodes: N-10141
+Related Nodes: N-10136
 Tags: relevance:core
 Investigative Direction: No evidence is offered; seek records of any federal contact with Mitchell before the surrender.
 
@@ -2563,7 +2550,7 @@ Transcript Snippet: It looks actually a lot more like Robby Hild coming up the s
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10153
+Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Compare the staircase image to publicly posted photos of the named person; this is a visual comparison by the host, not an identification by investigators.
 
@@ -2595,7 +2582,7 @@ Transcript Snippet: We got him. It was uh the Qureshi person. We got him. We got
 
 Anchored Artifacts: 
 Mentions: N-69, N-3, N-410
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Review Patel's posts on September 10-11, 2025 about an early detention and release, and the person involved.
 
@@ -2611,7 +2598,7 @@ Transcript Snippet: You have now Joe Kent telling you that he stopped him from i
 
 Anchored Artifacts: 
 Mentions: N-209, N-69, N-3
-Related Nodes: N-10355
+Related Nodes: N-10332
 Supports: C-7247
 Tags: relevance:core
 Investigative Direction: Review Kent's statements and the New York Times reporting on the Patel-Kent exchange (C-1966, C-1967).
@@ -2628,7 +2615,7 @@ Transcript Snippet: Why are they hosting Kash Patel on the Charlie Kirk show and
 
 Anchored Artifacts: 
 Mentions: N-209, N-69, N-3
-Related Nodes: N-10355, N-10000
+Related Nodes: N-10332, N-10000
 Tags: relevance:core
 Investigative Direction: List Patel's appearances on the Charlie Kirk Show since September 2025 and TPUSA's public statements about Kent.
 
@@ -2644,7 +2631,7 @@ Transcript Snippet: He had no access, Tyler Robinson, he was not there the night
 
 Anchored Artifacts: 
 Mentions: N-41, N-40, N-3
-Related Nodes: N-10566
+Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Check Cox's September 11-12 statements for his sources and whether he said he attended the surrender.
 
@@ -2660,7 +2647,7 @@ Transcript Snippet: He's the one that puts on the performance with Cash and says
 
 Anchored Artifacts: 
 Mentions: N-41, N-69, N-40, N-3
-Related Nodes: N-10021, N-10566
+Related Nodes: N-10021
 Supports: C-7656
 Tags: relevance:core
 Investigative Direction: Review the video of the Cox and Patel press conference for the exact language used on confession.
@@ -2677,7 +2664,7 @@ Transcript Snippet: This information was relayed to the Utah County Sheriff's Of
 
 Anchored Artifacts: A-1907.1
 Mentions: N-41, N-40
-Related Nodes: N-10566, N-10012
+Related Nodes: N-10021, N-10012
 Tags: relevance:core
 Investigative Direction: Request Utah County Sheriff and FBI logs of when the tip from Washington County was received.
 
@@ -2693,7 +2680,7 @@ Transcript Snippet: never says that he signed a statement, never says that he sa
 
 Anchored Artifacts: 
 Mentions: N-272, N-40, N-775, N-3
-Related Nodes: N-10021, N-10566
+Related Nodes: N-10021
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Compare to full transcripts of Brooksby's press conferences (C-3227, C-3229).
@@ -2726,7 +2713,7 @@ Transcript Snippet: Mike Mitchell is now speaking on behalf of Matt Robinson.
 
 Anchored Artifacts: 
 Mentions: N-125, N-775, N-3
-Related Nodes: N-10141, N-10022
+Related Nodes: N-10136, N-10022
 Tags: relevance:core
 Investigative Direction: Find any public statement by Mitchell for the Robinson family and any police-station statement signed by him.
 
@@ -2742,7 +2729,7 @@ Transcript Snippet: Tyler knew it was just inevitable with all the law enforceme
 
 Anchored Artifacts: A-1908.2
 Mentions: N-272, N-40
-Related Nodes: N-10566
+Related Nodes: N-10021
 Tags: relevance:core
 Investigative Direction: Review the full press conference for context and compare with C-7663.
 
@@ -2758,7 +2745,7 @@ Transcript Snippet: Yes, Walt Disney was a Freemason.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Check Disney's DeMolay and Masonic records; the '33 Club' and tunnel claims are folklore, not shown.
 
@@ -2806,7 +2793,7 @@ Transcript Snippet: Many of you actually wrote this in the comments and I can't 
 
 Anchored Artifacts: A-1911.1
 Mentions: N-2, N-3
-Related Nodes: N-10443
+Related Nodes: N-10412
 Tags: relevance:core
 Investigative Direction: Check the NYT article date and text for the quoted remarks.
 
@@ -2822,7 +2809,7 @@ Transcript Snippet: She was like they she said she was on a plane, too. And she 
 
 Anchored Artifacts: 
 Mentions: N-99, N-3
-Related Nodes: N-10443
+Related Nodes: N-10412
 Tags: relevance:core
 Investigative Direction: Find the original Alex Clark interview or post with these words; the host paraphrases and gives no clip.
 
@@ -2838,7 +2825,7 @@ Transcript Snippet: This is the first book club book that I'm reading with the b
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:tangential
 Investigative Direction: Identify the title and author of the book club selection; the host's characterization of its thesis is hers.
 
@@ -2854,7 +2841,7 @@ Transcript Snippet: Joe Kent, the police at Orem resigned.
 
 Anchored Artifacts: A-1911.1
 Mentions: N-209, N-3
-Related Nodes: N-10129, N-10546
+Related Nodes: N-10124, N-10501
 Supports: C-1268
 Tags: relevance:core
 Investigative Direction: Check Orem Police staffing changes since September 2025 and Joe Kent's resignation date.
@@ -2871,7 +2858,7 @@ Transcript Snippet: About I think seven sets of prints on it.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054, N-10572
+Related Nodes: N-10972, N-10523
 Tags: relevance:core
 Investigative Direction: Check the FBI/ATF lab reports and court filings for the number of latent prints on the rifle.
 
@@ -2887,7 +2874,7 @@ Transcript Snippet: They cannot prove that that gun was fired and killed Charlie
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10572, N-10621, N-11054
+Related Nodes: N-10523, N-10567, N-10972
 Supports: C-7403
 Tags: relevance:core
 Investigative Direction: Review the ATF ballistics comparison finding and any later report; the ATF finding is described as inconclusive in an existing node.
@@ -2904,7 +2891,7 @@ Transcript Snippet: I was being called a Russian agent by Alexis Wilkins.
 
 Anchored Artifacts: 
 Mentions: N-212, N-3
-Related Nodes: N-10563
+Related Nodes: N-10515
 Tags: relevance:context
 Investigative Direction: Locate the Wilkins posts calling the host a Russian agent and their dates.
 
@@ -2920,7 +2907,7 @@ Transcript Snippet: That's her granddad was a Freemason. Her dad was in the DeMo
 
 Anchored Artifacts: 
 Mentions: N-212, N-3
-Related Nodes: N-11129
+Related Nodes: N-11047
 Supports: C-2797
 Tags: relevance:context
 Investigative Direction: Find the newspaper item the host cites on the Wilkins family's DeMolay membership.
@@ -2937,7 +2924,7 @@ Transcript Snippet: And then I find out House Inhabit dealing with Andrew Kolvet
 
 Anchored Artifacts: 
 Mentions: N-610, N-14, N-3
-Related Nodes: N-10919
+Related Nodes: N-10840
 Tags: relevance:core
 Investigative Direction: Find direct communications or reporting linking Reed Kraus and Kolvet; compare with the host's earlier claims.
 
@@ -2953,7 +2940,7 @@ Transcript Snippet: She was using AI images of my husband with Milo.
 
 Anchored Artifacts: 
 Mentions: N-30, N-220, N-610, N-3
-Related Nodes: N-10919
+Related Nodes: N-10840
 Tags: relevance:context
 Investigative Direction: Locate the AI images and the account that posted them; confirm who the host means by 'she' (transcript likely House Inhabit).
 
@@ -3000,7 +2987,7 @@ Transcript Snippet: Israel runs X, guys.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10722
+Related Nodes: N-10657
 Tags: relevance:context
 Investigative Direction: No document is shown; look for ownership, data-sharing agreements or published reports on X's Israeli operations.
 
@@ -3016,7 +3003,7 @@ Transcript Snippet: I actually know the exact way that they have the X has a dea
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10722
+Related Nodes: N-10657
 Tags: relevance:context
 Investigative Direction: Ask the host for the text messages and the person who told her; verify against published agreements.
 
@@ -3032,7 +3019,7 @@ Transcript Snippet: I traced it back to the Philippines uh who made the website?
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11131, N-10117
+Related Nodes: N-11049, N-10113
 Tags: relevance:core
 Investigative Direction: Identify the site, registrant and hosting records via WHOIS and the Internet Archive; the host did not give the URL on air.
 
@@ -3048,7 +3035,7 @@ Transcript Snippet: He was so worried, he called the priest over to pray. Even t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11131, N-10117
+Related Nodes: N-11049, N-10113
 Tags: relevance:core
 Investigative Direction: Find the original source of the priest account (the earlier episode attributes it to a Megyn Kelly relay) and verify through the priest or witnesses.
 
@@ -3061,7 +3048,7 @@ Investigative Direction: Find the original source of the priest account (the ear
 - C-7656 (Governor Cox, A-1907.1): Robinson had "confessed to them or implied that he had committed the incident."
 - C-7663 (Sheriff Brooksby, A-1908.2): Robinson was "fearful of a SWAT team hit on his house" and "fearful of being shot by law enforcement"; the negotiation involved bringing him in "as delicate and as soft as possible."
 
-These two artifact-anchored accounts cannot comfortably coexist. Cox's framing presents Robinson as making a confession/implication of guilt to family or friends; Brooksby's framing presents Robinson as someone who denied wrongdoing and was induced to surrender through pressure and fear of force, with no mention of any confession or admission of guilt. This contradiction is registered under N-10566 (Tyler Robinson Confession Narrative Discrepancy).
+These two artifact-anchored accounts cannot comfortably coexist. Cox's framing presents Robinson as making a confession/implication of guilt to family or friends; Brooksby's framing presents Robinson as someone who denied wrongdoing and was induced to surrender through pressure and fear of force, with no mention of any confession or admission of guilt. This contradiction is registered under N-10021 (Tyler Robinson Confession Narrative Discrepancy).
 
 ---
 

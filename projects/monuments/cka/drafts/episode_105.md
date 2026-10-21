@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq105
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep105): N-10814
+  - Hole-minted Nodes (reintro-ep105): N-10738
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-625, N-626, N-627, N-628, N-629, N-630, N-10930, N-10931, N-10932, N-10933, N-10935
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-159, N-160, N-190, N-280, N-370, N-373, N-544, N-614, N-620, N-621, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923, N-10934, N-10929, N-624
+  - Tip-minted Nodes (skeleton): N-625, N-626, N-627, N-628, N-629, N-630, N-10851, N-10852, N-10853, N-10854, N-10856
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-159, N-160, N-190, N-280, N-370, N-373, N-544, N-614, N-620, N-621, N-10000, N-10067, N-10072, N-10120, N-10189, N-10294, N-10299, N-10390, N-10474, N-10582, N-10583, N-10594, N-10809, N-10820, N-10844, N-10855, N-10850, N-624
   - Claim Range: C-9255–C-9309
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:06:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9255, C-9264, C-9265, C-9266, C-9267, C-9268, C-9275, N-2, N-10923, N-10888*
+*Related: C-9255, C-9264, C-9265, C-9266, C-9267, C-9268, C-9275, N-2, N-10844, N-10809*
 
 **A-2581.2** Host's reading of the email's sender domain and recipient list
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:10:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9269, C-9271, C-9272, C-9273, C-9274, N-280, N-160, N-625, N-621, N-620, N-626, N-10931*
+*Related: C-9269, C-9271, C-9272, C-9273, C-9274, N-280, N-160, N-625, N-621, N-620, N-626, N-10852*
 
 **A-2581.3** Quote from White House sources describing the White House Communications Agency (read aloud)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:09:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9270, N-10931, N-10888*
+*Related: C-9270, N-10852, N-10809*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9278, N-2, N-10515*
+*Related: C-9278, N-2, N-10474*
 
 **A-2582.2** Clip of Erika Kirk's Wednesday Charlie Kirk Show remarks on radicalization (played)
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:15:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9279, N-69, N-10637*
+*Related: C-9279, N-69, N-10582*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:17:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9281, C-9282, C-9283, C-9284, C-9285, C-9286, N-627, N-628, N-10933, N-10125*
+*Related: C-9281, C-9282, C-9283, C-9284, C-9285, C-9286, N-627, N-628, N-10854, N-10120*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9288, N-627, N-22, N-10933*
+*Related: C-9288, N-627, N-22, N-10854*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:31:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9295, C-9296, N-14, N-159, N-3, N-10934*
+*Related: C-9295, C-9296, N-14, N-159, N-3, N-10855*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:38:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9302, N-614, N-2, N-10899, N-10472*
+*Related: C-9302, N-614, N-2, N-10820, N-10390*
 
 **A-2587.2** Host verbal reference to the earlier Paramount Tactical stream clip showing the Fort Huachuca alibi photo (not replayed)
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:37:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9299, C-9300, C-9301, N-614, N-14, N-2, N-10899*
+*Related: C-9299, C-9300, C-9301, N-614, N-14, N-2, N-10820*
 
 ---
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:41:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9304, N-544, N-2, N-10472*
+*Related: C-9304, N-544, N-2, N-10390*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:42:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9305, C-9306, N-5, N-629, N-10935*
+*Related: C-9305, C-9306, N-5, N-629, N-10856*
 
 **A-2589.2** Headline on the Hasidic Jewish donors behind the statue (shown)
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:43:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9307, N-10935*
+*Related: C-9307, N-10856*
 
 ---
 ## 4. Node Register
@@ -370,140 +370,140 @@ Organization the host places in an alliance with the White House and the militar
 
 *Related: C-9289, C-9290, C-9292, C-9293, C-9295*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Erika Kirk said she came to DC to confront its reporters.
 
 *Related: C-9261*
 
-**N-10075** White House
+**N-10072** White House
 
 Site of Erika Kirk's West Wing visit and the 10:33 p.m. press conference; base of the communications agency.
 
 *Related: C-9260, C-9276, C-9277*
 
-**N-10125** Utah
+**N-10120** Utah
 
 State where the Stratos data center was approved.
 
 *Related: C-9281, C-9282, C-9283, A-2584.1*
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 The host says everyone at Turning Point USA now seems connected to the military.
 
 *Related: C-9289*
 
-**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
+**N-10294** Charlie Kirk Show Apple Podcasts Ranking Decline
 
 The host says the show, once top 10, now averages 380 views per episode.
 
 *Related: C-9292*
 
-**N-10318** Operation Mockingbird 2.0 Allegation
+**N-10299** Operation Mockingbird 2.0 Allegation
 
 The host frames the WHCD messaging as "operation mockingbird on steroids."
 
 *Related: C-9258*
 
-**N-10472** Fort Huachuca Alibi Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 The children in Erika Kirk's alibi photo and Paramount Tactical's statements about them.
 
 *Related: C-9299, C-9300, C-9301, C-9302, C-9304, A-2587.1, A-2588.1*
 
-**N-10515** Erika Kirk Twitter Silence Break Pattern
+**N-10474** Erika Kirk Twitter Silence Break Pattern
 
 Erika Kirk's post-WHCD statement breaking her silence.
 
 *Related: C-9278, A-2582.1*
 
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 Timing of the shooting, the clip upload, the email and the press conference.
 
 *Related: C-9256, C-9262, C-9264, C-9276, C-9277, C-9279, A-2583.1*
 
-**N-10638** Sara Sidner Original Video Source Verification
+**N-10583** Sara Sidner Original Video Source Verification
 
 Who filmed and first uploaded the Erika Kirk clip.
 
 *Related: C-9263, C-9308*
 
-**N-10652** Dhillon Law Group / Show Faith by Works Connection
+**N-10594** Dhillon Law Group / Show Faith by Works Connection
 
 The host ties Matthew Shupe to Dhillon Law Group.
 
 *Related: C-9308*
 
-**N-10814** Pentagon–State Department–TPUSA Coordinated Messaging Operation
+**N-10738** Pentagon–State Department–TPUSA Coordinated Messaging Operation
 
 The email's surrogate and digital-partner amplification instructions.
 
 *Related: C-9258, C-9267, C-9268, C-9290*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 The host says the email came from the Department of Defense through the White House Communications Agency.
 
 *Related: C-9258, C-9265, C-9270, A-2581.1, A-2581.3*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Account whose host showed and then disowned the relevance of the Fort Huachuca alibi photo.
 
 *Related: C-9299, C-9300, C-9302, A-2587.1, A-2587.2*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. According to the host's verbatim retyping, it calls the clip the "strongest emotional response asset" and recommends that all channels, digital partners and approved surrogates amplify it. It also expects aligned outside commentators to push themes on protective response, media conduct, political rhetoric and executive stability. The host names recipients including Karoline Leavitt's press office, Steven Cheung and several military communications staff, and calls for FOIA requests.
 
-*Related: C-9255, C-9258, C-9264, C-9265, C-9266, C-9267, C-9268, C-9269, C-9271, C-9272, C-9273, C-9274, C-9275, A-2581.1, A-2581.2, N-2, N-10931*
+*Related: C-9255, C-9258, C-9264, C-9265, C-9266, C-9267, C-9268, C-9269, C-9271, C-9272, C-9273, C-9274, C-9275, A-2581.1, A-2581.2, N-2, N-10852*
 
-**N-10929** Erika Kirk Air Force Academy Board of Visitors Appointment
+**N-10850** Erika Kirk Air Force Academy Board of Visitors Appointment
 
 Node Type: Topic
 Investigation target: Erika Kirk's appointment to the U.S. Air Force Academy Board of Visitors in her late husband's place, which the host says was artificial and of unclear qualification.
 
 *Related: C-9259, N-2*
 
-**N-10930** Erika Kirk Pre-WHCD West Wing Visit
+**N-10851** Erika Kirk Pre-WHCD West Wing Visit
 
 Node Type: Topic
 Investigation target: Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her.
 
 *Related: C-9260, N-2, N-14, N-190*
 
-**N-10931** White House Communications Agency
+**N-10852** White House Communications Agency
 
 Node Type: Organization
 Department of Defense military communications unit embedded in the White House. The host says the amplification email was delivered from its military office domain and that several recipients hold positions there.
 
 *Related: C-9269, C-9270, C-9272, C-9273, A-2581.2, A-2581.3, N-625, N-621*
 
-**N-10932** WHCD Night White House "No Scramble" Readiness Question
+**N-10853** WHCD Night White House "No Scramble" Readiness Question
 
 Node Type: Topic
 Investigation target: the host's White House sources say that on the Saturday evening of the WHCD, when the White House was not open for business, staff were unusually available and on standby, with no scramble before the 10:33 p.m. press conference.
 
 *Related: C-9276, C-9277*
 
-**N-10933** Stratos AI Data Center (Box Elder County, Utah)
+**N-10854** Stratos AI Data Center (Box Elder County, Utah)
 
 Node Type: Topic
 A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state.
 
 *Related: C-9281, C-9282, C-9283, C-9284, C-9285, C-9286, C-9288, A-2584.1, A-2585.1, N-627, N-628*
 
-**N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
+**N-10855** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
 
 Node Type: Topic
 Investigation target: the May 8 Charlie Kirk Show segment in which Andrew Kolvet and Blake Neff discussed Preborn sponsoring the host's show and encouraged viewers to email sponsors. The host links it to the same weekend's X campaign to boycott her advertisers.
 
 *Related: C-9294, C-9295, C-9296, C-9297, A-2586.1, N-14, N-159*
 
-**N-10935** Florida Golden Trump Statue
+**N-10856** Florida Golden Trump Statue
 
 Node Type: Topic
 A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it.
@@ -522,7 +522,7 @@ Transcript Snippet: the email that uh we presented that the White House military
 
 Anchored Artifacts: A-2581.1
 Mentions: N-2
-Related Nodes: N-10923, N-10637
+Related Nodes: N-10844, N-10582
 Investigative Direction: File FOIA requests for White House Military Office and White House Communications Agency email traffic on the evening of April 25, 2026.
 
 ---
@@ -537,7 +537,7 @@ Transcript Snippet: a sitting president has survived not one, not two, but three
 
 Anchored Artifacts:
 Mentions: N-5
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Compile Secret Service and FBI records of the Butler, West Palm Beach and WHCD incidents and their dates.
 
 ---
@@ -567,7 +567,7 @@ Transcript Snippet: But now we have the proof at the very least that its amplifi
 
 Anchored Artifacts: A-2581.1
 Mentions: N-2
-Related Nodes: N-10923, N-10888, N-10814, N-10318
+Related Nodes: N-10844, N-10809, N-10738, N-10299
 Investigative Direction: Authenticate the email through the White House Communications Agency and the named recipients, and obtain any related tasking to digital partners.
 
 ---
@@ -582,7 +582,7 @@ Transcript Snippet: Dr. Erika Kirk was herself promoted to the Air Force Academy
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10929
+Related Nodes: N-10850
 Investigative Direction: Obtain the appointment notice and membership roster of the U.S. Air Force Academy Board of Visitors.
 
 ---
@@ -597,7 +597,7 @@ Transcript Snippet: just ahead of the White House correspondence dinner shooting
 
 Anchored Artifacts:
 Mentions: N-2, N-14, N-190
-Related Nodes: N-10930, N-10075
+Related Nodes: N-10851, N-10072
 Investigative Direction: Obtain White House visitor (WAVES) records for Erika Kirk, Andrew Kolvet and Mikey McCoy for the days before April 25, 2026.
 
 ---
@@ -612,7 +612,7 @@ Transcript Snippet: she did this and braved everything to confront Daily Mail re
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10070, N-10930
+Related Nodes: N-10067, N-10851
 Supports: C-8588
 Investigative Direction: Compare Erika Kirk's public explanation of her DC trip with her West Wing visit records and schedule.
 
@@ -628,7 +628,7 @@ Transcript Snippet: the shooting happened at 8:39 p. m. 8:39 p. m. Eastern.
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Confirm the time from Secret Service and Metropolitan Police incident reports.
 
 ---
@@ -643,7 +643,7 @@ Transcript Snippet: Sydney Sidner of CNN uploaded the video of Erika Kirk at 9:2
 
 Anchored Artifacts:
 Mentions: N-370, N-2
-Related Nodes: N-10638
+Related Nodes: N-10583
 Supports: C-8577
 Investigative Direction: Archive Sidner's original post with its timestamp and establish who filmed the clip.
 
@@ -659,7 +659,7 @@ Transcript Snippet: approximately 25 minutes later, we revealed to you that the 
 
 Anchored Artifacts: A-2581.1
 Mentions: N-370
-Related Nodes: N-10923, N-10637
+Related Nodes: N-10844, N-10582
 Investigative Direction: Obtain the email's header timestamps and distribution list through FOIA or the named recipients.
 
 ---
@@ -674,7 +674,7 @@ Transcript Snippet: I just typed it the email verbatim onto uh Microsoft Word to
 
 Anchored Artifacts: A-2581.1
 Mentions: N-3
-Related Nodes: N-10923, N-10888
+Related Nodes: N-10844, N-10809
 Investigative Direction: Seek authentication of the email text from a second source or through FOIA release of the original.
 
 ---
@@ -689,7 +689,7 @@ Transcript Snippet: Video clip of Erika Kirk leaving the ballroom area and stati
 
 Anchored Artifacts: A-2581.1
 Mentions: N-2
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Obtain the original email and any social-listening reports the White House relied on that night.
 
 ---
@@ -704,7 +704,7 @@ Transcript Snippet: All communications channels should amplify this clip, coordi
 
 Anchored Artifacts: A-2581.1
 Mentions: N-2
-Related Nodes: N-10923, N-10814
+Related Nodes: N-10844, N-10738
 Investigative Direction: FOIA any list of "approved surrogates" or digital partners used by White House communications.
 
 ---
@@ -719,7 +719,7 @@ Transcript Snippet: external commentary expect aligned outside commentators. So 
 
 Anchored Artifacts: A-2581.1
 Mentions:
-Related Nodes: N-10923, N-10814
+Related Nodes: N-10844, N-10738
 Investigative Direction: Compare the themes listed in the email against commentator posts in the hours after the shooting.
 
 ---
@@ -734,7 +734,7 @@ Transcript Snippet: the email was delivered from the military office domain from
 
 Anchored Artifacts: A-2581.2
 Mentions:
-Related Nodes: N-10923, N-10931
+Related Nodes: N-10844, N-10852
 Investigative Direction: Verify the sender domain through the original message headers.
 
 ---
@@ -749,7 +749,7 @@ Transcript Snippet: The White House Correspondence Agency is a Department of Def
 
 Anchored Artifacts: A-2581.3
 Mentions:
-Related Nodes: N-10931, N-10888
+Related Nodes: N-10852, N-10809
 Investigative Direction: Check DoD and White House Military Office documentation on the WHCA's chain of command and mission.
 
 ---
@@ -764,7 +764,7 @@ Transcript Snippet: The email was sent to Karoline Leavitt's press office and te
 
 Anchored Artifacts: A-2581.2
 Mentions: N-280
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Ask the White House press office to confirm or deny receipt of the email.
 
 ---
@@ -779,7 +779,7 @@ Transcript Snippet: We covered some of this yesterday with Steven Cheung who is 
 
 Anchored Artifacts: A-2581.2
 Mentions: N-160, N-625
-Related Nodes: N-10923, N-10931
+Related Nodes: N-10844, N-10852
 Investigative Direction: Confirm the named individuals' positions and their inclusion on the distribution list.
 
 ---
@@ -794,7 +794,7 @@ Transcript Snippet: Uh Gustav Anderly, also military position, information syste
 
 Anchored Artifacts: A-2581.2
 Mentions: N-621, N-620
-Related Nodes: N-10923, N-10931
+Related Nodes: N-10844, N-10852
 Investigative Direction: Verify these names and roles in DoD and Navy personnel listings.
 
 ---
@@ -809,7 +809,7 @@ Transcript Snippet: They also have someone named Michaela Mott who was on this e
 
 Anchored Artifacts: A-2581.2
 Mentions: N-626
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Verify the name and Navy role, and the distribution list of the original email.
 
 ---
@@ -824,7 +824,7 @@ Transcript Snippet: She is described in the email as an emotional response asset
 
 Anchored Artifacts: A-2581.1
 Mentions: N-2
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Obtain the original email text to confirm the exact wording.
 
 ---
@@ -839,7 +839,7 @@ Transcript Snippet: Everybody was somehow available and on standby for some unkn
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10932, N-10075, N-10637
+Related Nodes: N-10853, N-10072, N-10582
 Investigative Direction: Obtain White House staff duty rosters and badge-access logs for the evening of April 25, 2026.
 
 ---
@@ -854,7 +854,7 @@ Transcript Snippet: a late night presser at the White House, which as we as we k
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10932, N-10075, N-10637
+Related Nodes: N-10853, N-10072, N-10582
 Investigative Direction: Confirm the press conference start time from White House video archives.
 
 ---
@@ -869,7 +869,7 @@ Transcript Snippet: I will be joining the Charlie Kirk show Wednesday at 12:00 p
 
 Anchored Artifacts: A-2582.1
 Mentions: N-2
-Related Nodes: N-10515
+Related Nodes: N-10474
 Investigative Direction: Archive Erika Kirk's original post with its timestamp.
 
 ---
@@ -884,7 +884,7 @@ Transcript Snippet: Kash Patel's stunning reaction as the shooter opened fired a
 
 Anchored Artifacts: A-2583.1
 Mentions: N-69
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Identify the outlet, author and publication time of the article.
 
 ---
@@ -914,7 +914,7 @@ Transcript Snippet: The Stratos Artificial Intelligence Data Center footprint wi
 
 Anchored Artifacts: A-2584.1
 Mentions:
-Related Nodes: N-10933, N-10125
+Related Nodes: N-10854, N-10120
 Investigative Direction: Obtain Box Elder County planning filings for the Stratos project.
 
 ---
@@ -929,7 +929,7 @@ Transcript Snippet: The facility will require um about 9 gawatts of power, which
 
 Anchored Artifacts: A-2584.1
 Mentions:
-Related Nodes: N-10933, N-10125
+Related Nodes: N-10854, N-10120
 Investigative Direction: Compare the project's stated power demand with Utah's total electricity consumption data.
 
 ---
@@ -944,7 +944,7 @@ Transcript Snippet: Last week, the project was approved by the county's commissi
 
 Anchored Artifacts: A-2584.1
 Mentions:
-Related Nodes: N-10933, N-10125
+Related Nodes: N-10854, N-10120
 Investigative Direction: Obtain the commission's vote record and the public comment count.
 
 ---
@@ -959,7 +959,7 @@ Transcript Snippet: the proposed project is backed by Kevin O'Leary, the venture
 
 Anchored Artifacts: A-2584.1
 Mentions: N-627
-Related Nodes: N-10933
+Related Nodes: N-10854
 Investigative Direction: Identify the Stratos project's investors and corporate filings.
 
 ---
@@ -974,7 +974,7 @@ Transcript Snippet: Lee Perry, who was the box elder county commissioner, said l
 
 Anchored Artifacts: A-2584.1
 Mentions: N-628
-Related Nodes: N-10933
+Related Nodes: N-10854
 Investigative Direction: Locate Perry's original statement and any police reports of threats.
 
 ---
@@ -989,7 +989,7 @@ Transcript Snippet: O'Leary has claimed in social media posts that most of the p
 
 Anchored Artifacts: A-2584.1
 Mentions: N-627
-Related Nodes: N-10933
+Related Nodes: N-10854
 Investigative Direction: Archive O'Leary's posts and compare with the residency of people who lodged objections.
 
 ---
@@ -1019,7 +1019,7 @@ Transcript Snippet: facial recognition technology has finally got to the resolut
 
 Anchored Artifacts: A-2585.1
 Mentions: N-627, N-22
-Related Nodes: N-10933
+Related Nodes: N-10854
 Investigative Direction: Archive the full Tucker Carlson interview.
 
 ---
@@ -1034,7 +1034,7 @@ Transcript Snippet: underscored how it seems that everyone is randomly connected
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10197, N-10000
+Related Nodes: N-10189, N-10000
 Investigative Direction: Compile the military service and affiliation records of TPUSA senior staff and board members.
 
 ---
@@ -1049,7 +1049,7 @@ Transcript Snippet: 48 hours later, she tells us, "Sign up for Turning Point USA
 
 Anchored Artifacts:
 Mentions: N-2, N-1, N-40
-Related Nodes: N-10000, N-10814
+Related Nodes: N-10000, N-10738
 Investigative Direction: Compare the timing of Erika Kirk's September 2025 statements with any internal TPUSA or government messaging guidance.
 
 ---
@@ -1080,7 +1080,7 @@ Transcript Snippet: the Charlie Kirk show, is now averaging 380 views per episod
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10312, N-10000
+Related Nodes: N-10294, N-10000
 Investigative Direction: Pull YouTube and podcast chart data for the Charlie Kirk Show.
 
 ---
@@ -1110,7 +1110,7 @@ Transcript Snippet: like you could just draw a direct line on X began trying to 
 
 Anchored Artifacts:
 Mentions: N-2, N-3
-Related Nodes: N-10934
+Related Nodes: N-10855
 Investigative Direction: Analyze the accounts that posted the boycott calls for creation dates and coordination patterns.
 
 ---
@@ -1125,7 +1125,7 @@ Transcript Snippet: Pre-born is a uh is a sponsor of Candace Owens show. Um, and
 
 Anchored Artifacts: A-2586.1
 Mentions: N-14, N-159, N-3
-Related Nodes: N-10934, N-10000
+Related Nodes: N-10855, N-10000
 Investigative Direction: Archive the full May 8 episode and identify which host made each statement.
 
 ---
@@ -1140,7 +1140,7 @@ Transcript Snippet: I would encourage you to send them an email, you could say, 
 
 Anchored Artifacts: A-2586.1
 Mentions: N-14, N-159
-Related Nodes: N-10934
+Related Nodes: N-10855
 Investigative Direction: Identify the speaker and whether TPUSA staff contacted Preborn directly.
 
 ---
@@ -1155,7 +1155,7 @@ Transcript Snippet: We do not put handcuffs on our sponsors. Okay? We do not put
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10934
+Related Nodes: N-10855
 Investigative Direction: Review sponsor contract terms, if disclosed, for exclusivity or cancellation clauses.
 
 ---
@@ -1185,7 +1185,7 @@ Transcript Snippet: we showed you the clip, the now famed clip of Erika and Andr
 
 Anchored Artifacts: A-2587.2
 Mentions: N-2, N-14, N-614
-Related Nodes: N-10472, N-10899
+Related Nodes: N-10390, N-10820
 Supports: C-4484
 Investigative Direction: Archive the Paramount Tactical Valhalla stream and any messages from Kolvet supplying the alibi.
 
@@ -1201,7 +1201,7 @@ Transcript Snippet: First, he said like, you know, it's not her son.
 
 Anchored Artifacts: A-2587.2
 Mentions: N-614, N-2
-Related Nodes: N-10472, N-10899
+Related Nodes: N-10390, N-10820
 Supports: C-9135
 Investigative Direction: Archive Paramount Tactical's original statement on the photo.
 
@@ -1217,7 +1217,7 @@ Transcript Snippet: people with direct knowledge and who know the daughter say t
 
 Anchored Artifacts: A-2587.2
 Mentions: N-2
-Related Nodes: N-10472
+Related Nodes: N-10390
 Investigative Direction: Establish the provenance and date of the photo and the identities of the children shown.
 
 ---
@@ -1232,7 +1232,7 @@ Transcript Snippet: The fact is we don't know. It hasn't been clarified by Erika
 
 Anchored Artifacts: A-2587.1
 Mentions: N-614, N-2
-Related Nodes: N-10472, N-10899
+Related Nodes: N-10390, N-10820
 Investigative Direction: Archive the tweet and the follow-up posts with timestamps.
 
 ---
@@ -1247,7 +1247,7 @@ Transcript Snippet: I'm terrified to understand that Paramount, not so tactical,
 
 Anchored Artifacts:
 Mentions: N-614
-Related Nodes: N-10899
+Related Nodes: N-10820
 Investigative Direction: Verify Melton's service record through Army Special Forces records.
 
 ---
@@ -1262,7 +1262,7 @@ Transcript Snippet: even Tracy Martin, Erika's dear, long 15-year friend, jumped
 
 Anchored Artifacts: A-2588.1
 Mentions: N-544, N-2
-Related Nodes: N-10472
+Related Nodes: N-10390
 Supports: C-9135
 Investigative Direction: Archive Tracy Martin's statement and identify the children and date of the playdate.
 
@@ -1278,7 +1278,7 @@ Transcript Snippet: a 22 foot golden statue of President Donald Trump at one of 
 
 Anchored Artifacts: A-2589.1
 Mentions: N-5
-Related Nodes: N-10935
+Related Nodes: N-10856
 Investigative Direction: Identify the golf course, date of unveiling and the commissioning party.
 
 ---
@@ -1293,7 +1293,7 @@ Transcript Snippet: the pastor John Mark Burns, an evangelical minister, um is d
 
 Anchored Artifacts: A-2589.1
 Mentions: N-629, N-5
-Related Nodes: N-10935
+Related Nodes: N-10856
 Investigative Direction: Archive Burns's public statements on the statue.
 
 ---
@@ -1308,7 +1308,7 @@ Transcript Snippet: backed not by Christians financially um but by I believe the
 
 Anchored Artifacts: A-2589.2
 Mentions: N-5
-Related Nodes: N-10935
+Related Nodes: N-10856
 Investigative Direction: Identify the article and the named donors or funding entity behind the statue.
 
 ---
@@ -1323,7 +1323,7 @@ Transcript Snippet: Could it have been the other PR agent Andrew Kolvet was with
 
 Anchored Artifacts:
 Mentions: N-630, N-373, N-14, N-2
-Related Nodes: N-10638, N-10652
+Related Nodes: N-10583, N-10594
 Investigative Direction: Confirm Shupe's client relationships and whether he was at the WHCD near Erika Kirk when the clip was filmed.
 
 ---
@@ -1338,7 +1338,7 @@ Transcript Snippet: I know Harit was sitting with sitting with Andrew Kolvet.
 
 Anchored Artifacts:
 Mentions: N-373, N-14
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Obtain the WHCD seating chart and photographs of the relevant table.
 
 ---
@@ -1619,7 +1619,7 @@ Confidence: high
 - **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only "tip" match is inside "multiple" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.
 - **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.
 - **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.
-- **Name matching**: "Sydney Sidner" is mapped to N-370 Sara Sidner (CNN). "Steven Cheung" is mapped to N-160 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-373 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin O'Leary", "O'Leary" and "Kevin O'Leary" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-614) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
+- **Name matching**: "Sydney Sidner" is mapped to N-370 Sara Sidner (CNN). "Steven Cheung" is mapped to N-160 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-373 Harmeet Dhillon and N-10594. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin O'Leary", "O'Leary" and "Kevin O'Leary" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-614) separate from the org node N-10820 Paramount Tactical Valhalla, and the integrator may wish to link them.
 - **Transcription ambiguities**: "White House Correspondence Agency" in the read quote (09:00) is taken to mean the White House Communications Agency. "acidic"/"acetic" Jews is kept as written and read as Hasidic. "Fort Huachuca" means Fort Huachuca. "Charlie Cook" (26:33, 35:20) is read as Charlie Kirk. The host says "Department of Justice" at 12:19 where context suggests Defense. "SCOPS" and "scops" are probably "psyops."
 - **Factual caveat**: C-9257 records the host's statement that Putin has been president for 22 years as spoken, without correction.
 - **Not inscribed as claims (admission test)**: "We are living inside of an episode of Black Mirror"; "operation mockingbird on steroids"; "We, all of us, we were the actual targets"; Erika Kirk as "a piece of military technology" or "Israeli tech"; "she socially engineered Charlie"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as "the ultimate Trojan horse"; the Charlie Kirk Show hosts "maybe kind of hate Charlie Kirk"; Erika Kirk having trouble producing real tears; the ballroom "surrogates" gut feeling; and rhetorical questions about Erika's West Wing visit.

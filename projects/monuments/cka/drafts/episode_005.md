@@ -15,14 +15,14 @@
 - **Transcript SHA-256**: b704370251f8857dac366787278287738cc424dfb3e336d044bdb3646f0f1310
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11317, N-11318
-  - Hole-minted Nodes (reintro-ep005): N-10070, N-10089, N-10124, N-10270, N-10543
-  - Tip-minted Nodes (reintro-ep005): N-11099
+  - Tip-minted Nodes (supplement_2026-10f): N-11233, N-11234
+  - Hole-minted Nodes (reintro-ep005): N-10067, N-10085, N-10119, N-10254, N-10498
+  - Tip-minted Nodes (reintro-ep005): N-11017
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-391–C-498
   - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119, A-2517
-  - New Nodes Introduced: N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-10048, N-10049, N-10050, N-10051, N-10052, N-10053, N-10054, N-10055, N-10057, N-10058, N-10059, N-10060, N-10061, N-10063, N-10064
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-10000, N-10011, N-10012, N-10026, N-10027, N-54, N-10062, N-10056, N-5, N-39, N-41, N-43, N-46, N-50, N-10002, N-10003, N-10008, N-10016, N-10018, N-10019, N-10025, N-10032, N-10033, N-10036, N-10037, N-10042, N-10268, N-10898, N-82, N-10077, N-10134, N-10456
+  - New Nodes Introduced: N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-10045, N-10046, N-10047, N-10048, N-10049, N-10050, N-10051, N-10052, N-10054, N-10055, N-10056, N-10057, N-10058, N-10060, N-10061
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-10000, N-10011, N-10012, N-10026, N-10027, N-54, N-10059, N-10053, N-5, N-39, N-41, N-43, N-46, N-50, N-10002, N-10003, N-10008, N-10016, N-10018, N-10019, N-10025, N-10032, N-10035, N-10036, N-10252, N-10819, N-82, N-10074, N-10129, N-10425
 
 ## 2. Executive Summary
 
@@ -35,7 +35,7 @@ CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson,
 **A-1111.1** Alleged photograph of Tyler Robinson taken at a nearby Dairy Queen at 6:38 p.m. on the day of the Kirk shooting, circulated by locals and presented on screen.
 Event Timestamp: 2025-09-10T18:38:00
 Video Timestamp: 00:05:44–00:08:14
-*Related: C-403, N-40, N-10049, N-10051*
+*Related: C-403, N-40, N-10046, N-10048*
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Confidence: medium
 
@@ -46,14 +46,14 @@ Confidence: medium
 **A-1112.1** Doorbell-camera / outdoor-camera footage of a person running on a residential street near UVU, broadcast by TMZ on September 10, 2025.
 Event Timestamp: 2025-09-10T08:07:00
 Video Timestamp: 00:10:40–00:16:40
-*Related: C-409, N-73, N-78, N-79, N-10052, N-10011*
+*Related: C-409, N-73, N-78, N-79, N-10049, N-10011*
 Transcript Snippet: doorbell cam footage… mysteriously made its way to TMZ the morning after Charlie's assassination.
 Confidence: high
 
 **A-1112.2** Local-news clip in which Erwin Steele is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:13:32–00:14:43
-*Related: C-409, C-429, N-73, N-10052*
+*Related: C-409, C-429, N-73, N-10049*
 Transcript Snippet: Erwin Steele was another neighbor who was met with officers in his front yard… helping authorities by giving them any footage.
 Confidence: high
 
@@ -64,7 +64,7 @@ Confidence: high
 **A-1113.1** BBC news article in which Sherri Steele describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.
 Event Timestamp: 2025-09-10 (evening)
 Video Timestamp: 00:17:19–00:17:59
-*Related: C-419, C-423, N-74, N-40, N-54, N-10050, N-10058*
+*Related: C-419, C-423, N-74, N-40, N-54, N-10047, N-10055*
 Transcript Snippet: Sherri Steele, who lives across the street… came back from an evening walk to see a large police presence.
 Confidence: high
 
@@ -75,7 +75,7 @@ Confidence: high
 **A-1114.1** Good Morning America segment the morning after the Kirk shooting featuring Tiffany Barker, her niece L Steel, and Mia Grant describing their eyewitness account from the UVU event.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:20:00–00:23:35
-*Related: C-425, N-75, N-76, N-77, N-10050, N-10061*
+*Related: C-425, N-75, N-76, N-77, N-10047, N-10058*
 Transcript Snippet: We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience yesterday afternoon.
 Confidence: high
 
@@ -86,7 +86,7 @@ Confidence: high
 **A-1115.1** Video statement by Israeli PM Benjamin Netanyahu denying Israeli involvement in Charlie Kirk's murder and quoting a letter he says Kirk sent him about Christianity and Israel.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:33:18–00:35:18
-*Related: C-439, N-36, N-10056, N-10063*
+*Related: C-439, N-36, N-10053, N-10060*
 Transcript Snippet: while somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder.
 Confidence: high
 
@@ -97,7 +97,7 @@ Confidence: high
 **A-1116.1** Clip from the PBD Podcast in which Eric Bolling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:40:13–00:41:49
-*Related: C-460, C-462, N-72, N-1, N-22, N-10059, N-10000, N-10056, N-10057*
+*Related: C-460, C-462, N-72, N-1, N-22, N-10056, N-10000, N-10053, N-10054*
 Transcript Snippet: she's not she's not one of the names… she doesn't speak at the events anymore.
 Confidence: high
 
@@ -108,7 +108,7 @@ Confidence: high
 **A-1117.1** Text messages Bill Ackman publicly shared to rebut Candace Owens's claims about a Hamptons trip with Charlie Kirk; host notes messages lack dates/context and do not address her specific assertions.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:38:26–00:39:26
-*Related: C-455, N-37, N-10056*
+*Related: C-455, N-37, N-10053*
 Transcript Snippet: Ackman published these private text messages… missing from these messages are like a date, a context.
 Confidence: medium
 
@@ -119,7 +119,7 @@ Confidence: medium
 **A-1118.1** A book about Charlie Kirk's assassination that was available on Amazon prior to the September 10 event; Amazon issued a 'technical issues' statement and removed the listing.
 Event Timestamp: Pre-2025-09-10 (per host)
 Video Timestamp: 00:55:50–00:56:20
-*Related: C-493, N-10048*
+*Related: C-493, N-10045*
 Transcript Snippet: did you see the book about Charlie's assassination on Amazon that was available the day before it happened? ... Um, Amazon issued a response apparently. This is my producers's note, blaming it on technical issues for the incorrect date of the publication of the title and Amazon removed the book.
 Confidence: medium
 Uncertainty: Host attributes to listener tip; producer note supplied
@@ -131,7 +131,7 @@ Uncertainty: Host attributes to listener tip; producer note supplied
 **A-1119.1** Song titled 'Charlie Kirk Dead at 31' posted online by a Utah-based artist prior to Robinson's identification as suspect; reported removed after attention.
 Event Timestamp: Pre-2025-09-12 (per host)
 Video Timestamp: 00:56:17–00:56:42
-*Related: C-494, N-40, N-10048*
+*Related: C-494, N-40, N-10045*
 Transcript Snippet: some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.
 Confidence: low
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:28:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-433, C-434, N-1, N-3, N-10124*
+*Related: C-433, C-434, N-1, N-3, N-10119*
 
 ---
 
@@ -391,7 +391,7 @@ French First Lady reportedly suing Owens; host disputes the legal posture.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -401,7 +401,7 @@ Umbrella investigation thread encompassing all episode-13 evidence streams.
 
 ---
 
-**N-10049** Robinson Outfit/Language Anomaly
+**N-10046** Robinson Outfit/Language Anomaly
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -411,7 +411,7 @@ Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsis
 
 ---
 
-**N-10050** Steele Family Orem Cluster
+**N-10047** Steele Family Orem Cluster
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -421,7 +421,7 @@ Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, 
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -431,7 +431,7 @@ Authenticity and timestamp of the DQ photograph relative to the official Robinso
 
 ---
 
-**N-10052** Doorbell-Cam Footage Provenance
+**N-10049** Doorbell-Cam Footage Provenance
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -441,7 +441,7 @@ Whether footage reached TMZ via the homeowner or via federal channels before TMZ
 
 ---
 
-**N-10053** Vacant-House / Decoy Shooter Theory
+**N-10050** Vacant-House / Decoy Shooter Theory
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -451,7 +451,7 @@ Local-theory claim that Robinson was a decoy who dropped the gun at a chicken co
 
 ---
 
-**N-10054** Caldera Engineering Valve Pattern
+**N-10051** Caldera Engineering Valve Pattern
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -461,7 +461,7 @@ Host pattern-matches Steele family employer (valve manufacturer) to prior Pastni
 
 ---
 
-**N-10055** Federal Footage Sweep
+**N-10052** Federal Footage Sweep
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -471,7 +471,7 @@ Host's pattern claim that feds have pressured locals not to release any footage,
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -481,7 +481,7 @@ Owens vs Netanyahu/TPUSA-donor characterization of Kirk's stance toward Israel; 
 
 ---
 
-**N-10057** Owens Memorial Invitation Status
+**N-10054** Owens Memorial Invitation Status
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -511,7 +511,7 @@ First outlet to publish the doorbell-camera footage on September 10; provenance 
 
 ---
 
-**N-10058** BBC
+**N-10055** BBC
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -521,7 +521,7 @@ Published Sherri Steele witness account and withheld a video she provided.
 
 ---
 
-**N-10059** PBD Podcast
+**N-10056** PBD Podcast
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -543,7 +543,7 @@ Kirk-founded organization at the center of the donor-pressure narrative.
 
 ---
 
-**N-10060** Good Morning America
+**N-10057** Good Morning America
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -555,7 +555,7 @@ Aired the Tiffany Barker / L Steel / Mia Grant interview the morning after the s
 
 ---
 
-**N-10061** CIA Operation Mockingbird
+**N-10058** CIA Operation Mockingbird
 
 Node Type: Organization
 Organization Kind: program_or_initiative
@@ -565,7 +565,7 @@ Historical CIA program referenced by host to explain mainstream-media alignment.
 
 ---
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 Node Type: Place
 Place Kind: city
@@ -585,7 +585,7 @@ State actor at the center of Netanyahu's denial and Owens's media-control framin
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Node Type: Place
 Place Kind: region
@@ -595,7 +595,7 @@ Referenced by host as the empirical refutation of Netanyahu's 'free country' fra
 
 ---
 
-**N-10064** The Pentagon
+**N-10061** The Pentagon
 
 Node Type: Place
 Place Kind: venue
@@ -615,7 +615,7 @@ Site of the alleged Charlie Kirk / Aman retreat at the center of the text-messag
 
 ---
 
-**N-11317** Qatari Funding Accusation Exchange
+**N-11233** Qatari Funding Accusation Exchange
 
 Node Type: Topic
 Netanyahu's remark that rumors may come with Qatari funding, the host's reply that his administration has been investigated over Qatari money, and her joking statement that her real funding comes from her viewers.
@@ -624,7 +624,7 @@ Netanyahu's remark that rumors may come with Qatari funding, the host's reply th
 
 ---
 
-**N-11318** Robinson Cemetery Clothing Drop Report
+**N-11234** Robinson Cemetery Clothing Drop Report
 
 Node Type: Topic
 A source's report relayed by the host that Tyler Robinson was seen dropping clothes into a cemetery near the Dairy Queen, with no federal account of where the clothing was left.
@@ -697,15 +697,7 @@ Existing topic reused for the decoy and pressure theory.
 
 ---
 
-**N-10033** Hamptons Donor Pressure Investigation
-
-Existing topic reused for donor pressure claims.
-
-*Related: C-466, C-467, C-474, C-475*
-
----
-
-**N-10036** Building Donor Withdrawal Investigation
+**N-10035** Building Donor Withdrawal Investigation
 
 Existing topic reused for donor withdrawal and building-name claims.
 
@@ -713,7 +705,7 @@ Existing topic reused for donor withdrawal and building-name claims.
 
 ---
 
-**N-10037** Bill Ackman Response Analysis
+**N-10036** Bill Ackman Response Analysis
 
 Existing topic reused for Ackman's response.
 
@@ -721,15 +713,7 @@ Existing topic reused for Ackman's response.
 
 ---
 
-**N-10042** Outfit Change Claim
-
-Existing topic reused for the outfit-change claims in this episode.
-
-*Related: C-405*
-
----
-
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Daily Mail; the host reads its wording on the lack of Kirk and Owens contact.
 
@@ -737,7 +721,7 @@ Daily Mail; the host reads its wording on the lack of Kirk and Owens contact.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for the Robinson and Lance text claims.
 
@@ -745,7 +729,7 @@ Existing topic reused for the Robinson and Lance text claims.
 
 ---
 
-**N-10089** Charlie Kirk / Candace Alleged Falling Out
+**N-10085** Charlie Kirk / Candace Alleged Falling Out
 
 Existing topic reused for claims about a Kirk and Owens falling out.
 
@@ -753,7 +737,7 @@ Existing topic reused for claims about a Kirk and Owens falling out.
 
 ---
 
-**N-10124** Riverbend Ranch
+**N-10119** Riverbend Ranch
 
 Riverbend Ranch; sponsor that supplied the tribute played on air.
 
@@ -761,7 +745,7 @@ Riverbend Ranch; sponsor that supplied the tribute played on air.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Existing topic reused for the Hamptons retreat claim about home ownership.
 
@@ -769,7 +753,7 @@ Existing topic reused for the Hamptons retreat claim about home ownership.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for claims about AmFest speaker removals.
 
@@ -777,7 +761,7 @@ Existing topic reused for claims about AmFest speaker removals.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for the Brigitte Macron lawsuit claims.
 
@@ -785,7 +769,7 @@ Existing topic reused for the Brigitte Macron lawsuit claims.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing topic reused for claims about a Netanyahu show appearance.
 
@@ -793,7 +777,7 @@ Existing topic reused for claims about a Netanyahu show appearance.
 
 ---
 
-**N-10543** Charlie Kirk Legacy Control Dispute
+**N-10498** Charlie Kirk Legacy Control Dispute
 
 Existing topic reused for the claim of a takeover of Kirk's organization.
 
@@ -801,7 +785,7 @@ Existing topic reused for the claim of a takeover of Kirk's organization.
 
 ---
 
-**N-10898** New York Post
+**N-10819** New York Post
 
 New York Post; the host says it ran Bolling's breakup claim.
 
@@ -809,7 +793,7 @@ New York Post; the host says it ran Bolling's breakup claim.
 
 ---
 
-**N-11099** Candace Owens Australia Visa Review
+**N-11017** Candace Owens Australia Visa Review
 
 Existing topic reused for the host's Australia ban remark.
 
@@ -874,7 +858,7 @@ Claim: The host says a photo that made its way around Orem and repeatedly into h
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Anchored Artifacts: A-1111.1
 Mentions: N-40
-Related Nodes: N-10012, N-10051, N-10062
+Related Nodes: N-10012, N-10048, N-10059
 Confidence: medium
 Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle.
 
@@ -887,7 +871,7 @@ Claim: The alleged text exchange between Tyler Robinson and 'Lance' contains the
 Transcript Snippet: He says to Lance, allegedly, quote, 'I worry about Prince. I had to leave it… changed outfits.'
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10049
+Related Nodes: N-10046
 Confidence: low
 Uncertainty: Artifact verbally referenced but not shown on screen; requires human verification against the federal exhibit.
 Investigative Direction: Obtain the original text-message screenshots from the federal exhibit to verify wording and authorship.
@@ -901,7 +885,7 @@ Claim: The text exchange between Tyler Robinson and 'Lance' describes seeing a '
 Transcript Snippet: I can get close to it, but there is a squad car parked right by it. Squad car.
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10049
+Related Nodes: N-10046
 Confidence: low
 Uncertainty: Artifact verbally referenced but not shown on screen.
 Investigative Direction: Cross-check the original text-message screenshots from the federal exhibit.
@@ -915,7 +899,7 @@ Claim: The host says TMZ was the first, on September 10th, to show doorbell-came
 Transcript Snippet: TMZ is the first on September 10th. That tells us that there is doorbell cam footage.
 Anchored Artifacts: A-1112.1, A-1112.2
 Mentions: 
-Related Nodes: N-10011, N-10052, N-10062
+Related Nodes: N-10011, N-10049, N-10059
 Confidence: high
 Investigative Direction: Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.
 
@@ -928,7 +912,7 @@ Claim: Per the BBC article the host reads, Sherri Steele, who lives across the s
 Transcript Snippet: Sherri Steele, who lives across the street… came back from an evening walk to see a large police presence.
 Anchored Artifacts: A-1113.1
 Mentions: N-40, N-74
-Related Nodes: N-10058
+Related Nodes: N-10055
 Confidence: high
 Investigative Direction: Confirm Sherri Steele exists in property / building databases; obtain her withheld video from BBC.
 
@@ -941,7 +925,7 @@ Claim: Tiffany Barker and her nieces L Steel and Mia Grant stated on Good Mornin
 Transcript Snippet: We had 16 of us there. So, five adults and like 11 children.
 Anchored Artifacts: A-1114.1
 Mentions: N-75, N-76, N-77, N-1
-Related Nodes: N-10012, N-10050, N-10060
+Related Nodes: N-10012, N-10047, N-10057
 Confidence: high
 Investigative Direction: Corroborate the family's UVU attendance, family-of-16 size, and relationship to one another.
 
@@ -954,7 +938,7 @@ Claim: Benjamin Netanyahu issued a second video statement denying that Israel ha
 Transcript Snippet: somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
-Related Nodes: N-10026, N-10056
+Related Nodes: N-10026, N-10053
 Confidence: high
 Investigative Direction: Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.
 
@@ -967,7 +951,7 @@ Claim: Eric Bolling stated on PBD Podcast that Candace Owens had not attended or
 Transcript Snippet: When's the last time she was at a Turning Point event? Uh, not in many years.
 Anchored Artifacts: A-1116.1
 Mentions: N-3, N-72
-Related Nodes: N-10000, N-10056, N-10057, N-10059
+Related Nodes: N-10000, N-10053, N-10054, N-10056
 Contradicts: C-464
 Confidence: high
 Investigative Direction: Compare PBD clip against TPUSA published tour / speaker schedules from 2024–2025.
@@ -981,7 +965,7 @@ Claim: The host says Bill Ackman shared private text messages with Charlie Kirk 
 Transcript Snippet: Ackman published these private text messages… missing from these messages are like a date, a context.
 Anchored Artifacts: A-1117.1
 Mentions: N-3, N-37, N-1
-Related Nodes: N-10027, N-10056
+Related Nodes: N-10027, N-10053
 Confidence: medium
 Investigative Direction: Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.
 
@@ -999,7 +983,7 @@ Transcript Snippet: But anyways, Ackman published these private text messages
 
 Anchored Artifacts: A-1117.1
 Mentions: N-37, N-1, N-3
-Related Nodes: N-10027, N-10056
+Related Nodes: N-10027, N-10053
 Revises: C-455
 Confidence: medium
 Investigative Direction: Read with C-455; obtain the text exchange as published by Bill Ackman.
@@ -1013,7 +997,7 @@ Claim: A viewer comment the host reads says a book about Charlie's assassination
 Transcript Snippet: the book about Charlie's assassination on Amazon that was available the day before it happened.
 Anchored Artifacts: A-1118.1
 Mentions: N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Confidence: medium
 Uncertainty: Listing reported via viewer tip; Amazon statement via producer note.
 Investigative Direction: Retrieve Amazon listing history via Wayback Machine and confirm Amazon's technical-issue statement.
@@ -1028,7 +1012,7 @@ Claim: The host says some artist from Utah posted a song called something like '
 Transcript Snippet: some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.
 Anchored Artifacts: A-1119.1
 Mentions: N-40, N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Confidence: low
 Investigative Direction: Recover the original upload via Wayback / platform archives; confirm upload timestamps and artist identity.
 
@@ -1041,7 +1025,7 @@ Claim: The host says a local source told her that the rifle was found in the bac
 Transcript Snippet: the gun was found in the backyard of someone that I know… it was found by a chicken coop.
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10012, N-10053
+Related Nodes: N-10012, N-10050
 Confidence: medium
 Uncertainty: Single anonymous local source relayed by host.
 Investigative Direction: Cross-check federal affidavit language re 'woods'; obtain property records for the chicken-coop site.
@@ -1055,7 +1039,7 @@ Claim: The host says locals tell her, as an unproven theory, that a mysteriously
 Transcript Snippet: the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10012, N-10053, N-10062
+Related Nodes: N-10012, N-10050, N-10059
 Confidence: low
 Investigative Direction: Pull county property records for the parcel; confirm UVU ownership and occupancy status.
 
@@ -1068,7 +1052,7 @@ Claim: The host says her team looked through databases for a 'Sherri Steele' at 
 Transcript Snippet: I cannot find a woman named Sher Steel that lives in that building complex.
 Anchored Artifacts: 
 Mentions: N-74
-Related Nodes: N-10050
+Related Nodes: N-10047
 Confidence: medium
 Investigative Direction: Independent database search; pull tenant rolls from the property management company.
 
@@ -1095,7 +1079,7 @@ Claim: The host says, sarcastically, that she was not invited to speak alongside
 Transcript Snippet: I was not invited to speak alongside President Trump and JD Vance on the stage.
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-22
-Related Nodes: N-10057
+Related Nodes: N-10054
 Confidence: medium
 Investigative Direction: Verify published speaker list for the Arizona memorial event.
 
@@ -1108,7 +1092,7 @@ Claim: Locals emailed the host stating that any footage they possessed was sent 
 Transcript Snippet: the feds told them that they were not allowed to share it at all.
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10055, N-10064
+Related Nodes: N-10052, N-10061
 Confidence: medium
 Investigative Direction: FOIA requests to federal agencies; canvass Orem residents for corroboration.
 
@@ -1121,7 +1105,7 @@ Claim: The host says her team found that Samuel Steele and his wife Carrie own t
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
 Mentions: N-73, N-78, N-79
-Related Nodes: N-10050, N-10052, N-10062
+Related Nodes: N-10047, N-10049, N-10059
 Confidence: medium
 Investigative Direction: Pull county recorder data for the parcel to confirm ownership chain.
 
@@ -1134,7 +1118,7 @@ Claim: In a PBD Podcast clip the host plays, Eric Bolling says Candace Owens and
 Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
 Mentions: N-1, N-3, N-72
-Related Nodes: N-10000, N-10056
+Related Nodes: N-10000, N-10053
 Contradicts: C-464
 Confidence: high
 Investigative Direction: Verify Bowling's claim against TPUSA internal communications and Kirk's own public statements in the months before death.
@@ -1190,7 +1174,7 @@ Transcript Snippet: BB Netanyahu is again denying that he murdered Charlie Kirk 
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Compare the date and text of Netanyahu's first and second denial videos with the earliest public accusations naming Israel.
 
@@ -1206,7 +1190,7 @@ Transcript Snippet: We also have Bill Ackman who is sending his press hounds on 
 
 Anchored Artifacts: 
 Mentions: N-37, N-3
-Related Nodes: N-10037
+Related Nodes: N-10036
 Tags: relevance:context
 Investigative Direction: Collect the articles about the host published after Ackman's posts and check whether his office contacted those outlets.
 
@@ -1222,7 +1206,7 @@ Transcript Snippet: the PBD podcast, to establish this narrative, which for some
 
 Anchored Artifacts: A-1116.1
 Mentions: N-3, N-72, N-1
-Related Nodes: N-10059, N-10003, N-10089
+Related Nodes: N-10056, N-10003, N-10085
 Tags: relevance:context
 Investigative Direction: List the publications that repeated the Bolling claim and compare their wording with the PBD transcript.
 
@@ -1271,7 +1255,7 @@ Transcript Snippet: Uh if he's as he texted these Fed messages, him and Lance ar
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Obtain the text exhibit from the court record and check the sequence and timestamps of each message.
 
@@ -1287,7 +1271,7 @@ Transcript Snippet: Outfit is very girly. Okay. So, is this AI or is this a fema
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10077, N-10049
+Related Nodes: N-10074, N-10046
 Supports: C-398
 Tags: relevance:core
 Investigative Direction: Obtain the original message metadata and device extraction report; a forensic authorship comparison against Robinson's other writing would test the claim.
@@ -1304,7 +1288,7 @@ Transcript Snippet: I think someone actually in Congress had to fight to get any
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10064, N-10055
+Related Nodes: N-10061, N-10052
 Tags: relevance:tangential
 Investigative Direction: Check the 2006 Judicial Watch FOIA release of Pentagon security camera footage and what congressional action preceded it.
 
@@ -1320,7 +1304,7 @@ Transcript Snippet: Something made its way around the entire town and into my ti
 
 Anchored Artifacts: A-1111.1, A-3174.1
 Mentions: N-3, N-40
-Related Nodes: N-10051, N-10062
+Related Nodes: N-10048, N-10059
 Tags: relevance:core
 Investigative Direction: Obtain the tip submissions that contained the photo, with original files and send times, from the host's team.
 
@@ -1336,7 +1320,7 @@ Transcript Snippet: wearing half of what the feds told us he was wearing in the 
 
 Anchored Artifacts: A-1111.1
 Mentions: N-40
-Related Nodes: N-10019, N-10051
+Related Nodes: N-10019, N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Lay the official morning and shooting outfit descriptions from the indictment and Governor Cox's briefings beside the photo.
@@ -1353,7 +1337,7 @@ Transcript Snippet: light khaki shorts and a maroon shirt, and then decided to c
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10019, N-10042
+Related Nodes: N-10019
 Supports: C-173
 Tags: relevance:core
 Investigative Direction: Check the charging document and Cox's statements for the exact clothing described at each stage.
@@ -1370,7 +1354,7 @@ Transcript Snippet: the first correspondence that allegedly took place between t
 
 Anchored Artifacts: A-1111.1
 Mentions: N-40, N-54
-Related Nodes: N-10077, N-10051
+Related Nodes: N-10074, N-10048
 Tags: relevance:core
 Investigative Direction: Compare the text timestamps in any court exhibit with the claimed 6:38 p.m. photo time.
 
@@ -1386,7 +1370,7 @@ Transcript Snippet: Source tells me that they saw him dropping well near the Dai
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11318, N-10019
+Related Nodes: N-11234, N-10019
 Tags: relevance:core
 Investigative Direction: Identify the cemetery near the Dairy Queen, canvass for footage, and ask the FBI for the chain of custody of any recovered clothing.
 
@@ -1402,7 +1386,7 @@ Transcript Snippet: I think it was their footage said that 8:07 a.
 
 Anchored Artifacts: A-1112.1
 Mentions: N-3
-Related Nodes: N-10011, N-10052
+Related Nodes: N-10011, N-10049
 Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the original TMZ broadcast and file with its embedded timestamp and publication time.
@@ -1419,7 +1403,7 @@ Transcript Snippet: the mainstream media has been controlled by the CIA since Op
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10061
+Related Nodes: N-10058
 Tags: relevance:tangential
 Investigative Direction: Review the Church Committee findings on CIA relationships with journalists for what was documented and what was not.
 
@@ -1435,7 +1419,7 @@ Transcript Snippet: immediately actually I was wondering why were we ever told t
 
 Anchored Artifacts: A-1112.1, A-1112.2
 Mentions: 
-Related Nodes: N-10052, N-10011
+Related Nodes: N-10049, N-10011
 Tags: relevance:core
 Investigative Direction: Locate the camera position and mounting height at the house and compare it with the TMZ frame.
 
@@ -1451,7 +1435,7 @@ Transcript Snippet: So TMZ had already publicized that footage and so that strik
 
 Anchored Artifacts: A-1112.1, A-1112.2
 Mentions: N-73
-Related Nodes: N-10011, N-10052
+Related Nodes: N-10011, N-10049
 Tags: relevance:core
 Investigative Direction: Establish the TMZ upload time against the Steel interview time and ask TMZ and the homeowner who supplied the footage.
 
@@ -1467,7 +1451,7 @@ Transcript Snippet: But Irwin is saying that he lives in that house, but actuall
 
 Anchored Artifacts: A-1112.2
 Mentions: N-73
-Related Nodes: N-10050, N-10062
+Related Nodes: N-10047, N-10059
 Tags: relevance:core
 Investigative Direction: Check county voter and property records for the occupants of the parcel.
 
@@ -1483,7 +1467,7 @@ Transcript Snippet: a place that makes uh called Caldera Engineering. It's a com
 
 Anchored Artifacts: 
 Mentions: N-73
-Related Nodes: N-10054, N-10050
+Related Nodes: N-10051, N-10047
 Tags: relevance:context
 Investigative Direction: Confirm the company's exact name, products and employees, and whether the Steele family members are employed there.
 
@@ -1499,7 +1483,7 @@ Transcript Snippet: a local source told me that virtually everyone on that block
 
 Anchored Artifacts: 
 Mentions: N-73
-Related Nodes: N-10054, N-10050, N-10062
+Related Nodes: N-10051, N-10047, N-10059
 Tags: relevance:context
 Investigative Direction: Compare residents on the block against company employee listings.
 
@@ -1515,7 +1499,7 @@ Transcript Snippet: but this one witnessed something four hours away.
 
 Anchored Artifacts: A-1113.1
 Mentions: N-74, N-40, N-54
-Related Nodes: N-10050, N-10058
+Related Nodes: N-10047, N-10055
 Tags: relevance:core
 Investigative Direction: Locate the townhouse in the BBC article and measure the distance from UVU and Orem.
 
@@ -1531,7 +1515,7 @@ Transcript Snippet: for some reason, the BBC is not publishing this video, a lou
 
 Anchored Artifacts: A-1113.1
 Mentions: N-74
-Related Nodes: N-10058
+Related Nodes: N-10055
 Tags: relevance:core
 Investigative Direction: Ask the BBC whether it holds the video and why it was not published; compare the article text with its quotation.
 
@@ -1547,7 +1531,7 @@ Transcript Snippet: There are 33 hours should have been 900 p. m. uh is when Tyl
 
 Anchored Artifacts: A-1113.1
 Mentions: N-74, N-40
-Related Nodes: N-10050
+Related Nodes: N-10047
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's and court record of the surrender time and compare with the BBC witness account.
 
@@ -1563,7 +1547,7 @@ Transcript Snippet: And then according to Lance's own family, it was overnight u
 
 Anchored Artifacts: A-1113.1
 Mentions: N-54, N-74
-Related Nodes: N-10050
+Related Nodes: N-10047
 Tags: relevance:core
 Investigative Direction: Obtain search warrant return times for the residence and compare with the BBC witness account.
 
@@ -1579,7 +1563,7 @@ Transcript Snippet: We do know according uh to the indictment that there were ch
 
 Anchored Artifacts: A-1114.1
 Mentions: N-3
-Related Nodes: N-10050
+Related Nodes: N-10047
 Tags: relevance:core
 Investigative Direction: Check the charging document for any reference to children present at the event.
 
@@ -1595,7 +1579,7 @@ Transcript Snippet: I can tell you the family is very heavily involved in politi
 
 Anchored Artifacts: A-1114.1
 Mentions: N-75
-Related Nodes: N-10050
+Related Nodes: N-10047
 Tags: relevance:tangential
 Investigative Direction: Public election and campaign records would show the family's political involvement; no private detail is needed.
 
@@ -1611,7 +1595,7 @@ Transcript Snippet: What I do know is we're not getting the full story. Okay. An
 
 Anchored Artifacts: A-1114.1
 Mentions: N-75, N-3
-Related Nodes: N-10060
+Related Nodes: N-10057
 Tags: relevance:context
 Investigative Direction: Ask the host's team whether the family replied and, if so, what they said.
 
@@ -1627,7 +1611,7 @@ Transcript Snippet: Is that Tyler and Lance could have gotten mixed up in some d
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10053, N-10032
+Related Nodes: N-10050, N-10032
 Tags: relevance:core
 Investigative Direction: The theory is unsupported on air; examine the device seizure reports and charges for any such material and compare with the Zinn decoy episode.
 
@@ -1643,7 +1627,7 @@ Transcript Snippet: I don't know how they can tell you it's not yours anymore si
 
 Anchored Artifacts: 
 Mentions: N-41
-Related Nodes: N-10055
+Related Nodes: N-10052
 Tags: relevance:context
 Investigative Direction: Find the Cox press conference remarks that the host paraphrases.
 
@@ -1659,7 +1643,7 @@ Transcript Snippet: So, um yeah, if you know anything, please email tips@candice
 
 Anchored Artifacts: A-3175.1
 Mentions: N-3
-Related Nodes: N-10055
+Related Nodes: N-10052
 Tags: relevance:core
 Investigative Direction: Confirm the show's correct tip address against the host's published site and treat inbound tips as unverified.
 
@@ -1675,7 +1659,7 @@ Transcript Snippet: My friends at Riverbend Ranch put together the following tri
 
 Anchored Artifacts: A-3176.1
 Mentions: N-1, N-3
-Related Nodes: N-10124
+Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Retrieve the Riverbend Ranch tribute and sponsor read as aired.
 
@@ -1691,7 +1675,7 @@ Transcript Snippet: I actually met the owners of Riverbend Ranch with Charlie.
 
 Anchored Artifacts: A-3176.1
 Mentions: N-3, N-1
-Related Nodes: N-10124
+Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Identify the owners and the date and place of the meeting from the host or the sponsor.
 
@@ -1739,7 +1723,7 @@ Transcript Snippet: which I care very much about, that BB Netanyahu murdered Cha
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1, N-22, N-46, N-39
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Search the four speakers' broadcasts and posts for any statement attributing the killing to Netanyahu.
 
@@ -1755,7 +1739,7 @@ Transcript Snippet: Instead, what we are doing is we are disputing BB Netanyahu'
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Supports: C-72
 Tags: relevance:core
 Investigative Direction: Compare the content of the Kirk letter and any call records with Netanyahu's account.
@@ -1772,7 +1756,7 @@ Transcript Snippet: One of my greatest joys as a Christian, he said, is advocati
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
-Related Nodes: N-10056, N-10026
+Related Nodes: N-10053, N-10026
 Contradicts: C-72
 Tags: relevance:core
 Investigative Direction: Obtain the full May letter text; the host has asked Netanyahu to publish it.
@@ -1789,7 +1773,7 @@ Transcript Snippet: He encouraged me to make the case directly to the American p
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
-Related Nodes: N-10056, N-10026
+Related Nodes: N-10053, N-10026
 Tags: relevance:context
 Investigative Direction: Compare against the full Kirk letter and any Kirk Show appearance or offer.
 
@@ -1805,7 +1789,7 @@ Transcript Snippet: He told me, "The Holy Land is so important to my life, it pa
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
-Related Nodes: N-10056, N-10026
+Related Nodes: N-10053, N-10026
 Contradicts: C-72
 Tags: relevance:core
 Investigative Direction: Obtain the letter itself; the quoted lines are only excerpts and the host says the context is omitted.
@@ -1822,7 +1806,7 @@ Transcript Snippet: not only did I not mind, I welcomed it. This is the essence 
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:context
 Investigative Direction: Compare with Kirk's private messages and the host's account of donor pressure.
 
@@ -1855,7 +1839,7 @@ Transcript Snippet: Now, some are peddling these disgusting rumors, perhaps out 
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36
-Related Nodes: N-11317, N-10056
+Related Nodes: N-11233, N-10053
 Tags: relevance:context
 Investigative Direction: Ask Netanyahu's office which persons or outlets the remark referred to; no evidence of Qatari funding is given in the clip.
 
@@ -1871,7 +1855,7 @@ Transcript Snippet: Gaza is not helpful. You talking about a free country, Gaza 
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Review the official Israeli and US statements on Gaza redevelopment plans for any such proposal.
 
@@ -1887,7 +1871,7 @@ Transcript Snippet: In fact, you are the one, your administration is the one tha
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-3
-Related Nodes: N-11317, N-10063
+Related Nodes: N-11233, N-10060
 Tags: relevance:context
 Investigative Direction: Check Israeli press and police reports on the investigation the host is likely referring to and the persons named in it.
 
@@ -1918,7 +1902,7 @@ Transcript Snippet: And you're doubling down on your lie. I told you to publish 
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-3, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Supports: C-67
 Tags: relevance:core
 Investigative Direction: Ask the Prime Minister's office for the full letter and the date it was received.
@@ -1935,7 +1919,7 @@ Transcript Snippet: to lie by omission and to stop mentioning the fact that you 
 
 Anchored Artifacts: A-1115.1
 Mentions: N-36, N-1
-Related Nodes: N-10018, N-10456
+Related Nodes: N-10018, N-10425
 Supports: C-84
 Tags: relevance:core
 Investigative Direction: Seek Kirk team or Netanyahu staff accounts of the invitation and the response.
@@ -1952,7 +1936,7 @@ Transcript Snippet: Charlie said I'd love to go to Israel. Charlie said I'd love
 
 Anchored Artifacts: A-1115.1
 Mentions: N-1, N-36, N-3
-Related Nodes: N-10456, N-10018
+Related Nodes: N-10425, N-10018
 Tags: relevance:core
 Investigative Direction: Find the message or call where Kirk is said to have said this and compare with reports that he refused a show appearance.
 
@@ -1968,7 +1952,7 @@ Transcript Snippet: You have Bill Ackman extraordinarily I said I will publish w
 
 Anchored Artifacts: 
 Mentions: N-37, N-3
-Related Nodes: N-10027, N-10037
+Related Nodes: N-10027, N-10036
 Tags: relevance:context
 Investigative Direction: Check whether Ackman or his office has replied to the offer.
 
@@ -2017,7 +2001,7 @@ Transcript Snippet: Charlie Kirk had a breakup with Candace Owens as if we were 
 
 Anchored Artifacts: A-1116.1
 Mentions: N-3, N-1, N-72
-Related Nodes: N-10898, N-10089
+Related Nodes: N-10819, N-10085
 Tags: relevance:context
 Investigative Direction: Retrieve the New York Post article and compare its wording with the PBD clip.
 
@@ -2033,7 +2017,7 @@ Transcript Snippet: I think >> he was there in the room. >> Andrew Kolvet was th
 
 Anchored Artifacts: A-1116.1
 Mentions: N-14, N-37
-Related Nodes: N-10059, N-10016
+Related Nodes: N-10056, N-10016
 Tags: relevance:context
 Investigative Direction: Review the full PBD episode to see which meeting the speakers refer to and who was in the room.
 
@@ -2049,7 +2033,7 @@ Transcript Snippet: You're on the board of Turning Point. >> Yeah. >> Okay.
 
 Anchored Artifacts: A-1116.1
 Mentions: N-72
-Related Nodes: N-10000, N-10059
+Related Nodes: N-10000, N-10056
 Tags: relevance:context
 Investigative Direction: Check Turning Point USA's published board and officer lists and its IRS filings for Bolling.
 
@@ -2065,7 +2049,7 @@ Transcript Snippet: >> Yeah. >> 2015. 2016. >> Okay. Yeah. No.
 
 Anchored Artifacts: A-1116.1
 Mentions: N-72, N-3
-Related Nodes: N-10059
+Related Nodes: N-10056
 Tags: relevance:context
 Investigative Direction: Compare with any record of joint appearances between Bolling and Owens after 2016.
 
@@ -2081,7 +2065,7 @@ Transcript Snippet: >> Yeah, she's not she's not one of the names that >> you do
 
 Anchored Artifacts: A-1116.1
 Mentions: N-72, N-3
-Related Nodes: N-10057, N-10059
+Related Nodes: N-10054, N-10056
 Supports: C-480
 Tags: relevance:context
 Investigative Direction: Obtain the speaker list and invitations for the Arizona memorial.
@@ -2115,7 +2099,7 @@ Transcript Snippet: is that the Zionists started circling Charlie and trying to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10025, N-10033
+Related Nodes: N-10025, N-10016
 Tags: relevance:context
 Investigative Direction: Identify which donors or groups the host means and compare with the Hamptons attendee accounts.
 
@@ -2131,7 +2115,7 @@ Transcript Snippet: you can't talk to her. She's talking about Israel, blah blah
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10025, N-10033
+Related Nodes: N-10025, N-10016
 Supports: C-74
 Tags: relevance:core
 Investigative Direction: Obtain the text messages or call logs showing the exchange between the host and Kirk.
@@ -2148,7 +2132,7 @@ Transcript Snippet: I I I literally I'm banned from Australia because I stood up
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11099
+Related Nodes: N-11017
 Tags: relevance:context
 Investigative Direction: Check Australian Home Affairs statements on the host's visa status.
 
@@ -2164,7 +2148,7 @@ Transcript Snippet: For me not to speak at AFest is nothing.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10268, N-10003
+Related Nodes: N-10252, N-10003
 Tags: relevance:core
 Investigative Direction: Compare against AmFest 2024 speaker lists and any message from the host to Kirk.
 
@@ -2195,7 +2179,7 @@ Transcript Snippet: It was Tucker Carlson because Tucker went to Amfest and then
 
 Anchored Artifacts: 
 Mentions: N-22, N-1, N-3
-Related Nodes: N-10268, N-10025
+Related Nodes: N-10252, N-10025
 Supports: C-75
 Tags: relevance:core
 Investigative Direction: Compare with the AmFest speaker removal reporting and messages about Tucker Carlson and donors.
@@ -2212,7 +2196,7 @@ Transcript Snippet: in the very week that Charlie Kirk was assassinated, he was 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10003, N-10089, N-10268
+Related Nodes: N-10003, N-10085, N-10252
 Contradicts: C-462
 Tags: relevance:core
 Investigative Direction: Obtain messages or witnesses from Kirk's circle from the final week about the speaker roster.
@@ -2229,7 +2213,7 @@ Transcript Snippet: "I want my name off of the building at Turning Point." In th
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10036, N-10000
+Related Nodes: N-10035, N-10000
 Supports: C-269
 Tags: relevance:core
 Investigative Direction: Identify the donor and the building and check naming or signage changes at TPUSA facilities.
@@ -2246,7 +2230,7 @@ Transcript Snippet: the couple of days leading up to his assassination, they wer
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10025, N-10033
+Related Nodes: N-10025, N-10016
 Supports: C-74
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's messages and calendar from September 8 to 10 and interview those present.
@@ -2263,7 +2247,7 @@ Transcript Snippet: And that started in real earnest, I can tell you, in Q4 of l
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10025, N-10033
+Related Nodes: N-10025, N-10016
 Tags: relevance:core
 Investigative Direction: Date the first donor messages to Kirk and compare with the AmFest 2024 period.
 
@@ -2279,7 +2263,7 @@ Transcript Snippet: It was almost like they just wanted to take over the company
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-10543
+Related Nodes: N-10000, N-10498
 Tags: relevance:core
 Investigative Direction: Review TPUSA's financial filings and donor communications for spending and control changes after the assassination.
 
@@ -2295,7 +2279,7 @@ Transcript Snippet: I I would hope she's in full control, but I don't know becau
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10002, N-10057, N-10036
+Related Nodes: N-10002, N-10054, N-10035
 Tags: relevance:core
 Investigative Direction: Obtain the memorial planning communications and ask TPUSA who made the speaker decisions.
 
@@ -2311,7 +2295,7 @@ Transcript Snippet: Board member Eric Bolling, by the way, he's not a board memb
 
 Anchored Artifacts: A-1116.1
 Mentions: N-72
-Related Nodes: N-10000, N-10059
+Related Nodes: N-10000, N-10056
 Contradicts: C-459
 Tags: relevance:context
 Investigative Direction: Check TPUSA's public board list and Form 990 for Bolling.
@@ -2328,7 +2312,7 @@ Transcript Snippet: Has there been any communication between there hasn't been a
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10070, N-10003, N-10089
+Related Nodes: N-10067, N-10003, N-10085
 Contradicts: C-464
 Tags: relevance:context
 Investigative Direction: Retrieve the Daily Mail article and compare its sourcing with messages and appearances between Kirk and Owens.
@@ -2345,7 +2329,7 @@ Transcript Snippet: It could not be further from the truth. Okay, Charlie and I 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10003, N-10089
+Related Nodes: N-10003, N-10085
 Contradicts: C-462
 Tags: relevance:core
 Investigative Direction: Collect the host's and Kirk's message history and joint appearances through 2025.
@@ -2362,7 +2346,7 @@ Transcript Snippet: Nope. Just donors. And the donors at Turning Point need to b
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10036
+Related Nodes: N-10000, N-10035
 Tags: relevance:core
 Investigative Direction: Obtain the sourcing from the host's team and examine TPUSA donor disclosures.
 
@@ -2378,7 +2362,7 @@ Transcript Snippet: Brigitte Macron comes out and says they have offered scienti
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Review the Delaware court docket for any scientific evidence filed and read the lawyer's statement as reported.
 
@@ -2394,7 +2378,7 @@ Transcript Snippet: That's what her lawyer says. Well, the lawyer's a liar becau
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Check the docket for filings and the procedural stage of the case.
 
@@ -2410,7 +2394,7 @@ Transcript Snippet: You're born a male. And you've never sued anybody for making
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Read the complaint's causes of action and statements of claim as filed.
 
@@ -2457,7 +2441,7 @@ Transcript Snippet: told them that they shouldn't even aspire to own a home. The
 
 Anchored Artifacts: 
 Mentions: N-37
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 Supports: C-283
 Tags: relevance:tangential
 Investigative Direction: Identify the attendee and compare against any recording or notes of the retreat.
@@ -2474,7 +2458,7 @@ Transcript Snippet: in large part, from what I understand, being controlled by t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10002, N-10057
+Related Nodes: N-10002, N-10054
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and the White House who set the speaker list for the event.
 
@@ -2536,7 +2520,7 @@ Transcript Snippet: And right when people started going, "This guy looks like th
 
 Anchored Artifacts: A-1119.1
 Mentions: N-40
-Related Nodes: N-10048
+Related Nodes: N-10045
 Supports: C-494
 Tags: relevance:core
 Investigative Direction: Compare the timing of the posts comparing the artist to the FBI photo with the announcement of Robinson's arrest.
@@ -2553,7 +2537,7 @@ Transcript Snippet: Anyways, you guys know my real funding always comes from you
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11317
+Related Nodes: N-11233
 Supports: C-153
 Tags: relevance:context
 Investigative Direction: Review the show's disclosed revenue sources, sponsors and donation records.

@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq118
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep118): N-10871
+  - Hole-minted Nodes (reintro-ep118): N-10792
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-690, N-691, N-692, N-693, N-694, N-695, N-696, N-10992, N-10993, N-10994, N-10995, N-10996
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-11, N-14, N-28, N-36, N-47, N-69, N-85, N-190, N-217, N-266, N-361, N-378, N-433, N-568, N-591, N-10000, N-10014, N-10075, N-10085, N-10202, N-10324, N-10367, N-10370, N-10373, N-10401, N-10417, N-10472, N-10519, N-10524, N-10532, N-10574, N-10586, N-10671, N-10698, N-10700, N-10888, N-10899, N-10923, N-10701
+  - Tip-minted Nodes (skeleton): N-690, N-691, N-692, N-693, N-694, N-695, N-696, N-10912, N-10913, N-10914, N-10915, N-10916
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-11, N-14, N-28, N-36, N-47, N-69, N-85, N-190, N-217, N-266, N-361, N-378, N-433, N-568, N-591, N-10000, N-10014, N-10072, N-10081, N-10194, N-10303, N-10342, N-10305, N-10347, N-10374, N-10390, N-10478, N-10481, N-10525, N-10534, N-10611, N-10635, N-10637, N-10809, N-10820, N-10844, N-10638
   - Claim Range: C-10107–C-10156
   - (see registers)
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10107, C-10118, C-10140, C-10155, N-5, N-85, N-378, N-10324*
+*Related: C-10107, C-10118, C-10140, C-10155, N-5, N-85, N-378, N-10303*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:11:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10125, N-433, N-10671, N-10700, N-10888*
+*Related: C-10125, N-433, N-10611, N-10637, N-10809*
 
 **A-2692.2** Host verbal reference to the FBI's denial of her request for three days of someone's schedule as too complicated (not shown)
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:43:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10151, N-69, N-10014, N-10700*
+*Related: C-10151, N-69, N-10014, N-10637*
 
 ---
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:11:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10126, C-10127, N-591, N-691, N-433, N-10888*
+*Related: C-10126, C-10127, N-591, N-691, N-433, N-10809*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:18:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10134, C-10135, C-10136, N-694, N-695, N-10993, N-10995*
+*Related: C-10134, C-10135, C-10136, N-694, N-695, N-10913, N-10915*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:27:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10144, C-10146, N-217, N-10996*
+*Related: C-10144, C-10146, N-217, N-10916*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:27:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10144, N-10996*
+*Related: C-10144, N-10916*
 
 **A-2696.2** Viewer comment by James the least on the White House Epstein files "crash out" (read aloud)
 
@@ -290,133 +290,121 @@ The host says it denied her request for three days of someone's schedule.
 
 *Related: C-10151, A-2692.2*
 
-**N-10075** White House
+**N-10072** White House
 
 Site of the Situation Room meeting and of Kolvet's reported visit.
 
 *Related: C-10107, C-10108*
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 The host's explosive-under-the-chest theory, based on how Charlie Kirk's body moved.
 
 *Related: C-10152*
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 The host criticizes the FBI's handling of her FOIA request.
 
 *Related: C-10151*
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 The administration's handling and partial release of the Epstein files.
 
 *Related: C-10107, C-10108, C-10110, C-10118, C-10140, A-2691.1*
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's lobby sighting is restated.
 
 *Related: C-10123*
 
-**N-10370** Fort Huachuca Morning Meeting Investigation
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 The meeting Mitch Snow says he stumbled on.
 
 *Related: C-10122*
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Mitch Snow believes he saw Harpole at the meeting.
 
 *Related: C-10122*
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Eastern European trafficking in the Epstein and DynCorp accounts.
 
 *Related: C-10112, C-10136*
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Mitch Snow's identification of Erika Kirk by her eyes.
 
 *Related: C-10123*
 
-**N-10472** Fort Huachuca Alibi Investigation
-
-The host says no clear alibis have been provided.
-
-*Related: C-10124*
-
-**N-10519** Erika Kirk Next Model Management Involvement
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Erika Kirk's presence at the Next Model Management offices.
 
 *Related: C-10113, C-10114*
 
-**N-10524** Faith Kates – Epstein Relationship Scope
+**N-10481** Faith Kates – Epstein Relationship Scope
 
 Kates' support of Epstein after 2009.
 
 *Related: C-10115*
 
-**N-10532** Next Model Management / Erika Kirk Connection
-
-The host's call for Turning Point USA to address the connection.
-
-*Related: C-10113*
-
-**N-10574** Romney–Netanyahu–Utah Connection Network
+**N-10525** Romney–Netanyahu–Utah Connection Network
 
 The Boston Consulting Group link is restated.
 
 *Related: C-10121*
 
-**N-10586** Pam Bondi Dismissal Context Question
+**N-10534** Pam Bondi Dismissal Context Question
 
 Bondi is no longer in the White House.
 
 *Related: C-10155*
 
-**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
+**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The SAM 702 flight route and the FOIA request on it.
 
 *Related: C-10119, C-10120, C-10125, A-2692.1*
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
+**N-10635** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Workers' allegation that Erika Kirk was the point of contact for the model apartment.
 
 *Related: C-10114*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The host's FOIA requests to the Department of War and FBI.
 
 *Related: C-10125, C-10142, C-10151, A-2692.1, A-2692.2*
 
-**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
+**N-10638** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Kolvet's executive office building visit and the pre-recorded Kash Patel show.
 
 *Related: C-10108, C-10109*
 
-**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
+**N-10792** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 The Situation Room meeting on the Epstein files.
 
 *Related: C-10107*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Organization whose org chart, intelligence office and alleged messaging campaign are discussed.
 
 *Related: C-10120, C-10125, C-10126, C-10127, C-10143, A-2692.1, A-2693.1*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Transcript "Paramount not so Tactical"; said that the alibi photo children were not Erika Kirk's.
 
@@ -464,42 +452,42 @@ First named by the host at 00:33:21 in episode 118. Author of the essay "Mother 
 
 *Related: C-10147, C-10149, C-10150, A-2522.1*
 
-**N-10992** Cerberus Capital Management
+**N-10912** Cerberus Capital Management
 
 Node Type: Organization
 Private investment firm the host says Stephen Feinberg co-founded in 1992, with about 70 billion in assets under management. She says it bought DynCorp in 2010 and owned it for ten years, and that Feinberg says he has divested from it.
 
-*Related: C-10128, C-10132, C-10139, C-10141, N-691, N-10993*
+*Related: C-10128, C-10132, C-10139, C-10141, N-691, N-10913*
 
-**N-10993** DynCorp
+**N-10913** DynCorp
 
 Node Type: Organization
 Private military contractor the host says was owned by Cerberus Capital Management from 2010 to 2020. She ties it to the 1990s Bosnia sex-trafficking scandal exposed by Kathryn Bolkovac.
 
-*Related: C-10132, C-10133, C-10134, C-10135, C-10137, C-10138, C-10139, A-2694.1, N-10992, N-10995*
+*Related: C-10132, C-10133, C-10134, C-10135, C-10137, C-10138, C-10139, A-2694.1, N-10912, N-10915*
 
-**N-10994** Blackwater
+**N-10914** Blackwater
 
 Node Type: Organization
 Private military company founded by Erik Prince. The host uses it to illustrate the private military business, citing $2 billion in government contracts from 1997 to 2010 and the Iraq convoy shooting whose convicted guards Trump pardoned.
 
 *Related: C-10129, C-10130, C-10131, N-693*
 
-**N-10995** DynCorp Bosnia Sex-Trafficking Scandal
+**N-10915** DynCorp Bosnia Sex-Trafficking Scandal
 
 Node Type: Topic
 Investigation target: the 1990s scandal, exposed in the early 2000s and made into a 2010 film, in which DynCorp employees serving with the UN International Police Task Force in Bosnia were accused of buying underage women and facilitating sex trafficking. The host says victims came from Ukraine, Croatia, Bosnia and Romania, that whistleblowers Kathryn Bolkovac and Ben Johnston were fired, and that contractors were shielded by immunity.
 
-*Related: C-10133, C-10134, C-10135, C-10136, C-10137, C-10138, A-2694.1, N-694, N-695, N-10993*
+*Related: C-10133, C-10134, C-10135, C-10136, C-10137, C-10138, A-2694.1, N-694, N-695, N-10913*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the communication the host says listed Erika Kirk as an "emotional asset" after the White House Correspondents' Dinner shooting. In this episode she says the Department of War office headed by Hegseth, Feinberg and Hansel orchestrated messaging to make Erika the number one trend by morning.
 
 *Related: C-10143, N-2, N-433, N-691*
 
-**N-10996** Good Call Ministries
+**N-10916** Good Call Ministries
 
 Node Type: Organization
 Ministry, shown on air as "The Good Call Ministries Rescue Operations," that the host says belongs to the family of Elizabeth (Kravchuk) McCoy and rescues orphans in Ukraine.
@@ -518,7 +506,7 @@ Transcript Snippet: So much so that Trump decided to meet with his top officials
 
 Anchored Artifacts: A-2691.1
 Mentions: N-5, N-9
-Related Nodes: N-10324, N-10871, N-10075
+Related Nodes: N-10303, N-10792, N-10072
 Investigative Direction: Retrieve the New York Times article and any official account of Situation Room meetings on the Epstein files.
 
 ---
@@ -533,7 +521,7 @@ Transcript Snippet: But the day before Andrew Kolvet was mysteriously seen at th
 
 Anchored Artifacts: 
 Mentions: N-14, N-9
-Related Nodes: N-10701, N-10075, N-10324
+Related Nodes: N-10638, N-10072, N-10303
 Supports: C-6833
 Investigative Direction: White House and EEOB visitor logs for the day before the Epstein files release.
 
@@ -549,7 +537,7 @@ Transcript Snippet: What I mean is essentially he pre-recorded a Charlie Kirk sh
 
 Anchored Artifacts: 
 Mentions: N-14, N-69, N-1
-Related Nodes: N-10701
+Related Nodes: N-10638
 Supports: C-6828
 Investigative Direction: Charlie Kirk Show production records and broadcast metadata for that episode.
 
@@ -565,7 +553,7 @@ Transcript Snippet: It was rather when when Charlie and Erika went on their firs
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-9, N-47, N-690
-Related Nodes: N-10324
+Related Nodes: N-10303
 Investigative Direction: Kirk wedding and dating accounts versus the court docket for the unsealing of Giuffre v. Maxwell.
 
 ---
@@ -595,7 +583,7 @@ Transcript Snippet: Jeffrey Epstein's trafficking network was once deeply embedd
 
 Anchored Artifacts: 
 Mentions: N-9, N-5
-Related Nodes: N-10401
+Related Nodes: N-10374
 Investigative Direction: Court records and reporting on Epstein's links to modeling agencies and Victoria's Secret.
 
 ---
@@ -610,7 +598,7 @@ Transcript Snippet: we discovered she was hanging around at the Next Model Manag
 
 Anchored Artifacts: 
 Mentions: N-2, N-568, N-9
-Related Nodes: N-10519, N-10532
+Related Nodes: N-10478
 Investigative Direction: Next Model Management staff records and the host's sources for Erika's presence there.
 
 ---
@@ -625,7 +613,7 @@ Transcript Snippet: the people who worked there alleged that Erika was the point
 
 Anchored Artifacts: 
 Mentions: N-2, N-9
-Related Nodes: N-10698, N-10519
+Related Nodes: N-10635, N-10478
 Investigative Direction: Interviews with the former Next Model Management workers; model apartment lease records.
 
 ---
@@ -640,7 +628,7 @@ Transcript Snippet: Faith Kates, I should mention, never turned her back on Jeff
 
 Anchored Artifacts: 
 Mentions: N-568, N-9
-Related Nodes: N-10524
+Related Nodes: N-10481
 Investigative Direction: Epstein estate emails and flight records involving Kates and Next models.
 
 ---
@@ -685,7 +673,7 @@ Transcript Snippet: And then we learn that he's calling Charlie Kirk. Right? He'
 
 Anchored Artifacts: A-2691.1
 Mentions: N-5, N-1
-Related Nodes: N-10324
+Related Nodes: N-10303
 Investigative Direction: The New York Times account and Charlie Kirk Show staff on Trump's calls to Kirk about Epstein.
 
 ---
@@ -700,7 +688,7 @@ Transcript Snippet: the plane that flew to Tucson, Arizona on September 8th, 2 d
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10671
+Related Nodes: N-10611
 Investigative Direction: ADS-B flight data and Air Force mission records for SAM 702 on September 8–9, 2025.
 
 ---
@@ -715,7 +703,7 @@ Transcript Snippet: Now, the person whose office organized that plane is the Und
 
 Anchored Artifacts: 
 Mentions: N-433
-Related Nodes: N-10671, N-10888
+Related Nodes: N-10611, N-10809
 Supports: C-9620
 Investigative Direction: Department of War travel and mission-request records for SAM 702.
 
@@ -731,7 +719,7 @@ Transcript Snippet: about how he used to work for the Boston Consulting Group, w
 
 Anchored Artifacts: 
 Mentions: N-433, N-28, N-36
-Related Nodes: N-10574
+Related Nodes: N-10525
 Supports: C-9623, C-9612
 Investigative Direction: Hansel's official biography and BCG employment records.
 
@@ -747,7 +735,7 @@ Transcript Snippet: And the meeting in which Mitch Snow believes that he saw Bri
 
 Anchored Artifacts: 
 Mentions: N-361, N-266
-Related Nodes: N-10373, N-10370
+Related Nodes: N-10347, N-10305
 Investigative Direction: Fort Huachuca visitor and meeting records for September 9, 2025; Harpole's travel records.
 
 ---
@@ -762,7 +750,7 @@ Transcript Snippet: They saw her in that lobby on the 8th leaving, jumping into 
 
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-433
-Related Nodes: N-10417, N-10367
+Related Nodes: N-10390, N-10342
 Investigative Direction: Base lodging registers and gate logs for September 8, 2025.
 
 ---
@@ -777,7 +765,7 @@ Transcript Snippet: Or Paramount not so Tactical said, "No, they're not Erika's.
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-266
-Related Nodes: N-10899, N-10472
+Related Nodes: N-10820, N-10390
 Supports: C-9135
 Investigative Direction: Paramount Tactical's statements and the original alibi photograph.
 
@@ -793,7 +781,7 @@ Transcript Snippet: They need to coordinate with multiple departments, and we're
 
 Anchored Artifacts: A-2692.1
 Mentions: 
-Related Nodes: N-10671, N-10700, N-10888
+Related Nodes: N-10611, N-10637, N-10809
 Investigative Direction: The FOIA acknowledgment letter and tracking number.
 
 ---
@@ -808,7 +796,7 @@ Transcript Snippet: There is one man in between Bradley and Pete Hegseth. A man 
 
 Anchored Artifacts: A-2693.1
 Mentions: N-433, N-591, N-691
-Related Nodes: N-10888
+Related Nodes: N-10809
 Investigative Direction: The official Department of War organizational chart.
 
 ---
@@ -823,7 +811,7 @@ Transcript Snippet: What we can state definitively is that he is the wealthiest 
 
 Anchored Artifacts: A-2693.1
 Mentions: N-691, N-5
-Related Nodes: N-10888
+Related Nodes: N-10809
 Investigative Direction: Feinberg's financial disclosure filings and published net-worth estimates.
 
 ---
@@ -838,7 +826,7 @@ Transcript Snippet: Well, in 1992 he co-founded uh Cerberus Capital Management.
 
 Anchored Artifacts: 
 Mentions: N-691
-Related Nodes: N-10992
+Related Nodes: N-10912
 Investigative Direction: Cerberus corporate history and SEC Form ADV filings.
 
 ---
@@ -853,7 +841,7 @@ Transcript Snippet: Blackwater in total received $2 billion in government contra
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10994
+Related Nodes: N-10914
 Investigative Direction: Federal contract databases and congressional reports on Blackwater contracts.
 
 ---
@@ -868,7 +856,7 @@ Transcript Snippet: Uh like I said, four men were convicted, one of murder, thre
 
 Anchored Artifacts: 
 Mentions: N-5
-Related Nodes: N-10994
+Related Nodes: N-10914
 Investigative Direction: Court records for the Nisour Square convictions and the December 2020 pardon records.
 
 ---
@@ -883,7 +871,7 @@ Transcript Snippet: And Betsy DeVos' brother is a man named Erik Prince, who is 
 
 Anchored Artifacts: 
 Mentions: N-692, N-693, N-5
-Related Nodes: N-10994
+Related Nodes: N-10914
 Investigative Direction: Public biographies of DeVos and Prince.
 
 ---
@@ -898,7 +886,7 @@ Transcript Snippet: Stephen Feinberg outright owning a military mercenary group 
 
 Anchored Artifacts: 
 Mentions: N-691, N-5
-Related Nodes: N-10993, N-10992
+Related Nodes: N-10913, N-10912
 Investigative Direction: DynCorp ownership filings and Feinberg's 2017 Intelligence Advisory Board appointment.
 
 ---
@@ -913,7 +901,7 @@ Transcript Snippet: The scandal began to take shape in the 1990s until the whist
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10993, N-10995
+Related Nodes: N-10913, N-10915
 Investigative Direction: Release records for the film "The Whistleblower" and the Bosnia case history.
 
 ---
@@ -928,7 +916,7 @@ Transcript Snippet: Catherine Bolkovac, um a a DynCorp investigator in Bosnia di
 
 Anchored Artifacts: A-2694.1
 Mentions: N-694
-Related Nodes: N-10993, N-10995
+Related Nodes: N-10913, N-10915
 Investigative Direction: Bolkovac's book and the UK employment tribunal ruling in Bolkovac v. DynCorp.
 
 ---
@@ -943,7 +931,7 @@ Transcript Snippet: Another employee, Ben Johnston, filed similar reports. Both 
 
 Anchored Artifacts: A-2694.1
 Mentions: N-695, N-694
-Related Nodes: N-10993, N-10995
+Related Nodes: N-10913, N-10915
 Investigative Direction: Johnston's lawsuit filings in Texas and the Bolkovac tribunal record.
 
 ---
@@ -958,7 +946,7 @@ Transcript Snippet: the trafficked underage women were coming from Ukraine, Croa
 
 Anchored Artifacts: A-2694.1
 Mentions: N-694
-Related Nodes: N-10995, N-10401
+Related Nodes: N-10915, N-10374
 Investigative Direction: Bolkovac's book and UN/OSCE trafficking reports on Bosnia.
 
 ---
@@ -973,7 +961,7 @@ Transcript Snippet: offering them like roles as a beautician, and then taking th
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10995, N-10993
+Related Nodes: N-10915, N-10913
 Investigative Direction: Human Rights Watch's 2002 Bosnia trafficking report and IPTF internal investigations.
 
 ---
@@ -988,7 +976,7 @@ Transcript Snippet: So, in the end, DynCorp got off scot-free and just continued
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10993, N-10995
+Related Nodes: N-10913, N-10915
 Investigative Direction: Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.
 
 ---
@@ -1003,7 +991,7 @@ Transcript Snippet: Now, when her movie about the scandal came out in 2010, DynC
 
 Anchored Artifacts: 
 Mentions: N-691
-Related Nodes: N-10993, N-10992
+Related Nodes: N-10913, N-10912
 Investigative Direction: The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.
 
 ---
@@ -1018,7 +1006,7 @@ Transcript Snippet: I believe the New York Times article was very well sourced a
 
 Anchored Artifacts: A-2691.1
 Mentions: N-378
-Related Nodes: N-10324
+Related Nodes: N-10303
 Investigative Direction: The New York Times article's attributions; Bongino's public statements.
 
 ---
@@ -1033,7 +1021,7 @@ Transcript Snippet: I know since uh Stephen Feinberg has said that he has divest
 
 Anchored Artifacts: 
 Mentions: N-691
-Related Nodes: N-10992
+Related Nodes: N-10912
 Investigative Direction: Feinberg's ethics agreement and OGE Form 278 disclosures.
 
 ---
@@ -1048,7 +1036,7 @@ Transcript Snippet: from what I am told, they are trying to make it more difficu
 
 Anchored Artifacts: 
 Mentions: N-5
-Related Nodes: N-10700
+Related Nodes: N-10637
 Investigative Direction: Recent DOJ/OIP FOIA guidance and executive orders on classification.
 
 ---
@@ -1063,7 +1051,7 @@ Transcript Snippet: were orchestrating messaging to artificially boost Erika. Th
 
 Anchored Artifacts: 
 Mentions: N-2, N-433, N-691, N-591
-Related Nodes: N-10888, N-10923, N-10000
+Related Nodes: N-10809, N-10844, N-10000
 Investigative Direction: The underlying email and its distribution list, sought through FOIA.
 
 ---
@@ -1078,7 +1066,7 @@ Transcript Snippet: But yes, her family's ministry is rescuing orphans in Ukrain
 
 Anchored Artifacts: A-2695.1, A-2696.1
 Mentions: N-217, N-190
-Related Nodes: N-10996
+Related Nodes: N-10916
 Investigative Direction: The ministry's nonprofit filings and Eliza McCoy's family history.
 
 ---
@@ -1093,7 +1081,7 @@ Transcript Snippet: I actually hear that when she goes to Ukraine our F U SUVs w
 
 Anchored Artifacts: 
 Mentions: N-217
-Related Nodes: N-10996
+Related Nodes: N-10916
 Investigative Direction: Travel records and the host's source for the escort claim.
 
 ---
@@ -1108,7 +1096,7 @@ Transcript Snippet: Here is their website, The Good Call Ministries Rescue Opera
 
 Anchored Artifacts: A-2695.1
 Mentions: 
-Related Nodes: N-10996
+Related Nodes: N-10916
 Investigative Direction: Archived copies of the ministry website and its financial disclosures.
 
 ---
@@ -1183,7 +1171,7 @@ Transcript Snippet: Why did you deny it my my 20 days and tell me that it's beca
 
 Anchored Artifacts: A-2692.2
 Mentions: 
-Related Nodes: N-10014, N-10202, N-10700
+Related Nodes: N-10014, N-10194, N-10637
 Investigative Direction: The FBI FOIA denial letter and request number.
 
 ---
@@ -1198,7 +1186,7 @@ Transcript Snippet: Suddenly they suddenly do make sense when you believe or con
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10085
+Related Nodes: N-10081
 Investigative Direction: Autopsy and medical examiner findings; high-resolution footage of the moment of impact.
 
 ---
@@ -1243,7 +1231,7 @@ Transcript Snippet: The New York Times was recounting everything that happened a
 
 Anchored Artifacts: A-2691.1, A-2696.2
 Mentions: N-5, N-85
-Related Nodes: N-10586, N-10324
+Related Nodes: N-10534, N-10303
 Investigative Direction: The dates of the events described in the New York Times article.
 
 ---

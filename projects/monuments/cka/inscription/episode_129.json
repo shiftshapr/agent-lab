@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10743"
+            "N-10675"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -98,7 +98,7 @@
             "C-11146"
           ],
           "related_nodes": [
-            "N-10740"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
             "C-11063"
           ],
           "related_nodes": [
-            "N-10740"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -135,7 +135,7 @@
             "C-11069"
           ],
           "related_nodes": [
-            "N-10740"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-11073"
           ],
           "related_nodes": [
-            "N-10742"
+            "N-10674"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-11131"
           ],
           "related_nodes": [
-            "N-10741"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -277,7 +277,7 @@
             "C-11133"
           ],
           "related_nodes": [
-            "N-10741"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,7 +295,7 @@
             "C-11134"
           ],
           "related_nodes": [
-            "N-10741"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +313,7 @@
             "C-11139"
           ],
           "related_nodes": [
-            "N-10741"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -332,7 +332,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10741"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,7 +352,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10741"
+            "N-10673"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -378,7 +378,7 @@
             "C-11153"
           ],
           "related_nodes": [
-            "N-10740"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,7 +396,7 @@
             "C-11157"
           ],
           "related_nodes": [
-            "N-10740"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -425,7 +425,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10743"
+            "N-10675"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -444,7 +444,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10743"
+            "N-10675"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -497,7 +497,7 @@
             "N-3",
             "N-97",
             "N-266",
-            "N-10651"
+            "N-10593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -523,7 +523,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-11218"
+            "N-11134"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -576,8 +576,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10740",
-      "ref": "N-10740",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "SUV Interior Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigation target covering (a) unidentified glove-like object in left rear door pocket (Rick Cutler's side), and (b) purported burned-shirt object in backseat. Cross-references photos A-2165.1, A-2165.3 and viewer hypotheses A-2170.1, A-2170.2.",
@@ -604,8 +604,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10741",
-      "ref": "N-10741",
+      "@id": "N-10673",
+      "ref": "N-10673",
       "name": "Sandy Hook Comparison Rhetoric",
       "type": "investigation_target",
       "description": "Persistent investigation target: cross-platform pattern of commentators equating questions about Kirk's death to Alex Jones/Sandy Hook defamation precedent. Documented across Seth Dillon (A-2169.1), Tim Pool (A-2169.2), Blake Neff (A-2169.3), and Viva Frei on the Charlie Kirk Show (A-2169.4); Kirk's own pre-death statements opposing the precedent (A-2169.5, A-2169.6).",
@@ -634,8 +634,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10742",
-      "ref": "N-10742",
+      "@id": "N-10674",
+      "ref": "N-10674",
       "name": "Mikey McCoy Call Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation target: reconciliation required between Blake Neff's contemporaneous account (A-2168.1) and the phone log sequence (A-2167.1), particularly the 10-minute Danny Philip call and the discrepancy between calling Erika first vs. Elizabeth first.",
@@ -658,8 +658,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10743",
-      "ref": "N-10743",
+      "@id": "N-10675",
+      "ref": "N-10675",
       "name": "Daily Mail Article Source Identity",
       "type": "investigation_target",
       "description": "Persistent investigation target: the unnamed \"family friend\" (and later \"family member\") source for Erika Kirk quotations in A-2164.1–A-2164.3. Host speculates Tracy Martin but does not confirm; Turning Point USA declined comment.",
@@ -669,7 +669,8 @@
         "A-2164.3"
       ],
       "related_claims": [
-        "C-11104"
+        "C-11104",
+        "C-11108"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1312,8 +1313,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Daily Mail; outlet that published the Erika article and, per the host, got the Aspen clip access.",
@@ -1330,8 +1331,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1348,8 +1349,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1365,8 +1366,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1382,8 +1383,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10312",
-      "ref": "N-10312",
+      "@id": "N-10294",
+      "ref": "N-10294",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1399,8 +1400,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1416,8 +1417,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10336",
-      "ref": "N-10336",
+      "@id": "N-10315",
+      "ref": "N-10315",
       "name": "Tyler Robinson First In-Person Court Appearance Details",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1433,8 +1434,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1452,8 +1453,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1469,8 +1470,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10362",
-      "ref": "N-10362",
+      "@id": "N-10338",
+      "ref": "N-10338",
       "name": "Vehicle Disposition Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1487,8 +1488,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1506,8 +1507,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1524,8 +1525,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10684",
-      "ref": "N-10684",
+      "@id": "N-10622",
+      "ref": "N-10622",
       "name": "Brian Harpole Shirt Removal Event Timing",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1541,8 +1542,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10707",
-      "ref": "N-10707",
+      "@id": "N-10643",
+      "ref": "N-10643",
       "name": "Missing Charlie's Shirt Investigation Target",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1558,8 +1559,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1576,25 +1577,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10745",
-      "ref": "N-10745",
-      "name": "Daily Mail Article Sourcing Question",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11108"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10765",
-      "ref": "N-10765",
+      "@id": "N-10694",
+      "ref": "N-10694",
       "name": "Timpanogos Hospital Evacuation Tip",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1610,8 +1594,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10771",
-      "ref": "N-10771",
+      "@id": "N-10699",
+      "ref": "N-10699",
       "name": "Missing Gloves Origin in SUV Door",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1628,8 +1612,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10820",
-      "ref": "N-10820",
+      "@id": "N-10743",
+      "ref": "N-10743",
       "name": "9/10 Vehicle Positioning Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1645,8 +1629,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1663,8 +1647,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10934",
-      "ref": "N-10934",
+      "@id": "N-10855",
+      "ref": "N-10855",
       "name": "Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1680,8 +1664,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10936",
-      "ref": "N-10936",
+      "@id": "N-10857",
+      "ref": "N-10857",
       "name": "Aspen CEO-Appointment Video Non-Release",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1697,8 +1681,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10956",
-      "ref": "N-10956",
+      "@id": "N-10877",
+      "ref": "N-10877",
       "name": "Catholics for Catholics",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1718,8 +1702,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "The New York Times; source of Erika's account of the Mikey call.",
@@ -1737,8 +1721,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1757,8 +1741,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11061",
-      "ref": "N-11061",
+      "@id": "N-10979",
+      "ref": "N-10979",
       "name": "Restaurantology Event Green Room Attendance Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1774,8 +1758,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11208",
-      "ref": "N-11208",
+      "@id": "N-11124",
+      "ref": "N-11124",
       "name": "Timpanogos Hospital Group Arrival Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1792,8 +1776,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
       "type": "investigation_target",
       "description": "Timpanogos Regional Hospital; site of the arrival and the reported computer shutdown.",
@@ -1813,8 +1797,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11300",
-      "ref": "N-11300",
+      "@id": "N-11216",
+      "ref": "N-11216",
       "name": "Charlie Kirk Show LLC",
       "type": "organization",
       "description": "Company the host says received the freedom shirt profits, in which she says Charlie told her Andrew Kolvet owned a piece.",
@@ -1842,7 +1826,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:26:13",
@@ -1862,7 +1846,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:27:48",
@@ -1948,7 +1932,7 @@
         "A-2165.1"
       ],
       "related_nodes": [
-        "N-10740"
+        "N-10672"
       ],
       "tags": [],
       "claim_timestamp": "00:06:20",
@@ -2000,7 +1984,7 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-10742"
+        "N-10674"
       ],
       "tags": [],
       "claim_timestamp": "00:16:48",
@@ -2022,7 +2006,7 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-10742"
+        "N-10674"
       ],
       "tags": [],
       "claim_timestamp": "00:14:58",
@@ -2089,7 +2073,7 @@
         "A-2166.1"
       ],
       "related_nodes": [
-        "N-10742"
+        "N-10674"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
@@ -2109,7 +2093,7 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-10742"
+        "N-10674"
       ],
       "tags": [],
       "claim_timestamp": "00:14:48",
@@ -2130,7 +2114,7 @@
         "A-2169.1"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:42:49",
@@ -2150,7 +2134,7 @@
         "A-2169.1"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:42:49",
@@ -2169,7 +2153,7 @@
         "A-2169.2"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:43:43",
@@ -2190,7 +2174,7 @@
         "A-2169.3"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:45:35",
@@ -2211,7 +2195,7 @@
         "A-2169.4"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:48:02",
@@ -2231,7 +2215,7 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:50:38",
@@ -2251,7 +2235,7 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:54:20",
@@ -2299,7 +2283,7 @@
       "claim": "The host says Turning Point USA keeps equating what it calls conspiracy theories about Charlie Kirk's death with Sandy Hook victimization, and that this signals they want people, or maybe just one particular person, to be bankrupted for asking questions about their founder's death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741",
+        "N-10673",
         "N-10000"
       ],
       "tags": [
@@ -2321,7 +2305,7 @@
       "claim": "The host describes the car ride from the UVU event to the hospital as an approximately 7-minute ride.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218"
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -2343,8 +2327,8 @@
         "A-2165.1"
       ],
       "related_nodes": [
-        "N-10771",
-        "N-10740"
+        "N-10699",
+        "N-10672"
       ],
       "tags": [
         "relevance:core"
@@ -2366,8 +2350,8 @@
         "A-2165.1"
       ],
       "related_nodes": [
-        "N-10771",
-        "N-10362"
+        "N-10699",
+        "N-10338"
       ],
       "tags": [
         "relevance:core"
@@ -2387,8 +2371,8 @@
       "claim": "The host says Brian Harpole said he cut Charlie Kirk's shirt, and she asks whose scissors were used, whether they were hospital scissors, and whether the feds seized them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10684",
-        "N-10707"
+        "N-10622",
+        "N-10643"
       ],
       "tags": [
         "relevance:core"
@@ -2409,7 +2393,7 @@
       "claim": "The host says she does not understand why the feds would want the SUV immediately released, towed, cleaned up and resold so fast, and asks why it was not impounded for evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10362"
+        "N-10338"
       ],
       "tags": [
         "relevance:core"
@@ -2452,7 +2436,7 @@
       "claim": "The host says Mikey McCoy rented two SUVs in Salt Lake City, that Blake Neff and Danny Philip got into one of them, and that Charlie went to the restaurantology event with Mikey McCoy and Nate Walker before they all went to Provo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11061"
+        "N-10979"
       ],
       "tags": [
         "relevance:core"
@@ -2479,7 +2463,7 @@
       "claim": "The host says Blake Neff does not remember where he and Danny Philip went in Salt Lake City before the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2543,7 +2527,7 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2568,8 +2552,8 @@
       "claim": "The host says that in her New York Times interview eight days later Erika Kirk said she was looking at her phone at 11:23 her time, 12:23 Utah time, and within seconds Mikey called her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905",
-        "N-10968"
+        "N-10826",
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2592,8 +2576,8 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-10338",
-        "N-10742"
+        "N-10214",
+        "N-10674"
       ],
       "tags": [
         "relevance:core"
@@ -2621,7 +2605,7 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2645,7 +2629,7 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-10742"
+        "N-10674"
       ],
       "tags": [
         "relevance:core"
@@ -2668,7 +2652,7 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2690,8 +2674,8 @@
       "claim": "The host says Erika Kirk is going to say 'I effing knew it', that she believes Erika told this to Jesse Watters, and that Erika certainly told it to the New York Times.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905",
-        "N-10968"
+        "N-10826",
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2714,7 +2698,7 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-10742"
+        "N-10674"
       ],
       "tags": [
         "relevance:core"
@@ -2737,8 +2721,8 @@
       "claim": "The host says Danny Philip, Blake Neff and Mikey McCoy all ran in the same direction, got into the same car, and had their cars parked right next to one another's, and asks what they were conversing about for 10 full minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10742",
-        "N-10820"
+        "N-10674",
+        "N-10743"
       ],
       "tags": [
         "relevance:core"
@@ -2760,7 +2744,7 @@
       "claim": "The host says that perhaps Justin Streiff and Erika lied to her and Mikey was not on the phone with Danny Philip, though she does not think so, and that she cannot make sense of the call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300"
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -2786,7 +2770,7 @@
         "A-2166.2"
       ],
       "related_nodes": [
-        "N-11208"
+        "N-11124"
       ],
       "tags": [
         "relevance:core"
@@ -2811,7 +2795,7 @@
         "A-2166.2"
       ],
       "related_nodes": [
-        "N-11208"
+        "N-11124"
       ],
       "tags": [
         "relevance:core"
@@ -2856,7 +2840,7 @@
       "claim": "The host says Erika Kirk is nasty behind the scenes and calls people's priests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:core"
@@ -2879,7 +2863,7 @@
       "claim": "The host says Erika Kirk personally took credit for having Matt Walsh cancel his in-person appearance at the Catholics for Catholics prayer event because the host was attending.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:core"
@@ -2901,7 +2885,7 @@
       "claim": "The host says Matt Walsh turned what was supposed to be his appearance into a video message instead because Erika was upset that the host would be present.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:core"
@@ -2923,7 +2907,7 @@
       "claim": "The host says the White House was making phone calls because Erika does not like her, in connection with the Catholics for Catholics event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:core"
@@ -2944,7 +2928,7 @@
       "claim": "The host says Erika Kirk explicitly told people the Catholics for Catholics event was a 'woke Reich event'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:core"
@@ -2964,7 +2948,7 @@
       "claim": "The host says she first heard the term 'woke Reich' from Benjamin Netanyahu's mouth with American influencers around him, and that it is not a term Charlie Kirk ever used.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:context"
@@ -3009,7 +2993,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10934"
+        "N-10855"
       ],
       "tags": [
         "relevance:core"
@@ -3049,9 +3033,9 @@
       "claim": "The host says Turning Point USA turned to the Daily Mail exclusively to clean up its \"Charlie GPT\" Aspen mess and gave the paper special access to the unedited clip, which the public still has not seen, which she says demonstrates a PR relationship between TPUSA and the Mail.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
-        "N-10664",
-        "N-10936"
+        "N-10067",
+        "N-10606",
+        "N-10857"
       ],
       "tags": [
         "relevance:core"
@@ -3074,8 +3058,8 @@
       "claim": "The host says the Daily Mail journalist who saw the Aspen clip then told the world that Charlie Kirk really did pick Erika to run the company in the event of his untimely death, which the host notes came about three weeks before he was killed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
-        "N-10070"
+        "N-10606",
+        "N-10067"
       ],
       "tags": [
         "relevance:core"
@@ -3098,8 +3082,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-10743",
-        "N-10745"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3118,7 +3101,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3141,7 +3124,7 @@
         "A-2164.2"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10315"
       ],
       "tags": [
         "relevance:core"
@@ -3162,7 +3145,7 @@
       "claim": "The host says she has not seen any convincing evidence that Tyler Robinson committed the crime and that she feels the entire world knows he did not commit it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3183,7 +3166,7 @@
       "claim": "The host says Erika Kirk told Bari Weiss she was certain Tyler Robinson killed her husband, and that Erika was wholly confident of it because she has access to the evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -3207,7 +3190,7 @@
         "A-3141.1"
       ],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3230,7 +3213,7 @@
         "A-3141.1"
       ],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3251,7 +3234,7 @@
       "claim": "The host says that just 3 weeks after Charlie's assassination Erika filed for three trademarks granting her the right to his name on t-shirts, tote bags and any and all clothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:core"
@@ -3275,8 +3258,8 @@
       "claim": "The host says the freedom shirts were not sold through the charitable arm and that former employees have confirmed to her that the profits went straight to Charlie Kirk Show LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300",
-        "N-11014"
+        "N-11216",
+        "N-10934"
       ],
       "tags": [
         "relevance:core"
@@ -3296,7 +3279,7 @@
       "claim": "The host says Charlie once told her that Andrew Kolvet owned a piece of that company, the Charlie Kirk Show LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300"
+        "N-11216"
       ],
       "tags": [
         "relevance:core"
@@ -3320,7 +3303,7 @@
         "A-3141.2"
       ],
       "related_nodes": [
-        "N-10743"
+        "N-10675"
       ],
       "tags": [
         "relevance:core"
@@ -3341,7 +3324,7 @@
       "claim": "The host says that when Charlie died she already had a name and a brand and was already being sued by the president of France.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3383,7 +3366,7 @@
       "claim": "The host says her show sold nothing with Charlie's face, no memorabilia, in the aftermath of his death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -3426,7 +3409,7 @@
       "claim": "The host says her show before Charlie died was already in the global top 10, above the Charlie Kirk podcast, and that every episode since the 2024 launch has averaged well above a million views.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10312"
+        "N-10294"
       ],
       "tags": [
         "relevance:context"
@@ -3501,8 +3484,8 @@
       "claim": "The host says Erika got on a Zoom call and, in the host's rendering of her words, said the sales had been crazy, with 50,000 shirts sold, kicked back into the LLC that 'me and the Charlie Kirk Show people own'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300",
-        "N-11014"
+        "N-11216",
+        "N-10934"
       ],
       "tags": [
         "relevance:core"
@@ -3522,7 +3505,7 @@
       "claim": "The host says that as soon as the Tyler Robinson trial began, the same influencers who have been attacking her all started raising the matter of Sandy Hook.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3545,7 +3528,7 @@
         "A-2169.3"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3567,7 +3550,7 @@
       "claim": "The host says that Turning Point-aligned shows are also putting people on air to say Erika is just like the parents at Sandy Hook.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3588,7 +3571,7 @@
       "claim": "The host says Alex Jones said something about Sandy Hook, which he has apologized for before and said was wrong, speculating that the children did not actually die that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3608,7 +3591,7 @@
       "claim": "The host says the Sandy Hook families sued Alex Jones over emotional harassment and stress and won $1.4 billion, effectively ending his InfoWars platform and suing him into bankruptcy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3630,7 +3613,7 @@
         "A-2169.4"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3652,7 +3635,7 @@
         "A-2169.4"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3674,7 +3657,7 @@
         "A-2169.5"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:tangential"
@@ -3696,7 +3679,7 @@
         "A-2169.5"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3719,8 +3702,8 @@
         "A-2169.5"
       ],
       "related_nodes": [
-        "N-10741",
-        "N-10968"
+        "N-10673",
+        "N-10889"
       ],
       "tags": [
         "relevance:context"
@@ -3743,7 +3726,7 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [
         "relevance:context"
@@ -3822,7 +3805,7 @@
         "A-3143.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -3863,8 +3846,8 @@
       "claim": "The host says she is hearing from people who worked in other parts of the hospital that their computers were shut down for 6 hours, and that those who reached out feel something strange happened that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218",
-        "N-10765"
+        "N-11134",
+        "N-10694"
       ],
       "tags": [
         "relevance:core"
@@ -3886,7 +3869,7 @@
         "A-3144.1"
       ],
       "related_nodes": [
-        "N-11218"
+        "N-11134"
       ],
       "tags": [
         "relevance:core"

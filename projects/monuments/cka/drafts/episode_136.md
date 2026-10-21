@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: e212815bd237d77e5c89e294f4374f950a75b0d1dfe19a747008a4f9ef4bfdb9
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11306, N-11307, N-11308, N-11309
+  - Tip-minted Nodes (supplement_2026-10e): N-11222, N-11223, N-11224, N-11225
   - Claim Range: C-11678–C-11750
   - Tip-minted Nodes (reintro-ep136): N-748
-  - New Nodes Introduced: N-10774, N-10775
+  - New Nodes Introduced: N-10700, N-10701
   - Hole-minted Nodes (wave3): N-555
-  - Reused Nodes Appearing: N-378, N-506, N-10772, N-10773, N-5, N-9, N-14, N-36, N-40, N-54, N-159, N-261, N-266, N-487, N-10000, N-10014, N-10074, N-10219, N-10324, N-10343, N-10539, N-10679, N-10681, N-10688, N-10725, N-10732, N-10737, N-10747, N-10964, N-11128, N-10771
+  - Reused Nodes Appearing: N-378, N-506, N-10661, N-10660, N-5, N-9, N-14, N-36, N-40, N-54, N-159, N-261, N-266, N-487, N-10000, N-10014, N-10071, N-10209, N-10303, N-10321, N-10494, N-10617, N-10619, N-10626, N-10666, N-10636, N-10677, N-10885, N-11046, N-10699
   - (see registers)
 
 # Episode 136 Analysis Record
@@ -39,7 +39,7 @@ Episode 136 Ledger Summary
 - Artifact Families Introduced: A-2223, A-2224, A-2225, A-2226, A-2227, A-2228, A-2229, A-2230, A-2231, A-2232, A-2233, A-2234, A-2235
 - New Nodes Introduced (people): 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
-- New Nodes Introduced (investigation targets): N-10771, N-10772, N-10773, N-10774, N-10775
+- New Nodes Introduced (investigation targets): N-10699, N-10700, N-10701
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:03:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11681, N-1, N-10771*
+*Related: C-11681, N-1, N-10699*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:10:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11692, C-11693, N-10772*
+*Related: C-11692, C-11693, N-10661*
 
 **A-2224.2** Testimony excerpt: body cam footage ran 27 minutes 35 seconds and ended on the rooftop; Bagley states battery died
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:12:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11694, N-10773*
+*Related: C-11694, N-10660*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11701, C-11702, C-11705, N-10772*
+*Related: C-11701, C-11702, C-11705, N-10661*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11715, C-11714, N-10774*
+*Related: C-11715, C-11714, N-10700*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:34:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11727, N-10775*
+*Related: C-11727, N-10701*
 
 ---
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11693, C-11694, N-10772, N-10773*
+*Related: C-11693, C-11694, N-10661, N-10660*
 
 ---
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:01:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11679, N-1, N-10771, N-3*
+*Related: C-11679, N-1, N-10699, N-3*
 
 ---
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11684, N-10737, N-266, N-487*
+*Related: C-11684, N-10636, N-266, N-487*
 
 ---
 
@@ -290,7 +290,7 @@ Video Timestamp: 00:08:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11689, N-10681, N-10737, N-266, N-3*
+*Related: C-11689, N-10619, N-10636, N-266, N-3*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11707, N-10772, N-748*
+*Related: C-11707, N-10661, N-748*
 
 ---
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:24:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11717, N-10774, N-3, N-748*
+*Related: C-11717, N-10700, N-3, N-748*
 
 ---
 
@@ -344,7 +344,7 @@ Video Timestamp: 00:37:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11733, N-1, N-10000, N-10539, N-159, N-2, N-5*
+*Related: C-11733, N-1, N-10000, N-10494, N-159, N-2, N-5*
 
 ---
 
@@ -366,7 +366,7 @@ First named by the host at 00:17:52 in episode 136.
 
 
 
-**N-10771** Missing Gloves Origin in SUV Door
+**N-10699** Missing Gloves Origin in SUV Door
 
 Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.
 
@@ -379,7 +379,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10772** Officer Bagley Rooftop Companion Identification
+**N-10661** Officer Bagley Rooftop Companion Identification
 
 Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.
 
@@ -392,20 +392,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10773** Body Cam Battery Failure Circumstances
-
-Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2224.2, A-2233.1, C-11694*
-
----
-
-**N-10774** Allan Robertson Brady List Entry / San Bernardino Transfer
+**N-10700** Allan Robertson Brady List Entry / San Bernardino Transfer
 
 Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.
 
@@ -418,7 +405,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10775** US CentCom Iran Crowdsourcing Request
+**N-10701** US CentCom Iran Crowdsourcing Request
 
 Investigative target: senior US Central Command officer's reported email soliciting "creative and unconventional" ideas to pressure Iran, sourced from CNN reporting.
 
@@ -583,7 +570,7 @@ Federal Bureau of Investigation; its arrival timing and clothing custody are dis
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Provo, Utah; the host cites the nearby FBI office there.
 
@@ -591,7 +578,7 @@ Provo, Utah; the host cites the nearby FBI office there.
 
 ---
 
-**N-10219** Mikey McCoy Pre-Death Documentation Pattern
+**N-10209** Mikey McCoy Pre-Death Documentation Pattern
 
 Existing topic reused for the McCoy recording claim.
 
@@ -599,7 +586,7 @@ Existing topic reused for the McCoy recording claim.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for the Epstein-files claim.
 
@@ -607,7 +594,7 @@ Existing topic reused for the Epstein-files claim.
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Existing topic reused for the rooftop access timeline claims.
 
@@ -615,7 +602,7 @@ Existing topic reused for the rooftop access timeline claims.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for Kirk's Iran war positions.
 
@@ -623,7 +610,7 @@ Existing topic reused for Kirk's Iran war positions.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing topic reused for the Twiggs DNA claim.
 
@@ -631,7 +618,7 @@ Existing topic reused for the Twiggs DNA claim.
 
 ---
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for the Shawn Ryan interview claim.
 
@@ -639,7 +626,7 @@ Existing topic reused for the Shawn Ryan interview claim.
 
 ---
 
-**N-10688** Frank Turek Clothing Disposal
+**N-10626** Frank Turek Clothing Disposal
 
 Existing topic reused for the hospital clothing claims.
 
@@ -647,7 +634,7 @@ Existing topic reused for the hospital clothing claims.
 
 ---
 
-**N-10725** Officer Bagley Body-Cam Battery Anomaly
+**N-10660** Officer Bagley Body-Cam Battery Anomaly
 
 Existing topic reused for the body-cam battery claim.
 
@@ -655,7 +642,7 @@ Existing topic reused for the body-cam battery claim.
 
 ---
 
-**N-10732** Salt Lake City Hotel Identification Gap
+**N-10666** Salt Lake City Hotel Identification Gap
 
 Existing topic reused for the TPUSA hotel claim.
 
@@ -663,7 +650,7 @@ Existing topic reused for the TPUSA hotel claim.
 
 ---
 
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Existing topic reused for the Harpole and Turek car-ride accounts.
 
@@ -671,7 +658,7 @@ Existing topic reused for the Harpole and Turek car-ride accounts.
 
 ---
 
-**N-10747** TPUSA Inner Circle Composition Question
+**N-10677** TPUSA Inner Circle Composition Question
 
 Existing topic reused for the inner-circle claim.
 
@@ -679,7 +666,7 @@ Existing topic reused for the inner-circle claim.
 
 ---
 
-**N-10964** US Central Command (CENTCOM)
+**N-10885** US Central Command (CENTCOM)
 
 US Central Command; its reported email asking for Iran ideas.
 
@@ -687,7 +674,7 @@ US Central Command; its reported email asking for Iran ideas.
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Existing topic reused for the Iran war claims.
 
@@ -695,7 +682,7 @@ Existing topic reused for the Iran war claims.
 
 ---
 
-**N-11306** Security Guard Stroke in Russia
+**N-11222** Security Guard Stroke in Russia
 
 Node Type: Topic
 The host's account of a member of her security detail who suffered a severe stroke during the Russia trip, had brain surgery in a Russian hospital, and is now seeking rehabilitation.
@@ -704,7 +691,7 @@ The host's account of a member of her security detail who suffered a severe stro
 
 ---
 
-**N-11307** International Institute of Brain Enhancement
+**N-11223** International Institute of Brain Enhancement
 
 Node Type: Organization
 Rehabilitation institute in Delray, Florida that the host names as the guard's next step and for which she asks viewers to help with funding.
@@ -713,7 +700,7 @@ Rehabilitation institute in Delray, Florida that the host names as the guard's n
 
 ---
 
-**N-11308** TPUSA 4K Video Claim Dispute
+**N-11224** TPUSA 4K Video Claim Dispute
 
 Node Type: Topic
 The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video of Tyler Robinson taking the shot, and the later shift to saying the 4K footage showed other things.
@@ -722,7 +709,7 @@ The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video
 
 ---
 
-**N-11309** Brady List Website
+**N-11225** Brady List Website
 
 Node Type: Topic
 The Brady List website, a database of officers with documented credibility or misconduct issues, on which the host says Allan E. Robertson has an entry.
@@ -741,7 +728,7 @@ Claim: The host says Mikey McCoy's footage of Charlie Kirk's arrival shows the r
 
 Anchored Artifacts: A-2223.1
 Mentions: N-1, N-190
-Related Nodes: N-10771
+Related Nodes: N-10699
 
 Investigative Direction: Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.
 
@@ -769,7 +756,7 @@ Claim: In a preliminary-hearing clip the host plays, a questioner describes Offi
 
 Anchored Artifacts: A-2224.2, A-2233.1
 Mentions: N-506
-Related Nodes: N-10773
+Related Nodes: N-10660
 
 Investigative Direction: Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.
 
@@ -783,7 +770,7 @@ Claim: In a preliminary-hearing clip the host plays, Officer Bagley testifies th
 
 Anchored Artifacts: A-2224.1
 Mentions: N-506
-Related Nodes: N-10772
+Related Nodes: N-10661
 
 Investigative Direction: Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.
 
@@ -797,7 +784,7 @@ Claim: In a preliminary-hearing clip the host plays, Officer Bagley, under quest
 
 Anchored Artifacts: A-2224.1, A-2233.1
 Mentions: N-506
-Related Nodes: N-10772
+Related Nodes: N-10661
 
 Investigative Direction: Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.
 
@@ -811,7 +798,7 @@ Claim: The host says bystander footage timestamped 12:47 PM shows a plainclothes
 
 Anchored Artifacts: A-2227.1
 Mentions: N-506, N-748
-Related Nodes: N-10772
+Related Nodes: N-10661
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
 
@@ -825,7 +812,7 @@ Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM b
 
 Anchored Artifacts: A-2234.1, A-2227.1
 Mentions: N-748
-Related Nodes: N-10772
+Related Nodes: N-10661
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
 
@@ -839,7 +826,7 @@ Claim: Per the same Muppet Masher identification, the blue-shirt man walking nea
 
 Anchored Artifacts: A-2234.1, A-2227.1
 Mentions: N-555
-Related Nodes: N-10772
+Related Nodes: N-10661
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.
 
@@ -881,7 +868,7 @@ Claim: The host says the Brady List website contains an entry for Allan E. Rober
 
 Anchored Artifacts: A-2229.1
 Mentions: N-748
-Related Nodes: N-10774
+Related Nodes: N-10700
 
 Investigative Direction: Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.
 
@@ -895,7 +882,7 @@ Claim: The host says the Brady List website notes that San Bernardino PD is not 
 
 Anchored Artifacts: A-2229.1
 Mentions: N-748
-Related Nodes: N-10774
+Related Nodes: N-10700
 
 Investigative Direction: Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.
 
@@ -908,7 +895,7 @@ Claim Timestamp: 00:34:33
 Claim: A CNN report described an email from a senior US Central Command intelligence-branch officer, sent on a Wednesday to a broad group of military analysts, soliciting new creative and unconventional ideas for pressuring Iran.
 
 Anchored Artifacts: A-2230.1
-Related Nodes: N-10775
+Related Nodes: N-10701
 
 Investigative Direction: Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list.
 
@@ -975,7 +962,7 @@ Claim: In a clip the host plays, YouTuber Nissi asserts that Officer Bagley fail
 
 Anchored Artifacts: A-2233.1
 Mentions: N-506, N-748
-Related Nodes: N-10772, N-10773
+Related Nodes: N-10661, N-10660
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
 
@@ -991,7 +978,7 @@ Transcript Snippet: Turning Point USA, they've been experiencing a lot of pregna
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10539
+Related Nodes: N-10000, N-10494
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's current public statements with Kirk's dated on-air statements to identify which positions were reversed.
 
@@ -1007,7 +994,7 @@ Transcript Snippet: Do not forget that in the SUV that transported Charlie to th
 
 Anchored Artifacts: A-3152.1
 Mentions: N-3, N-1
-Related Nodes: N-10771
+Related Nodes: N-10699
 Supports: C-11062
 Tags: relevance:core
 Investigative Direction: Obtain the original photograph of the door compartment and the SUV's evidence inventory to establish what the object is.
@@ -1024,7 +1011,7 @@ Transcript Snippet: turns out that the amazing Mikey McCoy who was suddenly reco
 
 Anchored Artifacts: 
 Mentions: N-190, N-1, N-3
-Related Nodes: N-10219
+Related Nodes: N-10209
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's full recording set for the week of September 10 and its metadata to establish provenance and filming dates.
 
@@ -1040,7 +1027,7 @@ Transcript Snippet: Brian was definitively not sitting on that side of the car a
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10771, N-10737
+Related Nodes: N-10699, N-10636
 Supports: C-11065
 Tags: relevance:core
 Investigative Direction: Establish the seating chart of the SUV from the occupants' own accounts and any interior photographs.
@@ -1057,7 +1044,7 @@ Transcript Snippet: He tells a story about how the nurse wiped it off of his fac
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.
 
@@ -1073,7 +1060,7 @@ Transcript Snippet: And we were told that Rick Cutler didn't do nothing but hold
 
 Anchored Artifacts: A-3153.1
 Mentions: N-487, N-266
-Related Nodes: N-10737
+Related Nodes: N-10636
 Supports: C-10324
 Tags: relevance:core
 Investigative Direction: Compare Harpole's and Cutler's own recorded accounts of who did what during the ride.
@@ -1090,7 +1077,7 @@ Transcript Snippet: Now, we also told you that Rick was among those who allegedl
 
 Anchored Artifacts: 
 Mentions: N-487, N-7
-Related Nodes: N-10688
+Related Nodes: N-10626
 Tags: relevance:core
 Investigative Direction: Ask hospital staff and the group to confirm who changed clothes, and obtain any hospital security video of the entrance.
 
@@ -1106,7 +1093,7 @@ Transcript Snippet: we uh were also told that the feds were the ones who alleged
 
 Anchored Artifacts: 
 Mentions: N-487, N-3
-Related Nodes: N-10688, N-10014
+Related Nodes: N-10626, N-10014
 Tags: relevance:core
 Investigative Direction: Request FBI evidence-receipt records for clothing taken from Cutler and others at the hospital.
 
@@ -1122,7 +1109,7 @@ Transcript Snippet: Particularly the portion where Brian Harpole grabs a gurnie,
 
 Anchored Artifacts: 
 Mentions: N-266, N-1
-Related Nodes: N-10737
+Related Nodes: N-10636
 Supports: C-10231
 Tags: relevance:core
 Investigative Direction: Obtain ER staff statements and the hospital's trauma-bay record for who treated Kirk on arrival.
@@ -1139,7 +1126,7 @@ Transcript Snippet: Even when he describes things in that Shawn Ryan interview, 
 
 Anchored Artifacts: A-3154.1
 Mentions: N-266, N-3
-Related Nodes: N-10681, N-10737
+Related Nodes: N-10619, N-10636
 Tags: relevance:core
 Investigative Direction: Pull the Shawn Ryan interview and transcribe Harpole's exact words about the medical response.
 
@@ -1155,7 +1142,7 @@ Transcript Snippet: We do know it has Lance Twiggs's DNA alongside Tyler Robinso
 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
-Related Nodes: N-10679
+Related Nodes: N-10617
 Tags: relevance:core
 Investigative Direction: Review the FBI DNA report on the screwdriver (listed in sealed exhibits) for the contributor profiles.
 
@@ -1171,7 +1158,7 @@ Transcript Snippet: we still don't know um if that screwdriver even if a screwdr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10343
+Related Nodes: N-10321
 Supports: C-644
 Tags: relevance:core
 Investigative Direction: Obtain the rifle's disassembly specifications and the exhibit photographs of the screwdriver and screw heads.
@@ -1188,7 +1175,7 @@ Transcript Snippet: he gets on to Losi building at 12:44. He discovers that scre
 
 Anchored Artifacts: 
 Mentions: N-506
-Related Nodes: N-10343
+Related Nodes: N-10321
 Supports: C-10866
 Tags: relevance:core
 Investigative Direction: Compare the 12:44 arrival with the 12:47 bystander clip and with the preliminary-hearing transcript.
@@ -1205,7 +1192,7 @@ Transcript Snippet: I want to underscore that officer Baggley went onto Losi roo
 
 Anchored Artifacts: A-2226.1
 Mentions: N-506
-Related Nodes: N-10772, N-10014
+Related Nodes: N-10661, N-10014
 Supports: C-11696
 Tags: relevance:core
 Investigative Direction: Obtain the scene access log and FBI arrival documents to test who was authorized on the rooftop at 12:44.
@@ -1222,7 +1209,7 @@ Transcript Snippet: That is remarkably fast given the FBI um office is actually 
 
 Anchored Artifacts: A-2226.1
 Mentions: N-3
-Related Nodes: N-10014, N-10074
+Related Nodes: N-10014, N-10071
 Supports: C-10507
 Tags: relevance:core
 Investigative Direction: Obtain FBI office addresses and the dispatch/arrival logs for September 10 to test the 16-minute figure.
@@ -1239,7 +1226,7 @@ Transcript Snippet: They have a little office in a building in Provo nearby that
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10014, N-10074
+Related Nodes: N-10014, N-10071
 Tags: relevance:core
 Investigative Direction: Confirm the Provo FBI resident-agency headcount and location through FBI records or FOIA.
 
@@ -1255,7 +1242,7 @@ Transcript Snippet: I went combing through all the footage that was sent to me o
 
 Anchored Artifacts: A-2227.1
 Mentions: N-3, N-506
-Related Nodes: N-10772
+Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Ask the host for the original submission, sender and metadata of the 12:47 bystander clip.
 
@@ -1271,7 +1258,7 @@ Transcript Snippet: Allan Robertson, as we're going through all that early foota
 
 Anchored Artifacts: A-2227.1
 Mentions: N-748, N-3
-Related Nodes: N-10772
+Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Review the early scene footage for Robertson giving directions and compare to the incident command roster.
 
@@ -1287,7 +1274,7 @@ Transcript Snippet: You see him walking around and texting and making calls.
 
 Anchored Artifacts: A-3155.1, A-2233.1
 Mentions: N-748
-Related Nodes: N-10772
+Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.
 
@@ -1303,7 +1290,7 @@ Transcript Snippet: He says the battery died, but the camera had only been runni
 
 Anchored Artifacts: A-2233.1
 Mentions: N-506
-Related Nodes: N-10725, N-10773
+Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Obtain the UVU police body-camera model specifications and the device's battery and docking logs.
 
@@ -1319,7 +1306,7 @@ Transcript Snippet: there seems to be an immediate understanding that this Allan
 
 Anchored Artifacts: A-2227.1
 Mentions: N-748, N-261, N-506
-Related Nodes: N-10772
+Related Nodes: N-10661
 Tags: relevance:core
 Investigative Direction: Interview officers at the scene about who directed the rooftop response and obtain the command roster.
 
@@ -1335,7 +1322,7 @@ Transcript Snippet: But he was also a police officer just before going to Utah i
 
 Anchored Artifacts: A-2235.1
 Mentions: N-748
-Related Nodes: N-10774
+Related Nodes: N-10700
 Tags: relevance:context
 Investigative Direction: Obtain Robertson's San Bernardino PD employment dates through a California public records request.
 
@@ -1351,7 +1338,7 @@ Transcript Snippet: it's a uh a database of law enforcement officers who have a 
 
 Anchored Artifacts: A-2229.1
 Mentions: N-3
-Related Nodes: N-11309
+Related Nodes: N-11225
 Tags: relevance:context
 Investigative Direction: Verify the Brady List website's own description of what its entries mean and who maintains them.
 
@@ -1367,7 +1354,7 @@ Transcript Snippet: I searched online and said nope that's not what they do.
 
 Anchored Artifacts: A-2229.1
 Mentions: N-3
-Related Nodes: N-11309, N-10774
+Related Nodes: N-11225, N-10700
 Tags: relevance:context
 Investigative Direction: Search the Brady List site for officers from other departments to confirm that not all officers are listed.
 
@@ -1383,7 +1370,7 @@ Transcript Snippet: Obviously, you guys also know there's a lot of corruption in
 
 Anchored Artifacts: 
 Mentions: N-748, N-3
-Related Nodes: N-10774
+Related Nodes: N-10700
 Tags: relevance:context
 Investigative Direction: Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.
 
@@ -1399,7 +1386,7 @@ Transcript Snippet: he decided to go in August 2024 despite the fact that his en
 
 Anchored Artifacts: A-2228.1
 Mentions: N-748, N-3
-Related Nodes: N-10774
+Related Nodes: N-10700
 Tags: relevance:core
 Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.
 
@@ -1415,7 +1402,7 @@ Transcript Snippet: it is definitely what I would assert is a plausibility uh th
 
 Anchored Artifacts: A-2229.1
 Mentions: N-748, N-3
-Related Nodes: N-10774
+Related Nodes: N-10700
 Tags: relevance:core
 Investigative Direction: Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.
 
@@ -1431,7 +1418,7 @@ Transcript Snippet: please send us tips to more tips at candacewowens. com
 
 Anchored Artifacts: A-3156.1
 Mentions: N-3, N-748
-Related Nodes: N-10774
+Related Nodes: N-10700
 Tags: relevance:core,DIA
 Investigative Direction: Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.
 
@@ -1463,7 +1450,7 @@ Transcript Snippet: I think it's plausible that the person who actually found th
 
 Anchored Artifacts: A-2229.1
 Mentions: N-748, N-3
-Related Nodes: N-10772, N-10774
+Related Nodes: N-10661, N-10700
 Tags: relevance:core
 Investigative Direction: Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.
 
@@ -1479,7 +1466,7 @@ Transcript Snippet: he had a a very severe stroke, had to have brain surgery to 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11306
+Related Nodes: N-11222
 Tags: relevance:tangential
 Investigative Direction: Not independently verifiable beyond the host's account; hospital records would need the guard's consent.
 
@@ -1495,7 +1482,7 @@ Transcript Snippet: is trying to get an appointment for over 5 years to the VA
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11306
+Related Nodes: N-11222
 Tags: relevance:tangential
 Investigative Direction: VA wait-time and appointment records for the veteran, with his consent.
 
@@ -1511,7 +1498,7 @@ Transcript Snippet: It's been taken care of by the Ministry of Health.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11306
+Related Nodes: N-11222
 Tags: relevance:tangential
 Investigative Direction: Obtain the hospital's billing statement or Ministry of Health confirmation with the guard's consent.
 
@@ -1527,7 +1514,7 @@ Transcript Snippet: his eyesight came back it's like a miracle once the clot was
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11306
+Related Nodes: N-11222
 Tags: relevance:tangential
 Investigative Direction: Medical records for the veteran with his consent.
 
@@ -1543,7 +1530,7 @@ Transcript Snippet: this international institute of brain enhancement that is in
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11306, N-11307
+Related Nodes: N-11222, N-11223
 Tags: relevance:tangential
 Investigative Direction: Confirm the institute's address, program cost and any charity that has offered funding.
 
@@ -1559,7 +1546,7 @@ Transcript Snippet: A second source also said that a senior US military officer 
 
 Anchored Artifacts: A-2230.1
 Mentions: N-3
-Related Nodes: N-10775, N-10964
+Related Nodes: N-10701, N-10885
 Tags: relevance:tangential
 Investigative Direction: Obtain the CNN article and test the two sourcing paths and the email's date.
 
@@ -1575,7 +1562,7 @@ Transcript Snippet: we know that Charlie was the first casualty of the Iranian w
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11128, N-10539
+Related Nodes: N-11046, N-10494
 Supports: C-8010
 Tags: relevance:core
 Investigative Direction: This is an inference; it would need documentary evidence of a link between Kirk's Iran stance and the shooting.
@@ -1592,7 +1579,7 @@ Transcript Snippet: Listened to a pitch by BBNet and Yahoo saying we can take Pe
 
 Anchored Artifacts: 
 Mentions: N-5, N-36, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Look for reporting on Netanyahu's private assessments to Trump before the Iran war.
 
@@ -1608,7 +1595,7 @@ Transcript Snippet: We've beat Iran about 55 times um according to Trump's tweet
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:tangential
 Investigative Direction: Count Trump's posts claiming victory over Iran and compare with battlefield reporting.
 
@@ -1624,7 +1611,7 @@ Transcript Snippet: Uh actually Blake, I think said Charlie would support Trump 
 
 Anchored Artifacts: A-3157.1
 Mentions: N-159, N-1, N-5, N-2
-Related Nodes: N-10539, N-10000
+Related Nodes: N-10494, N-10000
 Tags: relevance:core
 Investigative Direction: Locate Neff's statement (platform and date) and quote it in full.
 
@@ -1640,7 +1627,7 @@ Transcript Snippet: And you know, it's frustrating when you have people speaking
 
 Anchored Artifacts: A-2231.1
 Mentions: N-2, N-1
-Related Nodes: N-10000, N-10539
+Related Nodes: N-10000, N-10494
 Tags: relevance:core
 Investigative Direction: Locate the original appearance and confirm the quote and date.
 
@@ -1656,7 +1643,7 @@ Transcript Snippet: Make sure we don't go to war against Iran, which would be a 
 
 Anchored Artifacts: A-2232.1
 Mentions: N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Source the original clip (date, outlet) and confirm context.
 
@@ -1672,7 +1659,7 @@ Transcript Snippet: And yet here in 2025, they do not have a nuclear bomb. So wh
 
 Anchored Artifacts: A-2232.1
 Mentions: N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Source the original clip and confirm the date and surrounding remarks.
 
@@ -1688,7 +1675,7 @@ Transcript Snippet: We're going to go make this a regional mess and try to get a
 
 Anchored Artifacts: A-2232.1
 Mentions: N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Source the original clip and confirm the date.
 
@@ -1753,7 +1740,7 @@ Transcript Snippet: Charlie was betrayed and we are completely being lied to and
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10747
+Related Nodes: N-10677
 Tags: relevance:core
 Investigative Direction: Identify the specific individuals and statements the host means; her named claims across episodes are the testable ones.
 
@@ -1785,7 +1772,7 @@ Transcript Snippet: surely when we get to the preliminary hearing, they're just 
 
 Anchored Artifacts: 
 Mentions: N-2, N-40, N-3
-Related Nodes: N-11308
+Related Nodes: N-11224
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing exhibit list and transcript for any video depicting the shot.
@@ -1802,7 +1789,7 @@ Transcript Snippet: Now they're moving the goalpost and they're like well we mea
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11308
+Related Nodes: N-11224
 Supports: C-11532
 Tags: relevance:core
 Investigative Direction: Gather the original statements by influencers and TPUSA about the 4K footage and compare their wording.
@@ -1819,7 +1806,7 @@ Transcript Snippet: you said literally the words that came out of your mouth was
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11308
+Related Nodes: N-11224
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Locate the original posts or broadcasts with the 4K claim and quote the speaker verbatim.
@@ -1836,7 +1823,7 @@ Transcript Snippet: I mean this recent video that I revealed that's the 4K video
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11308
+Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Identify which video the host means and its source.
 
@@ -1852,7 +1839,7 @@ Transcript Snippet: there's somebody in those files and there's some videos that
 
 Anchored Artifacts: 
 Mentions: N-5, N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: No evidence offered; would need the release of the files in question.
 
@@ -1868,7 +1855,7 @@ Transcript Snippet: we did find out what hotel um TPUSA staff stayed into at And
 
 Anchored Artifacts: 
 Mentions: N-14, N-159, N-3
-Related Nodes: N-10732, N-10000
+Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Investigative Direction: Use the hotel registration and booking records the host says she has; test them against Neff's statements.
 

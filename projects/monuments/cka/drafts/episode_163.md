@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq163
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-951, N-954, N-11419, N-11420, N-11421
-  - Reused Nodes Appearing: N-953, N-952, N-1, N-2, N-3, N-4, N-5, N-7, N-10, N-17, N-58, N-146, N-159, N-190, N-224, N-266, N-270, N-271, N-277, N-341, N-367, N-487, N-492, N-504, N-594, N-896, N-10000, N-10198, N-10272, N-10338, N-10537, N-10651, N-10681, N-10683, N-10694, N-10715, N-10730, N-10737, N-10765, N-10821, N-10839, N-10840, N-10874, N-10881, N-10886, N-11009, N-11208, N-11218, N-11233, N-11263, N-11310, N-11321, N-11356
+  - Tip-minted Nodes (catchup-2026-10-19): N-951, N-954, N-11335, N-11336, N-11337
+  - Reused Nodes Appearing: N-953, N-952, N-1, N-2, N-3, N-4, N-5, N-7, N-10, N-17, N-58, N-146, N-159, N-190, N-224, N-266, N-270, N-271, N-277, N-341, N-367, N-487, N-492, N-504, N-594, N-896, N-10000, N-10190, N-10256, N-10214, N-10492, N-10593, N-10619, N-10621, N-10632, N-10651, N-10664, N-10636, N-10694, N-10744, N-10762, N-10763, N-10795, N-10802, N-10807, N-10929, N-11124, N-11134, N-11149, N-11179, N-11226, N-11237, N-11272
   - Claim Range: C-14056–C-14142
   - (see registers)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14066, C-14067, C-14068, N-951, N-952, N-492, N-367, N-11321*
+*Related: C-14066, C-14067, C-14068, N-951, N-952, N-492, N-367, N-11237*
 
 **A-3373.2** Map of the security team the host asks her producer to pull up, showing Blake Gibson and Blake Harreff
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:18:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14087, N-953, N-896, N-11321*
+*Related: C-14087, N-953, N-896, N-11237*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:11:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14077, C-14078, N-11009, N-11419*
+*Related: C-14077, C-14078, N-10929, N-11335*
 
 **A-3374.3** Labeled slideshow identifying Mikey McCoy, Nate Walker, Blake Gibson, Christopher Rhoades, Danny Philip, Blake Neff and Blake Harreff and the two-vehicle split
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:12:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14079, C-14080, C-14081, N-190, N-504, N-953, N-951, N-367, N-159, N-896, N-11419*
+*Related: C-14079, C-14080, C-14081, N-190, N-504, N-953, N-951, N-367, N-159, N-896, N-11335*
 
 **A-3374.4** UVU videos of the group walking from behind the Hall of Flags across the employee lot to the admissions lot tree line
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:16:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14083, N-190, N-159, N-367, N-11419*
+*Related: C-14083, N-190, N-159, N-367, N-11335*
 
 **A-3374.6** Still with the two cars circled: Mikey McCoy's car on the left, the security car on the right
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:44:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14132, C-14133, N-190, N-159, N-367, N-951, N-896, N-953, N-11419*
+*Related: C-14132, C-14133, N-190, N-159, N-367, N-951, N-896, N-953, N-11335*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:17:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14084, C-14085, N-1, N-5, N-11218, N-11208*
+*Related: C-14084, C-14085, N-1, N-5, N-11134, N-11124*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:29:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14101, C-14102, C-14103, C-14104, C-14105, N-7, N-11420, N-492, N-270, N-487, N-266*
+*Related: C-14101, C-14102, C-14103, C-14104, C-14105, N-7, N-11336, N-492, N-270, N-487, N-266*
 
 **A-3376.2** Excerpt the host reads on stopping the bleeding, switching to CPR, the empty emergency room and the pulse
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:31:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14106, C-14107, C-14111, C-14112, C-14113, C-14114, N-7, N-11420, N-10737*
+*Related: C-14106, C-14107, C-14111, C-14112, C-14113, C-14114, N-7, N-11336, N-10636*
 
 **A-3376.3** Excerpt the host reads on Turek embracing Dan Flood, the jurisdiction claim and Dan's text
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:36:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14117, C-14118, N-7, N-270, N-11420, N-10272*
+*Related: C-14117, C-14118, N-7, N-270, N-11336, N-10256*
 
 **A-3376.4** Excerpt the host reads on Mikey McCoy's arrival, the plane for Erika, the call with J.D. Vance and the surgeon announcing the death
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:37:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14121, C-14122, C-14123, N-7, N-190, N-2, N-4, N-11420*
+*Related: C-14121, C-14122, C-14123, N-7, N-190, N-2, N-4, N-11336*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:32:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14108, C-14109, C-14110, N-266, N-224, N-492, N-487, N-7, N-10681*
+*Related: C-14108, C-14109, C-14110, N-266, N-224, N-492, N-487, N-7, N-10619*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:18:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14086, N-11419*
+*Related: C-14086, N-11335*
 
 **A-3380.2** Host verbal request for anyone who can connect her with Christopher Rhoades (more tips at candaceowens.com)
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:41:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14130, C-14131, N-10874*
+*Related: C-14130, C-14131, N-10795*
 
 **A-3380.4** Host verbal merch plug inviting viewers to join the decentralized intelligence agency and crediting overseas sleuths, including in Latvia
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:52:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14139, C-14140, N-10886, N-10881*
+*Related: C-14139, C-14140, N-10807, N-10802*
 
 ---
 
@@ -450,177 +450,177 @@ Organization whose new FRG security team includes a same-named Christopher Rhoad
 
 *Related: C-14096*
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Blake Neff's account of Mikey McCoy's quivering lip and "general" role.
 
 *Related: C-14061, C-14063*
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Calls to Erika Kirk and Rob McCoy, and the call after the ICAC statement.
 
 *Related: C-14062, C-14071*
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Host on Harpole suing her instead of answering her text.
 
 *Related: C-14142*
 
-**N-10683** Brian Harpole ER Story Plausibility
+**N-10621** Brian Harpole ER Story Plausibility
 
 Host recalls Harpole found the room and prepared Charlie for the defibrillator.
 
 *Related: C-14116*
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Turek's book on Dan Flood's limited jurisdiction.
 
 *Related: C-14117*
 
-**N-10730** Frank Turek FaceTime Story Inconsistency
+**N-10664** Frank Turek FaceTime Story Inconsistency
 
 Book says Turek's phone stayed live in his pocket with his son and daughter-in-law listening.
 
 *Related: C-14102*
 
-**N-10821** Christopher Pre-Shot Location Anomaly
+**N-10744** Christopher Pre-Shot Location Anomaly
 
 Host says the driver went to the rooftop with Nate Walker just before the shot.
 
 *Related: C-14092*
 
-**N-10840** UVU Ambulance Denial Discrepancy
+**N-10763** UVU Ambulance Denial Discrepancy
 
 Book's ambulance heading away from the hospital mid-route.
 
 *Related: C-14105*
 
-**N-11233** Mikey McCoy Identity and Family Ties Inquiry
+**N-11149** Mikey McCoy Identity and Family Ties Inquiry
 
 Mikey McCoy's age and 2023 promotion.
 
 *Related: C-14065*
 
-**N-11356** Druski Skit Mocking Erika Kirk Controversy
+**N-11272** Druski Skit Mocking Erika Kirk Controversy
 
 Host says Erika Kirk cannot forgive Druski.
 
 *Related: C-14138*
 
-**N-10272** Harpole–Flood Text Attribution Discrepancy
+**N-10256** Harpole–Flood Text Attribution Discrepancy
 
 Turek's shifting account of when Dan Flood showed him the Chief Long text.
 
 *Related: C-14118, C-14119, C-14120*
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Host says she received a different tip about the necklace.
 
 *Related: C-14128, C-14129*
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Harpole's Shawn Ryan account replayed here.
 
 *Related: C-14108*
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Host's questions about where Blake Neff and Danny Philip went before returning near 1:00 p.m.
 
 *Related: C-14059, C-14060, C-14072*
 
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Book's "all three of us" bleeding-control and CPR lines vs Harpole's account.
 
 *Related: C-14106, C-14107, C-14111*
 
-**N-10765** Timpanogos Hospital Evacuation Tip
+**N-10694** Timpanogos Hospital Evacuation Tip
 
 Host says it has been alleged the hospital was cleared a couple of hours before.
 
 *Related: C-14112, C-14115*
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 Review the host says revealed a fire captain doing CPR.
 
 *Related: C-14114*
 
-**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction
+**N-10795** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 Host's search for the fire captain; down to two possibilities.
 
 *Related: C-14114, C-14130, C-14131*
 
-**N-10881** Elephant Clipping Campaign
+**N-10802** Elephant Clipping Campaign
 
 Host's jab at Blake Neff's rant and at Turek's book title.
 
 *Related: C-14139*
 
-**N-10886** Latvia
+**N-10807** Latvia
 
 Host credits Latvian sleuths for information on "the Latvian nerd".
 
 *Related: C-14139*
 
-**N-11009** Hall of Flags Activity Question
+**N-10929** Hall of Flags Activity Question
 
 The group walk began from the employee lot behind the Hall of Flags.
 
 *Related: C-14077*
 
-**N-11208** Timpanogos Hospital Group Arrival Question
+**N-11124** Timpanogos Hospital Group Arrival Question
 
 Fox 5 footage of the first group arriving about 1:10 p.m.
 
 *Related: C-14084, C-14085, C-14088*
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 Destination of the first white vehicle.
 
 *Related: C-14084, C-14112*
 
-**N-11263** Utah Internet Crimes Against Children Task Force
+**N-11179** Utah Internet Crimes Against Children Task Force
 
 Unit of the officer who the host says took Mikey McCoy's statement.
 
 *Related: C-14069, C-14070*
 
-**N-11310** Security Team Timpanogos Scrubs Question
+**N-11226** Security Team Timpanogos Scrubs Question
 
 Why Harreff and Gibson returned in scrubs and the driver did not.
 
 *Related: C-14090, C-14091, C-14093*
 
-**N-11321** Kirk Security Team Name Identification
+**N-11237** Kirk Security Team Name Identification
 
 Identification of Charlie's driver and the security members in the footage.
 
 *Related: C-14067, C-14076, C-14095*
 
-**N-11419** Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)
+**N-11335** Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)
 
 Node Type: Topic
 The host's account that, just before 1:00 p.m. on September 10, Mikey McCoy, Blake Neff, Danny Philip and Nate Walker, and separately security members Blake Harreff, Blake Gibson and driver Christopher Rhoades, were walked to a lineup of unmarked white vehicles near the UVU roundabout and driven off by what she describes as federal officers; the first car is seen arriving at Timpanogos about 1:10 p.m., and the destination of the second is unknown.
 
 *Related: C-14073, C-14078, C-14081, C-14083, C-14084, C-14086, C-14087, C-14088, C-14089, C-14132, C-14133, A-3374.2*
 
-**N-11420** Frank Turek "The War on Reality" Book Account
+**N-11336** Frank Turek "The War on Reality" Book Account
 
 Node Type: Topic
 Frank Turek's book, which the host says was published on September 8, 2026, and whose account of the car ride, CPR, Dan Flood's jurisdiction and the surgeon's announcement she compares with Brian Harpole's and Blake Neff's accounts.
 
 *Related: C-14101, C-14102, C-14106, C-14111, C-14117, C-14121, A-3376.1*
 
-**N-11421** FRG Security
+**N-11337** FRG Security
 
 Node Type: Organization
 Security firm the host describes as Turning Point USA's new security team, which employs a different man named Christopher Rhoades.
@@ -689,7 +689,7 @@ Transcript Snippet: why was Danny Philip driving Blake like he was in an Uber ri
 
 Anchored Artifacts:
 Mentions: N-159, N-367
-Related Nodes: N-10715
+Related Nodes: N-10651
 Supports: C-12665
 Tags: relevance:core
 Investigative Direction: Rental records for the second Denali and Neff's own account of his travel that day.
@@ -706,7 +706,7 @@ Transcript Snippet: one thing that I cannot make sense of is why Blake Neff and 
 
 Anchored Artifacts:
 Mentions: N-159, N-367, N-1
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: UVU footage and phone location data for Neff and Philip between the shot and about 1:00 p.m.
 
@@ -722,7 +722,7 @@ Transcript Snippet: What I'll always remember is the way his lip was quivering, 
 
 Anchored Artifacts: A-3372.1
 Mentions: N-159, N-190, N-2
-Related Nodes: N-10198
+Related Nodes: N-10190
 Supports: C-12691
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log for September 10 (time of first call to Erika Kirk).
@@ -739,7 +739,7 @@ Transcript Snippet: And around the time I I put that phone away and then he imme
 
 Anchored Artifacts: A-3372.1
 Mentions: N-159, N-190, N-17, N-1
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's and Rob McCoy's call records for September 10.
 
@@ -755,7 +755,7 @@ Transcript Snippet: he was like a general directing a battle where he was, you k
 
 Anchored Artifacts: A-3372.1
 Mentions: N-159, N-190
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: UVU scene footage of Mikey McCoy after the shooting.
 
@@ -787,7 +787,7 @@ Transcript Snippet: Uh started working for Charlie as the chief of staff. Well, 
 
 Anchored Artifacts:
 Mentions: N-190, N-1
-Related Nodes: N-11233
+Related Nodes: N-11149
 Tags: relevance:context
 Investigative Direction: TPUSA staff announcements and Mikey McCoy's public bio.
 
@@ -803,7 +803,7 @@ Transcript Snippet: because they had three additional black SUV rentals in their
 
 Anchored Artifacts: A-3373.1
 Mentions:
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Rental agreements for the TPUSA vehicles at UVU on September 10.
 
@@ -819,7 +819,7 @@ Transcript Snippet: Now we know that that Yukon Denali is gone, which was being 
 
 Anchored Artifacts: A-3373.1
 Mentions: N-951, N-952
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Rental and driver assignment records for the security vehicles.
 
@@ -835,7 +835,7 @@ Transcript Snippet: We've got the Lincoln Navigator, which was being driven by J
 
 Anchored Artifacts: A-3373.1
 Mentions: N-492, N-367
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Rental and driver assignment records for the TPUSA vehicles.
 
@@ -851,7 +851,7 @@ Transcript Snippet: He actually gave an interview, a statement of sorts to a wom
 
 Anchored Artifacts:
 Mentions: N-190
-Related Nodes: N-11263
+Related Nodes: N-11179
 Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Utah ICAC Task Force records and the statement itself.
@@ -868,7 +868,7 @@ Transcript Snippet: By the way, I can tell you this that woman, that officer, ha
 
 Anchored Artifacts:
 Mentions: N-954, N-190
-Related Nodes: N-11263
+Related Nodes: N-11179
 Tags: relevance:core
 Investigative Direction: Utah ICAC Task Force personnel roster and separation records.
 
@@ -884,7 +884,7 @@ Transcript Snippet: after that interview with her, what Mikey does is he dips in
 
 Anchored Artifacts:
 Mentions: N-190
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log for the period after the ICAC statement.
 
@@ -900,7 +900,7 @@ Transcript Snippet: Blake and Danny Philip reappear upon the scene just before 1
 
 Anchored Artifacts:
 Mentions: N-159, N-367
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Time-stamped UVU footage of Neff and Philip between the shot and 1:00 p.m.
 
@@ -916,7 +916,7 @@ Transcript Snippet: they are escorted by what appears to be federal officers int
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Identity of the agencies and drivers of the white vehicles at UVU.
 
@@ -932,7 +932,7 @@ Transcript Snippet: Uh here is Blake at first returning to the scene.
 
 Anchored Artifacts: A-3374.1
 Mentions: N-159, N-367, N-504
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Original unenhanced UVU footage and its time code.
 
@@ -964,7 +964,7 @@ Transcript Snippet: we find our characters Blake Neff, Danny Philip, and Nate Wa
 
 Anchored Artifacts: A-3374.3
 Mentions: N-159, N-367, N-504, N-896, N-953, N-951
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: UVU footage of the employee lot near 1:00 p.m.
 
@@ -980,7 +980,7 @@ Transcript Snippet: It's a um employee parking lot that's just behind the Hall o
 
 Anchored Artifacts: A-3374.2
 Mentions:
-Related Nodes: N-11009, N-11419
+Related Nodes: N-10929, N-11335
 Tags: relevance:core
 Investigative Direction: UVU campus map and lot camera footage.
 
@@ -996,7 +996,7 @@ Transcript Snippet: they're all the vehicles are white. And this I have learned 
 
 Anchored Artifacts: A-3374.2
 Mentions:
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Registration of the white vehicles parked at the UVU roundabout.
 
@@ -1045,7 +1045,7 @@ Transcript Snippet: Vehicle one, you've got Mikey an officer Blake Neff, Nate Wa
 
 Anchored Artifacts: A-3374.3
 Mentions: N-190, N-159, N-504, N-367, N-953, N-896, N-951
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Identity of the officers driving each white vehicle.
 
@@ -1077,7 +1077,7 @@ Transcript Snippet: splitting to the left are Mikey and Blake Neff and Danny Phi
 
 Anchored Artifacts: A-3374.5
 Mentions: N-190, N-159, N-367
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Roundabout camera footage and vehicle plates.
 
@@ -1093,7 +1093,7 @@ Transcript Snippet: we can confirm that they went straight to Timpanogos Hospita
 
 Anchored Artifacts: A-3375.1
 Mentions: N-190, N-159, N-504, N-367
-Related Nodes: N-11218, N-11208, N-11419
+Related Nodes: N-11134, N-11124, N-11335
 Supports: C-12686
 Tags: relevance:core
 Investigative Direction: Fox 5 Atlanta raw feed time code.
@@ -1110,7 +1110,7 @@ Transcript Snippet: Charlie Kirk's representatives confirming that he was shot a
 
 Anchored Artifacts: A-3375.1
 Mentions: N-1, N-5
-Related Nodes: N-11208
+Related Nodes: N-11124
 Tags: relevance:core
 Investigative Direction: Fox 5 Atlanta broadcast archive for September 10.
 
@@ -1126,7 +1126,7 @@ Transcript Snippet: if anybody recognizes or and can ID that police officer that
 
 Anchored Artifacts: A-3380.1
 Mentions:
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Tip responses; agency assignment records for Timpanogos on September 10.
 
@@ -1142,7 +1142,7 @@ Transcript Snippet: We've got missing security people that got into the separate
 
 Anchored Artifacts: A-3373.2
 Mentions: N-953, N-896, N-951
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Security members' own accounts and phone location data after 1:00 p.m.
 
@@ -1158,7 +1158,7 @@ Transcript Snippet: And we don't see them arriving at the hospital with Blake, s
 
 Anchored Artifacts:
 Mentions: N-159
-Related Nodes: N-11208, N-11419
+Related Nodes: N-11124, N-11335
 Tags: relevance:core
 Investigative Direction: Timpanogos entrance footage after 1:10 p.m.
 
@@ -1174,7 +1174,7 @@ Transcript Snippet: Especially since their rental cars are left behind at the UV
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Rental return records and UVU impound or evidence logs.
 
@@ -1190,7 +1190,7 @@ Transcript Snippet: Remember Blake Harreff um and Blake Gibson are going to come
 
 Anchored Artifacts:
 Mentions: N-896, N-953
-Related Nodes: N-11310
+Related Nodes: N-11226
 Supports: C-12881
 Tags: relevance:core
 Investigative Direction: Evening UVU footage and Timpanogos scrubs issue records.
@@ -1207,7 +1207,7 @@ Transcript Snippet: But Christopher Rhoades, Charlie's driver, will not be weari
 
 Anchored Artifacts:
 Mentions: N-951
-Related Nodes: N-11310
+Related Nodes: N-11226
 Tags: relevance:core
 Investigative Direction: Evening UVU footage of Christopher Rhoades.
 
@@ -1223,7 +1223,7 @@ Transcript Snippet: Christopher Rhoades, as we know, is the one who mysteriously
 
 Anchored Artifacts:
 Mentions: N-951, N-504
-Related Nodes: N-10821
+Related Nodes: N-10744
 Supports: C-12672
 Tags: relevance:core
 Investigative Direction: Sorensen building rooftop access logs and footage before 12:23 p.m.
@@ -1240,7 +1240,7 @@ Transcript Snippet: were the hospital scrubs actually even given to them by the 
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11310, N-11419
+Related Nodes: N-11226, N-11335
 Tags: relevance:core
 Investigative Direction: Timpanogos supply records for scrubs issued on September 10.
 
@@ -1256,7 +1256,7 @@ Transcript Snippet: Danny Philip just started working in May.
 
 Anchored Artifacts:
 Mentions: N-504, N-367, N-190
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: TPUSA employment start dates for Walker and Philip.
 
@@ -1272,7 +1272,7 @@ Transcript Snippet: we did make a positive ID on Charlie's driver, Christopher R
 
 Anchored Artifacts:
 Mentions: N-951, N-1
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Rental agreements and security-contractor rosters for September 10.
 
@@ -1288,7 +1288,7 @@ Transcript Snippet: there is another security member by the exact same name that
 
 Anchored Artifacts:
 Mentions: N-951
-Related Nodes: N-10000, N-11421
+Related Nodes: N-10000, N-11337
 Tags: relevance:core
 Investigative Direction: FRG security staff listing.
 
@@ -1304,7 +1304,7 @@ Transcript Snippet: he appears to be from Texas and he is working with Brian Har
 
 Anchored Artifacts:
 Mentions: N-951, N-266
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Texas private-security licensing records and Harpole's company rosters.
 
@@ -1320,7 +1320,7 @@ Transcript Snippet: that was the very first person that we've ever tried to to i
 
 Anchored Artifacts:
 Mentions: N-951
-Related Nodes: N-11321
+Related Nodes: N-11237
 Tags: relevance:core
 Investigative Direction: Public records searches for Christopher Rhoades in private security.
 
@@ -1352,7 +1352,7 @@ Transcript Snippet: it it sounded like you guys were rushing to the hospital, an
 
 Anchored Artifacts:
 Mentions: N-159
-Related Nodes: N-10715, N-11419
+Related Nodes: N-10651, N-11335
 Tags: relevance:core
 Investigative Direction: Timeline from the shot to the 1:10 p.m. hospital arrival.
 
@@ -1368,7 +1368,7 @@ Transcript Snippet: exactly 1 month ago on September 8th, 2026, Frank Turek publ
 
 Anchored Artifacts: A-3376.1
 Mentions: N-7
-Related Nodes: N-11420
+Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Publisher listing and publication date of the book.
 
@@ -1384,7 +1384,7 @@ Transcript Snippet: Meanwhile, my son and daughter-in-law are hearing all of thi
 
 Anchored Artifacts: A-3376.1
 Mentions: N-7, N-1
-Related Nodes: N-11420, N-10730
+Related Nodes: N-11336, N-10664
 Tags: relevance:core
 Investigative Direction: Turek's call records for September 10.
 
@@ -1400,7 +1400,7 @@ Transcript Snippet: Charlie's security team, Justin, Dan, Brian, and Rick, men w
 
 Anchored Artifacts: A-3376.1
 Mentions: N-7, N-266, N-487
-Related Nodes: N-11420
+Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Compare with Harpole's and the independent review's lists of SUV occupants.
 
@@ -1416,7 +1416,7 @@ Transcript Snippet: Justin is driving, Dan is in the passenger seat holding his 
 
 Anchored Artifacts: A-3376.1
 Mentions: N-7, N-487, N-266, N-1
-Related Nodes: N-11420
+Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Footage of the SUV departure and arrival at Timpanogos.
 
@@ -1432,7 +1432,7 @@ Transcript Snippet: When we get about halfway there, an ambulance is barreling t
 
 Anchored Artifacts: A-3376.1
 Mentions: N-7
-Related Nodes: N-11420, N-10840
+Related Nodes: N-11336, N-10763
 Tags: relevance:core
 Investigative Direction: Orem/Provo EMS dispatch logs for ambulances en route to UVU.
 
@@ -1448,7 +1448,7 @@ Transcript Snippet: All three of us in the back are trying to stop the bleeding.
 
 Anchored Artifacts: A-3376.2
 Mentions: N-7, N-1
-Related Nodes: N-11420, N-10737
+Related Nodes: N-11336, N-10636
 Tags: relevance:core
 Investigative Direction: Turek's earlier interviews on the ride; Harpole's accounts.
 
@@ -1464,7 +1464,7 @@ Transcript Snippet: this is actually, I would say, in stark contrast to Brian Ha
 
 Anchored Artifacts: A-3376.2
 Mentions: N-266, N-7
-Related Nodes: N-10737
+Related Nodes: N-10636
 Supports: C-10672
 Tags: relevance:core
 Investigative Direction: Side-by-side of Harpole's Shawn Ryan account and the book text.
@@ -1481,7 +1481,7 @@ Transcript Snippet: Charlie's so tall that his leg his left leg is down in the d
 
 Anchored Artifacts: A-3377.1
 Mentions: N-266, N-224, N-1
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Shawn Ryan Show full interview.
 
@@ -1497,7 +1497,7 @@ Transcript Snippet: And Justin's driving, you know, we're going 60 80 100. And R
 
 Anchored Artifacts: A-3377.1
 Mentions: N-266, N-487
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Traffic camera or vehicle telematics for the route to Timpanogos.
 
@@ -1513,7 +1513,7 @@ Transcript Snippet: And so I just I'm just working medical. And uh Frank's prayi
 
 Anchored Artifacts: A-3377.1
 Mentions: N-266, N-7, N-487
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Rick Cutler's own account of the ride.
 
@@ -1529,7 +1529,7 @@ Transcript Snippet: All three of us were in the back are are still trying to sto
 
 Anchored Artifacts: A-3376.2
 Mentions: N-7, N-266
-Related Nodes: N-11420, N-10737
+Related Nodes: N-11336, N-10636
 Supports: C-12858
 Tags: relevance:core
 Investigative Direction: Timpanogos intake notes on CPR in progress at arrival.
@@ -1546,7 +1546,7 @@ Transcript Snippet: We burst into the hospital yelling for help into what felt l
 
 Anchored Artifacts: A-3376.2
 Mentions: N-7
-Related Nodes: N-11218, N-10765
+Related Nodes: N-11134, N-10694
 Tags: relevance:core
 Investigative Direction: Timpanogos ER census and staffing for September 10.
 
@@ -1562,7 +1562,7 @@ Transcript Snippet: They get a pulse, a flicker of hope. They rush him to an ope
 
 Anchored Artifacts: A-3376.2
 Mentions: N-7, N-1
-Related Nodes: N-11420
+Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Timpanogos medical record of return of pulse.
 
@@ -1578,7 +1578,7 @@ Transcript Snippet: You had no recall or mention of a fire captain doing CPR, wh
 
 Anchored Artifacts: A-3376.2
 Mentions: N-7
-Related Nodes: N-10874, N-10839
+Related Nodes: N-10795, N-10762
 Supports: C-13853
 Tags: relevance:core
 Investigative Direction: Independent review's fire-captain passage and the fire department's run report.
@@ -1595,7 +1595,7 @@ Transcript Snippet: it's been alleged that they moved everybody out a couple of 
 
 Anchored Artifacts:
 Mentions: N-7
-Related Nodes: N-10765, N-11218
+Related Nodes: N-10694, N-11134
 Tags: relevance:core
 Investigative Direction: Timpanogos patient-transfer and diversion records for September 10.
 
@@ -1611,7 +1611,7 @@ Transcript Snippet: I remember learning that that was actually what Brian did. T
 
 Anchored Artifacts:
 Mentions: N-266
-Related Nodes: N-10683
+Related Nodes: N-10621
 Supports: C-13856
 Tags: relevance:core
 Investigative Direction: Timpanogos staff accounts of who moved Charlie to the trauma room.
@@ -1628,7 +1628,7 @@ Transcript Snippet: I embrace Dan Flood, the head of Charlie's security, and tel
 
 Anchored Artifacts: A-3376.3
 Mentions: N-7, N-270
-Related Nodes: N-11420, N-10694
+Related Nodes: N-11336, N-10632
 Tags: relevance:core
 Investigative Direction: TPUSA–UVU security agreement and the independent review on responsibility for rooftops.
 
@@ -1644,7 +1644,7 @@ Transcript Snippet: The local and university police were supposed to have secure
 
 Anchored Artifacts: A-3376.3
 Mentions: N-7, N-270
-Related Nodes: N-10272
+Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Full Flood–Long text thread from September 8–10.
 
@@ -1660,7 +1660,7 @@ Transcript Snippet: He said, "Yeah, in the hospital Dan showed me the text betwe
 
 Anchored Artifacts:
 Mentions: N-7, N-270, N-271, N-58
-Related Nodes: N-10272
+Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Full Brandon Tatum interview with Turek.
 
@@ -1676,7 +1676,7 @@ Transcript Snippet: Nobody at the hospital should have known that the shot came 
 
 Anchored Artifacts:
 Mentions: N-270
-Related Nodes: N-10272
+Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Time stamp of the first law-enforcement statement on the rooftop.
 
@@ -1692,7 +1692,7 @@ Transcript Snippet: Mikey has already sent a plane to get Erika and is on the ph
 
 Anchored Artifacts: A-3376.4
 Mentions: N-7, N-190, N-2, N-4
-Related Nodes: N-11420
+Related Nodes: N-11336
 Supports: C-11393
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log and the charter record for Erika Kirk's flight.
@@ -1709,7 +1709,7 @@ Transcript Snippet: About 30 minutes after our arrival, the surgeon from the OR 
 
 Anchored Artifacts: A-3376.4
 Mentions: N-7, N-1
-Related Nodes: N-11420
+Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Time of death in the Timpanogos record.
 
@@ -1725,7 +1725,7 @@ Transcript Snippet: He then demands to talk to Erika on the phone.
 
 Anchored Artifacts: A-3376.4
 Mentions: N-2, N-7
-Related Nodes: N-11420
+Related Nodes: N-11336
 Tags: relevance:core
 Investigative Direction: Erika Kirk's call log for the call from the hospital.
 
@@ -1757,7 +1757,7 @@ Transcript Snippet: According to my timeline, Mikey should not have been there f
 
 Anchored Artifacts:
 Mentions: N-190
-Related Nodes: N-11208
+Related Nodes: N-11124
 Tags: relevance:core
 Investigative Direction: Time of the surgeon's announcement vs the 1:10 p.m. arrival footage.
 
@@ -1805,7 +1805,7 @@ Transcript Snippet: Frank then tells the story that he's the one who told the fe
 
 Anchored Artifacts:
 Mentions: N-7, N-1
-Related Nodes: N-10537
+Related Nodes: N-10492
 Supports: C-13006
 Tags: relevance:core
 Investigative Direction: FBI evidence log for the SUV contents.
@@ -1822,7 +1822,7 @@ Transcript Snippet: We actually received a different tip about that necklace. An
 
 Anchored Artifacts:
 Mentions: N-7
-Related Nodes: N-10537
+Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: The tip and any corroborating hospital accounts.
 
@@ -1838,7 +1838,7 @@ Transcript Snippet: if you know who the fire chief was, the fire captain, pardon
 
 Anchored Artifacts: A-3380.3
 Mentions: N-1
-Related Nodes: N-10874
+Related Nodes: N-10795
 Supports: C-13861
 Tags: relevance:core
 Investigative Direction: Tip responses; fire department run reports for Station 2.
@@ -1855,7 +1855,7 @@ Transcript Snippet: We are down to two possibilities, but we want an absolute co
 
 Anchored Artifacts: A-3380.3
 Mentions:
-Related Nodes: N-10874
+Related Nodes: N-10795
 Tags: relevance:core
 Investigative Direction: Station 2 shift roster for September 10.
 
@@ -1871,7 +1871,7 @@ Transcript Snippet: that one on the left-hand side is going to be the Mikey McCo
 
 Anchored Artifacts: A-3374.6
 Mentions: N-190, N-159, N-367, N-951, N-896, N-953
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Roundabout footage and plate lookups.
 
@@ -1887,7 +1887,7 @@ Transcript Snippet: The security vehicle goes around the um little roundabout th
 
 Anchored Artifacts: A-3374.6
 Mentions:
-Related Nodes: N-11419
+Related Nodes: N-11335
 Tags: relevance:core
 Investigative Direction: Campus exit camera footage for the second white vehicle.
 
@@ -1967,7 +1967,7 @@ Transcript Snippet: It's normal that she forgave the killer and can't forgive Dr
 
 Anchored Artifacts:
 Mentions: N-2, N-594
-Related Nodes: N-11356
+Related Nodes: N-11272
 Tags: relevance:context
 Investigative Direction: Erika Kirk's public statements on the killer and on Druski.
 
@@ -1983,7 +1983,7 @@ Transcript Snippet: I can't I can't believe that we've got people in Latvia that
 
 Anchored Artifacts: A-3380.4
 Mentions: N-3
-Related Nodes: N-10886, N-10881
+Related Nodes: N-10807, N-10802
 Tags: relevance:context
 Investigative Direction: The Latvian tips and public records on the person.
 
@@ -2031,7 +2031,7 @@ Transcript Snippet: you instead opt to file a lawsuit and claim why didn't answe
 
 Anchored Artifacts:
 Mentions: N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:context
 Investigative Direction: Harpole's complaint and the text exchange.
 

@@ -34,8 +34,8 @@
             "C-3068"
           ],
           "related_nodes": [
-            "N-10265",
-            "N-10266"
+            "N-10249",
+            "N-10250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
             "C-3056"
           ],
           "related_nodes": [
-            "N-10266"
+            "N-10250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -98,7 +98,7 @@
             "C-3087"
           ],
           "related_nodes": [
-            "N-10266"
+            "N-10250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -124,7 +124,7 @@
             "C-3067"
           ],
           "related_nodes": [
-            "N-10265"
+            "N-10249"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-3073"
           ],
           "related_nodes": [
-            "N-10269"
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,7 +177,7 @@
             "C-3073"
           ],
           "related_nodes": [
-            "N-10269"
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,7 +204,7 @@
           ],
           "related_nodes": [
             "N-265",
-            "N-10265"
+            "N-10249"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-10267"
+            "N-10251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
           ],
           "related_nodes": [
             "N-266",
-            "N-10267"
+            "N-10251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,7 +349,7 @@
           ],
           "related_nodes": [
             "N-267",
-            "N-10268"
+            "N-10252"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -601,7 +601,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ]
     },
     {
@@ -623,7 +623,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ]
     },
     {
@@ -687,8 +687,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10265",
-      "ref": "N-10265",
+      "@id": "N-10249",
+      "ref": "N-10249",
       "name": "920 North King Street / 1 Rodney Square Federal Facility",
       "type": "investigation_target",
       "description": "Insider-claimed joint FBI/DEA/Secret Service site tied to SUBTT Wilmington visits; identified via 1997 DOJ directory (A-1437.1) and December 2024 FBI press release (A-1440.1).",
@@ -710,8 +710,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10266",
-      "ref": "N-10266",
+      "@id": "N-10250",
+      "ref": "N-10250",
       "name": "SUBTT Wilmington Visit Pattern",
       "type": "investigation_target",
       "description": "Persistence of SUBTT (Egyptian military Falcon 7X) visits to Wilmington, Delaware before/after assassination; basis of insider email (A-1435.1) and host flight timeline (A-1436.1, A-1436.3).",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10267",
-      "ref": "N-10267",
+      "@id": "N-10251",
+      "ref": "N-10251",
       "name": "TPUSA Drone Disclosure Discrepancy",
       "type": "investigation_target",
       "description": "Contradiction between Frank Turek (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.",
@@ -744,7 +744,8 @@
       ],
       "related_claims": [
         "C-3082",
-        "C-3110"
+        "C-3110",
+        "C-3113"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -754,8 +755,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Tim Pool (A-1444.2) and host both describe being disinvited from TPUSA's AmFest.",
@@ -773,8 +774,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10269",
-      "ref": "N-10269",
+      "@id": "N-10253",
+      "ref": "N-10253",
       "name": "Wilmington Airport Hangar Federal Connection",
       "type": "investigation_target",
       "description": "SATYS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.",
@@ -947,8 +948,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -965,8 +966,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10672",
-      "ref": "N-10672",
+      "@id": "N-10612",
+      "ref": "N-10612",
       "name": "Egyptian Military Aircraft Shuttle Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -983,8 +984,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1003,8 +1004,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11160",
-      "ref": "N-11160",
+      "@id": "N-11076",
+      "ref": "N-11076",
       "name": "SUBTT Wilmington Maintenance Alibi Question",
       "type": "topic",
       "description": "The dispute over whether SUBTT's Wilmington stops were routine maintenance, including X users citing a Falcon maintenance arrangement dating to 1999 and the email's rebuttal based on the Dassault center closure and the SATYS timeline.",
@@ -1046,8 +1047,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11161",
-      "ref": "N-11161",
+      "@id": "N-11077",
+      "ref": "N-11077",
       "name": "Wilmington Federal Vehicle Handoff Claim",
       "type": "topic",
       "description": "The insider email's claim that federal or local-plated vehicles tied to 920 North King Street met SUBTT at Wilmington airport and moved people or assets under diplomatic cover.",
@@ -1068,8 +1069,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10911",
-      "ref": "N-10911",
+      "@id": "N-10832",
+      "ref": "N-10832",
       "name": "Department of Homeland Security",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1087,8 +1088,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10289",
-      "ref": "N-10289",
+      "@id": "N-10271",
+      "ref": "N-10271",
       "name": "Rodney Square / 500 Delaware Avenue Federal Cluster",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1121,8 +1122,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1158,8 +1159,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10180",
-      "ref": "N-10180",
+      "@id": "N-10172",
+      "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1177,8 +1178,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1197,8 +1198,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10263",
-      "ref": "N-10263",
+      "@id": "N-10241",
+      "ref": "N-10241",
       "name": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1245,8 +1246,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11061",
-      "ref": "N-11061",
+      "@id": "N-10979",
+      "ref": "N-10979",
       "name": "Restaurantology Event Green Room Attendance Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1281,8 +1282,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1371,8 +1372,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1405,25 +1406,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10427",
-      "ref": "N-10427",
-      "name": "TPUSA Drone Story Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3113"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10155",
-      "ref": "N-10155",
+      "@id": "N-10150",
+      "ref": "N-10150",
       "name": "Autopsy Record – Utah Privacy Statute Application",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1439,8 +1423,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10229",
-      "ref": "N-10229",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1456,8 +1440,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1473,8 +1457,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1509,8 +1493,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1547,8 +1531,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1568,8 +1552,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11011",
-      "ref": "N-11011",
+      "@id": "N-10931",
+      "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1586,8 +1570,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1604,8 +1588,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10113",
-      "ref": "N-10113",
+      "@id": "N-10109",
+      "ref": "N-10109",
       "name": "Beehive Code / School Underground Premonition",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1638,8 +1622,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1655,8 +1639,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1690,8 +1674,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10530",
-      "ref": "N-10530",
+      "@id": "N-10486",
+      "ref": "N-10486",
       "name": "TPUSA Super Feed Copyright / Data Routing Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1707,8 +1691,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10116",
-      "ref": "N-10116",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1741,8 +1725,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1758,8 +1742,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1786,7 +1770,7 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:02:32–00:05:00",
@@ -1803,7 +1787,7 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:04:05",
@@ -1820,7 +1804,7 @@
         "A-1436.3"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [],
       "claim_timestamp": "00:19:00–00:20:40",
@@ -1836,7 +1820,7 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:10:45",
@@ -1853,7 +1837,7 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:10:45–00:12:23",
@@ -1869,7 +1853,7 @@
         "A-1438.1"
       ],
       "related_nodes": [
-        "N-10269"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:12:23–00:13:22",
@@ -1885,7 +1869,7 @@
         "A-1439.1"
       ],
       "related_nodes": [
-        "N-10269"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:13:22–00:14:22",
@@ -1901,7 +1885,7 @@
         "A-1440.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [],
       "claim_timestamp": "00:16:58",
@@ -1920,7 +1904,7 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ],
       "tags": [],
       "claim_timestamp": "00:31:42–00:32:39",
@@ -1941,7 +1925,7 @@
         "A-1442.1"
       ],
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ],
       "tags": [],
       "claim_timestamp": "00:30:52–00:31:42",
@@ -1999,7 +1983,7 @@
         "A-1444.2"
       ],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [],
       "claim_timestamp": "00:43:35",
@@ -2036,8 +2020,8 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10266"
+        "N-10239",
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2061,8 +2045,8 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10672"
+        "N-10250",
+        "N-10612"
       ],
       "tags": [
         "relevance:core"
@@ -2084,8 +2068,8 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10074"
+        "N-10250",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2110,7 +2094,7 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2136,7 +2120,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:core"
@@ -2158,7 +2142,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:core"
@@ -2180,8 +2164,8 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-11160",
+        "N-10250",
+        "N-11076",
         "N-10014"
       ],
       "tags": [
@@ -2204,7 +2188,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2226,7 +2210,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-11161"
+        "N-11077"
       ],
       "tags": [
         "relevance:core"
@@ -2248,7 +2232,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-11161"
+        "N-11077"
       ],
       "tags": [
         "relevance:core"
@@ -2270,8 +2254,8 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-11161",
-        "N-10265"
+        "N-11077",
+        "N-10249"
       ],
       "tags": [
         "relevance:core"
@@ -2293,8 +2277,8 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10265",
-        "N-11161"
+        "N-10249",
+        "N-11077"
       ],
       "tags": [
         "relevance:context"
@@ -2316,7 +2300,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-11161"
+        "N-11077"
       ],
       "tags": [
         "relevance:core"
@@ -2338,8 +2322,8 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10266",
-        "N-10265"
+        "N-10250",
+        "N-10249"
       ],
       "tags": [
         "relevance:core"
@@ -2361,7 +2345,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:core"
@@ -2383,8 +2367,8 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265",
-        "N-10911"
+        "N-10249",
+        "N-10832"
       ],
       "tags": [
         "relevance:core"
@@ -2409,7 +2393,7 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:core"
@@ -2432,7 +2416,7 @@
       "claim": "The host reads the email saying 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building the email associates with the Snowden leak, with glass windows as the only difference.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:tangential"
@@ -2452,8 +2436,8 @@
       "claim": "The host reads the email saying people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11160",
-        "N-10266"
+        "N-11076",
+        "N-10250"
       ],
       "tags": [
         "relevance:context"
@@ -2475,8 +2459,8 @@
         "A-1438.1"
       ],
       "related_nodes": [
-        "N-10269",
-        "N-11160"
+        "N-10253",
+        "N-11076"
       ],
       "tags": [
         "relevance:core"
@@ -2501,7 +2485,7 @@
         "A-1439.1"
       ],
       "related_nodes": [
-        "N-10269"
+        "N-10253"
       ],
       "tags": [
         "relevance:context"
@@ -2527,9 +2511,9 @@
         "A-1439.1"
       ],
       "related_nodes": [
-        "N-10269",
-        "N-11160",
-        "N-10266"
+        "N-10253",
+        "N-11076",
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2551,8 +2535,8 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265",
-        "N-10289",
+        "N-10249",
+        "N-10271",
         "N-10014"
       ],
       "tags": [
@@ -2578,8 +2562,8 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265",
-        "N-10911",
+        "N-10249",
+        "N-10832",
         "N-10014"
       ],
       "tags": [
@@ -2605,7 +2589,7 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:context"
@@ -2627,7 +2611,7 @@
         "A-1440.1"
       ],
       "related_nodes": [
-        "N-10265",
+        "N-10249",
         "N-10014"
       ],
       "tags": [
@@ -2655,7 +2639,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10265"
+        "N-10249"
       ],
       "tags": [
         "relevance:context"
@@ -2681,9 +2665,9 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-11161",
-        "N-10265",
-        "N-10266"
+        "N-11077",
+        "N-10249",
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2707,7 +2691,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10269"
+        "N-10253"
       ],
       "tags": [
         "relevance:context"
@@ -2732,9 +2716,9 @@
         "A-1436.3"
       ],
       "related_nodes": [
-        "N-10672",
-        "N-10074",
-        "N-10266"
+        "N-10612",
+        "N-10071",
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2756,8 +2740,8 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10265",
-        "N-10266"
+        "N-10249",
+        "N-10250"
       ],
       "tags": [
         "relevance:core"
@@ -2779,7 +2763,7 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -2823,10 +2807,10 @@
         "A-1435.1"
       ],
       "related_nodes": [
-        "N-10265",
-        "N-10266",
+        "N-10249",
+        "N-10250",
         "N-10014",
-        "N-10911"
+        "N-10832"
       ],
       "tags": [
         "relevance:core"
@@ -2846,7 +2830,7 @@
       "claim": "The host asks the government whether it is just going to keep spending hundreds of millions of dollars on a psychological operation to convince people not to believe their own eyes and to accept the idea that Charlie ate 3,000 pounds of energy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10180"
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -2868,7 +2852,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10002",
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -2891,8 +2875,8 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10263",
-        "N-10074"
+        "N-10241",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2918,7 +2902,7 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10241"
       ],
       "tags": [
         "relevance:core"
@@ -2944,7 +2928,7 @@
         "A-2915.1"
       ],
       "related_nodes": [
-        "N-10263",
+        "N-10241",
         "N-10000"
       ],
       "tags": [
@@ -2967,7 +2951,7 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10241"
       ],
       "tags": [
         "relevance:core"
@@ -2989,7 +2973,7 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10979"
       ],
       "tags": [
         "relevance:core"
@@ -3015,8 +2999,8 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10338",
-        "N-10263"
+        "N-10214",
+        "N-10241"
       ],
       "tags": [
         "relevance:core"
@@ -3042,7 +3026,7 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:context"
@@ -3064,7 +3048,7 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10241"
       ],
       "tags": [
         "relevance:core"
@@ -3090,7 +3074,7 @@
         "A-1436.2"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10241"
       ],
       "tags": [
         "relevance:core"
@@ -3115,7 +3099,7 @@
       "claim": "The host says Elizabeth McCoy screamed, grabbed her phone and ran out of Turning Point headquarters, without naming how she knows.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338",
+        "N-10214",
         "N-10000"
       ],
       "tags": [
@@ -3137,7 +3121,7 @@
       "claim": "The host says Mikey probably called Elizabeth McCoy and that Turning Point headquarters is about 30 minutes from the airport.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338",
+        "N-10214",
         "N-10000"
       ],
       "tags": [
@@ -3185,7 +3169,7 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -3209,7 +3193,7 @@
         "A-1442.1"
       ],
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ],
       "tags": [
         "relevance:context"
@@ -3235,7 +3219,7 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ],
       "tags": [
         "relevance:context"
@@ -3259,7 +3243,7 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ],
       "tags": [
         "relevance:context"
@@ -3281,7 +3265,7 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-10267"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3305,8 +3289,7 @@
         "A-1442.1"
       ],
       "related_nodes": [
-        "N-10267",
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3338,7 +3321,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10267"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3358,8 +3341,8 @@
       "claim": "The host says the only person who can release Charlie Kirk's autopsy report is Erika Kirk as next of kin, under Utah state policy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10155",
-        "N-10229"
+        "N-10150",
+        "N-10216"
       ],
       "tags": [
         "relevance:core"
@@ -3386,7 +3369,7 @@
         "A-1442.2"
       ],
       "related_nodes": [
-        "N-10862"
+        "N-10783"
       ],
       "tags": [
         "relevance:context"
@@ -3409,8 +3392,8 @@
         "A-1442.2"
       ],
       "related_nodes": [
-        "N-10180",
-        "N-10085"
+        "N-10172",
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3437,8 +3420,8 @@
         "A-1442.2"
       ],
       "related_nodes": [
-        "N-10180",
-        "N-10085"
+        "N-10172",
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -3489,7 +3472,7 @@
         "A-1443.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3511,7 +3494,7 @@
       "claim": "The host says there has been so much protection over Jeffrey Epstein because that is who rules over us.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3532,7 +3515,7 @@
       "claim": "The host says anyone who watched the Brigitte Macron story knows it was a story about pedophiles in power and the lengths they go to to maintain a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:tangential"
@@ -3555,8 +3538,8 @@
         "A-1443.1"
       ],
       "related_nodes": [
-        "N-11011",
-        "N-10270"
+        "N-10931",
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3582,7 +3565,7 @@
         "A-1443.1"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:tangential"
@@ -3603,8 +3586,8 @@
       "claim": "The host says she told the truth about the Brigitte Macron story, and that the response of suing her shows the nature of the psychopathology of those involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11011",
-        "N-10270"
+        "N-10931",
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3667,7 +3650,7 @@
       "claim": "The host says donors were getting very angry with Charlie and were squeezing him, which she calls the main thing and a part of the story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3690,7 +3673,7 @@
         "A-1444.2"
       ],
       "related_nodes": [
-        "N-10268",
+        "N-10252",
         "N-10000"
       ],
       "tags": [
@@ -3736,7 +3719,7 @@
       "claim": "The host says that not being invited to AmFest happened to her the year before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
+        "N-10252",
         "N-10000"
       ],
       "tags": [
@@ -3757,7 +3740,7 @@
       "claim": "The host says donors squeeze people who say one thing they dislike, that such people are put on a list and financial threats are made, and that Charlie was standing up for himself.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3781,7 +3764,7 @@
       "claim": "The host says she knows what she saw in the vision she had in the days before Charlie's assassination, which made her pull her kids out of school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10113"
+        "N-10109"
       ],
       "tags": [
         "relevance:context"
@@ -3841,7 +3824,7 @@
         "A-2917.1"
       ],
       "related_nodes": [
-        "N-10341",
+        "N-10319",
         "N-10000"
       ],
       "tags": [
@@ -3865,7 +3848,7 @@
         "A-2917.2"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -3887,7 +3870,7 @@
         "A-2917.2"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -3926,7 +3909,7 @@
       "claim": "The host says she thinks Charlie was so motivated that he equated more dollars with more success and did not necessarily equate it with more of a threat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3968,7 +3951,7 @@
         "A-2916.1"
       ],
       "related_nodes": [
-        "N-10530"
+        "N-10486"
       ],
       "tags": [
         "relevance:tangential"
@@ -3992,7 +3975,7 @@
         "A-2917.3"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10297"
       ],
       "tags": [
         "relevance:context"
@@ -4015,7 +3998,7 @@
         "A-2917.3"
       ],
       "related_nodes": [
-        "N-10116",
+        "N-10112",
         "N-10001"
       ],
       "tags": [
@@ -4038,8 +4021,8 @@
         "A-1438.1"
       ],
       "related_nodes": [
-        "N-10269",
-        "N-10316"
+        "N-10253",
+        "N-10297"
       ],
       "tags": [
         "relevance:core"
@@ -4062,8 +4045,8 @@
       "claim": "The host says she has no concrete evidence but believes there is enough evidence to suggest the killing was a multinational, international operation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316",
-        "N-10253"
+        "N-10297",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -4086,8 +4069,8 @@
         "A-2917.4"
       ],
       "related_nodes": [
-        "N-10434",
-        "N-10132"
+        "N-10404",
+        "N-10127"
       ],
       "tags": [
         "relevance:core"

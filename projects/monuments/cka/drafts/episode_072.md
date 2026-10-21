@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-11245, N-11246, N-11247, N-11248, N-11249
-  - Hole-minted Nodes (reintro-ep072): N-10517, N-10520, N-10526, N-10527, N-10665, N-10764
+  - Tip-minted Nodes (supplement_2026-10d): N-11161, N-11162, N-11163, N-11164, N-11165
+  - Hole-minted Nodes (reintro-ep072): N-10476, N-10483, N-10693
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6416–C-6509
-  - New Nodes Introduced: N-556, N-557, N-558, N-559, N-10501, N-10502, N-10504, N-10505
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-544, N-552, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-553, N-707, N-10000, N-10012, N-10026, N-10027, N-10063, N-10085, N-10117, N-10148, N-10169, N-10180, N-10187, N-10268, N-10334, N-10340, N-10345, N-10374, N-10386, N-10406, N-10419, N-10428, N-10446, N-10447, N-10456, N-10470, N-10482, N-10493, N-10495, N-10498, N-10905, N-10968, N-11104, N-11110, N-11165, N-10503, N-11188
+  - New Nodes Introduced: N-556, N-557, N-558, N-559, N-10462, N-10463, N-10465, N-10466
+  - Reused Nodes Appearing: N-2, N-11, N-3, N-544, N-552, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-553, N-707, N-10000, N-10012, N-10026, N-10027, N-10060, N-10081, N-10113, N-10143, N-10162, N-10172, N-10179, N-10252, N-10313, N-10318, N-10323, N-10348, N-10359, N-10379, N-10392, N-10415, N-10416, N-10425, N-10439, N-10214, N-10280, N-10458, N-10460, N-10826, N-10889, N-11022, N-11028, N-11081, N-10464, N-11104
   - (see registers)
 
 ## 2. Executive Summary
@@ -41,7 +41,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6480, N-2, N-10501, N-10503*
+*Related: C-6480, N-2, N-10462, N-10464*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6467, N-204, N-10502*
+*Related: C-6467, N-204, N-10463*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:27:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6470, N-556, N-204, N-10502*
+*Related: C-6470, N-556, N-204, N-10463*
 
 ---
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-6468, N-204, N-556, N-14, N-10502*
+*Related: C-6468, N-204, N-556, N-14, N-10463*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2, N-237, N-10505*
+*Related: N-2, N-237, N-10466*
 
 ---
 
@@ -315,7 +315,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1765.1, C-6470, N-10502*
+*Related: A-1765.1, C-6470, N-10463*
 
 ---
 
@@ -328,7 +328,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1764.1, A-1769.1, N-556, N-10502*
+*Related: A-1764.1, A-1769.1, N-556, N-10463*
 
 ---
 
@@ -380,7 +380,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1770.1, N-2, N-10505*
+*Related: A-1770.1, N-2, N-10466*
 
 ---
 
@@ -393,7 +393,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-2, N-10505*
+*Related: N-2, N-10466*
 
 ---
 
@@ -406,7 +406,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-10505*
+*Related: N-2, N-10466*
 
 ---
 
@@ -419,7 +419,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-14, N-10505*
+*Related: N-2, N-14, N-10466*
 
 ---
 
@@ -436,7 +436,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10501** Erika Kirk Real Estate License Timing Question
+**N-10462** Erika Kirk Real Estate License Timing Question
 
 Discrepancy between Erika's NY real estate license issuance (presumed October 24, 2018) and the same month as her first dating of Charlie Kirk.
 
@@ -449,7 +449,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10502** Erika Kirk Corcoran Group Employment Verification
+**N-10463** Erika Kirk Corcoran Group Employment Verification
 
 Persistent question regarding Erika Kirk's stated real estate career at Corcoran Group and overlapping Epstein document listing of Lynn Forester de Rothschild as Corcoran Group Inc. President.
 
@@ -462,7 +462,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10503** Erika Kirk September 10 Assistant Pull-Back Investigation
+**N-10464** Erika Kirk September 10 Assistant Pull-Back Investigation
 
 Host-asserted but not artifact-anchored: Tracy Martin allegedly withdrew her daughter (Erika's assistant) from the UVU event due to a "bad feeling."
 
@@ -475,7 +475,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10504** Erika Kirk Educational Timeline Verification Gap
+**N-10465** Erika Kirk Educational Credentials Discrepancy
 
 Host's call for verification: multiple universities listed (Regis, Loyola Marymount, Arizona State, Liberty) with no corroborating witnesses.
 
@@ -488,7 +488,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10505** Erika Kirk Post-Assassination Conduct Composite
+**N-10466** Erika Kirk Post-Assassination Conduct Composite
 
 Composite investigation target covering host allegations regarding: (a) three-way funeral-day call with Dr. Lee Trotter, (b) alleged false statement to Glenn Beck, (c) alleged memory lapse regarding Hamptons Bibi Netanyahu call, (d) "Superman neck" framing.
 
@@ -510,7 +510,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-11245** Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation
+**N-11161** Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation
 
 Node Type: Topic
 Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro scheduled in Palm Beach weeks before this episode, possibly for the Super Bowl, which was canceled at the last second.
@@ -519,7 +519,7 @@ Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro sch
 
 ---
 
-**N-11246** Proclaim Streetwear
+**N-11162** Proclaim Streetwear
 
 Node Type: Organization
 Christian-branded clothing brand the host says she understood Erika Kirk was working on in New York around 2018, for which the host says a trademark was filed.
@@ -528,7 +528,7 @@ Christian-branded clothing brand the host says she understood Erika Kirk was wor
 
 ---
 
-**N-11247** Regis University
+**N-11163** Regis University
 
 Node Type: Organization
 University the host lists among those Erika Kirk is said to have attended.
@@ -537,7 +537,7 @@ University the host lists among those Erika Kirk is said to have attended.
 
 ---
 
-**N-11248** Arizona State University
+**N-11164** Arizona State University
 
 Node Type: Organization
 University the host lists among those Erika Kirk is said to have attended.
@@ -546,7 +546,7 @@ University the host lists among those Erika Kirk is said to have attended.
 
 ---
 
-**N-11249** The Perch Fallout Fund
+**N-11165** The Perch Fallout Fund
 
 Node Type: Topic
 GoFundMe the host promotes to support fired TPUSA employees.
@@ -739,7 +739,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Existing node reused for new claims in this episode.
 
@@ -747,7 +747,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -755,7 +755,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing node reused for new claims in this episode.
 
@@ -763,7 +763,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing node reused for new claims in this episode.
 
@@ -771,7 +771,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing node reused for new claims in this episode.
 
@@ -779,7 +779,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Existing node reused for new claims in this episode.
 
@@ -787,7 +787,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Existing node reused for new claims in this episode.
 
@@ -795,7 +795,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing node reused for new claims in this episode.
 
@@ -803,7 +803,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Existing node reused for new claims in this episode.
 
@@ -811,7 +811,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing node reused for new claims in this episode.
 
@@ -819,7 +819,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing node reused for new claims in this episode.
 
@@ -827,7 +827,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10374** Erika Kirk Pre-Charlie Dating History Verification
+**N-10348** Erika Kirk Pre-Charlie Dating History Verification
 
 Existing node reused for new claims in this episode.
 
@@ -835,7 +835,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing node reused for new claims in this episode.
 
@@ -843,7 +843,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing node reused for new claims in this episode.
 
@@ -851,7 +851,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10419** Erika China Residence Discrepancy
+**N-10392** Erika Kirk China Timeline Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -859,15 +859,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10428** Erika Kirk China Timeline Discrepancy
-
-Existing node reused for new claims in this episode.
-
-*Related: C-6491*
-
----
-
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -875,7 +867,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -883,7 +875,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing node reused for new claims in this episode.
 
@@ -891,7 +883,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10470** Dan Flood Message Format Discrepancy
+**N-10439** Dan Flood Message Format Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -899,7 +891,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10482** Mikey McCoy Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing node reused for new claims in this episode.
 
@@ -907,7 +899,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10493** Pierre / French Donor Investigation
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 Existing node reused for new claims in this episode.
 
@@ -915,7 +907,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
 Existing node reused for new claims in this episode.
 
@@ -923,7 +915,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10498** Tracy's Daughter Erika Assistant Status Verification
+**N-10460** Tracy's Daughter Erika Assistant Status Verification
 
 Existing node reused for new claims in this episode.
 
@@ -931,7 +923,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10517** Erika Kirk Loyola Marymount Attendance Verification
+**N-10476** Erika Kirk Loyola Marymount Attendance Verification
 
 Existing node reused for new claims in this episode.
 
@@ -939,23 +931,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10520** Erika Kirk Corcoran Real Estate Anomaly
-
-Existing node reused for new claims in this episode.
-
-*Related: C-6484, C-6485*
-
----
-
-**N-10526** Erika NY Real Estate License Verification Question
-
-Existing node reused for new claims in this episode.
-
-*Related: C-6479*
-
----
-
-**N-10527** Erika Real Estate Bio Credential Verification Question
+**N-10483** Erika Real Estate Bio Credential Verification Question
 
 Existing node reused for new claims in this episode.
 
@@ -963,15 +939,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10665** Erika Kirk Educational Credentials Discrepancy
-
-Existing node reused for new claims in this episode.
-
-*Related: C-6488*
-
----
-
-**N-10764** Kirk Religious Affiliation Status
+**N-10693** Kirk Religious Affiliation Status
 
 Existing node reused for new claims in this episode.
 
@@ -979,7 +947,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing node reused for new claims in this episode.
 
@@ -987,7 +955,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Existing node reused for new claims in this episode.
 
@@ -995,7 +963,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11104** Liberty University
+**N-11022** Liberty University
 
 Existing node reused for new claims in this episode.
 
@@ -1003,7 +971,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11110** Erika Kirk and Tyler Bowyer First-Meeting Account
+**N-11028** Erika Kirk and Tyler Bowyer First-Meeting Account
 
 Existing node reused for new claims in this episode.
 
@@ -1011,7 +979,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Existing node reused for new claims in this episode.
 
@@ -1019,7 +987,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11188** White House Religious Liberty Commission
+**N-11104** White House Religious Liberty Commission
 
 Existing node reused for new claims in this episode.
 
@@ -1038,7 +1006,7 @@ Claim: In a TikTok clip the host plays, an unnamed TikToker says a USA Today art
 Anchored Artifacts: A-1764.1, A-1769.1
 Mentions: N-2, N-1, N-559
 
-Related Nodes: N-10502
+Related Nodes: N-10463
 
 Investigative Direction: Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.
 
@@ -1053,7 +1021,7 @@ Claim: In a TikTok clip the host plays, an unnamed TikToker says an Epstein docu
 Anchored Artifacts: A-1765.1, A-1769.1
 Mentions: N-556, N-559
 
-Related Nodes: N-10502
+Related Nodes: N-10463
 
 Investigative Direction: Locate the underlying Epstein document entry and verify the document identifier, page, and original source.
 
@@ -1068,7 +1036,7 @@ Claim: Per a snapshot of Erika Kirk's New York real estate license that the host
 Anchored Artifacts: A-1763.1
 Mentions: N-2
 
-Related Nodes: N-10501
+Related Nodes: N-10462
 
 Investigative Direction: Verify license issuance and expiration dates against New York Department of State records.
 
@@ -1181,7 +1149,7 @@ Claim: In a TikTok clip the host plays, an unnamed TikToker raises the question 
 Anchored Artifacts: A-1769.1
 Mentions: N-2, N-559
 
-Related Nodes: N-10502
+Related Nodes: N-10463
 
 Investigative Direction: Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.
 
@@ -1225,7 +1193,7 @@ Transcript Snippet: However, it is a fact that she was supposed to go to UVU on 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-544, N-552
-Related Nodes: N-10485
+Related Nodes: N-10440
 Investigative Direction: Establish the assistant's September 10 travel plans and who changed them.
 
 ---
@@ -1270,7 +1238,7 @@ Transcript Snippet: we were working off of a tip that Tracy may have been with E
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-544, N-217, N-190
-Related Nodes: N-10482
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain the phone records or witness accounts of the McCoy calls to Erika on September 10 and identify who was physically present with her.
 
@@ -1301,7 +1269,7 @@ Transcript Snippet: what Tracy cannot deny is that her daughter is indeed Erika'
 
 Anchored Artifacts: 
 Mentions: N-3, N-544, N-552, N-2
-Related Nodes: N-10498
+Related Nodes: N-10460
 Tags: relevance:core
 Investigative Direction: Verify the daughter's employment with Erika Kirk or TPUSA through payroll, event staffing lists or public tagging of her in Erika's posts.
 
@@ -1333,7 +1301,7 @@ Transcript Snippet: Tracy had a bad feeling and so she stopped her daughter from
 
 Anchored Artifacts: 
 Mentions: N-3, N-544, N-552
-Related Nodes: N-10503, N-10012
+Related Nodes: N-10464, N-10012
 Tags: relevance:core
 Investigative Direction: Interview the people in Martin's orbit who heard the explanation and obtain any messages in which the bad feeling or the change of plans was discussed.
 
@@ -1349,7 +1317,7 @@ Transcript Snippet: Charlie messages a group of people and says that he is aband
 
 Anchored Artifacts: A-3050.1, A-3050.1
 Mentions: N-3, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the full group-chat export and verify author, recipients and timestamps.
@@ -1366,7 +1334,7 @@ Transcript Snippet: he's saying he wants Candace back at AmFest that year after 
 
 Anchored Artifacts: A-3050.1, A-3050.1
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-10268
+Related Nodes: N-10000, N-10252
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA staff messages in which Kirk discussed the AmFest roster and identify the recipients.
 
@@ -1382,7 +1350,7 @@ Transcript Snippet: He signals to his troops that he doesn't care about the mone
 
 Anchored Artifacts: A-3050.1, A-3050.1
 Mentions: N-3, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Identify the messages in which Kirk told staff he did not care about donor money and check their dates.
 
@@ -1398,7 +1366,7 @@ Transcript Snippet: He then has what looks like an emergency Zoom call with Rabb
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-164
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invitation or log and Wolicki's own account of the call time, participants and purpose.
@@ -1415,7 +1383,7 @@ Transcript Snippet: He was on the chat 2 hours earlier before this call when Cha
 
 Anchored Artifacts: A-3050.1, A-3050.1
 Mentions: N-3, N-1, N-164, N-55
-Related Nodes: N-10187
+Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and member list to confirm Wolicki and Hammer were participants and when each message was sent.
@@ -1432,7 +1400,7 @@ Transcript Snippet: They are they're going to say that that chat was really not 
 
 Anchored Artifacts: 
 Mentions: N-3, N-55, N-2, N-1
-Related Nodes: N-10187
+Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Ask Hammer and Erika Kirk to state on the record how they described the chat; compare to Hammer's released text messages.
 
@@ -1448,7 +1416,7 @@ Transcript Snippet: And so apparently um he needed Josh Hammer. He also needed t
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-55, N-164
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1551
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's and Wolicki's own statements about the purpose of the call and any talking-points material exchanged.
@@ -1465,7 +1433,7 @@ Transcript Snippet: he sends off text messages to security chief Dan Flood, also
 
 Anchored Artifacts: A-3050.2, A-3050.2
 Mentions: N-3, N-1, N-270, N-14
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the original texts from Flood's and Kolvet's devices with metadata.
@@ -1482,7 +1450,7 @@ Transcript Snippet: Erika wants us to believe that he was referring to the left,
 
 Anchored Artifacts: A-3050.2, A-3050.2
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10117
+Related Nodes: N-10113
 Supports: C-4064
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's interview statement on who 'they' referred to and compare it with the message text.
@@ -1499,7 +1467,7 @@ Transcript Snippet: we were also told that the definitely not at all Catholic Ch
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10117
+Related Nodes: N-10113
 Supports: C-1335
 Tags: relevance:core
 Investigative Direction: Identify the priest and the date and place of the visit from the original sources who told the account.
@@ -1516,7 +1484,7 @@ Transcript Snippet: she also doubled as an assistant on Charlie's show and the w
 
 Anchored Artifacts: 
 Mentions: N-3, N-552, N-1, N-159, N-190
-Related Nodes: N-10498
+Related Nodes: N-10460
 Tags: relevance:core
 Investigative Direction: Obtain the September 10 travel and staffing roster for The Charlie Kirk Show and check whether the assistant was scheduled.
 
@@ -1532,7 +1500,7 @@ Transcript Snippet: Erika and Andrew Kolvet had an emergency three-way call with
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14, N-195
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-4493
 Tags: relevance:core
 Investigative Direction: Obtain call records or Trotter's account of the funeral-day call and who initiated it.
@@ -1549,7 +1517,7 @@ Transcript Snippet: she is the one that suggested that Charlie has a Superman ne
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1, N-195
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-4493
 Tags: relevance:core
 Investigative Direction: Compare Trotter's own account of what he said with Kolvet's post and identify who first used the phrase.
@@ -1566,7 +1534,7 @@ Transcript Snippet: I shared the fact on my podcast that the bullet didn't go th
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10085, N-10180
+Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and surgical records on entry, exit and bleeding, and compare them with the footage.
 
@@ -1582,7 +1550,7 @@ Transcript Snippet: we're led to believe for a very long time that that was refe
 
 Anchored Artifacts: A-1770.1
 Mentions: N-3, N-14, N-195
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-4542
 Tags: relevance:core
 Investigative Direction: Pull Kolvet's original post and Trotter's statements and compare their wording.
@@ -1599,7 +1567,7 @@ Transcript Snippet: Erika lied to Glenn Beck about Charlie having not sent aroun
 
 Anchored Artifacts: A-3050.3
 Mentions: N-3, N-2, N-237, N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview segment and compare Erika Kirk's words with the texts.
 
@@ -1615,7 +1583,7 @@ Transcript Snippet: And then she said that was a mistake. No, it must have been 
 
 Anchored Artifacts: A-3050.3
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's statement about Telegram and the phone's installed apps and message logs.
 
@@ -1631,7 +1599,7 @@ Transcript Snippet: And then I confirmed to my person that it actually sent on F
 
 Anchored Artifacts: A-3050.3
 Mentions: N-3, N-2, N-270
-Related Nodes: N-10340, N-10470
+Related Nodes: N-10318, N-10439
 Tags: relevance:core
 Investigative Direction: Examine Flood's device message log for the platform, sender and timestamp of the text.
 
@@ -1647,7 +1615,7 @@ Transcript Snippet: Paw print number three, Erika was at the meeting in the Hamp
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36
-Related Nodes: N-10495, N-10446, N-10027
+Related Nodes: N-10458, N-10415, N-10027
 Tags: relevance:core
 Investigative Direction: Identify other attendees of the Hamptons meeting and obtain Erika Kirk's public statements on the call.
 
@@ -1663,7 +1631,7 @@ Transcript Snippet: Erika asserting to Bari Weiss of all people that Jew hatred 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-278
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:context
 Investigative Direction: Find the Bari Weiss event or interview and the exact words used.
 
@@ -1679,7 +1647,7 @@ Transcript Snippet: Erika allowing Ben Shapiro to open at AmFest behind her.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-97
-Related Nodes: N-10268
+Related Nodes: N-10252
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest 2025 speaker schedule and sponsor arrangements for Shapiro's slot.
 
@@ -1695,7 +1663,7 @@ Transcript Snippet: Erika welcoming the New York Times into their shared home.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10968, N-10905
+Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Retrieve the New York Times article and confirm the interview was held at the Kirk home.
 
@@ -1741,7 +1709,7 @@ Transcript Snippet: I know for a fact Charlie dislikes Ben. Why would you let hi
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97, N-2
-Related Nodes: N-10386
+Related Nodes: N-10359
 Supports: C-4447
 Tags: relevance:core
 Investigative Direction: Collect Kirk's messages and witnesses about Shapiro and the terms of Shapiro's AmFest appearance.
@@ -1758,7 +1726,7 @@ Transcript Snippet: Charlie said, "No." to Bibi Netanyahu coming on his show.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10456
+Related Nodes: N-10425
 Tags: relevance:core
 Investigative Direction: Find the show booking requests and the staff who handled the Netanyahu request.
 
@@ -1774,7 +1742,7 @@ Transcript Snippet: There was a scheduled a few weeks ago for Bibi Netanyahu, Er
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36, N-97
-Related Nodes: N-11245
+Related Nodes: N-11161
 Tags: relevance:core
 Investigative Direction: Identify the production, venue and attendees through Palm Beach location bookings and the host's source.
 
@@ -1790,7 +1758,7 @@ Transcript Snippet: We can't even get his widow to at least come out and tell th
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Review Erika Kirk's public statements since September 2025 for any acknowledgment of Kirk's change of view on Israel.
 
@@ -1898,7 +1866,7 @@ Transcript Snippet: And then after Charlie died, she started questioning whether
 
 Anchored Artifacts: A-1768.1
 Mentions: N-46, N-3, N-1
-Related Nodes: N-10406, N-10026
+Related Nodes: N-10379, N-10026
 Tags: relevance:core
 Investigative Direction: Identify who pressed Kelly and when, using her messages or public statements.
 
@@ -1914,7 +1882,7 @@ Transcript Snippet: Charlie was for a fact having plenty of doubts about Israel.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Interview members of Kirk's inner circle and collect any messages in which he expressed doubts.
 
@@ -1946,7 +1914,7 @@ Transcript Snippet: it was private investigators asking how I found this informa
 
 Anchored Artifacts: A-1769.1
 Mentions: N-559
-Related Nodes: N-11165
+Related Nodes: N-11081
 Tags: relevance:context
 Investigative Direction: Identify the TikToker and obtain the messages from the investigators.
 
@@ -1962,7 +1930,7 @@ Transcript Snippet: her boss would be Pamela Liebman because Pamela has been the
 
 Anchored Artifacts: A-1769.1
 Mentions: N-559, N-557, N-2
-Related Nodes: N-10502
+Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Verify Liebman's tenure and title with Corcoran Group press releases and New York filings.
 
@@ -1978,7 +1946,7 @@ Transcript Snippet: Erika and Charlie Kirk fell in love when he was interviewing
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-11110, N-10000
+Related Nodes: N-11028, N-10000
 Supports: C-6474
 Tags: relevance:core
 Investigative Direction: Collect the dated public tellings of the interview story and compare their details.
@@ -1995,7 +1963,7 @@ Transcript Snippet: he's telling the truth. I was around for that. I just had to
 
 Anchored Artifacts: A-3051.1, A-1766.1, A-3051.1
 Mentions: N-3, N-11
-Related Nodes: N-11110
+Related Nodes: N-11028
 Supports: C-6472
 Tags: relevance:core
 Investigative Direction: Obtain the host's dated text messages with Bowyer and Charlie from 2018.
@@ -2012,7 +1980,7 @@ Transcript Snippet: I can tell you going back in my text messages with Charlie t
 
 Anchored Artifacts: A-3051.1, A-3051.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Publish or independently verify the dated text messages.
 
@@ -2044,7 +2012,7 @@ Transcript Snippet: October 2018 is when they began dating in in earnest. Uh tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10501
+Related Nodes: N-10462
 Tags: relevance:core
 Investigative Direction: Compare dated messages and New York Department of State license issuance records.
 
@@ -2060,7 +2028,7 @@ Transcript Snippet: So, if it expired on October 24th, 2020, that means that she
 
 Anchored Artifacts: A-1763.1
 Mentions: N-3, N-2
-Related Nodes: N-10501, N-10526
+Related Nodes: N-10462
 Supports: C-6480
 Tags: relevance:core
 Investigative Direction: Request the New York Department of State license history for original issue date.
@@ -2077,7 +2045,7 @@ Transcript Snippet: Erika was working in fashion on this clothing brand, Proclai
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11246
+Related Nodes: N-11162
 Tags: relevance:core
 Investigative Direction: Search business and trademark records for Proclaim Streetwear and its ownership.
 
@@ -2108,7 +2076,7 @@ Transcript Snippet: certainly up being up to 2019, she files for a trademark for
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11246
+Related Nodes: N-11162
 Tags: relevance:core
 Investigative Direction: Pull USPTO and state LLC filings for Proclaim Streetwear and its filer.
 
@@ -2124,7 +2092,7 @@ Transcript Snippet: she is both running a fashion brand, getting her master's at
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11246, N-11104, N-10520
+Related Nodes: N-11162, N-11022, N-10463
 Tags: relevance:core
 Investigative Direction: Verify Liberty enrollment dates, license dates and Corcoran affiliation dates.
 
@@ -2140,7 +2108,7 @@ Transcript Snippet: all we can find on Wayback Machine is that she had one listi
 
 Anchored Artifacts: A-3052.1, A-3052.1
 Mentions: N-3, N-2
-Related Nodes: N-10520, N-10502
+Related Nodes: N-10463
 Tags: relevance:core
 Investigative Direction: Retrieve the archived Corcoran page and compare it with sales records.
 
@@ -2156,7 +2124,7 @@ Transcript Snippet: This is not the Erika that I met. I didn't know anything abo
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10527
+Related Nodes: N-10483
 Tags: relevance:core
 Investigative Direction: Compare the host's early bios of Erika with TPUSA biographies.
 
@@ -2172,7 +2140,7 @@ Transcript Snippet: doing a reality show dating uh even though you never dated i
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-278
-Related Nodes: N-10374
+Related Nodes: N-10348
 Tags: relevance:core
 Investigative Direction: Identify the reality show, its air date and cast listing.
 
@@ -2188,7 +2156,7 @@ Transcript Snippet: Regis University, we have Loyola Marymount University, we've
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11247, N-11248, N-11104, N-10504, N-10665, N-10517
+Related Nodes: N-11163, N-11164, N-11022, N-10465, N-10476
 Tags: relevance:core
 Investigative Direction: Request enrollment verification from each school, with Erika Kirk's consent or via public degree records.
 
@@ -2204,7 +2172,7 @@ Transcript Snippet: I don't have anybody in my tips box that is saying they went
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10504
+Related Nodes: N-10465
 Tags: relevance:core
 Investigative Direction: Solicit named classmates and roommates and test their accounts against school records.
 
@@ -2220,7 +2188,7 @@ Transcript Snippet: More tips at candaceowens. com. Send us an email.
 
 Anchored Artifacts: A-3053.1
 Mentions: N-3, N-2
-Related Nodes: N-10504
+Related Nodes: N-10465
 Tags: relevance:core
 Investigative Direction: Track the tips received at the tip line and verify each source's claimed connection to Erika Kirk.
 
@@ -2236,7 +2204,7 @@ Transcript Snippet: she's traveling. She's living in China, but she's in school 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10419, N-10428
+Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: Compare dated China residence evidence with enrollment dates at the schools.
 
@@ -2331,7 +2299,7 @@ Transcript Snippet: They are going to move to take down their GoFundMe on Thursd
 
 Anchored Artifacts: A-3054.1, A-3054.1
 Mentions: N-3
-Related Nodes: N-10000, N-11249
+Related Nodes: N-10000, N-11165
 Tags: relevance:core
 Investigative Direction: Check the GoFundMe page for its organizer, total and end date.
 
@@ -2347,7 +2315,7 @@ Transcript Snippet: And of course, they did not see any of the billions that are
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10493
+Related Nodes: N-10000, N-10280
 Tags: relevance:core
 Investigative Direction: Identify who 'Pierre' refers to and the alleged donations through donor filings.
 
@@ -2379,7 +2347,7 @@ Transcript Snippet: he stood up and he said, "No, no more. I am done with this. 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Use the night-before messages to test the host's characterization.
@@ -2396,7 +2364,7 @@ Transcript Snippet: she stood up during that hearing and said, "What even is ant
 
 Anchored Artifacts: 
 Mentions: N-3, N-553, N-38, N-1
-Related Nodes: N-10345
+Related Nodes: N-10323
 Tags: relevance:context
 Investigative Direction: Watch the hearing and verify what Prejean Boller said and to whom.
 
@@ -2412,7 +2380,7 @@ Transcript Snippet: there's whispers that she's going to be kicked off of the re
 
 Anchored Artifacts: 
 Mentions: N-3, N-553, N-60
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Check the commission's membership announcements and Loomer's posts.
 
@@ -2443,7 +2411,7 @@ Transcript Snippet: If not, you can see it cuz I just put it on X. You can go to
 
 Anchored Artifacts: A-3055.1, A-3055.1
 Mentions: N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Locate the host's post and verify the source and date of the video.
 
@@ -2505,7 +2473,7 @@ Transcript Snippet: Well, Alex Clark told us that wasn't true. He just liked the
 
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-1
-Related Nodes: N-10764
+Related Nodes: N-10693
 Tags: relevance:context
 Investigative Direction: Find Alex Clark's statement about Kirk's visits to Catholic churches.
 

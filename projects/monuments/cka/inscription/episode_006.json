@@ -93,8 +93,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10066",
-            "N-10081"
+            "N-10063",
+            "N-10078"
           ],
           "tags": [],
           "video_timestamp": "00:00:57–00:01:10",
@@ -163,10 +163,10 @@
             "C-527"
           ],
           "related_nodes": [
+            "N-10062",
+            "N-10064",
             "N-10065",
-            "N-10067",
-            "N-10068",
-            "N-10069"
+            "N-10066"
           ],
           "tags": [],
           "video_timestamp": "00:17:21–00:19:21",
@@ -192,7 +192,7 @@
           ],
           "related_nodes": [
             "N-84",
-            "N-10070"
+            "N-10067"
           ],
           "tags": [],
           "video_timestamp": "00:24:46–00:24:59",
@@ -246,7 +246,7 @@
           "related_nodes": [
             "N-85",
             "N-86",
-            "N-10079"
+            "N-10076"
           ],
           "tags": [],
           "video_timestamp": "00:35:09–00:35:39",
@@ -314,8 +314,8 @@
           "related_nodes": [
             "N-88",
             "N-89",
-            "N-10071",
-            "N-10079"
+            "N-10068",
+            "N-10076"
           ],
           "tags": [],
           "video_timestamp": "00:42:01–00:42:55",
@@ -1074,8 +1074,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10065",
-      "ref": "N-10065",
+      "@id": "N-10062",
+      "ref": "N-10062",
       "name": "Caldera Engineering",
       "type": "organization",
       "description": "Provo, Utah valve manufacturer; subject of intelligence-community link speculation",
@@ -1095,8 +1095,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10066",
-      "ref": "N-10066",
+      "@id": "N-10063",
+      "ref": "N-10063",
       "name": "United States Senate",
       "type": "organization",
       "description": "Body that passed bipartisan Charlie Kirk Remembrance Day resolution",
@@ -1115,8 +1115,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10067",
-      "ref": "N-10067",
+      "@id": "N-10064",
+      "ref": "N-10064",
       "name": "CISA",
       "type": "organization",
       "description": "Cybersecurity agency listed by viewer email as monitoring valve networks",
@@ -1135,8 +1135,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10068",
-      "ref": "N-10068",
+      "@id": "N-10065",
+      "ref": "N-10065",
       "name": "NSA",
       "type": "organization",
       "description": "Intelligence agency listed by viewer email as monitoring valve networks",
@@ -1155,8 +1155,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10069",
-      "ref": "N-10069",
+      "@id": "N-10066",
+      "ref": "N-10066",
       "name": "FERC",
       "type": "organization",
       "description": "Federal Energy Regulatory Commission cited as valve-network monitor",
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "organization",
       "description": "Publisher of Victoria Churchill's Kirk memorial article",
@@ -1195,8 +1195,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10071",
-      "ref": "N-10071",
+      "@id": "N-10068",
+      "ref": "N-10068",
       "name": "ABC",
       "type": "organization",
       "description": "Network whose affiliates were threatened with FCC action over Kimmel",
@@ -1215,8 +1215,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10072",
-      "ref": "N-10072",
+      "@id": "N-10069",
+      "ref": "N-10069",
       "name": "FCC",
       "type": "organization",
       "description": "Federal Communications Commission; chair threatened affiliate action",
@@ -1235,14 +1235,15 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10073",
-      "ref": "N-10073",
-      "name": "APAC",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "AIPAC",
       "type": "organization",
       "description": "Pro-Israel lobbying group alleged to employ Victoria Churchill",
       "related_artifacts": [],
       "related_claims": [
-        "C-544"
+        "C-544",
+        "C-545"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1269,8 +1270,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "place",
       "description": "Home city of Caldera Engineering",
@@ -1289,8 +1290,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
       "type": "place",
       "description": "Subject of Kimmel's construction-stage grief joke",
@@ -1327,8 +1328,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
       "type": "topic",
       "description": "Investigation into two unidentified men handling the post-shooting camera and chair",
@@ -1354,8 +1355,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
       "type": "topic",
       "description": "Discrepancy over whether FBI-released text messages between Robinson and Lance are genuine",
@@ -1376,8 +1377,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
       "type": "topic",
       "description": "Host's announced deep-dive into TPUSA donors/sponsors/influencer takeover",
@@ -1398,8 +1399,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10079",
-      "ref": "N-10079",
+      "@id": "N-10076",
+      "ref": "N-10076",
       "name": "Hate Speech Legislation Push",
       "type": "topic",
       "description": "Discourse over post-Kirk-assassination hate-speech laws and FCC enforcement threats",
@@ -1422,8 +1423,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10080",
-      "ref": "N-10080",
+      "@id": "N-10077",
+      "ref": "N-10077",
       "name": "Valve/Piping Industry Intelligence Connection",
       "type": "topic",
       "description": "Speculation that Caldera Engineering and similar firms serve intelligence/infrastructure monitoring roles",
@@ -1443,8 +1444,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10081",
-      "ref": "N-10081",
+      "@id": "N-10078",
+      "ref": "N-10078",
       "name": "Israel Influence on US Politics",
       "type": "topic",
       "description": "Host's recurring thesis that Israeli actors direct US media and speech-law efforts",
@@ -1482,8 +1483,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11367",
-      "ref": "N-11367",
+      "@id": "N-11283",
+      "ref": "N-11283",
       "name": "Flechette Round Theory",
       "type": "topic",
       "description": "Viewer-emailed idea, relayed by the host at 00:13:34, that a flechette-type round hit Charlie and the visible shot was a distraction.",
@@ -1499,8 +1500,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11368",
-      "ref": "N-11368",
+      "@id": "N-11284",
+      "ref": "N-11284",
       "name": "UVU CIA Program Pipeline Claim",
       "type": "topic",
       "description": "The host's 00:51:05 relay that people allege CIA programs at Utah Valley University and a pipeline from UVU to CIA employment.",
@@ -1590,8 +1591,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Topic reused: donor pressure after the host's TPUSA appearance.",
@@ -1609,8 +1610,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Topic reused: dating the Dairy Queen photo.",
@@ -1628,8 +1629,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10052",
-      "ref": "N-10052",
+      "@id": "N-10049",
+      "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
       "type": "investigation_target",
       "description": "Topic reused: where the TMZ doorbell footage came from.",
@@ -1645,8 +1646,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10053",
-      "ref": "N-10053",
+      "@id": "N-10050",
+      "ref": "N-10050",
       "name": "Vacant-House / Decoy Shooter Theory",
       "type": "investigation_target",
       "description": "Topic reused: the vacant house locals suspect.",
@@ -1662,8 +1663,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10054",
-      "ref": "N-10054",
+      "@id": "N-10051",
+      "ref": "N-10051",
       "name": "Caldera Engineering Valve Pattern",
       "type": "investigation_target",
       "description": "Topic reused: the host's valve-industry pattern across her investigations.",
@@ -1683,8 +1684,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10057",
-      "ref": "N-10057",
+      "@id": "N-10054",
+      "ref": "N-10054",
       "name": "Owens Memorial Invitation Status",
       "type": "investigation_target",
       "description": "Topic reused: whether the host was invited to the memorial.",
@@ -1703,8 +1704,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10059",
-      "ref": "N-10059",
+      "@id": "N-10056",
+      "ref": "N-10056",
       "name": "PBD Podcast",
       "type": "investigation_target",
       "description": "Organization reused: show that carried the clip.",
@@ -1723,25 +1724,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
-      "name": "AIPAC",
-      "type": "investigation_target",
-      "description": "Organization reused: the host says it pushes the attacks.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-545"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "investigation_target",
       "description": "Topic reused: the no-blood and exit-wound claims.",
@@ -1761,8 +1745,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10119",
-      "ref": "N-10119",
+      "@id": "N-10115",
+      "ref": "N-10115",
       "name": "Jimmy Kimmel Free-Speech Defense",
       "type": "investigation_target",
       "description": "Topic reused: the host's defense of Kimmel on speech grounds.",
@@ -1781,8 +1765,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
       "type": "investigation_target",
       "description": "Topic reused: the retreat in question.",
@@ -1798,8 +1782,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10165",
-      "ref": "N-10165",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
       "type": "investigation_target",
       "description": "Topic reused: whether the back-camera footage will be released.",
@@ -1816,8 +1800,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Topic reused: the host being told she could not speak at AmFest.",
@@ -1833,8 +1817,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
       "type": "investigation_target",
       "description": "Topic reused: the host's Daily Wire exit.",
@@ -1850,8 +1834,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11004",
-      "ref": "N-11004",
+      "@id": "N-10924",
+      "ref": "N-10924",
       "name": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
       "type": "investigation_target",
       "description": "Topic reused: the host's view of Netanyahu spending.",
@@ -1867,8 +1851,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11084",
-      "ref": "N-11084",
+      "@id": "N-11002",
+      "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
       "type": "investigation_target",
       "description": "Topic reused: employee firings and secrecy.",
@@ -1884,8 +1868,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11096",
-      "ref": "N-11096",
+      "@id": "N-11014",
+      "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
       "type": "investigation_target",
       "description": "Topic reused: the host's TikTok claims.",
@@ -1902,8 +1886,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@id": "N-11021",
+      "ref": "N-11021",
       "name": "TikTok",
       "type": "investigation_target",
       "description": "Organization reused: platform the host says Israel is taking over.",
@@ -1921,8 +1905,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11227",
-      "ref": "N-11227",
+      "@id": "N-11143",
+      "ref": "N-11143",
       "name": "AIPAC Hostile Takeover of TPUSA Claim",
       "type": "investigation_target",
       "description": "Topic reused: the takeover thesis.",
@@ -1939,8 +1923,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11256",
-      "ref": "N-11256",
+      "@id": "N-11172",
+      "ref": "N-11172",
       "name": "Back-Footage FaceTime Recording Inquiry",
       "type": "investigation_target",
       "description": "Topic reused: the FaceTime showing of the back footage.",
@@ -1956,8 +1940,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11318",
-      "ref": "N-11318",
+      "@id": "N-11234",
+      "ref": "N-11234",
       "name": "Robinson Cemetery Clothing Drop Report",
       "type": "investigation_target",
       "description": "Topic reused: the cemetery clothing report.",
@@ -1983,7 +1967,7 @@
         "A-1120.2"
       ],
       "related_nodes": [
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "open_source_investigation"
@@ -2007,7 +1991,7 @@
         "A-1120.1"
       ],
       "related_nodes": [
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "open_source_investigation"
@@ -2031,7 +2015,7 @@
         "A-1120.3"
       ],
       "related_nodes": [
-        "N-10076"
+        "N-10073"
       ],
       "tags": [],
       "claim_timestamp": "00:05:55",
@@ -2074,7 +2058,7 @@
         "A-1122.2"
       ],
       "related_nodes": [
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "crime_scene_evidence"
@@ -2099,7 +2083,7 @@
         "A-1121.1"
       ],
       "related_nodes": [
-        "N-10066"
+        "N-10063"
       ],
       "tags": [],
       "claim_timestamp": "00:00:57",
@@ -2120,7 +2104,7 @@
         "A-1124.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
@@ -2219,7 +2203,7 @@
         "A-1126.1"
       ],
       "related_nodes": [
-        "N-10079"
+        "N-10076"
       ],
       "tags": [],
       "claim_timestamp": "00:35:09",
@@ -2242,7 +2226,7 @@
         "A-1127.1"
       ],
       "related_nodes": [
-        "N-10075"
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:39:31",
@@ -2284,11 +2268,11 @@
         "A-1123.1"
       ],
       "related_nodes": [
+        "N-10062",
+        "N-10064",
         "N-10065",
-        "N-10067",
-        "N-10068",
-        "N-10069",
-        "N-10080"
+        "N-10066",
+        "N-10077"
       ],
       "tags": [],
       "claim_timestamp": "00:17:47",
@@ -2306,9 +2290,9 @@
         "A-1123.1"
       ],
       "related_nodes": [
-        "N-10065",
-        "N-10074",
-        "N-10080"
+        "N-10062",
+        "N-10071",
+        "N-10077"
       ],
       "tags": [],
       "claim_timestamp": "00:18:34",
@@ -2324,8 +2308,8 @@
       "claim": "The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10073",
-        "N-10081"
+        "N-10070",
+        "N-10078"
       ],
       "tags": [
         "open_source_investigation"
@@ -2348,9 +2332,9 @@
         "A-1128.1"
       ],
       "related_nodes": [
-        "N-10071",
-        "N-10072",
-        "N-10079"
+        "N-10068",
+        "N-10069",
+        "N-10076"
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
@@ -2444,7 +2428,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "open_source_investigation"
@@ -2468,7 +2452,7 @@
         "A-1132.1"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [],
       "claim_timestamp": "00:44:52",
@@ -2509,7 +2493,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10081"
+        "N-10078"
       ],
       "tags": [],
       "claim_timestamp": "00:35:42",
@@ -2565,7 +2549,7 @@
       "claim": "The host says viewers pointed out that the same man seen taking down the camera was also near Charlie Kirk just before the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10076",
+        "N-10073",
         "N-83"
       ],
       "tags": [
@@ -2592,7 +2576,7 @@
       "related_nodes": [
         "N-83",
         "N-10000",
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2619,7 +2603,7 @@
       ],
       "related_nodes": [
         "N-83",
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2643,7 +2627,7 @@
       ],
       "related_nodes": [
         "N-83",
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "relevance:context"
@@ -2667,7 +2651,7 @@
       ],
       "related_nodes": [
         "N-83",
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2693,7 +2677,7 @@
       "related_nodes": [
         "N-83",
         "N-10000",
-        "N-10076"
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2717,7 +2701,7 @@
       ],
       "related_nodes": [
         "N-83",
-        "N-10076",
+        "N-10073",
         "N-10014"
       ],
       "tags": [
@@ -2739,7 +2723,7 @@
       "claim": "The host says most of the people with credibility are ballistics experts who say the wound seen at the front is an exit wound, while she says she cannot judge it herself because she is not an expert.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -2759,7 +2743,7 @@
       "claim": "The host says she is inundated with messages from hunters and military members who tell her the shot had to have come from another direction.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -2783,7 +2767,7 @@
       "related_nodes": [
         "N-83",
         "N-10000",
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:core"
@@ -2810,7 +2794,7 @@
       ],
       "related_nodes": [
         "N-83",
-        "N-10165"
+        "N-10158"
       ],
       "tags": [
         "relevance:core"
@@ -2836,7 +2820,7 @@
       ],
       "related_nodes": [
         "N-83",
-        "N-11256"
+        "N-11172"
       ],
       "tags": [
         "relevance:core"
@@ -2859,7 +2843,7 @@
         "A-1122.2"
       ],
       "related_nodes": [
-        "N-10085",
+        "N-10081",
         "N-10014"
       ],
       "tags": [
@@ -2882,7 +2866,7 @@
         "A-1122.2"
       ],
       "related_nodes": [
-        "N-10085",
+        "N-10081",
         "N-10014"
       ],
       "tags": [
@@ -2904,8 +2888,8 @@
       "claim": "The host says she received many emails suggesting the shot could have been a flechette, that something closer could have hit him and everything else could have been a distraction, and that she does not know anything about flechette shells.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11367",
-        "N-10085"
+        "N-11283",
+        "N-10081"
       ],
       "tags": [
         "relevance:context"
@@ -2925,7 +2909,7 @@
       "claim": "The host says that when she began investigating the assassination she never speculated that any other country or Israelis were involved, and that critics pretend she blamed Israel and said Netanyahu killed Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10081"
+        "N-10078"
       ],
       "tags": [
         "relevance:core"
@@ -2950,9 +2934,9 @@
       "claim": "The host says she mentioned the day before that the doorbell-cam footage TMZ obtained came from a street where a ton of employees of Caldera Engineering live.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10065",
-        "N-10054",
-        "N-10052",
+        "N-10062",
+        "N-10051",
+        "N-10049",
         "N-10011"
       ],
       "tags": [
@@ -2976,8 +2960,8 @@
       "claim": "The host says she thinks she showed one or two of the employees, that the husband and wife she had mentioned work for Caldera Engineering, and that the company purports to manufacture valves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10065",
-        "N-10054"
+        "N-10062",
+        "N-10051"
       ],
       "tags": [
         "relevance:core"
@@ -3000,8 +2984,8 @@
       "claim": "The host says that, including Harley Pasternak, three people she has investigated, or their families, oddly had backgrounds in the niche valve and piping industry.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10054",
-        "N-10080"
+        "N-10051",
+        "N-10077"
       ],
       "tags": [
         "relevance:context"
@@ -3025,8 +3009,8 @@
       "claim": "The host says viewers with experience in the industry told her valve work implies major government contracts, likely the CIA, and that certain valves are made exclusively in Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10080",
-        "N-10054"
+        "N-10077",
+        "N-10051"
       ],
       "tags": [
         "relevance:context"
@@ -3046,8 +3030,8 @@
       "claim": "The host says Caldera Engineering's website has a map marking every country where it has done engineering projects, and that one or two dots are in Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10065",
-        "N-10054"
+        "N-10062",
+        "N-10051"
       ],
       "tags": [
         "relevance:context"
@@ -3069,9 +3053,9 @@
         "A-1123.1"
       ],
       "related_nodes": [
-        "N-10065",
-        "N-10074",
-        "N-10080"
+        "N-10062",
+        "N-10071",
+        "N-10077"
       ],
       "tags": [
         "relevance:context"
@@ -3094,9 +3078,9 @@
       "claim": "The host says she received way too many emails about Charlie's memorial and all of them asked her specifically to confirm she was going, which she found inauthentic and suspected was a way to learn where she would be.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10057",
+        "N-10054",
         "N-10002",
-        "N-10070"
+        "N-10067"
       ],
       "tags": [
         "relevance:context"
@@ -3118,7 +3102,7 @@
         "A-1125.1"
       ],
       "related_nodes": [
-        "N-10059"
+        "N-10056"
       ],
       "tags": [
         "relevance:context"
@@ -3146,7 +3130,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10059"
+        "N-10056"
       ],
       "tags": [
         "relevance:context"
@@ -3179,7 +3163,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10059"
+        "N-10056"
       ],
       "tags": [
         "relevance:context"
@@ -3206,7 +3190,7 @@
         "A-1125.1"
       ],
       "related_nodes": [
-        "N-10057",
+        "N-10054",
         "N-10002"
       ],
       "tags": [
@@ -3234,7 +3218,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10059"
+        "N-10056"
       ],
       "tags": [
         "relevance:context"
@@ -3262,7 +3246,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10002",
-        "N-10057",
+        "N-10054",
         "N-10014"
       ],
       "tags": [
@@ -3283,7 +3267,7 @@
       "claim": "The host says her remarks on the TPUSA stage came especially since three months earlier she had been fired from the Daily Wire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [
         "relevance:context"
@@ -3305,7 +3289,7 @@
         "A-1130.1"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3326,8 +3310,8 @@
       "claim": "The host says she was told she was not allowed to speak at AmFest, and that the donors were making threats.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
-        "N-10047"
+        "N-10252",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3350,9 +3334,8 @@
       "claim": "The host says AIPAC is pushing the headlines about her and that the answer is implied by the people attacking her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083",
-        "N-10073",
-        "N-11227"
+        "N-10070",
+        "N-11143"
       ],
       "tags": [
         "relevance:context"
@@ -3376,7 +3359,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11004"
+        "N-10924"
       ],
       "tags": [
         "relevance:context"
@@ -3421,8 +3404,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11227",
-        "N-10047"
+        "N-11143",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3472,7 +3455,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3493,7 +3476,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3513,7 +3496,7 @@
       "claim": "The host says she has reached out to some journalists and is sharing the information with them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:context"
@@ -3535,7 +3518,7 @@
         "A-1129.2"
       ],
       "related_nodes": [
-        "N-10057"
+        "N-10054"
       ],
       "tags": [
         "relevance:core"
@@ -3563,7 +3546,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -3583,7 +3566,7 @@
       "claim": "The host says there is no question that Trump is occupied by Zionists and describes an occupied administration.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10081"
+        "N-10078"
       ],
       "tags": [
         "relevance:tangential"
@@ -3607,7 +3590,7 @@
       "claim": "The host says Charlie was very clear in his view that trying to pass speech laws, or labelling people antisemites for criticizing Netanyahu, would increase antisemitism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10079"
+        "N-10076"
       ],
       "tags": [
         "relevance:context"
@@ -3629,7 +3612,7 @@
       "claim": "The host says the feds are obviously lying and that she would say they were, at some level in a very big way, involved in the death of Charlie because they wanted a radical way to push through laws.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10079",
+        "N-10076",
         "N-10014"
       ],
       "tags": [
@@ -3653,8 +3636,8 @@
         "A-1127.1"
       ],
       "related_nodes": [
-        "N-10119",
-        "N-10071"
+        "N-10115",
+        "N-10068"
       ],
       "tags": [
         "relevance:context"
@@ -3678,7 +3661,7 @@
         "A-1127.1"
       ],
       "related_nodes": [
-        "N-10119"
+        "N-10115"
       ],
       "tags": [
         "relevance:context"
@@ -3700,7 +3683,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10119"
+        "N-10115"
       ],
       "tags": [
         "relevance:context"
@@ -3721,7 +3704,7 @@
       "claim": "The host says the donation demand is a shakedown like what was done to Kyrie Irving, who she says was told to donate to the Holocaust Museum.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10119"
+        "N-10115"
       ],
       "tags": [
         "relevance:tangential"
@@ -3743,8 +3726,8 @@
       "claim": "The host says Israel is pretty much taking over TikTok through a deal with investors, including a firm she first calls Silver Capital before saying it is not Silver Lake.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103",
-        "N-11096"
+        "N-11021",
+        "N-11014"
       ],
       "tags": [
         "relevance:tangential"
@@ -3764,8 +3747,8 @@
       "claim": "The host says TikTok was going pro-Palestine and that a bunch of hedge fund people who are pro-Israel then got involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103",
-        "N-11096"
+        "N-11021",
+        "N-11014"
       ],
       "tags": [
         "relevance:tangential"
@@ -3787,8 +3770,8 @@
         "A-1131.1"
       ],
       "related_nodes": [
-        "N-10077",
-        "N-11103"
+        "N-10074",
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3815,7 +3798,7 @@
         "A-1133.1"
       ],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -3837,7 +3820,7 @@
         "A-1133.1"
       ],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -3859,8 +3842,8 @@
         "A-1133.1"
       ],
       "related_nodes": [
-        "N-11318",
-        "N-10051"
+        "N-11234",
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -3883,7 +3866,7 @@
       "claim": "The host says viewers sent her information about weird things happening at a vacant house next door, which the locals believe is the real place the shooter went, and that she will cover it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10053"
+        "N-10050"
       ],
       "tags": [
         "relevance:core"
@@ -3907,7 +3890,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11368"
+        "N-11284"
       ],
       "tags": [
         "relevance:core"
@@ -3950,7 +3933,7 @@
       ],
       "related_nodes": [
         "N-10027",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"

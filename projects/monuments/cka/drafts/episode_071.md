@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-937, N-938, N-11391, N-11392, N-11393, N-11394, N-11395
-  - Hole-minted Nodes (reintro-ep071): N-10503, N-10674
-  - Tip-minted Nodes (reintro-ep071): N-803, N-804, N-11188
+  - Tip-minted Nodes (supplement_2026-10g): N-937, N-938, N-11307, N-11308, N-11309, N-11310, N-11311
+  - Hole-minted Nodes (reintro-ep071): N-10464, N-10613
+  - Tip-minted Nodes (reintro-ep071): N-803, N-804, N-11104
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6315–C-6415
-  - New Nodes Introduced:  N-551, N-552, N-553, N-554, N-10497, N-10498, N-10499, N-10500
-  - Reused Nodes Appearing: N-5, N-22, N-36, N-49, N-55, N-97, N-99, N-116, N-361, N-364, N-523, N-10000, N-10016, N-10018, N-10027, N-10134, N-10209, N-10326, N-10342, N-10345, N-10367, N-10372, N-10378, N-10412, N-10435, N-10446, N-10456, N-10486, N-10495, N-10510, N-10539, N-10911, N-11079, N-11080, N-11165, N-11235, N-11283
+  - New Nodes Introduced:  N-551, N-552, N-553, N-554, N-10459, N-10460, N-10461
+  - Reused Nodes Appearing: N-5, N-22, N-36, N-49, N-55, N-97, N-99, N-116, N-361, N-364, N-523, N-10000, N-10016, N-10018, N-10027, N-10129, N-10201, N-10305, N-10320, N-10323, N-10342, N-10346, N-10351, N-10385, N-10390, N-10415, N-10425, N-10451, N-10458, N-10470, N-10494, N-10832, N-10997, N-10998, N-11081, N-11151, N-11199
   - (see registers), N-11
 
 ## 6. Meme Register
@@ -193,7 +193,7 @@ Artifact Families Introduced: A-1750, A-1751, A-1752, A-1753, A-1754, A-1755, A-
 
 Claim Range: C-6316–C-6404
 
-New Nodes Introduced:  N-551, N-552, N-553, N-554, N-10497, N-10498, N-10499, N-10500
+New Nodes Introduced:  N-551, N-552, N-553, N-554, N-10459, N-10460, N-10470, N-10461
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6325, N-10499*
+*Related: C-6325, N-10470*
 
 **A-1753** Top YouTube Live Streams Reference Bundle
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:11:41–00:12:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6327, C-6328, N-10499*
+*Related: C-6327, C-6328, N-10470*
 
 **A-1754** Erika Kirk Widow Address Video Bundle
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:16:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6332, N-10499*
+*Related: C-6332, N-10470*
 
 **A-1757** Thomas Martin Online Profiles Bundle
 
@@ -305,7 +305,7 @@ Video Timestamp: 00:20:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6346, N-551, N-10497*
+*Related: C-6346, N-551, N-10459*
 
 **A-1757.2** Thomas Martin ZoomInfo Listing (Deputy Chief Patrol Agent, DHS)
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:22:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6349, N-551, N-10497*
+*Related: C-6349, N-551, N-10459*
 
 **A-1758** 1985 Times Union Article Bundle
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:22:02–00:24:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6350, C-6351, N-551, N-10497*
+*Related: C-6350, C-6351, N-551, N-10459*
 
 **A-1759** Tracy Martin Text Messages Bundle
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6356, C-6357, N-544, N-552, N-10498*
+*Related: C-6356, C-6357, N-544, N-552, N-10460*
 
 **A-1760** Religious Liberty Commission Hearing Bundle
 
@@ -351,7 +351,7 @@ Video Timestamp: 00:30:34–00:40:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6365, C-6376, C-6381, C-6382, N-553, N-10500*
+*Related: C-6365, C-6376, C-6381, C-6382, N-553, N-10461*
 
 **A-1760.2** Carrie Prejean Boller Questioning of Seth Dillon at Religious Liberty Commission Hearing
 
@@ -373,7 +373,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6335, N-10499, N-11*
+*Related: C-6335, N-10470, N-11*
 
 **A-1762** Comments Section Read Bundle
 
@@ -398,7 +398,7 @@ Video Timestamp: 00:16:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6334, N-10499, N-99*
+*Related: C-6334, N-10470, N-99*
 
 ---
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:18:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6338, C-6339, C-6340, N-10326, N-10367, N-10372, N-10435, N-11283, N-2, N-361, N-364*
+*Related: C-6338, C-6339, C-6340, N-10305, N-10342, N-10346, N-10390, N-11199, N-2, N-361, N-364*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:20:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6345, N-10497, N-544, N-551*
+*Related: C-6345, N-10459, N-544, N-551*
 
 ---
 
@@ -439,7 +439,7 @@ Video Timestamp: 00:24:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6354, N-10497, N-551*
+*Related: C-6354, N-10459, N-551*
 
 ---
 
@@ -452,7 +452,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6358, N-10498, N-10503, N-2, N-544, N-552*
+*Related: C-6358, N-10460, N-10464, N-2, N-544, N-552*
 
 ---
 
@@ -465,7 +465,7 @@ Video Timestamp: 00:28:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6359, C-6360, C-6361, C-6363, C-6364, N-1, N-10412, N-10539, N-10674, N-11079, N-2, N-36, N-5*
+*Related: C-6359, C-6360, C-6361, C-6363, C-6364, N-1, N-10385, N-10494, N-10613, N-10997, N-2, N-36, N-5*
 
 ---
 
@@ -478,7 +478,7 @@ Video Timestamp: 00:36:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6388, C-6389, N-1, N-10016, N-10345, N-3, N-38*
+*Related: C-6388, C-6389, N-1, N-10016, N-10323, N-3, N-38*
 
 ---
 
@@ -491,7 +491,7 @@ Video Timestamp: 00:49:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6409, C-6410, N-1, N-2, N-3, N-11394*
+*Related: C-6409, C-6410, N-1, N-2, N-3, N-11310*
 
 ---
 
@@ -504,7 +504,7 @@ Video Timestamp: 00:50:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6411, C-6413, C-6414, N-1, N-3, N-11395*
+*Related: C-6411, C-6413, C-6414, N-1, N-3, N-11311*
 
 ---
 
@@ -519,7 +519,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6415, N-10497, N-551, N-938*
+*Related: C-6415, N-10459, N-551, N-938*
 
 ---
 
@@ -534,7 +534,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1759.1, C-6356, C-6357, N-551, N-552, N-10497, N-10498*
+*Related: A-1759.1, C-6356, C-6357, N-551, N-552, N-10459, N-10460*
 
 **N-551** Thomas Martin (Tucson Border Patrol Director)
 
@@ -545,7 +545,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-6346, C-6349, C-6350, C-6351, N-544, N-10497*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-6346, C-6349, C-6350, C-6351, N-544, N-10459*
 
 **N-552** Tracy Martin's Daughter (Unnamed)
 
@@ -556,7 +556,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-6356, C-6357, N-544, N-2, N-10498*
+*Related: A-1759.1, C-6356, C-6357, N-544, N-2, N-10460*
 
 **N-553** Carrie Prejean Boller
 
@@ -580,7 +580,7 @@ Investigative Pressure: Low
 
 *Related: A-1750.1, A-1751.1, C-6322, C-6323, C-6324*
 
-**N-10497** Thomas Martin Identity Verification
+**N-10459** Thomas Martin Identity Verification
 
 Open question: Is the Thomas Martin identified as Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson (since at least 1985) the same person as Tracy Martin's husband Thomas Martin?
 
@@ -591,7 +591,7 @@ Investigative Pressure: High
 
 *Related: A-1757.1, A-1757.2, A-1758.1, C-6346, C-6349, C-6350, C-6351, N-544, N-551*
 
-**N-10498** Tracy's Daughter Erika Assistant Status Verification
+**N-10460** Tracy's Daughter Erika Assistant Status Verification
 
 Open question: Is Tracy Martin's daughter actually Erika Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?
 
@@ -602,18 +602,7 @@ Investigative Pressure: High
 
 *Related: A-1759.1, C-6356, C-6357, N-544, N-552, N-2*
 
-**N-10499** TPUSA Halftime Viewership Authenticity
-
-Investigative target: The discrepancy between Andrew Kolvet's claimed TPUSA halftime viewership metrics (6M–20M+ concurrent) and the YouTube screenshot metrics (5,839 views / 175 comments / 667,000 likes), plus the comment-to-view ratio anomaly.
-
-Evidence Count: 4
-Claim Count: 6
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1751.1, A-1752.1, A-1753.1, A-1756.1, A-1761.1, C-6322, C-6323, C-6324, C-6325, C-6332, C-6335*
-
-**N-10500** Hamptons Meeting Characterization Evolution
+**N-10461** Hamptons Meeting Characterization Evolution
 
 Investigative target: Evolution in Seth Dillon's characterization of the Hamptons meeting, from prior "spirited debate" framing to current on-the-record admission of "heated" debate about Israel.
 
@@ -819,7 +808,7 @@ Place of the August 2025 retreat.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 The retreat itself, its attendees and format.
 
@@ -827,7 +816,7 @@ The retreat itself, its attendees and format.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Topic area touching the host's Christian Zionism criticism.
 
@@ -835,7 +824,7 @@ Topic area touching the host's Christian Zionism criticism.
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Meeting alleged at Fort Huachuca.
 
@@ -843,7 +832,7 @@ Meeting alleged at Fort Huachuca.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Topic of the alleged offer to take TPUSA to the next level.
 
@@ -851,7 +840,7 @@ Topic of the alleged offer to take TPUSA to the next level.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Dillon's role in the Hamptons confrontation.
 
@@ -859,7 +848,7 @@ Dillon's role in the Hamptons confrontation.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Snow's eyewitness encounter at the base.
 
@@ -867,7 +856,7 @@ Snow's eyewitness encounter at the base.
 
 ---
 
-**N-10372** Cabot Phillips Fort Huachuca Presence Verification
+**N-10346** Cabot Phillips Fort Huachuca Presence Verification
 
 Check on Phillips' presence at the base.
 
@@ -875,7 +864,7 @@ Check on Phillips' presence at the base.
 
 ---
 
-**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
+**N-10351** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Topic of the PR response to Snow.
 
@@ -883,7 +872,7 @@ Topic of the PR response to Snow.
 
 ---
 
-**N-10412** Erika Kirk June 19 Instagram Purge
+**N-10385** Erika Kirk June 19 Instagram Purge
 
 The 126-post deletion.
 
@@ -891,7 +880,7 @@ The 126-post deletion.
 
 ---
 
-**N-10435** Fort Huachuca Erika Kirk Location Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Where Erika was at Fort Huachuca.
 
@@ -899,7 +888,7 @@ Where Erika was at Fort Huachuca.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Conflicting accounts of the funding offer.
 
@@ -907,7 +896,7 @@ Conflicting accounts of the funding offer.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Topic of Kirk declining to host Netanyahu.
 
@@ -915,7 +904,7 @@ Topic of Kirk declining to host Netanyahu.
 
 ---
 
-**N-10486** Tracy Martin Background and Husband Verification
+**N-10451** Tracy Martin Background and Husband Verification
 
 Verification topic on Tracy Martin and her husband.
 
@@ -923,7 +912,7 @@ Verification topic on Tracy Martin and her husband.
 
 ---
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
 Allegation of a Netanyahu call/presence during the Hamptons.
 
@@ -931,7 +920,7 @@ Allegation of a Netanyahu call/presence during the Hamptons.
 
 ---
 
-**N-10503** Erika Kirk September 10 Assistant Pull-Back Investigation
+**N-10464** Erika Kirk September 10 Assistant Pull-Back Investigation
 
 Investigation of the assistant being kept from the event.
 
@@ -939,7 +928,7 @@ Investigation of the assistant being kept from the event.
 
 ---
 
-**N-10510** TPUSA All-American Halftime Show Authenticity Question
+**N-10470** TPUSA All-American Halftime Show Authenticity Question
 
 Authenticity question on the TPUSA show.
 
@@ -947,7 +936,7 @@ Authenticity question on the TPUSA show.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Kirk's June 2025 stance on Iran.
 
@@ -955,7 +944,7 @@ Kirk's June 2025 stance on Iran.
 
 ---
 
-**N-10674** June 18 White House Meeting on Iran Involvement
+**N-10613** June 18 White House Meeting on Iran Involvement
 
 The alleged June 18 meeting.
 
@@ -963,7 +952,7 @@ The alleged June 18 meeting.
 
 ---
 
-**N-10911** Department of Homeland Security
+**N-10832** Department of Homeland Security
 
 Agency named in the contract and border patrol claims.
 
@@ -971,7 +960,7 @@ Agency named in the contract and border patrol claims.
 
 ---
 
-**N-11079** Operation Midnight Hammer
+**N-10997** Operation Midnight Hammer
 
 The June 2025 strikes on Iran.
 
@@ -979,7 +968,7 @@ The June 2025 strikes on Iran.
 
 ---
 
-**N-11080** Student Action Summit July 2025 (Tampa)
+**N-10998** Student Action Summit July 2025 (Tampa)
 
 Event where Tucker Carlson spoke.
 
@@ -987,7 +976,7 @@ Event where Tucker Carlson spoke.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Organization named with Tracy Martin.
 
@@ -995,7 +984,7 @@ Organization named with Tracy Martin.
 
 ---
 
-**N-11188** White House Religious Liberty Commission
+**N-11104** White House Religious Liberty Commission
 
 Body that held the hearing.
 
@@ -1003,7 +992,7 @@ Body that held the hearing.
 
 ---
 
-**N-11235** Female Jewish Donor Confrontation of Kirk After Tucker Speech
+**N-11151** Female Jewish Donor Confrontation of Kirk After Tucker Speech
 
 Related to donors angry after the SAS speech.
 
@@ -1011,7 +1000,7 @@ Related to donors angry after the SAS speech.
 
 ---
 
-**N-11283** Joint Task Force Six and Joint Task Force Southern Border
+**N-11199** Joint Task Force Six and Joint Task Force Southern Border
 
 Unit Snow said he encountered.
 
@@ -1035,7 +1024,7 @@ First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in
 
 ---
 
-**N-11391** National Football League (NFL)
+**N-11307** National Football League (NFL)
 
 Node Type: Organization
 League that, per the host, partnered with Jay-Z to book the Super Bowl halftime show.
@@ -1044,7 +1033,7 @@ League that, per the host, partnered with Jay-Z to book the Super Bowl halftime 
 
 ---
 
-**N-11392** 2026 Super Bowl Halftime Show (Bad Bunny)
+**N-11308** 2026 Super Bowl Halftime Show (Bad Bunny)
 
 Node Type: Topic
 The NFL halftime performance headlined by Bad Bunny, its booking, and the counter-programmed TPUSA show.
@@ -1053,7 +1042,7 @@ The NFL halftime performance headlined by Bad Bunny, its booking, and the counte
 
 ---
 
-**N-11393** 1985 Tucson Sanctuary Movement Trial
+**N-11309** 1985 Tucson Sanctuary Movement Trial
 
 Node Type: Topic
 The 1985 trial in Tucson of church workers charged with concealing illegal aliens, as described in the Times Union article the host reads.
@@ -1062,7 +1051,7 @@ The 1985 trial in Tucson of church workers charged with concealing illegal alien
 
 ---
 
-**N-11394** Street Light Interference
+**N-11310** Street Light Interference
 
 Node Type: Topic
 The claimed phenomenon of street lights turning off or flickering when a person approaches, which the host cites in support of her and Erika's accounts of lights going out around Charlie.
@@ -1071,7 +1060,7 @@ The claimed phenomenon of street lights turning off or flickering when a person 
 
 ---
 
-**N-11395** Charlie Kirk Third Eye Conversation (2018)
+**N-11311** Charlie Kirk Third Eye Conversation (2018)
 
 Node Type: Topic
 The host's 2018 written exchange with Charlie Kirk about his third eye and what she thinks it led to.
@@ -1104,7 +1093,7 @@ Claim: The host says Andrew Kolvet claimed the TPUSA halftime show drew 6 millio
 Anchored Artifacts: A-1751.1
 Mentions: N-14
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data.
 
@@ -1119,7 +1108,7 @@ Claim: Andrew Kolvet stated TPUSA saw "over 10 million concurrent views" across 
 Anchored Artifacts: A-1751.1
 Mentions: N-14
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube.
 
@@ -1134,7 +1123,7 @@ Claim: Andrew Kolvet stated TPUSA had "over 20 million viewers across just socia
 Anchored Artifacts: A-1751.1
 Mentions: N-14
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Verify the 20M aggregate figure against partner broadcaster analytics if/when released.
 
@@ -1148,7 +1137,7 @@ Claim: The host shows a YouTube screenshot of the TPUSA halftime show page that 
 
 Anchored Artifacts: A-1752.1
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Archive the YouTube page and timestamp the screenshot for ratio analysis.
 
@@ -1162,7 +1151,7 @@ Claim: Per the displayed reference list, an Indian moon mission event held the t
 
 Anchored Artifacts: A-1753.1
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Verify the 8M figure against YouTube's official records or contemporaneous reporting.
 
@@ -1176,7 +1165,7 @@ Claim: Per the displayed reference list, the 2022 World Cup Brazil vs Croatia ma
 
 Anchored Artifacts: A-1753.1
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Verify the 6.1M figure against YouTube's official records or contemporaneous reporting.
 
@@ -1218,7 +1207,7 @@ Claim: The host says the TPUSA halftime show YouTube page has over 20 million vi
 
 Anchored Artifacts: A-1756.1
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Re-check current YouTube view and comment counts; compute ratio comparison against authentic videos of similar scale.
 
@@ -1233,7 +1222,7 @@ Claim: Per a LinkedIn link the host shows, Thomas Martin is listed as Director, 
 Anchored Artifacts: A-1757.1
 Mentions: N-551
 
-Related Nodes: N-10497
+Related Nodes: N-10459
 
 Investigative Direction: Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.
 
@@ -1248,7 +1237,7 @@ Claim: Per a ZoomInfo listing the host shows, Thomas Martin is Deputy Chief Patr
 Anchored Artifacts: A-1757.2
 Mentions: N-551
 
-Related Nodes: N-10497
+Related Nodes: N-10459
 
 Investigative Direction: Retrieve ZoomInfo archive; cross-check federal personnel records.
 
@@ -1263,7 +1252,7 @@ Claim: A 1985 Times Union article identifies agent Thomas Martin of the Border P
 Anchored Artifacts: A-1758.1
 Mentions: N-551
 
-Related Nodes: N-10497
+Related Nodes: N-10459
 
 Investigative Direction: Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.
 
@@ -1278,7 +1267,7 @@ Claim: The host says that, in the 1985 article, Thomas Martin is quoted writing 
 Anchored Artifacts: A-1758.1
 Mentions: N-551
 
-Related Nodes: N-10497
+Related Nodes: N-10459
 
 Investigative Direction: Obtain full text and verify direct quote attribution.
 
@@ -1293,7 +1282,7 @@ Claim: The host says that, per text messages from September 11 she says she has,
 Anchored Artifacts: A-1759.1
 Mentions: N-2, N-544, N-552
 
-Related Nodes: N-10498
+Related Nodes: N-10460
 
 Investigative Direction: Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.
 
@@ -1308,7 +1297,7 @@ Claim: Per text messages from September 11th that the host says she has, Tracy M
 Anchored Artifacts: A-1759.1
 Mentions: N-544, N-552
 
-Related Nodes: N-10498
+Related Nodes: N-10460
 
 Investigative Direction: Authenticate text messages; cross-reference with daughter's subsequent statements or activities.
 
@@ -1323,7 +1312,7 @@ Claim: Seth Dillon testified at a Religious Liberty Commission hearing on antise
 Anchored Artifacts: A-1760.1
 Mentions: N-38
 
-Related Nodes: N-10500
+Related Nodes: N-10461
 
 Investigative Direction: Obtain official hearing transcript or recording.
 
@@ -1338,7 +1327,7 @@ Claim: In a clip the host plays, Seth Dillon says the Hamptons retreat had a 'sa
 Anchored Artifacts: A-1760.1
 Mentions: N-38, N-1
 
-Related Nodes: N-10500
+Related Nodes: N-10461
 
 Investigative Direction: Cross-reference with prior Hamptons participants' public statements and any contemporaneous notes.
 
@@ -1353,7 +1342,7 @@ Claim: In a clip the host plays, Seth Dillon says the Hamptons meeting included 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
 
-Related Nodes: N-10500
+Related Nodes: N-10461
 
 Investigative Direction: Compare admission against earlier public statements by Hamptons participants and Charlie Kirk's own descriptions.
 
@@ -1368,7 +1357,7 @@ Claim: Seth Dillon claimed Charlie Kirk himself initiated the Israel discussion 
 Anchored Artifacts: A-1760.1
 Mentions: N-1, N-38
 
-Related Nodes: N-10500
+Related Nodes: N-10461
 
 Investigative Direction: Cross-reference with Charlie Kirk's own public statements about the Hamptons meeting.
 
@@ -1383,7 +1372,7 @@ Claim: The host says Carrie Prejean Boller questioned Seth Dillon at the Religio
 Anchored Artifacts: A-1760.2
 Mentions: N-553, N-38
 
-Related Nodes: N-10500
+Related Nodes: N-10461
 
 Investigative Direction: Obtain full hearing transcript.
 
@@ -1398,7 +1387,7 @@ Claim: Tyler Bowyer tweeted that TPUSA ended up with "one of the largest YouTube
 Anchored Artifacts: A-1761.1
 Mentions: N-11
 
-Related Nodes: N-10499
+Related Nodes: N-10470
 
 Investigative Direction: Archive the original tweet and any associated image; verify whether it remains public.
 
@@ -1456,7 +1445,7 @@ Transcript Snippet: Actually, I looked into it. The person that controls who get
 
 Anchored Artifacts: 
 Mentions: N-523, N-804
-Related Nodes: N-11391, N-11392
+Related Nodes: N-11307, N-11308
 Tags: relevance:tangential
 Investigative Direction: NFL or Roc Nation announcements and reporting on who selected the 2026 halftime performer.
 
@@ -1472,7 +1461,7 @@ Transcript Snippet: Turning Point USA announced that they would produce an alter
 
 Anchored Artifacts: 
 Mentions: N-5, N-804
-Related Nodes: N-10000, N-10510, N-11392
+Related Nodes: N-10000, N-10470, N-11308
 Tags: relevance:context
 Investigative Direction: TPUSA announcement of the alternative show and the Trump post, with dates.
 
@@ -1488,7 +1477,7 @@ Transcript Snippet: Now, Bad Bunny did not in fact wear a dress at the Super Bow
 
 Anchored Artifacts: 
 Mentions: N-804
-Related Nodes: N-11392
+Related Nodes: N-11308
 Tags: relevance:tangential
 Investigative Direction: Broadcast footage of the halftime performance.
 
@@ -1503,7 +1492,7 @@ Claim: The host says the viewership figures mean the political lines drawn by Tu
 Transcript Snippet: This means uh that the I would say unnecessary Super Bowl political lines that were drawn by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership.
 
 Anchored Artifacts: A-1750.1
-Related Nodes: N-10000, N-10510, N-11391
+Related Nodes: N-10000, N-10470, N-11307
 Supports: C-6316
 Tags: relevance:context
 Investigative Direction: Nielsen's final halftime and game figures compared with TPUSA's claimed audience.
@@ -1520,7 +1509,7 @@ Transcript Snippet: Now, we should be clear, it was a pre-record, okay? So, Bad 
 
 Anchored Artifacts: 
 Mentions: N-804
-Related Nodes: N-10000, N-10510
+Related Nodes: N-10000, N-10470
 Tags: relevance:context
 Investigative Direction: TPUSA production schedule and the show's recording date.
 
@@ -1536,7 +1525,7 @@ Transcript Snippet: I'm going to park aside the artists who actually performed. 
 
 Anchored Artifacts: 
 Mentions: N-803, N-937
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:tangential
 Investigative Direction: Official TPUSA show lineup.
 
@@ -1552,7 +1541,7 @@ Transcript Snippet: We have 95,000 people that are watching this show. As soon a
 
 Anchored Artifacts: A-1752.1
 Mentions: N-3
-Related Nodes: N-10499
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: The episode's own concurrent and final view counts after the stream ended, compared with the TPUSA page.
 
@@ -1568,7 +1557,7 @@ Transcript Snippet: Turning Point wants you to believe that they're number two n
 
 Anchored Artifacts: A-1753.1
 Mentions: N-14
-Related Nodes: N-10499
+Related Nodes: N-10470
 Supports: C-6322
 Tags: relevance:context
 Investigative Direction: YouTube's all-time peak concurrent viewership rankings and any TPUSA entry.
@@ -1585,7 +1574,7 @@ Transcript Snippet: It is to me so reminiscent of everything Tucker said when he
 
 Anchored Artifacts: 
 Mentions: N-22
-Related Nodes: N-11080, N-11235
+Related Nodes: N-10998, N-11151
 Tags: relevance:context
 Investigative Direction: Video of Tucker Carlson's Student Action Summit July 2025 remarks and reactions from donors present.
 
@@ -1601,7 +1590,7 @@ Transcript Snippet: Alex Clark shamelessly tweeting everyone said we were over. 
 
 Anchored Artifacts: A-3312.1
 Mentions: N-99
-Related Nodes: N-10499
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Alex Clark's X post and its attached figure, with timestamp.
 
@@ -1617,7 +1606,7 @@ Transcript Snippet: he shows something he probably likes if I'm guessing um this
 
 Anchored Artifacts: A-1761.1
 Mentions: N-11, N-804
-Related Nodes: N-10499
+Related Nodes: N-10470
 Supports: C-6335
 Tags: relevance:context
 Investigative Direction: Archive of Bowyer's original post and the attached media.
@@ -1634,7 +1623,7 @@ Transcript Snippet: You will recall that Mitch Snow, the man who had to deal wit
 
 Anchored Artifacts: 
 Mentions: N-361, N-14, N-2
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Public statements by TPUSA or Kolvet about Snow's credibility and any coordinated posts.
 
@@ -1650,7 +1639,7 @@ Transcript Snippet: He was certain, and I want to be clear, he also hasn't moved
 
 Anchored Artifacts: A-3313.1
 Mentions: N-361, N-2, N-364
-Related Nodes: N-10367, N-10372, N-10435
+Related Nodes: N-10342, N-10346, N-10390
 Tags: relevance:core
 Investigative Direction: Hotel and base access records for September 8, 2025 and Snow's original account.
 
@@ -1666,7 +1655,7 @@ Transcript Snippet: he claims that he stumbled upon what appeared to him to be t
 
 Anchored Artifacts: A-3313.1
 Mentions: N-361
-Related Nodes: N-11283, N-10367, N-10326
+Related Nodes: N-11199, N-10342, N-10305
 Tags: relevance:core
 Investigative Direction: Fort Huachuca building-use records and JTF Southern Border schedules for September 8-9, 2025.
 
@@ -1682,7 +1671,7 @@ Transcript Snippet: He saw a guy wearing the JTF thing. I think he said it was J
 
 Anchored Artifacts: A-3313.1
 Mentions: N-361
-Related Nodes: N-11283, N-10367
+Related Nodes: N-11199, N-10342
 Tags: relevance:core
 Investigative Direction: Snow's detailed account and the unit's official status and location.
 
@@ -1697,7 +1686,7 @@ Claim: The host says the joint task force was initially formed in Tucson, Arizon
 Transcript Snippet: And you should know that the that joint task force initially was formed in Tucson, Arizona.
 
 Anchored Artifacts: 
-Related Nodes: N-11283
+Related Nodes: N-11199
 Tags: relevance:context
 Investigative Direction: Official history of Joint Task Force Six and Joint Task Force Southern Border.
 
@@ -1713,7 +1702,7 @@ Transcript Snippet: Remember, Tracy Martin is Erika's best friend for over 15 ye
 
 Anchored Artifacts: 
 Mentions: N-544, N-2
-Related Nodes: N-10486
+Related Nodes: N-10451
 Tags: relevance:context
 Investigative Direction: Public photos, posts and statements showing the friendship and its length.
 
@@ -1729,7 +1718,7 @@ Transcript Snippet: They've done everything together. Tracy says Romanian Angels
 
 Anchored Artifacts: 
 Mentions: N-544, N-2
-Related Nodes: N-11165, N-10486
+Related Nodes: N-11081, N-10451
 Tags: relevance:context
 Investigative Direction: Tracy Martin's brand pages and Romanian Angels materials showing Erika's involvement.
 
@@ -1745,7 +1734,7 @@ Transcript Snippet: He's got quite a build. He looks kind of military-esque to m
 
 Anchored Artifacts: 
 Mentions: N-544
-Related Nodes: N-10497, N-10486
+Related Nodes: N-10459, N-10451
 Tags: relevance:tangential
 Investigative Direction: Business registrations for the Martins' gyms.
 
@@ -1761,7 +1750,7 @@ Transcript Snippet: There is a director of US Border Patrol, also chief of staff
 
 Anchored Artifacts: A-3314.1
 Mentions: N-551, N-544
-Related Nodes: N-10497
+Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Federal personnel directories or CBP press releases naming a Thomas Martin in that role; any link to Tracy Martin's husband.
 
@@ -1777,7 +1766,7 @@ Transcript Snippet: this particular Thomas Martin has gone through great lengths
 
 Anchored Artifacts: A-1757.1
 Mentions: N-551
-Related Nodes: N-10497
+Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Web archive snapshots of the LinkedIn profile and other listings, with dates.
 
@@ -1793,7 +1782,7 @@ Transcript Snippet: The Department of Homeland Security for which we know Erika 
 
 Anchored Artifacts: A-1757.2
 Mentions: N-2
-Related Nodes: N-10911, N-10497
+Related Nodes: N-10832, N-10459
 Tags: relevance:context
 Investigative Direction: Federal contract databases (USAspending, SAM.gov) for the mother's company.
 
@@ -1808,7 +1797,7 @@ Claim: The host reads from the 1985 Times Union article that Southside Presbyter
 Transcript Snippet: Southside Presbyterian Church, two Roman Catholic priests, a nun, and si six church lay workers were all going on trial in Tucson for concealing illegal aliens.
 
 Anchored Artifacts: A-1758.1
-Related Nodes: N-11393, N-551
+Related Nodes: N-11309, N-551
 Tags: relevance:tangential
 Investigative Direction: Full text of the Times Union article of October 21, 1985 and court records of the sanctuary trial.
 
@@ -1824,7 +1813,7 @@ Transcript Snippet: Martin. That is not the same Thomas Martin that has been in 
 
 Anchored Artifacts: 
 Mentions: N-551, N-938
-Related Nodes: N-10497
+Related Nodes: N-10459
 Tags: relevance:context
 Investigative Direction: Border Patrol assignment records distinguishing the two men.
 
@@ -1840,7 +1829,7 @@ Transcript Snippet: Please do send us tips to uh tips uh more tips, pardon, cano
 
 Anchored Artifacts: A-3315.1
 Mentions: N-551
-Related Nodes: N-10497
+Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin's career and colleagues.
 
@@ -1856,7 +1845,7 @@ Transcript Snippet: we know that he's been living in the Tucson area for decades
 
 Anchored Artifacts: 
 Mentions: N-551
-Related Nodes: N-10497
+Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: The 2011 record the host cites and any later Southern Command roster entries.
 
@@ -1872,7 +1861,7 @@ Transcript Snippet: This is shocking that Tracy's daughter is actually Erika's a
 
 Anchored Artifacts: A-3316.1
 Mentions: N-544, N-552, N-2
-Related Nodes: N-10498, N-10503
+Related Nodes: N-10460, N-10464
 Tags: relevance:core
 Investigative Direction: TPUSA or Erika Kirk staff listings, event credentials or employment records for the daughter.
 
@@ -1888,7 +1877,7 @@ Transcript Snippet: on June 19th, Erika purged her Instagram of a lot of picture
 
 Anchored Artifacts: A-3317.1
 Mentions: N-2
-Related Nodes: N-10412
+Related Nodes: N-10385
 Tags: relevance:core
 Investigative Direction: Instagram archive captures before and after June 19, 2025 and post counts.
 
@@ -1904,7 +1893,7 @@ Transcript Snippet: I can now confirm that the date that Charlie went to the Whi
 
 Anchored Artifacts: A-3317.1
 Mentions: N-1, N-36
-Related Nodes: N-10674, N-10539
+Related Nodes: N-10613, N-10494
 Tags: relevance:context
 Investigative Direction: White House visitor logs and schedules for June 18, 2025 and contemporaneous reports of the meeting.
 
@@ -1920,7 +1909,7 @@ Transcript Snippet: he had convinced Trump that he should have uh just a limited
 
 Anchored Artifacts: A-3317.1
 Mentions: N-1, N-5
-Related Nodes: N-11079, N-10539
+Related Nodes: N-10997, N-10494
 Tags: relevance:context
 Investigative Direction: Reporting on Kirk's role in advising Trump before the June 2025 strikes.
 
@@ -1936,7 +1925,7 @@ Transcript Snippet: Tucker spoke about that. You can go find the clips of Tucker
 
 Anchored Artifacts: 
 Mentions: N-22, N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:context
 Investigative Direction: Specific Tucker Carlson broadcast clips where he recounts Kirk's Iran position.
 
@@ -1952,7 +1941,7 @@ Transcript Snippet: Obviously, Charlie's in there saying like the base is going 
 
 Anchored Artifacts: A-3317.1
 Mentions: N-1, N-5
-Related Nodes: N-10674, N-10539
+Related Nodes: N-10613, N-10494
 Tags: relevance:context
 Investigative Direction: Accounts from attendees of the June 18 meeting.
 
@@ -1968,7 +1957,7 @@ Transcript Snippet: That's June 18th. The very next day on June 19th, Erika purg
 
 Anchored Artifacts: A-3317.1
 Mentions: N-2, N-1
-Related Nodes: N-10412, N-10674
+Related Nodes: N-10385, N-10613
 Tags: relevance:core
 Investigative Direction: Date-stamped Instagram captures and the June 18 meeting record.
 
@@ -1999,7 +1988,7 @@ Claim: The host says the Hamptons participants all came out with clean, buttoned
 Transcript Snippet: They all came out and gave these clean buttoned up statements saying that wasn't true.
 
 Anchored Artifacts: 
-Related Nodes: N-10016, N-10500
+Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: The participants' statements and their dates.
 
@@ -2032,7 +2021,7 @@ Transcript Snippet: since he's under oath. When you testify, you're actually und
 
 Anchored Artifacts: A-1760.2
 Mentions: N-38, N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Commission rules on witness oaths and the hearing record.
 
@@ -2048,7 +2037,7 @@ Transcript Snippet: First and foremost, she presses him because he was also one 
 
 Anchored Artifacts: A-1760.2
 Mentions: N-553, N-38
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Dillon's public statements on the phrase 'Christ is King'.
 
@@ -2064,7 +2053,7 @@ Transcript Snippet: if they just say it Christ is king? Like >> it could be. You
 
 Anchored Artifacts: A-1760.2
 Mentions: N-38, N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Official hearing video at the stated moment.
 
@@ -2080,7 +2069,7 @@ Transcript Snippet: your friend Ben fired her because she said Christ is king. >
 
 Anchored Artifacts: A-1760.2
 Mentions: N-553, N-97, N-3, N-38
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Hearing video and the circumstances of Owens' departure from the Daily Wire.
 
@@ -2096,7 +2085,7 @@ Transcript Snippet: >> Oh yes, because she said way worse than that. Okay, let's
 
 Anchored Artifacts: A-1760.2
 Mentions: N-38, N-3
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Hearing video and the statements by Owens the witness refers to.
 
@@ -2112,7 +2101,7 @@ Transcript Snippet: And he's like, "No, she now says outwardly how what she thin
 
 Anchored Artifacts: A-1760.1
 Mentions: N-3, N-38
-Related Nodes: N-10209
+Related Nodes: N-10201
 Tags: relevance:context
 Investigative Direction: Host's own prior statements distinguishing Zionists from Jews.
 
@@ -2128,7 +2117,7 @@ Transcript Snippet: The Hampton's meeting was a retreat called by Charlie.
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38, N-1
-Related Nodes: N-10134, N-10027
+Related Nodes: N-10129, N-10027
 Tags: relevance:core
 Investigative Direction: Invitations and organizer records for the August 2025 Hamptons retreat.
 
@@ -2144,7 +2133,7 @@ Transcript Snippet: The Hampton's uh retreat and that was the Hampton's retreat 
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
-Related Nodes: N-10016, N-10500
+Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: Kirk's own contemporaneous descriptions of the meeting versus Dillon's testimony.
 
@@ -2160,7 +2149,7 @@ Transcript Snippet: There were about 30 people there, handpicked and invited by 
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38, N-1
-Related Nodes: N-10134
+Related Nodes: N-10129
 Tags: relevance:core
 Investigative Direction: Attendee list and the invitation process.
 
@@ -2176,7 +2165,7 @@ Transcript Snippet: One of the things that I disagreed with him on was he said t
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38, N-1
-Related Nodes: N-10016, N-10500
+Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: Other attendees' accounts of Kirk's remarks on Israel and career consequences.
 
@@ -2208,7 +2197,7 @@ Transcript Snippet: but there were many people that came out and made statements
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
-Related Nodes: N-10016, N-10500
+Related Nodes: N-10016, N-10461
 Tags: relevance:core
 Investigative Direction: The statements by attendees, with names and dates.
 
@@ -2224,7 +2213,7 @@ Transcript Snippet: That's why someone tried to kill me and my family and got ar
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
-Related Nodes: N-10345
+Related Nodes: N-10323
 Tags: relevance:context
 Investigative Direction: Texas court or police records of an arrest tied to threats against Dillon.
 
@@ -2240,7 +2229,7 @@ Transcript Snippet: She put my face on a movie poster for I know what you did la
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38, N-3, N-1
-Related Nodes: N-10345
+Related Nodes: N-10323
 Supports: C-2504
 Tags: relevance:context
 Investigative Direction: The host's earlier thumbnail and its context.
@@ -2257,7 +2246,7 @@ Transcript Snippet: She put my face on a thumbnail of I know what you did last s
 
 Anchored Artifacts: A-1760.1
 Mentions: N-3, N-38
-Related Nodes: N-10345
+Related Nodes: N-10323
 Tags: relevance:context
 Investigative Direction: The thumbnail and the episode it accompanied.
 
@@ -2290,7 +2279,7 @@ Transcript Snippet: And he felt he was being morally blackmailed because of what
 
 Anchored Artifacts: A-3318.1
 Mentions: N-1, N-38
-Related Nodes: N-10016, N-10345
+Related Nodes: N-10016, N-10323
 Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Kirk's statements naming who pressed him in the Hamptons.
@@ -2307,7 +2296,7 @@ Transcript Snippet: So first, Seth Dillon's perspective was it was just a nice l
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
-Related Nodes: N-10500, N-10016
+Related Nodes: N-10461, N-10016
 Supports: C-6381
 Tags: relevance:core
 Investigative Direction: Dillon's earlier public statements on the Hamptons meeting versus the hearing testimony.
@@ -2324,7 +2313,7 @@ Transcript Snippet: No one even wanted to touch the fact that BB Netanyahu calle
 
 Anchored Artifacts: 
 Mentions: N-36
-Related Nodes: N-10495, N-10018
+Related Nodes: N-10458, N-10018
 Supports: C-82
 Tags: relevance:core
 Investigative Direction: Phone records or eyewitness accounts of a Netanyahu call during the August 2025 Hamptons retreat.
@@ -2374,7 +2363,7 @@ Transcript Snippet: oh no, they told us Charlie never even flinched on Israel. N
 
 Anchored Artifacts: A-1760.1
 Mentions: N-1, N-38
-Related Nodes: N-10500
+Related Nodes: N-10461
 Tags: relevance:core
 Investigative Direction: Earlier statements by the participants about Kirk's position on Israel.
 
@@ -2390,7 +2379,7 @@ Transcript Snippet: I said that factually because I had eyewitness reports of ex
 
 Anchored Artifacts: 
 Mentions: N-1, N-36
-Related Nodes: N-10016, N-10495
+Related Nodes: N-10016, N-10458
 Tags: relevance:core
 Investigative Direction: The eyewitnesses' identities and accounts.
 
@@ -2406,7 +2395,7 @@ Transcript Snippet: Erika says he didn't offer to take Turning Point to the next
 
 Anchored Artifacts: 
 Mentions: N-2, N-36
-Related Nodes: N-10342, N-10446
+Related Nodes: N-10320, N-10415
 Tags: relevance:core
 Investigative Direction: Erika Kirk's own statement denying the offer, with date and venue.
 
@@ -2422,7 +2411,7 @@ Transcript Snippet: Andrew Kolvet says that he did offer to take Turning Point t
 
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-2
-Related Nodes: N-10342, N-10446
+Related Nodes: N-10320, N-10415
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Kolvet's on-air statement and its date.
@@ -2439,7 +2428,7 @@ Transcript Snippet: He didn't even want BB Netanyahu on his radio show. He was s
 
 Anchored Artifacts: 
 Mentions: N-1, N-36
-Related Nodes: N-10456
+Related Nodes: N-10425
 Tags: relevance:core
 Investigative Direction: Booking correspondence between Netanyahu's office and Kirk's show.
 
@@ -2564,7 +2553,7 @@ Claim: The host reads from a search result that the phenomenon of street lights 
 Transcript Snippet: is literally called street light interference which is a phenomenon a phenomenon where people claim that causes street lights to turn off or flicker upon approach
 
 Anchored Artifacts: A-3319.1
-Related Nodes: N-11394
+Related Nodes: N-11310
 Tags: relevance:tangential
 Investigative Direction: Scientific literature or reputable sources on the claimed phenomenon.
 
@@ -2580,7 +2569,7 @@ Transcript Snippet: Like, like Erika's telling the truth, I'm telling the truth.
 
 Anchored Artifacts: A-3319.1
 Mentions: N-1, N-2, N-3
-Related Nodes: N-11394
+Related Nodes: N-11310
 Supports: C-6408
 Tags: relevance:context
 Investigative Direction: Erika Kirk's Megyn Kelly interview clip and the host's earlier recollection.
@@ -2597,7 +2586,7 @@ Transcript Snippet: yes, Charlie spoke to me about his third eye and I have that
 
 Anchored Artifacts: A-3320.1
 Mentions: N-1, N-3
-Related Nodes: N-11395
+Related Nodes: N-11311
 Tags: relevance:context
 Investigative Direction: The 2018 message exchange between the host and Kirk.
 
@@ -2612,7 +2601,7 @@ Claim: The host says the government is trying to poison people's pineal glands a
 Transcript Snippet: you have like people uh the government that is trying to poison your pineal glands. That's a fact. If you look at fluoride, all that is very real.
 
 Anchored Artifacts: 
-Related Nodes: N-11395
+Related Nodes: N-11311
 Tags: relevance:tangential
 Investigative Direction: Peer-reviewed studies on fluoride and pineal gland calcification.
 
@@ -2628,7 +2617,7 @@ Transcript Snippet: my guess from what I discerned in the context of that conver
 
 Anchored Artifacts: A-3320.1
 Mentions: N-1, N-3
-Related Nodes: N-11395
+Related Nodes: N-11311
 Tags: relevance:context
 Investigative Direction: The coach's identity and Kirk's account of his conversion.
 
@@ -2644,7 +2633,7 @@ Transcript Snippet: I can show you those messages another time maybe tomorrow bu
 
 Anchored Artifacts: A-3320.1
 Mentions: N-1, N-3
-Related Nodes: N-11395
+Related Nodes: N-11311
 Tags: relevance:context
 Investigative Direction: The messages themselves, if later shown.
 
@@ -2660,7 +2649,7 @@ Transcript Snippet: Again, if you know anything about this particular Thomas Mar
 
 Anchored Artifacts: A-3321.1
 Mentions: N-551, N-938
-Related Nodes: N-10497
+Related Nodes: N-10459
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin.
 
@@ -2686,7 +2675,7 @@ Investigative Direction: Submitted tips on Thomas Martin.
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-544 onward)
-- [x] Non-person investigation targets use the 1000 series (N-10497 onward)
+- [x] Non-person investigation targets use the 1000 series (N-10459 onward)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent

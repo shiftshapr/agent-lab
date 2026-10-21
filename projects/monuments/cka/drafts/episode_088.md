@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-808, N-809
-  - Hole-minted Nodes (reintro-ep088): N-10594, N-10710, N-10729
-  - Tip-minted Nodes (reintro-ep088): N-10936, N-11135
+  - Hole-minted Nodes (reintro-ep088): N-10646, N-10663
+  - Tip-minted Nodes (reintro-ep088): N-10857, N-11053
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7866–C-7952
-  - New Nodes Introduced: N-10583, N-10584, N-10585, N-10586
-  - Reused Nodes Appearing: N-411, N-10582, N-9, N-15, N-36, N-40, N-47, N-69, N-186, N-190, N-217, N-237, N-330, N-361, N-410, N-484, N-485, N-489, N-10000, N-10006, N-10015, N-10023, N-10324, N-10338, N-10339, N-10340, N-10365, N-10431, N-10437, N-10471, N-10478, N-10479, N-10483, N-10516, N-10539, N-10573, N-10578, N-10649, N-10661, N-10664, N-10898, N-10905, N-10968, N-11129, N-418, N-10711, N-10975, N-11092, N-10620, N-11142
+  - New Nodes Introduced: N-10533, N-10534
+  - Reused Nodes Appearing: N-411, N-10440, N-9, N-15, N-36, N-40, N-47, N-69, N-186, N-190, N-217, N-237, N-330, N-361, N-410, N-484, N-485, N-489, N-10000, N-10006, N-10015, N-10023, N-10303, N-10214, N-10317, N-10318, N-10305, N-10401, N-10406, N-10445, N-10446, N-10449, N-10475, N-10494, N-10524, N-10529, N-11295, N-10603, N-10606, N-10819, N-10826, N-10889, N-11047, N-418, N-10647, N-10896, N-11010, N-10566, N-11060
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7871, N-10585*
+*Related: C-7871, N-10533*
 
 **A-1927.2** Reference attributing Navy O-6 reserve status to Ahmed Qureshi (via Baron Coleman)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7866, N-10585*
+*Related: C-7866, N-10533*
 
 **A-1927.3** Mitch Snow observation of a meeting concluding at Fort Huachuca the day before the event, with multiple O-6s present
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10585*
+*Related: N-10533*
 
 **A-1927.4** "Built" app description attributed to Ahmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7866, N-10585*
+*Related: C-7866, N-10533*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:11:54–00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host flags potential editing)
 
-*Related: C-7883, C-7880, C-7885, N-1, N-2, N-10583, N-10584*
+*Related: C-7883, C-7880, C-7885, N-1, N-2, N-10606, N-10406*
 
 **A-1928.2** TPUSA's use of audio-only (no video) version as Erika's walkout music at AmFest
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:11:11–00:11:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video played; audio presented)
 
-*Related: C-7883, N-2, N-10583*
+*Related: C-7883, N-2, N-10606*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:08:58–00:10:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7880, N-2, N-10583, N-10584*
+*Related: C-7880, N-2, N-10606, N-10406*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:35:35–00:35:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7906, N-2, N-10582*
+*Related: C-7906, N-2, N-10440*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:36:46–00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio); host flags jump cut
 
-*Related: C-7908, C-7917, N-2, N-10582*
+*Related: C-7908, C-7917, N-2, N-10440*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:16:55–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7889, N-2, N-10583*
+*Related: C-7889, N-2, N-10606*
 
 **A-1932.2** Blake Neff speech at Arizona State University defending Erika's CEO role and insisting Charlie repeatedly said "Erika will take over for me"
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:14:16–00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7887, N-2, N-10583*
+*Related: C-7887, N-2, N-10606*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:25:06–00:28:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7899, N-2, N-10582*
+*Related: C-7899, N-2, N-10440*
 
 ---
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:34:02–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not displayed)
 
-*Related: C-7903, N-2, N-10582*
+*Related: C-7903, N-2, N-10440*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:44:55–00:46:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7926, C-7927, N-10586*
+*Related: C-7926, C-7927, N-10534*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:19:47–00:20:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7896, N-2, N-10583*
+*Related: C-7896, N-2, N-10606*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:57:45–00:58:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced; not displayed)
 
-*Related: N-10584*
+*Related: N-10406*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:22:00–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-2, N-10583*
+*Related: N-2, N-10606*
 
 **A-1938.2** "Chewing the Void" top comment drawing JFK-model parallel
 
@@ -597,7 +597,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for new claims in this episode.
 
@@ -605,7 +605,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing topic reused for new claims in this episode.
 
@@ -613,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10339** Elizabeth McCoy Disappearance From Public Narrative
+**N-10317** Elizabeth McCoy Disappearance From Public Narrative
 
 Existing topic reused for new claims in this episode.
 
@@ -621,7 +621,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -629,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10365** Sept 9 Fort Huachuca Meeting Question
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -637,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10431** Aspen Donor Retreat "What Happens When You Die" Question
+**N-10401** Aspen Donor Retreat "What Happens When You Die" Question
 
 Existing topic reused for new claims in this episode.
 
@@ -645,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10437** Aspen Donor Recall Verification
+**N-10406** Aspen Donor Recall Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10471** Erika Kirk Sept 10 Alibi Verification
+**N-10440** Erika Kirk September 10 Whereabouts Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
+**N-10445** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -669,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question
+**N-10446** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 
 Existing topic reused for new claims in this episode.
 
@@ -677,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10483** Erika's Mother Medical Narrative
+**N-10449** Erika's Mother Medical Narrative
 
 Existing topic reused for new claims in this episode.
 
@@ -685,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10516** Erika Kirk Ohio Childhood Verification
+**N-10475** Erika Kirk Ohio Childhood Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -693,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -701,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10573** Timpanogos Hospital Evidence Question
+**N-10524** Timpanogos Hospital Evidence Question
 
 Existing topic reused for new claims in this episode.
 
@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10578** Decoy Subject Investigation (Qureshi/Qureshi)
+**N-10529** Decoy Subject Investigation (Qureshi/Qureshi)
 
 Existing topic reused for new claims in this episode.
 
@@ -717,15 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10594** Aspen Donor Inconsistency
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-7897*
-
----
-
-**N-10620** ATF Bullet Comparison Methodology
+**N-10566** ATF Bullet Comparison Methodology
 
 Existing topic reused for new claims in this episode.
 
@@ -733,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10649** Candace-Erika December 15 Private Meeting Revelations
+**N-11295** Candace-Erika December 15 Private Meeting Revelations
 
 Existing topic reused for new claims in this episode.
 
@@ -741,7 +733,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Existing topic reused for new claims in this episode.
 
@@ -749,7 +741,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -757,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10710** Bullet Jacket Fragment Diameter Discrepancy
+**N-10646** Bullet Jacket Fragment Diameter Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -765,7 +757,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10711** Tyler Robinson DNA Most Degraded Anomaly
+**N-10647** Tyler Robinson DNA Most Degraded Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -773,7 +765,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10729** 911 Call Identification Gap
+**N-10663** 911 Call Identification Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -781,7 +773,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10898** New York Post
+**N-10819** New York Post
 
 Existing topic reused for new claims in this episode.
 
@@ -789,7 +781,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing topic reused for new claims in this episode.
 
@@ -797,7 +789,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10936** Aspen CEO-Appointment Video Non-Release
+**N-10857** Aspen CEO-Appointment Video Non-Release
 
 Existing topic reused for new claims in this episode.
 
@@ -805,7 +797,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Existing topic reused for new claims in this episode.
 
@@ -813,7 +805,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Existing topic reused for new claims in this episode.
 
@@ -821,7 +813,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
+**N-11010** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Existing topic reused for new claims in this episode.
 
@@ -829,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11129** Freemasonry
+**N-11047** Freemasonry
 
 Existing topic reused for new claims in this episode.
 
@@ -837,7 +829,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11135** Bullet Fragment Chain-of-Custody Question
+**N-11053** Bullet Fragment Chain-of-Custody Question
 
 Existing topic reused for new claims in this episode.
 
@@ -845,7 +837,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11142** Zachariah Qureshi Detention and Release Question
+**N-11060** Zachariah Qureshi Detention and Release Question
 
 Existing topic reused for new claims in this episode.
 
@@ -880,40 +872,7 @@ First named by the host at 00:42:15 in episode 88.
 
 ### Investigation Targets
 
-**N-10582** Erika Kirk September 10 Whereabouts Verification
-
-Persistent inconsistency between the New York Times "hospital room at 11:23 a.m." account, Erika's Jesse Watters "mom's doctor's appointment" account (with apparent jump cut), and multiple witnesses placing Erika without her mother on Sept 10, 2025.
-
-Evidence Count: 6
-Claim Count: 5
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1930.1, A-1931.1, A-1933.1, A-1934.1, C-7906, C-7908, C-7899, C-7903, C-7917, N-2*
-
-**N-10583** Aspen Donor Audio Integrity Question
-
-Audio artifact released by TPUSA purporting to show Charlie naming Erika as successor shows apparent editing and has been released only as audio (no video); TPUSA publicly declined to release the corresponding video.
-
-Evidence Count: 5
-Claim Count: 5
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1928.1, A-1928.2, A-1929.1, A-1932.1, A-1932.2, A-1936.1, C-7883, C-7880, C-7887, C-7889, C-7896, N-2*
-
-**N-10584** Aspen Donor Event Memory Discrepancy
-
-3 of 4 attendees contacted by host investigation (one of whom was a couple) reportedly do not recall Charlie Kirk stating he wanted Erika to run TPUSA at the August 15–17, 2025 Aspen event.
-
-Evidence Count: 2
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1928.1, A-1929.1, A-1937.1, C-7880, C-7885, N-2*
-
-**N-10585** Qureshi Family Military / Fort Huachuca Connections
+**N-10533** Qureshi Family Military / Fort Huachuca Connections
 
 Pattern of Qureshi family members with military/intelligence training at Fort Huachuca and app-development ties plausibly relevant to mission planning for the Sept 10 event.
 
@@ -924,7 +883,7 @@ Investigative Pressure: Medium
 
 *Related: A-1927.1, A-1927.2, A-1927.3, A-1927.4, C-7871, C-7866*
 
-**N-10586** Pam Bondi Dismissal Context Question
+**N-10534** Pam Bondi Dismissal Context Question
 
 Cause and political context of Trump's firing of Pam Bondi; host reports alleged Eric Swalwell / Christine Fang tip-off as cause but presents no artifact for that claim in this episode.
 
@@ -946,7 +905,7 @@ Claim Timestamp: 00:02:40
 Claim: Per his LinkedIn profile as reported on the episode, Tour Qureshi trained at Fort Huachuca using reconnaissance drones.
 
 Anchored Artifacts: A-1927.1
-Related Nodes: N-10585
+Related Nodes: N-10533
 Investigative Direction: Preserve and verify Tour Qureshi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
 **C-7866** "BILT" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability
@@ -957,7 +916,7 @@ Claim: The "BILT" app co-founded by Ahmed Qureshi is reported to have the capabi
 
 Anchored Artifacts: A-1927.4
 Mentions: N-411
-Related Nodes: N-10585
+Related Nodes: N-10533
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
 **C-7883** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
@@ -968,7 +927,7 @@ Claim: The host says TPUSA used only the audio (not video) of the alleged Aspen 
 
 Anchored Artifacts: A-1928.2
 Mentions: N-2
-Related Nodes: N-10583
+Related Nodes: N-10606
 Investigative Direction: Obtain and review the AmFest event footage to confirm the audio-only nature of the walkout and trace the audio's source.
 
 **C-7880** Erika Kirk publicly claimed Charlie told Aspen donors he wanted her to take over TPUSA
@@ -979,7 +938,7 @@ Claim: On Megyn Kelly (Nov 24, 2025), Erika Kirk described a donor question at t
 
 Anchored Artifacts: A-1929.1
 Mentions: N-2, N-1, N-46
-Related Nodes: N-10583, N-10584
+Related Nodes: N-10606, N-10406
 Investigative Direction: Cross-reference Erika's Megyn Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
 **C-7906** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
@@ -990,7 +949,7 @@ Claim: The verbatim New York Times passage read on air stated Ms. Kirk was sitti
 
 Anchored Artifacts: A-1930.1
 Mentions: N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Investigative Direction: Retrieve the original NY Times article and verify the precise language used (hospital room vs. clinic vs. treatment center) and the timestamp.
 
 **C-7908** Erika Kirk told Jesse Watters she was at her mother's doctor's appointment when she got the news
@@ -1001,7 +960,7 @@ Claim: On Jesse Watters, Erika Kirk stated she was at her mom's doctor's appoint
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2, N-211, N-1
-Related Nodes: N-10582
+Related Nodes: N-10440
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
 **C-7887** Blake Neff publicly insisted Charlie repeatedly said he wanted Erika as his successor
@@ -1012,7 +971,7 @@ Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly sa
 
 Anchored Artifacts: A-1932.2
 Mentions: N-2, N-159, N-1
-Related Nodes: N-10583
+Related Nodes: N-10606
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
 **C-7889** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
@@ -1023,7 +982,7 @@ Claim: Blake Neff on X declined to release the Aspen video and accused Candace O
 
 Anchored Artifacts: A-1932.1
 Mentions: N-3, N-159
-Related Nodes: N-10583
+Related Nodes: N-10606
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
 **C-7899** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit
@@ -1045,7 +1004,7 @@ Claim: The host says Erika Kirk posted an Instagram video of her mother looking 
 
 Anchored Artifacts: A-1934.1
 Mentions: N-2, N-1
-Related Nodes: N-10582
+Related Nodes: N-10440
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
 **C-7926** Per Trump Statement Host Reads, Pam Bondi Is Leaving as Attorney General
@@ -1056,7 +1015,7 @@ Claim: Per a social-media statement from Donald Trump that the host reads on air
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
-Related Nodes: N-10586
+Related Nodes: N-10534
 Investigative Direction: Retrieve the original Truth Social / X post to verify exact language and timestamp.
 
 **C-7927** Per Trump Statement Host Reads, Todd Blanche Named Acting Attorney General
@@ -1067,7 +1026,7 @@ Claim: Per Trump's social-media statement that the host reads on air, Deputy Att
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-535
-Related Nodes: N-10586
+Related Nodes: N-10534
 Investigative Direction: Verify the formal appointment and any subsequent Senate-confirmation process.
 
 **C-7896** Erika publicly promised TPUSA had decades of unused Charlie Kirk content
@@ -1078,7 +1037,7 @@ Claim: Approximately 16 days after Charlie's death, Erika Kirk publicly stated T
 
 Anchored Artifacts: A-1936.1
 Mentions: N-2, N-1
-Related Nodes: N-10583
+Related Nodes: N-10606
 Investigative Direction: Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.
 
 **C-7917** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025
@@ -1089,7 +1048,7 @@ Claim: Per host investigation, multiple sources - including an unnamed Phoenix-a
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2, N-418
-Related Nodes: N-10582
+Related Nodes: N-10440
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
 **C-7885** 3 of 4 Aspen event attendees contacted by host investigation did not recall Charlie naming Erika
@@ -1100,7 +1059,7 @@ Claim: Per host outreach to four Aspen event attendees (one of whom was a couple
 
 Anchored Artifacts: A-1928.1
 Mentions: N-2, N-1
-Related Nodes: N-10584
+Related Nodes: N-10406
 Investigative Direction: Preserve the host's outreach logs (with consent); cross-reference against attendee lists and any contemporaneous notes or recordings.
 
 ---
@@ -1115,7 +1074,7 @@ Transcript Snippet: he was detained. Kash Patel shut down the investigation for 
 
 Anchored Artifacts: 
 Mentions: N-410, N-69, N-3
-Related Nodes: N-11142, N-10578
+Related Nodes: N-11060, N-10529
 Tags: relevance:core
 Investigative Direction: Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.
 
@@ -1131,7 +1090,7 @@ Transcript Snippet: that his dad is an O-6 in the Navy. Um I guess he's in the N
 
 Anchored Artifacts: A-1927.2
 Mentions: N-330, N-411, N-410, N-3
-Related Nodes: N-10585
+Related Nodes: N-10533
 Tags: relevance:core
 Investigative Direction: Check Navy Reserve officer listings and any public biography of Ahmed Qureshi for rank and unit.
 
@@ -1147,7 +1106,7 @@ Transcript Snippet: Mitch Snow saw a meeting concluding in Fort Huachuca the day
 
 Anchored Artifacts: A-1927.3
 Mentions: N-361, N-3
-Related Nodes: N-10585, N-10365
+Related Nodes: N-10533, N-10305
 Tags: relevance:core
 Investigative Direction: Obtain Mitch Snow's account in his own words and any base visitor or lodging records for September 9, 2025.
 
@@ -1163,7 +1122,7 @@ Transcript Snippet: which door you were going to go through at Timpanogos if you
 
 Anchored Artifacts: A-1927.4
 Mentions: N-411, N-3, N-1
-Related Nodes: N-10585, N-10573
+Related Nodes: N-10533, N-10524
 Tags: relevance:core
 Investigative Direction: Verify the app's feature set from product documentation and whether any Utah venue or hospital layouts were ever built in it.
 
@@ -1211,7 +1170,7 @@ Transcript Snippet: I did not, you'll recall, uh back in December think that Eri
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Compare the host's December episodes with this statement to see how her position changed.
 
@@ -1227,7 +1186,7 @@ Transcript Snippet: she publicly told Glenn Beck that she had Charlie's phone, a
 
 Anchored Artifacts: 
 Mentions: N-2, N-237, N-1, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-6549
 Tags: relevance:core
 Investigative Direction: Review the Glenn Beck interview and compare Erika's phone and texts statements with the texts the host says exist.
@@ -1259,7 +1218,7 @@ Transcript Snippet: they pulled out a piece of paper, which they had printed out
 
 Anchored Artifacts: A-2945.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10936
+Related Nodes: N-10857
 Supports: C-5396
 Tags: relevance:core
 Investigative Direction: Ask the participants in the December 15 meeting what was printed and whether a copy exists.
@@ -1276,7 +1235,7 @@ Transcript Snippet: Erika had previously, before I sat down with her, confirmed 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10936, N-10664
+Related Nodes: N-10857, N-10606
 Tags: relevance:core
 Investigative Direction: Find where and when Erika or TPUSA first said the video existed and compare with later statements about audio only.
 
@@ -1307,7 +1266,7 @@ Transcript Snippet: She never did. I told you Erika had a bonus parent. She alwa
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10516
+Related Nodes: N-10475
 Tags: relevance:context
 Investigative Direction: Document Erika's childhood household through records and earlier interviews.
 
@@ -1323,7 +1282,7 @@ Transcript Snippet: took place from August 15th to the 17th in Aspen. So this wa
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10431
+Related Nodes: N-10401
 Supports: C-5404
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list, agenda and venue records for the August 15 to 17 Aspen event.
@@ -1340,7 +1299,7 @@ Transcript Snippet: I appoint my wife to run Turning Point USA if something happ
 
 Anchored Artifacts: A-1928.1
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10583, N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Obtain the full original recording with metadata and have an independent audio examiner compare the passage with the surrounding speech.
 
@@ -1356,7 +1315,7 @@ Transcript Snippet: At the very least we can determine that that is clearly an e
 
 Anchored Artifacts: A-1928.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10583
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Commission forensic audio analysis of the clip for splices, room tone changes and level shifts.
 
@@ -1372,7 +1331,7 @@ Transcript Snippet: Can you please release the video that you shot in Aspen of h
 
 Anchored Artifacts: A-1932.1
 Mentions: N-3, N-159, N-1, N-2
-Related Nodes: N-10936
+Related Nodes: N-10857
 Tags: relevance:core
 Investigative Direction: Preserve the host's X reply and Neff's reply with timestamps.
 
@@ -1388,7 +1347,7 @@ Transcript Snippet: we haven't bothered playing it because we know psychopathic 
 
 Anchored Artifacts: A-1932.1
 Mentions: N-159, N-3
-Related Nodes: N-10936, N-10583
+Related Nodes: N-10857, N-10606
 Tags: relevance:core
 Investigative Direction: Preserve Neff's original post and ask TPUSA whether the video exists and why it has not been released.
 
@@ -1404,7 +1363,7 @@ Transcript Snippet: ignores evidence like DNA on a rifle or Tyler Robinson's own
 
 Anchored Artifacts: A-1932.1
 Mentions: N-159, N-40, N-3
-Related Nodes: N-10711
+Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Check the charging documents and court record for what Robinson's family reported and for the DNA findings on the rifle.
 
@@ -1420,7 +1379,7 @@ Transcript Snippet: 33 is in fact a Freemason degree.
 
 Anchored Artifacts: 
 Mentions: N-3, N-69
-Related Nodes: N-11129
+Related Nodes: N-11047
 Tags: relevance:context
 Investigative Direction: Collect Patel's public uses of the number 33 with dates.
 
@@ -1436,7 +1395,7 @@ Transcript Snippet: there were also five other sets of DNA found on the rifle.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10711
+Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports from the court record listing every DNA profile found on the rifle.
 
@@ -1452,7 +1411,7 @@ Transcript Snippet: there is no evidence that that particular rifle was fired.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10620
+Related Nodes: N-10566
 Tags: relevance:core
 Investigative Direction: Obtain firearms examiner reports on whether the barrel and cartridge cases link to this rifle.
 
@@ -1468,7 +1427,7 @@ Transcript Snippet: They even share outdated videos and try to pretend that he's
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10539, N-10000
+Related Nodes: N-10494, N-10000
 Tags: relevance:context
 Investigative Direction: Collect the posts and their community notes with dates and source clips.
 
@@ -1484,7 +1443,7 @@ Transcript Snippet: Done a ton of ton of donor events with Charlie including one
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10431, N-10594
+Related Nodes: N-10401, N-10406
 Tags: relevance:core
 Investigative Direction: Ask other donors and TPUSA event staff how often succession questions arose at Aspen events.
 
@@ -1500,7 +1459,7 @@ Transcript Snippet: We need to have like audio prepared of Charlie saying he wan
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10583, N-11092
+Related Nodes: N-10606, N-11010
 Tags: relevance:core
 Investigative Direction: This is the host's theory; test it by establishing when the audio was first mentioned and who had it.
 
@@ -1516,7 +1475,7 @@ Transcript Snippet: Mikey calls his wife and you call your mom and no one calls 
 
 Anchored Artifacts: 
 Mentions: N-3, N-159, N-190, N-1
-Related Nodes: N-10729
+Related Nodes: N-10663
 Supports: C-4104
 Tags: relevance:core
 Investigative Direction: Obtain the 911 call records for the UVU address and compare with the host's phone sequence reporting.
@@ -1533,7 +1492,7 @@ Transcript Snippet: I think Erika's even herself talked about her mother's Lyme 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10483
+Related Nodes: N-10449
 Tags: relevance:context
 Investigative Direction: Find Erika's own public statements about her mother's Lyme disease and their dates.
 
@@ -1564,7 +1523,7 @@ Transcript Snippet: Despite the fact that she had not posted her mother in years
 
 Anchored Artifacts: A-1934.1
 Mentions: N-3, N-2
-Related Nodes: N-10479, N-10483
+Related Nodes: N-10446, N-10449
 Tags: relevance:core
 Investigative Direction: Review Erika's Instagram archive for earlier posts featuring her mother.
 
@@ -1580,7 +1539,7 @@ Transcript Snippet: her mother would be undergoing medical treatment in Phoenix 
 
 Anchored Artifacts: A-2946.1
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10968, N-10905
+Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Retrieve the original New York Times article and verify the wording.
 
@@ -1596,7 +1555,7 @@ Transcript Snippet: In retrospect, she said she knew the words,
 
 Anchored Artifacts: A-1930.1
 Mentions: N-2, N-190, N-3
-Related Nodes: N-10968, N-10905
+Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Retrieve the original article and compare with the Watters account of the call.
 
@@ -1612,7 +1571,7 @@ Transcript Snippet: He called me within seconds.
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2, N-190, N-211
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Compare with Mikey McCoy's call log and the 834 ms style phone timing material.
 
@@ -1628,7 +1587,7 @@ Transcript Snippet: I just collapsed in the middle of the parking lot.
 
 Anchored Artifacts: A-1931.1
 Mentions: N-2, N-211, N-3
-Related Nodes: N-10471
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Look for witnesses, security cameras and staff accounts for the parking lot on September 10.
 
@@ -1659,7 +1618,7 @@ Transcript Snippet: It would be more appropriately described as an IV therapy pl
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10478
+Related Nodes: N-10445
 Tags: relevance:core
 Investigative Direction: Identify the facility, its licence type and services through state records.
 
@@ -1675,7 +1634,7 @@ Transcript Snippet: she went in for a treatment 2 days earlier on September 8th 
 
 Anchored Artifacts: A-2947.1
 Mentions: N-3, N-2, N-489
-Related Nodes: N-10483
+Related Nodes: N-10449
 Qualifies: C-7534
 Tags: relevance:core
 Investigative Direction: Flag (clinic vs hospital): C-7534 (ep84) says Erika's mother was not in the hospital Sept 8-10; this claim places her at a treatment facility on Sept 8, and ep68/ep76 call it a Lyme-treatment clinic (C-6114, C-6885). Read as clinic, not hospital, so linked Qualifies rather than Contradicts. Authenticate the records through lawful channels.
@@ -1692,7 +1651,7 @@ Transcript Snippet: Please tell us, send us in tips, more tips at candaceowens. 
 
 Anchored Artifacts: A-2948.1
 Mentions: N-3
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core, dia
 Investigative Direction: Count and verify the tips received against named sources.
 
@@ -1708,7 +1667,7 @@ Transcript Snippet: what we received was a flurry of text messages from various 
 
 Anchored Artifacts: A-2949.1
 Mentions: N-3, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Obtain the texts and sender identities with consent.
 
@@ -1724,7 +1683,7 @@ Transcript Snippet: they said the nurses had to carry her inside
 
 Anchored Artifacts: A-2949.1
 Mentions: N-3, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Ask the facility and the original senders whether any staff physically assisted Erika.
 
@@ -1740,7 +1699,7 @@ Transcript Snippet: we kept finding that the story fell through the cracks. Mean
 
 Anchored Artifacts: A-2949.1
 Mentions: N-3
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Map the chain of who told whom to find any first-hand witness or the origin of the story.
 
@@ -1756,7 +1715,7 @@ Transcript Snippet: Erika was there, but she was in a meeting with the lead doct
 
 Anchored Artifacts: A-2949.1
 Mentions: N-3, N-2, N-489
-Related Nodes: N-10582
+Related Nodes: N-10440
 Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Identify the doctor and obtain his or his office's account and appointment records.
@@ -1773,7 +1732,7 @@ Transcript Snippet: told friends that Erika was in their office with a friend.
 
 Anchored Artifacts: A-2949.1
 Mentions: N-3, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Interview the friends who heard this and document the dates.
@@ -1790,7 +1749,7 @@ Transcript Snippet: a woman from Dassel, Minnesota, who has claimed that she, an
 
 Anchored Artifacts: 
 Mentions: N-3, N-489, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Seek the woman's response to the host's request for comment and any corroboration.
@@ -1823,7 +1782,7 @@ Transcript Snippet: I do not believe Erika was with her mother on that day.
 
 Anchored Artifacts: A-1934.1
 Mentions: N-3, N-2, N-489
-Related Nodes: N-10582, N-10471
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Seek written statements from witnesses and facility records about Erika and her mother on September 10.
 
@@ -1839,7 +1798,7 @@ Transcript Snippet: the lack of eyewitness to a woman collapsing in a parking lo
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Canvass the parking lot's users and businesses and request any security camera footage.
 
@@ -1855,7 +1814,7 @@ Transcript Snippet: please email us at moretips@candaceowens. com.
 
 Anchored Artifacts: A-2950.1
 Mentions: N-3, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core, dia
 Investigative Direction: Track what arrives through the tip line.
 
@@ -1871,7 +1830,7 @@ Transcript Snippet: murders plummeting to their lowest levels since 1900
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
-Related Nodes: N-10586
+Related Nodes: N-10534
 Tags: relevance:tangential
 Investigative Direction: Compare with FBI and CDC homicide data for 2025.
 
@@ -1887,7 +1846,7 @@ Transcript Snippet: she will be transitioning to a much needed and important new
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
-Related Nodes: N-10586
+Related Nodes: N-10534
 Tags: relevance:tangential
 Investigative Direction: Track whether and when the new job is announced.
 
@@ -1903,7 +1862,7 @@ Transcript Snippet: Pam Bondi was doing as she was instructed to do by Trump, by
 
 Anchored Artifacts: 
 Mentions: N-3, N-85, N-5, N-69, N-9
-Related Nodes: N-10324, N-10586
+Related Nodes: N-10303, N-10534
 Tags: relevance:tangential
 Investigative Direction: Compare the stated reasons for the dismissal with reporting on the Epstein files release.
 
@@ -1919,7 +1878,7 @@ Transcript Snippet: they even released a fake a deep fake video of Jeffrey Epste
 
 Anchored Artifacts: 
 Mentions: N-3, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Identify the video in the release and any analysis that found it manipulated.
 
@@ -1935,7 +1894,7 @@ Transcript Snippet: And they got clocked on the fake video and then they removed
 
 Anchored Artifacts: 
 Mentions: N-3, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Find the DOJ statement or the removal record.
 
@@ -1967,7 +1926,7 @@ Transcript Snippet: This New York Post, for all intents and purposes, just a Mos
 
 Anchored Artifacts: 
 Mentions: N-3, N-47
-Related Nodes: N-10898, N-10015
+Related Nodes: N-10819, N-10015
 Tags: relevance:tangential
 Investigative Direction: Unsupported on air; no ownership or sourcing evidence is offered.
 
@@ -1983,7 +1942,7 @@ Transcript Snippet: he believes that she is the one that tipped off Eric Swalwel
 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-85, N-808
-Related Nodes: N-10586
+Related Nodes: N-10534
 Tags: relevance:tangential
 Investigative Direction: Locate the articles the host says contain this account and verify who sourced it.
 
@@ -1999,7 +1958,7 @@ Transcript Snippet: the FBI was sort of preparing um, a bunch of documents relat
 
 Anchored Artifacts: 
 Mentions: N-3, N-808, N-809
-Related Nodes: N-10586
+Related Nodes: N-10534
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the FBI's handling of the Fang file.
 
@@ -2015,7 +1974,7 @@ Transcript Snippet: run the JFK model one more time and expected nobody to notic
 
 Anchored Artifacts: A-1938.2
 Mentions: N-3
-Related Nodes: N-10620
+Related Nodes: N-10566
 Tags: relevance:context
 Investigative Direction: Review the history of bullet comparative analysis (CBLA) use and discontinuation by the FBI.
 
@@ -2031,7 +1990,7 @@ Transcript Snippet: There's no evidence Charlie was even shot. There's no eviden
 
 Anchored Artifacts: A-1938.2
 Mentions: N-3, N-1
-Related Nodes: N-10620
+Related Nodes: N-10566
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and trauma records to test the statement.
 
@@ -2047,7 +2006,7 @@ Transcript Snippet: Or it was his thorax and then it was under his skin.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10710, N-11135
+Related Nodes: N-10646, N-11053
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ATF reports describing the fragments with location and chain of custody.
 
@@ -2063,7 +2022,7 @@ Transcript Snippet: I am looking forward to the defense getting the files from t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10975
+Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Check the docket for the defense's ATF discovery request and any court response.
 
@@ -2079,7 +2038,7 @@ Transcript Snippet: Mikey called his wife. It seems like it like they were kind 
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-2, N-217
-Related Nodes: N-10338
+Related Nodes: N-10214
 Supports: C-4104, C-4269
 Tags: relevance:core
 Investigative Direction: Obtain the call detail records for the relevant numbers.
@@ -2096,7 +2055,7 @@ Transcript Snippet: Kind of like left Elizabeth McCoy out of the story.
 
 Anchored Artifacts: 
 Mentions: N-3, N-217, N-190
-Related Nodes: N-10339
+Related Nodes: N-10317
 Tags: relevance:core
 Investigative Direction: Compare the earliest accounts of the call sequence with later ones.
 
@@ -2172,7 +2131,7 @@ Transcript Snippet: And then like when he actually the night before said they're
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the texts the host references.
@@ -2189,7 +2148,7 @@ Transcript Snippet: after Charlie gave his presentation, uh, a donor, woman from
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10437, N-10584
+Related Nodes: N-10406
 Tags: relevance:core
 Investigative Direction: Identify the donor and obtain her recollection.
 
@@ -2205,7 +2164,7 @@ Transcript Snippet: To which he then said something about Steve Jobs and how the
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10437, N-10584
+Related Nodes: N-10406
 Tags: relevance:core
 Investigative Direction: Compare to the audio and to Erika's account.
 
@@ -2221,7 +2180,7 @@ Transcript Snippet: we think we're pretty close to nailing her down
 
 Anchored Artifacts: 
 Mentions: N-3, N-489
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Await publication of the findings.
 
@@ -2237,7 +2196,7 @@ Transcript Snippet: if you know anything about um Erika's whereabouts on Septemb
 
 Anchored Artifacts: A-2952.1
 Mentions: N-3, N-2
-Related Nodes: N-10582
+Related Nodes: N-10440
 Tags: relevance:core, dia
 Investigative Direction: Track what arrives through the tip line.
 
@@ -2253,7 +2212,7 @@ Transcript Snippet: I heard about Judge Liman throwing out an entire portion of 
 
 Anchored Artifacts: 
 Mentions: N-3, N-485, N-484
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Check the court docket and ruling.
 

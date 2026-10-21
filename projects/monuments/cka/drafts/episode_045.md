@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-798, N-11162
-  - Hole-minted Nodes (reintro-ep045): N-360, N-10367, N-10373, N-10540
+  - Tip-minted Nodes (supplement_2026-10c): N-798, N-11078
+  - Hole-minted Nodes (reintro-ep045): N-360, N-10342, N-10347, N-10495
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3901–C-3975
   - (see registers)
@@ -37,8 +37,8 @@
 
 ### Episode 45 Ledger Summary
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
-  - New Nodes Introduced: N-10332, N-10333
-  - Reused Nodes Appearing: N-10968, N-2, N-16, N-67, N-17, N-46, N-55, N-159, N-190, N-220, N-266, N-267, N-278, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
+  - New Nodes Introduced: N-10311, N-10312
+  - Reused Nodes Appearing: N-10889, N-2, N-16, N-67, N-17, N-46, N-55, N-159, N-190, N-220, N-266, N-267, N-278, N-10000, N-10006, N-10014, N-10025, N-10026, N-10189, N-10193, N-10239, N-10272, N-10305, N-11015, N-10313
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Neff, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -138,7 +138,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:18–00:47:10
 Confidence Level: High
 
-*Related: C-3952, C-3958, N-10332*
+*Related: C-3952, C-3958, N-10311*
 
 ---
 
@@ -150,7 +150,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:38
 Confidence Level: High
 
-*Related: C-3962, N-10332, N-67*
+*Related: C-3962, N-10311, N-67*
 
 ---
 
@@ -196,7 +196,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:59:22
 Confidence Level: High
 
-*Related: C-3974, N-10333*
+*Related: C-3974, N-10312*
 
 ---
 
@@ -298,7 +298,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1530.1, C-3962, N-10332*
+*Related: A-1530.1, C-3962, N-10311*
 
 ---
 
@@ -315,7 +315,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10332** USAF C37A 99-044 Flight Path Verification
+**N-10311** USAF C37A 99-044 Flight Path Verification
 
 Cross-episode investigation target: the September 7-9, 2025 movements of USAF C37A Gulfstream V (tail 99-044) including transponder-dark segment and RCH-to-SAM call sign transition at Fort Huachuca, and the question of which senior official was picked up.
 
@@ -328,7 +328,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10333** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
+**N-10312** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
 
 Investigation target: identification and preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, showing the young woman and special operations individual departing in a green truck.
 
@@ -486,7 +486,7 @@ Network of Erika Kirk's interview and other appearances.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Outlet where Erika Kirk sat for an interview.
 
@@ -494,7 +494,7 @@ Outlet where Erika Kirk sat for an interview.
 
 ---
 
-**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Existing topic reused for the burial-location claims.
 
@@ -502,7 +502,7 @@ Existing topic reused for the burial-location claims.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims.
 
@@ -510,7 +510,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Existing topic reused for town hall claims.
 
@@ -518,7 +518,7 @@ Existing topic reused for town hall claims.
 
 ---
 
-**N-11097** TPUSA Post-Assassination Fundraising Claim
+**N-11015** TPUSA Post-Assassination Fundraising Claim
 
 Existing topic reused for the host's fundraising figures.
 
@@ -534,7 +534,7 @@ Place/topic referenced in Erika Kirk's town hall remarks.
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Existing topic reused for new claims.
 
@@ -542,7 +542,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing topic reused for new claims.
 
@@ -558,7 +558,7 @@ Subject of Tucker Carlson's remarks.
 
 ---
 
-**N-10540** Tucker Carlson CIA Investigation
+**N-10495** Tucker Carlson CIA Investigation
 
 Existing topic reused for the host's remark on his father.
 
@@ -566,7 +566,7 @@ Existing topic reused for the host's remark on his father.
 
 ---
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 Existing topic reused for the host's interest in Neff's military ties.
 
@@ -574,7 +574,7 @@ Existing topic reused for the host's interest in Neff's military ties.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Existing topic reused for the host's Foreign Legion information.
 
@@ -590,7 +590,7 @@ Existing topic reused for the host's pressure remark.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing topic reused for new claims.
 
@@ -598,7 +598,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-11162** Erika Kirk Egyptian Plane Pregnancy Response
+**N-11078** Erika Kirk Egyptian Plane Pregnancy Response
 
 Node Type: Topic
 Erika Kirk's statement at the Bari Weiss town hall, as reported by the host, that she was pregnant while the Egyptian planes were flying and has photo proof she was not aboard, and the host's reply that she never said Erika was aboard.
@@ -721,7 +721,7 @@ Claim Timestamp: 00:43:18
 Claim: Per a tip email the host reads, and which the host says her team fact-checked, USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder appearing to be turned off thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
 
 Anchored Artifacts: A-1529.1
-Related Nodes: N-10332
+Related Nodes: N-10311
 
 Investigative Direction: Cross-reference with ADS-B Exchange historical archives, FAA SWIM data, official DoD manifests if obtainable, and Andrews AFB logs.
 
@@ -735,7 +735,7 @@ Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Missi
 
 Anchored Artifacts: A-1530.1
 Mentions: N-67
-Related Nodes: N-10332
+Related Nodes: N-10311
 
 Investigative Direction: Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.
 
@@ -774,7 +774,7 @@ Claim Timestamp: 00:59:48
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 
 Anchored Artifacts: A-1531.6
-Related Nodes: N-10333
+Related Nodes: N-10312
 
 Investigative Direction: Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records.
 
@@ -788,7 +788,7 @@ Claim: According to the tipster email the host reads, it appears that Pam Bondi 
 
 Anchored Artifacts: A-1529.1
 Mentions: N-85
-Related Nodes: N-10332
+Related Nodes: N-10311
 
 Investigative Direction: Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.
 
@@ -849,7 +849,7 @@ Transcript Snippet: Milo Yiannopoulos and a few others have asserted with absolu
 
 Anchored Artifacts: 
 Mentions: N-220, N-1, N-798
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:context
 Investigative Direction: Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.
 
@@ -865,7 +865,7 @@ Transcript Snippet: where I don't have to be worried about some secular revoluti
 
 Anchored Artifacts: A-1525.1
 Mentions: N-2, N-1
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Review the full Fox News clip and any reported threats or vandalism against Kirk-related sites.
 
@@ -913,7 +913,7 @@ Transcript Snippet: she's done Hannity. She's done The Five. She's done Fox and 
 
 Anchored Artifacts: 
 Mentions: N-2, N-46
-Related Nodes: N-10006, N-10968
+Related Nodes: N-10006, N-10889
 Tags: relevance:core
 Investigative Direction: Compile air dates of each appearance from network schedules and published transcripts.
 
@@ -929,7 +929,7 @@ Transcript Snippet: She has also made time for an upcoming CBS News town hall si
 
 Anchored Artifacts: 
 Mentions: N-2, N-278
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Check CBS for the taping date and air date of the town hall.
 
@@ -945,7 +945,7 @@ Transcript Snippet: you know they made 40 40 million like two nights ago at Mar-
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10000, N-11097
+Related Nodes: N-10000, N-11015
 Tags: relevance:core
 Investigative Direction: Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.
 
@@ -961,7 +961,7 @@ Transcript Snippet: has made more than $100 million that is separate from the $4
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-11097
+Related Nodes: N-10000, N-11015
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's Form 990 filings, donor disclosures and public fundraising statements.
 
@@ -1107,7 +1107,7 @@ Transcript Snippet: I have literally no idea. I can't even guess but that's very
 
 Anchored Artifacts: A-1528.1
 Mentions: N-22, N-2, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Qualifies: C-3923
 Tags: relevance:core
 Investigative Direction: Ask Carlson what basis he has for calling the Egyptian-registration claim true and whether he saw flight records.
@@ -1140,7 +1140,7 @@ Transcript Snippet: His father, he learns after his father died, he thought he w
 
 Anchored Artifacts: 
 Mentions: N-22
-Related Nodes: N-10540
+Related Nodes: N-10495
 Tags: relevance:context
 Investigative Direction: Check Carlson's own public statements and published biographies about his father's work.
 
@@ -1156,7 +1156,7 @@ Transcript Snippet: And that means people in the NSA, the CIA are confirming tha
 
 Anchored Artifacts: 
 Mentions: N-22, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Supports: C-3923
 Tags: relevance:core
 Investigative Direction: Ask Carlson whether his confirmation came from government sources or from the host's published flight data.
@@ -1221,7 +1221,7 @@ Transcript Snippet: One, Erika said she was pregnant when the Egyptian planes we
 
 Anchored Artifacts: 
 Mentions: N-2, N-278
-Related Nodes: N-11162, N-10253, N-10334
+Related Nodes: N-11078, N-10239, N-10313
 Tags: relevance:core
 Investigative Direction: Obtain the CBS town hall footage and the photos Erika Kirk says prove she was pregnant and elsewhere.
 
@@ -1237,7 +1237,7 @@ Transcript Snippet: I never said you were on the planes. Why would I think you w
 
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-1
-Related Nodes: N-11162, N-10253
+Related Nodes: N-11078, N-10239
 Supports: C-3522
 Tags: relevance:core
 Investigative Direction: Check the host's earlier episodes on the planes to confirm she framed them as following, not carrying, Erika.
@@ -1254,7 +1254,7 @@ Transcript Snippet: Erika said, "Stop." No.
 
 Anchored Artifacts: 
 Mentions: N-2, N-278
-Related Nodes: N-10334
+Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Obtain the town hall footage and exact wording of Weiss's question and Erika's answer.
 
@@ -1270,7 +1270,7 @@ Transcript Snippet: she talked about Israel and said good things about Jews and 
 
 Anchored Artifacts: 
 Mentions: N-2, N-278
-Related Nodes: N-10026, N-10334
+Related Nodes: N-10026, N-10313
 Tags: relevance:context
 Investigative Direction: Obtain the town hall footage and the passage about Israel, Jews and Shabbat dinner.
 
@@ -1303,7 +1303,7 @@ Transcript Snippet: I think I made the mistake when I transferred my notes becau
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10326
+Related Nodes: N-10305
 Qualifies: C-3836
 Tags: relevance:core
 Investigative Direction: Compare the host's raw call notes with the published account to confirm the rank given.
@@ -1320,7 +1320,7 @@ Transcript Snippet: it was over a 1-hour phone call
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:context
 Investigative Direction: Request the call log or recording metadata from the host's team.
 
@@ -1336,7 +1336,7 @@ Transcript Snippet: we were able to confirm everything he said was real. He gave
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-3833
 Tags: relevance:core
 Investigative Direction: Request base access-control or visitor records for September 8-9, 2025.
@@ -1353,7 +1353,7 @@ Transcript Snippet: I sent picture options to him as your emails were coming in
 
 Anchored Artifacts: 
 Mentions: N-319, N-360, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Qualifies: C-3944
 Tags: relevance:core
 Investigative Direction: Independently verify Adam Neff's identity and assignment through Army records.
@@ -1370,7 +1370,7 @@ Transcript Snippet: it checks out because that is the division from New York.
 
 Anchored Artifacts: 
 Mentions: N-319
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3944
 Tags: relevance:core
 Investigative Direction: Check Army records for Captain Adam Neff's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.
@@ -1387,7 +1387,7 @@ Transcript Snippet: I'm not going to name the building. I know the exact one bec
 
 Anchored Artifacts: A-1532.1
 Mentions: N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3945
 Tags: relevance:core
 Investigative Direction: Ask the host's sources to confirm the building through a trusted intermediary or public base maps.
@@ -1404,7 +1404,7 @@ Transcript Snippet: his old passport, his new passport, his military ID card, ho
 
 Anchored Artifacts: 
 Mentions: N-3, N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:core
 Investigative Direction: Have an independent party review the documentation and verify the hotel and time records.
 
@@ -1420,7 +1420,7 @@ Transcript Snippet: First, he finds this this cartel tunnel when he's 20. Now, w
 
 Anchored Artifacts: 
 Mentions: N-360
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-3805
 Tags: relevance:context
 Investigative Direction: Check military records for the witness's 1990 assignment and his date of birth.
@@ -1437,7 +1437,7 @@ Transcript Snippet: It also, by the way, does provide an explanation for why the
 
 Anchored Artifacts: 
 Mentions: N-360
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Obtain the military police incident report and ask Captain Neff about the stated reason for detaining him.
 
@@ -1453,7 +1453,7 @@ Transcript Snippet: It's, you know, 7 hours later, they allowed him to leave or 
 
 Anchored Artifacts: 
 Mentions: N-360, N-319
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3840
 Tags: relevance:core
 Investigative Direction: Request the military police incident record for the detention start and end times.
@@ -1470,7 +1470,7 @@ Transcript Snippet: he specifically said there were some high ranking congressio
 
 Anchored Artifacts: 
 Mentions: N-360, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3836
 Tags: relevance:core
 Investigative Direction: Ask the witness on the record what he saw and why he drew that inference.
@@ -1487,7 +1487,7 @@ Transcript Snippet: we have fact checked it is true trust us to fact check stuff
 
 Anchored Artifacts: A-1529.1
 Mentions: N-3
-Related Nodes: N-10332
+Related Nodes: N-10311
 Supports: C-3952
 Tags: relevance:core
 Investigative Direction: Obtain the ADS-B or flight-history records the team used to verify the tail number and dates.
@@ -1504,7 +1504,7 @@ Transcript Snippet: El Paso, Texas is where all those weird flights were coming 
 
 Anchored Artifacts: A-1529.1
 Mentions: N-1, N-3
-Related Nodes: N-10332
+Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Pull flight-tracking history for El Paso departures on September 10, 2025.
 
@@ -1520,7 +1520,7 @@ Transcript Snippet: the timeline that he gave us is exactly right.
 
 Anchored Artifacts: A-1529.1
 Mentions: N-360, N-3
-Related Nodes: N-10326, N-10332
+Related Nodes: N-10305, N-10311
 Supports: C-3833
 Tags: relevance:core
 Investigative Direction: Compare the tip's flight times against the witness's reported 7:37 AM entry and later detention.
@@ -1537,7 +1537,7 @@ Transcript Snippet: having spoken to this individual who is planning to come out
 
 Anchored Artifacts: 
 Mentions: N-360, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:context
 Investigative Direction: Follow later episodes and podcasts for the witness's public appearances.
 
@@ -1553,7 +1553,7 @@ Transcript Snippet: I would put that at about maybe 65 60 to 65% that it could b
 
 Anchored Artifacts: 
 Mentions: N-319, N-360, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Qualifies: C-3944
 Tags: relevance:core
 Investigative Direction: Have the witness identify the captain from an unlabeled photo array in a documented process.
@@ -1570,7 +1570,7 @@ Transcript Snippet: it could line up well with what this air that with this airc
 
 Anchored Artifacts: A-1529.1
 Mentions: N-3
-Related Nodes: N-10332
+Related Nodes: N-10311
 Qualifies: C-3952
 Tags: relevance:core
 Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
@@ -1587,7 +1587,7 @@ Transcript Snippet: This is the only time that I have noticed that this plane wa
 
 Anchored Artifacts: A-1529.1
 Mentions: 
-Related Nodes: N-10332
+Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Search historical flight data for other visits of tail 99-044 to Fort Huachuca.
 
@@ -1603,7 +1603,7 @@ Transcript Snippet: he described it uh as a meeting that when the operation is b
 
 Anchored Artifacts: 
 Mentions: N-360, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Tags: relevance:core
 Investigative Direction: Ask the witness what words and documents led him to call it a finalization meeting.
 
@@ -1619,7 +1619,7 @@ Transcript Snippet: the call sign from Tucson to Fort Huachuca is a standard rea
 
 Anchored Artifacts: A-1530.1
 Mentions: N-67
-Related Nodes: N-10332
+Related Nodes: N-10311
 Supports: C-3962
 Tags: relevance:core
 Investigative Direction: Obtain the full call-sign column from the flight log shown on screen.
@@ -1636,7 +1636,7 @@ Transcript Snippet: the Venus call sign is just when the plane is empty. It does
 
 Anchored Artifacts: A-1530.1
 Mentions: N-67
-Related Nodes: N-10332
+Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Verify Venus call-sign usage against military flight-operations references.
 
@@ -1686,7 +1686,7 @@ Transcript Snippet: I didn't look into the Blake Neff thing or why he left uh Fo
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-10006, N-10197
+Related Nodes: N-10006, N-10189
 Tags: relevance:context
 Investigative Direction: Review Neff's career history and any publicly stated military ties.
 
@@ -1718,7 +1718,7 @@ Transcript Snippet: the feds have not reached out to me.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10290
+Related Nodes: N-10272
 Supports: C-3576
 Tags: relevance:core
 Investigative Direction: Ask the FBI whether it has contacted the host about her information.
@@ -1735,7 +1735,7 @@ Transcript Snippet: They're just making jokes that that there's something not ri
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10253
+Related Nodes: N-10239
 Supports: C-3619
 Tags: relevance:core
 Investigative Direction: Review public TPUSA and Charlie Kirk Show statements on the Egyptian planes.
@@ -1752,7 +1752,7 @@ Transcript Snippet: I cannot confirm his own eyes. I can't confirm his memory of
 
 Anchored Artifacts: 
 Mentions: N-360, N-266, N-3
-Related Nodes: N-10373
+Related Nodes: N-10347
 Qualifies: C-3837
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of Harpole's presence at Fort Huachuca on September 9, 2025.
@@ -1769,7 +1769,7 @@ Transcript Snippet: Harry thinks he has an idea and he should come out and he sh
 
 Anchored Artifacts: A-1531.5
 Mentions: N-360
-Related Nodes: N-10333
+Related Nodes: N-10312
 Tags: relevance:core
 Investigative Direction: Ask the witness whom he believes he saw in the truck.
 
@@ -1785,7 +1785,7 @@ Transcript Snippet: More tips at candace Owens. com is who you can send that tip
 
 Anchored Artifacts: A-2918.1
 Mentions: N-3
-Related Nodes: N-10333
+Related Nodes: N-10312
 Tags: relevance:core
 Investigative Direction: Check the tip inbox for submissions on Candlewood Suites footage.
 
@@ -1985,7 +1985,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
 - [x] People nodes use global people ledger (N-2, N-67, N-319)
-- [x] Non-person investigation targets use 1000 series (N-10332, N-10333)
+- [x] Non-person investigation targets use 1000 series (N-10311, N-10312)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Neff, Huachuca/Huachuca, Erika/Erica)
 - [x] Formatting consistent across registers

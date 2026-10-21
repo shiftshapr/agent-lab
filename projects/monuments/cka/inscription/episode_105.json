@@ -37,8 +37,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10923",
-            "N-10888"
+            "N-10844",
+            "N-10809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -65,7 +65,7 @@
             "N-621",
             "N-620",
             "N-626",
-            "N-10931"
+            "N-10852"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -82,8 +82,8 @@
             "C-9270"
           ],
           "related_nodes": [
-            "N-10931",
-            "N-10888"
+            "N-10852",
+            "N-10809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -109,7 +109,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10515"
+            "N-10474"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -154,7 +154,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-10637"
+            "N-10582"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -186,8 +186,8 @@
           "related_nodes": [
             "N-627",
             "N-628",
-            "N-10933",
-            "N-10125"
+            "N-10854",
+            "N-10120"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -214,7 +214,7 @@
           "related_nodes": [
             "N-627",
             "N-22",
-            "N-10933"
+            "N-10854"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -243,7 +243,7 @@
             "N-14",
             "N-159",
             "N-3",
-            "N-10934"
+            "N-10855"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -270,8 +270,8 @@
           "related_nodes": [
             "N-614",
             "N-2",
-            "N-10899",
-            "N-10472"
+            "N-10820",
+            "N-10390"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -293,7 +293,7 @@
             "N-614",
             "N-14",
             "N-2",
-            "N-10899"
+            "N-10820"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -320,7 +320,7 @@
           "related_nodes": [
             "N-544",
             "N-2",
-            "N-10472"
+            "N-10390"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -348,7 +348,7 @@
           "related_nodes": [
             "N-5",
             "N-629",
-            "N-10935"
+            "N-10856"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -365,7 +365,7 @@
             "C-9307"
           ],
           "related_nodes": [
-            "N-10935"
+            "N-10856"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -911,8 +911,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Erika Kirk said she came to DC to confront its reporters.",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
       "type": "investigation_target",
       "description": "Site of Erika Kirk's West Wing visit and the 10:33 p.m. press conference; base of the communications agency.",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10125",
-      "ref": "N-10125",
+      "@id": "N-10120",
+      "ref": "N-10120",
       "name": "Utah",
       "type": "investigation_target",
       "description": "State where the Stratos data center was approved.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
       "type": "investigation_target",
       "description": "The host says everyone at Turning Point USA now seems connected to the military.",
@@ -985,8 +985,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10312",
-      "ref": "N-10312",
+      "@id": "N-10294",
+      "ref": "N-10294",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
       "type": "investigation_target",
       "description": "The host says the show, once top 10, now averages 380 views per episode.",
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10318",
-      "ref": "N-10318",
+      "@id": "N-10299",
+      "ref": "N-10299",
       "name": "Operation Mockingbird 2.0 Allegation",
       "type": "investigation_target",
       "description": "The host frames the WHCD messaging as \"operation mockingbird on steroids.\"",
@@ -1019,9 +1019,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10472",
-      "ref": "N-10472",
-      "name": "Fort Huachuca Alibi Investigation",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "The children in Erika Kirk's alibi photo and Paramount Tactical's statements about them.",
       "related_artifacts": [
@@ -1043,8 +1043,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10515",
-      "ref": "N-10515",
+      "@id": "N-10474",
+      "ref": "N-10474",
       "name": "Erika Kirk Twitter Silence Break Pattern",
       "type": "investigation_target",
       "description": "Erika Kirk's post-WHCD statement breaking her silence.",
@@ -1062,8 +1062,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "Timing of the shooting, the clip upload, the email and the press conference.",
@@ -1086,8 +1086,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10638",
-      "ref": "N-10638",
+      "@id": "N-10583",
+      "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
       "type": "investigation_target",
       "description": "Who filmed and first uploaded the Erika Kirk clip.",
@@ -1104,8 +1104,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10652",
-      "ref": "N-10652",
+      "@id": "N-10594",
+      "ref": "N-10594",
       "name": "Dhillon Law Group / Show Faith by Works Connection",
       "type": "investigation_target",
       "description": "The host ties Matthew Shupe to Dhillon Law Group.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10814",
-      "ref": "N-10814",
+      "@id": "N-10738",
+      "ref": "N-10738",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
       "type": "investigation_target",
       "description": "The email's surrogate and digital-partner amplification instructions.",
@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "The host says the email came from the Department of Defense through the White House Communications Agency.",
@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Account whose host showed and then disowned the relevance of the Fort Huachuca alibi photo.",
@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
       "type": "topic",
       "description": "Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. According to the host's verbatim retyping, it calls the clip the \"strongest emotional response asset\" and recommends that all channels, digital partners and approved surrogates amplify it. It also expects aligned outside commentators to push themes on protective response, media conduct, political rhetoric and executive stability. The host names recipients including Karoline Leavitt's press office, Steven Cheung and several military communications staff, and calls for FOIA requests.",
@@ -1216,13 +1216,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-10931"
+        "N-10852"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10929",
-      "ref": "N-10929",
+      "@id": "N-10850",
+      "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
       "type": "topic",
       "description": "Investigation target: Erika Kirk's appointment to the U.S. Air Force Academy Board of Visitors in her late husband's place, which the host says was artificial and of unclear qualification.",
@@ -1241,8 +1241,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10930",
-      "ref": "N-10930",
+      "@id": "N-10851",
+      "ref": "N-10851",
       "name": "Erika Kirk Pre-WHCD West Wing Visit",
       "type": "topic",
       "description": "Investigation target: Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her.",
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10931",
-      "ref": "N-10931",
+      "@id": "N-10852",
+      "ref": "N-10852",
       "name": "White House Communications Agency",
       "type": "organization",
       "description": "Department of Defense military communications unit embedded in the White House. The host says the amplification email was delivered from its military office domain and that several recipients hold positions there.",
@@ -1290,8 +1290,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10932",
-      "ref": "N-10932",
+      "@id": "N-10853",
+      "ref": "N-10853",
       "name": "WHCD Night White House \"No Scramble\" Readiness Question",
       "type": "topic",
       "description": "Investigation target: the host's White House sources say that on the Saturday evening of the WHCD, when the White House was not open for business, staff were unusually available and on standby, with no scramble before the 10:33 p.m. press conference.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10933",
-      "ref": "N-10933",
+      "@id": "N-10854",
+      "ref": "N-10854",
       "name": "Stratos AI Data Center (Box Elder County, Utah)",
       "type": "topic",
       "description": "A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10934",
-      "ref": "N-10934",
+      "@id": "N-10855",
+      "ref": "N-10855",
       "name": "Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
       "type": "topic",
       "description": "Investigation target: the May 8 Charlie Kirk Show segment in which Andrew Kolvet and Blake Neff discussed Preborn sponsoring the host's show and encouraged viewers to email sponsors. The host links it to the same weekend's X campaign to boycott her advertisers.",
@@ -1364,8 +1364,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10935",
-      "ref": "N-10935",
+      "@id": "N-10856",
+      "ref": "N-10856",
       "name": "Florida Golden Trump Statue",
       "type": "topic",
       "description": "A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it.",
@@ -1400,8 +1400,8 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:02:28",
@@ -1419,7 +1419,7 @@
       "claim": "The host says we are supposed to believe that President Trump has survived three separate shooting assassination attempts in just under two years, which she says would be unprecedented for a sitting president.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:04:07",
@@ -1456,10 +1456,10 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10888",
-        "N-10814",
-        "N-10318"
+        "N-10844",
+        "N-10809",
+        "N-10738",
+        "N-10299"
       ],
       "tags": [],
       "claim_timestamp": "00:05:04",
@@ -1477,7 +1477,7 @@
       "claim": "The host says Erika Kirk was appointed to the Air Force Academy Board of Visitors in her husband's place and questions whether she is qualified.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [],
       "claim_timestamp": "00:06:15",
@@ -1495,8 +1495,8 @@
       "claim": "The host says she can confirm that Erika Kirk visited the West Wing just ahead of the WHCD shooting. She assumes, but cannot yet confirm, that Andrew Kolvet and Mikey McCoy went with her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10930",
-        "N-10075"
+        "N-10851",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:06:26",
@@ -1516,8 +1516,8 @@
       "claim": "The host says Erika Kirk told the public that the purpose of her DC trip was to confront Daily Mail reporters, despite saying she was afraid to travel, and asks what she was doing in the West Wing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
-        "N-10930"
+        "N-10067",
+        "N-10851"
       ],
       "tags": [],
       "claim_timestamp": "00:06:45",
@@ -1538,7 +1538,7 @@
       "claim": "The host says the WHCD shooting happened at 8:39 p.m. Eastern.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:06:45",
@@ -1553,7 +1553,7 @@
       "claim": "The host says Sara Sidner of CNN uploaded the video of Erika Kirk at 9:25 p.m.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10638"
+        "N-10583"
       ],
       "tags": [],
       "claim_timestamp": "00:06:45",
@@ -1577,8 +1577,8 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:06:45",
@@ -1598,8 +1598,8 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10888"
+        "N-10844",
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:06:45",
@@ -1619,7 +1619,7 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:08:00",
@@ -1639,8 +1639,8 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10814"
+        "N-10844",
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:08:31",
@@ -1660,15 +1660,15 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10814"
+        "N-10844",
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Compare the themes listed in the email against commentator posts in the hours after the shooting.",
       "transcript_snippet": "external commentary expect aligned outside commentators. So talking about their surrogates to independently amplify the professionalism of protective response",
       "mentions_person_refs": [
-        "N-10814"
+        "N-10738"
       ]
     },
     {
@@ -1681,15 +1681,15 @@
         "A-2581.2"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10931"
+        "N-10844",
+        "N-10852"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Verify the sender domain through the original message headers.",
       "transcript_snippet": "the email was delivered from the military office domain from the White House communications agency.",
       "mentions_person_refs": [
-        "N-10931"
+        "N-10852"
       ]
     },
     {
@@ -1702,15 +1702,15 @@
         "A-2581.3"
       ],
       "related_nodes": [
-        "N-10931",
-        "N-10888"
+        "N-10852",
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Check DoD and White House Military Office documentation on the WHCA's chain of command and mission.",
       "transcript_snippet": "The White House Correspondence Agency is a Department of Defense controlled military communications entity that is embedded inside of the White House itself.",
       "mentions_person_refs": [
-        "N-10888"
+        "N-10809"
       ]
     },
     {
@@ -1723,7 +1723,7 @@
         "A-2581.2"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:10:20",
@@ -1743,8 +1743,8 @@
         "A-2581.2"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10931"
+        "N-10844",
+        "N-10852"
       ],
       "tags": [],
       "claim_timestamp": "00:10:20",
@@ -1765,8 +1765,8 @@
         "A-2581.2"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10931"
+        "N-10844",
+        "N-10852"
       ],
       "tags": [],
       "claim_timestamp": "00:10:20",
@@ -1787,7 +1787,7 @@
         "A-2581.2"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:11:19",
@@ -1807,7 +1807,7 @@
         "A-2581.1"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:12:19",
@@ -1825,17 +1825,17 @@
       "claim": "According to the host's White House sources, on the Saturday evening of the dinner the campus security protocol and perimeters were unusual, staff were all available and on standby, and there was no scramble to get personnel back to the White House.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10932",
-        "N-10075",
-        "N-10637"
+        "N-10853",
+        "N-10072",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Obtain White House staff duty rosters and badge-access logs for the evening of April 25, 2026.",
       "transcript_snippet": "Everybody was somehow available and on standby for some unknown reason.",
       "mentions_person_refs": [
-        "N-10075",
-        "N-10637"
+        "N-10072",
+        "N-10582"
       ]
     },
     {
@@ -1846,17 +1846,17 @@
       "claim": "The host says the late-night White House press conference took place at 10:33 p.m., less than two hours after the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10932",
-        "N-10075",
-        "N-10637"
+        "N-10853",
+        "N-10072",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Confirm the press conference start time from White House video archives.",
       "transcript_snippet": "a late night presser at the White House, which as we as we know and took place at 10:33 p. m.",
       "mentions_person_refs": [
-        "N-10075",
-        "N-10637"
+        "N-10072",
+        "N-10582"
       ]
     },
     {
@@ -1869,7 +1869,7 @@
         "A-2582.1"
       ],
       "related_nodes": [
-        "N-10515"
+        "N-10474"
       ],
       "tags": [],
       "claim_timestamp": "00:14:01",
@@ -1889,7 +1889,7 @@
         "A-2583.1"
       ],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1929,15 +1929,15 @@
         "A-2584.1"
       ],
       "related_nodes": [
-        "N-10933",
-        "N-10125"
+        "N-10854",
+        "N-10120"
       ],
       "tags": [],
       "claim_timestamp": "00:17:29",
       "investigative_direction": "Obtain Box Elder County planning filings for the Stratos project.",
       "transcript_snippet": "The Stratos Artificial Intelligence Data Center footprint will cover more than 40,000 acres over three sites in Box Elder County in northwestern Utah.",
       "mentions_person_refs": [
-        "N-10125"
+        "N-10120"
       ]
     },
     {
@@ -1950,15 +1950,15 @@
         "A-2584.1"
       ],
       "related_nodes": [
-        "N-10933",
-        "N-10125"
+        "N-10854",
+        "N-10120"
       ],
       "tags": [],
       "claim_timestamp": "00:17:29",
       "investigative_direction": "Compare the project's stated power demand with Utah's total electricity consumption data.",
       "transcript_snippet": "The facility will require um about 9 gawatts of power, which is more than the entire state of Utah currently consumes",
       "mentions_person_refs": [
-        "N-10125"
+        "N-10120"
       ]
     },
     {
@@ -1971,15 +1971,15 @@
         "A-2584.1"
       ],
       "related_nodes": [
-        "N-10933",
-        "N-10125"
+        "N-10854",
+        "N-10120"
       ],
       "tags": [],
       "claim_timestamp": "00:17:29",
       "investigative_direction": "Obtain the commission's vote record and the public comment count.",
       "transcript_snippet": "Last week, the project was approved by the county's commissioners despite thousands of objections lodged by Utah residents.",
       "mentions_person_refs": [
-        "N-10125"
+        "N-10120"
       ]
     },
     {
@@ -1992,7 +1992,7 @@
         "A-2584.1"
       ],
       "related_nodes": [
-        "N-10933"
+        "N-10854"
       ],
       "tags": [],
       "claim_timestamp": "00:18:48",
@@ -2012,7 +2012,7 @@
         "A-2584.1"
       ],
       "related_nodes": [
-        "N-10933"
+        "N-10854"
       ],
       "tags": [],
       "claim_timestamp": "00:18:48",
@@ -2032,7 +2032,7 @@
         "A-2584.1"
       ],
       "related_nodes": [
-        "N-10933"
+        "N-10854"
       ],
       "tags": [],
       "claim_timestamp": "00:19:54",
@@ -2065,7 +2065,7 @@
         "A-2585.1"
       ],
       "related_nodes": [
-        "N-10933"
+        "N-10854"
       ],
       "tags": [],
       "claim_timestamp": "00:21:18",
@@ -2084,7 +2084,7 @@
       "claim": "The host says that early in her investigation she noted that seemingly everyone at Turning Point USA was connected to the military, which she says was not the case when she worked there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197",
+        "N-10189",
         "N-10000"
       ],
       "tags": [],
@@ -2104,7 +2104,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10814"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:25:37",
@@ -2144,7 +2144,7 @@
       "claim": "The host says the Charlie Kirk Show, once a top-10 show, now averages 380 views per episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10312",
+        "N-10294",
         "N-10000"
       ],
       "tags": [],
@@ -2178,7 +2178,7 @@
       "claim": "The host says pro-Erika, pro-TPUSA Israeli clone accounts on X began organizing a boycott of her advertisers that weekend.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10934"
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:30:14",
@@ -2199,7 +2199,7 @@
         "A-2586.1"
       ],
       "related_nodes": [
-        "N-10934",
+        "N-10855",
         "N-10000"
       ],
       "tags": [],
@@ -2222,7 +2222,7 @@
         "A-2586.1"
       ],
       "related_nodes": [
-        "N-10934"
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:32:19",
@@ -2241,7 +2241,7 @@
       "claim": "The host says her show does not put \"handcuffs\" on sponsors and deliberately sought advertisers who would not back out during a fight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10934"
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:34:13",
@@ -2277,8 +2277,8 @@
         "A-2587.2"
       ],
       "related_nodes": [
-        "N-10472",
-        "N-10899"
+        "N-10390",
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:37:06",
@@ -2303,8 +2303,8 @@
         "A-2587.2"
       ],
       "related_nodes": [
-        "N-10472",
-        "N-10899"
+        "N-10390",
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:37:06",
@@ -2328,7 +2328,7 @@
         "A-2587.2"
       ],
       "related_nodes": [
-        "N-10472"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:37:06",
@@ -2348,8 +2348,8 @@
         "A-2587.1"
       ],
       "related_nodes": [
-        "N-10472",
-        "N-10899"
+        "N-10390",
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:38:02",
@@ -2368,7 +2368,7 @@
       "claim": "The host says Gary Melton, the man behind Paramount Tactical, served as a Green Beret, and says Turning Point USA turns to him for public relations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:39:34",
@@ -2388,7 +2388,7 @@
         "A-2588.1"
       ],
       "related_nodes": [
-        "N-10472"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:41:18",
@@ -2412,7 +2412,7 @@
         "A-2589.1"
       ],
       "related_nodes": [
-        "N-10935"
+        "N-10856"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
@@ -2432,7 +2432,7 @@
         "A-2589.1"
       ],
       "related_nodes": [
-        "N-10935"
+        "N-10856"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
@@ -2453,7 +2453,7 @@
         "A-2589.2"
       ],
       "related_nodes": [
-        "N-10935"
+        "N-10856"
       ],
       "tags": [],
       "claim_timestamp": "00:43:03",
@@ -2471,8 +2471,8 @@
       "claim": "Asking who filmed the Erika Kirk clip, the host says she does not think it was Andrew Kolvet. She asks whether it could have been Matthew Shupe, whom she describes as a PR agent for Harmeet Dhillon and Dhillon Law Group who was with Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10638",
-        "N-10652"
+        "N-10583",
+        "N-10594"
       ],
       "tags": [],
       "claim_timestamp": "00:47:33",
@@ -2493,7 +2493,7 @@
       "claim": "The host says she knows Harmeet Dhillon was sitting with Andrew Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:47:33",

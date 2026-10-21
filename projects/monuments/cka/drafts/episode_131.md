@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-922, N-923, N-11359, N-11360
-  - Tip-minted Nodes (reintro-ep131): N-11204
+  - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-922, N-923, N-11275, N-11276
+  - Tip-minted Nodes (reintro-ep131): N-11120
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11256–C-11353
   - Hole-minted Nodes (wave3): N-511
-  - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-553, N-791, N-792, N-866, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156
+  - Reused Nodes Appearing: N-10678, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-553, N-791, N-792, N-866, N-10003, N-10027, N-10016, N-10067, N-10203, N-10252, N-10259, N-10323, N-10358, N-10359, N-10378, N-10389, N-10447, N-10648, N-10673, N-10675, N-10820, N-10881, N-10934, N-11037, N-11047, N-11048, N-11065, N-11069, N-11072
   - (see registers)
 
 ## 2. Executive Summary
@@ -122,7 +122,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11295, C-11296, N-97 (Ben Shapiro), N-10748*
+*Related: C-11295, C-11296, N-97 (Ben Shapiro), N-10678*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:19:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip described, source not shown)
 
-*Related: C-11298, N-3, N-97, N-10748*
+*Related: C-11298, N-3, N-97, N-10678*
 
 **A-2524.2** Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (biography cited, not shown)
 
-*Related: C-11310, N-3, N-97, N-10748*
+*Related: C-11310, N-3, N-97, N-10678*
 
 **A-2524.3** Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:26:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11311, N-3, N-1, N-97, N-10748*
+*Related: C-11311, N-3, N-1, N-97, N-10678*
 
 ---
 
@@ -329,7 +329,7 @@ First named by the host at 00:43:01 in episode 131.
 *Related: C-11338, C-11341, C-11343, C-11334*
 
 
-**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
+**N-10678** Ben Shapiro 9/10 Lunch Meeting Identification
 
 Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.
 
@@ -518,7 +518,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10033** Hamptons Donor Pressure Investigation
+**N-10016** Hamptons Meeting Pressure Investigation
 
 Reused node cited by new claims in this episode.
 
@@ -526,7 +526,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Reused node cited by new claims in this episode.
 
@@ -534,7 +534,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10211** Lincoln, Nebraska TPUSA Chapter Origin Question
+**N-10203** Lincoln, Nebraska TPUSA Chapter Origin Question
 
 Reused node cited by new claims in this episode.
 
@@ -542,7 +542,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Reused node cited by new claims in this episode.
 
@@ -550,7 +550,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Reused node cited by new claims in this episode.
 
@@ -558,7 +558,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Reused node cited by new claims in this episode.
 
@@ -566,7 +566,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Reused node cited by new claims in this episode.
 
@@ -574,7 +574,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Reused node cited by new claims in this episode.
 
@@ -582,7 +582,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10405** September 10 Plot Against Candace Owens
+**N-10378** September 10 Plot Against Candace Owens
 
 Reused node cited by new claims in this episode.
 
@@ -590,7 +590,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Reused node cited by new claims in this episode.
 
@@ -598,7 +598,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10480** Nimrod / Gilgamesh Remains Extraction Question
+**N-10447** Nimrod / Gilgamesh Remains Extraction Question
 
 Reused node cited by new claims in this episode.
 
@@ -606,7 +606,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10712** Ben Shapiro Car Ride Live Updates
+**N-10648** Ben Shapiro Car Ride Live Updates
 
 Reused node cited by new claims in this episode.
 
@@ -614,7 +614,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10741** Sandy Hook Comparison Rhetoric
+**N-10673** Sandy Hook Comparison Rhetoric
 
 Reused node cited by new claims in this episode.
 
@@ -622,7 +622,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10743** Daily Mail Article Source Identity
+**N-10675** Daily Mail Article Source Identity
 
 Reused node cited by new claims in this episode.
 
@@ -630,15 +630,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10745** Daily Mail Article Sourcing Question
-
-Reused node cited by new claims in this episode.
-
-*Related: C-11317, C-11351*
-
----
-
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Reused node cited by new claims in this episode.
 
@@ -646,7 +638,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-10960** US Weekly
+**N-10881** US Weekly
 
 Reused node cited by new claims in this episode.
 
@@ -654,7 +646,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 Reused node cited by new claims in this episode.
 
@@ -662,7 +654,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11119** Andrew Breitbart Death and Autopsy Inquiry
+**N-11037** Andrew Breitbart Death and Autopsy Inquiry
 
 Reused node cited by new claims in this episode.
 
@@ -670,7 +662,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11129** Freemasonry
+**N-11047** Freemasonry
 
 Reused node cited by new claims in this episode.
 
@@ -678,7 +670,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11130** B'nai B'rith
+**N-11048** B'nai B'rith
 
 Reused node cited by new claims in this episode.
 
@@ -686,7 +678,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Reused node cited by new claims in this episode.
 
@@ -694,7 +686,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11153** Anti-Defamation League
+**N-11069** Anti-Defamation League
 
 Reused node cited by new claims in this episode.
 
@@ -702,7 +694,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11156** Leo Frank Case and ADL Origin Claim
+**N-11072** Leo Frank Case and ADL Origin Claim
 
 Reused node cited by new claims in this episode.
 
@@ -710,7 +702,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-11204** Twitch Memorial NDA Claim
+**N-11120** Twitch Memorial NDA Claim
 
 Reused node cited by new claims in this episode.
 
@@ -750,7 +742,7 @@ First named by the host at 00:38:55 in episode 131. Talk show host on whose show
 
 ---
 
-**N-11359** Chabad Lubavitch
+**N-11275** Chabad Lubavitch
 
 Organization
 
@@ -758,7 +750,7 @@ Organization
 
 ---
 
-**N-11360** Ronald Reagan Presidential Library
+**N-11276** Ronald Reagan Presidential Library
 
 Node Type: Place
 Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 p.m. on September 10, 2025.
@@ -890,7 +882,7 @@ Claim: In a clip the host plays, Ben Shapiro says his security was on the phone 
 Anchored Artifacts: A-2181.1
 Mentions: N-1, N-97
 
-Related Nodes: N-10748
+Related Nodes: N-10678
 
 Investigative Direction: Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.
 
@@ -905,7 +897,7 @@ Claim: In an audio clip played in the episode, Ben Shapiro states that at the ti
 Anchored Artifacts: A-2181.1
 Mentions: N-1, N-97
 
-Related Nodes: N-10748
+Related Nodes: N-10678
 
 Investigative Direction: Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley).
 
@@ -1095,7 +1087,7 @@ Transcript Snippet: So, what did we do? We put out a bounty.
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-97, N-1, N-920
-Related Nodes: N-10748
+Related Nodes: N-10678
 Supports: C-10678
 Qualifies: C-11296
 Confidence: low
@@ -1114,7 +1106,7 @@ Transcript Snippet: Gary was the president of the Nebraska chapter of AIPAC.
 
 Anchored Artifacts: A-2524.2
 Mentions: N-3, N-97, N-920
-Related Nodes: N-10748
+Related Nodes: N-10678
 Confidence: low
 Uncertainty: Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has "Jabitch"/"Jabach" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.
 Investigative Direction: Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.
@@ -1131,7 +1123,7 @@ Transcript Snippet: But I will put out another bounty similarly uh for $25,000 f
 
 Anchored Artifacts: A-2524.3
 Mentions: N-3, N-1, N-97
-Related Nodes: N-10748
+Related Nodes: N-10678
 Confidence: high
 Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-11295).
 
@@ -1177,7 +1169,7 @@ Transcript Snippet: We showed you yesterday Canaanites, literal ball worshipers,
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10480
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: Review the previous episode's sourcing for the Canaanite and Nimrod claim; this is a theological assertion, not a record that can be checked against case evidence.
 
@@ -1208,7 +1200,7 @@ Transcript Snippet: Ben attempted to take over Andrew's company. And when that f
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-389, N-390
-Related Nodes: N-10386
+Related Nodes: N-10359
 Supports: C-4663
 Tags: relevance:context
 Investigative Direction: Compare with Shapiro's March 2016 departure from Breitbart News and contemporaneous accounts by Bannon and Breitbart executives.
@@ -1225,7 +1217,7 @@ Transcript Snippet: after Andrew Breitbart died I should mention young and under
 
 Anchored Artifacts: 
 Mentions: N-3, N-390
-Related Nodes: N-11119
+Related Nodes: N-11037
 Supports: C-4668
 Tags: relevance:context
 Investigative Direction: Obtain the Los Angeles County coroner's report on Breitbart's March 2012 death.
@@ -1258,7 +1250,7 @@ Transcript Snippet: I worked at The Daily Wire and it was totally bizarre to me 
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-97
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Review Daily Wire programming about Carlson during the host's employment and any Carlson statements about Shapiro.
 
@@ -1274,7 +1266,7 @@ Transcript Snippet: Charlie first thought he looked up to Ben and then in 2018 a
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:context
 Investigative Direction: Look for 2018 communications or public remarks showing the change in Kirk and Shapiro's relationship.
 
@@ -1386,7 +1378,7 @@ Transcript Snippet: it was obvious that there was a coordinated effort from the 
 
 Anchored Artifacts: A-2180.1
 Mentions: N-3, N-97
-Related Nodes: N-10416
+Related Nodes: N-10389
 Tags: relevance:context
 Investigative Direction: Obtain internal Daily Wire messages from October to November 2023 or testimony from former employees.
 
@@ -1493,7 +1485,7 @@ Transcript Snippet: that Ben Shapiro was squ- squeezing their donors and trying 
 
 Anchored Artifacts: A-3248.1
 Mentions: N-3, N-97, N-14
-Related Nodes: N-10268
+Related Nodes: N-10252
 Supports: C-2791
 Tags: relevance:core
 Investigative Direction: Obtain the host's text messages with Kolvet from late 2024 and identify which donors were reported as pressured.
@@ -1526,7 +1518,7 @@ Transcript Snippet: everyone also knew that he was under pressure from pro-Israe
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10033
+Related Nodes: N-10016
 Supports: C-1142
 Tags: relevance:core
 Investigative Direction: Identify the donors and the dates of the pressure, using donor correspondence or named sources.
@@ -1621,7 +1613,7 @@ Transcript Snippet: I know that only because my security was talking to his secu
 
 Anchored Artifacts: A-2181.1
 Mentions: N-97, N-1
-Related Nodes: N-10712, N-10748
+Related Nodes: N-10648, N-10678
 Supports: C-10900
 Tags: relevance:core
 Investigative Direction: Identify Shapiro's security personnel and Kirk's security in the car and obtain their phone records.
@@ -1638,7 +1630,7 @@ Transcript Snippet: And we instantly heard back, and we took our time to verify 
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-97
-Related Nodes: N-10748
+Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Ask the host what verification steps were taken and whether the source gave documents.
 
@@ -1654,7 +1646,7 @@ Transcript Snippet: we have a strong guess as to who that woman could be, but we
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-97, N-920
-Related Nodes: N-10748
+Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the woman's identity; this can be tested only through that source.
 
@@ -1670,7 +1662,7 @@ Transcript Snippet: For clarity, Ben was in Los Angeles because he was scheduled
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-1
-Related Nodes: N-10748, N-11360
+Related Nodes: N-10678, N-11276
 Tags: relevance:core
 Investigative Direction: Obtain the Reagan Library event listing and its cancellation notice for September 10, 2025.
 
@@ -1686,7 +1678,7 @@ Transcript Snippet: he's older in his 70s mid-70s in Omaha, Nebraska of all plac
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-920
-Related Nodes: N-10748, N-10211, N-10276
+Related Nodes: N-10678, N-10203, N-10259
 Tags: relevance:core
 Investigative Direction: Check public biographies, Omaha Jewish community publications and university records for the person's age, residence and degree.
 
@@ -1702,7 +1694,7 @@ Transcript Snippet: he is and he's has been the executive director of B'nai B'ri
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-920
-Related Nodes: N-10748, N-11130
+Related Nodes: N-10678, N-11048
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International's officer and board listings; the host later describes board roles, so the exact title needs checking.
 
@@ -1718,7 +1710,7 @@ Transcript Snippet: B'nai B'rith is the Jewish Freemasonic lodge.
 
 Anchored Artifacts: 
 Mentions: N-3, N-50
-Related Nodes: N-11130, N-11129
+Related Nodes: N-11048, N-11047
 Supports: C-1240
 Tags: relevance:tangential
 Investigative Direction: Check B'nai B'rith's founding history (1843, New York) and Freud's membership; locate the cited Freud correspondence in David Bakan's book.
@@ -1735,7 +1727,7 @@ Transcript Snippet: B'nai B'rith then spun into the Anti-Defamation League.
 
 Anchored Artifacts: 
 Mentions: N-3, N-791, N-792
-Related Nodes: N-11130, N-11153, N-11156
+Related Nodes: N-11048, N-11069, N-11072
 Supports: C-1239, C-1242
 Tags: relevance:tangential
 Investigative Direction: Check the ADL's 1913 founding history and the trial record in State v. Frank; the host states Frank's guilt as fact, which the historical record contests.
@@ -1752,7 +1744,7 @@ Transcript Snippet: he was also convicted by a jury that consisted of Jews.
 
 Anchored Artifacts: 
 Mentions: N-3, N-791
-Related Nodes: N-11153, N-11156
+Related Nodes: N-11069, N-11072
 Tags: relevance:tangential
 Investigative Direction: Consult the 1913 jury list and historical scholarship on the Frank trial; the host's statement about the jury can be checked against it.
 
@@ -1768,7 +1760,7 @@ Transcript Snippet: He received the inaugural President's Award in 2019 for adva
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-920
-Related Nodes: N-10748, N-11130
+Related Nodes: N-10678, N-11048
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International annual reports and award announcements for 2011 to 2019.
 
@@ -1784,7 +1776,7 @@ Transcript Snippet: A 2022 report identified him as the director of the local B'
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-920
-Related Nodes: N-10748, N-11130, N-11359
+Related Nodes: N-10678, N-11048, N-11275
 Tags: relevance:core
 Investigative Direction: Locate the 2022 report and the Chabad Lubavitch of Nebraska board listing.
 
@@ -1800,7 +1792,7 @@ Transcript Snippet: There was a person currently sitting in jail who tried to mu
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10405, N-11359
+Related Nodes: N-10378, N-11275
 Tags: relevance:context
 Investigative Direction: Identify the case through court dockets and FBI press releases; check the chat membership and whether anyone else was charged.
 
@@ -1816,7 +1808,7 @@ Transcript Snippet: I I know he has some ties to Omaha. I'm not really clear to 
 
 Anchored Artifacts: A-2524.2
 Mentions: N-3, N-97, N-920
-Related Nodes: N-10748
+Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Look up Jewish Federation of Omaha event and donor listings for the named people.
 
@@ -1862,7 +1854,7 @@ Transcript Snippet: blamed me for the hit piece against me when it went wrong.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-330
-Related Nodes: N-10743, N-10070
+Related Nodes: N-10675, N-10067
 Supports: C-11224
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's post and the Daily Mail article and compare them.
@@ -1879,7 +1871,7 @@ Transcript Snippet: for clarity the article is still up because he's lying.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10070, N-10743
+Related Nodes: N-10067, N-10675
 Supports: C-11233
 Tags: relevance:core
 Investigative Direction: Check the Daily Mail page history and correspondence requesting a correction.
@@ -1896,7 +1888,7 @@ Transcript Snippet: We received a flurry of emails of people who presented proof
 
 Anchored Artifacts: A-3250.1
 Mentions: N-3, N-544, N-2
-Related Nodes: N-10743, N-10745
+Related Nodes: N-10675
 Supports: C-11222
 Tags: relevance:core
 Investigative Direction: Obtain the emails and the proof offered, and ask the Daily Mail whether the source was Tracy Martin.
@@ -1913,7 +1905,7 @@ Transcript Snippet: She was giving quotes to Us magazine
 
 Anchored Artifacts: 
 Mentions: N-3, N-544
-Related Nodes: N-10960
+Related Nodes: N-10881
 Tags: relevance:context
 Investigative Direction: Find the Us Weekly articles quoting Martin.
 
@@ -1944,7 +1936,7 @@ Transcript Snippet: she tried to get ahead of it and go on to Paramount Tactical
 
 Anchored Artifacts: 
 Mentions: N-3, N-544
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Check the date of the Paramount Tactical show against the host's episode in which she guessed Martin.
 
@@ -2006,7 +1998,7 @@ Transcript Snippet: as I understand it, a an attempt to show the public that she
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10743
+Related Nodes: N-10675
 Tags: relevance:context
 Investigative Direction: Ask the host's source for who commissioned the article.
 
@@ -2022,7 +2014,7 @@ Transcript Snippet: they're saying I was behind the article calling myself the B
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10743
+Related Nodes: N-10675
 Supports: C-11104
 Tags: relevance:context
 Investigative Direction: Compare the Daily Mail quotes with Kolvet's statement.
@@ -2129,7 +2121,7 @@ Transcript Snippet: Erika made her own family members and everyone present sign 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-11204
+Related Nodes: N-11120
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain a copy of any NDA signed at the burial.
 
@@ -2145,7 +2137,7 @@ Transcript Snippet: Well, somebody in the family has sold a story to a magazine.
 
 Anchored Artifacts: A-2186.1
 Mentions: N-3, N-921
-Related Nodes: N-11204
+Related Nodes: N-11120
 Tags: relevance:tangential
 Investigative Direction: Review the full CBS segment.
 
@@ -2192,7 +2184,7 @@ Transcript Snippet: Not one thing that I was forced to retract on the basis of w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Compare hearing testimony with the host's earlier claims.
 
@@ -2224,7 +2216,7 @@ Transcript Snippet: forget the t-shirts that went into a for-profit business
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:context
 Investigative Direction: Identify the business that sold the shirts and its ownership.
 
@@ -2240,7 +2232,7 @@ Transcript Snippet: if Seth Dillon admitted that he had pressured him in the Ham
 
 Anchored Artifacts: 
 Mentions: N-3, N-38, N-1
-Related Nodes: N-10027, N-10345
+Related Nodes: N-10027, N-10323
 Tags: relevance:core
 Investigative Direction: Gather accounts from attendees of the Hamptons retreat.
 
@@ -2256,7 +2248,7 @@ Transcript Snippet: I have been morally blackmailed by Seth Dillon, and Charlie 
 
 Anchored Artifacts: A-3251.1
 Mentions: N-3, N-38, N-1
-Related Nodes: N-10345
+Related Nodes: N-10323
 Tags: relevance:core
 Investigative Direction: Obtain the messages the host says she holds.
 
@@ -2272,7 +2264,7 @@ Transcript Snippet: if Tracy Martin was the one who, as I'm told, was behind thi
 
 Anchored Artifacts: A-3250.1
 Mentions: N-3, N-544, N-14, N-2
-Related Nodes: N-10743, N-10745
+Related Nodes: N-10675
 Supports: C-11109
 Tags: relevance:core
 Investigative Direction: Ask the Daily Mail whether and to whom it sent the comment request.
@@ -2289,7 +2281,7 @@ Transcript Snippet: the typical people are starting to talk about Sandy Hook I w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10741
+Related Nodes: N-10673
 Supports: C-11251
 Tags: relevance:context
 Investigative Direction: Look for any filed or threatened suit.

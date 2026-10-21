@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (remap-ep104): N-160
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-620, N-621, N-622, N-623, N-10923, N-10924, N-10926, N-10927, N-10928
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-118, N-131, N-159, N-319, N-361, N-370, N-377, N-489, N-610, N-10000, N-10075, N-10132, N-10194, N-10300, N-10388, N-10493, N-10530, N-10637, N-10638, N-10666, N-10899, N-10900, N-10925, N-213, N-10888
+  - Tip-minted Nodes (skeleton): N-620, N-621, N-622, N-623, N-10844, N-10845, N-10847, N-10848, N-10849
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-118, N-131, N-159, N-319, N-361, N-370, N-377, N-489, N-610, N-10000, N-10072, N-10127, N-10186, N-10282, N-10361, N-10280, N-10486, N-10582, N-10583, N-10512, N-10820, N-10821, N-10846, N-213, N-10809
   - Claim Range: C-9209–C-9254
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:06:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9209, C-9213, C-9214, C-9216, C-9217, C-9218, C-9219, C-9223, N-10923, N-2, N-160, N-620, N-621*
+*Related: C-9209, C-9213, C-9214, C-9216, C-9217, C-9218, C-9219, C-9223, N-10844, N-2, N-160, N-620, N-621*
 
 **A-2574.2** Host verbal reference to the follow-up emails ordering recipients to delete the original (not shown)
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9221, C-9222, N-10923*
+*Related: C-9221, C-9222, N-10844*
 
 ---
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:02:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9212, N-370, N-2, N-10638*
+*Related: C-9212, N-370, N-2, N-10583*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:14:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9224, C-9232, C-9233, C-9234, N-15, N-10924*
+*Related: C-9224, C-9232, C-9233, C-9234, N-15, N-10845*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:24:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9242, C-9243, N-2, N-16, N-1, N-10927*
+*Related: C-9242, C-9243, N-2, N-16, N-1, N-10848*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:34:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9248, N-82, N-377, N-10928*
+*Related: C-9248, N-82, N-377, N-10849*
 
 **A-2579.2** Times headline on Brigitte Macron slapping her husband over text messages to an actress (shown)
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:35:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9247, C-9248, N-82, N-377, N-623, N-10928*
+*Related: C-9247, C-9248, N-82, N-377, N-623, N-10849*
 
 ---
 
@@ -291,79 +291,79 @@ Organization whose canary-email practice, COO promotion, audit, book order and p
 
 *Related: C-9215, C-9225, C-9227, C-9235, C-9253*
 
-**N-10075** White House
+**N-10072** White House
 
 Source of the rescinded communications email; Sergio Gor's former office there is said to have exchanged staff with Charlie Kirk's office.
 
 *Related: C-9209, C-9221, C-9222, C-9238*
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 The audit announced with Streiff's promotion, and Charlie Kirk's internal DOGE.
 
 *Related: C-9227, C-9231*
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Host says the decision on Erika Kirk taking over the board and CEO role was made within 48 hours.
 
 *Related: C-9235*
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Restated (Pierre) and extended with the alleged book-printer call.
 
 *Related: C-9210, C-9232*
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 Outside and insider tips of about $10 million missing from Turning Point Action.
 
 *Related: C-9228, C-9229, C-9230, C-9231*
 
-**N-10493** Pierre / French Donor Investigation
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 The "mysterious Pierre" whom Streiff allegedly phoned on September 10.
 
 *Related: C-9210*
 
-**N-10530** TPUSA Super Feed Copyright / Data Routing Question
+**N-10486** TPUSA Super Feed Copyright / Data Routing Question
 
 Host says the "super feed back door" pays Lori Frantzve.
 
 *Related: C-9230*
 
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 Shooting timed at 8:36 p.m. Eastern, followed by the clip and the email.
 
 *Related: C-9211, C-9212, C-9213, C-9223*
 
-**N-10638** Sara Sidner Original Video Source Verification
+**N-10583** Sara Sidner Original Video Source Verification
 
 Host says the clip was distributed to Sidner and recorded by operatives.
 
 *Related: C-9212, C-9220, A-2575.1*
 
-**N-10666** Nick Shirley Background and Backing Verification
+**N-10512** Nick Shirley Background and Backing Verification
 
 The teacher-praise posts as a defense of Shirley's gang-infiltration story.
 
 *Related: C-9244, C-9245, C-9246*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Referred to as the Department of Defense; said to use canary watermarking to trace leakers.
 
 *Related: C-9214*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Transcript spelling "Paramount not so tactical"; named among those sent to call Mitch Snow a liar.
 
 *Related: C-9249*
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 The host says she had agreed to a private court process with the Daily Wire.
 
@@ -399,42 +399,42 @@ First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named
 
 *Related: C-9248, A-2579.2*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an "Amendment to the Erika Kirk video clip" and recommended that all channels, digital partners and "approved surrogates" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.
 
 *Related: C-9209, C-9213, C-9214, C-9216, C-9217, C-9218, C-9219, C-9221, C-9222, C-9223, A-2574.1, A-2574.2, N-160, N-620, N-621*
 
-**N-10924** Justin Streiff September 10 Book-Printer Call
+**N-10845** Justin Streiff September 10 Book-Printer Call
 
 Node Type: Topic
 Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Streiff called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book "Stop in the Name of God" after getting Erika Kirk's approval.
 
 *Related: C-9224, C-9232, C-9233, C-9234, A-2576.1, N-15, N-2*
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Node Type: Organization
 TPUSA's political affiliate, which the host says is headed by Tyler Bowyer. The host relays tips that money, about $10 million in total, was missing from it.
 
 *Related: C-9228, C-9229, C-9230, N-11*
 
-**N-10926** Winning Team Publishing
+**N-10847** Winning Team Publishing
 
 Node Type: Organization
 Conservative book publisher that the host says was founded by Sergio Gor and Donald Trump Jr. She says Justin Streiff also runs it, which she calls a possible conflict of interest.
 
 *Related: C-9236, C-9237, N-15, N-16, N-33*
 
-**N-10927** Sergio Gor White House Exit and India Ambassadorship
+**N-10848** Sergio Gor White House Exit and India Ambassadorship
 
 Node Type: Topic
 Investigation target: the host's rumor that Sergio Gor, then White House deputy chief of staff under Susie Wiles, was moved out to become ambassador to India. She says this followed a clash with Elon Musk, including his blocking of Jared Isaacman, and an alleged relationship with a donor's son. Erika Kirk flew to Washington for the ceremony.
 
 *Related: C-9238, C-9239, C-9240, C-9241, C-9242, C-9243, A-2577.1, N-16*
 
-**N-10928** Brigitte Macron Hanoi Slap Text-Message Explanation
+**N-10849** Brigitte Macron Hanoi Slap Text-Message Explanation
 
 Node Type: Topic
 Investigation target: the shifting explanations of Brigitte Macron's May 2025 Hanoi airport slap. The latest is a Times report that she was angry over text messages to Emmanuel Macron from an exiled Iranian actress, who denied any affair.
@@ -459,7 +459,7 @@ Transcript Snippet: I've learned that the White House attempted to rescend an em
 
 Anchored Artifacts: A-2574.1
 Mentions: N-3
-Related Nodes: N-10923, N-10075
+Related Nodes: N-10844, N-10072
 Investigative Direction: Obtain White House Military Office email server recall logs for the night of the WHCD shooting, or confirmation from a named recipient.
 
 ---
@@ -474,7 +474,7 @@ Transcript Snippet: he's the person who allegedly phoned the mysterious Pierre o
 
 Anchored Artifacts:
 Mentions: N-15, N-1
-Related Nodes: N-10300, N-10493
+Related Nodes: N-10282, N-10280
 Supports: C-3469, C-3475
 Investigative Direction: Obtain Justin Streiff's September 10, 2025 call records and identify the "Pierre" he allegedly called.
 
@@ -489,7 +489,7 @@ Claim: The host says the WHCD shooting took place at 8:36 p.m. Eastern, which sh
 Transcript Snippet: the shooting took place at 8:36 p. m. Eastern. Okay, that's when the Secret Service began firing at one another.
 
 Anchored Artifacts:
-Related Nodes: N-10637
+Related Nodes: N-10582
 Investigative Direction: Obtain the Secret Service and MPD incident timeline for the WHCD shooting and any after-action report on shots fired.
 
 ---
@@ -504,7 +504,7 @@ Transcript Snippet: Sara Sidner, you will recall, of CNN, uh she became the firs
 
 Anchored Artifacts: A-2575.1
 Mentions: N-370, N-2
-Related Nodes: N-10638, N-10637
+Related Nodes: N-10583, N-10582
 Supports: C-8577
 Investigative Direction: Pull the Instagram post's server timestamp and check for any earlier upload of the clip on other platforms.
 
@@ -520,7 +520,7 @@ Transcript Snippet: At approximately 9:49 p. m., so less than 20 minutes later a
 
 Anchored Artifacts: A-2574.1
 Mentions: N-2
-Related Nodes: N-10923, N-10637
+Related Nodes: N-10844, N-10582
 Investigative Direction: Obtain the email's header metadata from a recipient or via FOIA to the White House Military Office.
 
 ---
@@ -535,7 +535,7 @@ Transcript Snippet: we were very quickly able to determine that the Department o
 
 Anchored Artifacts: A-2574.1
 Mentions: N-3
-Related Nodes: N-10888, N-10923
+Related Nodes: N-10809, N-10844
 Investigative Direction: Seek DoD or WHMO IT policy documents on canary-trap or per-recipient watermarking of internal email.
 
 ---
@@ -565,7 +565,7 @@ Transcript Snippet: Uh Steven Cheung was copied on the email. Um, Ryan Rippeon w
 
 Anchored Artifacts: A-2574.1
 Mentions: N-160, N-620, N-621, N-3
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Ask the named recipients or their press offices to confirm receipt of the 9:49 p.m. email.
 
 ---
@@ -580,7 +580,7 @@ Transcript Snippet: it just says he's the information systems manager um at the 
 
 Anchored Artifacts: A-2574.1
 Mentions: N-621
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.
 
 ---
@@ -595,7 +595,7 @@ Transcript Snippet: I just want to go home is driving our highest organic engage
 
 Anchored Artifacts: A-2574.1
 Mentions: N-2
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Obtain the full email text from a recipient and compare engagement data for the clip on the night of the shooting.
 
 ---
@@ -610,7 +610,7 @@ Transcript Snippet: Our recommendation forward is that all communication channel
 
 Anchored Artifacts: A-2574.1
 Mentions: N-2
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Identify the "approved surrogates" and digital partners, and analyze who posted the clip between 9:49 p.m. and the next morning.
 
 ---
@@ -625,7 +625,7 @@ Transcript Snippet: I am told um that this was not a video recorded by Sarah Sei
 
 Anchored Artifacts:
 Mentions: N-370, N-2
-Related Nodes: N-10638
+Related Nodes: N-10583
 Investigative Direction: Ask CNN and Sidner for the original file's metadata and its source, and identify the device that recorded the clip.
 
 ---
@@ -639,7 +639,7 @@ Claim: The host says the White House Military Office panicked because too many p
 Transcript Snippet: the White House military office uh uh panicked and they attempted to resend the email.
 
 Anchored Artifacts: A-2574.2
-Related Nodes: N-10923, N-10075
+Related Nodes: N-10844, N-10072
 Investigative Direction: Obtain Exchange/Outlook recall logs or IT tickets for the email.
 
 ---
@@ -653,7 +653,7 @@ Claim: The host says she is told the White House then sent multiple emails order
 Transcript Snippet: sent out uh multiple emails instructing the people that were on that email that they absolutely had to delete it.
 
 Anchored Artifacts: A-2574.2
-Related Nodes: N-10923, N-10075
+Related Nodes: N-10844, N-10072
 Investigative Direction: Obtain the deletion-order emails and any related IT incident records.
 
 ---
@@ -667,7 +667,7 @@ Claim: The host says the email's other sections covered approved messages that t
 Transcript Snippet: they want to monitor adversarial state media framing uh to make sure that you know other uh states are not lying about what's happening
 
 Anchored Artifacts: A-2574.1
-Related Nodes: N-10923, N-10637
+Related Nodes: N-10844, N-10582
 Investigative Direction: Compare the full email with official WHMO and White House statements issued that night.
 
 ---
@@ -682,7 +682,7 @@ Transcript Snippet: we learned another totally wacky story um from our tips line
 
 Anchored Artifacts: A-2576.1
 Mentions: N-15, N-3
-Related Nodes: N-10924
+Related Nodes: N-10845
 Investigative Direction: Identify the receipts (invoices, messages or call logs) and confirm them with the printer.
 
 ---
@@ -727,7 +727,7 @@ Transcript Snippet: The the audit that Charlie announced at the same time that h
 
 Anchored Artifacts:
 Mentions: N-1, N-15
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Supports: C-896
 Investigative Direction: Obtain the original TPUSA memo with its date and recipient list.
 
@@ -743,7 +743,7 @@ Transcript Snippet: told me that Charlie opened up to him and said that $10 mill
 
 Anchored Artifacts:
 Mentions: N-1, N-3
-Related Nodes: N-10388, N-10925
+Related Nodes: N-10361, N-10846
 Investigative Direction: Obtain Turning Point Action and America's Turning Point financial statements and audit reports for 2024–2025.
 
 ---
@@ -758,7 +758,7 @@ Transcript Snippet: they uh said Justin was actually overheard on the phone yell
 
 Anchored Artifacts:
 Mentions: N-15
-Related Nodes: N-10388, N-10925
+Related Nodes: N-10361, N-10846
 Investigative Direction: Seek corroboration from other TPUSA staff and compare with Turning Point Action's filings.
 
 ---
@@ -773,7 +773,7 @@ Transcript Snippet: Turning Point Action is headed up by Tyler Bowyer and we hav
 
 Anchored Artifacts:
 Mentions: N-11, N-489, N-2
-Related Nodes: N-10925, N-10530, N-10388
+Related Nodes: N-10846, N-10486, N-10361
 Investigative Direction: Obtain Super Feed Inc. ownership and payment records and Turning Point Action vendor disbursements.
 
 ---
@@ -788,7 +788,7 @@ Transcript Snippet: then he established this Doge to audit uh himself internally
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10132, N-10388
+Related Nodes: N-10127, N-10361
 Supports: C-2136
 Investigative Direction: Obtain DOGE team charter documents and staff assignments from TPUSA.
 
@@ -804,7 +804,7 @@ Transcript Snippet: He allegedly, I'll say allegedly, called a former US Army in
 
 Anchored Artifacts: A-2576.1
 Mentions: N-15, N-1
-Related Nodes: N-10924, N-10300
+Related Nodes: N-10845, N-10282
 Investigative Direction: Identify the printer and obtain its call and order records for September 10, 2025.
 
 ---
@@ -819,7 +819,7 @@ Transcript Snippet: Justin Streiff allegedly apparently reached out to the print
 
 Anchored Artifacts: A-2576.1
 Mentions: N-15, N-1
-Related Nodes: N-10924
+Related Nodes: N-10845
 Investigative Direction: Obtain the printer's purchase orders and change orders for the book dated September 2025.
 
 ---
@@ -834,7 +834,7 @@ Transcript Snippet: He reached out to Erika and got her permission and then he i
 
 Anchored Artifacts: A-2576.1
 Mentions: N-2, N-15, N-1
-Related Nodes: N-10924
+Related Nodes: N-10845
 Investigative Direction: Obtain call logs between Streiff, Erika Kirk and the printer for September 10, 2025.
 
 ---
@@ -849,7 +849,7 @@ Transcript Snippet: those conversations even about her taking over the board and
 
 Anchored Artifacts:
 Mentions: N-2, N-1
-Related Nodes: N-10194, N-10000
+Related Nodes: N-10186, N-10000
 Investigative Direction: Obtain TPUSA board minutes and resolutions from September 10–14, 2025.
 
 ---
@@ -864,7 +864,7 @@ Transcript Snippet: He's also running um Winning Team Publishing. If that sounds
 
 Anchored Artifacts:
 Mentions: N-15, N-16, N-33
-Related Nodes: N-10926
+Related Nodes: N-10847
 Investigative Direction: Check Winning Team Publishing corporate filings and officer listings for Justin Streiff.
 
 ---
@@ -879,7 +879,7 @@ Transcript Snippet: Justin is also receiving money from winning team publishing 
 
 Anchored Artifacts:
 Mentions: N-15
-Related Nodes: N-10926
+Related Nodes: N-10847
 Investigative Direction: Obtain compensation disclosures from TPUSA's Form 990 and any Winning Team Publishing payroll or contract records.
 
 ---
@@ -894,7 +894,7 @@ Transcript Snippet: Sergio Gor at the time of Charlie's death. um was the White 
 
 Anchored Artifacts:
 Mentions: N-16, N-1
-Related Nodes: N-10927, N-10075
+Related Nodes: N-10848, N-10072
 Investigative Direction: Compare White House personnel records with TPUSA staff histories for overlapping employees.
 
 ---
@@ -909,7 +909,7 @@ Transcript Snippet: Sergio Gor was second in command to Susie Wiles. But he was 
 
 Anchored Artifacts:
 Mentions: N-16, N-131
-Related Nodes: N-10927
+Related Nodes: N-10848
 Investigative Direction: Review White House organizational charts and reporting on Gor's departure.
 
 ---
@@ -924,7 +924,7 @@ Transcript Snippet: Sergio Gor personally put a stop to Elon Musk's guy uh Jared
 
 Anchored Artifacts:
 Mentions: N-16, N-118, N-622, N-5
-Related Nodes: N-10927
+Related Nodes: N-10848
 Investigative Direction: Review reporting on the withdrawal of Jared Isaacman's NASA nomination and White House personnel office involvement.
 
 ---
@@ -939,7 +939,7 @@ Transcript Snippet: Then somebody found out about Sergio Gor and another a donor
 
 Anchored Artifacts:
 Mentions: N-16
-Related Nodes: N-10927
+Related Nodes: N-10848
 Investigative Direction: Identify the source of the rumor; treat as unverified and seek on-record confirmation or denial.
 
 ---
@@ -954,7 +954,7 @@ Transcript Snippet: she flew to Washington DC so to the other side of the countr
 
 Anchored Artifacts: A-2577.1
 Mentions: N-2, N-16
-Related Nodes: N-10927
+Related Nodes: N-10848
 Supports: C-3911
 Investigative Direction: Confirm the date and venue of the ceremony and Erika Kirk's travel.
 
@@ -970,7 +970,7 @@ Transcript Snippet: Charlie loved you. It's hard not to get emotional because I 
 
 Anchored Artifacts: A-2577.1
 Mentions: N-2, N-16, N-1, N-5
-Related Nodes: N-10927
+Related Nodes: N-10848
 Investigative Direction: Archive the official video of the ceremony with its date.
 
 ---
@@ -985,7 +985,7 @@ Transcript Snippet: Two of Nick Shirley's elementary school teachers reached out
 
 Anchored Artifacts: A-2578.1
 Mentions: N-610, N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Investigative Direction: Archive the post with its date and URL.
 
 ---
@@ -1000,7 +1000,7 @@ Transcript Snippet: To this day, I still keep in touch with a few of my teachers
 
 Anchored Artifacts: A-2578.2
 Mentions: N-213
-Related Nodes: N-10666
+Related Nodes: N-10512
 Investigative Direction: Archive the reply with its date.
 
 ---
@@ -1015,7 +1015,7 @@ Transcript Snippet: It's why Candace Owens is targeting him now. Nick is wildly 
 
 Anchored Artifacts: A-2578.3
 Mentions: N-610, N-213, N-3, N-1
-Related Nodes: N-10666
+Related Nodes: N-10512
 Investigative Direction: Archive the post and any screenshots of the DMs it includes.
 
 ---
@@ -1030,7 +1030,7 @@ Transcript Snippet: there's a new Times headline here that we can show you. Brig
 
 Anchored Artifacts: A-2579.2
 Mentions: N-82, N-377
-Related Nodes: N-10928
+Related Nodes: N-10849
 Investigative Direction: Archive the Times article, its date and its sourcing.
 
 ---
@@ -1045,7 +1045,7 @@ Transcript Snippet: what you guys actually saw at the Hanoi airport in May of 20
 
 Anchored Artifacts: A-2579.1, A-2579.2
 Mentions: N-82, N-377, N-623
-Related Nodes: N-10928
+Related Nodes: N-10849
 Investigative Direction: Locate the actress's published denial and compare the earlier Élysée explanations.
 
 ---
@@ -1060,7 +1060,7 @@ Transcript Snippet: Yeah, we did find him and we determined that he was did actu
 
 Anchored Artifacts: A-2580.1
 Mentions: N-319, N-361, N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Supports: C-3944
 Investigative Direction: Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Neff.
 
@@ -1090,7 +1090,7 @@ Transcript Snippet: all of these now court processes that you can agree to like 
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Investigative Direction: Review the host's Daily Wire contract for an arbitration clause and any arbitration filings.
 
 ---
@@ -1390,7 +1390,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
 - **Skeleton handling**: The existing N-16 and N-160 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-160 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-160" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
-- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blake Neff" is N-159 Blake Neff. "Captain Adam Neff" / "Commander Neff" is N-319. "Sarah Seidner" is N-370 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
+- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blake Neff" is N-159 Blake Neff. "Captain Adam Neff" / "Commander Neff" is N-319. "Sarah Seidner" is N-370 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10280; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
 - **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-610 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-623, the host says she is "definitely not saying this name right" ("Golshifteh Farahani", "Golshifteh Farahani", "Farahani", "Farahani", "Farahani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Streiff "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-9211 was not linked to C-8573 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-9244–C-9246 were not linked to C-9082/C-7382 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-9228–C-9230 were not linked to C-5184 (Buckmans' $10 million gift), which is a different proposition.

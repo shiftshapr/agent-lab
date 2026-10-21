@@ -851,8 +851,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11322",
-      "ref": "N-11322",
+      "@id": "N-11238",
+      "ref": "N-11238",
       "name": "Blexit",
       "type": "investigation_target",
       "description": "The movement the host says she started with Charlie by her side.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11364",
-      "ref": "N-11364",
+      "@id": "N-11280",
+      "ref": "N-11280",
       "name": "TPUSA Staff Departures Over Me Too Controversy",
       "type": "topic",
       "description": "The host says young women at Turning Point threatened to quit, and some quit, over her 2018 Me Too comments.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11365",
-      "ref": "N-11365",
+      "@id": "N-11281",
+      "ref": "N-11281",
       "name": "Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk",
       "type": "topic",
       "description": "The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her.",
@@ -1693,7 +1693,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11364"
+        "N-11280"
       ],
       "tags": [
         "relevance:context"
@@ -1715,7 +1715,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11364"
+        "N-11280"
       ],
       "tags": [
         "relevance:context"
@@ -1833,7 +1833,7 @@
       "claim": "The host says Charlie was right by her side when she started Blexit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11322"
+        "N-11238"
       ],
       "tags": [
         "relevance:context"
@@ -1985,7 +1985,7 @@
       "claim": "The host says that people guessed correctly that the intermediary when Trump called about Brigitte was Charlie Kirk, and confirms it was Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11365"
+        "N-11281"
       ],
       "tags": [
         "relevance:context"
@@ -2008,7 +2008,7 @@
       "claim": "The host says that they would never send anybody else to call her with anything because they knew Charlie was a brother to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11365"
+        "N-11281"
       ],
       "tags": [
         "relevance:context"

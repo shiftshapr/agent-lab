@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq113
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep113): N-10865
+  - Hole-minted Nodes (reintro-ep113): N-10786
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-10961, N-10964, N-10965, N-10966, N-10967
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-591, N-659, N-663, N-664, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-672, N-10962, N-10963
+  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-10882, N-10885, N-10886, N-10887, N-10888
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-591, N-659, N-663, N-664, N-10000, N-10008, N-10026, N-10067, N-10342, N-10390, N-10496, N-10574, N-10606, N-10611, N-10637, N-10820, N-10876, N-672, N-10883, N-10884
   - Claim Range: C-9818–C-9866
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9819, C-9820, N-659, N-178, N-10955*
+*Related: C-9819, C-9820, N-659, N-178, N-10876*
 
 **A-2636.2** Jared Kushner interview clip on how he discovered Albania aboard Nat Rothschild's boat (played)
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:08:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9826, C-9827, C-9828, N-178, N-663, N-664, N-10955*
+*Related: C-9826, C-9827, C-9828, N-178, N-663, N-664, N-10876*
 
 **A-2636.3** Comedic clip presented as "live footage from the scene inside Albania" (played)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:05:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: N-178, N-10955*
+*Related: N-178, N-10876*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:09:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9829, C-9830, N-668, N-669, N-10955*
+*Related: C-9829, C-9830, N-668, N-669, N-10876*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:11:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9832, C-9834, N-5, N-10961, N-10962*
+*Related: C-9832, C-9834, N-5, N-10882, N-10883*
 
 **A-2639.2** Map shown on screen of Venezuela, Cuba, the Gibraltar Strait, Sazan Island and Kharg Island
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:13:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: N-10955, N-10961, N-10962, N-10963*
+*Related: N-10876, N-10882, N-10883, N-10884*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:15:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9836, C-9837, C-9838, N-591, N-670, N-5, N-10964*
+*Related: C-9836, C-9837, C-9838, N-591, N-670, N-5, N-10885*
 
 **A-2640.2** Images of Pete Hegseth running with troops (Malaysia, October 2025; Singapore, May 29; Poland, 2025; Germany, February 2025)
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:22:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9840, N-591, N-10964*
+*Related: C-9840, N-591, N-10885*
 
 **A-2640.4** Clip of Laura Loomer's question to Pete Hegseth on a Cuba operation, and his answer, during the Guantanamo Bay trip (played)
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:26:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-591, N-671, N-672, N-10963, N-10965*
+*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-591, N-671, N-672, N-10884, N-10886*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:28:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9847, C-9848, N-10966, N-10026*
+*Related: C-9847, C-9848, N-10887, N-10026*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:32:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9851, C-9853, C-9860, N-1, N-2, N-10664*
+*Related: C-9851, C-9853, C-9860, N-1, N-2, N-10606*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:39:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9857, C-9858, N-10967, N-10026*
+*Related: C-9857, C-9858, N-10888, N-10026*
 
 ---
 
@@ -266,7 +266,7 @@ Video Timestamp: 00:45:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9862, C-9863, C-9864, N-433, N-10671, N-10700*
+*Related: C-9862, C-9863, C-9864, N-433, N-10611, N-10637*
 
 ---
 
@@ -410,56 +410,56 @@ First named by Laura Loomer in a clip at 00:26:08 in episode 113. She cites a ca
 
 *Related: C-9844, A-2640.4*
 
-**N-10955** Sazan Island
+**N-10876** Sazan Island
 
 Node Type: Place
 Island off the coast of Albania that the host says Ivanka Trump and Jared Kushner "discovered" from Nat Rothschild's yacht and are now developing; the host links it to Khrushchev's 1959 remarks on controlling the Mediterranean.
 
 *Related: C-9819, C-9826, C-9827, C-9828, C-9829, C-9830, A-2636.1, A-2636.2, A-2636.3, A-2638.1, A-2639.2*
 
-**N-10961** Kharg Island
+**N-10882** Kharg Island
 
 Node Type: Place
 Iranian island in the Persian Gulf that Donald Trump says he would prefer to take and that the host says Ben Shapiro has called for seizing.
 
 *Related: C-9832, C-9833, A-2639.1, A-2639.2*
 
-**N-10962** Venezuela
+**N-10883** Venezuela
 
 Node Type: Place
 Trump says millions of barrels of Venezuelan oil were brought to US refineries; the host says the oil went to Israel.
 
 *Related: C-9834, C-9835, A-2639.1, A-2639.2*
 
-**N-10963** Cuba
+**N-10884** Cuba
 
 Node Type: Place
 Subject of Laura Loomer's question about a US operation to remove the communist government and of Hegseth's "options" answer.
 
 *Related: C-9844, C-9845, A-2639.2, A-2640.4*
 
-**N-10964** US Central Command (CENTCOM)
+**N-10885** US Central Command (CENTCOM)
 
 Node Type: Organization
 Military command whose Tampa headquarters hosted Hegseth's press remarks announcing strikes on Iran.
 
 *Related: C-9836, C-9837, C-9845, A-2640.1, A-2640.3*
 
-**N-10965** Guantanamo Bay
+**N-10886** Guantanamo Bay
 
 Node Type: Place
 Naval base where the host says Hegseth traveled with Laura Loomer and ran with troops.
 
 *Related: C-9841, C-9843, C-9846, A-2640.4*
 
-**N-10966** The Spectator (US edition)
+**N-10887** The Spectator (US edition)
 
 Node Type: Organization
 Publication of the article headlined "Bombing Iran is the perfect way to celebrate pride."
 
 *Related: C-9847, C-9848, A-2641.1*
 
-**N-10967** Haaretz
+**N-10888** Haaretz
 
 Node Type: Organization
 Israeli publication of the article "What if Albania had become the Jewish state?" cited in the comments segment.
@@ -484,67 +484,61 @@ The host says the Rothschilds created Israel, that Venezuelan oil was shipped th
 
 *Related: C-9821, C-9835, C-9857, A-2641.1, A-2644.1*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 The host says TPUSA brought in Daily Mail reporters for an article on why the full video could not be released.
 
 *Related: C-9856*
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's September 8 hotel sighting is restated.
 
 *Related: C-9865*
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 The host ties Hansell's September 8 trip to the date Mitch Snow places Erika Kirk on the base.
 
 *Related: C-9864, C-9865*
 
-**N-10472** Fort Huachuca Alibi Investigation
-
-The host says Erika Kirk has not provided an alibi and that Paramount Tactical debunked the one offered.
-
-*Related: C-9866*
-
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 The host frames the Iran strikes as a bid to control the Strait of Hormuz; Hegseth announces new strikes.
 
 *Related: C-9831, C-9836, C-9837*
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 The host restates that Loomer is not legally allowed to own a weapon.
 
 *Related: C-9842*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 The host maintains the appointment video is doctored and asks Kolvet to deny AI enhancement.
 
 *Related: C-9851, C-9852, C-9853, C-9856, C-9860, A-2642.2*
 
-**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
+**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The host's FOIA for the passenger list of Hansell's Fort Huachuca flight; she references "Sam 702."
 
 *Related: C-9862, C-9863, C-9864, A-2645.1*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The Hansell FOIA request and its "very odd response."
 
 *Related: C-9862, C-9863, A-2645.1*
 
-**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness
+**N-10786** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 The host opens by asking when the widowed CEO and chairman of TPUSA must answer questions.
 
 *Related: C-9818*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Called "Paramount Not So Tactical"; the host says it debunked the Fort Huachuca alibi.
 
@@ -562,7 +556,7 @@ Transcript Snippet: we're allowed to receive answers to our very many questions 
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10000, N-10865
+Related Nodes: N-10000, N-10786
 Investigative Direction: Review Turning Point USA's most recent IRS Form 990 for annual revenue and the officers listed as CEO and board chair.
 
 ---
@@ -577,7 +571,7 @@ Transcript Snippet: Story is she was on her friend's boat, remember? Um, and she
 
 Anchored Artifacts: A-2636.1
 Mentions: N-659, N-178
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Review the full Ivanka Trump interview in which she describes discovering Sazan Island.
 
 ---
@@ -592,7 +586,7 @@ Transcript Snippet: I guarantee you they wouldn't come up with anything remotely
 
 Anchored Artifacts: A-2636.1, A-2637.1
 Mentions: N-659, N-663, N-520
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Check yacht registry and ownership records for Planet Nine and its summer 2021 Adriatic itinerary.
 
 ---
@@ -682,7 +676,7 @@ Transcript Snippet: I was on a vacation after we left government in the summer o
 
 Anchored Artifacts: A-2636.2
 Mentions: N-178, N-663
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Obtain the full Kushner interview and AIS tracking data for Planet Nine in summer 2021.
 
 ---
@@ -697,7 +691,7 @@ Transcript Snippet: One of the nights their Prime Minister Rama came to the boat
 
 Anchored Artifacts: A-2636.2
 Mentions: N-178, N-664
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Check Albanian government schedules and press reports for Edi Rama's summer 2021 meeting with Kushner.
 
 ---
@@ -712,7 +706,7 @@ Transcript Snippet: The Prime Minister of Albania was on the boat. The guy who d
 
 Anchored Artifacts: A-2636.2
 Mentions: N-664, N-663
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Check Albanian prosecutorial (SPAK) records and press reports for any corruption investigation into the Sazan Island agreement.
 
 ---
@@ -727,7 +721,7 @@ Transcript Snippet: but in 1950 1959 he visited alongside his Soviet marshal and
 
 Anchored Artifacts: A-2638.1
 Mentions: N-668
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Consult Enver Hoxha's memoir "The Khrushchevites" and historical records of Khrushchev's May 1959 Albania visit.
 
 ---
@@ -742,7 +736,7 @@ Transcript Snippet: With a powerful fleet from here, we can have the whole of th
 
 Anchored Artifacts: A-2638.1
 Mentions: N-669, N-668
-Related Nodes: N-10955
+Related Nodes: N-10876
 Investigative Direction: Verify the quotation against the published text of Hoxha's memoirs.
 
 ---
@@ -757,7 +751,7 @@ Transcript Snippet: Hence the reason Trump has been obsessed with Iran, bombing 
 
 Anchored Artifacts:
 Mentions: N-5
-Related Nodes: N-10541
+Related Nodes: N-10496
 Investigative Direction: Check congressional records for any authorization for the use of military force against Iran and War Powers Resolution filings.
 
 ---
@@ -772,7 +766,7 @@ Transcript Snippet: But you know, look, my preference has always been take Kharg
 
 Anchored Artifacts: A-2639.1
 Mentions: N-5
-Related Nodes: N-10961
+Related Nodes: N-10882
 Investigative Direction: Obtain the full Fox and Friends interview transcript and air date.
 
 ---
@@ -787,7 +781,7 @@ Transcript Snippet: That's the one that Ben Shapiro's been screaming about. We h
 
 Anchored Artifacts:
 Mentions: N-97
-Related Nodes: N-10961
+Related Nodes: N-10882
 Investigative Direction: Search Ben Shapiro's shows and posts for statements advocating seizure of Kharg Island.
 
 ---
@@ -802,7 +796,7 @@ Transcript Snippet: We've taken millions and millions of barrels of oil out of V
 
 Anchored Artifacts: A-2639.1
 Mentions: N-5
-Related Nodes: N-10962
+Related Nodes: N-10883
 Investigative Direction: Check EIA import data and shipping records for Venezuelan crude delivered to US Gulf Coast refineries.
 
 ---
@@ -817,7 +811,7 @@ Transcript Snippet: We got all this oil. Where did it go? I remember the headlin
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10962, N-10026
+Related Nodes: N-10883, N-10026
 Supports: C-6776
 Investigative Direction: Locate the headlines and tanker-tracking data on Venezuelan crude shipments to Israel.
 
@@ -833,7 +827,7 @@ Transcript Snippet: But, of course, he is busy because CENTCOM, Central Command,
 
 Anchored Artifacts: A-2640.1
 Mentions: N-591, N-670, N-5
-Related Nodes: N-10964, N-10541
+Related Nodes: N-10885, N-10496
 Investigative Direction: Obtain the Department of War transcript of Hegseth's Tampa remarks and CENTCOM strike announcements for that night.
 
 ---
@@ -848,7 +842,7 @@ Transcript Snippet: Uh and Admiral Cooper and the team here at CENTCOM has done 
 
 Anchored Artifacts: A-2640.1
 Mentions: N-591, N-670
-Related Nodes: N-10964, N-10541
+Related Nodes: N-10885, N-10496
 Investigative Direction: Review official CENTCOM releases on Operation Epic Fury and the Iran blockade.
 
 ---
@@ -893,7 +887,7 @@ Transcript Snippet: From this War Department's view the national defense strateg
 
 Anchored Artifacts: A-2640.3
 Mentions: N-591
-Related Nodes: N-10964
+Related Nodes: N-10885
 Investigative Direction: Locate the original DVIDS or War Department video and its location and date.
 
 ---
@@ -908,7 +902,7 @@ Transcript Snippet: He went down to Guantanamo Bay, Gitmo, with none other than 
 
 Anchored Artifacts: A-2640.4
 Mentions: N-591, N-60
-Related Nodes: N-10965
+Related Nodes: N-10886
 Investigative Direction: Check the Department of War press pool roster for Hegseth's Guantanamo Bay trip.
 
 ---
@@ -923,7 +917,7 @@ Transcript Snippet: I'd like to remind you, Laura Loomer is not legally allowed 
 
 Anchored Artifacts:
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Investigative Direction: Check court and state records for any firearm prohibition or involuntary commitment record concerning Laura Loomer.
 
 ---
@@ -938,7 +932,7 @@ Transcript Snippet: Anyway, Larry went down to Gitmo as a Pentagon reporter. Tot
 
 Anchored Artifacts: A-2640.4
 Mentions: N-60
-Related Nodes: N-10965
+Related Nodes: N-10886
 Investigative Direction: Check Pentagon press credential lists for Loomer's outlet.
 
 ---
@@ -953,7 +947,7 @@ Transcript Snippet: reestablish order if President Trump were to decide to do a 
 
 Anchored Artifacts: A-2640.4
 Mentions: N-60, N-671, N-672, N-5
-Related Nodes: N-10963
+Related Nodes: N-10884
 Investigative Direction: Obtain the War Department transcript of the Guantanamo press availability.
 
 ---
@@ -968,7 +962,7 @@ Transcript Snippet: So, to kind of bring it back home to while we're here, those
 
 Anchored Artifacts: A-2640.4
 Mentions: N-591
-Related Nodes: N-10963, N-10964
+Related Nodes: N-10884, N-10885
 Investigative Direction: Obtain the War Department transcript of the Guantanamo press availability.
 
 ---
@@ -983,7 +977,7 @@ Transcript Snippet: And secondly, uh when he got down to Gitmo, I should mention
 
 Anchored Artifacts:
 Mentions: N-591
-Related Nodes: N-10965
+Related Nodes: N-10886
 Investigative Direction: Check DVIDS imagery from the Guantanamo Bay visit.
 
 ---
@@ -998,7 +992,7 @@ Transcript Snippet: this is a real headline that was published in Spectator US. 
 
 Anchored Artifacts: A-2641.1
 Mentions:
-Related Nodes: N-10966
+Related Nodes: N-10887
 Investigative Direction: Retrieve the Spectator US article, its author and publication date.
 
 ---
@@ -1013,7 +1007,7 @@ Transcript Snippet: Tel Aviv's annual celebration of gayness has once again turn
 
 Anchored Artifacts: A-2641.1
 Mentions:
-Related Nodes: N-10966, N-10026
+Related Nodes: N-10887, N-10026
 Investigative Direction: Compare with the published article text.
 
 ---
@@ -1043,7 +1037,7 @@ Transcript Snippet: He said it one time in front of a camera at a private event 
 
 Anchored Artifacts: A-2642.1
 Mentions: N-14, N-159, N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Supports: C-7887
 Investigative Direction: Obtain TPUSA board minutes on succession and the full unedited Aspen donor event recording.
 
@@ -1059,7 +1053,7 @@ Transcript Snippet: I appoint my wife to run Turning Point USA if something happ
 
 Anchored Artifacts: A-2642.2
 Mentions: N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Supports: C-9053
 Investigative Direction: Forensically compare the released clip with the full Aspen event recording.
 
@@ -1075,7 +1069,7 @@ Transcript Snippet: claimed without any basis whatsoever, "Ooh, that's actually 
 
 Anchored Artifacts: A-2642.1
 Mentions: N-14, N-159, N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Compare the clip's setting and audio with ActCon 2023 footage and the Aspen event.
 
 ---
@@ -1090,7 +1084,7 @@ Transcript Snippet: But as I have said, the video is doctored and they won't ans
 
 Anchored Artifacts: A-2642.2
 Mentions: N-14, N-1, N-2
-Related Nodes: N-10664, N-10000
+Related Nodes: N-10606, N-10000
 Investigative Direction: Commission independent forensic analysis of the clip and request the original camera files from TPUSA.
 
 ---
@@ -1135,7 +1129,7 @@ Transcript Snippet: You did a whole article and brought in Daily Mail reporters 
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10000, N-10070, N-10664
+Related Nodes: N-10000, N-10067, N-10606
 Investigative Direction: Retrieve the Daily Mail article and compare with the host's prior-day episode naming the donors.
 
 ---
@@ -1150,7 +1144,7 @@ Transcript Snippet: he has this article from Haaretz, that's an Israeli uh publi
 
 Anchored Artifacts: A-2644.1
 Mentions:
-Related Nodes: N-10967, N-10026
+Related Nodes: N-10888, N-10026
 Investigative Direction: Retrieve the Haaretz article and its sources on Albania as a proposed Jewish homeland.
 
 ---
@@ -1195,7 +1189,7 @@ Transcript Snippet: Like it was actually from the Aspen event. That's a video fr
 
 Anchored Artifacts: A-2643.3, A-2642.2
 Mentions: N-14, N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Retrieve Kolvet's X post and obtain the full Aspen recording for forensic review.
 
 ---
@@ -1225,7 +1219,7 @@ Transcript Snippet: but we filed an FOIA request for Brad Hansell, the Under Sec
 
 Anchored Artifacts: A-2645.1
 Mentions: N-433, N-3
-Related Nodes: N-10700, N-10671
+Related Nodes: N-10637, N-10611
 Investigative Direction: Obtain the FOIA request and the agency's response letter.
 
 ---
@@ -1240,7 +1234,7 @@ Transcript Snippet: We received a very odd response. We just wanted an FOIA requ
 
 Anchored Artifacts: A-2645.1
 Mentions: N-433, N-3
-Related Nodes: N-10671, N-10700
+Related Nodes: N-10611, N-10637
 Investigative Direction: Obtain the response letter and file an appeal or a parallel request for the SAM702 passenger manifest.
 
 ---
@@ -1255,7 +1249,7 @@ Transcript Snippet: He stops in Tucson, and then he goes to Fort Huachuca on the
 
 Anchored Artifacts: A-2645.1
 Mentions: N-433
-Related Nodes: N-10671, N-10417
+Related Nodes: N-10611, N-10390
 Investigative Direction: Obtain flight-tracking data for the aircraft carrying Hansell and Fort Huachuca visitor records for September 8, 2025.
 
 ---
@@ -1270,7 +1264,7 @@ Transcript Snippet: That's the day that Mitch Snow, who has not edited his story
 
 Anchored Artifacts:
 Mentions: N-361, N-2
-Related Nodes: N-10367, N-10417
+Related Nodes: N-10342, N-10390
 Supports: C-4347
 Investigative Direction: Obtain Candlewood Suites Fort Huachuca guest records and base access logs for September 8, 2025.
 
@@ -1286,7 +1280,7 @@ Transcript Snippet: Erika Kirk has not provided an alibi. I guess Andrew tried t
 
 Anchored Artifacts:
 Mentions: N-2, N-14
-Related Nodes: N-10899, N-10472
+Related Nodes: N-10820, N-10390
 Supports: C-9135
 Investigative Direction: Obtain the original alibi photograph metadata and Paramount Tactical's on-air retraction.
 
@@ -1530,7 +1524,7 @@ Confidence: high
 - **Artifacts verbally referenced but not shown**: A-2645.1 (the Hansell FOIA request and response). The Daily Mail article on withholding the video and the host's prior-day naming of donors are referenced but not shown. A studio cutout of Laura Loomer holding a long "receipt" (25:19) is a comedy prop and is recorded only as meme context.
 - **Episode metadata**: the skeleton's Video Timestamp Range was 00:56:29; it is set to 00:47:48 from the transcript front matter.
 - **Name matching**: the host repeatedly says "Pete Buttigieg" (21:34) when she means Pete Hegseth; all are mapped to N-591. "Larry Loomer" is the host's running nickname for Laura Loomer (N-60). "Andrew Kolvet", "Andrew Kovacs" and "Kovacs" are mapped to N-14 Andrew Kolvet. "Brad Hansell" is mapped to N-433 Bradley Hansell. "Prime Minister Rama" is assumed to be Edi Rama (N-664); the transcript gives only the surname. "Admiral Cooper, the commander of CENTCOM" (N-670) is likely Adm. Brad Cooper, but only the surname airs. "Brian knows that" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. "Erika Frantz Paye" in a viewer comment is a variant of Erika Frantzve (N-2). "Nathaniel" and "Nathan Rothschild" are taken as Nat Rothschild (N-663).
-- **Transcription ambiguities**: "Cezanne" (13:42) is Sazan; "Karg Island" is Kharg; "trolling at WLS" refers to YWLS; "Sam 702" is linked to N-10671 (SAM702). "in 1950 1959" is a self-correction, and 1959 is used.
+- **Transcription ambiguities**: "Cezanne" (13:42) is Sazan; "Karg Island" is Kharg; "trolling at WLS" refers to YWLS; "Sam 702" is linked to N-10611 (SAM702). "in 1950 1959" is a self-correction, and 1959 is used.
 - **Possible host errors kept as spoken**: the host says "the Roman name for Pluto is Hades" (Hades is the Greek name); she calls Enver Hoxha "prime minister" (he was also First Secretary); she gives Iran's population as "150 million". C-9865 places the hotel sighting "on the base" on "the 8th"; prior claim C-4347 names the Candlewood Inn & Suites, so the two are consistent.
 - **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-9849, C-9850 and C-9852 mention both.
 - **DIA scan**: the only hit is "candaceowens. com" (42:59) in a merch plug for the Stand With Candace mug, not a tip request, so it is not a DIA beat. No tip, bounty or Decentralized Intelligence Agency beats air.

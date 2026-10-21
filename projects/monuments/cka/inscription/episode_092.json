@@ -34,7 +34,7 @@
             "N-2",
             "N-4",
             "N-14",
-            "N-10607"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -65,8 +65,8 @@
             "N-2",
             "N-4",
             "N-14",
-            "N-10607",
-            "N-10612"
+            "N-10554",
+            "N-10559"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10607"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,8 +144,8 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10607",
-            "N-10612"
+            "N-10554",
+            "N-10559"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -174,7 +174,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10607"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10607"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10611"
+            "N-10558"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10612"
+            "N-10559"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10610"
+            "N-10557"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,7 +315,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-10608"
+            "N-10555"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
           "related_nodes": [
             "N-325",
             "N-341",
-            "N-10613"
+            "N-10560"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,7 +373,7 @@
           "related_nodes": [
             "N-325",
             "N-341",
-            "N-10613",
+            "N-10560",
             "N-342"
           ],
           "tags": [],
@@ -402,7 +402,7 @@
           "related_nodes": [
             "N-325",
             "N-341",
-            "N-10613",
+            "N-10560",
             "N-342"
           ],
           "tags": [],
@@ -430,7 +430,7 @@
             "C-8264"
           ],
           "related_nodes": [
-            "N-10609"
+            "N-10556"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,8 +456,8 @@
             "C-8267"
           ],
           "related_nodes": [
-            "N-10609",
-            "N-10614"
+            "N-10556",
+            "N-10561"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -484,7 +484,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10609"
+            "N-10556"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -628,7 +628,7 @@
       "related_nodes": [
         "N-2",
         "N-14",
-        "N-10612"
+        "N-10559"
       ]
     },
     {
@@ -679,8 +679,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10607",
-        "N-10612"
+        "N-10554",
+        "N-10559"
       ]
     },
     {
@@ -707,7 +707,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-342",
-        "N-10613"
+        "N-10560"
       ]
     },
     {
@@ -725,7 +725,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10614"
+        "N-10561"
       ]
     },
     {
@@ -749,13 +749,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-341",
-        "N-10613"
+        "N-10560"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10607",
-      "ref": "N-10607",
+      "@id": "N-10554",
+      "ref": "N-10554",
       "name": "UGA No-Show Security Threat Explanation Discrepancy",
       "type": "investigation_target",
       "description": "Persistent cross-artifact inconsistency between the on-stage, Fox News, Charlie Kirk Show, Daily Wire, and Erika Kirk X-post explanations of the UGA no-show.",
@@ -787,8 +787,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10608",
-      "ref": "N-10608",
+      "@id": "N-10555",
+      "ref": "N-10555",
       "name": "TPUSA UGA Event Crowd-Size Failure",
       "type": "investigation_target",
       "description": "Discrepancy between event-promotional framing and reported venue occupancy (A-1974.1), with host reporting additional internal failure to move tickets in prior Washington DC event with Karoline Leavitt.",
@@ -810,8 +810,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10609",
-      "ref": "N-10609",
+      "@id": "N-10556",
+      "ref": "N-10556",
       "name": "Marcus Wada Arms Trafficking and Biography Cluster",
       "type": "investigation_target",
       "description": "Aggregation of (i) insider-reported arms-trafficking history in Poland, (ii) TPUSA bio omission, (iii) brother-consulting firm industry-area list.",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10610",
-      "ref": "N-10610",
+      "@id": "N-10557",
+      "ref": "N-10557",
       "name": "Pinnacle High School Parent Boycott",
       "type": "investigation_target",
       "description": "Active parental and teacher mobilization against Erika Kirk's appearance at Pinnacle High School (Phoenix).",
@@ -856,8 +856,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10611",
-      "ref": "N-10611",
+      "@id": "N-10558",
+      "ref": "N-10558",
       "name": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
       "type": "investigation_target",
       "description": "Contradiction between Erika's stated absence of fear in the Jesse Watters interview and her subsequent security-threat justification for cancellation.",
@@ -881,8 +881,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10612",
-      "ref": "N-10612",
+      "@id": "N-10559",
+      "ref": "N-10559",
       "name": "High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
       "type": "investigation_target",
       "description": "Co-existing official explanations for two adjacent events on consecutive days, with Kolvet later retroactively folding the high school cancellation into the security framework.",
@@ -908,8 +908,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10613",
-      "ref": "N-10613",
+      "@id": "N-10560",
+      "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
       "type": "investigation_target",
       "description": "Open proposal for a joint on-air appearance; Marx's reply not yet observed as of air; constitutes a pending verification target.",
@@ -935,8 +935,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10614",
-      "ref": "N-10614",
+      "@id": "N-10561",
+      "ref": "N-10561",
       "name": "TPUSA Faith Department / Adjacent Charity Biographical Pattern",
       "type": "investigation_target",
       "description": "Cross-figure recurrence of trafficking, sex-abuse, military, and former-trafficker biographies among TPUSA and partner charity personnel (host's \"connecting themes\" spreadsheet; Wada's case as the latest instance).",
@@ -961,8 +961,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10615",
-      "ref": "N-10615",
+      "@id": "N-10562",
+      "ref": "N-10562",
       "name": "TPUSA Fox News B-roll Splicing",
       "type": "investigation_target",
       "description": "Visual analysis presented by the host showing the Fox News clip during Kolvet's interview used B-roll spliced from prior TPUSA events rather than the actual Akins Ford Arena venue.",
@@ -1129,8 +1129,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Outlet carrying TPUSA's threat explanation.",
@@ -1275,8 +1275,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11145",
-      "ref": "N-11145",
+      "@id": "N-11062",
+      "ref": "N-11062",
       "name": "Minab Iran School Strike",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1379,8 +1379,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1396,8 +1396,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11297",
-      "ref": "N-11297",
+      "@id": "N-11213",
+      "ref": "N-11213",
       "name": "TPUSA Mandatory Student Attendance at Erika Kirk Events",
       "type": "topic",
       "description": "The host's claim that middle and high school students are made to attend Erika Kirk and TPUSA events as mandatory assemblies, which fills auditoriums.",
@@ -1413,8 +1413,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1430,8 +1430,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10604",
-      "ref": "N-10604",
+      "@id": "N-10551",
+      "ref": "N-10551",
       "name": "Victor Marx Background Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims.",
@@ -1506,8 +1506,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1542,8 +1542,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11165",
-      "ref": "N-11165",
+      "@id": "N-11081",
+      "ref": "N-11081",
       "name": "Romanian Angels Project",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1576,8 +1576,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1610,8 +1610,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@id": "N-10093",
+      "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1644,8 +1644,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10325",
-      "ref": "N-10325",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1678,8 +1678,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1712,8 +1712,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11167",
-      "ref": "N-11167",
+      "@id": "N-11083",
+      "ref": "N-11083",
       "name": "Operation Underground Railroad",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1729,9 +1729,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10419",
-      "ref": "N-10419",
-      "name": "Erika China Residence Discrepancy",
+      "@id": "N-10392",
+      "ref": "N-10392",
+      "name": "Erika Kirk China Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1781,8 +1781,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11238",
-      "ref": "N-11238",
+      "@id": "N-11154",
+      "ref": "N-11154",
       "name": "Temple of Set",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1816,8 +1816,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10127",
-      "ref": "N-10127",
+      "@id": "N-10122",
+      "ref": "N-10122",
       "name": "Poland",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1850,8 +1850,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10751",
-      "ref": "N-10751",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1868,8 +1868,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10201",
-      "ref": "N-10201",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1885,8 +1885,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11298",
-      "ref": "N-11298",
+      "@id": "N-11214",
+      "ref": "N-11214",
       "name": "Erika Kirk Alleged Interference With Host's Catholic Event Appearance",
       "type": "topic",
       "description": "The host's allegation that Erika Kirk personally phoned people to discourage attendance at a Catholic event where the host spoke.",
@@ -1902,8 +1902,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@id": "N-11098",
+      "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1965,7 +1965,7 @@
         "A-1965.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:02:28",
@@ -1984,8 +1984,8 @@
         "A-1966.1"
       ],
       "related_nodes": [
-        "N-10607",
-        "N-10612"
+        "N-10554",
+        "N-10559"
       ],
       "tags": [],
       "claim_timestamp": "00:03:32",
@@ -2008,8 +2008,8 @@
         "A-1967.1"
       ],
       "related_nodes": [
-        "N-10607",
-        "N-10615"
+        "N-10554",
+        "N-10562"
       ],
       "tags": [],
       "claim_timestamp": "00:07:17",
@@ -2029,8 +2029,8 @@
         "A-1968.1"
       ],
       "related_nodes": [
-        "N-10607",
-        "N-10612"
+        "N-10554",
+        "N-10559"
       ],
       "tags": [],
       "claim_timestamp": "00:31:13",
@@ -2051,7 +2051,7 @@
         "A-1969.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:08:41",
@@ -2070,8 +2070,8 @@
         "A-1970.1"
       ],
       "related_nodes": [
-        "N-10607",
-        "N-10611"
+        "N-10554",
+        "N-10558"
       ],
       "tags": [],
       "claim_timestamp": "00:16:03",
@@ -2093,7 +2093,7 @@
         "A-1971.1"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10558"
       ],
       "tags": [],
       "claim_timestamp": "00:05:40",
@@ -2113,7 +2113,7 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-10612"
+        "N-10559"
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
@@ -2129,7 +2129,7 @@
         "A-1973.1"
       ],
       "related_nodes": [
-        "N-10610"
+        "N-10557"
       ],
       "tags": [],
       "claim_timestamp": "00:21:10",
@@ -2148,7 +2148,7 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-10612"
+        "N-10559"
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
@@ -2164,7 +2164,7 @@
         "A-1974.1"
       ],
       "related_nodes": [
-        "N-10608"
+        "N-10555"
       ],
       "tags": [],
       "claim_timestamp": "00:13:42",
@@ -2183,7 +2183,7 @@
         "A-1975.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [],
       "claim_timestamp": "00:39:35",
@@ -2203,7 +2203,7 @@
         "A-1976.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [],
       "claim_timestamp": "00:40:47",
@@ -2224,7 +2224,7 @@
         "A-1977.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [],
       "claim_timestamp": "00:41:36",
@@ -2244,7 +2244,7 @@
         "A-1978.1"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [],
       "claim_timestamp": "00:43:46",
@@ -2263,7 +2263,7 @@
         "A-1978.1"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [],
       "claim_timestamp": "00:43:46",
@@ -2282,8 +2282,8 @@
         "A-1979.1"
       ],
       "related_nodes": [
-        "N-10609",
-        "N-10614"
+        "N-10556",
+        "N-10561"
       ],
       "tags": [],
       "claim_timestamp": "00:46:09",
@@ -2303,7 +2303,7 @@
         "A-1970.1"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10558"
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
@@ -2324,7 +2324,7 @@
         "A-1980.1"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41",
@@ -2349,8 +2349,8 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-10607",
-        "N-10612"
+        "N-10554",
+        "N-10559"
       ],
       "tags": [],
       "claim_timestamp": "00:31:13",
@@ -2388,7 +2388,7 @@
         "A-1965.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2414,7 +2414,7 @@
         "A-1966.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2435,7 +2435,7 @@
       "claim": "The host says Vice President JD Vance had just returned from negotiations with Iran overseas, so his Secret Service detail should have been capable of covering Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:context"
@@ -2458,7 +2458,7 @@
         "A-1967.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2482,8 +2482,8 @@
         "A-1969.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10607"
+        "N-10821",
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2508,7 +2508,7 @@
       "claim": "The host says people had been tracking Erika Kirk's plane since the very beginning, doing entire shows on it, and that she never cancelled anything because of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2528,7 +2528,7 @@
       "claim": "The host says the Akins Ford Arena at the Classic Center near the University of Georgia holds just 7,000 people, against more than 43,000 enrolled UGA students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10608"
+        "N-10555"
       ],
       "tags": [
         "relevance:context"
@@ -2545,7 +2545,7 @@
       "claim": "The host says TPUSA opened the free tickets for the UGA event to the general public, not only students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10608",
+        "N-10555",
         "N-10000"
       ],
       "tags": [
@@ -2565,7 +2565,7 @@
         "A-1974.1"
       ],
       "related_nodes": [
-        "N-10608"
+        "N-10555"
       ],
       "tags": [
         "relevance:core"
@@ -2591,7 +2591,7 @@
         "A-1967.1"
       ],
       "related_nodes": [
-        "N-10615",
+        "N-10562",
         "N-10006"
       ],
       "tags": [
@@ -2613,7 +2613,7 @@
       "claim": "The host says TPUSA college students and volunteers told her that TPUSA also had a very hard time moving tickets for Erika Kirk's Washington DC event with Karoline Leavitt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10608"
+        "N-10555"
       ],
       "tags": [
         "relevance:core"
@@ -2637,7 +2637,7 @@
         "A-1974.1"
       ],
       "related_nodes": [
-        "N-10608",
+        "N-10555",
         "N-10000"
       ],
       "tags": [
@@ -2662,7 +2662,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10608"
+        "N-10555"
       ],
       "tags": [
         "relevance:context"
@@ -2684,7 +2684,7 @@
         "A-1970.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2709,7 +2709,7 @@
       "claim": "The host says Erika Kirk was at the White House over the weekend and at the Mar-a-Lago bridal shower of Bettina Anderson, who is marrying Donald Trump Jr., as evidence that she can show up when she wants to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2731,7 +2731,7 @@
       "claim": "The host says that in a past case of a threat from a man who had escaped a mental institution, TPUSA alerted her and security while she was doing an event in Nashville with Charlie Kirk, and that nobody announced the threat publicly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2754,7 +2754,7 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-10612"
+        "N-10559"
       ],
       "tags": [
         "relevance:core"
@@ -2779,7 +2779,7 @@
         "A-1972.1"
       ],
       "related_nodes": [
-        "N-10612"
+        "N-10559"
       ],
       "tags": [
         "relevance:core"
@@ -2823,7 +2823,7 @@
         "A-1966.2"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2845,8 +2845,8 @@
       "claim": "The host says that the US administration blew up a school in Iran, killing 150 Iranian schoolgirls, and then lied about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145",
-        "N-10541"
+        "N-11062",
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -2901,7 +2901,7 @@
       "claim": "The host says that the war with Iran, fought with the explicit aim of opening the Strait of Hormuz, began when the strait was already open.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -2960,8 +2960,8 @@
       "claim": "The host says company employees who witnessed the shooting neglected to call 911 and instead rushed to remove cameras within minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10076",
-        "N-10346"
+        "N-10073",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -2981,7 +2981,7 @@
       "claim": "The host says middle schoolers and high schoolers are being forced in some cases to sit in Erika Kirk and TPUSA events, which are mandatory like a school assembly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11297",
+        "N-11213",
         "N-10000"
       ],
       "tags": [
@@ -3005,7 +3005,7 @@
         "A-1968.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -3028,7 +3028,7 @@
         "A-1968.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -3049,7 +3049,7 @@
       "claim": "The host, voicing TPUSA's messaging, says Charlie Kirk 'multiple times texted me on the security team day before' saying he thought he was going to be killed, and that TPUSA does not talk about that threat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3073,7 +3073,7 @@
       "claim": "The host says Victor Marx's daughter was in a very public back-and-forth accusing him of abuse, and retracted her statement after they began speaking again.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3094,7 +3094,7 @@
       "claim": "The host says there is a young woman who alleges that Victor Marx kidnapped her from Canada and has discussed it on shows.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3117,7 +3117,7 @@
         "A-3130.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3138,7 +3138,7 @@
       "claim": "The host says Victor Marx allegedly was the first person to announce that Charlie Kirk had died and then deleted the post.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:core"
@@ -3160,7 +3160,7 @@
       "claim": "The host says Corby Hall raised the point that Victor Marx does not have a church, so it is unclear why he calls himself a pastor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3182,7 +3182,7 @@
       "claim": "The host says that Victor Marx had a supplement venture with David Harris.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3204,7 +3204,7 @@
       "claim": "The host says it was said that proceeds from the Marx and David Harris supplements would help human sex trafficking victims.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3250,7 +3250,7 @@
         "A-1980.1"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [
         "relevance:context"
@@ -3276,7 +3276,7 @@
         "A-1979.1"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [
         "relevance:context"
@@ -3302,7 +3302,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3329,8 +3329,8 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-11165",
-        "N-10401"
+        "N-11081",
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3354,8 +3354,8 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10411",
-        "N-10401"
+        "N-10384",
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3379,7 +3379,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [
         "relevance:core"
@@ -3405,7 +3405,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10304"
       ],
       "tags": [
         "relevance:core"
@@ -3431,7 +3431,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -3457,7 +3457,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-11167"
+        "N-11083"
       ],
       "tags": [
         "relevance:core"
@@ -3481,7 +3481,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10419"
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3507,7 +3507,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-11238"
+        "N-11154"
       ],
       "tags": [
         "relevance:context"
@@ -3534,7 +3534,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-11238"
+        "N-11154"
       ],
       "tags": [
         "relevance:context"
@@ -3560,7 +3560,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10551"
       ],
       "tags": [
         "relevance:context"
@@ -3606,7 +3606,7 @@
         "A-3132.1"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10556"
       ],
       "tags": [
         "relevance:core"
@@ -3632,8 +3632,8 @@
         "A-3133.1"
       ],
       "related_nodes": [
-        "N-10127",
-        "N-10609"
+        "N-10122",
+        "N-10556"
       ],
       "tags": [
         "relevance:core"
@@ -3680,8 +3680,8 @@
       "claim": "The host says Erika Kirk cannot or will not share where Charlie Kirk is buried because she says people would come and try to destroy the site.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10751",
-        "N-10201"
+        "N-10681",
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -3703,7 +3703,7 @@
       "claim": "The host says she occasionally asks herself whether Charlie Kirk was cremated and that it is starting to make sense to her that they would have.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -3724,7 +3724,7 @@
       "claim": "The host says Erika Kirk personally made phone calls trying to get people not to attend the Catholic event where the host spoke, and that the event sold out anyway.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11298"
+        "N-11214"
       ],
       "tags": [
         "relevance:core"
@@ -3745,8 +3745,8 @@
       "claim": "The host says the people who were fired told her who was behind the PR push, and that Erika Kirk was behind it the entire time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11182",
-        "N-10607"
+        "N-11098",
+        "N-10554"
       ],
       "tags": [
         "relevance:core"

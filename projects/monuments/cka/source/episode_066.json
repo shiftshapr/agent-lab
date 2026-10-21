@@ -18,7 +18,7 @@
     "- **Transcript SHA-256**: d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Hole-minted Nodes (reintro-ep066): N-10653",
+    "  - Hole-minted Nodes (reintro-ep066): N-10595",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-5906–C-5978",
     "  - (see registers)",
@@ -42,8 +42,8 @@
     "**Episode 66 Ledger Summary**",
     "",
     "- Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713",
-    "  - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10466, N-10468, N-10469",
-    "  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183",
+    "  - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10435, N-10437, N-10438",
+    "  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10056, N-10067, N-10201, N-10303, N-10408, N-10456, N-10790, N-10820, N-10934, N-11002, N-10436, N-11098, N-11099",
     "- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)",
     "",
     "---",
@@ -391,7 +391,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-5941, N-515, N-2, N-10466, N-10469*"
+     "raw": "*Related: C-5941, N-515, N-2, N-10435, N-10438*"
     },
     {
      "raw": ""
@@ -562,7 +562,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-5944, N-10466, A-1709.1*"
+     "raw": "*Related: C-5944, N-10435, A-1709.1*"
     },
     {
      "raw": ""
@@ -619,7 +619,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-5952, N-10467*"
+     "raw": "*Related: C-5952, N-10436*"
     },
     {
      "raw": ""
@@ -679,7 +679,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-5943, N-3, N-10466*"
+     "raw": "*Related: C-5943, N-3, N-10435*"
     },
     {
      "raw": ""
@@ -739,7 +739,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-5972, C-5973, N-3, N-11014*"
+     "raw": "*Related: C-5972, C-5973, N-3, N-10934*"
     },
     {
      "raw": ""
@@ -1035,7 +1035,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1709.1, C-5941, N-10467*"
+     "raw": "*Related: A-1709.1, C-5941, N-10436*"
     },
     {
      "raw": ""
@@ -1275,7 +1275,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-2, N-10467*"
+     "raw": "*Related: N-2, N-10436*"
     },
     {
      "raw": ""
@@ -1290,8 +1290,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10466",
-   "header": "**N-10466** Cardinal Stadium RV Show Booking Question",
+   "id": "N-10435",
+   "header": "**N-10435** Cardinal Stadium RV Show Booking Question",
    "label": "Cardinal Stadium RV Show Booking Question",
    "lines": [
     {
@@ -1324,7 +1324,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1709.1, A-1712.1, C-5941, C-5944, N-10469*"
+     "raw": "*Related: A-1709.1, A-1712.1, C-5941, C-5944, N-10438*"
     },
     {
      "raw": ""
@@ -1339,8 +1339,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10467",
-   "header": "**N-10467** TPUSA Donor Targeting Pattern Question",
+   "id": "N-10436",
+   "header": "**N-10436** TPUSA Donor Targeting Pattern Question",
    "label": "TPUSA Donor Targeting Pattern Question",
    "lines": [
     {
@@ -1388,8 +1388,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10468",
-   "header": "**N-10468** Father Blank September 10 Mass Cancellation Question",
+   "id": "N-10437",
+   "header": "**N-10437** Father Blank September 10 Mass Cancellation Question",
    "label": "Father Blank September 10 Mass Cancellation Question",
    "lines": [
     {
@@ -1436,8 +1436,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10469",
-   "header": "**N-10469** $6 Million Memorial Cost Claim Verification Question",
+   "id": "N-10438",
+   "header": "**N-10438** $6 Million Memorial Cost Claim Verification Question",
    "label": "$6 Million Memorial Cost Claim Verification Question",
    "lines": [
     {
@@ -1445,7 +1445,7 @@
     },
     {
      "k": "Cross-reference target",
-     "v": "figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10466)."
+     "v": "figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10435)."
     },
     {
      "raw": ""
@@ -1470,7 +1470,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1709.1, C-5941, N-10466*"
+     "raw": "*Related: A-1709.1, C-5941, N-10435*"
     },
     {
      "raw": ""
@@ -1891,8 +1891,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10059",
-   "header": "**N-10059** PBD Podcast",
+   "id": "N-10056",
+   "header": "**N-10056** PBD Podcast",
    "label": "PBD Podcast",
    "lines": [
     {
@@ -1920,8 +1920,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10070",
-   "header": "**N-10070** Daily Mail",
+   "id": "N-10067",
+   "header": "**N-10067** Daily Mail",
    "label": "Daily Mail",
    "lines": [
     {
@@ -1949,8 +1949,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10209",
-   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "id": "N-10201",
+   "header": "**N-10201** TPUSA Faith / Christian Zionist Infiltration Question",
    "label": "TPUSA Faith / Christian Zionist Infiltration Question",
    "lines": [
     {
@@ -1979,8 +1979,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10324",
-   "header": "**N-10324** Epstein Files Release Status",
+   "id": "N-10303",
+   "header": "**N-10303** Epstein Files Release Status",
    "label": "Epstein Files Release Status",
    "lines": [
     {
@@ -2008,8 +2008,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10439",
-   "header": "**N-10439** TPUSA Termination Cause Investigation",
+   "id": "N-10408",
+   "header": "**N-10408** TPUSA Termination Cause Investigation",
    "label": "TPUSA Termination Cause Investigation",
    "lines": [
     {
@@ -2037,8 +2037,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10492",
-   "header": "**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern",
+   "id": "N-10456",
+   "header": "**N-10456** TPUSA Post-Charlie Loyalty-Test Termination Pattern",
    "label": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
    "lines": [
     {
@@ -2066,8 +2066,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10653",
-   "header": "**N-10653** Turning Point Geofencing / Show Faith by Works Link",
+   "id": "N-10595",
+   "header": "**N-10595** Turning Point Geofencing / Show Faith by Works Link",
    "label": "Turning Point Geofencing / Show Faith by Works Link",
    "lines": [
     {
@@ -2095,8 +2095,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10869",
-   "header": "**N-10869** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+   "id": "N-10790",
+   "header": "**N-10790** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
    "label": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
    "lines": [
     {
@@ -2124,8 +2124,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -2153,8 +2153,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11014",
-   "header": "**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim",
+   "id": "N-10934",
+   "header": "**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim",
    "label": "TPUSA Post-Assassination Merchandise Revenue Claim",
    "lines": [
     {
@@ -2182,9 +2182,9 @@
   },
   {
    "kind": "node",
-   "id": "N-11035",
-   "header": "**N-11035** TPUSA Employee Purge and Leak Hunt",
-   "label": "TPUSA Employee Purge and Leak Hunt",
+   "id": "N-11002",
+   "header": "**N-11002** TPUSA Leak Hunt and Employee Firings",
+   "label": "TPUSA Leak Hunt and Employee Firings",
    "lines": [
     {
      "raw": ""
@@ -2211,8 +2211,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11182",
-   "header": "**N-11182** TPUSA Crisis PR Team",
+   "id": "N-11098",
+   "header": "**N-11098** TPUSA Crisis PR Team",
    "label": "TPUSA Crisis PR Team",
    "lines": [
     {
@@ -2244,8 +2244,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11183",
-   "header": "**N-11183** Kolvet Alex Clark Interview Account Dispute",
+   "id": "N-11099",
+   "header": "**N-11099** Kolvet Alex Clark Interview Account Dispute",
    "label": "Kolvet Alex Clark Interview Account Dispute",
    "lines": [
     {
@@ -2499,7 +2499,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Investigative Direction",
@@ -2687,7 +2687,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10466, N-10469"
+     "v": "N-10435, N-10438"
     },
     {
      "k": "Investigative Direction",
@@ -2779,7 +2779,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10466"
+     "v": "N-10435"
     },
     {
      "k": "Investigative Direction",
@@ -2825,7 +2825,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Investigative Direction",
@@ -2974,7 +2974,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11182"
+     "v": "N-10000, N-11098"
     },
     {
      "k": "Tags",
@@ -3035,7 +3035,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10000"
+     "v": "N-10820, N-10000"
     },
     {
      "k": "Tags",
@@ -3096,7 +3096,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070"
+     "v": "N-10067"
     },
     {
      "k": "Supports",
@@ -3409,7 +3409,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -3531,7 +3531,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10467"
+     "v": "N-10000, N-10436"
     },
     {
      "k": "Tags",
@@ -3592,7 +3592,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11183"
+     "v": "N-11099"
     },
     {
      "k": "Tags",
@@ -3828,7 +3828,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Supports",
@@ -3950,7 +3950,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -4011,7 +4011,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467, N-10000"
+     "v": "N-10436, N-10000"
     },
     {
      "k": "Tags",
@@ -4072,7 +4072,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -4133,7 +4133,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -4194,7 +4194,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -4255,7 +4255,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -4434,7 +4434,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10059"
+     "v": "N-10056"
     },
     {
      "k": "Tags",
@@ -4495,7 +4495,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467, N-10002"
+     "v": "N-10436, N-10002"
     },
     {
      "k": "Tags",
@@ -4556,7 +4556,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -4617,7 +4617,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10469"
+     "v": "N-10438"
     },
     {
      "k": "Supports",
@@ -4682,7 +4682,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10466, N-10002"
+     "v": "N-10435, N-10002"
     },
     {
      "k": "Supports",
@@ -4747,7 +4747,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10466"
+     "v": "N-10435"
     },
     {
      "k": "Tags",
@@ -4808,7 +4808,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10653, N-10000, N-10002"
+     "v": "N-10595, N-10000, N-10002"
     },
     {
      "k": "Tags",
@@ -4869,7 +4869,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10468"
+     "v": "N-10437"
     },
     {
      "k": "Tags",
@@ -4930,7 +4930,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Supports",
@@ -5052,7 +5052,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467, N-10000"
+     "v": "N-10436, N-10000"
     },
     {
      "k": "Tags",
@@ -5113,7 +5113,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -5174,7 +5174,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10869, N-10209"
+     "v": "N-10790, N-10201"
     },
     {
      "k": "Tags",
@@ -5235,7 +5235,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10869"
+     "v": "N-10790"
     },
     {
      "k": "Tags",
@@ -5243,7 +5243,7 @@
     },
     {
      "k": "Investigative Direction",
-     "v": "Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10869."
+     "v": "Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10790."
     },
     {
      "raw": ""
@@ -5296,7 +5296,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10209, N-10467"
+     "v": "N-10201, N-10436"
     },
     {
      "k": "Tags",
@@ -5357,7 +5357,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Supports",
@@ -5422,7 +5422,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10467"
+     "v": "N-10436"
     },
     {
      "k": "Tags",
@@ -5544,7 +5544,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11035, N-10492, N-10000"
+     "v": "N-11002, N-10456, N-10000"
     },
     {
      "k": "Supports",
@@ -5731,7 +5731,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10324"
+     "v": "N-10303"
     },
     {
      "k": "Tags",
@@ -6032,7 +6032,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899"
+     "v": "N-10820"
     },
     {
      "k": "Supports",
@@ -6097,7 +6097,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10439, N-11035"
+     "v": "N-10408, N-11002"
     },
     {
      "k": "Tags",
@@ -6158,7 +6158,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11014"
+     "v": "N-10934"
     },
     {
      "k": "Tags",
@@ -6219,7 +6219,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11014"
+     "v": "N-10934"
     },
     {
      "k": "Tags",
@@ -6280,7 +6280,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11183"
+     "v": "N-11099"
     },
     {
      "k": "Tags",
@@ -6341,7 +6341,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11183"
+     "v": "N-11099"
     },
     {
      "k": "Tags",
@@ -6402,7 +6402,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11183"
+     "v": "N-11099"
     },
     {
      "k": "Tags",
@@ -7072,7 +7072,7 @@
     "- **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.",
     "- **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-5911 should be re-anchored if/when the speech artifact is produced.",
     "- **Name redaction in source:** \"Father Blank\" and \"TPUSA Blank\" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.",
-    "- **Host claim without artifact anchor:** N-10468 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.",
+    "- **Host claim without artifact anchor:** N-10437 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.",
     "- **Transcript ambiguity:** Host refers to \"Andrew Coven\" (in comment section) and \"Andrew Kouvet\" (in interview discussion); same person referenced by all variants.",
     "- **Claim passed admission test with host-interpretation caveat:** C-5911 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.",
     "",
@@ -7086,7 +7086,7 @@
     "- [x] Every node has a Related line",
     "- [x] No episode-wide artifact bundle exists",
     "- [x] People nodes use global people ledger (N-512+)",
-    "- [x] Non-person investigation targets use 1000+ series (N-10466+)",
+    "- [x] Non-person investigation targets use 1000+ series (N-10435+)",
     "- [x] No speculative claims inscribed as evidence-backed",
     "- [x] Names preserved exactly or uncertainty flagged",
     "- [x] Formatting consistent across all registers"

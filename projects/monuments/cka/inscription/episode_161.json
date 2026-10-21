@@ -32,9 +32,9 @@
           ],
           "related_nodes": [
             "N-281",
-            "N-10885",
-            "N-10888",
-            "N-10815",
+            "N-10806",
+            "N-10809",
+            "N-10739",
             "N-3"
           ],
           "tags": [],
@@ -62,9 +62,9 @@
             "C-13904"
           ],
           "related_nodes": [
-            "N-10880",
-            "N-10881",
-            "N-10883",
+            "N-10801",
+            "N-10802",
+            "N-10804",
             "N-10013",
             "N-10000",
             "N-18",
@@ -96,10 +96,10 @@
             "C-13914"
           ],
           "related_nodes": [
-            "N-10889",
+            "N-10810",
             "N-354",
             "N-351",
-            "N-10886",
+            "N-10807",
             "N-14",
             "N-10000"
           ],
@@ -127,14 +127,14 @@
             "C-13923"
           ],
           "related_nodes": [
-            "N-10891",
-            "N-10882",
+            "N-10812",
+            "N-10803",
             "N-352",
             "N-355",
             "N-356",
             "N-357",
             "N-2",
-            "N-10887"
+            "N-10808"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -160,9 +160,9 @@
             "C-13937"
           ],
           "related_nodes": [
-            "N-10884",
-            "N-10880",
-            "N-10891"
+            "N-10805",
+            "N-10801",
+            "N-10812"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -214,7 +214,7 @@
             "C-13947"
           ],
           "related_nodes": [
-            "N-10890",
+            "N-10811",
             "N-170",
             "N-201"
           ],
@@ -270,8 +270,8 @@
           "related_nodes": [
             "N-3",
             "N-351",
-            "N-10880",
-            "N-10881",
+            "N-10801",
+            "N-10802",
             "N-102"
           ],
           "tags": [],
@@ -301,7 +301,7 @@
             "N-352",
             "N-2",
             "N-69",
-            "N-11266"
+            "N-11182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -352,7 +352,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10884"
+            "N-10805"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -370,7 +370,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10880"
+            "N-10801"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -384,8 +384,8 @@
   "nodes": [
     {
       "@type": "Organization",
-      "@id": "N-10880",
-      "ref": "N-10880",
+      "@id": "N-10801",
+      "ref": "N-10801",
       "name": "Monster Lab / Clippet",
       "type": "organization",
       "description": "DBA / trade names for the clipping-pay company hosting Elephant Clipping and related campaigns; ownership at the top remains unknown per host LLC search.",
@@ -406,13 +406,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-351",
-        "N-10881"
+        "N-10802"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10881",
-      "ref": "N-10881",
+      "@id": "N-10802",
+      "ref": "N-10802",
       "name": "Elephant Clipping Campaign",
       "type": "topic",
       "description": "Matt Servius's flagship political clipping campaign paying for GOP/TPUSA-aligned shorts and anti-Candace edits via Discord.",
@@ -430,14 +430,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10880",
+        "N-10801",
         "N-351"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10882",
-      "ref": "N-10882",
+      "@id": "N-10803",
+      "ref": "N-10803",
       "name": "Enclave and Key",
       "type": "organization",
       "description": "Las Vegas marketing company (CEO Blake Wynn) whose staff emails appear on Google Drive folders seeding Erika/TPUSA clipping campaigns; Romania footprint noted by host.",
@@ -455,13 +455,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-352",
-        "N-10887"
+        "N-10808"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10883",
-      "ref": "N-10883",
+      "@id": "N-10804",
+      "ref": "N-10804",
       "name": "Anti-Candace Paid Clipping Campaign",
       "type": "topic",
       "description": "Million-dollar-scale Discord bounties and PR/DoD-adjacent character attacks during Tyler Robinson prelim week and ongoing smear packages.",
@@ -477,14 +477,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10881",
+        "N-10802",
         "N-3"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10884",
-      "ref": "N-10884",
+      "@id": "N-10805",
+      "ref": "N-10805",
       "name": "Wayback Machine Monster Lab September 2025 Wipe",
       "type": "topic",
       "description": "Archive captures from September 12, 2025 forward that only show loading; host frames as track-cleaning around go-live / first Erika campaign.",
@@ -501,13 +501,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10885",
-      "ref": "N-10885",
+      "@id": "N-10806",
+      "ref": "N-10806",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
       "type": "topic",
       "description": "Undisclosed DoD hire posting anti-Candace / pro-official-narrative thread during Tyler Robinson prelim week; later resignation.",
@@ -525,13 +525,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-281",
-        "N-10888"
+        "N-10809"
       ]
     },
     {
       "@type": "Place",
-      "@id": "N-10886",
-      "ref": "N-10886",
+      "@id": "N-10807",
+      "ref": "N-10807",
       "name": "Latvia",
       "type": "place",
       "description": "Claimed operating base for Matt Servius / Clippet elephant-clipping service in the Atlantic reporting.",
@@ -552,8 +552,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10887",
-      "ref": "N-10887",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Las Vegas",
       "type": "place",
       "description": "Enclave and Key HQ city; host restates Hughes / Adelson / Wynn / Patel syndicate framing.",
@@ -568,15 +568,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10882",
-        "N-10249",
-        "N-10744"
+        "N-10803",
+        "N-10235",
+        "N-10676"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "organization",
       "description": "Host name for DoD; employer of Jennica Pounds as special government employee; tied to Erika emotional-asset optics.",
@@ -597,8 +597,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10889",
-      "ref": "N-10889",
+      "@id": "N-10810",
+      "ref": "N-10810",
       "name": "Atlantic Elephant Clipping Expose",
       "type": "topic",
       "description": "Ali Breland September 2026 Atlantic investigation into paid conservative clipping ops.",
@@ -621,8 +621,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10890",
-      "ref": "N-10890",
+      "@id": "N-10811",
+      "ref": "N-10811",
       "name": "Andrew Tate Hustlers University Clipping Economy",
       "type": "topic",
       "description": "Clip-army affiliate model credited as pioneer of the modern clipping economy later copied by political ops.",
@@ -643,8 +643,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10891",
-      "ref": "N-10891",
+      "@id": "N-10812",
+      "ref": "N-10812",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
       "type": "topic",
       "description": "Erika videos uploaded to campaign drives five days after Charlie's death; host asks why she needed selling before the \"I forgive him\" speech.",
@@ -667,8 +667,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10892",
-      "ref": "N-10892",
+      "@id": "N-10813",
+      "ref": "N-10813",
       "name": "Audacity of the Gaslight Framing",
       "type": "topic",
       "description": "Host recurring label (and joke book title) for TPUSA/orbit denials of funded campaigns while preparing Erika CEO optics.",
@@ -707,8 +707,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10885",
-        "N-10888"
+        "N-10806",
+        "N-10809"
       ]
     },
     {
@@ -732,9 +732,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10880",
-        "N-10881",
-        "N-10886"
+        "N-10801",
+        "N-10802",
+        "N-10807"
       ]
     },
     {
@@ -759,7 +759,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10882",
+        "N-10803",
         "N-2",
         "N-353"
       ]
@@ -783,7 +783,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-352",
-        "N-10887"
+        "N-10808"
       ]
     },
     {
@@ -805,7 +805,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10889"
+        "N-10810"
       ]
     },
     {
@@ -827,7 +827,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ]
     },
     {
@@ -850,7 +850,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ]
     },
     {
@@ -872,7 +872,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ]
     },
     {
@@ -892,7 +892,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10887"
+        "N-10808"
       ]
     },
     {
@@ -914,7 +914,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -936,7 +936,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -957,7 +957,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10891",
+        "N-10812",
         "N-10000"
       ]
     },
@@ -980,7 +980,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10891",
+        "N-10812",
         "N-352"
       ]
     },
@@ -1004,8 +1004,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10883",
-        "N-10875"
+        "N-10804",
+        "N-10796"
       ]
     },
     {
@@ -1023,7 +1023,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -1063,7 +1063,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -1175,7 +1175,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -1215,7 +1215,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ]
     },
     {
@@ -1268,7 +1268,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -1320,7 +1320,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10890"
+        "N-10811"
       ]
     },
     {
@@ -1340,7 +1340,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10891"
+        "N-10812"
       ]
     },
     {
@@ -1360,7 +1360,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -1380,7 +1380,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ]
     },
     {
@@ -1400,7 +1400,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ]
     },
     {
@@ -1475,7 +1475,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ]
     },
     {
@@ -1497,7 +1497,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ]
     },
     {
@@ -1518,7 +1518,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ]
     },
     {
@@ -1538,13 +1538,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10249",
-      "ref": "N-10249",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
@@ -1558,14 +1558,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10744",
-        "N-10887"
+        "N-10676",
+        "N-10808"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10744",
-      "ref": "N-10744",
+      "@id": "N-10676",
+      "ref": "N-10676",
       "name": "Howard Hughes Death Investigation",
       "type": "investigation_target",
       "description": "Prior Hughes topic reused for Las Vegas company takeover narrative.",
@@ -1579,13 +1579,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10815",
-      "ref": "N-10815",
+      "@id": "N-10739",
+      "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
       "type": "investigation_target",
       "description": "Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanization.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10874",
-      "ref": "N-10874",
+      "@id": "N-10795",
+      "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
       "type": "investigation_target",
       "description": "Comments continue: fire captain CPR on a body dead ~15 minutes as dog not barking; still seeking identity.",
@@ -1625,8 +1625,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10875",
-      "ref": "N-10875",
+      "@id": "N-10796",
+      "ref": "N-10796",
       "name": "Candyland Illegal-Nanny Mansion NDA Smear",
       "type": "investigation_target",
       "description": "Opening satire of commenters volunteering as nannies after yesterday's Candyland package.",
@@ -1713,8 +1713,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11266",
-      "ref": "N-11266",
+      "@id": "N-11182",
+      "ref": "N-11182",
       "name": "Blake Wynn Public Appearances With Erika Kirk",
       "type": "topic",
       "description": "The host's list of events where Blake Wynn appeared beside Erika Kirk after the assassination, including the Presidential Medal of Freedom ceremony, the TPUSA winter gala, the Club America opening in Little Rock and the exit with Kash Patel.",
@@ -1733,8 +1733,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11267",
-      "ref": "N-11267",
+      "@id": "N-11183",
+      "ref": "N-11183",
       "name": "Erika Kirk Political Ambition Question",
       "type": "topic",
       "description": "The host's opinion that Erika Kirk wanted the White House and had high political ambitions, and her question whether Erika knew of the clipping site's launch.",
@@ -1751,8 +1751,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11268",
-      "ref": "N-11268",
+      "@id": "N-11184",
+      "ref": "N-11184",
       "name": "vancekirk.com Domain Purchase",
       "type": "topic",
       "description": "The host's statement that the domain vancekirk.com was purchased on September 12, 2025 by an unknown buyer.",
@@ -1785,9 +1785,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the Discord confession claim.",
       "related_artifacts": [],
@@ -1802,8 +1802,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10728",
-      "ref": "N-10728",
+      "@id": "N-10662",
+      "ref": "N-10662",
       "name": "Timpanogos Hospital Pre-Notification Failure",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's challenge to Harpole's account.",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
       "type": "investigation_target",
       "description": "Existing topic reused for the \"go home\" exit video.",
@@ -1846,9 +1846,9 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-10885",
-        "N-10888",
-        "N-10815"
+        "N-10806",
+        "N-10809",
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -1872,7 +1872,7 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-10885"
+        "N-10806"
       ],
       "tags": [],
       "claim_timestamp": "00:03:35",
@@ -1898,8 +1898,8 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-10885",
-        "N-10888"
+        "N-10806",
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:04:02",
@@ -1919,8 +1919,8 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10883",
-        "N-10880",
+        "N-10804",
+        "N-10801",
         "N-10013",
         "N-10000"
       ],
@@ -1945,9 +1945,9 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10881",
+        "N-10802",
         "N-10000",
-        "N-10880"
+        "N-10801"
       ],
       "tags": [],
       "claim_timestamp": "00:10:03",
@@ -1968,7 +1968,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10881",
+        "N-10802",
         "N-10000",
         "N-10013"
       ],
@@ -1993,10 +1993,10 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10889",
-        "N-10886",
-        "N-10881",
-        "N-10880",
+        "N-10810",
+        "N-10807",
+        "N-10802",
+        "N-10801",
         "N-10013"
       ],
       "tags": [],
@@ -2026,8 +2026,8 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10883",
-        "N-10889"
+        "N-10804",
+        "N-10810"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
@@ -2050,8 +2050,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10886",
-        "N-10892"
+        "N-10807",
+        "N-10813"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -2073,9 +2073,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10891",
-        "N-10882",
-        "N-10887"
+        "N-10812",
+        "N-10803",
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -2099,8 +2099,8 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10882",
-        "N-10880",
+        "N-10803",
+        "N-10801",
         "N-10013"
       ],
       "tags": [],
@@ -2125,8 +2125,8 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-10884",
-        "N-10880"
+        "N-10805",
+        "N-10801"
       ],
       "tags": [],
       "claim_timestamp": "00:41:06",
@@ -2145,9 +2145,9 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-10891",
-        "N-10884",
-        "N-10880"
+        "N-10812",
+        "N-10805",
+        "N-10801"
       ],
       "tags": [],
       "claim_timestamp": "00:43:19",
@@ -2166,7 +2166,7 @@
         "A-2502.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [],
       "claim_timestamp": "00:27:17",
@@ -2187,7 +2187,7 @@
         "A-2503.1"
       ],
       "related_nodes": [
-        "N-10890"
+        "N-10811"
       ],
       "tags": [],
       "claim_timestamp": "00:49:58",
@@ -2207,8 +2207,8 @@
         "A-2504.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-10884"
+        "N-10801",
+        "N-10805"
       ],
       "tags": [],
       "claim_timestamp": "00:44:24",
@@ -2250,10 +2250,10 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10887",
-        "N-10249",
-        "N-10744",
-        "N-10882"
+        "N-10808",
+        "N-10235",
+        "N-10676",
+        "N-10803"
       ],
       "tags": [],
       "claim_timestamp": "00:45:09",
@@ -2277,7 +2277,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10887"
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:46:30",
@@ -2302,9 +2302,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10892",
+        "N-10813",
         "N-10000",
-        "N-10891"
+        "N-10812"
       ],
       "tags": [],
       "claim_timestamp": "00:33:53",
@@ -2326,7 +2326,7 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [],
       "claim_timestamp": "00:57:20",
@@ -2349,7 +2349,7 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-10875"
+        "N-10796"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2371,7 +2371,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ],
       "tags": [],
       "claim_timestamp": "01:03:57",
@@ -2391,7 +2391,7 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [
         "relevance:core"
@@ -2414,7 +2414,7 @@
       "claim": "The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Boller, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ],
       "tags": [
         "relevance:context"
@@ -2437,8 +2437,8 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-10888",
-        "N-10883"
+        "N-10809",
+        "N-10804"
       ],
       "tags": [
         "relevance:core"
@@ -2462,7 +2462,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10013",
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:context"
@@ -2484,7 +2484,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10880",
+        "N-10801",
         "N-10013"
       ],
       "tags": [
@@ -2507,8 +2507,8 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-10881"
+        "N-10801",
+        "N-10802"
       ],
       "tags": [
         "relevance:context"
@@ -2530,7 +2530,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -2549,7 +2549,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ],
       "tags": [
         "relevance:context"
@@ -2571,7 +2571,7 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10889",
+        "N-10810",
         "N-10013"
       ],
       "tags": [
@@ -2594,7 +2594,7 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10886"
+        "N-10807"
       ],
       "tags": [
         "relevance:core"
@@ -2616,7 +2616,7 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10889"
+        "N-10810"
       ],
       "tags": [
         "relevance:context"
@@ -2639,7 +2639,7 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -2661,7 +2661,7 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10889",
+        "N-10810",
         "N-10013"
       ],
       "tags": [
@@ -2684,8 +2684,8 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10881",
-        "N-10889"
+        "N-10802",
+        "N-10810"
       ],
       "tags": [
         "relevance:core"
@@ -2709,7 +2709,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10891"
+        "N-10812"
       ],
       "tags": [
         "relevance:core"
@@ -2735,7 +2735,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10891"
+        "N-10812"
       ],
       "tags": [
         "relevance:core"
@@ -2758,7 +2758,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:core"
@@ -2781,7 +2781,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:core"
@@ -2803,7 +2803,7 @@
         "A-3088.1"
       ],
       "related_nodes": [
-        "N-11266",
+        "N-11182",
         "N-10000"
       ],
       "tags": [
@@ -2827,8 +2827,8 @@
         "A-3088.1"
       ],
       "related_nodes": [
-        "N-11266",
-        "N-10923"
+        "N-11182",
+        "N-10844"
       ],
       "tags": [
         "relevance:core"
@@ -2852,7 +2852,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:core"
@@ -2876,7 +2876,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:context"
@@ -2902,7 +2902,7 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:context"
@@ -2927,8 +2927,8 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10881",
-        "N-10889"
+        "N-10802",
+        "N-10810"
       ],
       "tags": [
         "relevance:core"
@@ -2951,7 +2951,7 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:context"
@@ -2992,7 +2992,7 @@
       "claim": "The host says Enclave and Key has a footprint in Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10882"
+        "N-10803"
       ],
       "tags": [
         "relevance:core"
@@ -3009,7 +3009,7 @@
       "claim": "The host says she runs no underground paid clipping campaign and no PR middleman, and that clips on her socials are made by an employee who is identifiable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ],
       "tags": [
         "relevance:context"
@@ -3050,8 +3050,8 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-10884",
-        "N-10880"
+        "N-10805",
+        "N-10801"
       ],
       "tags": [
         "relevance:core"
@@ -3063,7 +3063,7 @@
         "C-13935"
       ],
       "mentions_person_refs": [
-        "N-10880"
+        "N-10801"
       ]
     },
     {
@@ -3074,7 +3074,7 @@
       "claim": "The host says she distinctly remembers Kash Patel saying they needed to figure out who runs archive.ph, a different archive site from Wayback Machine.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10884"
+        "N-10805"
       ],
       "tags": [
         "relevance:context"
@@ -3096,7 +3096,7 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-10884"
+        "N-10805"
       ],
       "tags": [
         "relevance:core"
@@ -3118,7 +3118,7 @@
         "A-3087.1"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:core"
@@ -3137,7 +3137,7 @@
         "A-3087.1"
       ],
       "related_nodes": [
-        "N-10881"
+        "N-10802"
       ],
       "tags": [
         "relevance:context"
@@ -3162,7 +3162,7 @@
       "claim": "The host says that after Howard Hughes' company was chopped up, Adelson got a piece and the Wynn family got a piece, and that, if she remembers correctly, the Wynn family took over the hotel he lived in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [
         "relevance:tangential"
@@ -3200,7 +3200,7 @@
       "claim": "The host says the unknown person behind Monster Lab and Clipit purports to be based in New York.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:context"
@@ -3219,7 +3219,7 @@
         "A-2503.1"
       ],
       "related_nodes": [
-        "N-10890"
+        "N-10811"
       ],
       "tags": [
         "relevance:context"
@@ -3240,7 +3240,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:core"
@@ -3263,7 +3263,7 @@
       "claim": "The host says she genuinely believes Erika Kirk had high political ambitions and ultimately wanted the White House.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11267"
+        "N-11183"
       ],
       "tags": [
         "relevance:core"
@@ -3283,7 +3283,7 @@
       "claim": "The host argues that if the site went live September 12, 2025, Erika Kirk, then CEO and chairman, would have known about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11267"
+        "N-11183"
       ],
       "tags": [
         "relevance:core"
@@ -3306,7 +3306,7 @@
       "claim": "The host says she thinks September 12, 2025 is also the day the domain vancekirk.com was purchased, by an unknown buyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11268"
+        "N-11184"
       ],
       "tags": [
         "relevance:core"
@@ -3343,8 +3343,8 @@
       "claim": "The host says Brian Harpole said the hospital did not know they were coming, but the audio and chats she is listening to show redirection to Timpanogos, suggesting the hospital knew someone was coming.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10728",
-        "N-10874"
+        "N-10662",
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -3369,7 +3369,7 @@
         "A-3090.1"
       ],
       "related_nodes": [
-        "N-10884"
+        "N-10805"
       ],
       "tags": [
         "relevance:core"
@@ -3391,7 +3391,7 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-10884"
+        "N-10805"
       ],
       "tags": [
         "relevance:core"
@@ -3416,7 +3416,7 @@
         "A-3089.1"
       ],
       "related_nodes": [
-        "N-10883"
+        "N-10804"
       ],
       "tags": [
         "relevance:tangential"
@@ -3493,7 +3493,7 @@
         "A-3090.2"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:core"

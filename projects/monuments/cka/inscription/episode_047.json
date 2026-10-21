@@ -43,11 +43,11 @@
           "related_nodes": [
             "N-2",
             "N-15",
-            "N-10340",
-            "N-10342",
-            "N-10346",
-            "N-10348",
-            "N-10350"
+            "N-10318",
+            "N-10320",
+            "N-10324",
+            "N-10326",
+            "N-10328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -75,7 +75,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10337"
+            "N-10316"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
           ],
           "related_nodes": [
             "N-217",
-            "N-10341"
+            "N-10319"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -145,8 +145,8 @@
           ],
           "related_nodes": [
             "N-159",
-            "N-10338",
-            "N-10339"
+            "N-10214",
+            "N-10317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,8 +179,8 @@
             "N-190",
             "N-217",
             "N-17",
-            "N-10338",
-            "N-10339"
+            "N-10214",
+            "N-10317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
           "related_nodes": [
             "N-46",
             "N-331",
-            "N-10343"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -269,7 +269,7 @@
           ],
           "related_nodes": [
             "N-267",
-            "N-10344"
+            "N-10322"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -297,8 +297,8 @@
             "C-4129"
           ],
           "related_nodes": [
-            "N-10898",
-            "N-10351"
+            "N-10819",
+            "N-10329"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,7 +324,7 @@
             "C-4151"
           ],
           "related_nodes": [
-            "N-10343"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -351,7 +351,7 @@
             "C-4152"
           ],
           "related_nodes": [
-            "N-10343"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -555,7 +555,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10340",
+            "N-10318",
             "N-2",
             "N-237",
             "N-3"
@@ -583,7 +583,7 @@
             "C-4065"
           ],
           "related_nodes": [
-            "N-10340",
+            "N-10318",
             "N-14",
             "N-3",
             "N-846"
@@ -613,7 +613,7 @@
           ],
           "related_nodes": [
             "N-10000",
-            "N-10862",
+            "N-10783",
             "N-224",
             "N-266",
             "N-3"
@@ -641,7 +641,7 @@
             "C-4106"
           ],
           "related_nodes": [
-            "N-10338",
+            "N-10214",
             "N-159",
             "N-3"
           ],
@@ -671,8 +671,8 @@
           "related_nodes": [
             "N-1",
             "N-10000",
-            "N-10253",
-            "N-10347",
+            "N-10239",
+            "N-10325",
             "N-2",
             "N-3"
           ],
@@ -701,8 +701,8 @@
           ],
           "related_nodes": [
             "N-638",
-            "N-11382",
-            "N-10097",
+            "N-11298",
+            "N-10093",
             "N-104",
             "N-333",
             "N-40",
@@ -731,7 +731,7 @@
             "C-4164"
           ],
           "related_nodes": [
-            "N-11380",
+            "N-11296",
             "N-1",
             "N-3",
             "N-330"
@@ -761,7 +761,7 @@
             "C-4167"
           ],
           "related_nodes": [
-            "N-10352",
+            "N-10330",
             "N-3",
             "N-330",
             "N-4"
@@ -802,8 +802,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-15",
-        "N-10340",
-        "N-10350"
+        "N-10318",
+        "N-10328"
       ]
     },
     {
@@ -853,7 +853,7 @@
       "related_nodes": [
         "N-217",
         "N-17",
-        "N-10338"
+        "N-10214"
       ]
     },
     {
@@ -878,7 +878,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-190",
-        "N-10339"
+        "N-10317"
       ]
     },
     {
@@ -900,8 +900,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10348",
-        "N-10353"
+        "N-10326",
+        "N-10192"
       ]
     },
     {
@@ -926,7 +926,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-190",
-        "N-10338"
+        "N-10214"
       ]
     },
     {
@@ -950,7 +950,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ]
     },
     {
@@ -1016,7 +1016,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10354"
+        "N-10331"
       ]
     },
     {
@@ -1038,7 +1038,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ]
     },
     {
@@ -1060,7 +1060,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ]
     },
     {
@@ -1082,7 +1082,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ]
     },
     {
@@ -1102,7 +1102,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10352"
+        "N-10330"
       ]
     },
     {
@@ -1124,7 +1124,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10345"
+        "N-10323"
       ]
     },
     {
@@ -1146,7 +1146,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ]
     },
     {
@@ -1168,7 +1168,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ]
     },
     {
@@ -1190,7 +1190,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ]
     },
     {
@@ -1212,7 +1212,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ]
     },
     {
@@ -1252,7 +1252,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ]
     },
     {
@@ -1272,7 +1272,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ]
     },
     {
@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "investigation_target",
       "description": "Persistent question over what evidence exists beyond the charging affidavit; what investigators have shared with victim family; probable cause hearing scope.",
@@ -1382,8 +1382,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Contested sequence of Mikey McCoy's first calls; discrepancy between Blake Neff's narrative and the call logs.",
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10339",
-      "ref": "N-10339",
+      "@id": "N-10317",
+      "ref": "N-10317",
       "name": "Elizabeth McCoy Disappearance From Public Narrative",
       "type": "investigation_target",
       "description": "Question over why Elizabeth McCoy has been removed from the publicly-circulated version of the post-shooting call sequence.",
@@ -1432,8 +1432,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Pre-incident messages received by Andrew Kolvet (\"they're going to kill me\") and Dan Flood (\"the left is going to kill me\"); authentication status.",
@@ -1455,8 +1455,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Question over Andrew Kolvet's contact with the operating surgeon; HIPAA implications; basis for the \"man of steel\" tweet.",
@@ -1476,8 +1476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Alleged offer to take TPUSA to next level; reported Charlie Kirk rejection; contradiction with Andrew Kolvet's $150 million denial.",
@@ -1500,8 +1500,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Disputed earliest public date of UVU courtyard disclosure; August 27 vs September 2.",
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10344",
-      "ref": "N-10344",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
       "type": "investigation_target",
       "description": "Question over Candace's security team and its relationship (or not) to Charlie Kirk's security apparatus.",
@@ -1554,8 +1554,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Alleged confrontation between Seth Dillon and Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -1576,8 +1576,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Contested justification for removal of cameras at UVU event before shooting.",
@@ -1598,8 +1598,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
       "type": "investigation_target",
       "description": "Alleged pattern of Egyptian planes turning off transponders when flying in/out of Israel.",
@@ -1615,8 +1615,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10348",
-      "ref": "N-10348",
+      "@id": "N-10326",
+      "ref": "N-10326",
       "name": "Rob McCoy TPUSA Affiliation Claim",
       "type": "investigation_target",
       "description": "Question over whether Rob McCoy has any actual affiliation with TPUSA.",
@@ -1637,8 +1637,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
       "type": "investigation_target",
       "description": "Alleged pre-selection of questions at CBS interview; relationship to \"podcaster Candace Owens\" question.",
@@ -1654,8 +1654,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "Charlie Kirk's reported attendance at mass and intent to begin Catholic conversion process.",
@@ -1678,8 +1678,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10351",
-      "ref": "N-10351",
+      "@id": "N-10329",
+      "ref": "N-10329",
       "name": "Candace Husband Qatari Passport Claim",
       "type": "investigation_target",
       "description": "New York Post allegation that Candace's husband holds Qatari passport/citizenship; contradicted by Candace.",
@@ -1695,13 +1695,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10352",
-      "ref": "N-10352",
+      "@id": "N-10330",
+      "ref": "N-10330",
       "name": "Fort Huachuca Investigation",
       "type": "investigation_target",
       "description": "Reported follow-up on Fort Huachuca air base and Baron Coleman video collaboration.",
@@ -1720,9 +1720,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10353",
-      "ref": "N-10353",
-      "name": "Rob McCoy Wikipedia TPUSA Faith Entry",
+      "@id": "N-10192",
+      "ref": "N-10192",
+      "name": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
       "type": "investigation_target",
       "description": "Alleged Wikipedia update claiming Rob McCoy founded Turning Point USA Faith.",
       "related_artifacts": [
@@ -1740,8 +1740,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10354",
-      "ref": "N-10354",
+      "@id": "N-10331",
+      "ref": "N-10331",
       "name": "George Zinn Self-Incriminating Hospital Statement",
       "type": "investigation_target",
       "description": "Alleged statement by George Zinn to Utah Valley nurses that he was paid to claim to be the shooter.",
@@ -1762,8 +1762,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
       "type": "investigation_target",
       "description": "Alleged dispute over investigation of potential terrorist angle.",
@@ -1786,9 +1786,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10356",
-      "ref": "N-10356",
-      "name": "Brian Harpole Dan Flood Text Misattribution",
+      "@id": "N-10256",
+      "ref": "N-10256",
+      "name": "Harpole–Flood Text Attribution Discrepancy",
       "type": "investigation_target",
       "description": "Claim that text message Brian Harpole showed on camera belonged to Dan Flood.",
       "related_artifacts": [
@@ -1803,8 +1803,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10357",
-      "ref": "N-10357",
+      "@id": "N-10333",
+      "ref": "N-10333",
       "name": "UVU Walk-Through Disputed",
       "type": "investigation_target",
       "description": "Allegation that no security walk-through was performed at UVU on incident day.",
@@ -1865,8 +1865,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10898",
-      "ref": "N-10898",
+      "@id": "N-10819",
+      "ref": "N-10819",
       "name": "New York Post",
       "type": "organization",
       "description": "Published profile article on Candace Owens referenced in episode.",
@@ -1884,7 +1884,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10351"
+        "N-10329"
       ],
       "organization_kind": "media_outlet"
     },
@@ -2071,8 +2071,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "organization",
       "description": "Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Streit.",
@@ -2105,9 +2105,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11379",
-      "ref": "N-11379",
-      "name": "Candace Owens and TPUSA Private Meeting",
+      "@id": "N-11295",
+      "ref": "N-11295",
+      "name": "Candace-Erika December 15 Private Meeting Revelations",
       "type": "topic",
       "description": "The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Streiff, and the surrounding dispute over why it was not livestreamed.",
       "related_artifacts": [],
@@ -2136,8 +2136,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11380",
-      "ref": "N-11380",
+      "@id": "N-11296",
+      "ref": "N-11296",
       "name": "Charlie Kirk Electrocution Theory",
       "type": "topic",
       "description": "A viewer theory, raised via a super chat and Baron Coleman's video, that Charlie Kirk was electrocuted and that his hands were charred, which the host rejects.",
@@ -2153,8 +2153,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11381",
-      "ref": "N-11381",
+      "@id": "N-11297",
+      "ref": "N-11297",
       "name": "Tucker Carlson Christmas Party TPUSA Attendance Rumor",
       "type": "topic",
       "description": "A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christmas party, which the host denies.",
@@ -2170,8 +2170,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11382",
-      "ref": "N-11382",
+      "@id": "N-11298",
+      "ref": "N-11298",
       "name": "Viva Frei Radicalization Timing and Zin Decoy Theory",
       "type": "topic",
       "description": "Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zinn acted as a decoy.",
@@ -2515,8 +2515,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@id": "N-10093",
+      "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2532,8 +2532,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10105",
-      "ref": "N-10105",
+      "@id": "N-10101",
+      "ref": "N-10101",
       "name": "Israel $150M Offer Rumor",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2550,8 +2550,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2567,8 +2567,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2584,8 +2584,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2601,8 +2601,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2618,8 +2618,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10358",
-      "ref": "N-10358",
+      "@id": "N-10334",
+      "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2635,8 +2635,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2652,8 +2652,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11287",
-      "ref": "N-11287",
+      "@id": "N-11203",
+      "ref": "N-11203",
       "name": "Tim Pool Dispute With Candace Owens",
       "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2669,8 +2669,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-11336",
-      "ref": "N-11336",
+      "@id": "N-11252",
+      "ref": "N-11252",
       "name": "Qatar",
       "type": "place",
       "description": "Place discussed in the Qatar claims.",
@@ -2688,8 +2688,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11337",
-      "ref": "N-11337",
+      "@id": "N-11253",
+      "ref": "N-11253",
       "name": "Hamas",
       "type": "organization",
       "description": "Organization the host links to Qatar's intermediary role.",
@@ -2735,7 +2735,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
@@ -2757,7 +2757,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
@@ -2778,7 +2778,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
@@ -2802,7 +2802,7 @@
         "A-1540.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
@@ -2822,7 +2822,7 @@
         "A-1540.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:19:00",
@@ -2838,7 +2838,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:21:40",
@@ -2857,7 +2857,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:21:02",
@@ -2873,7 +2873,7 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:27:04",
@@ -2893,7 +2893,7 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:27:12",
@@ -2933,7 +2933,7 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
@@ -2959,7 +2959,7 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10339"
+        "N-10317"
       ],
       "tags": [],
       "claim_timestamp": "00:28:48",
@@ -2981,7 +2981,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
@@ -3001,7 +3001,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:31:40",
@@ -3021,7 +3021,7 @@
       "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-334) there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
@@ -3043,8 +3043,8 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10348",
-        "N-10353"
+        "N-10326",
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:11:35",
@@ -3063,7 +3063,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:09:23",
@@ -3083,7 +3083,7 @@
         "A-1541.1"
       ],
       "related_nodes": [
-        "N-10341"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:12:42",
@@ -3104,7 +3104,7 @@
         "A-1541.2"
       ],
       "related_nodes": [
-        "N-10341"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:14:03",
@@ -3123,7 +3123,7 @@
         "A-1545.1"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36",
@@ -3143,7 +3143,7 @@
         "A-1545.2"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [],
       "claim_timestamp": "00:45:27",
@@ -3165,7 +3165,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [],
       "claim_timestamp": "00:46:28",
@@ -3188,7 +3188,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [],
       "claim_timestamp": "00:47:23",
@@ -3207,7 +3207,7 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [],
       "claim_timestamp": "00:41:01",
@@ -3226,7 +3226,7 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [],
       "claim_timestamp": "00:41:22",
@@ -3245,8 +3245,8 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-10351",
-        "N-10898"
+        "N-10329",
+        "N-10819"
       ],
       "tags": [],
       "claim_timestamp": "00:39:55",
@@ -3284,7 +3284,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10354"
+        "N-10331"
       ],
       "tags": [],
       "claim_timestamp": "00:56:50",
@@ -3303,7 +3303,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [],
       "claim_timestamp": "00:56:14",
@@ -3324,7 +3324,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [],
       "claim_timestamp": "01:10:45",
@@ -3344,7 +3344,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10345"
+        "N-10323"
       ],
       "tags": [],
       "claim_timestamp": "00:30:25",
@@ -3365,7 +3365,7 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:51:02",
@@ -3384,7 +3384,7 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:50:15",
@@ -3400,7 +3400,7 @@
         "A-1547.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:51:20",
@@ -3419,7 +3419,7 @@
         "A-1548.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:51:40",
@@ -3469,7 +3469,7 @@
       "claim": "The host says that in the 4 hour 30 minute meeting the TPUSA side told her she could ask any question on her mind, and that Justin Streiff and Erika Kirk were the TPUSA side present.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3492,7 +3492,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3514,7 +3514,7 @@
       "claim": "The host says that after her Catholicism remark in the tribute, Alex Clark and Andrew Kolvet gave a podcast interview that was clearly aimed at her, and that they teased it without ever saying her name.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:core"
@@ -3539,8 +3539,8 @@
       "claim": "The host says TPUSA's answer in the meeting was that it was a crazy time, a new system had to be put in place, and Erika did not give any person the authority to say the Catholicism claim was a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10350",
-        "N-11379"
+        "N-10328",
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3562,7 +3562,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3585,7 +3585,7 @@
         "A-3291"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3613,7 +3613,7 @@
         "A-3292"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3635,7 +3635,7 @@
       "claim": "The host says a person who had access to Dan Flood's communications told her Flood similarly received a text message the night before, and that she never saw the message herself.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3656,7 +3656,7 @@
       "claim": "The host says Erika Kirk told her that when she heard the host say it, TPUSA went and looked and confirmed that Kolvet and Dan Flood each received a message the night before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3682,7 +3682,7 @@
       "claim": "The host says she cannot confirm Dan Flood's message said the left is going to kill me because she did not see it and was told it said they, so she has to trust TPUSA on the wording.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3706,8 +3706,8 @@
       "claim": "The host says Erika Kirk told her the reason she did not ask the host to stop in the beginning was that she was actually learning things from the show, and that the host thinks Erika similarly felt Weiss was trying to create a moment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10349",
-        "N-11379"
+        "N-10327",
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3729,8 +3729,8 @@
       "claim": "The host says Bari Weiss picked the audience questions, which were not random, and that it was all very much planned by Weiss.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10349",
-        "N-10334"
+        "N-10327",
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -3751,7 +3751,7 @@
       "claim": "The host says Erika Kirk told her she knew the general idea that the event would mention the host and conspiracies, but was not given the specific podcaster Candace Owens question.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10349"
+        "N-10327"
       ],
       "tags": [
         "relevance:core"
@@ -3773,7 +3773,7 @@
       "claim": "The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, that he lied to her several times, and that she told TPUSA she did not understand why he was there that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -3797,8 +3797,8 @@
       "claim": "The host says Tyler Bowyer tweeted that Terryl Farnsworth took the camera down because the police wanted it down and the footage secured, and that she told TPUSA she knows this is not true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346",
-        "N-10167"
+        "N-10324",
+        "N-10160"
       ],
       "tags": [
         "relevance:core"
@@ -3820,7 +3820,7 @@
       "claim": "The host says TPUSA told her that after Farnsworth took the cameras down a police officer or fed asked him to secure the footage, which she says makes sense but is not a reason he took them down immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -3841,7 +3841,7 @@
       "claim": "The host says she had assumed Rob McCoy worked for Turning Point USA and, learning he does not work with TPUSA in any capacity, says she was just wrong and will correct it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10348"
+        "N-10326"
       ],
       "tags": [
         "relevance:core"
@@ -3868,8 +3868,8 @@
       "claim": "The host says Rob McCoy hit the stage at the memorial and said he was America's pastor, and that she assumes he had Wikipedia updated to say he started Turning Point USA Faith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10353",
-        "N-10348"
+        "N-10192",
+        "N-10326"
       ],
       "tags": [
         "relevance:core"
@@ -3890,7 +3890,7 @@
       "claim": "The host says she casually said on her show that she had seen the footage and there was no blood, and that Andrew Kolvet then put out a tweet about what happened with the bullet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341"
+        "N-10319"
       ],
       "tags": [
         "relevance:core"
@@ -3911,8 +3911,8 @@
       "claim": "The host says Andrew Kolvet was not one of the people who got into the hospital, so it is inappropriate and strange for the PR person to be calling the surgeon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10358"
+        "N-10319",
+        "N-10334"
       ],
       "tags": [
         "relevance:core"
@@ -3935,7 +3935,7 @@
         "A-3293"
       ],
       "related_nodes": [
-        "N-10862",
+        "N-10783",
         "N-10000"
       ],
       "tags": [
@@ -3981,8 +3981,8 @@
       "claim": "The host says she told TPUSA she wanted to walk out of the meeting able to tell her audience that, despite things going on behind the scenes, Tyler Robinson shot Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337",
-        "N-11379"
+        "N-10316",
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -4006,7 +4006,7 @@
       "related_nodes": [
         "N-10000",
         "N-10012",
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4027,7 +4027,7 @@
       "claim": "The host says that when she asked why TPUSA is confident in Tyler Robinson's guilt, they called a lawyer involved in the case, and what she got from the lawyer did not make her feel that Robinson shot Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4052,7 +4052,7 @@
       "claim": "The host says she offered the lawyer that, if he told her TPUSA had the footage of Robinson taking the shot, she would not repeat the specifics to the audience but would say that TPUSA had something solid, and that he said they had nothing but the affidavit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4076,7 +4076,7 @@
       "claim": "The host says the lawyer told her that information on what investigators have found is not shared with the victim, including Erika Kirk, at this stage and she will not know until the May hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4100,8 +4100,8 @@
       "claim": "The host says she is very confident, opposite to her well-paid peers, that she does not believe Tyler Robinson pulled the trigger, until the state shows more than the affidavit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110",
-        "N-10337"
+        "N-10106",
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4122,7 +4122,7 @@
       "claim": "The host says the witness who filmed the person on the roof is not a random student but a man who trains people to shoot guns at a range.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4145,7 +4145,7 @@
       "claim": "The host says that both of the people who filmed videos that day told her they were not reached out to by investigators.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4165,7 +4165,7 @@
       "claim": "The host says the TPUSA side replied that investigators may not need to talk to the witness because their video will speak for itself, which she calls a good rebuttal while still not understanding their confidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4187,8 +4187,8 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10338",
-        "N-11379"
+        "N-10214",
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -4211,7 +4211,7 @@
         "A-1542.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4233,7 +4233,7 @@
       "claim": "The host says she feels the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had, as she put it, almost gone to a camp and trained.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4255,7 +4255,7 @@
       "claim": "The host says that despite accounts that Mikey was trained so that Charlie told him to go fast, Mikey did not do what was described; the first person he called was his wife, Elizabeth McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4286,7 +4286,7 @@
         "A-3294"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4307,7 +4307,7 @@
       "claim": "The host says Mikey McCoy three-wayed a third person she declines to name, and adds that Danny McCoy is his brother in the military, with that contact being before the shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4328,7 +4328,7 @@
       "claim": "The host says the call logs show Mikey McCoy added Erika to the call after Blake Neff ended his call with his mother, which she says contradicts Neff's account that Mikey called Erika first and then Neff called his mom.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4355,7 +4355,7 @@
       "claim": "The host says Mikey McCoy ended the call with his wife and a minute later his brother called him back and they stayed on the phone for 10 minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4377,7 +4377,7 @@
       "claim": "The host says Erika Kirk said she was not aware of Bibi Netanyahu's offer to fund Turning Point to the next level, and that it may have been kept in the business lane at TPUSA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -4399,7 +4399,7 @@
       "claim": "The host says that in the sit-down with Alex Clark, Andrew Kolvet said there was not a $150 million and that it was made up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10105"
+        "N-10101"
       ],
       "tags": [
         "relevance:core"
@@ -4424,8 +4424,8 @@
       "claim": "The host says she never said $150 million, not once on her show, and that three sources with knowledge confirmed the Netanyahu offer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10105",
-        "N-10342"
+        "N-10101",
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -4450,7 +4450,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10018",
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -4474,8 +4474,8 @@
         "A-3295"
       ],
       "related_nodes": [
-        "N-10347",
-        "N-10253"
+        "N-10325",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -4501,7 +4501,7 @@
         "A-3295"
       ],
       "related_nodes": [
-        "N-10347",
+        "N-10325",
         "N-10000"
       ],
       "tags": [
@@ -4527,7 +4527,7 @@
       "claim": "The host says that after connecting people on the planes to other Egyptian planes she realized the planes are flying in and out of Israel and turning their transponders off each time, and says she will present the evidence the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10347",
+        "N-10325",
         "N-10026"
       ],
       "tags": [
@@ -4548,7 +4548,7 @@
       "claim": "The host says that she will show the next day how the Egyptian planes tie back to Israel and that there is no disproving it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10347",
+        "N-10325",
         "N-10026"
       ],
       "tags": [
@@ -4569,7 +4569,7 @@
       "claim": "The host says she should correct her earlier statement: the person on the call log was not Danny McCoy but Danny, another one of Charlie's assistants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -4610,8 +4610,8 @@
       "claim": "The host says her husband's Wikipedia page was changed to say he was a Qatari with a Qatari passport or citizenship, and that she knows he has never been to Qatar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10351",
-        "N-11336"
+        "N-10329",
+        "N-11252"
       ],
       "tags": [
         "relevance:tangential"
@@ -4637,7 +4637,7 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [
         "relevance:context"
@@ -4657,7 +4657,7 @@
       "claim": "The host says the New York Post's claim that she demanded others do her research is false, and that she has always done her own shows, cannot read a script and riffs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [
         "relevance:tangential"
@@ -4680,7 +4680,7 @@
       "claim": "The host says the Post's claim that she demanded a huge studio and attempted to use their PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [
         "relevance:tangential"
@@ -4700,7 +4700,7 @@
       "claim": "The host says the Post's source claim that her team hated her is false, because her team came with her when she was fired from the Daily Wire and her whole team is still with her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [
         "relevance:tangential"
@@ -4720,7 +4720,7 @@
       "claim": "The host says she believes Charlie was betrayed by people close to him and asked Erika Kirk in the meeting how TPUSA can so confidently say nobody inside had anything to do with it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -4742,7 +4742,7 @@
       "claim": "The host says Erika Kirk responded that she did not want to come across as a feminist and that the people around Charlie are all her family, to which the host replied that she knows people in that family and they are not good people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -4766,8 +4766,8 @@
         "A-1545.2"
       ],
       "related_nodes": [
-        "N-11287",
-        "N-10344"
+        "N-11203",
+        "N-10322"
       ],
       "tags": [
         "relevance:core"
@@ -4788,7 +4788,7 @@
       "claim": "The host says she told Charlie she did not like the security apparatus and got her own security from the very beginning, separate from his.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:core"
@@ -4812,7 +4812,7 @@
       "claim": "The host says that if she ignored a demand to correct her statements, as she did with Brigitte Macron and Kim Klacik because she told the truth, then the sender would have grounds to file, but Charlie's security sent no such demand.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:context"
@@ -4835,8 +4835,8 @@
       "claim": "The host says she accurately said the Brian Harpole message that was shown belonged to Dan Flood, and that they did not do a walk-through of the venue that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10356",
-        "N-10357"
+        "N-10256",
+        "N-10333"
       ],
       "tags": [
         "relevance:core"
@@ -4858,8 +4858,8 @@
       "claim": "The host says there is something at Fort Huachuca that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10352",
-        "N-10347"
+        "N-10330",
+        "N-10325"
       ],
       "tags": [
         "relevance:core"
@@ -4879,7 +4879,7 @@
       "claim": "The host says she thought neither side was supposed to be doing live streams while talks were underway, that TPUSA's continued daily show was not communicated to her, that it felt like a ceasefire that got violated, and that the Charlie Kirk Show discussed the Tyler Robinson trial the day before.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379",
+        "N-11295",
         "N-10000"
       ],
       "tags": [
@@ -4903,7 +4903,7 @@
         "A-1544.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4925,7 +4925,7 @@
         "A-1544.1"
       ],
       "related_nodes": [
-        "N-10337",
+        "N-10316",
         "N-10012"
       ],
       "tags": [
@@ -4949,8 +4949,8 @@
         "A-1544.1"
       ],
       "related_nodes": [
-        "N-10343",
-        "N-10337"
+        "N-10321",
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -4972,7 +4972,7 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -4995,7 +4995,7 @@
         "A-3296"
       ],
       "related_nodes": [
-        "N-11382"
+        "N-11298"
       ],
       "tags": [
         "relevance:core"
@@ -5020,8 +5020,8 @@
         "A-3296"
       ],
       "related_nodes": [
-        "N-11382",
-        "N-10097"
+        "N-11298",
+        "N-10093"
       ],
       "tags": [
         "relevance:core"
@@ -5043,7 +5043,7 @@
       "claim": "The host says she broke the story that the nurses at Utah Valley, which treated George Zinn, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10354"
+        "N-10331"
       ],
       "tags": [
         "relevance:core"
@@ -5067,7 +5067,7 @@
       "claim": "The host says it might be the first time Andrew Kolvet has expressed that he thought the Robinson messages were weird initially, and that she welcomes TPUSA giving air to different perspectives.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:context"
@@ -5089,7 +5089,7 @@
       "claim": "The host says Megyn Kelly, who was initially going to ref the conversation when it was going to be livestreamed and before the Bari Weiss moment, offered to ref it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:context"
@@ -5111,7 +5111,7 @@
       "claim": "The host says her side had been trying to make the sit-down happen in the background since Blake Neff fumbled the first invite, and that public flak pushed TPUSA to fix it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:context"
@@ -5152,7 +5152,7 @@
         "A-3297"
       ],
       "related_nodes": [
-        "N-11380"
+        "N-11296"
       ],
       "tags": [
         "relevance:core"
@@ -5176,7 +5176,7 @@
         "A-3298"
       ],
       "related_nodes": [
-        "N-10352"
+        "N-10330"
       ],
       "tags": [
         "relevance:core"
@@ -5199,7 +5199,7 @@
         "A-3298"
       ],
       "related_nodes": [
-        "N-10352"
+        "N-10330"
       ],
       "tags": [
         "relevance:core"
@@ -5223,7 +5223,7 @@
         "A-3298"
       ],
       "related_nodes": [
-        "N-10352"
+        "N-10330"
       ],
       "tags": [
         "relevance:core"
@@ -5245,7 +5245,7 @@
       "claim": "The host says the combined conversation was first meant to be live, that the offer Blake Neff made was not a true offer, and that Erika then communicated with Megyn Kelly and the host, with Kelly as intermediary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:context"
@@ -5268,7 +5268,7 @@
       "claim": "The host says Justin Streiff said the temperature was a little hot and proposed a private rather than live conversation, which she says brought the temperature down, though she says she was always open to live-streaming.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:context"
@@ -5289,7 +5289,7 @@
       "claim": "The host says that because the conversation was not live she was able to tell TPUSA things she had not yet said publicly so she could fact-check them, and that some relate to Charlie's research and 9/10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11379"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -5310,7 +5310,7 @@
       "claim": "The host says they did not discuss whether the feds received the night-before messages, and that Erika said she did not see those messages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -5331,7 +5331,7 @@
       "claim": "The host says that, to her knowledge, she did not see or speak with any Turning Point USA employees at Tucker Carlson's Christmas party, which she attended because she has never had beef with Tucker or Marjorie Taylor Greene.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11381",
+        "N-11297",
         "N-10000"
       ],
       "tags": [
@@ -5354,7 +5354,7 @@
       "claim": "The host says Erika confirmed it and that they know Charlie was going to mass, that she herself had those conversations with him while he was attending mass, and that his plan to start the process is third-party information she cannot confirm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:core"
@@ -5379,8 +5379,8 @@
       "claim": "The host says Qatar recently said it works with Hamas because Israel and the United States asked it to act as intermediary, and that she tends to believe that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11336",
-        "N-11337",
+        "N-11252",
+        "N-11253",
         "N-10026"
       ],
       "tags": [
@@ -5401,7 +5401,7 @@
       "claim": "The host says Jared Kushner and Zionists are allowed to go to Qatar, which she says happened recently, and do deals, while she and Tucker are not.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11336"
+        "N-11252"
       ],
       "tags": [
         "relevance:context"

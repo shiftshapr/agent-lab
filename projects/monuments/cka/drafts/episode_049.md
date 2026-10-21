@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 54326bf303ba2cba298d77e6856541d4369aa89e3a7bd9e071e08bfc83a58bce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11022, N-11023
-  - Hole-minted Nodes (reintro-ep049): N-10417, N-10671, N-10719
+  - Tip-minted Nodes (supplement_2026-10): N-10941, N-10942
+  - Hole-minted Nodes (reintro-ep049): N-10390, N-10611, N-10655
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4275–C-4362
   - (see registers)
@@ -36,8 +36,8 @@
 ### Episode 49 Ledger Summary
 
 - Artifact Families Introduced: A-1557, A-1558, A-1559, A-1560
-  - New Nodes Introduced: N-361, N-362, N-363, N-10369
-  - Reused Nodes Appearing: N-17, N-22, N-40, N-55, N-69, N-261, N-10086, N-10110, N-10121, N-10239, N-10246, N-10270, N-10271, N-10326, N-10328, N-10333, N-10346, N-10360, N-10362, N-10364, N-10769, N-10367, N-10368, N-10436
+  - New Nodes Introduced: N-361, N-362, N-363, N-10344
+  - Reused Nodes Appearing: N-17, N-22, N-40, N-55, N-69, N-261, N-10082, N-10106, N-10095, N-10226, N-10232, N-10254, N-10255, N-10305, N-10307, N-10312, N-10324, N-10336, N-10338, N-10340, N-10698, N-10342, N-10343, N-10405
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and other previously inscribed entities as applicable
 
 ---
@@ -66,7 +66,7 @@ Video Timestamp: 00:12:00–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single email, paraphrased on air)
 
-*Related: C-4303, N-10368*
+*Related: C-4303, N-10343*
 
 **A-1557.2** Viewer Email – Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:14:48–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single uncorroborated email, host uses "allegedly" qualifier)
 
-*Related: C-4306, C-4310, N-362, N-10368*
+*Related: C-4306, C-4310, N-362, N-10343*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states metadata confirms location and time)
 
-*Related: C-4316, N-361, N-10367*
+*Related: C-4316, N-361, N-10342*
 
 **A-1558.2** Military ID Card(s) Provided by Witness to Host
 
@@ -110,7 +110,7 @@ Video Timestamp: 01:07:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full interview segment)
 
-*Related: C-4318, C-4316, C-4336, C-4347, C-4348, C-4351, N-361, N-319, N-10367*
+*Related: C-4318, C-4316, C-4336, C-4347, C-4348, C-4351, N-361, N-319, N-10342*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 01:01:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (confirmed shown)
 
-*Related: C-4351, N-363, N-10367*
+*Related: C-4351, N-363, N-10342*
 
 **A-1559.2** Reference Photograph of Brian Harpole Cited as Comparison Image
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:55:09–00:57:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced by witness; shown on screen per witness but display not detailed in transcript)
 
-*Related: C-4348, N-10367*
+*Related: C-4348, N-10342*
 
 **A-1559.3** Reference Photograph of Erika Kirk with Ponytail Cited as Comparison Image
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:57:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced by witness; display not detailed in transcript)
 
-*Related: C-4347, N-2, N-10367*
+*Related: C-4347, N-2, N-10342*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:01:18–00:03:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer prompt, single source)
 
-*Related: C-4276, N-10369*
+*Related: C-4276, N-10344*
 
 **A-1560.2** Photographs of Charlie Kirk's SUV Interior Showing Black Plastic/Tempered Glass-Like Fragments
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:02:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (displayed on screen but not transcribed; host defers full release)
 
-*Related: C-4276, N-10369*
+*Related: C-4276, N-10344*
 
 ---
 
@@ -248,7 +248,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.2, A-1558.3, C-4318, C-4316, C-4336, C-4347, C-4348, C-4351, N-10367*
+*Related: A-1558.1, A-1558.2, A-1558.3, C-4318, C-4316, C-4336, C-4347, C-4348, C-4351, N-10342*
 
 ---
 
@@ -261,7 +261,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1557.2, C-4306, C-4310, N-10368*
+*Related: A-1557.2, C-4306, C-4310, N-10343*
 
 ---
 
@@ -274,7 +274,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1559.1, C-4351, N-10367*
+*Related: A-1559.1, C-4351, N-10342*
 
 ---
 
@@ -291,9 +291,9 @@ Investigative Pressure: Low
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
-Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-319).
+Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10342 related), and Captain Neff (N-319).
 
 Evidence Count: 6
 Claim Count: 6
@@ -304,7 +304,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10368** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
+**N-10343** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
 
 Persistent investigation target: viewer-email allegation that Fort Huachuca hosted a class teaching military personnel to infiltrate Christian organizations through covert psychological operations, with corroborating student testimony regarding overnight deception exercises in Tucson.
 
@@ -317,7 +317,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10369** Charlie Kirk SUV Interior Black Plastic Fragmentation
+**N-10344** Charlie Kirk SUV Interior Black Plastic Fragmentation
 
 Persistent investigation target: viewer-flagged and host-confirmed visual observation of black plastic / tempered-glass-like fragments across the rear floor of Charlie Kirk's SUV in post-shooting photographs.
 
@@ -330,7 +330,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11022** Federal Block on Surgeon's Return to Operating Room
+**N-10941** Federal Block on Surgeon's Return to Operating Room
 
 Node Type: Topic
 Investigation target: the host's claim that federal agents prevented the surgeon from returning to his operating room after Charlie Kirk was brought in, and that he placed a call presumably to DC, so the team could not clean the room before Erika Kirk arrived.
@@ -339,7 +339,7 @@ Investigation target: the host's claim that federal agents prevented the surgeon
 
 ---
 
-**N-11023** Mitch Snow Cartel Identity Leak and Legal Record
+**N-10942** Mitch Snow Cartel Identity Leak and Legal Record
 
 Node Type: Topic
 Investigation target: Mitch's account that his identity was passed to cartels after the 1990 tunnel operation, the resulting name change, debt and lawsuits, and the court documents he sent the host.
@@ -420,7 +420,7 @@ Named by the host for removing the camera behind Charlie Kirk's head.
 
 ---
 
-**N-10086** Transponder / Plane Anomaly Investigation
+**N-10082** Transponder / Plane Anomaly Investigation
 
 Reused for the host's call-sign and transponder claim.
 
@@ -428,7 +428,7 @@ Reused for the host's call-sign and transponder claim.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Reused for the host's statements on the evidence against Tyler Robinson and the surgeon's account.
 
@@ -436,7 +436,7 @@ Reused for the host's statements on the evidence against Tyler Robinson and the 
 
 ---
 
-**N-10121** Eyewitness Roof-Description Discrepancy
+**N-10095** Shooter Description Contradiction
 
 Reused for the rooftop eyewitness's description of the shooter and weapon.
 
@@ -444,7 +444,7 @@ Reused for the rooftop eyewitness's description of the shooter and weapon.
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Reused for federal removal of hospital footage and exclusion of the surgeon.
 
@@ -452,7 +452,7 @@ Reused for federal removal of hospital footage and exclusion of the surgeon.
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.
 
@@ -460,7 +460,7 @@ Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Reused for the host's mention of being sued by a transatlantic president.
 
@@ -468,7 +468,7 @@ Reused for the host's mention of being sued by a transatlantic president.
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Reused for the missing Tyler Robinson surrender footage and the host's account of the surrender.
 
@@ -476,7 +476,7 @@ Reused for the missing Tyler Robinson surrender footage and the host's account o
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Reused for Mitch's account of the September 9 JTF building encounter and its aftermath.
 
@@ -484,7 +484,7 @@ Reused for Mitch's account of the September 9 JTF building encounter and its aft
 
 ---
 
-**N-10328** 1990 Douglas, Arizona / Operation Catacomb Verification
+**N-10307** 1990 Douglas, Arizona / Operation Catacomb Verification
 
 Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.
 
@@ -492,7 +492,7 @@ Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.
 
 ---
 
-**N-10333** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
+**N-10312** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
 
 Reused for the Candlewood hotel stay and lobby encounter.
 
@@ -500,7 +500,7 @@ Reused for the Candlewood hotel stay and lobby encounter.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Reused for Terryl Farnsworth's camera removal.
 
@@ -508,7 +508,7 @@ Reused for Terryl Farnsworth's camera removal.
 
 ---
 
-**N-10360** Gun Discovery Procedure Question
+**N-10336** Gun Discovery Procedure Question
 
 Reused for bomb-dog failure, federal direction to the weapon and prints.
 
@@ -516,7 +516,7 @@ Reused for bomb-dog failure, federal direction to the weapon and prints.
 
 ---
 
-**N-10362** Vehicle Disposition Question
+**N-10338** Vehicle Disposition Question
 
 Reused for the non-impounded hospital transport vehicle.
 
@@ -524,7 +524,7 @@ Reused for the non-impounded hospital transport vehicle.
 
 ---
 
-**N-10364** SAM658/RCH658 Call Sign Switch Question
+**N-10340** SAM658/RCH658 Call Sign Switch Question
 
 Reused for the call-sign switch claim.
 
@@ -532,7 +532,7 @@ Reused for the call-sign switch claim.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Reused for the question of Erika Kirk's presence and connection to Fort Huachuca.
 
@@ -540,7 +540,7 @@ Reused for the question of Erika Kirk's presence and connection to Fort Huachuca
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Reused for the host's claims about military infiltration of faith and TPUSA.
 
@@ -548,7 +548,7 @@ Reused for the host's claims about military infiltration of faith and TPUSA.
 
 ---
 
-**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
+**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 Reused for the Fort Huachuca flight data discussion.
 
@@ -556,7 +556,7 @@ Reused for the Fort Huachuca flight data discussion.
 
 ---
 
-**N-10719** Prosecution Non-Call of Rooftop Eyewitness
+**N-10655** Prosecution Non-Call of Rooftop Eyewitness
 
 Reused for the uncontacted rooftop eyewitness.
 
@@ -564,7 +564,7 @@ Reused for the uncontacted rooftop eyewitness.
 
 ---
 
-**N-10769** Losee Center Gun Verification Gap
+**N-10698** Losee Center Gun Verification Gap
 
 Reused for the weapon recovery and eyewitness description.
 
@@ -582,7 +582,7 @@ Claim: An email the host reads states that Fort Huachuca is where soldiers go fo
 
 Anchored Artifacts: A-1557.1
 
-Related Nodes: N-10368
+Related Nodes: N-10343
 
 Investigative Direction: Obtain official DoD documentation confirming Fort Huachuca's current training mission and course catalog.
 
@@ -611,7 +611,7 @@ Claim: The host says she confirmed with metadata that witness "Mitch" was physic
 Anchored Artifacts: A-1558.1, A-1558.2, A-1558.3
 Mentions: N-361
 
-Related Nodes: N-10367
+Related Nodes: N-10342
 
 Investigative Direction: Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.
 
@@ -626,7 +626,7 @@ Claim: Guest witness "Mitch" says that while at the JTF command building on the 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
 
-Related Nodes: N-10367
+Related Nodes: N-10342
 
 Investigative Direction: Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.
 
@@ -641,7 +641,7 @@ Claim: Witness "Mitch" states that a woman in a ponytail he saw in the lobby the
 Anchored Artifacts: A-1558.3, A-1559.3
 Mentions: N-2, N-361
 
-Related Nodes: N-10367
+Related Nodes: N-10342
 
 Investigative Direction: Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification.
 
@@ -656,7 +656,7 @@ Claim: Guest witness "Mitch" says the man who walked out of the JTF building on 
 Anchored Artifacts: A-1558.3, A-1559.2
 Mentions: N-361, N-266
 
-Related Nodes: N-10367
+Related Nodes: N-10342
 
 Investigative Direction: Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025.
 
@@ -671,7 +671,7 @@ Claim: After the host shows a reference photograph of Congressman Mark Amodei (R
 Anchored Artifacts: A-1558.3, A-1559.1
 Mentions: N-361, N-363
 
-Related Nodes: N-10367
+Related Nodes: N-10342
 
 Investigative Direction: Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration.
 
@@ -686,7 +686,7 @@ Claim: A gym owner in Sierra Vista states in a viewer email (read verbatim on ai
 Anchored Artifacts: A-1557.2
 Mentions: N-362
 
-Related Nodes: N-10368
+Related Nodes: N-10343
 
 Investigative Direction: Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students.
 
@@ -701,7 +701,7 @@ Claim: Per the same viewer email, two military students (names redacted by host)
 Anchored Artifacts: A-1557.2
 Mentions: 
 
-Related Nodes: N-10368
+Related Nodes: N-10343
 
 Investigative Direction: Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices.
 
@@ -716,7 +716,7 @@ Claim: Host confirms visual observation, prompted by a viewer question on X, of 
 Anchored Artifacts: A-1560.1, A-1560.2
 Mentions: N-1
 
-Related Nodes: N-10369
+Related Nodes: N-10344
 
 Investigative Direction: Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components).
 
@@ -731,7 +731,7 @@ Claim: Guest witness "Mitch" says that after personnel exited the JTF building, 
 Anchored Artifacts: A-1558.3
 Mentions: N-319, N-361
 
-Related Nodes: N-10367
+Related Nodes: N-10342
 
 Investigative Direction: Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025.
 
@@ -747,7 +747,7 @@ Transcript Snippet: I received a flood of emails from law enforcement officers, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Ask the host to publish or characterize a sample of the emails and confirm whether the senders have bomb-dog (K-9) handler credentials.
 
 ---
@@ -762,7 +762,7 @@ Transcript Snippet: And I want to say that we can't necessarily extrapolate that
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10369
+Related Nodes: N-10344
 Supports: C-4276
 Investigative Direction: Compare the original high-resolution SUV photographs against reference images of phone glass, hard candy and vehicle trim.
 
@@ -778,7 +778,7 @@ Transcript Snippet: I am hesitant, by the way, to put up the rest of the photos.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10369
+Related Nodes: N-10344
 Investigative Direction: Ask the host which photographs remain unreleased and what provenance chain protects her sources.
 
 ---
@@ -793,7 +793,7 @@ Transcript Snippet: There's no evidence outside of these shady messages that are
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Review the Utah charging documents and any public filings for the evidence list and the status of any confession.
 
 ---
@@ -808,7 +808,7 @@ Transcript Snippet: The surgeon never confirmed or even suggested that Charlie w
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Obtain the surgeon's own public statements or interview record and compare them with the host's account and with the medical examiner's findings.
 
 ---
@@ -823,7 +823,7 @@ Transcript Snippet: has not been contacted by the lawyers or the investigators o
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10719, N-10121
+Related Nodes: N-10655, N-10095
 Investigative Direction: Check court filings and defense and prosecution witness lists for the eyewitness, and ask the witness whether any investigator has made contact.
 
 ---
@@ -838,7 +838,7 @@ Transcript Snippet: this individual is an instructor at a gun range. He claims t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10121, N-10769
+Related Nodes: N-10095, N-10698
 Investigative Direction: Interview the witness on the record, confirm his instructor credentials and compare his description with the recovered rifle's measurements.
 
 ---
@@ -853,7 +853,7 @@ Transcript Snippet: wearing what seemed to him to be black tactical gear plus a 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10121
+Related Nodes: N-10095
 Investigative Direction: Compare the eyewitness's description with the clothing seen in surveillance and doorbell footage of the shooter.
 
 ---
@@ -868,7 +868,7 @@ Transcript Snippet: The bomb dogs were unable to locate the weapon in the field 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360, N-10769
+Related Nodes: N-10336, N-10698
 Investigative Direction: Obtain K-9 deployment logs and incident reports for the search area and confirm the dogs' search pattern and timing.
 
 ---
@@ -883,7 +883,7 @@ Transcript Snippet: Instead, what happened was federal agents directed local off
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Investigative Direction: Request the recovery report, officer statements and evidence logs identifying who found the weapon and who directed the search.
 
 ---
@@ -898,7 +898,7 @@ Transcript Snippet: The canines were not provided with the scent of the weapon o
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10360, N-10769
+Related Nodes: N-10336, N-10698
 Investigative Direction: Ask the investigating agencies whether any scent-trail work was attempted from the weapon location to the roof and obtain the K-9 records.
 
 ---
@@ -913,7 +913,7 @@ Transcript Snippet: Terryl Farnsworth, still major question marks. He raced to r
 
 Anchored Artifacts: 
 Mentions: N-261, N-1
-Related Nodes: N-10346
+Related Nodes: N-10324
 Investigative Direction: Review event footage and statements from Farnsworth on when and why the camera was removed, and the chain of custody of its storage.
 
 ---
@@ -928,7 +928,7 @@ Transcript Snippet: when I imagine why he might have done that, I think it's bec
 
 Anchored Artifacts: 
 Mentions: N-261, N-1, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Supports: C-4287
 Investigative Direction: Obtain the camera's retained footage and compare it with the medical findings; ask Farnsworth for his stated reason.
 
@@ -944,7 +944,7 @@ Transcript Snippet: federal agents prevented the surgeon from returning to his o
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-11022, N-10239
+Related Nodes: N-10941, N-10226
 Investigative Direction: Identify the surgeon and hospital staff who could confirm the exclusion, and obtain hospital records of restricted access that morning.
 
 ---
@@ -959,7 +959,7 @@ Transcript Snippet: Federal agents removed the hospital surveillance footage.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10239
+Related Nodes: N-10226
 Investigative Direction: Request the hospital's records of any footage seizure or release to federal authorities.
 
 ---
@@ -974,7 +974,7 @@ Transcript Snippet: the vehicle in which Charlie was transported to Timpanogos o
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10362
+Related Nodes: N-10338
 Investigative Direction: Obtain evidence-hold and impound records for the transport vehicle and its return to its owner.
 
 ---
@@ -989,7 +989,7 @@ Transcript Snippet: There were multiple sets of prints that were on the gun that
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10360
+Related Nodes: N-10336
 Supports: C-756
 Investigative Direction: Obtain the latent-print and DNA reports filed by the Utah crime lab for the recovered rifle.
 
@@ -1005,7 +1005,7 @@ Transcript Snippet: the footage of Tyler Robinson turning himself in is apparent
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: File a records request for the station and sheriff's office surrender footage and the log of who viewed or copied it.
 
 ---
@@ -1020,7 +1020,7 @@ Transcript Snippet: There's been an expiration on that footage and we don't have
 
 Anchored Artifacts: A-2747.1
 Mentions: N-40, N-3
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Identify the Utah outlet and the records request, and obtain the agency's written denial and retention policy.
 
 ---
@@ -1035,7 +1035,7 @@ Transcript Snippet: in my investigation, I found that their entire story about h
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Compare the host's sources with the public account from the sheriff's office and the family's attorney, and any recorded 911 or intake logs.
 
 ---
@@ -1050,7 +1050,7 @@ Transcript Snippet: They were told either, you know, these doors are going to ge
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Seek the sheriff's operational plan and communications for the surrender, and statements from the family's representatives.
 
 ---
@@ -1065,7 +1065,7 @@ Transcript Snippet: told not to look at him. They were told to avoid cameras.
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10271
+Related Nodes: N-10255
 Investigative Direction: Identify officers present at intake and obtain any written directive on camera avoidance during the surrender.
 
 ---
@@ -1080,7 +1080,7 @@ Transcript Snippet: there's just way too much of a habit of establishing former 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Investigative Direction: List the specific Calvary Chapel pastors the host has named in earlier episodes and check court and sentencing records for each.
 
 ---
@@ -1095,7 +1095,7 @@ Transcript Snippet: He actually went to prison for it and he was just sort of la
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Investigative Direction: Locate the interview the host refers to and identify the man, his conviction and his later church role.
 
 ---
@@ -1110,7 +1110,7 @@ Transcript Snippet: Similarly, there are so many conservative media companies wh
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Investigative Direction: Ask the host to name the companies and executives, then check public biographies for intelligence service.
 
 ---
@@ -1125,7 +1125,7 @@ Transcript Snippet: I have been suggesting to you all that faith has been infilt
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Investigative Direction: Compile the host's earlier statements on military infiltration of faith groups and the specific organizations named.
 
 ---
@@ -1140,7 +1140,7 @@ Transcript Snippet: Civilians can be turned into intelligence assets on this bas
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10368
+Related Nodes: N-10343
 Supports: C-4303
 Investigative Direction: Obtain Fort Huachuca's published mission and course catalog and any program open to civilians.
 
@@ -1156,7 +1156,7 @@ Transcript Snippet: their story begins in May of 2013. They are two recently bap
 
 Anchored Artifacts: A-1557.2
 Mentions: N-3
-Related Nodes: N-10368
+Related Nodes: N-10343
 Investigative Direction: Identify the gym owners and the gym, and confirm the business's founding date through Arizona corporate records.
 
 ---
@@ -1171,7 +1171,7 @@ Transcript Snippet: this couple over time effectively staged something akin to a
 
 Anchored Artifacts: A-1557.2
 Mentions: N-3
-Related Nodes: N-10368
+Related Nodes: N-10343
 Investigative Direction: Check Arizona Corporation Commission filings and any civil court records involving the gym and the investing couple.
 
 ---
@@ -1186,7 +1186,7 @@ Transcript Snippet: This young woman described Bruce as, quote, "the most evil m
 
 Anchored Artifacts: A-1557.2
 Mentions: N-362
-Related Nodes: N-10368
+Related Nodes: N-10343
 Investigative Direction: Identify the soldier and Bevins's official role, and corroborate through an on-record account from the soldier.
 
 ---
@@ -1201,7 +1201,7 @@ Transcript Snippet: My ears perked up when I heard his name as I immediately rem
 
 Anchored Artifacts: A-1557.2
 Mentions: N-362
-Related Nodes: N-10368
+Related Nodes: N-10343
 Investigative Direction: Ask the emailer to describe the incident with Bevins's wife and look for police or court records of it.
 
 ---
@@ -1216,7 +1216,7 @@ Transcript Snippet: I have to wonder if the infiltration and the destruction of 
 
 Anchored Artifacts: A-1557.2
 Mentions: N-362
-Related Nodes: N-10368
+Related Nodes: N-10343
 Investigative Direction: Treat as the emailer's speculation; seek documentary evidence linking the couple to any Fort Huachuca course.
 
 ---
@@ -1231,7 +1231,7 @@ Transcript Snippet: learning that some of his most trusted people may have been 
 
 Anchored Artifacts: A-1557.2
 Mentions: N-362, N-1
-Related Nodes: N-10436, N-10368
+Related Nodes: N-10405, N-10343
 Investigative Direction: Ask the emailer which TPUSA individuals they have in mind and check those individuals' public military or intelligence records.
 
 ---
@@ -1246,7 +1246,7 @@ Transcript Snippet: Now, I obviously cannot confirm just yet. I'm sure after thi
 
 Anchored Artifacts: A-1557.2
 Mentions: N-362, N-3
-Related Nodes: N-10368
+Related Nodes: N-10343
 Qualifies: C-4306
 Investigative Direction: Verify Bevins's identity and role through Army and Fort Huachuca records before treating the email as corroborated.
 
@@ -1262,7 +1262,7 @@ Transcript Snippet: I keep telling you that all roads, including the Egyptian he
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Investigative Direction: List the specific planes, people and TPUSA Faith links the host relies on and document each.
 
 ---
@@ -1277,7 +1277,7 @@ Transcript Snippet: please email moretips@candaceowens. com.
 
 Anchored Artifacts: A-2744.1
 Mentions: N-3
-Related Nodes: N-10368
+Related Nodes: N-10343
 Investigative Direction: Record any tips received through the address and their provenance; verify any claimed course participation with service records.
 
 ---
@@ -1292,7 +1292,7 @@ Transcript Snippet: we suddenly have been experiencing wall-to-wall panic ever s
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Collect the articles and statements published after the host's first Fort Huachuca mention and note any factual claims in them.
 
 ---
@@ -1321,7 +1321,7 @@ Transcript Snippet: we were part of a mission going down to um down to the borde
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10328
+Related Nodes: N-10307
 Investigative Direction: Obtain Mitch's DD-214 and unit assignment records and the 1990 JTF-6 operational history.
 
 ---
@@ -1336,7 +1336,7 @@ Transcript Snippet: I think we put in like 80 sensors or so along the border
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10328
+Related Nodes: N-10307
 Investigative Direction: Cross-check with historical JTF-6 sensor deployment records for the Douglas, Arizona sector.
 
 ---
@@ -1351,7 +1351,7 @@ Transcript Snippet: we could triangulate the um triangulate the signals and be a
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10328
+Related Nodes: N-10307
 Investigative Direction: Search press and law-enforcement records for the 1990 Douglas, Arizona tunnel discovery and the associated warrant and raid.
 
 ---
@@ -1366,7 +1366,7 @@ Transcript Snippet: one of the commanders that was um with the border patrol um 
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10328
+Related Nodes: N-10307
 Investigative Direction: Obtain the photographs and the records of how they were recovered, and identify the commander named.
 
 ---
@@ -1381,7 +1381,7 @@ Transcript Snippet: the federal government knew that 80% I think it was 60 to 80
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10328
+Related Nodes: N-10307
 Investigative Direction: Check historical DEA and JTF-6 estimates of cocaine flow through the Douglas sector in 1990.
 
 ---
@@ -1396,7 +1396,7 @@ Transcript Snippet: they destroyed every layer of your life fed your name to the
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361, N-3
-Related Nodes: N-11023
+Related Nodes: N-10942
 Investigative Direction: Obtain the court filings, name-change records and the government's response to Mitch's complaints.
 
 ---
@@ -1411,7 +1411,7 @@ Transcript Snippet: I got to got the honor of incinerating all the uh uh it's ab
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10328
+Related Nodes: N-10307
 Investigative Direction: Locate the seizure and destruction records for the 1990 Douglas tunnel operation.
 
 ---
@@ -1426,7 +1426,7 @@ Transcript Snippet: I was too stupid I didn't understand why this person was com
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-11023
+Related Nodes: N-10942
 Investigative Direction: Look for Border Patrol incident records and any report filed after the Naco encounter.
 
 ---
@@ -1441,7 +1441,7 @@ Transcript Snippet: the photos from the Mexican side had made their way to the A
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-11023
+Related Nodes: N-10942
 Investigative Direction: Obtain the briefing record and the photographs, and the investigators' conclusions on the leak.
 
 ---
@@ -1456,7 +1456,7 @@ Transcript Snippet: we got the court documents we got the we got the court cases
 
 Anchored Artifacts: A-2745.1
 Mentions: N-361, N-3
-Related Nodes: N-11023
+Related Nodes: N-10942
 Investigative Direction: Obtain the case captions and docket numbers from the host or Mitch and pull them from the court dockets.
 
 ---
@@ -1471,7 +1471,7 @@ Transcript Snippet: that's what led me to going down to Fort Huachuca was just t
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Obtain the Fort Huachuca CID reports and Mitch's records request and any response.
 
 ---
@@ -1486,7 +1486,7 @@ Transcript Snippet: And finally in May this of this year this this uh it expires
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3823, C-4318
 Investigative Direction: Obtain the original NDA and its stated end date from Mitch and the issuing agency.
 
@@ -1502,7 +1502,7 @@ Transcript Snippet: no typically you can as long as you have your your ID your i
 
 Anchored Artifacts: A-1558.2
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Confirm Fort Huachuca's visitor access policy and the gate-scan records for Mitch's ID on September 9, 2025.
 
 ---
@@ -1517,7 +1517,7 @@ Transcript Snippet: that was actually the barracks that I had when I was there i
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10333
+Related Nodes: N-10312
 Investigative Direction: Confirm the Candlewood Suites property's history as converted barracks and its September 8, 2025 booking record for Mitch.
 
 ---
@@ -1532,7 +1532,7 @@ Transcript Snippet: one guy that was sitting on the couch he just had a sheen to
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10367, N-10333
+Related Nodes: N-10342, N-10312
 Investigative Direction: Request the hotel lobby and check-in security footage for September 8, 2025.
 
 ---
@@ -1547,7 +1547,7 @@ Transcript Snippet: there was a vehicle parked out front, uh big green truck. G-
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10367, N-10333
+Related Nodes: N-10342, N-10312
 Investigative Direction: Check Fort Huachuca motor-pool and GSA fleet records and lobby or parking footage for that evening.
 
 ---
@@ -1562,7 +1562,7 @@ Transcript Snippet: ran into some 10th Mountain people there. Um they said they 
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Identify which 10th Mountain elements were at Fort Huachuca on September 9, 2025 and why.
 
 ---
@@ -1577,7 +1577,7 @@ Transcript Snippet: it was obviously a a temporary setup for this new command do
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3833
 Investigative Direction: Obtain imagery or construction and lease records for the temporary command site.
 
@@ -1593,7 +1593,7 @@ Transcript Snippet: some of the military lieutenant colonels there and the and t
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Obtain base vehicle dispatch and VIP-escort logs for the morning of September 9, 2025.
 
 ---
@@ -1608,7 +1608,7 @@ Transcript Snippet: Some of those vehicles there, they're reserved uh at any GSA
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Confirm GSA fleet practice and the fleet assignment at Fort Huachuca on that date.
 
 ---
@@ -1623,7 +1623,7 @@ Transcript Snippet: I did catch that there was yet another I don't know if it wa
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326, N-10367
+Related Nodes: N-10305, N-10342
 Investigative Direction: Ask Mitch whom he saw get in the vehicle and obtain base gate and vehicle logs.
 
 ---
@@ -1638,7 +1638,7 @@ Transcript Snippet: and then they mentioned a bomb threat. They wanted to check 
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Obtain the police and CID reports for any bomb-threat report that morning.
 
 ---
@@ -1653,7 +1653,7 @@ Transcript Snippet: They did give me a report number to go ahead and and you you
 
 Anchored Artifacts: A-2745.2
 Mentions: N-361, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-3852
 Investigative Direction: Request the incident report under that number from Fort Huachuca CID or the provost marshal.
 
@@ -1669,7 +1669,7 @@ Transcript Snippet: they didn't answer any of the questions I was there for. Uh,
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: File a FOIA or Privacy Act request for Mitch's CID records and compare the response with his account.
 
 ---
@@ -1684,7 +1684,7 @@ Transcript Snippet: they were looking for any excuse to try and um hold me up fo
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Seek the barment or visitor-restriction record issued to Mitch.
 
 ---
@@ -1699,7 +1699,7 @@ Transcript Snippet: before we touched down, I had a stop off in Salt Lake City. 
 
 Anchored Artifacts: A-1558.3
 Mentions: N-361, N-1
-Related Nodes: N-10367
+Related Nodes: N-10342
 Investigative Direction: Check Mitch's airline itinerary and boarding records for September 10, 2025.
 
 ---
@@ -1714,7 +1714,7 @@ Transcript Snippet: I confirmed the location with other people that are that are
 
 Anchored Artifacts: A-1558.1
 Mentions: N-361, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Supports: C-4316
 Investigative Direction: Ask the host to document who on base confirmed the location and what they confirmed, without exposing sources.
 
@@ -1730,7 +1730,7 @@ Transcript Snippet: her mother moved to Arizona because she got involved with th
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10417
+Related Nodes: N-10390
 Investigative Direction: Find Erika Kirk's public statements on her mother's move and her mother's military-related work.
 
 ---
@@ -1745,7 +1745,7 @@ Transcript Snippet: We were able to confirm based on a call sign that there was 
 
 Anchored Artifacts: A-2746.1
 Mentions: N-3
-Related Nodes: N-10086, N-10364, N-10671
+Related Nodes: N-10082, N-10340, N-10611
 Supports: C-3962
 Investigative Direction: Obtain flight-tracking archives and FAA or military records for the call sign at Fort Huachuca on September 9, 2025.
 
@@ -1761,7 +1761,7 @@ Transcript Snippet: that call sign did change at a certain time which lets us kn
 
 Anchored Artifacts: A-2746.1
 Mentions: N-3
-Related Nodes: N-10364, N-10671
+Related Nodes: N-10340, N-10611
 Supports: C-3962
 Investigative Direction: Document the call-sign change time from flight-tracking data and the registered operator before and after it.
 
@@ -1777,7 +1777,7 @@ Transcript Snippet: I could be Kash Patel. I mean, I have a could be Kash Patel.
 
 Anchored Artifacts: 
 Mentions: N-69, N-3
-Related Nodes: N-10364
+Related Nodes: N-10340
 Investigative Direction: Treat as speculation; compare the FBI director's public schedule and official travel records for September 9, 2025.
 
 ---
@@ -1792,7 +1792,7 @@ Transcript Snippet: I think that is the reason they surrounded you was to make s
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-10326
+Related Nodes: N-10305
 Investigative Direction: Treat as the host's inference; seek body-camera or incident records showing the positioning and instructions of the officers.
 
 ---
@@ -1807,7 +1807,7 @@ Transcript Snippet: being sued by a transatlantic president overseas for just tr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Check the court docket for the lawsuit the host refers to and its parties and filing date.
 
 ---
@@ -1822,7 +1822,7 @@ Transcript Snippet: I intend to help you raise money to go through these lawsuit
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-11023
+Related Nodes: N-10942
 Investigative Direction: Watch for the fundraiser's launch and verify its beneficiary and disbursements.
 
 ---
@@ -1865,7 +1865,7 @@ Transcript Snippet: I will get together a GiveSendGo for Mitch and his family.
 
 Anchored Artifacts: 
 Mentions: N-361, N-3
-Related Nodes: N-11023
+Related Nodes: N-10942
 Investigative Direction: Confirm the fundraiser's URL, beneficiary and disbursement once published.
 
 ---
@@ -1902,9 +1902,9 @@ Investigative Direction: Identify the specific statement by Josh Hammer the host
 
 The artifact, node, and claim registers are mutually cross-referenced. Key structural relationships:
 
-- **N-10367 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-4316 through C-4351 and C-4340.
-- **N-10368 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-4303, C-4306, and C-4310.
-- **N-10369 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-4276.
+- **N-10342 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-4316 through C-4351 and C-4340.
+- **N-10343 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-4303, C-4306, and C-4310.
+- **N-10344 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-4276.
 - **N-361 ("Mitch")** is the central person node, linked to six claims and three artifacts.
 - **N-2 (Erika Kirk)** and **N-1 (Charlie Kirk)** are reused from prior episodes.
 

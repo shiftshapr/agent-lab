@@ -19,8 +19,8 @@
     "- **Model Version**: claude-manual-extract-seq111",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (skeleton): N-649, N-650, N-651, N-652, N-653, N-654, N-655, N-656, N-657, N-658, N-10948, N-10949, N-10950, N-10951, N-10952",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-159, N-244, N-341, N-450, N-451, N-550, N-579, N-624, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-648, N-647",
+    "  - Tip-minted Nodes (skeleton): N-649, N-650, N-651, N-652, N-653, N-654, N-655, N-656, N-657, N-658, N-10869, N-10870, N-10871, N-10872, N-10873",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-159, N-244, N-341, N-450, N-451, N-550, N-579, N-624, N-10000, N-10008, N-10026, N-10053, N-10067, N-10186, N-10328, N-10349, N-10374, N-10384, N-10406, N-10420, N-10493, N-10606, N-10582, N-10637, N-10809, N-10844, N-10875, N-10874, N-648, N-647",
     "  - Claim Range: C-9706–C-9768",
     "  - (see registers)",
     "",
@@ -138,7 +138,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9710, N-3, N-647, N-624, N-10948*"
+     "raw": "*Related: C-9710, N-3, N-647, N-624, N-10869*"
     },
     {
      "raw": ""
@@ -181,7 +181,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9711, C-9713, N-60, N-3, N-30, N-647, N-648, N-10949*"
+     "raw": "*Related: C-9711, C-9713, N-60, N-3, N-30, N-647, N-648, N-10870*"
     },
     {
      "raw": ""
@@ -301,7 +301,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9721, C-9722, N-649, N-650, N-10951*"
+     "raw": "*Related: C-9721, C-9722, N-649, N-650, N-10872*"
     },
     {
      "raw": ""
@@ -397,7 +397,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9727, N-3, N-649, N-10952*"
+     "raw": "*Related: C-9727, N-3, N-649, N-10873*"
     },
     {
      "raw": ""
@@ -811,7 +811,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9745, C-9746, N-658, N-10954*"
+     "raw": "*Related: C-9745, C-9746, N-658, N-10875*"
     },
     {
      "raw": ""
@@ -974,7 +974,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9757, C-9758, N-1, N-2, N-10664*"
+     "raw": "*Related: C-9757, C-9758, N-1, N-2, N-10606*"
     },
     {
      "raw": ""
@@ -1130,7 +1130,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9767, N-2, N-10700*"
+     "raw": "*Related: C-9767, N-2, N-10637*"
     },
     {
      "raw": ""
@@ -2074,8 +2074,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10056",
-   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "id": "N-10053",
+   "header": "**N-10053** Kirk-Israel Narrative Dispute",
    "label": "Kirk-Israel Narrative Dispute",
    "lines": [
     {
@@ -2097,8 +2097,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10070",
-   "header": "**N-10070** Daily Mail",
+   "id": "N-10067",
+   "header": "**N-10067** Daily Mail",
    "label": "Daily Mail",
    "lines": [
     {
@@ -2120,8 +2120,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10194",
-   "header": "**N-10194** TPUSA Succession Plan Disclosure Timeline",
+   "id": "N-10186",
+   "header": "**N-10186** TPUSA Succession Plan Disclosure Timeline",
    "label": "TPUSA Succession Plan Disclosure Timeline",
    "lines": [
     {
@@ -2143,8 +2143,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10350",
-   "header": "**N-10350** Charlie Kirk Catholicism Journey",
+   "id": "N-10328",
+   "header": "**N-10328** Charlie Kirk Catholicism Journey",
    "label": "Charlie Kirk Catholicism Journey",
    "lines": [
     {
@@ -2166,8 +2166,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10376",
-   "header": "**N-10376** AmFest Tent Recreation Approval Chain",
+   "id": "N-10349",
+   "header": "**N-10349** AmFest Tent Recreation Approval Chain",
    "label": "AmFest Tent Recreation Approval Chain",
    "lines": [
     {
@@ -2189,8 +2189,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10401",
-   "header": "**N-10401** Romania / Eastern Europe Trafficking Cluster",
+   "id": "N-10374",
+   "header": "**N-10374** Romania / Eastern Europe Trafficking Cluster",
    "label": "Romania / Eastern Europe Trafficking Cluster",
    "lines": [
     {
@@ -2212,8 +2212,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10411",
-   "header": "**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+   "id": "N-10384",
+   "header": "**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
    "label": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
    "lines": [
     {
@@ -2235,8 +2235,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10437",
-   "header": "**N-10437** Aspen Donor Recall Verification",
+   "id": "N-10406",
+   "header": "**N-10406** Aspen Donor Recall Verification",
    "label": "Aspen Donor Recall Verification",
    "lines": [
     {
@@ -2258,8 +2258,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10451",
-   "header": "**N-10451** USS Liberty Incident Cover-up Investigation",
+   "id": "N-10420",
+   "header": "**N-10420** USS Liberty Incident Cover-up Investigation",
    "label": "USS Liberty Incident Cover-up Investigation",
    "lines": [
     {
@@ -2281,8 +2281,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10538",
-   "header": "**N-10538** Turning Point Action / Thomas Massie Disavowal Incident",
+   "id": "N-10493",
+   "header": "**N-10493** Turning Point Action / Thomas Massie Disavowal Incident",
    "label": "Turning Point Action / Thomas Massie Disavowal Incident",
    "lines": [
     {
@@ -2304,54 +2304,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10583",
-   "header": "**N-10583** Aspen Donor Audio Integrity Question",
-   "label": "Aspen Donor Audio Integrity Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Attendees believe the clip was spliced from different points of the event."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-9754, C-9758*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10584",
-   "header": "**N-10584** Aspen Donor Event Memory Discrepancy",
-   "label": "Aspen Donor Event Memory Discrepancy",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Donors recall \"the board would figure it out,\" not an appointment."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-9753*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10637",
-   "header": "**N-10637** WHCD Incident Reconstruction",
+   "id": "N-10582",
+   "header": "**N-10582** WHCD Incident Reconstruction",
    "label": "WHCD Incident Reconstruction",
    "lines": [
     {
@@ -2373,8 +2327,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10664",
-   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "id": "N-10606",
+   "header": "**N-10606** Charlie Kirk Aspen Audio Authenticity Question",
    "label": "Charlie Kirk Aspen Audio Authenticity Question",
    "lines": [
     {
@@ -2396,8 +2350,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10700",
-   "header": "**N-10700** Pending FOIA Requests",
+   "id": "N-10637",
+   "header": "**N-10637** Pending FOIA Requests",
    "label": "Pending FOIA Requests",
    "lines": [
     {
@@ -2419,8 +2373,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10888",
-   "header": "**N-10888** Department of War",
+   "id": "N-10809",
+   "header": "**N-10809** Department of War",
    "label": "Department of War",
    "lines": [
     {
@@ -2442,8 +2396,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10948",
-   "header": "**N-10948** St. Petersburg International Economic Forum (SPIEF)",
+   "id": "N-10869",
+   "header": "**N-10869** St. Petersburg International Economic Forum (SPIEF)",
    "label": "St. Petersburg International Economic Forum (SPIEF)",
    "lines": [
     {
@@ -2469,8 +2423,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10949",
-   "header": "**N-10949** Alexander Dugin–George Farmer Italy Meeting Allegation",
+   "id": "N-10870",
+   "header": "**N-10870** Alexander Dugin–George Farmer Italy Meeting Allegation",
    "label": "Alexander Dugin–George Farmer Italy Meeting Allegation",
    "lines": [
     {
@@ -2497,8 +2451,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10950",
-   "header": "**N-10950** US Department of Veterans Affairs (VA)",
+   "id": "N-10871",
+   "header": "**N-10871** US Department of Veterans Affairs (VA)",
    "label": "US Department of Veterans Affairs (VA)",
    "lines": [
     {
@@ -2524,8 +2478,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10951",
-   "header": "**N-10951** People's Will",
+   "id": "N-10872",
+   "header": "**N-10872** People's Will",
    "label": "People's Will",
    "lines": [
     {
@@ -2551,8 +2505,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10952",
-   "header": "**N-10952** Church of the Savior on Spilled Blood",
+   "id": "N-10873",
+   "header": "**N-10873** Church of the Savior on Spilled Blood",
    "label": "Church of the Savior on Spilled Blood",
    "lines": [
     {
@@ -2578,8 +2532,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10953",
-   "header": "**N-10953** Paleo Valley",
+   "id": "N-10874",
+   "header": "**N-10874** Paleo Valley",
    "label": "Paleo Valley",
    "lines": [
     {
@@ -2605,8 +2559,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10954",
-   "header": "**N-10954** Alliance Defending Freedom",
+   "id": "N-10875",
+   "header": "**N-10875** Alliance Defending Freedom",
    "label": "Alliance Defending Freedom",
    "lines": [
     {
@@ -2632,8 +2586,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10923",
-   "header": "**N-10923** White House Military Office Erika Kirk Amplification Email",
+   "id": "N-10844",
+   "header": "**N-10844** White House Military Office Erika Kirk Amplification Email",
    "label": "White House Military Office Erika Kirk Amplification Email",
    "lines": [
     {
@@ -2813,7 +2767,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10948"
+     "v": "N-10869"
     },
     {
      "k": "Investigative Direction",
@@ -2871,7 +2825,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10948"
+     "v": "N-10869"
     },
     {
      "k": "Investigative Direction",
@@ -2928,7 +2882,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10948"
+     "v": "N-10869"
     },
     {
      "k": "Investigative Direction",
@@ -2985,7 +2939,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10949"
+     "v": "N-10870"
     },
     {
      "k": "Investigative Direction",
@@ -3043,7 +2997,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10948, N-10949"
+     "v": "N-10869, N-10870"
     },
     {
      "k": "Contradicts",
@@ -3104,7 +3058,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10949"
+     "v": "N-10870"
     },
     {
      "k": "Investigative Direction",
@@ -3270,7 +3224,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10950"
+     "v": "N-10871"
     },
     {
      "k": "Investigative Direction",
@@ -3328,7 +3282,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10950"
+     "v": "N-10871"
     },
     {
      "k": "Investigative Direction",
@@ -3497,7 +3451,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10451"
+     "v": "N-10420"
     },
     {
      "k": "Investigative Direction",
@@ -3554,7 +3508,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10951"
+     "v": "N-10872"
     },
     {
      "k": "Investigative Direction",
@@ -3611,7 +3565,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10951"
+     "v": "N-10872"
     },
     {
      "k": "Investigative Direction",
@@ -3886,7 +3840,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10952"
+     "v": "N-10873"
     },
     {
      "k": "Investigative Direction",
@@ -4162,7 +4116,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10411, N-10401"
+     "v": "N-10384, N-10374"
     },
     {
      "k": "Supports",
@@ -4673,7 +4627,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10350, N-10056"
+     "v": "N-10328, N-10053"
     },
     {
      "k": "Investigative Direction",
@@ -4731,7 +4685,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10953"
+     "v": "N-10874"
     },
     {
      "k": "Investigative Direction",
@@ -4947,7 +4901,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10954"
+     "v": "N-10875"
     },
     {
      "k": "Investigative Direction",
@@ -5005,7 +4959,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10194, N-10664"
+     "v": "N-10186, N-10606"
     },
     {
      "k": "Supports",
@@ -5120,7 +5074,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10664"
+     "v": "N-10000, N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -5178,7 +5132,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10376"
+     "v": "N-10000, N-10349"
     },
     {
      "k": "Investigative Direction",
@@ -5294,7 +5248,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10000, N-10664"
+     "v": "N-10067, N-10000, N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -5352,7 +5306,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10584, N-10437"
+     "v": "N-10406"
     },
     {
      "k": "Supports",
@@ -5414,7 +5368,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10437, N-10583"
+     "v": "N-10406, N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -5471,7 +5425,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -5581,7 +5535,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664, N-10008"
+     "v": "N-10606, N-10008"
     },
     {
      "k": "Supports",
@@ -5642,7 +5596,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664, N-10583"
+     "v": "N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -5814,7 +5768,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10538, N-10000"
+     "v": "N-10493, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -5871,7 +5825,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10664"
+     "v": "N-10000, N-10606"
     },
     {
      "k": "Contradicts",
@@ -5933,7 +5887,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -5991,7 +5945,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10664"
+     "v": "N-10000, N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -6103,7 +6057,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10437"
+     "v": "N-10406"
     },
     {
      "k": "Investigative Direction",
@@ -6160,7 +6114,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10700, N-10637"
+     "v": "N-10637, N-10582"
     },
     {
      "k": "Investigative Direction",
@@ -6217,7 +6171,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10888, N-10700"
+     "v": "N-10844, N-10809, N-10637"
     },
     {
      "k": "Investigative Direction",
@@ -7115,7 +7069,7 @@
     "- **DIA scan**: no real DIA beat. The only hits are \"candaceowens. com\" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that \"someone emailed me\" about Victor Marx and Greg Laurie (00:40:20, C-9733) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-9766). No M-12 or M-14 occurrences are added.",
     "- **Artifacts verbally referenced but not clearly shown**: A-2619.1 (the \"Congress discreetly moves to merge US military\" headline; the host says \"you guys saw the headlines\") and A-2627.1 (the White House FOIA response, a verbal reference only). The Daily Mail article on the video, the Megyn Kelly interview, Erika Kirk's fundraising email with Charlie's letter, and Trump's posts about the host are mentioned but not shown, so they are not inscribed as artifacts.",
     "- **Name matching**: \"Dana Loesch\" (41:37) is minted as N-657 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to \"Dana\" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. \"Dugan\" (41:37) is Alexander Dugin. \"Paul Havsgaard\" is mapped to N-451 Paul Havsgaard through its alias. \"Aubrey\" (51:07) is mapped to N-550 Aubrey Laitsch with medium confidence. The transcript says \"Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolvet at\", so it is ambiguous whether Aubrey or her husband worked for Kolvet. \"Andrew Kolvet\"/\"Andrew Kolvet\" are mapped to N-14. \"Justin Streiff\" is mapped to N-15. \"Megyn Kelly\" is mapped to N-46. \"Vladimir Putin\" reuses the node title minted as N-647 in staging episode 105. \"Vance Voetberg\" spelling is unverified and kept as transcribed. \"Secretary Rubio\" is minted as N-648 Marco Rubio from the host's reading of Loomer's tags.",
-    "- **Topic reuse**: N-10923 reuses the exact title \"White House Military Office Erika Kirk Amplification Email\" from staging episode 105. M-95 reuses the title \"Emotional Response Asset\" from staging episode 105, although here the host says only \"emotional asset.\"",
+    "- **Topic reuse**: N-10844 reuses the exact title \"White House Military Office Erika Kirk Amplification Email\" from staging episode 105. M-95 reuses the title \"Emotional Response Asset\" from staging episode 105, although here the host says only \"emotional asset.\"",
     "- **Transcription ambiguities**: \"Dangerously Asens\" and \"Zarist Russia\" in the Hertz article title are kept as transcribed. \"Candace Tovia Moscowins\" is a joke name. \"WLS\" in the email is the Women's Leadership Summit. \"Conrad\" in the TPUSA reply is likely \"comrade.\" \"Maxwell class\" (01:11:42) probably means \"Maxwell clan.\"",
     "- **Possible cross-episode links considered**: C-9757 Supports C-9053 (ep 102) and could also link C-8028 (ep 90, same audio line). C-9753 Supports C-8029 and C-9050. C-9747 Supports C-7880. C-9732 Supports C-5042. The host's mention of the clip as Erika's \"walk out music\" could link C-7883 (ep 88), but the summit setting differs from AmFest, so it is left out. C-9749 might relate to C-7889 (ep 88, Blake Neff refused to release the video) but is not the same proposition.",
     "- **Not inscribed as claims (admission test)**:",

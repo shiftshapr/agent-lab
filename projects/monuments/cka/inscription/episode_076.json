@@ -209,7 +209,7 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-10519"
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "Approximately 2026-03-08 (48 hours prior to broadcast)",
@@ -236,7 +236,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10521"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "2025-09-08 09:49 AZ",
@@ -263,7 +263,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10521"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "2025-09-08 10:49 AZ",
@@ -310,7 +310,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10521"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "2025-09-08",
@@ -338,7 +338,7 @@
           "related_nodes": [
             "N-1",
             "N-7",
-            "N-10521"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "Approximately 2025-09-08 evening (per host: Monday)",
@@ -418,7 +418,7 @@
             "C-6824"
           ],
           "related_nodes": [
-            "N-10522",
+            "N-10479",
             "N-14",
             "N-190",
             "N-3",
@@ -440,8 +440,8 @@
             "C-6827"
           ],
           "related_nodes": [
-            "N-10075",
-            "N-10522",
+            "N-10072",
+            "N-10479",
             "N-131",
             "N-152",
             "N-3",
@@ -471,7 +471,7 @@
             "C-6830"
           ],
           "related_nodes": [
-            "N-10522",
+            "N-10479",
             "N-14",
             "N-3"
           ],
@@ -498,7 +498,7 @@
             "C-6835"
           ],
           "related_nodes": [
-            "N-10988",
+            "N-10908",
             "N-3",
             "N-9"
           ],
@@ -526,9 +526,9 @@
             "C-6841"
           ],
           "related_nodes": [
-            "N-10401",
-            "N-10528",
-            "N-10988",
+            "N-10374",
+            "N-10484",
+            "N-10908",
             "N-3",
             "N-9"
           ],
@@ -557,9 +557,8 @@
             "C-6859"
           ],
           "related_nodes": [
-            "N-10519",
-            "N-10532",
-            "N-10698",
+            "N-10478",
+            "N-10635",
             "N-2",
             "N-3",
             "N-568",
@@ -582,8 +581,7 @@
             "C-6862"
           ],
           "related_nodes": [
-            "N-10519",
-            "N-10532",
+            "N-10478",
             "N-2",
             "N-568",
             "N-9"
@@ -611,7 +609,7 @@
             "C-6867"
           ],
           "related_nodes": [
-            "N-10502",
+            "N-10463",
             "N-2",
             "N-3"
           ],
@@ -645,10 +643,9 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10473",
-            "N-10476",
-            "N-10477",
-            "N-10521",
+            "N-10441",
+            "N-10444",
+            "N-10353",
             "N-2",
             "N-3",
             "N-489",
@@ -671,8 +668,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10473",
-            "N-10477",
+            "N-10441",
+            "N-10353",
             "N-2"
           ],
           "tags": [],
@@ -715,7 +712,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ]
     },
     {
@@ -741,9 +738,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10519",
-        "N-10520",
-        "N-10521"
+        "N-10478",
+        "N-10463",
+        "N-10353"
       ]
     },
     {
@@ -794,7 +791,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-9",
-        "N-10519"
+        "N-10478"
       ]
     },
     {
@@ -858,7 +855,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ]
     },
     {
@@ -928,7 +925,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10521"
+        "N-10353"
       ]
     },
     {
@@ -953,16 +950,19 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10519",
-      "ref": "N-10519",
-      "name": "Erika Kirk Next Model Management Involvement",
+      "@id": "N-10478",
+      "ref": "N-10478",
+      "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: what was the documented nature of Erika Kirk's meetings at Next Model Management NYC, where Faith Kates was a co-founder with documented Epstein ties?",
       "related_artifacts": [
         "A-1815.1"
       ],
       "related_claims": [
-        "C-6863"
+        "C-6863",
+        "C-6855",
+        "C-6857",
+        "C-6860"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -976,13 +976,18 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10520",
-      "ref": "N-10520",
-      "name": "Erika Kirk Corcoran Real Estate Anomaly",
+      "@id": "N-10463",
+      "ref": "N-10463",
+      "name": "Erika Kirk Corcoran Group Employment Verification",
       "type": "investigation_target",
       "description": "Investigation target: documented record of Erika Kirk's Corcoran-issued New York real estate license and any completed transactions. Host reports no record of completed deals and flags potential \"back door\" licensure.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6864",
+        "C-6865",
+        "C-6866",
+        "C-6867"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -996,9 +1001,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10521",
-      "ref": "N-10521",
-      "name": "Erika Kirk September 8 Presence Verification",
+      "@id": "N-10353",
+      "ref": "N-10353",
+      "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
       "type": "investigation_target",
       "description": "Persistent investigation target: independent verification of Erika Kirk's whereabouts on September 8, 2025. Host reports no witness corroboration of Erika in the neighborhood; Frank Turek reference is to \"family\" dinner without naming Erika.",
       "related_artifacts": [
@@ -1015,7 +1020,13 @@
         "C-6879",
         "C-6878",
         "C-6883",
-        "C-6887"
+        "C-6887",
+        "C-6876",
+        "C-6877",
+        "C-6888",
+        "C-6889",
+        "C-6890",
+        "C-6895"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -1030,8 +1041,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10522",
-      "ref": "N-10522",
+      "@id": "N-10479",
+      "ref": "N-10479",
       "name": "January 29 West Wing Meeting Subject",
       "type": "investigation_target",
       "description": "Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 – the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?",
@@ -1055,8 +1066,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10523",
-      "ref": "N-10523",
+      "@id": "N-10480",
+      "ref": "N-10480",
       "name": "Lynn Forester de Rothschild Corcoran Group Presidency Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification that Lynn Forester de Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.",
@@ -1077,8 +1088,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10524",
-      "ref": "N-10524",
+      "@id": "N-10481",
+      "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
       "type": "investigation_target",
       "description": "Investigation target: scope and content of Faith Kates–Jeffrey Epstein email relationship (referenced ~4,000 times), including the bar mitzvah invitation context.",
@@ -1481,8 +1492,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
       "type": "investigation_target",
       "description": "Existing place reused for new claims in this episode.",
@@ -1499,8 +1510,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10116",
-      "ref": "N-10116",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's MK Ultra aside.",
@@ -1516,8 +1527,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10395",
-      "ref": "N-10395",
+      "@id": "N-10368",
+      "ref": "N-10368",
       "name": "Tyler Bowyer 2011 Romania Activities",
       "type": "investigation_target",
       "description": "Existing topic reused for the Bowyer Constanta claim (the host dates it 2010 here).",
@@ -1533,8 +1544,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1553,8 +1564,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1572,8 +1583,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10473",
-      "ref": "N-10473",
+      "@id": "N-10441",
+      "ref": "N-10441",
       "name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1594,8 +1605,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10476",
-      "ref": "N-10476",
+      "@id": "N-10444",
+      "ref": "N-10444",
       "name": "Charlie Kirk Sept 8 Walk Companion Identification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1613,30 +1624,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10477",
-      "ref": "N-10477",
-      "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6876",
-        "C-6877",
-        "C-6888",
-        "C-6889",
-        "C-6890",
-        "C-6895"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10486",
-      "ref": "N-10486",
+      "@id": "N-10451",
+      "ref": "N-10451",
       "name": "Tracy Martin Background and Husband Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1652,28 +1641,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10502",
-      "ref": "N-10502",
-      "name": "Erika Kirk Corcoran Group Employment Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6864",
-        "C-6865",
-        "C-6866",
-        "C-6867"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10528",
-      "ref": "N-10528",
+      "@id": "N-10484",
+      "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the 2010 Romania claims.",
@@ -1689,27 +1658,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
-      "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6855",
-        "C-6857",
-        "C-6860"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's Epstein Fury remark.",
@@ -1725,8 +1675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10698",
-      "ref": "N-10698",
+      "@id": "N-10635",
+      "ref": "N-10635",
       "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1743,8 +1693,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10929",
-      "ref": "N-10929",
+      "@id": "N-10850",
+      "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1763,8 +1713,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10988",
-      "ref": "N-10988",
+      "@id": "N-10908",
+      "ref": "N-10908",
       "name": "Miss Universe Organization",
       "type": "investigation_target",
       "description": "Existing organization reused for the pageant ownership claim.",
@@ -1782,8 +1732,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10990",
-      "ref": "N-10990",
+      "@id": "N-10910",
+      "ref": "N-10910",
       "name": "Black Sea Rotational Force",
       "type": "investigation_target",
       "description": "Existing organization reused for new claims in this episode.",
@@ -1802,8 +1752,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11164",
-      "ref": "N-11164",
+      "@id": "N-11080",
+      "ref": "N-11080",
       "name": "Kairos Company",
       "type": "investigation_target",
       "description": "Existing organization reused for the Burnett link claim.",
@@ -1819,8 +1769,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11165",
-      "ref": "N-11165",
+      "@id": "N-11081",
+      "ref": "N-11081",
       "name": "Romanian Angels Project",
       "type": "investigation_target",
       "description": "Existing organization reused for new claims in this episode.",
@@ -1837,8 +1787,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11166",
-      "ref": "N-11166",
+      "@id": "N-11082",
+      "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
       "type": "investigation_target",
       "description": "Existing organization reused for new claims in this episode.",
@@ -1854,8 +1804,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11180",
-      "ref": "N-11180",
+      "@id": "N-11096",
+      "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused for the cease and desist reference.",
@@ -1871,8 +1821,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11192",
-      "ref": "N-11192",
+      "@id": "N-11108",
+      "ref": "N-11108",
       "name": "Sabbatian-Frankist Cult Allegation",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's Frankist claim about Epstein.",
@@ -1922,8 +1872,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11248",
-      "ref": "N-11248",
+      "@id": "N-11164",
+      "ref": "N-11164",
       "name": "Arizona State University",
       "type": "organization",
       "description": "University where, per the host, Tyler Bowyer became a regent and Erika Kirk finished college, and which Epstein funded through the Origins Project from 2010.",
@@ -1942,8 +1892,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11255",
-      "ref": "N-11255",
+      "@id": "N-11171",
+      "ref": "N-11171",
       "name": "Hillsdale College",
       "type": "organization",
       "description": "College where the host says Erika Kirk is slated to speak and students object.",
@@ -1986,7 +1936,7 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [],
       "claim_timestamp": "00:12:57–00:13:53",
@@ -2008,7 +1958,7 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [],
       "claim_timestamp": "00:13:53",
@@ -2026,7 +1976,7 @@
       "claim": "The host says the Epstein files were released on January 30, 2026, the day after the January 29 West Wing meeting she says Andrew Kolvet attended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
@@ -2046,7 +1996,7 @@
         "A-1812.1"
       ],
       "related_nodes": [
-        "N-10524"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
@@ -2066,7 +2016,7 @@
         "A-1812.2"
       ],
       "related_nodes": [
-        "N-10524"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:22:37",
@@ -2103,7 +2053,7 @@
         "A-1814.1"
       ],
       "related_nodes": [
-        "N-10523"
+        "N-10480"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -2122,7 +2072,7 @@
         "A-1815.1"
       ],
       "related_nodes": [
-        "N-10519"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:24:35–00:26:09",
@@ -2143,7 +2093,7 @@
         "A-1816.1"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
@@ -2162,7 +2112,7 @@
         "A-1817.1"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:39:00",
@@ -2181,7 +2131,7 @@
         "A-1818.2"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:36:30–00:38:17",
@@ -2200,7 +2150,7 @@
         "A-1819.1"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:35:28–00:36:30",
@@ -2275,7 +2225,7 @@
         "A-1818.1"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
@@ -2295,7 +2245,7 @@
         "A-1818.3"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
@@ -2312,7 +2262,7 @@
       "claim": "The host says President Trump has appointed Erika Kirk to the Air Force Academy's board.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [
         "relevance:core"
@@ -2334,7 +2284,7 @@
       "claim": "The host says the board has 15 other members and makes recommendations on the Academy to Defense Secretary Pete Hegseth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [
         "relevance:core"
@@ -2355,7 +2305,7 @@
       "claim": "The host says the board must provide an annual report on the Academy's morale, finances and academics.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [
         "relevance:core"
@@ -2433,7 +2383,7 @@
       "claim": "The host says Charlie Kirk had earned the same Air Force Academy appointment in March 2025, six months before he was assassinated, and that there was backlash at the time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10929"
+        "N-10850"
       ],
       "tags": [
         "relevance:core"
@@ -2454,7 +2404,7 @@
       "claim": "The host says the Iran bombing operation she calls Epstein Fury is a distraction from the Epstein files and is the US doing what Israel wants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -2533,7 +2483,7 @@
         "A-1811.1"
       ],
       "related_nodes": [
-        "N-11192"
+        "N-11108"
       ],
       "tags": [
         "relevance:tangential"
@@ -2556,7 +2506,7 @@
         "A-3065.1"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -2584,8 +2534,8 @@
         "A-3065.2"
       ],
       "related_nodes": [
-        "N-10522",
-        "N-10075"
+        "N-10479",
+        "N-10072"
       ],
       "tags": [
         "relevance:core"
@@ -2610,7 +2560,7 @@
         "A-3065.2"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -2632,7 +2582,7 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -2657,7 +2607,7 @@
         "A-3066.1"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -2680,7 +2630,7 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -2704,8 +2654,8 @@
       "claim": "The host says Turning Point USA normally loves to promote its involvement with Trump, with flashy events at the White House and Mar-a-Lago, so hiding a West Wing meeting was unusual.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10522",
-        "N-10075",
+        "N-10479",
+        "N-10072",
         "N-10000"
       ],
       "tags": [
@@ -2727,7 +2677,7 @@
       "claim": "The host says Donald Trump was the 50 percent owner of Miss America alongside NBC Universal when Erika was crowned.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10988"
+        "N-10908"
       ],
       "tags": [
         "relevance:core"
@@ -2750,7 +2700,7 @@
         "A-3067.1"
       ],
       "related_nodes": [
-        "N-10988"
+        "N-10908"
       ],
       "tags": [
         "relevance:context"
@@ -2790,7 +2740,7 @@
       "claim": "The host says Epstein was specifically trafficking women from Eastern Europe through modeling agencies as a cover.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -2829,7 +2779,7 @@
       "claim": "The host says Jean-Luc Brunel ran the Paris agency MC2 Modeling, killed himself, and that MC2 had offices in Tel Aviv.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [
         "relevance:context"
@@ -2852,7 +2802,7 @@
         "A-3068.1"
       ],
       "related_nodes": [
-        "N-10988"
+        "N-10908"
       ],
       "tags": [
         "relevance:context"
@@ -2875,8 +2825,8 @@
         "A-3068.1"
       ],
       "related_nodes": [
-        "N-10401",
-        "N-10528"
+        "N-10374",
+        "N-10484"
       ],
       "tags": [
         "relevance:core"
@@ -2897,7 +2847,7 @@
       "claim": "The host says that in 2010 the Black Sea Rotational Force in Constanta, Romania, was being led by Erika's cousin, Lieutenant Colonel Dennis Frantzve, and that it was the first time America operated a base in Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10990"
+        "N-10910"
       ],
       "tags": [
         "relevance:core"
@@ -2921,8 +2871,8 @@
       "claim": "The host says the base would later be accused of prostituting underage Romanian children and links Colonel Otto Busher to it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10990",
-        "N-10401"
+        "N-10910",
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -2942,8 +2892,8 @@
       "claim": "The host says Tyler Bowyer went to Constanta in the same period and was partying and drinking with Romanian models and parliament politicians, returning around September 2010.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10395",
-        "N-10990"
+        "N-10368",
+        "N-10910"
       ],
       "tags": [
         "relevance:core"
@@ -2963,7 +2913,7 @@
       "claim": "The host says that same year Epstein began giving money to Arizona State University, specifically for its Origins Project.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248"
+        "N-11164"
       ],
       "tags": [
         "relevance:core"
@@ -2983,7 +2933,7 @@
       "claim": "The host says in May 2011 Tyler Bowyer was unusually elected to the Board of Regents when the governor simply chose him without the normal process.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248"
+        "N-11164"
       ],
       "tags": [
         "relevance:core"
@@ -3003,7 +2953,7 @@
       "claim": "The host says Erika enrolled at ASU for her final year in 2011 to 2012 and won Miss Arizona USA that November.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248"
+        "N-11164"
       ],
       "tags": [
         "relevance:core"
@@ -3023,9 +2973,9 @@
       "claim": "The host says right after winning, Erika set up a partnership with the US Marines' Black Sea Rotational Force in Constanta to run the Romanian Angels Project through Everyday Heroes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10990",
-        "N-11165",
-        "N-11166"
+        "N-10910",
+        "N-11081",
+        "N-11082"
       ],
       "tags": [
         "relevance:core"
@@ -3048,8 +2998,8 @@
       "claim": "The host says Erika worked with Colonel Otto Busher, the same colonel she says would be accused of trafficking and prostituting underage Romanians, apparently through Tel Aviv.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11165",
-        "N-10401"
+        "N-11081",
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3131,7 +3081,7 @@
       "claim": "The host says the Kairos company is working with Mark Burnett via Johnnie Moore.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11164"
+        "N-11080"
       ],
       "tags": [
         "relevance:context"
@@ -3157,7 +3107,7 @@
         "A-3069.1"
       ],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3180,7 +3130,7 @@
         "A-1812.1"
       ],
       "related_nodes": [
-        "N-10524"
+        "N-10481"
       ],
       "tags": [
         "relevance:core"
@@ -3203,8 +3153,7 @@
         "A-3069.1"
       ],
       "related_nodes": [
-        "N-10519",
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3227,7 +3176,7 @@
         "A-3069.1"
       ],
       "related_nodes": [
-        "N-10698"
+        "N-10635"
       ],
       "tags": [
         "relevance:core"
@@ -3249,8 +3198,7 @@
         "A-3069.2"
       ],
       "related_nodes": [
-        "N-10519",
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3272,7 +3220,7 @@
         "A-3069.2"
       ],
       "related_nodes": [
-        "N-10519"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3296,7 +3244,7 @@
         "A-3069.2"
       ],
       "related_nodes": [
-        "N-10519"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -3316,8 +3264,7 @@
       "claim": "The host says that in 2018 Erika unusually received her New York real estate license to work with Corcoran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10502",
-        "N-10520"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -3340,7 +3287,7 @@
       "claim": "The host says Erika's Corcoran start was under the stewardship of Pam Liebman, who is featured in the Epstein files helping him with real estate deals.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10502"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -3362,8 +3309,7 @@
       "claim": "The host says no real estate deals completed by Erika in New York can be found.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10502",
-        "N-10520"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -3388,7 +3334,7 @@
         "A-3070.1"
       ],
       "related_nodes": [
-        "N-10502"
+        "N-10463"
       ],
       "tags": [
         "relevance:core"
@@ -3435,7 +3381,7 @@
       "claim": "The host says no one can confirm Erika graduated summa cum laude from ASU and that she has since removed it from her bio.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11248"
+        "N-11164"
       ],
       "tags": [
         "relevance:core"
@@ -3455,7 +3401,7 @@
       "claim": "The host says Erika is slated to speak at Hillsdale College and that students messaged her saying they do not want her there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11255"
+        "N-11171"
       ],
       "tags": [
         "relevance:context"
@@ -3476,7 +3422,7 @@
       "claim": "The host says she is now leaning toward Mitch, who allegedly saw Erika on September 8 at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -3501,7 +3447,7 @@
       "claim": "The host says the Fort Huachuca story caused mass panic and that TPUSA spent tons of money getting people to attack her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -3522,8 +3468,8 @@
       "claim": "The host says Erika's claim before the cease and desist was that she was making dinner for Charlie that night, and that no one else has independently confirmed it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10477",
-        "N-11180"
+        "N-10353",
+        "N-11096"
       ],
       "tags": [
         "relevance:core"
@@ -3548,7 +3494,7 @@
       "claim": "The host says Frank Turek claimed Charlie had dinner with his family but did not mention Erika or say his wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3575,7 +3521,7 @@
         "A-1818.2"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3597,7 +3543,7 @@
         "A-1818.2"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3619,7 +3565,7 @@
         "A-1817.1"
       ],
       "related_nodes": [
-        "N-10521"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3644,8 +3590,8 @@
         "A-3071.1"
       ],
       "related_nodes": [
-        "N-10473",
-        "N-10521"
+        "N-10441",
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3668,8 +3614,8 @@
         "A-3071.2"
       ],
       "related_nodes": [
-        "N-10477",
-        "N-10473"
+        "N-10353",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -3691,8 +3637,8 @@
         "A-3071.2"
       ],
       "related_nodes": [
-        "N-10477",
-        "N-10473"
+        "N-10353",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -3715,8 +3661,7 @@
         "A-3071.1"
       ],
       "related_nodes": [
-        "N-10477",
-        "N-10521"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3740,7 +3685,7 @@
         "A-1818.2"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -3766,8 +3711,8 @@
         "A-3071.1"
       ],
       "related_nodes": [
-        "N-10473",
-        "N-10476"
+        "N-10441",
+        "N-10444"
       ],
       "tags": [
         "relevance:core"
@@ -3793,8 +3738,8 @@
         "A-3071.1"
       ],
       "related_nodes": [
-        "N-10476",
-        "N-10473"
+        "N-10444",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -3817,7 +3762,7 @@
         "A-3071.1"
       ],
       "related_nodes": [
-        "N-10476"
+        "N-10444"
       ],
       "tags": [
         "relevance:core"
@@ -3840,8 +3785,7 @@
         "A-3071.1"
       ],
       "related_nodes": [
-        "N-10477",
-        "N-10521"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -3862,7 +3806,7 @@
       "claim": "The host says people tell her who they see the Kirk children with, citing as an example that they saw the kids with Tracy Martin's husband, because Charlie's family was well known in the neighborhood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10486"
+        "N-10451"
       ],
       "tags": [
         "relevance:core"
@@ -3883,7 +3827,7 @@
       "claim": "The host says she had not yet dropped that Mitch thought he saw Erika, that she was holding it back, when Erika's tour and the aggressive campaign began.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -3905,7 +3849,7 @@
       "claim": "The host says Kamala Harris' mother was involved with potentially the MK Ultra project, and that she was a scientist, adding \"Don't quote me on that.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10116"
+        "N-10112"
       ],
       "tags": [
         "relevance:tangential"

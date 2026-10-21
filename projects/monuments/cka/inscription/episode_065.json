@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-497",
-            "N-10453"
+            "N-10422"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,7 +60,7 @@
           ],
           "related_nodes": [
             "N-497",
-            "N-10452"
+            "N-10421"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
           ],
           "related_nodes": [
             "N-501",
-            "N-10458"
+            "N-10427"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
             "N-498",
             "N-499",
             "N-497",
-            "N-10460",
-            "N-10464"
+            "N-10429",
+            "N-10433"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -223,7 +223,7 @@
           ],
           "related_nodes": [
             "N-497",
-            "N-10459"
+            "N-10428"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -250,7 +250,7 @@
           ],
           "related_nodes": [
             "N-498",
-            "N-10464"
+            "N-10433"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -278,8 +278,8 @@
           ],
           "related_nodes": [
             "N-500",
-            "N-10460",
-            "N-10461"
+            "N-10429",
+            "N-10430"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -305,8 +305,8 @@
             "C-5826"
           ],
           "related_nodes": [
-            "N-10454",
-            "N-10462"
+            "N-10423",
+            "N-10431"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,8 +330,8 @@
           "description": "Elie Wiesel / Auschwitz Museum Revision of Joseph Mengele Account",
           "related_claims": [],
           "related_nodes": [
-            "N-10454",
-            "N-10465",
+            "N-10423",
+            "N-10434",
             "N-379"
           ],
           "tags": [],
@@ -356,7 +356,7 @@
           "description": "Ex-IDF Whistleblower Movement Reference",
           "related_claims": [],
           "related_nodes": [
-            "N-10454"
+            "N-10423"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,7 +380,7 @@
           "description": "Ben Shapiro Debating Young Questioner on USS Liberty at TPUSA",
           "related_claims": [],
           "related_nodes": [
-            "N-10451"
+            "N-10420"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -455,8 +455,8 @@
           "related_nodes": [
             "N-498",
             "N-3",
-            "N-10451",
-            "N-10900"
+            "N-10420",
+            "N-10821"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -528,7 +528,7 @@
             "N-2",
             "N-3",
             "N-10000",
-            "N-11044"
+            "N-10962"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -555,7 +555,7 @@
           "related_nodes": [
             "N-497",
             "N-1",
-            "N-10063"
+            "N-10060"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -576,7 +576,7 @@
             "N-497",
             "N-1",
             "N-14",
-            "N-10455"
+            "N-10424"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -604,7 +604,7 @@
           "related_nodes": [
             "N-199",
             "N-3",
-            "N-11045"
+            "N-10963"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -632,8 +632,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-10253",
-            "N-10204"
+            "N-10239",
+            "N-10196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -663,7 +663,7 @@
             "N-3",
             "N-721",
             "N-497",
-            "N-10900"
+            "N-10821"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -691,8 +691,8 @@
           "related_nodes": [
             "N-3",
             "N-449",
-            "N-10410",
-            "N-10435"
+            "N-10383",
+            "N-10390"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -728,8 +728,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10452",
-        "N-10453"
+        "N-10421",
+        "N-10422"
       ]
     },
     {
@@ -752,8 +752,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10451",
-        "N-10464"
+        "N-10420",
+        "N-10433"
       ]
     },
     {
@@ -775,7 +775,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ]
     },
     {
@@ -798,8 +798,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10460",
-        "N-10461"
+        "N-10429",
+        "N-10430"
       ]
     },
     {
@@ -822,7 +822,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10458"
+        "N-10427"
       ]
     },
     {
@@ -840,7 +840,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10465"
+        "N-10434"
       ]
     },
     {
@@ -867,8 +867,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target across the series. This episode surfaces additional verification material: Ward Boston notarized statement (via viewer) and Victor Ostrovsky book reference. Host also notes New York Times is preparing a USS Liberty piece.",
@@ -893,8 +893,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10452",
-      "ref": "N-10452",
+      "@id": "N-10421",
+      "ref": "N-10421",
       "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
       "type": "investigation_target",
       "description": "Persistent series element. In this episode confirmed via opening clip A-1691.1 referencing both her nomination and Tucker Carlson's win.",
@@ -916,8 +916,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10453",
-      "ref": "N-10453",
+      "@id": "N-10422",
+      "ref": "N-10422",
       "name": "Piers Morgan Bassem Youssef Chart Numbers Claim",
       "type": "investigation_target",
       "description": "Specific 2014 figures cited by Youssef: 88 Israelis vs. 2,329 Palestinians killed (ratio ~1:27). Plus reference to 7,000 West Bank Palestinians killed since occupation.",
@@ -939,8 +939,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10454",
-      "ref": "N-10454",
+      "@id": "N-10423",
+      "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
       "type": "investigation_target",
       "description": "Composite node tracking Youssef and Owens' on-record statements about Gaza casualties and the documentation of them.",
@@ -958,8 +958,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10455",
-      "ref": "N-10455",
+      "@id": "N-10424",
+      "ref": "N-10424",
       "name": "Andrew Kolvet Charlie Kirk Twitter Control Claim",
       "type": "investigation_target",
       "description": "Youssef states \"Charlie didn't run his Twitter feed. Andrew Kolvet did.\" (A-1690 transcript)",
@@ -974,8 +974,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
       "type": "investigation_target",
       "description": "Per host Candace Owens: \"When BB went on a little mini tour and went on everyone's shows sometime in August, Charlie didn't let him on a show.\" (A-1690 transcript)",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10457",
-      "ref": "N-10457",
+      "@id": "N-10426",
+      "ref": "N-10426",
       "name": "New York Times USS Liberty Investigation Reporting",
       "type": "investigation_target",
       "description": "Per host, NYT contacted her regarding her Phil Tourney interview and is preparing a piece on USS Liberty.",
@@ -1002,14 +1002,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10451",
+        "N-10420",
         "N-498"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10458",
-      "ref": "N-10458",
+      "@id": "N-10427",
+      "ref": "N-10427",
       "name": "Ostrovsky October 7th Photo Authenticity Question",
       "type": "investigation_target",
       "description": "Discrepancy noted in the two photos: blood on face vs. no blood on bandages.",
@@ -1031,8 +1031,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10459",
-      "ref": "N-10459",
+      "@id": "N-10428",
+      "ref": "N-10428",
       "name": "Bassem Youssef Belly of the Beast Tour Schedule",
       "type": "investigation_target",
       "description": "Documented tour dates: Portland 3/20, Seattle 3/21, plus Philadelphia, DC, Houston, Atlanta.",
@@ -1053,8 +1053,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10460",
-      "ref": "N-10460",
+      "@id": "N-10429",
+      "ref": "N-10429",
       "name": "Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim",
       "type": "investigation_target",
       "description": "Claim that the book was subject to a 24-hour gag order in 1992, described as \"the first and last ever gag order on an American book.\"",
@@ -1075,8 +1075,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10461",
-      "ref": "N-10461",
+      "@id": "N-10430",
+      "ref": "N-10430",
       "name": "1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim",
       "type": "investigation_target",
       "description": "Per Ostrovsky book (per Youssef): Mossad allegedly knew about the bombing of U.S. Marines in Beirut in advance and withheld information.",
@@ -1097,8 +1097,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10462",
-      "ref": "N-10462",
+      "@id": "N-10431",
+      "ref": "N-10431",
       "name": "*Till Kingdom Come* Documentary Pastors Clip",
       "type": "investigation_target",
       "description": "Verbal reference to documentary showing pastors telling children Jews are more special.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10463",
-      "ref": "N-10463",
+      "@id": "N-10432",
+      "ref": "N-10432",
       "name": "Ward Boston Notarized Statement San Diego Union Tribune",
       "type": "investigation_target",
       "description": "Specific publication reference: Ward Boston's notarized statement was published in the San Diego Union Tribune before his death.",
@@ -1134,13 +1134,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-499",
-        "N-10451"
+        "N-10420"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10464",
-      "ref": "N-10464",
+      "@id": "N-10433",
+      "ref": "N-10433",
       "name": "Candace Phil Tourney Interview View Count",
       "type": "investigation_target",
       "description": "Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).",
@@ -1162,8 +1162,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10465",
-      "ref": "N-10465",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
       "type": "investigation_target",
       "description": "Host claim that Calvary Chapel is \"a CIA story\" and that Rob McCoy's father ran Navy psychological operations. (Host claim – not artifact-anchored in this episode beyond host testimony.)",
@@ -1717,8 +1717,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Topic linked to the host's statements on Netanyahu's press tour and Trump's tweet.",
@@ -1736,8 +1736,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10059",
-      "ref": "N-10059",
+      "@id": "N-10056",
+      "ref": "N-10056",
       "name": "PBD Podcast",
       "type": "investigation_target",
       "description": "Show on which Youssef says Kirk asked questions about Israel.",
@@ -1753,8 +1753,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
       "type": "investigation_target",
       "description": "Place discussed throughout the episode.",
@@ -1773,8 +1773,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Organization where the host says she worked for Marissa.",
@@ -1790,8 +1790,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10204",
-      "ref": "N-10204",
+      "@id": "N-10196",
+      "ref": "N-10196",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
       "type": "investigation_target",
       "description": "Aircraft investigation target related to the host's Egyptian passport names claim.",
@@ -1807,8 +1807,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith events.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
       "type": "investigation_target",
       "description": "Topic related to the host's statements about Calvary Chapel.",
@@ -1842,8 +1842,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Topic related to the host's statement that Kirk said no when Netanyahu wanted to take Turning Point further.",
@@ -1859,8 +1859,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10410",
-      "ref": "N-10410",
+      "@id": "N-10383",
+      "ref": "N-10383",
       "name": "TPUSA Board Member Military–Satanism Connection",
       "type": "investigation_target",
       "description": "Topic related to the host's Aquino and Temple of Set statements.",
@@ -1877,9 +1877,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10435",
-      "ref": "N-10435",
-      "name": "Fort Huachuca Erika Kirk Location Investigation",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Topic related to the host's Fort Huachuca statement.",
       "related_artifacts": [],
@@ -1894,8 +1894,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Organization that the host says barred Youssef and sued her after the Tourney interview.",
@@ -1916,8 +1916,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "Organization discussed in Youssef's and the host's statements about its Gaza reporting.",
@@ -2022,8 +2022,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11040",
-      "ref": "N-11040",
+      "@id": "N-10958",
+      "ref": "N-10958",
       "name": "Daily Wire Lawsuit Over Phil Tourney Interview",
       "type": "topic",
       "description": "Investigation target: the Daily Wire's lawsuit against the host after her Phil Tourney interview, and the host's account of its basis.",
@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11041",
-      "ref": "N-11041",
+      "@id": "N-10959",
+      "ref": "N-10959",
       "name": "Israeli Cyber Official Las Vegas Sting Allegation",
       "type": "topic",
       "description": "Investigation target: Youssef's claim that the head of cybersecurity in Netanyahu's office was found with a minor in a Las Vegas sting and allowed to leave.",
@@ -2062,8 +2062,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11042",
-      "ref": "N-11042",
+      "@id": "N-10960",
+      "ref": "N-10960",
       "name": "Mossad False-Flag History Claims",
       "type": "topic",
       "description": "Investigation target: Youssef's claims about historical staged or covert attacks attributed to Israel or Mossad, including the King David Hotel, Iraq 1950-51, Lavon, London 1994, Mexico 2001 and Patria.",
@@ -2084,8 +2084,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11043",
-      "ref": "N-11043",
+      "@id": "N-10961",
+      "ref": "N-10961",
       "name": "US Sanctions on ICC Judges",
       "type": "topic",
       "description": "Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dutch national, cutting off his bank access.",
@@ -2101,8 +2101,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11044",
-      "ref": "N-11044",
+      "@id": "N-10962",
+      "ref": "N-10962",
       "name": "Erika Kirk Employee Call Recordings",
       "type": "topic",
       "description": "Investigation target: recordings of Erika Kirk addressing TPUSA employees five days after Charlie Kirk's death.",
@@ -2121,8 +2121,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11045",
-      "ref": "N-11045",
+      "@id": "N-10963",
+      "ref": "N-10963",
       "name": "October 7 Atrocity Reporting Disputes",
       "type": "topic",
       "description": "Investigation target: the host's and Youssef's claims that reports of babies in ovens and mass rape on October 7th were fabricated.",
@@ -2142,8 +2142,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11046",
-      "ref": "N-11046",
+      "@id": "N-10964",
+      "ref": "N-10964",
       "name": "ICE Tel Aviv Field Office Claim",
       "type": "topic",
       "description": "Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.",
@@ -2169,7 +2169,7 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-10453"
+        "N-10422"
       ],
       "tags": [],
       "claim_timestamp": "00:43:21",
@@ -2189,7 +2189,7 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10452"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2209,7 +2209,7 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10452"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2229,8 +2229,8 @@
         "A-1694.1"
       ],
       "related_nodes": [
-        "N-10451",
-        "N-10463"
+        "N-10420",
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "01:21:47",
@@ -2249,9 +2249,9 @@
         "A-1694.2"
       ],
       "related_nodes": [
-        "N-10451",
-        "N-10457",
-        "N-10464"
+        "N-10420",
+        "N-10426",
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "01:22:31",
@@ -2286,7 +2286,7 @@
         "A-1693.2"
       ],
       "related_nodes": [
-        "N-10458"
+        "N-10427"
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
@@ -2304,7 +2304,7 @@
       "claim": "Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10461"
+        "N-10430"
       ],
       "tags": [],
       "claim_timestamp": "01:27:19",
@@ -2322,7 +2322,7 @@
       "claim": "Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10460"
+        "N-10429"
       ],
       "tags": [],
       "claim_timestamp": "01:28:11",
@@ -2340,7 +2340,7 @@
       "claim": "Per Youssef, the documentary *Till Kingdom Come* contains clips of pastors addressing children and saying \"Jews are better than us. They are more special than us. They are not like us.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10462"
+        "N-10431"
       ],
       "tags": [],
       "claim_timestamp": "00:22:05",
@@ -2357,7 +2357,7 @@
       "claim": "Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu on his show in August (referenced as 2025) during Netanyahu's \"mini tour\" of media appearances.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10456"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06",
@@ -2376,8 +2376,8 @@
       "claim": "Per host, the New York Times contacted her about her Phil Tourney interview and is working on a piece regarding USS Liberty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10451",
-        "N-10457"
+        "N-10420",
+        "N-10426"
       ],
       "tags": [],
       "claim_timestamp": "01:22:18",
@@ -2397,7 +2397,7 @@
         "A-1695.1"
       ],
       "related_nodes": [
-        "N-10459"
+        "N-10428"
       ],
       "tags": [],
       "claim_timestamp": "01:46:20–01:47:10",
@@ -2416,7 +2416,7 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10452"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2440,7 +2440,7 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10452"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:00:54",
@@ -2457,8 +2457,8 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10452",
-        "N-10900"
+        "N-10421",
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -2478,7 +2478,7 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-10453"
+        "N-10422"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -2501,7 +2501,7 @@
       "claim": "The host says that after she asked her producer to book Youssef, the answer from Daily Wire was that he was not allowed on because he had hurt Ben Shapiro's feelings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:02:59",
@@ -2523,7 +2523,7 @@
         "A-1701.1"
       ],
       "related_nodes": [
-        "N-10451",
+        "N-10420",
         "N-10000"
       ],
       "tags": [],
@@ -2543,7 +2543,7 @@
       "claim": "Youssef says the crew of the USS Liberty were threatened and put under a gag order and could not talk, contrary to Ben Shapiro's answer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [],
       "claim_timestamp": "00:05:37",
@@ -2564,7 +2564,7 @@
         "A-1701.1"
       ],
       "related_nodes": [
-        "N-10451",
+        "N-10420",
         "N-10026"
       ],
       "tags": [],
@@ -2623,9 +2623,9 @@
         "A-2763.1"
       ],
       "related_nodes": [
-        "N-10451",
-        "N-10900",
-        "N-11040"
+        "N-10420",
+        "N-10821",
+        "N-10958"
       ],
       "tags": [],
       "claim_timestamp": "00:08:54",
@@ -2646,9 +2646,9 @@
         "A-2763.1"
       ],
       "related_nodes": [
-        "N-10451",
-        "N-10900",
-        "N-11040"
+        "N-10420",
+        "N-10821",
+        "N-10958"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -2671,7 +2671,7 @@
         "A-2763.1"
       ],
       "related_nodes": [
-        "N-11040"
+        "N-10958"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -2692,8 +2692,8 @@
         "A-2763.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-11040"
+        "N-10821",
+        "N-10958"
       ],
       "tags": [],
       "claim_timestamp": "00:10:55",
@@ -2753,7 +2753,7 @@
       "claim": "The host says that understanding what Jared Kushner is doing in Gaza showed her it was a real estate deal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:10:55",
@@ -2772,7 +2772,7 @@
       "claim": "Youssef says the bombing of the King David Hotel killed 92 British soldiers and that the Hagana members who did it were dressed as Palestinians.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11042"
+        "N-10960"
       ],
       "tags": [],
       "claim_timestamp": "00:13:03",
@@ -2791,7 +2791,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
-        "N-11042"
+        "N-10960"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
@@ -2810,7 +2810,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
-        "N-11042"
+        "N-10960"
       ],
       "tags": [],
       "claim_timestamp": "00:14:43",
@@ -2829,7 +2829,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
-        "N-11042"
+        "N-10960"
       ],
       "tags": [],
       "claim_timestamp": "00:15:00",
@@ -2848,7 +2848,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
-        "N-11042"
+        "N-10960"
       ],
       "tags": [],
       "claim_timestamp": "00:15:00",
@@ -2885,7 +2885,7 @@
       "claim": "The host says Rob McCoy purported to be close to Charlie Kirk but that Charlie could not stand him toward the end, and that Turning Point should say so.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465"
+        "N-10434"
       ],
       "tags": [],
       "claim_timestamp": "00:22:53",
@@ -2905,7 +2905,7 @@
       "claim": "The host says Rob McCoy's father ran psychological operations for the Navy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465"
+        "N-10434"
       ],
       "tags": [],
       "claim_timestamp": "00:22:53",
@@ -2924,8 +2924,8 @@
       "claim": "The host says the entire Calvary Chapel church is a CIA story and describes it as a place for hippies to go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465",
-        "N-10264"
+        "N-10434",
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:23:34",
@@ -2979,7 +2979,7 @@
       "claim": "Youssef says he agrees Charlie Kirk was starting to wake up toward the end because he asked questions on the PBD podcast, including one Youssef says he had raised on Piers Morgan about Israel's size and response time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10059"
+        "N-10056"
       ],
       "tags": [],
       "claim_timestamp": "00:26:09",
@@ -3002,7 +3002,7 @@
         "A-2766.1"
       ],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:27:33",
@@ -3042,7 +3042,7 @@
         "A-2766.2"
       ],
       "related_nodes": [
-        "N-10455"
+        "N-10424"
       ],
       "tags": [],
       "claim_timestamp": "00:28:19",
@@ -3081,7 +3081,7 @@
       "claim": "The host says that when Benjamin Netanyahu wanted to take Turning Point to the next level, Charlie Kirk said no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10000"
       ],
       "tags": [],
@@ -3108,7 +3108,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-11044"
+        "N-10962"
       ],
       "tags": [],
       "claim_timestamp": "00:31:32",
@@ -3130,7 +3130,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-11044"
+        "N-10962"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",
@@ -3188,7 +3188,7 @@
       "claim": "Youssef says the head of cybersecurity in Netanyahu's office came to Las Vegas, was found with a minor in a sting operation, and was allowed to leave.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11041"
+        "N-10959"
       ],
       "tags": [],
       "claim_timestamp": "00:34:48",
@@ -3207,7 +3207,7 @@
       "claim": "Youssef says the acting district attorney in the Las Vegas case happens to be an Israeli national who let the man go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11041"
+        "N-10959"
       ],
       "tags": [],
       "claim_timestamp": "00:34:48",
@@ -3297,7 +3297,7 @@
       "claim": "Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at the port of Haifa in the 1940s when British authorities would not let it go, and that he thinks they killed 150 Jews.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11042"
+        "N-10960"
       ],
       "tags": [],
       "claim_timestamp": "00:39:15",
@@ -3317,7 +3317,7 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-10453"
+        "N-10422"
       ],
       "tags": [],
       "claim_timestamp": "00:43:21",
@@ -3341,7 +3341,7 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-10453"
+        "N-10422"
       ],
       "tags": [],
       "claim_timestamp": "00:43:21",
@@ -3365,7 +3365,7 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-10454"
+        "N-10423"
       ],
       "tags": [],
       "claim_timestamp": "00:45:10",
@@ -3383,7 +3383,7 @@
       "claim": "Youssef says that ICE's field office location turns out to be in Tel Aviv; another speaker suggests it was a Department of Homeland Security office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11046"
+        "N-10964"
       ],
       "tags": [],
       "claim_timestamp": "00:45:41",
@@ -3490,7 +3490,7 @@
       "claim": "Youssef says the US sanctioned a judge at the International Criminal Court, a Dutch national, who cannot access his bank account or pay his bills.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11043"
+        "N-10961"
       ],
       "tags": [],
       "claim_timestamp": "00:55:12",
@@ -3591,7 +3591,7 @@
       "claim": "Youssef says Piers Morgan brought on Jonathan Conricus, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "01:04:37",
@@ -3611,7 +3611,7 @@
       "claim": "The host says she adored Marissa at PragerU when she worked for her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [],
       "claim_timestamp": "01:06:13",
@@ -3648,7 +3648,7 @@
         "A-2768.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "01:08:34",
@@ -3669,8 +3669,8 @@
         "A-2768.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-10204"
+        "N-10239",
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "01:08:34",
@@ -3726,7 +3726,7 @@
       "claim": "The host says Trump posted a tweet showing him hugging the Israeli flag in the period after Charlie Kirk was killed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [],
       "claim_timestamp": "01:14:13",
@@ -3745,7 +3745,7 @@
       "claim": "The host says Benjamin Netanyahu went on a press tour immediately after Charlie Kirk's death to say he did not kill him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [],
       "claim_timestamp": "01:14:13",
@@ -3786,7 +3786,7 @@
         "A-1694.4"
       ],
       "related_nodes": [
-        "N-10454"
+        "N-10423"
       ],
       "tags": [],
       "claim_timestamp": "01:21:04",
@@ -3806,7 +3806,7 @@
         "A-1700.1"
       ],
       "related_nodes": [
-        "N-10454"
+        "N-10423"
       ],
       "tags": [],
       "claim_timestamp": "01:21:47",
@@ -3824,7 +3824,7 @@
       "claim": "Youssef says the New York Times editorial team is full of people from the IDF and ex-Mossad.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968",
+        "N-10889",
         "N-10015"
       ],
       "tags": [],
@@ -3843,8 +3843,8 @@
       "claim": "Youssef says the New York Times published a piece claiming there are more tunnels under Gaza than the length of the New York subway system.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968",
-        "N-10063"
+        "N-10889",
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
@@ -3862,8 +3862,8 @@
       "claim": "Youssef says the New York Times ran a whole piece about rape on October 7th that was completely fabricated and that Israelis mentioned in the article said it did not happen.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968",
-        "N-11045"
+        "N-10889",
+        "N-10963"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
@@ -3883,7 +3883,7 @@
         "A-2767.1"
       ],
       "related_nodes": [
-        "N-11045"
+        "N-10963"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
@@ -3902,7 +3902,7 @@
       "claim": "The host says the claim that babies were put in ovens was propaganda that was all made up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11045",
+        "N-10963",
         "N-10026"
       ],
       "tags": [],
@@ -3923,7 +3923,7 @@
         "A-1696.1"
       ],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [],
       "claim_timestamp": "01:26:17",
@@ -3944,7 +3944,7 @@
         "A-1696.1"
       ],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [],
       "claim_timestamp": "01:26:17",
@@ -3965,7 +3965,7 @@
         "A-1697.1"
       ],
       "related_nodes": [
-        "N-10461",
+        "N-10430",
         "N-10015"
       ],
       "tags": [],
@@ -4031,7 +4031,7 @@
         "A-2769.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "01:32:22",
@@ -4108,8 +4108,8 @@
         "A-2770.1"
       ],
       "related_nodes": [
-        "N-10410",
-        "N-10435"
+        "N-10383",
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "01:39:55",
@@ -4130,7 +4130,7 @@
         "A-2770.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10383"
       ],
       "tags": [],
       "claim_timestamp": "01:40:32",
@@ -4198,7 +4198,7 @@
       "claim": "The host says Netanyahu is giving podcast interviews in America after Charlie Kirk's death, which she says is not a smart move if he is involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [],
       "claim_timestamp": "01:44:41",

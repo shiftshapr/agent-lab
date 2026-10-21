@@ -205,7 +205,7 @@
             "C-3958"
           ],
           "related_nodes": [
-            "N-10332"
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
             "C-3962"
           ],
           "related_nodes": [
-            "N-10332",
+            "N-10311",
             "N-67"
           ],
           "tags": [],
@@ -327,7 +327,7 @@
             "C-3974"
           ],
           "related_nodes": [
-            "N-10333"
+            "N-10312"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -523,7 +523,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ]
     },
     {
@@ -547,8 +547,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10332",
-      "ref": "N-10332",
+      "@id": "N-10311",
+      "ref": "N-10311",
       "name": "USAF C37A 99-044 Flight Path Verification",
       "type": "investigation_target",
       "description": "Cross-episode investigation target: the September 7-9, 2025 movements of USAF C37A Gulfstream V (tail 99-044) including transponder-dark segment and RCH-to-SAM call sign transition at Fort Huachuca, and the question of which senior official was picked up.",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10333",
-      "ref": "N-10333",
+      "@id": "N-10312",
+      "ref": "N-10312",
       "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
       "type": "investigation_target",
       "description": "Investigation target: identification and preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, showing the young woman and special operations individual departing in a green truck.",
@@ -997,8 +997,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "Outlet where Erika Kirk sat for an interview.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10201",
-      "ref": "N-10201",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the burial-location claims.",
@@ -1032,8 +1032,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims.",
@@ -1053,8 +1053,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
       "type": "investigation_target",
       "description": "Existing topic reused for town hall claims.",
@@ -1073,8 +1073,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11097",
-      "ref": "N-11097",
+      "@id": "N-11015",
+      "ref": "N-11015",
       "name": "TPUSA Post-Assassination Fundraising Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's fundraising figures.",
@@ -1108,8 +1108,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims.",
@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10540",
-      "ref": "N-10540",
+      "@id": "N-10495",
+      "ref": "N-10495",
       "name": "Tucker Carlson CIA Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's remark on his father.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's interest in Neff's military ties.",
@@ -1210,8 +1210,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's Foreign Legion information.",
@@ -1244,8 +1244,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims.",
@@ -1261,8 +1261,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11162",
-      "ref": "N-11162",
+      "@id": "N-11078",
+      "ref": "N-11078",
       "name": "Erika Kirk Egyptian Plane Pregnancy Response",
       "type": "topic",
       "description": "Erika Kirk's statement at the Bari Weiss town hall, as reported by the host, that she was pregnant while the Egyptian planes were flying and has photo proof she was not aboard, and the host's reply that she never said Erika was aboard.",
@@ -1434,7 +1434,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:43:18",
@@ -1450,7 +1450,7 @@
         "A-1530.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
@@ -1501,7 +1501,7 @@
         "A-1531.6"
       ],
       "related_nodes": [
-        "N-10333"
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:59:48",
@@ -1517,7 +1517,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20",
@@ -1596,7 +1596,7 @@
       "claim": "The host says Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie Kirk has not yet been buried and say they have proof, and that this prompted Harris Faulkner's question about where he is buried.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:context"
@@ -1620,7 +1620,7 @@
         "A-1525.1"
       ],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -1686,7 +1686,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-10968"
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -1707,7 +1707,7 @@
       "claim": "The host says Erika Kirk's upcoming CBS News town hall with Bari Weiss was filmed on the day of this episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -1729,7 +1729,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11097"
+        "N-11015"
       ],
       "tags": [
         "relevance:core"
@@ -1747,7 +1747,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11097"
+        "N-11015"
       ],
       "tags": [
         "relevance:core"
@@ -1937,7 +1937,7 @@
         "A-1528.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -1984,7 +1984,7 @@
       "claim": "The host says Tucker Carlson learned after his father died that his father was on the CIA payroll, and that Carlson grew up around CIA agents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10540"
+        "N-10495"
       ],
       "tags": [
         "relevance:context"
@@ -2004,7 +2004,7 @@
       "claim": "The host says that because Tucker Carlson's friends are in the state, his confirmation means people in the NSA and CIA are confirming the Egyptian-plane facts are real.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2094,9 +2094,9 @@
       "claim": "The host says Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egyptian planes were flying and following her, so she was not on them, and that she has photo proof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11162",
-        "N-10253",
-        "N-10334"
+        "N-11078",
+        "N-10239",
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -2117,8 +2117,8 @@
       "claim": "The host says she never said Erika Kirk was aboard the Egyptian planes and that she first feared the planes were following Charlie, then learned they had also been following Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11162",
-        "N-10253"
+        "N-11078",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2143,7 +2143,7 @@
       "claim": "The host says that when Bari Weiss asked about the conspiracies and what Erika would say to those voicing them, Erika Kirk answered \"Stop.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:core"
@@ -2165,7 +2165,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10334"
+        "N-10313"
       ],
       "tags": [
         "relevance:context"
@@ -2210,7 +2210,7 @@
       "claim": "The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring her notes, then Googling and editing what she thought she heard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2234,7 +2234,7 @@
       "claim": "The host says her phone conversation with the Fort Huachuca witness lasted more than one hour.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:context"
@@ -2255,7 +2255,7 @@
       "claim": "The host says her team confirmed everything the witness said was real and that he gave her the card he swiped to enter the base.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2279,7 +2279,7 @@
       "claim": "The host says the witness did not know Captain Neff's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Neff he confirmed it was the correct person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2304,7 +2304,7 @@
       "claim": "The host says Adam Neff led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2329,7 +2329,7 @@
         "A-1532.1"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2352,7 +2352,7 @@
       "claim": "The host says the witness sent her extensive documentation, including his old and new passport, military ID card, hotels, books, times, text messages and phone call logs with his wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -2373,7 +2373,7 @@
       "claim": "The host says the witness found a cartel tunnel when he was 20 and is now 56.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:context"
@@ -2396,7 +2396,7 @@
       "claim": "The host says the group panicked when the witness walked in, because he should not have known the building was there, and did not buy his excuse.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2416,7 +2416,7 @@
       "claim": "The host says that about seven hours later the witness was allowed to leave, or Captain Neff allowed him to leave.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2440,7 +2440,7 @@
       "claim": "The host says the witness told her seeing that many senior officers is not common unless a high-ranking congressional member or someone close to the president or vice president was involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2466,7 +2466,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2491,7 +2491,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2514,8 +2514,8 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10326",
-        "N-10332"
+        "N-10305",
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2539,7 +2539,7 @@
       "claim": "The host says the witness is planning to come out on podcasts and that she will help him this weekend choose whose show to go on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:context"
@@ -2560,7 +2560,7 @@
       "claim": "The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Neff.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2587,7 +2587,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2612,7 +2612,7 @@
         "A-1529.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2629,7 +2629,7 @@
       "claim": "The host says the witness described the meeting as one in which the operation was being finalized, a finalization meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2652,7 +2652,7 @@
         "A-1530.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2677,7 +2677,7 @@
         "A-1530.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10311"
       ],
       "tags": [
         "relevance:core"
@@ -2742,7 +2742,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -2782,7 +2782,7 @@
       "claim": "The host says she said she had information about the French Foreign Legion being on the ground on the day of the assassination and that federal authorities have not reached out to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [
         "relevance:core"
@@ -2806,7 +2806,7 @@
       "claim": "The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (Erika Kirk and the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2829,7 +2829,7 @@
       "claim": "The host says she can confirm the witness was factually there and that the meeting happened as he said at the time he said, but cannot confirm his memory of who he believes he saw, including Brian Harpole.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -2856,7 +2856,7 @@
         "A-1531.5"
       ],
       "related_nodes": [
-        "N-10333"
+        "N-10312"
       ],
       "tags": [
         "relevance:core"
@@ -2878,7 +2878,7 @@
         "A-2918.1"
       ],
       "related_nodes": [
-        "N-10333"
+        "N-10312"
       ],
       "tags": [
         "relevance:core"

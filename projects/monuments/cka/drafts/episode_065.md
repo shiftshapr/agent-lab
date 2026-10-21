@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-721, N-722, N-11040, N-11041, N-11042, N-11043, N-11044, N-11045, N-11046
+  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-721, N-722, N-10958, N-10959, N-10960, N-10961, N-10962, N-10963, N-10964
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5800–C-5905
-  - New Nodes Introduced: N-499, N-500, N-501, N-10453, N-10455, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464
-  - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-140, N-178, N-199, N-211, N-278, N-366, N-449, N-455, N-521, N-10000, N-10015, N-10023, N-10026, N-10048, N-10059, N-10063, N-10131, N-10204, N-10253, N-10264, N-10342, N-10410, N-10435, N-10900, N-498, N-10451, N-10454, N-10465, N-298, N-10968, N-497, N-723, N-10452, N-10456
+  - New Nodes Introduced: N-499, N-500, N-501, N-10422, N-10424, N-10426, N-10427, N-10428, N-10429, N-10430, N-10431, N-10432, N-10433
+  - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-140, N-178, N-199, N-211, N-278, N-366, N-449, N-455, N-521, N-10000, N-10015, N-10023, N-10026, N-10045, N-10056, N-10060, N-10126, N-10196, N-10239, N-10248, N-10320, N-10383, N-10390, N-10821, N-498, N-10420, N-10423, N-10434, N-298, N-10889, N-497, N-723, N-10421, N-10425
   - Hole-minted Nodes (wave3): N-379
 
 ---
@@ -40,7 +40,7 @@
 
 - Artifact Families Introduced: A-1690, A-1691, A-1692, A-1693, A-1694, A-1695, A-1696, A-1697, A-1698, A-1699, A-1700, A-1701, A-1702, A-1703
 - New People Nodes Introduced: N-497, N-498, N-499, N-500, N-501, N-17, N-204
-- New Investigation Target Nodes Introduced: N-10451, N-10452, N-10453, N-10454, N-10455, N-10456, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464, N-10465
+- New Investigation Target Nodes Introduced: N-10420, N-10421, N-10422, N-10423, N-10424, N-10425, N-10426, N-10427, N-10428, N-10429, N-10430, N-10431, N-10432, N-10433, N-10434
 - Existing Nodes Reused: None identified (new nodes only)
 
 ---
@@ -71,7 +71,7 @@ Confidence Level: High
 
 Description: Clip displayed on screen with full spoken transcript. Youssef cites 2014 figures of 88 Israelis and 2,329 Palestinians killed ("one Israeli for 27 Palestinian"), references "since the occupation of the West Bank, 7,000 Palestinians killed," and notes that "more children [were] killed from the Palestinian side" in three weeks following a ceasefire than "Israeli kids were killed all through 75 years."
 
-*Related: C-5850, C-5873, N-497, N-10453*
+*Related: C-5850, C-5873, N-497, N-10422*
 
 ---
 
@@ -87,7 +87,7 @@ Confidence Level: High
 
 Description: Audio clip played at episode opening. References Candace Owens' 2024 Anti-Semite of the Year nomination; cites Tucker Carlson as the 2025 winner; references "Miss Rachel" and "Mr. Rachel" as also being nominated.
 
-*Related: C-5800, C-5801, N-497, N-10452*
+*Related: C-5800, C-5801, N-497, N-10421*
 
 ---
 
@@ -103,7 +103,7 @@ Confidence Level: Medium (B-roll nature)
 
 Description: Aerial footage of destroyed Gaza cityscape shown on screen during host's verbal narration.
 
-*Related: N-10454 (contextual), N-497 (referenced)*
+*Related: N-10423 (contextual), N-497 (referenced)*
 
 ---
 
@@ -129,7 +129,7 @@ Confidence Level: Medium
 
 Description: Second photo showing Ostrovsky with bandages. Host notes there is "not a single point like drop of blood on the bandage" and that "there's no self-respecting medic that will actually leave a face like this trench of blood" without cleaning first.
 
-*Related: C-5824, N-501, N-10458*
+*Related: C-5824, N-501, N-10427*
 
 ---
 
@@ -175,7 +175,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud. Viewer references "the suicide rate of the IDF soldiers who top themselves after fighting in Gaza."
 
-*Related: C-5878, C-5881, N-498, N-499, N-497, N-10460, N-10464*
+*Related: C-5878, C-5881, N-498, N-499, N-497, N-10429, N-10433*
 
 ---
 
@@ -191,7 +191,7 @@ Confidence Level: High
 
 Description: Youssef announces tour dates: Portland March 20, Seattle March 21, with additional cities listed (Philadelphia, DC, Houston, Atlanta). Tickets at bassymusic.xyz.
 
-*Related: C-5905, N-497, N-10459*
+*Related: C-5905, N-497, N-10428*
 
 ---
 
@@ -209,7 +209,7 @@ Description: Referenced previous episode featuring USS Liberty survivor Phil Tou
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-5881, N-498, N-10464*
+*Related: C-5881, N-498, N-10433*
 
 ---
 
@@ -227,7 +227,7 @@ Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, describ
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-5889, C-5891, N-500, N-10460, N-10461*
+*Related: C-5889, C-5891, N-500, N-10429, N-10430*
 
 ---
 
@@ -245,7 +245,7 @@ Description: Referenced documentary clip showing pastors telling children "Jews 
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-5826, N-10454, N-10462*
+*Related: C-5826, N-10423, N-10431*
 
 ---
 
@@ -263,7 +263,7 @@ Description: Referenced by host. Claims Auschwitz Museum revised story about Jos
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-10454, N-10465, N-379*
+*Related: N-10423, N-10434, N-379*
 
 ---
 
@@ -281,7 +281,7 @@ Description: Referenced movement of ex-IDF soldiers speaking about atrocities in
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-10454*
+*Related: N-10423*
 
 ---
 
@@ -299,7 +299,7 @@ Description: Referenced by Bassem Youssef. Shapiro alleged to have claimed the U
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-10451*
+*Related: N-10420*
 
 ---
 
@@ -344,7 +344,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5812, C-5813, C-5814, C-5815, N-498, N-3, N-10451, N-10900*
+*Related: C-5812, C-5813, C-5814, C-5815, N-498, N-3, N-10420, N-10821*
 
 ---
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:31:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5839, C-5840, N-2, N-3, N-10000, N-11044*
+*Related: C-5839, C-5840, N-2, N-3, N-10000, N-10962*
 
 ---
 
@@ -394,7 +394,7 @@ Video Timestamp: 00:27:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5833, N-497, N-1, N-10063*
+*Related: C-5833, N-497, N-1, N-10060*
 
 ---
 
@@ -405,7 +405,7 @@ Video Timestamp: 00:27:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5834, C-5835, N-497, N-1, N-14, N-10455*
+*Related: C-5834, C-5835, N-497, N-1, N-14, N-10424*
 
 ---
 
@@ -418,7 +418,7 @@ Video Timestamp: 00:38:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5847, C-5885, N-199, N-3, N-11045*
+*Related: C-5847, C-5885, N-199, N-3, N-10963*
 
 ---
 
@@ -431,7 +431,7 @@ Video Timestamp: 01:08:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5869, C-5870, N-1, N-3, N-10253, N-10204*
+*Related: C-5869, C-5870, N-1, N-3, N-10239, N-10196*
 
 ---
 
@@ -444,7 +444,7 @@ Video Timestamp: 01:32:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5894, C-5895, C-5896, N-3, N-721, N-497, N-10900*
+*Related: C-5894, C-5895, C-5896, N-3, N-721, N-497, N-10821*
 
 ---
 
@@ -457,7 +457,7 @@ Video Timestamp: 01:39:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5898, C-5899, N-3, N-449, N-10410, N-10435*
+*Related: C-5898, C-5899, N-3, N-449, N-10383, N-10390*
 
 ---
 
@@ -480,7 +480,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1690.1, A-1691.1, A-1694.3, A-1695.1, C-5850, C-5873, C-5905, N-10452, N-10453*
+*Related: A-1690.1, A-1691.1, A-1694.3, A-1695.1, C-5850, C-5873, C-5905, N-10421, N-10422*
 
 ---
 
@@ -493,7 +493,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1696.1, A-1694.2, C-5881, N-10451, N-10464*
+*Related: A-1696.1, A-1694.2, C-5881, N-10420, N-10433*
 
 ---
 
@@ -506,7 +506,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1694.1, C-5878, N-10451*
+*Related: A-1694.1, C-5878, N-10420*
 
 ---
 
@@ -519,7 +519,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1697.1, C-5889, C-5891, N-10460, N-10461*
+*Related: A-1697.1, C-5889, C-5891, N-10429, N-10430*
 
 ---
 
@@ -532,7 +532,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1693.1, A-1693.2, C-5824, N-10458*
+*Related: A-1693.1, A-1693.2, C-5824, N-10427*
 
 ---
 
@@ -545,7 +545,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10465*
+*Related: N-10434*
 
 ---
 
@@ -562,7 +562,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 Persistent investigative target across the series. This episode surfaces additional verification material: Ward Boston notarized statement (via viewer) and Victor Ostrovsky book reference. Host also notes New York Times is preparing a USS Liberty piece.
 
@@ -575,7 +575,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10452** Candace Owens Anti-Semite of Year 2024 Nomination
+**N-10421** Candace Owens Anti-Semite of Year 2024 Nomination
 
 Persistent series element. In this episode confirmed via opening clip A-1691.1 referencing both her nomination and Tucker Carlson's win.
 
@@ -588,7 +588,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10453** Piers Morgan Bassem Youssef Chart Numbers Claim
+**N-10422** Piers Morgan Bassem Youssef Chart Numbers Claim
 
 Specific 2014 figures cited by Youssef: 88 Israelis vs. 2,329 Palestinians killed (ratio ~1:27). Plus reference to 7,000 West Bank Palestinians killed since occupation.
 
@@ -601,7 +601,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10454** Gaza Death Toll and Documentation Claims
+**N-10423** Gaza Death Toll and Documentation Claims
 
 Composite node tracking Youssef and Owens' on-record statements about Gaza casualties and the documentation of them.
 
@@ -614,7 +614,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10455** Andrew Kolvet Charlie Kirk Twitter Control Claim
+**N-10424** Andrew Kolvet Charlie Kirk Twitter Control Claim
 
 Youssef states "Charlie didn't run his Twitter feed. Andrew Kolvet did." (A-1690 transcript)
 
@@ -627,7 +627,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Per host Candace Owens: "When BB went on a little mini tour and went on everyone's shows sometime in August, Charlie didn't let him on a show." (A-1690 transcript)
 
@@ -636,11 +636,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10451 (cross-reference)*
+*Related: N-10420 (cross-reference)*
 
 ---
 
-**N-10457** New York Times USS Liberty Investigation Reporting
+**N-10426** New York Times USS Liberty Investigation Reporting
 
 Per host, NYT contacted her regarding her Phil Tourney interview and is preparing a piece on USS Liberty.
 
@@ -649,11 +649,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10451, N-498*
+*Related: N-10420, N-498*
 
 ---
 
-**N-10458** Ostrovsky October 7th Photo Authenticity Question
+**N-10427** Ostrovsky October 7th Photo Authenticity Question
 
 Discrepancy noted in the two photos: blood on face vs. no blood on bandages.
 
@@ -666,7 +666,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10459** Bassem Youssef Belly of the Beast Tour Schedule
+**N-10428** Bassem Youssef Belly of the Beast Tour Schedule
 
 Documented tour dates: Portland 3/20, Seattle 3/21, plus Philadelphia, DC, Houston, Atlanta.
 
@@ -679,7 +679,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10460** Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim
+**N-10429** Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim
 
 Claim that the book was subject to a 24-hour gag order in 1992, described as "the first and last ever gag order on an American book."
 
@@ -692,7 +692,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10461** 1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim
+**N-10430** 1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim
 
 Per Ostrovsky book (per Youssef): Mossad allegedly knew about the bombing of U.S. Marines in Beirut in advance and withheld information.
 
@@ -705,7 +705,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10462** *Till Kingdom Come* Documentary Pastors Clip
+**N-10431** *Till Kingdom Come* Documentary Pastors Clip
 
 Verbal reference to documentary showing pastors telling children Jews are more special.
 
@@ -718,7 +718,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10463** Ward Boston Notarized Statement San Diego Union Tribune
+**N-10432** Ward Boston Notarized Statement San Diego Union Tribune
 
 Specific publication reference: Ward Boston's notarized statement was published in the San Diego Union Tribune before his death.
 
@@ -727,11 +727,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1694.1, C-5878, N-499, N-10451*
+*Related: A-1694.1, C-5878, N-499, N-10420*
 
 ---
 
-**N-10464** Candace Phil Tourney Interview View Count
+**N-10433** Candace Phil Tourney Interview View Count
 
 Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).
 
@@ -744,7 +744,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10465** Calvary Chapel Church CIA Connection Question
+**N-10434** Calvary Chapel Church CIA Connection Question
 
 Host claim that Calvary Chapel is "a CIA story" and that Rob McCoy's father ran Navy psychological operations. (Host claim – not artifact-anchored in this episode beyond host testimony.)
 
@@ -949,7 +949,7 @@ Place at the center of the episode's statements.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Topic linked to the host's statements on Netanyahu's press tour and Trump's tweet.
 
@@ -957,7 +957,7 @@ Topic linked to the host's statements on Netanyahu's press tour and Trump's twee
 
 ---
 
-**N-10059** PBD Podcast
+**N-10056** PBD Podcast
 
 Show on which Youssef says Kirk asked questions about Israel.
 
@@ -965,7 +965,7 @@ Show on which Youssef says Kirk asked questions about Israel.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place discussed throughout the episode.
 
@@ -973,7 +973,7 @@ Place discussed throughout the episode.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Organization where the host says she worked for Marissa.
 
@@ -981,7 +981,7 @@ Organization where the host says she worked for Marissa.
 
 ---
 
-**N-10204** Egyptian Air Force SU-BTT Provo Mission Question
+**N-10196** Egyptian Air Force SU-BTT Provo Mission Question
 
 Aircraft investigation target related to the host's Egyptian passport names claim.
 
@@ -989,7 +989,7 @@ Aircraft investigation target related to the host's Egyptian passport names clai
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith events.
 
@@ -997,7 +997,7 @@ Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith
 
 ---
 
-**N-10264** Calvary Chapel Pro-Israel Coordination
+**N-10248** Calvary Chapel Pro-Israel Coordination
 
 Topic related to the host's statements about Calvary Chapel.
 
@@ -1005,7 +1005,7 @@ Topic related to the host's statements about Calvary Chapel.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Topic related to the host's statement that Kirk said no when Netanyahu wanted to take Turning Point further.
 
@@ -1013,7 +1013,7 @@ Topic related to the host's statement that Kirk said no when Netanyahu wanted to
 
 ---
 
-**N-10410** TPUSA Board Member Military–Satanism Connection
+**N-10383** TPUSA Board Member Military–Satanism Connection
 
 Topic related to the host's Aquino and Temple of Set statements.
 
@@ -1021,14 +1021,14 @@ Topic related to the host's Aquino and Temple of Set statements.
 
 ---
 
-**N-10435** Fort Huachuca Erika Kirk Location Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 Topic related to the host's Fort Huachuca statement.
 
 *Related: C-5898*
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Organization that the host says barred Youssef and sued her after the Tourney interview.
 
@@ -1036,7 +1036,7 @@ Organization that the host says barred Youssef and sued her after the Tourney in
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Organization discussed in Youssef's and the host's statements about its Gaza reporting.
 
@@ -1084,7 +1084,7 @@ First named by the host at 01:41:10 in episode 65. Described by the host as an a
 
 ---
 
-**N-11040** Daily Wire Lawsuit Over Phil Tourney Interview
+**N-10958** Daily Wire Lawsuit Over Phil Tourney Interview
 
 Node Type: Topic
 Investigation target: the Daily Wire's lawsuit against the host after her Phil Tourney interview, and the host's account of its basis.
@@ -1093,7 +1093,7 @@ Investigation target: the Daily Wire's lawsuit against the host after her Phil T
 
 ---
 
-**N-11041** Israeli Cyber Official Las Vegas Sting Allegation
+**N-10959** Israeli Cyber Official Las Vegas Sting Allegation
 
 Node Type: Topic
 Investigation target: Youssef's claim that the head of cybersecurity in Netanyahu's office was found with a minor in a Las Vegas sting and allowed to leave.
@@ -1102,7 +1102,7 @@ Investigation target: Youssef's claim that the head of cybersecurity in Netanyah
 
 ---
 
-**N-11042** Mossad False-Flag History Claims
+**N-10960** Mossad False-Flag History Claims
 
 Node Type: Topic
 Investigation target: Youssef's claims about historical staged or covert attacks attributed to Israel or Mossad, including the King David Hotel, Iraq 1950-51, Lavon, London 1994, Mexico 2001 and Patria.
@@ -1111,7 +1111,7 @@ Investigation target: Youssef's claims about historical staged or covert attacks
 
 ---
 
-**N-11043** US Sanctions on ICC Judges
+**N-10961** US Sanctions on ICC Judges
 
 Node Type: Topic
 Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dutch national, cutting off his bank access.
@@ -1120,7 +1120,7 @@ Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dut
 
 ---
 
-**N-11044** Erika Kirk Employee Call Recordings
+**N-10962** Erika Kirk Employee Call Recordings
 
 Node Type: Topic
 Investigation target: recordings of Erika Kirk addressing TPUSA employees five days after Charlie Kirk's death.
@@ -1129,7 +1129,7 @@ Investigation target: recordings of Erika Kirk addressing TPUSA employees five d
 
 ---
 
-**N-11045** October 7 Atrocity Reporting Disputes
+**N-10963** October 7 Atrocity Reporting Disputes
 
 Node Type: Topic
 Investigation target: the host's and Youssef's claims that reports of babies in ovens and mass rape on October 7th were fabricated.
@@ -1138,7 +1138,7 @@ Investigation target: the host's and Youssef's claims that reports of babies in 
 
 ---
 
-**N-11046** ICE Tel Aviv Field Office Claim
+**N-10964** ICE Tel Aviv Field Office Claim
 
 Node Type: Topic
 Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.
@@ -1158,7 +1158,7 @@ Claim: In a clip of his Piers Morgan appearance that the host plays, Bassem Yous
 Anchored Artifacts: A-1690.1
 Mentions: N-204, N-497
 
-Related Nodes: N-10453
+Related Nodes: N-10422
 
 Investigative Direction: Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.
 
@@ -1173,7 +1173,7 @@ Claim: In a clip of his show that the host plays, Bassem Youssef says he was nom
 Anchored Artifacts: A-1691.1
 Mentions: N-497, N-3
 
-Related Nodes: N-10452
+Related Nodes: N-10421
 
 Investigative Direction: Verify with Anti-Semite of the Year award organization records.
 
@@ -1188,7 +1188,7 @@ Claim: In a clip of his show that the host plays, Bassem Youssef asks who got An
 Anchored Artifacts: A-1691.1
 Mentions: N-497, N-22
 
-Related Nodes: N-10452
+Related Nodes: N-10421
 
 Investigative Direction: Verify with award organization records.
 
@@ -1203,7 +1203,7 @@ Claim: Per read-aloud viewer comment, Navy JAG Ward Boston published a notarized
 Anchored Artifacts: A-1694.1
 Mentions: N-499
 
-Related Nodes: N-10451, N-10463
+Related Nodes: N-10420, N-10432
 
 Investigative Direction: Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.
 
@@ -1218,7 +1218,7 @@ Claim: Per host, her Phil Tourney interview received approximately 7 million vie
 Anchored Artifacts: A-1694.2 (viewer corroboration)
 Mentions: N-498, N-3
 
-Related Nodes: N-10451, N-10457, N-10464
+Related Nodes: N-10420, N-10426, N-10433
 
 Investigative Direction: Verify view count via YouTube analytics or platform data.
 
@@ -1247,7 +1247,7 @@ Claim: Per Bassem Youssef, in displayed images, the bandaged follow-up photo of 
 Anchored Artifacts: A-1693.2
 Mentions: N-501, N-497
 
-Related Nodes: N-10458
+Related Nodes: N-10427
 
 Investigative Direction: Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.
 
@@ -1262,7 +1262,7 @@ Claim: Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged 
 Anchored Artifacts: A-1697.1 (verbally referenced)
 Mentions: N-497, N-500
 
-Related Nodes: N-10461
+Related Nodes: N-10430
 
 Investigative Direction: Verify the book's actual contents against published editions.
 
@@ -1277,7 +1277,7 @@ Claim: Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 
 Anchored Artifacts: A-1697.1 (verbally referenced)
 Mentions: N-497, N-500
 
-Related Nodes: N-10460
+Related Nodes: N-10429
 
 Investigative Direction: Verify with publishing industry records and court records.
 
@@ -1292,7 +1292,7 @@ Claim: Per Youssef, the documentary *Till Kingdom Come* contains clips of pastor
 Anchored Artifacts: A-1698.1 (verbally referenced)
 Mentions: N-497
 
-Related Nodes: N-10462
+Related Nodes: N-10431
 
 Investigative Direction: Obtain the documentary and verify the specific clips and their context.
 
@@ -1307,7 +1307,7 @@ Claim: Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu 
 Anchored Artifacts: A-1690 (host testimony in transcript)
 Mentions: N-36, N-3, N-1
 
-Related Nodes: N-10456
+Related Nodes: N-10425
 
 Investigative Direction: Cross-check with Turning Point USA published guest lists and Netanyahu media tour records.
 
@@ -1322,7 +1322,7 @@ Claim: Per host, the New York Times contacted her about her Phil Tourney intervi
 Anchored Artifacts: A-1690 (host testimony in transcript)
 Mentions: N-3, N-498
 
-Related Nodes: N-10451, N-10457
+Related Nodes: N-10420, N-10426
 
 Investigative Direction: Monitor NYT for upcoming USS Liberty coverage.
 
@@ -1337,7 +1337,7 @@ Claim: Bassem Youssef, the episode's guest, says his Belly of the Beast tour dat
 Anchored Artifacts: A-1695.1
 Mentions: N-497
 
-Related Nodes: N-10459
+Related Nodes: N-10428
 
 Investigative Direction: Verify with Youssef's official tour pages and ticketing platforms.
 
@@ -1353,7 +1353,7 @@ Transcript Snippet: And I was even nominated to be Anti-Semite of the year 2024,
 
 Anchored Artifacts: A-1691.1
 Mentions: N-497, N-3
-Related Nodes: N-10452
+Related Nodes: N-10421
 Revises: C-5800
 Investigative Direction: Re-listen to the clip and identify the award body or the show segment; confirm who the 2024 nominee and winner were in the clip's framing.
 
@@ -1369,7 +1369,7 @@ Transcript Snippet: And actually one of the nominees for the anti-semite of the 
 
 Anchored Artifacts: A-1691.1
 Mentions: 
-Related Nodes: N-10452
+Related Nodes: N-10421
 Investigative Direction: Identify the award organizer and its published nominee list for the year in question.
 
 ---
@@ -1384,7 +1384,7 @@ Transcript Snippet: I didn't even ask people to vote for me. I won it fair and s
 
 Anchored Artifacts: A-1691.1
 Mentions: N-3
-Related Nodes: N-10452, N-10900
+Related Nodes: N-10421, N-10821
 Investigative Direction: Obtain the award's published results and the date of the host's departure from Daily Wire.
 
 ---
@@ -1399,7 +1399,7 @@ Transcript Snippet: you were my wakeup call to what was happening in Gaza.
 
 Anchored Artifacts: A-1690.1
 Mentions: N-3, N-497, N-204
-Related Nodes: N-10453
+Related Nodes: N-10422
 Supports: C-5850
 Investigative Direction: Ask the host or her producers for when she first saw the clip; compare with the date of the Piers Morgan broadcast.
 
@@ -1415,7 +1415,7 @@ Transcript Snippet: And the answer I got was because you hurt Ben's feelings. I'
 
 Anchored Artifacts: 
 Mentions: N-3, N-497, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Investigative Direction: Obtain the written message from the Daily Wire producer that the host and Youssef say exists; identify who sent it and when.
 
 ---
@@ -1430,7 +1430,7 @@ Transcript Snippet: he started to say well there has been investigation and it w
 
 Anchored Artifacts: A-1701.1
 Mentions: N-97, N-497
-Related Nodes: N-10451, N-10000
+Related Nodes: N-10420, N-10000
 Investigative Direction: Locate the video of Shapiro's answer at the Turning Point USA event and transcribe his exact words and the date.
 
 ---
@@ -1445,7 +1445,7 @@ Transcript Snippet: the crew of the USS Liberty were threatened they were they h
 
 Anchored Artifacts: 
 Mentions: N-97, N-497
-Related Nodes: N-10451
+Related Nodes: N-10420
 Investigative Direction: Obtain survivor accounts and records (including Ward Boston's statement) on any orders given to the crew not to speak.
 
 ---
@@ -1460,7 +1460,7 @@ Transcript Snippet: $6 million for damages in the USS liberties and $6 million f
 
 Anchored Artifacts: A-1701.1
 Mentions: N-497
-Related Nodes: N-10451, N-10026
+Related Nodes: N-10420, N-10026
 Investigative Direction: Verify the compensation amounts and payment dates in US State Department and Israeli government records.
 
 ---
@@ -1505,7 +1505,7 @@ Transcript Snippet: cried with this with him he gave me his purple heart and the
 
 Anchored Artifacts: A-2763.1
 Mentions: N-498, N-3
-Related Nodes: N-10451, N-10900, N-11040
+Related Nodes: N-10420, N-10821, N-10958
 Investigative Direction: Obtain the Tourney interview, the Daily Wire complaint and the court docket to confirm the order of events.
 
 ---
@@ -1520,7 +1520,7 @@ Transcript Snippet: And Ben Shapiro said something." And they sued me.
 
 Anchored Artifacts: A-2763.1
 Mentions: N-498, N-1, N-97, N-3
-Related Nodes: N-10451, N-10900, N-11040
+Related Nodes: N-10420, N-10821, N-10958
 Investigative Direction: Watch the Tourney interview at the point where he names them and compare with the Daily Wire complaint.
 
 ---
@@ -1535,7 +1535,7 @@ Transcript Snippet: could you would you be willing to testify that I didn't put 
 
 Anchored Artifacts: A-2763.1
 Mentions: N-498, N-3
-Related Nodes: N-11040
+Related Nodes: N-10958
 Investigative Direction: Obtain any declaration or testimony from Tourney filed in the Daily Wire case.
 
 ---
@@ -1550,7 +1550,7 @@ Transcript Snippet: Sent me that lawsuit on his birthday as a birthday.
 
 Anchored Artifacts: A-2763.1
 Mentions: N-366, N-3
-Related Nodes: N-10900, N-11040
+Related Nodes: N-10821, N-10958
 Investigative Direction: Compare the lawsuit's filing or service date with Boreing's birthday.
 
 ---
@@ -1595,7 +1595,7 @@ Transcript Snippet: to see what Jared Kushner is doing there. This was a real es
 
 Anchored Artifacts: 
 Mentions: N-178, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Investigative Direction: Compile public reporting and documents on Kushner's Gaza reconstruction or development proposals.
 
 ---
@@ -1610,7 +1610,7 @@ Transcript Snippet: like 92 British soldiers were killed and the people who did 
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-11042
+Related Nodes: N-10960
 Investigative Direction: Check historical sources on the 1946 attack (casualty count and the attackers' group and disguise).
 
 ---
@@ -1625,7 +1625,7 @@ Transcript Snippet: Israel sends a Musad agent and then he leads four to five di
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10015, N-11042
+Related Nodes: N-10015, N-10960
 Investigative Direction: Review historical scholarship and records on the 1950-51 Baghdad bombings and who was responsible.
 
 ---
@@ -1640,7 +1640,7 @@ Transcript Snippet: and then in 2005 they finally acknowledged it by giving the 
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10015, N-11042
+Related Nodes: N-10015, N-10960
 Investigative Direction: Verify the 2005 certificate ceremony in Israeli government or press records.
 
 ---
@@ -1655,7 +1655,7 @@ Transcript Snippet: 1994 the bombing of the Israeli embassy in London. It was do
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10015, N-11042
+Related Nodes: N-10015, N-10960
 Investigative Direction: Review British court records on the 1994 London bombing convictions and any evidence on Mossad involvement.
 
 ---
@@ -1670,7 +1670,7 @@ Transcript Snippet: there was an attack of the Mexican parliament by two Musad u
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10015, N-11042
+Related Nodes: N-10015, N-10960
 Investigative Direction: Search Mexican press and government records for any October 2001 incident at the parliament and any Israeli suspects.
 
 ---
@@ -1700,7 +1700,7 @@ Transcript Snippet: He wasn't actually Charlie uh couldn't stand him toward the 
 
 Anchored Artifacts: 
 Mentions: N-17, N-1, N-3
-Related Nodes: N-10465
+Related Nodes: N-10434
 Investigative Direction: Obtain Kirk's private messages or statements about McCoy and TPUSA's description of McCoy's role.
 
 ---
@@ -1715,7 +1715,7 @@ Transcript Snippet: But he his father ran psychological operations for the Navy.
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10465
+Related Nodes: N-10434
 Investigative Direction: Identify McCoy's father and obtain his Navy service record and assignments.
 
 ---
@@ -1730,7 +1730,7 @@ Transcript Snippet: This entire church, Calvary Chapel Church is a CIA story.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10465, N-10264
+Related Nodes: N-10434, N-10248
 Investigative Direction: Gather the books and documents the host cites on Calvary Chapel's origins and any CIA link.
 
 ---
@@ -1775,7 +1775,7 @@ Transcript Snippet: I do agree that he was kind of starting to wake up towards t
 
 Anchored Artifacts: 
 Mentions: N-497, N-1, N-57, N-204
-Related Nodes: N-10059
+Related Nodes: N-10056
 Investigative Direction: Watch Kirk's PBD podcast appearance and check whether he asked about response time and stand-down orders.
 
 ---
@@ -1790,7 +1790,7 @@ Transcript Snippet: now there's no high buildings in Gaza anymore like stupid Mu
 
 Anchored Artifacts: A-2766.1
 Mentions: N-497, N-1
-Related Nodes: N-10063
+Related Nodes: N-10060
 Investigative Direction: Locate the Kirk clip and transcribe his exact words and the date.
 
 ---
@@ -1820,7 +1820,7 @@ Transcript Snippet: Charlie didn't run his Twitter feed. Andrew Kolvet did.
 
 Anchored Artifacts: A-2766.2
 Mentions: N-3, N-1, N-14
-Related Nodes: N-10455
+Related Nodes: N-10424
 Investigative Direction: Ask TPUSA or former staff who had access to and posted from Kirk's account; check account login or management records if obtainable.
 
 ---
@@ -1850,7 +1850,7 @@ Transcript Snippet: When BB wanted to take Turning Point to the next level, Char
 
 Anchored Artifacts: 
 Mentions: N-1, N-36, N-3
-Related Nodes: N-10342, N-10000
+Related Nodes: N-10320, N-10000
 Supports: C-5837
 Investigative Direction: Obtain accounts from TPUSA staff and the text messages the host says she released on Kirk's response.
 
@@ -1866,7 +1866,7 @@ Transcript Snippet: I'm going to protect you. Your jobs are safe. We're a family
 
 Anchored Artifacts: A-2765.1
 Mentions: N-2, N-3
-Related Nodes: N-10000, N-11044
+Related Nodes: N-10000, N-10962
 Investigative Direction: Obtain the audio recordings of the employee calls and confirm date, participants and exact wording.
 
 ---
@@ -1881,7 +1881,7 @@ Transcript Snippet: Don't go home. He She literally says he wouldn't want you at
 
 Anchored Artifacts: A-2765.1
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10000, N-11044
+Related Nodes: N-10000, N-10962
 Supports: C-5839
 Investigative Direction: Listen to the call recording and transcribe the passage in full.
 
@@ -1927,7 +1927,7 @@ Transcript Snippet: the head of the cyber security in Netanyahu's office. He com
 
 Anchored Artifacts: 
 Mentions: N-497, N-36
-Related Nodes: N-11041
+Related Nodes: N-10959
 Investigative Direction: Search Las Vegas police and court records and press for the arrest and name of the official; confirm the date.
 
 ---
@@ -1942,7 +1942,7 @@ Transcript Snippet: you have like the the act the acting DA who happens to be an
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-11041
+Related Nodes: N-10959
 Supports: C-5843
 Investigative Direction: Identify the prosecutor in the case and verify nationality and role.
 
@@ -2018,7 +2018,7 @@ Transcript Snippet: And then the Hagana, which is like is one of the Israeli the
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-11042
+Related Nodes: N-10960
 Investigative Direction: Check historical sources on the 1940 Patria sinking for casualties and responsibility.
 
 ---
@@ -2033,7 +2033,7 @@ Transcript Snippet: since the beginning of this street only through August 37 Pa
 
 Anchored Artifacts: A-1690.1
 Mentions: N-497, N-204
-Related Nodes: N-10453
+Related Nodes: N-10422
 Supports: C-5850
 Investigative Direction: Compare with UN OCHA West Bank child fatality figures for the relevant year.
 
@@ -2049,7 +2049,7 @@ Transcript Snippet: Since the occupation of the West Bank, 7,000 Palestinians we
 
 Anchored Artifacts: A-1690.1
 Mentions: N-497, N-204
-Related Nodes: N-10453
+Related Nodes: N-10422
 Supports: C-5850
 Investigative Direction: Identify the source of the 7,000 figure and the period it covers.
 
@@ -2065,7 +2065,7 @@ Transcript Snippet: 3 weeks they killed more children from the Palestinian side 
 
 Anchored Artifacts: A-1690.1
 Mentions: N-497
-Related Nodes: N-10454
+Related Nodes: N-10423
 Investigative Direction: Compare UN and Gaza Health Ministry child casualty data for the three weeks after the ceasefire with cumulative Israeli child deaths since 1948.
 
 ---
@@ -2080,7 +2080,7 @@ Transcript Snippet: they find that the location of one of their field office is 
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-11046
+Related Nodes: N-10964
 Investigative Direction: Check DHS and ICE office listings for any ICE presence at the US Embassy in Tel Aviv and its status.
 
 ---
@@ -2170,7 +2170,7 @@ Transcript Snippet: they sanctioned the judge. He's in in he's a he's he's Dutch
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-11043
+Related Nodes: N-10961
 Investigative Direction: Identify the sanctioned ICC judges, their nationalities and the Treasury designation notices.
 
 ---
@@ -2260,7 +2260,7 @@ Transcript Snippet: they brought someone called Jonathan Conricus who was like t
 
 Anchored Artifacts: 
 Mentions: N-497, N-204, N-720
-Related Nodes: N-10063
+Related Nodes: N-10060
 Investigative Direction: Identify the guest, whose name is spelled phonetically, and the episode of the show; check the transcript for the statement.
 
 ---
@@ -2275,7 +2275,7 @@ Transcript Snippet: this, you know, Marissa at Prageru, who I adored when I work
 
 Anchored Artifacts: 
 Mentions: N-117, N-3
-Related Nodes: N-10131
+Related Nodes: N-10126
 Investigative Direction: Confirm the host's employment dates at PragerU and the role of Marissa Streit.
 
 ---
@@ -2305,7 +2305,7 @@ Transcript Snippet: Egyptian planes that were tracking him and turning USA faith
 
 Anchored Artifacts: A-2768.1
 Mentions: N-1, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Investigative Direction: Obtain the passport name list the host says she has and match entries against public records.
 
 ---
@@ -2320,7 +2320,7 @@ Transcript Snippet: I was like oh this is interesting this person died in Palest
 
 Anchored Artifacts: A-2768.1
 Mentions: N-3
-Related Nodes: N-10253, N-10204
+Related Nodes: N-10239, N-10196
 Supports: C-5869
 Investigative Direction: Obtain the list and the source of the matched name; verify the death record.
 
@@ -2366,7 +2366,7 @@ Transcript Snippet: Trump drops the tweet with him hugging the Israeli flag.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Investigative Direction: Find the tweet and its date.
 
 ---
@@ -2381,7 +2381,7 @@ Transcript Snippet: BB going on a press tour immediately after to say,
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Supports: C-5875
 Investigative Direction: List Netanyahu's interviews after September 10, 2025 and what he said about the Kirk killing.
 
@@ -2412,7 +2412,7 @@ Transcript Snippet: Look at the suicide rate of the IDF soldiers who t who top t
 
 Anchored Artifacts: A-1694.4
 Mentions: N-3
-Related Nodes: N-10454
+Related Nodes: N-10423
 Investigative Direction: Check IDF and Israeli Ministry of Defense data on soldier suicides since October 2023.
 
 ---
@@ -2427,7 +2427,7 @@ Transcript Snippet: breaking the silence which is like the group of the IDF sold
 
 Anchored Artifacts: A-1700.1
 Mentions: N-497
-Related Nodes: N-10454
+Related Nodes: N-10423
 Investigative Direction: Review Breaking the Silence's published testimonies.
 
 ---
@@ -2442,7 +2442,7 @@ Transcript Snippet: its editorial team are full of people from XIDF and and and 
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10968, N-10015
+Related Nodes: N-10889, N-10015
 Investigative Direction: Review published staff biographies for military or intelligence service in Israel.
 
 ---
@@ -2457,7 +2457,7 @@ Transcript Snippet: there is more tunnels inside the underneath Gaza more than t
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10968, N-10063
+Related Nodes: N-10889, N-10060
 Investigative Direction: Find the New York Times article and compare the stated tunnel length with the subway system length.
 
 ---
@@ -2472,7 +2472,7 @@ Transcript Snippet: they had like a whole piece about the rape the rape hoax whi
 
 Anchored Artifacts: 
 Mentions: N-497
-Related Nodes: N-10968, N-11045
+Related Nodes: N-10889, N-10963
 Investigative Direction: Review the New York Times article, the sources it named and any retractions or follow-ups.
 
 ---
@@ -2487,7 +2487,7 @@ Transcript Snippet: Norm Finkelestelestein sat across and he explained everythin
 
 Anchored Artifacts: A-2767.1
 Mentions: N-199, N-3
-Related Nodes: N-11045
+Related Nodes: N-10963
 Investigative Direction: Rewatch the Finkelstein interview for the specifics of his argument.
 
 ---
@@ -2502,7 +2502,7 @@ Transcript Snippet: to say that babies were put in ovens and then to have us rea
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11045, N-10026
+Related Nodes: N-10963, N-10026
 Investigative Direction: Review investigative findings on the origin of the claim and what Israeli officials said about it.
 
 ---
@@ -2517,7 +2517,7 @@ Transcript Snippet: we had Star of David's IDF uh sorry, IDF Star of David Israe
 
 Anchored Artifacts: A-1696.1
 Mentions: N-498, N-3
-Related Nodes: N-10451
+Related Nodes: N-10420
 Investigative Direction: Check the Tourney interview for exactly what he said was aboard the ship.
 
 ---
@@ -2532,7 +2532,7 @@ Transcript Snippet: that IDF soldier then gives him the middle finger made eye c
 
 Anchored Artifacts: A-1696.1
 Mentions: N-498, N-3
-Related Nodes: N-10451
+Related Nodes: N-10420
 Investigative Direction: Compare this retelling with Tourney's own words in the interview and with his published written accounts.
 
 ---
@@ -2547,7 +2547,7 @@ Transcript Snippet: the blue MercedesBenz van that was going to be using the att
 
 Anchored Artifacts: A-1697.1
 Mentions: N-497, N-500
-Related Nodes: N-10461, N-10015
+Related Nodes: N-10430, N-10015
 Supports: C-5889
 Investigative Direction: Locate the passage in By Way of Deception and compare it with the commission reports on the 1983 Marine barracks bombing.
 
@@ -2593,7 +2593,7 @@ Transcript Snippet: It was what I think it was my very last. It was my very last
 
 Anchored Artifacts: A-2769.1
 Mentions: N-3, N-721, N-497
-Related Nodes: N-10900
+Related Nodes: N-10821
 Investigative Direction: Check the Daily Wire episode list for the host's final episodes and the Barlay interview date.
 
 ---
@@ -2653,7 +2653,7 @@ Transcript Snippet: literally Temple of Set was at Fort Huachuca like they an av
 
 Anchored Artifacts: A-2770.1
 Mentions: N-3, N-449
-Related Nodes: N-10410, N-10435
+Related Nodes: N-10383, N-10390
 Investigative Direction: Review Aquino's Army psychological operations record and Temple of Set history at Fort Huachuca.
 
 ---
@@ -2668,7 +2668,7 @@ Transcript Snippet: So then he started the temple of Set, which is Satan is a re
 
 Anchored Artifacts: A-2770.1
 Mentions: N-3, N-449
-Related Nodes: N-10410
+Related Nodes: N-10383
 Investigative Direction: Check the Temple of Set's founding history, Aquino's departure from the Church of Satan in 1975 and primary sources.
 
 ---
@@ -2728,7 +2728,7 @@ Transcript Snippet: BB in control is not doing podcasts in America after Charlie
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
-Related Nodes: N-10048
+Related Nodes: N-10045
 Supports: C-5875
 Investigative Direction: List Netanyahu's podcast appearances after September 10, 2025 with dates.
 
@@ -2957,7 +2957,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-497 onward)
-- [x] Non-person investigation targets use the 1000 series (N-10451 onward)
+- [x] Non-person investigation targets use the 1000 series (N-10420 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent with protocol

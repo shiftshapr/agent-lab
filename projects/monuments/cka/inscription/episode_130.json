@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-159",
-            "N-10746"
+            "N-10504"
           ],
           "tags": [],
           "video_timestamp": "00:45:08",
@@ -482,7 +482,7 @@
             "C-11239"
           ],
           "related_nodes": [
-            "N-10740"
+            "N-10672"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -496,8 +496,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10744",
-      "ref": "N-10744",
+      "@id": "N-10676",
+      "ref": "N-10676",
       "name": "Howard Hughes Death Investigation",
       "type": "investigation_target",
       "description": "Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.",
@@ -513,9 +513,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10745",
-      "ref": "N-10745",
-      "name": "Daily Mail Article Sourcing Question",
+      "@id": "N-10675",
+      "ref": "N-10675",
+      "name": "Daily Mail Article Source Identity",
       "type": "investigation_target",
       "description": "Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names \"Tracy\" (former local id 1221) as her guess; Kolvet disputes origin via A-2174.1.",
       "related_artifacts": [
@@ -540,16 +540,19 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10746",
-      "ref": "N-10746",
-      "name": "9/10 Phone Discrepancy (Mikey two phones)",
+      "@id": "N-10504",
+      "ref": "N-10504",
+      "name": "Blake Neff \"Two Phones\" Implication",
       "type": "investigation_target",
       "description": "Persistent open-question of whether Mikey possessed two phones on 9/10; Neff's phrasing \"I put that phone away\" (A-2176.1) is noted as linguistically suggestive of a second phone.",
       "related_artifacts": [
         "A-2176.1"
       ],
       "related_claims": [
-        "C-11241"
+        "C-11241",
+        "C-11242",
+        "C-11243",
+        "C-11248"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -562,8 +565,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10747",
-      "ref": "N-10747",
+      "@id": "N-10677",
+      "ref": "N-10677",
       "name": "TPUSA Inner Circle Composition Question",
       "type": "investigation_target",
       "description": "Persistent question of LDS staffing inside TPUSA leadership; introduced this episode via host's account of Charlie Kirk's UVU remarks (not artifact-displayed in this episode) and connections drawn from A-2173.1.",
@@ -884,8 +887,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Publisher of the article at the center of the episode.",
@@ -906,8 +909,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
       "type": "investigation_target",
       "description": "TPUSA internal DOGE audit.",
@@ -924,8 +927,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10249",
-      "ref": "N-10249",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Mormon Mafia concept introduced in this episode.",
@@ -943,8 +946,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Egyptian plane tracking.",
@@ -960,30 +963,14 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10256",
-      "ref": "N-10256",
+      "@id": "N-10242",
+      "ref": "N-10242",
       "name": "Duncan Aviation Rental Vehicle Investigation",
       "type": "investigation_target",
       "description": "Duncan Aviation investigation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11183"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10259",
-      "ref": "N-10259",
-      "name": "Duncan Aviation Egyptian Rental Vehicle Network",
-      "type": "investigation_target",
-      "description": "Duncan Aviation Egyptian network.",
-      "related_artifacts": [],
-      "related_claims": [
+        "C-11183",
         "C-11184"
       ],
       "tags": [],
@@ -994,8 +981,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
       "type": "investigation_target",
       "description": "Maroon shirt pattern referenced in the Hughes relative claim.",
@@ -1011,8 +998,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Surgeon quote.",
@@ -1028,8 +1015,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Seth Dillon confrontation at the Hamptons retreat.",
@@ -1045,8 +1032,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
       "type": "investigation_target",
       "description": "Farnsworth family network.",
@@ -1062,8 +1049,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10388",
-      "ref": "N-10388",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
       "type": "investigation_target",
       "description": "Missing money at Turning Point Action.",
@@ -1079,8 +1066,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "TPUSA faith structure and LDS composition.",
@@ -1097,8 +1084,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Surgeon call discrepancy.",
@@ -1114,27 +1101,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10550",
-      "ref": "N-10550",
-      "name": "Blake Neff \"Two Phones\" Implication",
-      "type": "investigation_target",
-      "description": "Neff two-phones implication.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11242",
-        "C-11243",
-        "C-11248"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@id": "N-10648",
+      "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
       "type": "investigation_target",
       "description": "Shapiro car ride live updates.",
@@ -1150,8 +1118,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10714",
-      "ref": "N-10714",
+      "@id": "N-10650",
+      "ref": "N-10650",
       "name": "Unidentified Burnt Object in Charlie Kirk's SUV",
       "type": "investigation_target",
       "description": "Burnt object in SUV.",
@@ -1169,8 +1137,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10740",
-      "ref": "N-10740",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "SUV Interior Anomaly",
       "type": "investigation_target",
       "description": "SUV interior anomaly.",
@@ -1189,8 +1157,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10741",
-      "ref": "N-10741",
+      "@id": "N-10673",
+      "ref": "N-10673",
       "name": "Sandy Hook Comparison Rhetoric",
       "type": "investigation_target",
       "description": "Sandy Hook comparison.",
@@ -1206,8 +1174,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10815",
-      "ref": "N-10815",
+      "@id": "N-10739",
+      "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
       "type": "investigation_target",
       "description": "NCRI report provenance.",
@@ -1223,8 +1191,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
       "type": "investigation_target",
       "description": "Turning Point Action.",
@@ -1241,8 +1209,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10938",
-      "ref": "N-10938",
+      "@id": "N-10859",
+      "ref": "N-10859",
       "name": "Erika Kirk Corporate Will and Inheritance Question",
       "type": "investigation_target",
       "description": "Corporate will question.",
@@ -1920,8 +1888,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Media company that, according to the host, fired her and listed among its reasons her suggestion that a Jewish mafia existed in Hollywood.",
@@ -1937,8 +1905,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11062",
-      "ref": "N-11062",
+      "@id": "N-10980",
+      "ref": "N-10980",
       "name": "Irgun",
       "type": "organization",
       "description": "Jewish underground organization in mandatory Palestine that the host ties to the 1946 King David Hotel bombing, the Stern gang, Canaanism and the Emanuel family.",
@@ -1957,8 +1925,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11063",
-      "ref": "N-11063",
+      "@id": "N-10981",
+      "ref": "N-10981",
       "name": "Howard Hughes Medical Institute",
       "type": "organization",
       "description": "Medical research charity formed by Howard Hughes in 1953; the host says Hughes Aircraft was transferred into it and Frank William Gay became its trustee.",
@@ -1976,8 +1944,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11064",
-      "ref": "N-11064",
+      "@id": "N-10982",
+      "ref": "N-10982",
       "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
       "type": "topic",
       "description": "The dispute over whether Ben Shapiro and Charlie Kirk were friends, which the host says Kolvet asserted and Shapiro and Blake Neff then qualified.",
@@ -1995,8 +1963,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
       "type": "topic",
       "description": "The host's claim that Erika Kirk invited influencers into the courtroom at Tyler Robinson's preliminary hearing and that this registered with the public as an unforced error.",
@@ -2052,7 +2020,7 @@
         "A-2173.1"
       ],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
@@ -2072,7 +2040,7 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-10745"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
@@ -2092,7 +2060,7 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-10745"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:35:58",
@@ -2111,7 +2079,7 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-10745"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
@@ -2148,7 +2116,7 @@
         "A-2176.1"
       ],
       "related_nodes": [
-        "N-10746"
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:45:08",
@@ -2199,7 +2167,7 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-10745"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:01:26",
@@ -2217,7 +2185,7 @@
       "claim": "The host says Courtney Love told her that everyone talks about Zionists but one must understand the relationship between the Zionists and the Mormons controlling everything in Hollywood, music and publishing rights.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09",
@@ -2258,7 +2226,7 @@
       "claim": "The host says one specific reason the Daily Wire listed for firing her was that she suggested there could be a Jewish mafia in Hollywood in her coverage of Michael Jackson's death, which was deemed an anti-Semitic suggestion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:02:59",
@@ -2277,7 +2245,7 @@
       "claim": "The host says Irgun carried out the 1946 King David Hotel bombing in Jerusalem, which was then the British military headquarters, killing 91 people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11062"
+        "N-10980"
       ],
       "tags": [],
       "claim_timestamp": "00:03:45",
@@ -2294,7 +2262,7 @@
         "A-2172.1"
       ],
       "related_nodes": [
-        "N-11062"
+        "N-10980"
       ],
       "tags": [],
       "claim_timestamp": "00:05:34",
@@ -2311,7 +2279,7 @@
         "A-2172.1"
       ],
       "related_nodes": [
-        "N-11062"
+        "N-10980"
       ],
       "tags": [
         "relevance:tangential"
@@ -2331,7 +2299,7 @@
       "claim": "The host says Benjamin Emanuel was a member of Irgun and is the father of Ari Emanuel, whom she calls one of the most powerful men in Hollywood, and of former Chicago mayor Rahm Emanuel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11062"
+        "N-10980"
       ],
       "tags": [],
       "claim_timestamp": "00:06:31",
@@ -2383,7 +2351,7 @@
       "claim": "The host reads from a Google search result that the Mormon Mafia is a colloquial term for the trusted Latter-Day Saints inner circle of businessmen and accountants hired by Howard Hughes in Las Vegas during the 1960s.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [],
       "claim_timestamp": "00:08:56",
@@ -2439,7 +2407,7 @@
         "A-2788.1"
       ],
       "related_nodes": [
-        "N-11063"
+        "N-10981"
       ],
       "tags": [],
       "claim_timestamp": "00:10:36",
@@ -2507,7 +2475,7 @@
       "claim": "The host says Howard Hughes trusted Frank William Gay, a member of the LDS Church initially hired to run a subsidiary of his tool business, who then hired the men who became known as the Mormon Mafia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10249"
+        "N-10235"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
@@ -2544,7 +2512,7 @@
         "A-2173.1"
       ],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
@@ -2567,7 +2535,7 @@
         "A-2173.1"
       ],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -2582,7 +2550,7 @@
       "claim": "The host says the official cause of Howard Hughes's death was kidney failure on April 5, 1976, aboard a jet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10744"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30",
@@ -2600,7 +2568,7 @@
       "claim": "The host says the jet was owned by Robert Graf, founder of Robert Graf Inc., later Duncan Aviation, whose business partner was Donald Duncan, and says she does not know whether he is related to Judge Tony Graf in the Tyler Robinson case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10256"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30",
@@ -2621,8 +2589,8 @@
       "claim": "The host says Duncan Aviation, formerly Robert Graf's company, is the same firm tied to the Egyptian plane that took off for Delaware shortly before Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10259",
-        "N-10253"
+        "N-10242",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30",
@@ -2643,7 +2611,7 @@
         "A-2786.1"
       ],
       "related_nodes": [
-        "N-10744"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:17:34",
@@ -2663,7 +2631,7 @@
         "A-2786.1"
       ],
       "related_nodes": [
-        "N-10744"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:17:34",
@@ -2683,7 +2651,7 @@
         "A-2786.1"
       ],
       "related_nodes": [
-        "N-10744"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:18:36",
@@ -2701,7 +2669,7 @@
       "claim": "The host says a mysterious handwritten note filed by the Church of Latter-day Saints was claimed as Howard Hughes's last will and testament and was summarily rejected by the courts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10744"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:19:34",
@@ -2719,7 +2687,7 @@
       "claim": "The host says the fight over Howard Hughes's $2.5 billion estate lasted 34 years and ended with the majority of his fortune, around $1.5 billion, controlled by the Howard Hughes Medical Institute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11063"
+        "N-10981"
       ],
       "tags": [],
       "claim_timestamp": "00:19:34",
@@ -2737,7 +2705,7 @@
       "claim": "The host says that when Howard Hughes died the trustee of his charity's board became Frank William Gay, who she says it was later discovered had at one point worked with the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11063"
+        "N-10981"
       ],
       "tags": [],
       "claim_timestamp": "00:20:27",
@@ -2841,7 +2809,7 @@
       "claim": "The host says that while researching one of the \"maroon boys,\" whom she is not naming, she discovered he was a relative of the Hughes family empire, which led her to Howard Hughes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:23:09",
@@ -2861,8 +2829,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10398",
-        "N-10747"
+        "N-10371",
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:23:09",
@@ -2883,8 +2851,8 @@
         "A-2787.1"
       ],
       "related_nodes": [
-        "N-10747",
-        "N-10398"
+        "N-10677",
+        "N-10371"
       ],
       "tags": [],
       "claim_timestamp": "00:24:10",
@@ -2904,7 +2872,7 @@
         "A-2787.1"
       ],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:24:10",
@@ -2924,7 +2892,7 @@
         "A-2787.1"
       ],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:24:10",
@@ -2943,7 +2911,7 @@
       "claim": "The host says that Terryl Farnsworth, who takes down the cameras, and others in the Farnsworth circle are Mormons whose families knew Erika before Erika knew Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:25:03",
@@ -2968,7 +2936,7 @@
         "A-2789.1"
       ],
       "related_nodes": [
-        "N-10925",
+        "N-10846",
         "N-10000"
       ],
       "tags": [],
@@ -3044,7 +3012,7 @@
       "claim": "The host says Charlie Kirk felt morally blackmailed at Bill Ackman's house in the Hamptons by Seth Dillon and others, clarifying that he named Dillon and not Ackman.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
+        "N-10323",
         "N-10027"
       ],
       "tags": [],
@@ -3065,7 +3033,7 @@
       "claim": "The host says Charlie Kirk received a phone call from Benjamin Netanyahu with his wife at his side, and that seven days before he died he wanted to set up a DOGE audit at his company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10018"
       ],
       "tags": [],
@@ -3088,8 +3056,8 @@
       "claim": "The host says Turning Point USA employees told her specifically that money was missing out of Turning Point Action, which she calls Tyler Bowyer's arm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10388",
-        "N-10925"
+        "N-10361",
+        "N-10846"
       ],
       "tags": [],
       "claim_timestamp": "00:27:24",
@@ -3133,7 +3101,7 @@
       "claim": "The host says she is told Charlie Kirk and Erika Kirk had an appointment to change his will scheduled for the Monday after he died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10938"
+        "N-10859"
       ],
       "tags": [],
       "claim_timestamp": "00:27:24",
@@ -3152,7 +3120,7 @@
       "claim": "The host says that after Erika Kirk took the reins of the company the audit was magically cancelled.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [],
       "claim_timestamp": "00:27:24",
@@ -3191,7 +3159,7 @@
       "claim": "The host says Ben Shapiro and Blake Neff both admitted that Shapiro and Charlie Kirk were not friends, though Kolvet had tried to tell the public they were, and that she held back more text messages as a result.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11064"
+        "N-10982"
       ],
       "tags": [],
       "claim_timestamp": "00:28:19",
@@ -3264,7 +3232,7 @@
       "claim": "The host says Charlie Kirk, like Howard Hughes, lived one way relying on lieutenants, asked questions, and the organization he left now does a 180 on almost everything he believed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
@@ -3303,7 +3271,7 @@
       "claim": "The host says Ben Shapiro tweeted that he never claimed to be close to Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11064"
+        "N-10982"
       ],
       "tags": [],
       "claim_timestamp": "00:33:36",
@@ -3322,7 +3290,7 @@
       "claim": "The host says Blake Neff said on a podcast that Charlie Kirk had issues with Ben Shapiro but considered him at least an ally in the movement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11064"
+        "N-10982"
       ],
       "tags": [],
       "claim_timestamp": "00:33:36",
@@ -3366,8 +3334,8 @@
       "claim": "The host says the Daily Mail article used direct quotes from a family friend she speculated was Tracy, the only friend of Erika's family she knows who has been vocally speaking to the press, and calls this a guess.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10745",
-        "N-10070"
+        "N-10675",
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:35:23",
@@ -3392,7 +3360,7 @@
         "A-2174.1"
       ],
       "related_nodes": [
-        "N-10745"
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:36:31",
@@ -3414,7 +3382,7 @@
       "claim": "The host says searching the Daily Mail for her name shows hostile coverage while searching for Erika Kirk and Turning Point USA shows the exact opposite.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:37:21",
@@ -3435,8 +3403,8 @@
         "A-2175.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10745"
+        "N-10067",
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:37:21",
@@ -3454,7 +3422,7 @@
       "claim": "The host, addressing Andrew Kolvet, says he and his colleagues have proven they work with the Daily Mail because they chose it and sent it the video of Charlie Kirk naming Erika Kirk, which the public is not allowed to see, so they cannot pretend they have no established relationship with it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
+        "N-10067",
         "N-10000"
       ],
       "tags": [],
@@ -3475,7 +3443,7 @@
       "claim": "The host says Kolvet was promoting an NCRI article titled \"Digital Assassin\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10815"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -3509,8 +3477,8 @@
       "claim": "The host says the Daily Mail has neither removed the article nor issued a retraction, and that Turning Point USA could demand one through a lawyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
-        "N-10745"
+        "N-10067",
+        "N-10675"
       ],
       "tags": [],
       "claim_timestamp": "00:39:52",
@@ -3569,8 +3537,8 @@
       "claim": "The host says Erika Kirk explicitly lied about the surgeon call by saying Andrew Kolvet went rogue and that she had no idea about it, and that this is not true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10341"
+        "N-10416",
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:41:37",
@@ -3609,8 +3577,8 @@
       "claim": "The host says she is asserting definitively that she had nothing to do with the Daily Mail article and has nothing to do with press written about Erika, and offers to be Kolvet's ally if he sues.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10745",
-        "N-10070"
+        "N-10675",
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:43:09",
@@ -3635,8 +3603,8 @@
         "A-2791.1"
       ],
       "related_nodes": [
-        "N-10740",
-        "N-10714"
+        "N-10672",
+        "N-10650"
       ],
       "tags": [],
       "claim_timestamp": "00:44:12",
@@ -3651,7 +3619,7 @@
       "claim": "The host says the next episode will cover who Ben Shapiro was allegedly lunching with when he found out, when his security sprang into action and someone spoke on the phone in the car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10712"
+        "N-10648"
       ],
       "tags": [],
       "claim_timestamp": "00:44:12",
@@ -3673,8 +3641,7 @@
       "claim": "The host says it is a fact that Mikey McCoy had two phones when he and Charlie Kirk walked into the event, and that viewers also noticed two phones in the hospital news clip.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10550",
-        "N-10746"
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:45:08",
@@ -3696,7 +3663,7 @@
         "A-2176.1"
       ],
       "related_nodes": [
-        "N-10550"
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:45:08",
@@ -3722,7 +3689,7 @@
         "A-2176.1"
       ],
       "related_nodes": [
-        "N-10746"
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:45:49",
@@ -3747,8 +3714,8 @@
         "A-2177.1"
       ],
       "related_nodes": [
-        "N-10714",
-        "N-10740"
+        "N-10650",
+        "N-10672"
       ],
       "tags": [],
       "claim_timestamp": "00:46:58",
@@ -3771,7 +3738,7 @@
         "A-2177.1"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [],
       "claim_timestamp": "00:47:39",
@@ -3794,7 +3761,7 @@
         "A-2179.2"
       ],
       "related_nodes": [
-        "N-10550"
+        "N-10504"
       ],
       "tags": [],
       "claim_timestamp": "00:50:31",
@@ -3838,7 +3805,7 @@
       "claim": "The host says it was an atrocious idea for the PR team to have Erika Kirk invite influencers into the courtroom, and that it registered with the public as fraudulent.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [],
       "claim_timestamp": "00:52:37",
@@ -3856,7 +3823,7 @@
       "claim": "The host says the sudden influencer talk about Sandy Hook is an obvious campaign suggesting a lawsuit to bankrupt anyone looking into the case, with herself as the example.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10741"
+        "N-10673"
       ],
       "tags": [],
       "claim_timestamp": "00:53:16",

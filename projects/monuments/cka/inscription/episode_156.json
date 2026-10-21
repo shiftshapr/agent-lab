@@ -92,7 +92,7 @@
             "C-13469"
           ],
           "related_nodes": [
-            "N-10853"
+            "N-10775"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -118,8 +118,7 @@
             "C-13462"
           ],
           "related_nodes": [
-            "N-10851",
-            "N-10855"
+            "N-10645"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -145,8 +144,7 @@
             "C-13462"
           ],
           "related_nodes": [
-            "N-10851",
-            "N-10855"
+            "N-10645"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -171,7 +169,7 @@
             "C-13476"
           ],
           "related_nodes": [
-            "N-10852"
+            "N-10774"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +187,7 @@
             "C-13476"
           ],
           "related_nodes": [
-            "N-10852"
+            "N-10774"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -288,7 +286,7 @@
             "C-13513"
           ],
           "related_nodes": [
-            "N-10854"
+            "N-10776"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +311,7 @@
             "C-13463"
           ],
           "related_nodes": [
-            "N-10855"
+            "N-10645"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -499,8 +497,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10851",
-      "ref": "N-10851",
+      "@id": "N-10645",
+      "ref": "N-10645",
       "name": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between the dual-exhaust configuration of Tyler Robinson's known towed vehicle (per Fox News) and the quad-exhaust configuration of the Dodge Challenger shown entering the parking garage on September 10.",
@@ -519,13 +517,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10855"
+        "N-10645"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10852",
-      "ref": "N-10852",
+      "@id": "N-10774",
+      "ref": "N-10774",
       "name": "Quick Quack Car Wash Footage Release Question",
       "type": "investigation_target",
       "description": "Question of why the Quick Quack Car Wash surveillance footage – seized by law enforcement – was never publicly released, including questions of what the footage actually depicts.",
@@ -545,8 +543,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10853",
-      "ref": "N-10853",
+      "@id": "N-10775",
+      "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
       "type": "investigation_target",
       "description": "Question of whether the original Dairy Queen surveillance timestamp of 6:38 PM was recorded in UTC (converting to 12:38 PM Mountain) versus Mountain Standard Time, and the implications for the published timeline.",
@@ -565,8 +563,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10854",
-      "ref": "N-10854",
+      "@id": "N-10776",
+      "ref": "N-10776",
       "name": "Partial License Plate Match Verification Process",
       "type": "investigation_target",
       "description": "Question raised by a viewer comment that license-plate identification in testimony (Officer Go Forth) relied on partial-plate matches rather than full-plate identification.",
@@ -582,29 +580,6 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": []
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10855",
-      "ref": "N-10855",
-      "name": "Vehicle Exhaust System Modification Question",
-      "type": "investigation_target",
-      "description": "Hypothesis raised by host that, if Tyler Robinson's vehicle is the same as the parking-garage Challenger, the prosecution must account for an exhaust-system modification occurring within 33 hours of the incident.",
-      "related_artifacts": [
-        "A-2419.1",
-        "A-2420.1"
-      ],
-      "related_claims": [
-        "C-13462"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium",
-      "related_nodes": [
-        "N-10851"
-      ]
     },
     {
       "@type": "Person",
@@ -936,8 +911,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11091",
-      "ref": "N-11091",
+      "@id": "N-11009",
+      "ref": "N-11009",
       "name": "Wear Forbidden",
       "type": "investigation_target",
       "description": "Creator of the AI parody videos (the transcript says \"Wear Forbidden\" and \"atware forbidden\").",
@@ -972,8 +947,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -994,8 +969,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1011,8 +986,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10168",
-      "ref": "N-10168",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1028,8 +1003,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10850",
-      "ref": "N-10850",
+      "@id": "N-10773",
+      "ref": "N-10773",
       "name": "Two Grey Dodge Challengers Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1049,8 +1024,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10090",
-      "ref": "N-10090",
+      "@id": "N-10086",
+      "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1066,8 +1041,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10811",
-      "ref": "N-10811",
+      "@id": "N-10735",
+      "ref": "N-10735",
       "name": "Aspect-Ratio Modification Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1083,8 +1058,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10625",
-      "ref": "N-10625",
+      "@id": "N-10571",
+      "ref": "N-10571",
       "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1100,8 +1075,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1118,8 +1093,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10860",
-      "ref": "N-10860",
+      "@id": "N-10781",
+      "ref": "N-10781",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "investigation_target",
       "description": "Existing topic reused for the correction about the person near the van.",
@@ -1135,8 +1110,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10977",
-      "ref": "N-10977",
+      "@id": "N-10898",
+      "ref": "N-10898",
       "name": "September 2024 Lebanon Pager Attack",
       "type": "investigation_target",
       "description": "Existing topic reused for the beeper clip.",
@@ -1152,8 +1127,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10980",
-      "ref": "N-10980",
+      "@id": "N-10901",
+      "ref": "N-10901",
       "name": "Reuters",
       "type": "investigation_target",
       "description": "News agency whose headline the host reads.",
@@ -1169,8 +1144,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
       "type": "investigation_target",
       "description": "Existing topic reused for the Iran war remark.",
@@ -1186,8 +1161,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's remarks on the video and Fort Huachuca.",
@@ -1204,8 +1179,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-11151",
-      "ref": "N-11151",
+      "@id": "N-11067",
+      "ref": "N-11067",
       "name": "Mountain Shadows Shopping Center Sighting",
       "type": "place",
       "description": "Shopping center near Utah Valley University where, per the warrants as the host reads them, Tyler Robinson's vehicle was spotted at 12:44 p.m. and where the route to the Quick Quack car wash began.",
@@ -1227,8 +1202,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11152",
-      "ref": "N-11152",
+      "@id": "N-11068",
+      "ref": "N-11068",
       "name": "Cross-Device Account Access Hypothesis",
       "type": "topic",
       "description": "The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs.",
@@ -1273,8 +1248,7 @@
         "A-2419.1"
       ],
       "related_nodes": [
-        "N-10851",
-        "N-10855"
+        "N-10645"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
@@ -1293,8 +1267,7 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-10851",
-        "N-10855"
+        "N-10645"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
@@ -1310,7 +1283,7 @@
         "A-2421.2"
       ],
       "related_nodes": [
-        "N-10852"
+        "N-10774"
       ],
       "tags": [],
       "claim_timestamp": "00:18:05",
@@ -1329,7 +1302,7 @@
         "A-2421.1"
       ],
       "related_nodes": [
-        "N-10852"
+        "N-10774"
       ],
       "tags": [],
       "claim_timestamp": "00:18:05",
@@ -1348,7 +1321,7 @@
         "A-2424.1"
       ],
       "related_nodes": [
-        "N-10854"
+        "N-10776"
       ],
       "tags": [],
       "claim_timestamp": "00:53:00",
@@ -1401,7 +1374,7 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-10853"
+        "N-10775"
       ],
       "tags": [],
       "claim_timestamp": "00:09:41",
@@ -1417,7 +1390,7 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-10853"
+        "N-10775"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31",
@@ -1437,8 +1410,7 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-10851",
-        "N-10855"
+        "N-10645"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
@@ -1457,7 +1429,7 @@
         "A-2425.1"
       ],
       "related_nodes": [
-        "N-10855"
+        "N-10645"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
@@ -1535,7 +1507,7 @@
         "A-2416.1"
       ],
       "related_nodes": [
-        "N-10860"
+        "N-10781"
       ],
       "tags": [
         "relevance:core"
@@ -1664,7 +1636,7 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -1690,8 +1662,8 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-10051",
-        "N-10853"
+        "N-10048",
+        "N-10775"
       ],
       "tags": [
         "relevance:core"
@@ -1715,8 +1687,8 @@
       "claim": "The host says it was only after the Panguitch receipt that her team realized the Dairy Queen time had to be wrong, because Tyler Robinson would have had to leave Orem earlier to make the three-hour drive to Panguitch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381",
-        "N-10051"
+        "N-10354",
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -1742,7 +1714,7 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-10853"
+        "N-10775"
       ],
       "tags": [
         "relevance:core"
@@ -1762,7 +1734,7 @@
       "claim": "The host says that, as she has maintained from the start, the real Tyler Robinson was around campus that day and could have played the role she was told of throwing out clothes in the cemetery.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10853"
+        "N-10775"
       ],
       "tags": [
         "relevance:core"
@@ -1785,8 +1757,8 @@
         "A-2425.1"
       ],
       "related_nodes": [
-        "N-10051",
-        "N-10168"
+        "N-10048",
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -1829,7 +1801,7 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-10851"
+        "N-10645"
       ],
       "tags": [
         "relevance:core"
@@ -1855,8 +1827,7 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-10851",
-        "N-10855"
+        "N-10645"
       ],
       "tags": [
         "relevance:core"
@@ -1882,8 +1853,8 @@
         "A-2904.1"
       ],
       "related_nodes": [
-        "N-10051",
-        "N-10853"
+        "N-10048",
+        "N-10775"
       ],
       "tags": [
         "relevance:core",
@@ -1905,7 +1876,7 @@
       "claim": "The host says that, per the search warrants, Tyler Robinson's vehicle is spotted at the Mountain Shadows Shopping Center at 12:44 p.m., a stop she says needs revisiting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11151"
+        "N-11067"
       ],
       "tags": [
         "relevance:core"
@@ -1926,7 +1897,7 @@
       "claim": "The host says she called Ryan Matta that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11151"
+        "N-11067"
       ],
       "tags": [
         "relevance:core"
@@ -1947,8 +1918,8 @@
       "claim": "The host says that, because the public learned of the Challenger sighting at the shopping center, the FBI was able to file a warrant that led to discovering the trip to the car wash.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11151",
-        "N-10852"
+        "N-11067",
+        "N-10774"
       ],
       "tags": [
         "relevance:core"
@@ -1969,8 +1940,8 @@
       "claim": "The host recounts the official narrative that shopping center surveillance footage backs up Tyler Robinson's departure toward the car wash.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11151",
-        "N-10852"
+        "N-11067",
+        "N-10774"
       ],
       "tags": [
         "relevance:core"
@@ -1994,8 +1965,8 @@
       "claim": "The host says the probable cause hearing gave the public nothing clear, with everything blurry and the aspect ratio adjusted.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10811",
-        "N-10625"
+        "N-10735",
+        "N-10571"
       ],
       "tags": [
         "relevance:core"
@@ -2015,8 +1986,8 @@
       "claim": "The host says the prosecution had its best chance to show the public the car wash footage at the probable cause hearing and did not, which she says tells her the car wash car may be the other Dodge Challenger rather than Tyler Robinson's.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10852",
-        "N-10850"
+        "N-10774",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2040,7 +2011,7 @@
       "claim": "The host says she has long wondered whether Lance Twiggs was awake and logging into Tyler Robinson's accounts from a different device, rather than sleeping through everything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11152"
+        "N-11068"
       ],
       "tags": [
         "relevance:core"
@@ -2062,7 +2033,7 @@
       "claim": "The host says the idea that Lance was just sleeping never registered as a reason he would need use immunity when testifying.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -2083,8 +2054,8 @@
       "claim": "The host says her producer's laptop Google Maps searches appeared on her phone because both were logged into the same account, which the host offers as how a route could appear on Tyler Robinson's phone without him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11152",
-        "N-10852"
+        "N-11068",
+        "N-10774"
       ],
       "tags": [
         "relevance:core"
@@ -2105,7 +2076,7 @@
       "claim": "The host says she has always felt Lance was a federal asset, and that she told viewers his own family does not understand why he was not investigated more.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -2170,7 +2141,7 @@
         "A-2421.2"
       ],
       "related_nodes": [
-        "N-10852"
+        "N-10774"
       ],
       "tags": [
         "relevance:core"
@@ -2194,7 +2165,7 @@
       "claim": "The host says the official account has Tyler Robinson using a towel from his own home to wipe his DNA off, along with a screwdriver from home, and says that does not make sense.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2215,7 +2186,7 @@
       "claim": "The host says Ryan Matta was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11151"
+        "N-11067"
       ],
       "tags": [
         "relevance:core"
@@ -2238,8 +2209,8 @@
         "A-2904.2"
       ],
       "related_nodes": [
-        "N-10852",
-        "N-11151"
+        "N-10774",
+        "N-11067"
       ],
       "tags": [
         "relevance:core",
@@ -2301,8 +2272,8 @@
       "claim": "The host says several people emailed that Tyler Robinson's vehicle is a V6 and that her team confirmed it is a V6.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850",
-        "N-10851"
+        "N-10773",
+        "N-10645"
       ],
       "tags": [
         "relevance:core"
@@ -2325,8 +2296,8 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-10850",
-        "N-10851"
+        "N-10773",
+        "N-10645"
       ],
       "tags": [
         "relevance:core"
@@ -2470,7 +2441,7 @@
         "A-2422.3"
       ],
       "related_nodes": [
-        "N-10977"
+        "N-10898"
       ],
       "tags": [
         "relevance:tangential"
@@ -2492,7 +2463,7 @@
         "A-2902.1"
       ],
       "related_nodes": [
-        "N-10980"
+        "N-10901"
       ],
       "tags": [
         "relevance:tangential"
@@ -2533,7 +2504,7 @@
         "A-2423.1"
       ],
       "related_nodes": [
-        "N-11091"
+        "N-11009"
       ],
       "tags": [
         "relevance:context"
@@ -2554,7 +2525,7 @@
       "claim": "The host says Erika Kirk gave Andrew Wilson a video presented as the last video of her husband with his kids.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2618,7 +2589,7 @@
       "claim": "The host says that, if Erika Kirk felt she had to show the footage to prove she was not at Fort Huachuca, she should have done so in a sit-down with figures such as Megyn Kelly or Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2703,9 +2674,9 @@
         "A-2904.4"
       ],
       "related_nodes": [
-        "N-10051",
-        "N-10852",
-        "N-11151"
+        "N-10048",
+        "N-10774",
+        "N-11067"
       ],
       "tags": [
         "relevance:core",
@@ -2730,7 +2701,7 @@
         "A-2903.1"
       ],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -2754,7 +2725,7 @@
         "A-2424.1"
       ],
       "related_nodes": [
-        "N-10854"
+        "N-10776"
       ],
       "tags": [
         "relevance:core"
@@ -2778,8 +2749,8 @@
       "claim": "The host says she cannot confirm the plates match and has no footage that confirms it, which she suggests may be because it is not Tyler Robinson's car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10854",
-        "N-10850"
+        "N-10776",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2802,8 +2773,8 @@
         "A-2424.1"
       ],
       "related_nodes": [
-        "N-10854",
-        "N-10850"
+        "N-10776",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"

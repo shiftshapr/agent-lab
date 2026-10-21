@@ -100,8 +100,8 @@
             "C-3626"
           ],
           "related_nodes": [
-            "N-10897",
-            "N-10310"
+            "N-10818",
+            "N-10292"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-306",
-            "N-10897"
+            "N-10818"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,7 +220,7 @@
             "C-3626"
           ],
           "related_nodes": [
-            "N-10897"
+            "N-10818"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
           ],
           "related_nodes": [
             "N-10000",
-            "N-10804",
+            "N-10728",
             "N-3",
             "N-68"
           ],
@@ -266,7 +266,7 @@
             "C-3613"
           ],
           "related_nodes": [
-            "N-10804",
+            "N-10728",
             "N-159",
             "N-3"
           ],
@@ -319,7 +319,7 @@
             "C-3649"
           ],
           "related_nodes": [
-            "N-10897",
+            "N-10818",
             "N-267",
             "N-3"
           ],
@@ -394,8 +394,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10309",
-        "N-10310"
+        "N-10291",
+        "N-10292"
       ]
     },
     {
@@ -417,7 +417,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ]
     },
     {
@@ -444,8 +444,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10309",
-      "ref": "N-10309",
+      "@id": "N-10291",
+      "ref": "N-10291",
       "name": "Wedi Machmood Identity Verification Question",
       "type": "investigation_target",
       "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
@@ -458,13 +458,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-305",
-        "N-10310"
+        "N-10292"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10310",
-      "ref": "N-10310",
+      "@id": "N-10292",
+      "ref": "N-10292",
       "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
       "type": "investigation_target",
       "description": "Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident.",
@@ -477,7 +477,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-305",
-        "N-10309"
+        "N-10291"
       ]
     },
     {
@@ -509,8 +509,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
       "type": "organization",
       "description": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023.",
@@ -771,8 +771,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10064",
-      "ref": "N-10064",
+      "@id": "N-10061",
+      "ref": "N-10061",
       "name": "The Pentagon",
       "type": "investigation_target",
       "description": "Setting of the Higby question and the host's no-denial point.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Airport where the Egyptian planes and the named passenger appeared.",
@@ -810,8 +810,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10208",
-      "ref": "N-10208",
+      "@id": "N-10200",
+      "ref": "N-10200",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the SU-BND ground transponder claim.",
@@ -827,8 +827,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the plane identification claims.",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
       "type": "investigation_target",
       "description": "Existing topic reused for the French-plot claims.",
@@ -865,8 +865,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for the Trump remark.",
@@ -882,8 +882,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's night-before text claim.",
@@ -899,8 +899,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10567",
-      "ref": "N-10567",
+      "@id": "N-10518",
+      "ref": "N-10518",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10804",
-      "ref": "N-10804",
+      "@id": "N-10728",
+      "ref": "N-10728",
       "name": "TPUSA Debate PR Strategy",
       "type": "investigation_target",
       "description": "Existing topic reused for the debate-terms claims.",
@@ -959,8 +959,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11016",
-      "ref": "N-11016",
+      "@id": "N-10936",
+      "ref": "N-10936",
       "name": "Cam Higby TPUSA Payroll Verification",
       "type": "topic",
       "description": "Host's claim that Cam Higby joined the TPUSA payroll in August 2025 and the question of who directed his Pentagon briefing question.",
@@ -976,8 +976,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11017",
-      "ref": "N-11017",
+      "@id": "N-10937",
+      "ref": "N-10937",
       "name": "TPUSA Influencer Payment Campaign Allegation",
       "type": "topic",
       "description": "Host's allegation that Turning Point USA pays influencers to run an influence campaign and mock her claims.",
@@ -1058,8 +1058,8 @@
         "A-1500.2"
       ],
       "related_nodes": [
-        "N-10310",
-        "N-10897"
+        "N-10292",
+        "N-10818"
       ],
       "tags": [],
       "claim_timestamp": "00:16:50",
@@ -1076,7 +1076,7 @@
       "claim": "The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
@@ -1170,7 +1170,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00",
@@ -1193,7 +1193,7 @@
         "A-1494.1"
       ],
       "related_nodes": [
-        "N-10064"
+        "N-10061"
       ],
       "tags": [],
       "claim_timestamp": "00:02:11",
@@ -1215,8 +1215,8 @@
       "claim": "The host says she has already said that France was on the ground on the day Charlie Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567",
-        "N-10316"
+        "N-10518",
+        "N-10297"
       ],
       "tags": [],
       "claim_timestamp": "00:02:11",
@@ -1236,7 +1236,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11016"
+        "N-10936"
       ],
       "tags": [],
       "claim_timestamp": "00:03:07",
@@ -1258,7 +1258,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:03:51",
@@ -1279,7 +1279,7 @@
         "A-1495.1"
       ],
       "related_nodes": [
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:03:51",
@@ -1304,7 +1304,7 @@
         "A-2734.2"
       ],
       "related_nodes": [
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:06:26",
@@ -1324,7 +1324,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:07:19",
@@ -1344,7 +1344,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:09:47",
@@ -1382,7 +1382,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
@@ -1401,8 +1401,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-260",
-        "N-10208",
-        "N-10074"
+        "N-10200",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35",
@@ -1425,8 +1425,8 @@
       "claim": "The host says the yellow plane that flew from Provo to Wilmington, Delaware that morning had only four people on board, one of them a foreign dignitary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074",
-        "N-10253"
+        "N-10071",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35",
@@ -1447,8 +1447,8 @@
       "claim": "The host says she can confirm that one of the four people on the yellow plane flew using the name Wedi Machmood, adding that governments just print passports so such names are obviously dead ends.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10309",
-        "N-10253"
+        "N-10291",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35",
@@ -1467,8 +1467,8 @@
       "claim": "The host says Wedi Machmood had been in Provo before, arriving on May 27, 2025 aboard an Egyptian military plane for which there is no transponder data for that trip.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10310",
-        "N-10074"
+        "N-10292",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:15:15",
@@ -1487,8 +1487,8 @@
       "claim": "The host says the plane she labels purple, tail number SU-BTU, was not there on the day of Charlie's assassination but carried the same person in Provo at the end of May.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10310",
-        "N-10074"
+        "N-10292",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:15:32",
@@ -1508,8 +1508,8 @@
       "claim": "The host says SU-BTU flew into Provo May 27, departed June 2 and was not transponding, so no record can be found on flight tracking, and she suggests the named person may be a pilot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10310",
-        "N-10074"
+        "N-10292",
+        "N-10071"
       ],
       "tags": [],
       "claim_timestamp": "00:15:32",
@@ -1530,8 +1530,8 @@
         "A-1496.1"
       ],
       "related_nodes": [
-        "N-10897",
-        "N-10310"
+        "N-10818",
+        "N-10292"
       ],
       "tags": [],
       "claim_timestamp": "00:17:01",
@@ -1554,8 +1554,8 @@
         "A-1500.2"
       ],
       "related_nodes": [
-        "N-10897",
-        "N-10253"
+        "N-10818",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
@@ -1576,7 +1576,7 @@
       "claim": "The host says President El-Sisi can also be ruled out as the individual in Provo in May because he was photographed multiple times that week in Egypt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10310"
+        "N-10292"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
@@ -1598,7 +1598,7 @@
       "claim": "The host infers that Wedi Machmood is not the Egyptian president but is almost certainly well acquainted with him, since military planes that fly presidents would not carry a random wealthy Egyptian.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10309"
+        "N-10291"
       ],
       "tags": [],
       "claim_timestamp": "00:18:13",
@@ -1619,7 +1619,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:22:37",
@@ -1637,9 +1637,9 @@
       "claim": "The host says neither the White House, the Elysee Palace nor the Pentagon has formally denied her claim that France tried to assassinate her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10064",
-        "N-10567",
-        "N-10316"
+        "N-10061",
+        "N-10518",
+        "N-10297"
       ],
       "tags": [],
       "claim_timestamp": "00:23:56",
@@ -1695,7 +1695,7 @@
       "claim": "The host alleges that TPUSA is relaying everything Charlie said the night before except that he texted them that he thought they were going to kill him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:29:09",
@@ -1773,7 +1773,7 @@
       "claim": "The host says Donald Trump, as president, looked the public in the face and said, \"Are we still talking about the Epstein files?\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:33:33",
@@ -1793,7 +1793,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10804"
+        "N-10728"
       ],
       "tags": [],
       "claim_timestamp": "00:38:22",
@@ -1872,7 +1872,7 @@
         "A-2736.1"
       ],
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ],
       "tags": [],
       "claim_timestamp": "00:42:35",
@@ -1892,7 +1892,7 @@
         "A-2736.1"
       ],
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ],
       "tags": [],
       "claim_timestamp": "00:42:35",
@@ -1914,7 +1914,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11017"
+        "N-10937"
       ],
       "tags": [],
       "claim_timestamp": "00:46:33",

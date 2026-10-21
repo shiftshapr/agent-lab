@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq114
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep114): N-10724, N-10863
+  - Hole-minted Nodes (reintro-ep114): N-10659, N-10784
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-673, N-10969, N-10970
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-597, N-643, N-665, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-674
+  - Tip-minted Nodes (skeleton): N-673, N-10890, N-10891
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-597, N-643, N-665, N-10000, N-10006, N-10012, N-10014, N-10023, N-10107, N-10126, N-10248, N-10252, N-10303, N-10320, N-10342, N-10347, N-10357, N-10371, N-10390, N-10466, N-10522, N-10536, N-10406, N-10593, N-10611, N-10129, N-10614, N-10637, N-10791, N-10809, N-10889, N-674
   - Claim Range: C-9867–C-9925
   - (see registers)
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:16:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9879, C-9883, C-9884, C-9885, N-10968, N-10969, N-5, N-1, N-22, N-46, N-85, N-9*
+*Related: C-9879, C-9883, C-9884, C-9885, N-10889, N-10890, N-5, N-1, N-22, N-46, N-85, N-9*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:20:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9893, N-2, N-665, N-10264, N-10970*
+*Related: C-9893, N-2, N-665, N-10248, N-10891*
 
 **A-2650.2** James Kaddis PragerU video (shown)
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9894, N-665, N-10131*
+*Related: C-9894, N-665, N-10126*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9912, C-9913, C-9914, N-433, N-10671, N-10384*
+*Related: C-9912, C-9913, C-9914, N-433, N-10611, N-10357*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:45:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9916, C-9917, C-9918, C-9919, N-433, N-10700, N-10671, N-10888*
+*Related: C-9916, C-9917, C-9918, C-9919, N-433, N-10637, N-10611, N-10809*
 
 ---
 
@@ -475,165 +475,165 @@ The host says Epstein trafficked weapons and people on behalf of Israel.
 
 *Related: C-9880, C-9899*
 
-**N-10111** Crooks Federal-Radar Question
+**N-10107** Crooks Federal-Radar Question
 
 Carlson's account of Crooks's undisclosed social media posts.
 
 *Related: C-9868*
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Hosts James Kaddis's "Egyptian pastor who supports Israel" video.
 
 *Related: C-9894, A-2650.2*
 
-**N-10264** Calvary Chapel Pro-Israel Coordination
+**N-10248** Calvary Chapel Pro-Israel Coordination
 
 Erika Kirk's July 14 speech at Calvary Chapel after a pro-Israel introduction.
 
 *Related: C-9891, C-9893, A-2650.1*
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 A viewer says Tucker Carlson was not invited this year; the host says Carlson and Megyn Kelly were pushed out.
 
 *Related: C-9922*
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 The New York Times piece on the White House reaction to the Epstein files.
 
 *Related: C-9879, C-9883*
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 The host restates that Netanyahu offered to take Turning Point to the next level and Charlie Kirk declined.
 
 *Related: C-9905*
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's encounter is restated as context for Hansell's trip.
 
 *Related: C-9911, C-9915*
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 The host says she still cannot definitively state that Snow saw Harpole.
 
 *Related: C-9911*
 
-**N-10384** Davis-Monthan AFB September 9 Attendee Verification
+**N-10357** Davis-Monthan AFB September 9 Attendee Verification
 
 Hansell's stop at Davis-Monthan in Tucson before Fort Huachuca.
 
 *Related: C-9912, A-2652.1*
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 The host says James Kaddis runs Turning Point USA Faith.
 
 *Related: C-9891*
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Mitch Snow's belief that he saw Erika Kirk leaving a hotel at Fort Huachuca on September 8.
 
 *Related: C-9915*
 
-**N-10505** Erika Kirk Post-Assassination Conduct Composite
+**N-10466** Erika Kirk Post-Assassination Conduct Composite
 
 The host's account of Erika Kirk's return to the office and her public demeanour.
 
 *Related: C-9907, C-9921*
 
-**N-10571** July 14, 2025 Long Beach Flight
+**N-10522** July 14, 2025 Long Beach Flight
 
 Erika Kirk's private flight to Long Beach with Locastro, Niekerk and Barcelo.
 
 *Related: C-9890*
 
-**N-10588** Butler PA Investigation Closure Verification
+**N-10536** Butler PA Investigation Closure Verification
 
 Carlson's claim that Trump shut down the investigation, against Bongino's "pending inactive" article.
 
 *Related: C-9867, C-9869, C-9871, C-9873, C-9875, C-9876*
 
-**N-10594** Aspen Donor Inconsistency
+**N-10406** Aspen Donor Recall Verification
 
 The host says Erika Kirk went to the August 15 Aspen retreat but not the meeting itself.
 
 *Related: C-9906*
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 The host says reaching out to Harpole produced a lawsuit.
 
 *Related: C-9911*
 
-**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
+**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The passenger list for Hansell's SAM702 legs, especially Tucson to Fort Huachuca, sought by FOIA.
 
 *Related: C-9912, C-9913, C-9914, C-9916, C-9917, A-2652.1, A-2653.1*
 
-**N-10673** Hamptons August 5–7 Intervention Event
+**N-10129** Hamptons Weekend Retreat
 
 The host revisits the Hamptons retreat that Charlie Kirk called an intervention.
 
 *Related: C-9904*
 
-**N-10675** Turning Point UVU Event Submission Chain
+**N-10614** Turning Point UVU Event Submission Chain
 
 The host says it is still unknown who submitted the July 18 UVU request.
 
 *Related: C-9895*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The SAM702 travel-log request now in a complex processing queue.
 
 *Related: C-9916, C-9917, C-9919, A-2653.1*
 
-**N-10724** Butler Shooting Insider Involvement Claim
+**N-10659** Butler Shooting Insider Involvement Claim
 
 The host's theory that Butler was a real attempt not carried out by the person blamed, serving as a warning.
 
 *Related: C-9877*
 
-**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-10784** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 The UVU request came days after the SAS donor pressure and the Trump call.
 
 *Related: C-9895*
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 The host says Yrefy became the fall tour's number one sponsor through a contract addendum.
 
 *Related: C-9897*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Hansell's department; its FOIA office invoked unusual circumstances.
 
 *Related: C-9918, A-2653.1*
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Node Type: Organization
 Newspaper that published the piece on the White House reaction to the Epstein files, reporting that Trump called Charlie Kirk and scolded him on July 12, 2025. The host says the piece was well sourced and believes Dan Bongino was one of its sources.
 
 *Related: C-9879, A-2648.1*
 
-**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call
+**N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call
 
 Node Type: Topic
 Investigation target: the New York Times report that Donald Trump called Charlie Kirk on July 12, 2025, the day after Tucker Carlson's Student Action Summit speech, and scolded him over the event becoming "an Epstein grievance fest." The host asks who prompted the call and places it on her pre-assassination timeline.
 
 *Related: C-9881, C-9882, C-9885, A-2648.1*
 
-**N-10970** Erika Kirk July 2025 Israel Stance Discrepancy
+**N-10891** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
 
 Node Type: Topic
 Investigation target: the contrast between Erika Kirk's pro-Israel July 14, 2025 Calvary Chapel speech and Tucker Carlson's account to the host, days later in Maine, that Erika had been "hardcore on the anti-Israel train" at dinner, and her later pro-Israel public positions.
@@ -652,7 +652,7 @@ Transcript Snippet: I know that Trump shut down the investigation into Butler. T
 
 Anchored Artifacts: A-2646.1
 Mentions: N-22, N-378, N-5, N-643
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Obtain the Carlson–Bongino text exchanges Carlson says he still has, and FBI records on the Butler case status after January 2025.
 
 ---
@@ -667,7 +667,7 @@ Transcript Snippet: accidentally came into possession of a lot of the social med
 
 Anchored Artifacts: A-2646.1
 Mentions: N-22, N-104, N-265
-Related Nodes: N-10014, N-10111
+Related Nodes: N-10014, N-10107
 Investigative Direction: Compare the posts Carlson holds against FBI public statements on Crooks's online history.
 
 ---
@@ -682,7 +682,7 @@ Transcript Snippet: he said, "Look, take it up with Trump. He's the one who shut
 
 Anchored Artifacts: A-2646.1
 Mentions: N-378, N-22, N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Obtain the December call and text records between Carlson and Bongino.
 
 ---
@@ -712,7 +712,7 @@ Transcript Snippet: He says that the president shut down the Butler investigatio
 
 Anchored Artifacts: A-2647.1
 Mentions: N-378, N-22, N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Obtain FBI case-status records and any White House communications on the Butler investigation.
 
 ---
@@ -742,7 +742,7 @@ Transcript Snippet: The case that's the crooks case he says was shut down curren
 
 Anchored Artifacts: A-2647.2
 Mentions: N-378, N-104, N-22
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Request the FBI's case status for the Butler shooting investigation and the definition of "pending inactive" in FBI case management.
 
 ---
@@ -757,7 +757,7 @@ Transcript Snippet: The president's a victim in a federal crime. And when he's r
 
 Anchored Artifacts: A-2647.3
 Mentions: N-378, N-22, N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Obtain the complete text thread between Carlson and Bongino.
 
 ---
@@ -772,7 +772,7 @@ Transcript Snippet: then there's more information that the president is aware ha
 
 Anchored Artifacts: A-2647.3
 Mentions: N-378, N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Identify withheld Butler investigation records through FOIA and congressional task force materials.
 
 ---
@@ -787,7 +787,7 @@ Transcript Snippet: If you almost get assassinated, uh, and you do not fire the 
 
 Anchored Artifacts: 
 Mentions: N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Check Secret Service personnel actions and disciplinary records after July 13, 2024.
 
 ---
@@ -802,7 +802,7 @@ Transcript Snippet: It actually had nothing to do with the person that it was bl
 
 Anchored Artifacts: 
 Mentions: N-5
-Related Nodes: N-10724
+Related Nodes: N-10659
 Investigative Direction: Review the full Butler forensic and investigative record for evidence of other participants.
 
 ---
@@ -831,7 +831,7 @@ Transcript Snippet: this is inside the White House freakout over the Epstein fil
 
 Anchored Artifacts: A-2648.1
 Mentions: N-378, N-5
-Related Nodes: N-10968, N-10324
+Related Nodes: N-10889, N-10303
 Investigative Direction: Retrieve the New York Times article and its sourcing description.
 
 ---
@@ -861,7 +861,7 @@ Transcript Snippet: Instructions went out to kill Charlie Kirk. That's just what
 
 Anchored Artifacts: 
 Mentions: N-22, N-1
-Related Nodes: N-10969
+Related Nodes: N-10890
 Investigative Direction: Establish communications among TPUSA donors and staff between July 11 and July 18, 2025.
 
 ---
@@ -876,7 +876,7 @@ Transcript Snippet: Well, it turns out Tucker spoke on July 11th. And on July 12
 
 Anchored Artifacts: A-2648.1
 Mentions: N-22, N-1, N-5
-Related Nodes: N-10969
+Related Nodes: N-10890
 Investigative Direction: Confirm the SAS speaking schedule and White House call logs for July 12, 2025.
 
 ---
@@ -891,7 +891,7 @@ Transcript Snippet: On July 12th, the president took to Truth Social to defend P
 
 Anchored Artifacts: A-2648.1
 Mentions: N-5, N-85, N-9
-Related Nodes: N-10968, N-10324
+Related Nodes: N-10889, N-10303
 Investigative Direction: Retrieve Trump's July 12, 2025 Truth Social post from the archive.
 
 ---
@@ -906,7 +906,7 @@ Transcript Snippet: Trump told aids that he was very unhappy with some of his mo
 
 Anchored Artifacts: A-2648.1
 Mentions: N-5, N-1, N-22, N-46
-Related Nodes: N-10968
+Related Nodes: N-10889
 Investigative Direction: Seek confirmation from the article's sources or White House aides present.
 
 ---
@@ -921,7 +921,7 @@ Transcript Snippet: Kirk had held a Turning Point USA event the previous day tha
 
 Anchored Artifacts: A-2648.1
 Mentions: N-1, N-5, N-85
-Related Nodes: N-10969, N-10000, N-10968
+Related Nodes: N-10890, N-10000, N-10889
 Investigative Direction: Obtain call records or testimony from Kirk's staff about the July 12, 2025 call.
 
 ---
@@ -993,7 +993,7 @@ Transcript Snippet: This July 14th date, Erika travels aboard a private flight t
 
 Anchored Artifacts: A-2649.1
 Mentions: N-2, N-597, N-190, N-418, N-674, N-665
-Related Nodes: N-10571
+Related Nodes: N-10522
 Investigative Direction: Obtain flight records for the July 14, 2025 Long Beach flight and the church event schedule.
 
 ---
@@ -1008,7 +1008,7 @@ Transcript Snippet: James Kaddis is that icky guy who is Egyptian and runs Turni
 
 Anchored Artifacts: 
 Mentions: N-665
-Related Nodes: N-10398, N-10264, N-10000
+Related Nodes: N-10371, N-10248, N-10000
 Investigative Direction: Check TPUSA Faith leadership listings and Calvary Chapel staff records.
 
 ---
@@ -1037,7 +1037,7 @@ Transcript Snippet: the record of Israel is that there is constant invasion and 
 
 Anchored Artifacts: A-2650.1
 Mentions: N-2, N-665
-Related Nodes: N-10970, N-10264
+Related Nodes: N-10891, N-10248
 Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary Chapel women's retreat.
 
 ---
@@ -1052,7 +1052,7 @@ Transcript Snippet: This is literally his Prageru video. I'm an Egyptian pastor 
 
 Anchored Artifacts: A-2650.2
 Mentions: N-665
-Related Nodes: N-10131
+Related Nodes: N-10126
 Investigative Direction: Locate the PragerU video and confirm the speaker's identity.
 
 ---
@@ -1067,7 +1067,7 @@ Transcript Snippet: Right after this on July 18th, uh that's when the request go
 
 Anchored Artifacts: A-2649.1
 Mentions: N-1
-Related Nodes: N-10675, N-10012, N-10863
+Related Nodes: N-10614, N-10012, N-10784
 Supports: C-2668
 Investigative Direction: Obtain the UVU event request record and submitter identity.
 
@@ -1097,7 +1097,7 @@ Transcript Snippet: why Rei comes in as the number one sponsor for Charlie Kirk'
 
 Anchored Artifacts: A-2649.1
 Mentions: N-1
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Obtain the Yrefy sponsorship contract and addendum dates.
 
 ---
@@ -1141,7 +1141,7 @@ Transcript Snippet: He said, "I just had dinner with him and Erika. They were ju
 
 Anchored Artifacts: 
 Mentions: N-22, N-1, N-2, N-3
-Related Nodes: N-10970
+Related Nodes: N-10891
 Investigative Direction: Ask Tucker Carlson to confirm the date of the dinner; check the Kirks' July 2025 travel.
 
 ---
@@ -1156,7 +1156,7 @@ Transcript Snippet: She is like hardcore on the anti-Israel train and that she h
 
 Anchored Artifacts: 
 Mentions: N-22, N-2, N-1
-Related Nodes: N-10970
+Related Nodes: N-10891
 Investigative Direction: Ask Tucker Carlson to confirm or deny the remark.
 
 ---
@@ -1171,7 +1171,7 @@ Transcript Snippet: as soon as Charlie passes away, she's up on stage with Bari 
 
 Anchored Artifacts: 
 Mentions: N-2, N-278
-Related Nodes: N-10970
+Related Nodes: N-10891
 Investigative Direction: Review the CBS / Bari Weiss town hall transcript for the remark.
 
 ---
@@ -1200,7 +1200,7 @@ Transcript Snippet: This is Charlie Summit that Charlie himself described as an 
 
 Anchored Artifacts: A-2649.1
 Mentions: N-1, N-2, N-37
-Related Nodes: N-10673
+Related Nodes: N-10129
 Supports: C-79
 Investigative Direction: Obtain attendee lists and Charlie Kirk's own descriptions of the Hamptons event.
 
@@ -1216,7 +1216,7 @@ Transcript Snippet: BB calls him, offers to take Turning Point to the next level
 
 Anchored Artifacts: A-2649.1
 Mentions: N-36, N-1, N-5
-Related Nodes: N-10342
+Related Nodes: N-10320
 Investigative Direction: Seek testimony from those aware of the Netanyahu call and any related offer documents.
 
 ---
@@ -1231,7 +1231,7 @@ Transcript Snippet: Then August 15th, Erika goes to the Aster at the Aspen inves
 
 Anchored Artifacts: A-2649.1
 Mentions: N-2, N-1
-Related Nodes: N-10594
+Related Nodes: N-10406
 Investigative Direction: Ask Aspen attendees whether Erika Kirk was in the room during the meeting.
 
 ---
@@ -1246,7 +1246,7 @@ Transcript Snippet: Within two days, Erika was back in the office walking around
 
 Anchored Artifacts: 
 Mentions: N-2, N-6
-Related Nodes: N-10505
+Related Nodes: N-10466
 Investigative Direction: Seek TPUSA staff accounts and building access records for September 12, 2025.
 
 ---
@@ -1305,7 +1305,7 @@ Transcript Snippet: We have not seen any evidence to the contrary despite openly
 
 Anchored Artifacts: 
 Mentions: N-266, N-361, N-3
-Related Nodes: N-10373, N-10651, N-10367
+Related Nodes: N-10347, N-10593, N-10342
 Investigative Direction: Obtain Harpole's travel and location records for September 8–9, 2025 through the lawsuit's discovery.
 
 ---
@@ -1320,7 +1320,7 @@ Transcript Snippet: And then he flew from Tucson to Fort Huachuca on a most cruc
 
 Anchored Artifacts: A-2652.1
 Mentions: N-433
-Related Nodes: N-10671, N-10384
+Related Nodes: N-10611, N-10357
 Investigative Direction: Obtain the SAM702 manifest for the Tucson-to-Fort Huachuca leg.
 
 ---
@@ -1335,7 +1335,7 @@ Transcript Snippet: That same plane then flies from Fort Huachuca to El Paso and
 
 Anchored Artifacts: A-2652.1
 Mentions: N-433
-Related Nodes: N-10671
+Related Nodes: N-10611
 Investigative Direction: Pull ADS-B data for SAM702 on September 9, 2025.
 
 ---
@@ -1350,7 +1350,7 @@ Transcript Snippet: Bradley Hansell remained on the ground the longest there for
 
 Anchored Artifacts: A-2652.1
 Mentions: N-433
-Related Nodes: N-10671
+Related Nodes: N-10611
 Investigative Direction: Obtain Fort Huachuca visitor and lodging records for Hansell on September 8–9, 2025.
 
 ---
@@ -1365,7 +1365,7 @@ Transcript Snippet: September 8th is significant because it's the day that Mitch
 
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-433
-Related Nodes: N-10417, N-10367
+Related Nodes: N-10390, N-10342
 Investigative Direction: Obtain Fort Huachuca lodging registers for September 7–9, 2025.
 
 ---
@@ -1380,7 +1380,7 @@ Transcript Snippet: So, he decided to file an FOIA request for his travel logs.
 
 Anchored Artifacts: A-2653.1
 Mentions: N-433, N-3
-Related Nodes: N-10700, N-10671
+Related Nodes: N-10637, N-10611
 Investigative Direction: Track the FOIA request number and status.
 
 ---
@@ -1395,7 +1395,7 @@ Transcript Snippet: we will not be able to respond within the FOIA's 20-day stat
 
 Anchored Artifacts: A-2653.1
 Mentions: 
-Related Nodes: N-10700, N-10671
+Related Nodes: N-10637, N-10611
 Investigative Direction: Ask the FOIA office which agencies are being consulted, and appeal the delay.
 
 ---
@@ -1410,7 +1410,7 @@ Transcript Snippet: He works for the Department of War and it was the flight was
 
 Anchored Artifacts: A-2653.1
 Mentions: N-433
-Related Nodes: N-10888
+Related Nodes: N-10809
 Investigative Direction: Obtain the SAM702 mission request and booking office from the Air Force's 89th Airlift Wing.
 
 ---
@@ -1424,7 +1424,7 @@ Claim: According to the FOIA response, the request was placed in the complex pro
 Transcript Snippet: Our current administrative workload is approximately 3,534 open requests.
 
 Anchored Artifacts: A-2653.1
-Related Nodes: N-10700
+Related Nodes: N-10637
 Investigative Direction: Check the agency's annual FOIA report for its complex-queue backlog.
 
 ---
@@ -1453,7 +1453,7 @@ Transcript Snippet: This is like the end of her speech when she got heckled and 
 
 Anchored Artifacts: A-2655.1
 Mentions: N-2
-Related Nodes: N-10505
+Related Nodes: N-10466
 Investigative Direction: Obtain unedited footage of the Women's Leadership Summit session.
 
 ---
@@ -1468,7 +1468,7 @@ Transcript Snippet: Well, there was no question they were going to, you know, pu
 
 Anchored Artifacts: A-2656.1
 Mentions: N-22, N-46
-Related Nodes: N-10268, N-10000
+Related Nodes: N-10252, N-10000
 Investigative Direction: Compare TPUSA 2025 and 2026 speaker lists and Carlson's statement on not being invited.
 
 ---

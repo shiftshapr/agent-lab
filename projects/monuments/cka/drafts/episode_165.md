@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq165
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-961, N-962, N-963, N-964, N-11426, N-11427, N-11428, N-11429, N-11430, N-11431, N-11432, N-11433
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-8, N-9, N-12, N-14, N-41, N-47, N-82, N-85, N-97, N-146, N-159, N-266, N-277, N-520, N-529, N-955, N-957, N-960, N-10000, N-10012, N-10026, N-10048, N-10075, N-10148, N-10290, N-10324, N-10415, N-10456, N-10532, N-10533, N-10832, N-10839, N-10969, N-11026
+  - Tip-minted Nodes (catchup-2026-10-19): N-961, N-962, N-963, N-964, N-11342, N-11343, N-11344, N-11345, N-11346, N-11347
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-8, N-9, N-12, N-14, N-41, N-47, N-82, N-85, N-97, N-146, N-159, N-266, N-277, N-520, N-529, N-955, N-957, N-960, N-10000, N-10012, N-10026, N-10045, N-10072, N-10143, N-10272, N-10303, N-10388, N-10425, N-10478, N-10488, N-10755, N-10762, N-10890, N-10945
   - Claim Range: C-14229–C-14305
   - (see registers)
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:05:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14241, N-41, N-11427*
+*Related: C-14241, N-41, N-11342*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:06:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14244, C-14245, N-41, N-957, N-11428*
+*Related: C-14244, C-14245, N-41, N-957, N-11343*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:10:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14249, C-14250, C-14251, N-961, N-11429*
+*Related: C-14249, C-14250, C-14251, N-961, N-11344*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:13:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14257, C-14258, C-14259, C-14260, N-961, N-962, N-11429, N-11430*
+*Related: C-14257, C-14258, C-14259, C-14260, N-961, N-962, N-11344, N-11345*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:28:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14284, C-14285, N-960, N-5, N-11431*
+*Related: C-14284, C-14285, N-960, N-5, N-11340*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:33:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14288, N-963, N-11432*
+*Related: C-14288, N-963, N-11346*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14290, C-14291, N-963, N-11432*
+*Related: C-14290, C-14291, N-963, N-11346*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:40:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14296, C-14297, N-964, N-97, N-11433*
+*Related: C-14296, C-14297, N-964, N-97, N-11347*
 
 ---
 
@@ -442,7 +442,7 @@ Host says Charlie had changed his mind on Israel; Rothschild creation claim.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Host disputes the 150-yard shot narrative.
 
@@ -450,7 +450,7 @@ Host disputes the 150-yard shot narrative.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Site of Kolvet's alleged meeting, Cox's call and the press secretary segment.
 
@@ -458,7 +458,7 @@ Site of Kolvet's alleged meeting, Cox's call and the press secretary segment.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Host repeats that Charlie had changed his mind on Israel.
 
@@ -466,7 +466,7 @@ Host repeats that Charlie had changed his mind on Israel.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Viewer comment refers to Charlie declining BB's offer.
 
@@ -474,7 +474,7 @@ Viewer comment refers to Charlie declining BB's offer.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Host repeats that the Legion was on the ground on September 10 and that the White House never disputed it.
 
@@ -482,7 +482,7 @@ Host repeats that the Legion was on the ground on September 10 and that the Whit
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Host repeats the partial release, Bondi's remark and the administration's refusal to release in full.
 
@@ -490,7 +490,7 @@ Host repeats the partial release, Bondi's remark and the administration's refusa
 
 ---
 
-**N-10415** Charlie Kirk Premonition Pattern
+**N-10388** Charlie Kirk Premonition Pattern
 
 Host says Charlie knew death was coming and that it would spark an awakening.
 
@@ -498,7 +498,7 @@ Host says Charlie knew death was coming and that it would spark an awakening.
 
 ---
 
-**N-10532** Next Model Management / Erika Kirk Connection
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Host repeats the unanswered modeling-office and modeling-apartment allegations.
 
@@ -506,7 +506,7 @@ Host repeats the unanswered modeling-office and modeling-apartment allegations.
 
 ---
 
-**N-10533** Club America High School Pushback
+**N-10488** Club America High School Pushback
 
 Host says Club America is administratively forced on students.
 
@@ -514,7 +514,7 @@ Host says Club America is administratively forced on students.
 
 ---
 
-**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Host frames the Peterson charges as part of a recurring trafficking and child-abuse theme around the story.
 
@@ -522,7 +522,7 @@ Host frames the Peterson charges as part of a recurring trafficking and child-ab
 
 ---
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 Source the host cites for Val Peterson's duties and his distance from campus, and for Maycee Crofts's amphitheater request.
 
@@ -530,7 +530,7 @@ Source the host cites for Val Peterson's duties and his distance from campus, an
 
 ---
 
-**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call
+**N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call
 
 Host repeats that Trump reprimanded Charlie in July over the Epstein files.
 
@@ -538,7 +538,7 @@ Host repeats that Trump reprimanded Charlie in July over the Epstein files.
 
 ---
 
-**N-11026** Shapiro Legal Actions Against Candace Owens
+**N-10945** Shapiro Legal Actions Against Candace Owens
 
 Host's claimed personal experience behind her remarks on Shapiro and contracts.
 
@@ -546,7 +546,7 @@ Host's claimed personal experience behind her remarks on Shapiro and contracts.
 
 ---
 
-**N-11426** Val Peterson September 10 Whereabouts
+**N-11338** Val Peterson September 10 Whereabouts
 
 Node Type: Topic
 Where UVU vice president Val Peterson was on September 10, 2025. The UVU independent review places him 45 minutes away; the host's sources say he was allegedly golfing in Heber, Utah, possibly in a tournament, and allegedly with Governor Cox (unverified by the host).
@@ -555,7 +555,7 @@ Where UVU vice president Val Peterson was on September 10, 2025. The UVU indepen
 
 ---
 
-**N-11427** Governor Cox Published Schedule September 9–10 Gap
+**N-11342** Governor Cox September 9–10, 2025 Schedule
 
 Node Type: Topic
 The governor's public schedule for the week of September 8, 2025 lists no commitments on September 9 or 10, and the host says Cox has never said where he was when he learned of Charlie's death.
@@ -564,7 +564,7 @@ The governor's public schedule for the week of September 8, 2025 lists no commit
 
 ---
 
-**N-11428** Cox–Clancy September 2 Governor's Mansion Meeting
+**N-11343** Cox–Clancy September 2 Governor's Mansion Meeting
 
 Node Type: Topic
 A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative Tyler Clancy at the governor's mansion, per the governor's published schedule.
@@ -573,7 +573,7 @@ A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative T
 
 ---
 
-**N-11429** Charles Peterson Child Enticement Charges
+**N-11344** Charles Peterson Child Enticement Charges
 
 Node Type: Topic
 2026 arrest and charges in Utah (enticing a minor, aggravated sexual exploitation, distributing harmful material) and Meridian, Idaho (four counts of enticing a child) against a man the host identifies as Val Peterson's brother.
@@ -582,7 +582,7 @@ Node Type: Topic
 
 ---
 
-**N-11430** Idaho Attorney General Internet Crimes Against Children Unit
+**N-11345** Idaho Attorney General Internet Crimes Against Children Unit
 
 Node Type: Organization
 Unit of the Idaho Attorney General's office that, per the article the host shows, arrested Charles Peterson after a request from the Lehi Police Department.
@@ -591,7 +591,7 @@ Unit of the Idaho Attorney General's office that, per the article the host shows
 
 ---
 
-**N-11431** Katie Zacharia Bar Exam Question
+**N-11340** Katie Zacharia Lawyer Credential Question
 
 Node Type: Topic
 Whether and where the new White House press secretary passed a bar exam; the host alleges she did not.
@@ -600,7 +600,7 @@ Whether and where the new White House press secretary passed a bar exam; the hos
 
 ---
 
-**N-11432** Kelly Clarkson Art of Play Incident
+**N-11346** Kelly Clarkson Art of Play Incident
 
 Node Type: Topic
 Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the automated bird "Molly" was not for sale, and her subsequent post alleging she was judged.
@@ -609,7 +609,7 @@ Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the
 
 ---
 
-**N-11433** Danny Trejo Pawn Shop Contract Dispute
+**N-11347** Danny Trejo Pawn Shop Contract Dispute
 
 Node Type: Topic
 Reports that Danny Trejo was cast in the film Pawn Shop without knowing of Ben Shapiro's involvement and is contractually bound to it.
@@ -706,7 +706,7 @@ Transcript Snippet: He had a lot of duties. He oversaw uh, EMS services at the U
 
 Anchored Artifacts:
 Mentions: N-955
-Related Nodes: N-10012, N-10839
+Related Nodes: N-10012, N-10762
 Tags: relevance:core
 Investigative Direction: UVU organizational chart and the independent review's description of Peterson's portfolio.
 
@@ -722,7 +722,7 @@ Transcript Snippet: And the report tells us that no, actually he was 45 minutes 
 
 Anchored Artifacts:
 Mentions: N-955
-Related Nodes: N-10839, N-11426
+Related Nodes: N-10762, N-11338
 Tags: relevance:core
 Investigative Direction: The UVU independent review text on Peterson's location.
 
@@ -754,7 +754,7 @@ Transcript Snippet: We confirmed from multiple sources with direct knowledge tha
 
 Anchored Artifacts: A-3397.1
 Mentions: N-955
-Related Nodes: N-11426
+Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Tee-time and tournament records at Heber-area golf clubs for September 10, 2025.
 
@@ -770,7 +770,7 @@ Transcript Snippet: And one person claimed that he was actually taking part in a
 
 Anchored Artifacts:
 Mentions: N-955
-Related Nodes: N-11426
+Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Heber-area golf tournament entry lists for September 10, 2025.
 
@@ -786,7 +786,7 @@ Transcript Snippet: we have not yet been able to independently verify, but we ar
 
 Anchored Artifacts:
 Mentions: N-955, N-41
-Related Nodes: N-11426
+Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: Governor's security detail logs and golf club records for September 10, 2025.
 
@@ -802,7 +802,7 @@ Transcript Snippet: because the governor publishes his schedule, um, onto the we
 
 Anchored Artifacts:
 Mentions: N-41
-Related Nodes: N-11427
+Related Nodes: N-11342
 Tags: relevance:context
 Investigative Direction: Archived pages of the Utah governor's public schedule.
 
@@ -818,7 +818,7 @@ Transcript Snippet: the governor's official schedule did not list any commitment
 
 Anchored Artifacts: A-3392.1
 Mentions: N-41
-Related Nodes: N-11427
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: The governor's office schedule records for September 9–10, 2025, via a GRAMA request.
 
@@ -834,7 +834,7 @@ Transcript Snippet: Governor Cox has never stated where he was when he learned o
 
 Anchored Artifacts:
 Mentions: N-41, N-1
-Related Nodes: N-11427
+Related Nodes: N-11342
 Tags: relevance:core
 Investigative Direction: Cox's interviews and press conferences after September 10, 2025.
 
@@ -850,7 +850,7 @@ Transcript Snippet: But he's never said where he was when he got that notificati
 
 Anchored Artifacts: A-3397.2
 Mentions: N-41, N-3
-Related Nodes: N-11427, N-10075
+Related Nodes: N-11342, N-10072
 Tags: relevance:core
 Investigative Direction: Cox's public remarks on receiving the news; viewer submissions.
 
@@ -866,7 +866,7 @@ Transcript Snippet: we did discover that Governor Cox had a meeting on September
 
 Anchored Artifacts: A-3392.2
 Mentions: N-41, N-957
-Related Nodes: N-11428
+Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: The governor's published schedule for September 2, 2025.
 
@@ -882,7 +882,7 @@ Transcript Snippet: Um you can see that at 5:00 p.m. he had a meeting with Repre
 
 Anchored Artifacts: A-3392.2
 Mentions: N-41, N-957
-Related Nodes: N-11428
+Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Governor's mansion visitor log for September 2, 2025.
 
@@ -913,7 +913,7 @@ Transcript Snippet: We learned uh that he has a brother named Charles Peterson. 
 
 Anchored Artifacts:
 Mentions: N-955, N-961
-Related Nodes: N-11429, N-10832
+Related Nodes: N-11344, N-10755
 Tags: relevance:context
 Investigative Direction: Utah and Idaho court dockets; records establishing the family relationship.
 
@@ -929,7 +929,7 @@ Transcript Snippet: Twice actually in two different states. First on February 3r
 
 Anchored Artifacts:
 Mentions: N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: Arrest and booking records for February 3, 2026.
 
@@ -945,7 +945,7 @@ Transcript Snippet: Charges were as follows. First-degree charge for enticing a 
 
 Anchored Artifacts: A-3393.1
 Mentions: N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: Utah charging documents (Utah Code 76-4-401).
 
@@ -961,7 +961,7 @@ Transcript Snippet: He uh also uh the charge that he was charged with aggravated
 
 Anchored Artifacts: A-3393.1
 Mentions: N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: Utah charging documents.
 
@@ -977,7 +977,7 @@ Transcript Snippet: Um it also includes distributing material harmful to a minor
 
 Anchored Artifacts: A-3393.1
 Mentions: N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: Utah charging documents.
 
@@ -1008,7 +1008,7 @@ Transcript Snippet: Utah, back to the Petersons, collaborated with Idaho and he 
 
 Anchored Artifacts:
 Mentions: N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: Ada County, Idaho court records.
 
@@ -1024,7 +1024,7 @@ Transcript Snippet: according to the UVU Review, insisted on having the event uh
 
 Anchored Artifacts:
 Mentions: N-8
-Related Nodes: N-10839
+Related Nodes: N-10762
 Supports: C-3451
 Tags: relevance:core
 Investigative Direction: The UVU independent review's account of the venue call.
@@ -1072,7 +1072,7 @@ Transcript Snippet: Val's brother Charles was additionally charged in Meridian w
 
 Anchored Artifacts: A-3393.2
 Mentions: N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: Idaho Attorney General press release archive.
 
@@ -1088,7 +1088,7 @@ Transcript Snippet: Attorney General Raul Labrador has announced that a Meridian
 
 Anchored Artifacts: A-3393.2
 Mentions: N-962, N-961
-Related Nodes: N-11429
+Related Nodes: N-11344
 Tags: relevance:context
 Investigative Direction: The Idaho AG release and the Ada County charging document.
 
@@ -1104,7 +1104,7 @@ Transcript Snippet: Investigators with the Attorney General's Internet Crimes Ag
 
 Anchored Artifacts: A-3393.2
 Mentions: N-961
-Related Nodes: N-11429, N-11430
+Related Nodes: N-11344, N-11345
 Tags: relevance:context
 Investigative Direction: Lehi Police Department case records and the Utah charging documents.
 
@@ -1120,7 +1120,7 @@ Transcript Snippet: The charges listed above are merely accusations, and the def
 
 Anchored Artifacts: A-3393.2
 Mentions: N-961
-Related Nodes: N-11429, N-10832
+Related Nodes: N-11344, N-10755
 Tags: relevance:context
 Investigative Direction: Case disposition records in Utah and Idaho.
 
@@ -1136,7 +1136,7 @@ Transcript Snippet: Why did President Donald Trump call Charlie Kirk in July and
 
 Anchored Artifacts:
 Mentions: N-5, N-1
-Related Nodes: N-10969, N-10324
+Related Nodes: N-10890, N-10303
 Supports: C-9885
 Tags: relevance:core
 Investigative Direction: The New York Times reporting on the July 12, 2025 call; call participants.
@@ -1153,7 +1153,7 @@ Transcript Snippet: Why did the Epstein files require so many top-level meetings
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10324, N-10075
+Related Nodes: N-10303, N-10072
 Tags: relevance:context
 Investigative Direction: White House meeting logs and reporting on Situation Room meetings on the Epstein files.
 
@@ -1169,7 +1169,7 @@ Transcript Snippet: why can't we get a clear answer from Charlie's wife, Erika, 
 
 Anchored Artifacts:
 Mentions: N-2, N-9
-Related Nodes: N-10532
+Related Nodes: N-10478
 Supports: C-10768
 Tags: relevance:core
 Investigative Direction: Erika Kirk or TPUSA statement; Next Model Management staff.
@@ -1186,7 +1186,7 @@ Transcript Snippet: a modeling agency that was started by the French pervert, Je
 
 Anchored Artifacts:
 Mentions: N-529, N-9
-Related Nodes: N-10532
+Related Nodes: N-10478
 Tags: relevance:context
 Investigative Direction: Corporate history of Next Model Management and Brunel's agencies.
 
@@ -1202,7 +1202,7 @@ Transcript Snippet: It would be very easy for her to deny that she was in charge
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10532
+Related Nodes: N-10478
 Supports: C-10439
 Tags: relevance:core
 Investigative Direction: Lease records for model housing; former Next Model staff.
@@ -1219,7 +1219,7 @@ Transcript Snippet: Club America, which is being administratively forced upon st
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10000, N-10533
+Related Nodes: N-10000, N-10488
 Tags: relevance:core
 Investigative Direction: School district records of TPUSA assemblies and Club America enrollment.
 
@@ -1235,7 +1235,7 @@ Transcript Snippet: We demonstrated that to you via his last company pitch, if y
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10533
+Related Nodes: N-10488
 Tags: relevance:core
 Investigative Direction: The Aspen donor event recording and attendee accounts.
 
@@ -1251,7 +1251,7 @@ Transcript Snippet: He wanted it to be like a debate club where kids signed up a
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10533
+Related Nodes: N-10488
 Tags: relevance:core
 Investigative Direction: The Aspen pitch audio.
 
@@ -1267,7 +1267,7 @@ Transcript Snippet: Why was Andrew Kolvet allegedly at the White House meeting w
 
 Anchored Artifacts:
 Mentions: N-14
-Related Nodes: N-10324, N-10075
+Related Nodes: N-10303, N-10072
 Supports: C-10108
 Tags: relevance:core
 Investigative Direction: White House visitor logs and EEOB access records for that date.
@@ -1284,7 +1284,7 @@ Transcript Snippet: Millions upon millions of files we're never going to get to 
 
 Anchored Artifacts:
 Mentions: N-85
-Related Nodes: N-10324
+Related Nodes: N-10303
 Supports: C-13878
 Tags: relevance:context
 Investigative Direction: Transcript or recording of Bondi's remark.
@@ -1301,7 +1301,7 @@ Transcript Snippet: Two people in the White House emailed me and told me. We did
 
 Anchored Artifacts:
 Mentions: N-3, N-14
-Related Nodes: N-10075
+Related Nodes: N-10072
 Tags: relevance:core
 Investigative Direction: The host's tweet and its timestamp; White House visitor logs.
 
@@ -1317,7 +1317,7 @@ Transcript Snippet: He was changing his mind. He had changed his mind regarding 
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10148, N-10026
+Related Nodes: N-10143, N-10026
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's private messages and statements from summer 2025.
 
@@ -1333,7 +1333,7 @@ Transcript Snippet: um the French Foreign Legion's presence, they were there on 
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10290, N-10075
+Related Nodes: N-10272, N-10072
 Supports: C-10501
 Tags: relevance:core
 Investigative Direction: White House or DoD statements; foreign military training records for September 2025.
@@ -1396,7 +1396,7 @@ Transcript Snippet: I was going on about Brigitte and Epstein and working on an 
 
 Anchored Artifacts:
 Mentions: N-3, N-1, N-82
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Episode archives of The Charlie Kirk Show and Candace from summer 2025.
 
@@ -1428,7 +1428,7 @@ Transcript Snippet: But I will say on a positive note that Charlie knew that dea
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10415
+Related Nodes: N-10388
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's recorded statements and messages anticipating his death.
 
@@ -1459,7 +1459,7 @@ Transcript Snippet: this this Katie Zacharia character, who is the new press sec
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-10075
+Related Nodes: N-10072
 Tags: relevance:context
 Investigative Direction: White House announcement of the appointment.
 
@@ -1475,7 +1475,7 @@ Transcript Snippet: And it's a bit weird that you pretended that you passed the 
 
 Anchored Artifacts:
 Mentions: N-960, N-2
-Related Nodes: N-11431
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: State bar admission records; Pepperdine registrar.
 
@@ -1491,7 +1491,7 @@ Transcript Snippet: But Pepperdine confirmed that she went to the school, that's
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11431
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Pepperdine's public confirmation.
 
@@ -1507,7 +1507,7 @@ Transcript Snippet: >> did you pass the bar exam? >> When I moved to China. That
 
 Anchored Artifacts: A-3394.1
 Mentions: N-960
-Related Nodes: N-11431
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: Full press-pool footage of the exchange.
 
@@ -1523,7 +1523,7 @@ Transcript Snippet: Obviously, she's not going to answer the question because sh
 
 Anchored Artifacts: A-3394.1
 Mentions: N-960, N-5
-Related Nodes: N-11431
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: California and other state bar records.
 
@@ -1554,7 +1554,7 @@ Transcript Snippet: She's crashing out because she went to a store in Brooklyn c
 
 Anchored Artifacts:
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: Store statements and Clarkson's post.
 
@@ -1570,7 +1570,7 @@ Transcript Snippet: Can we show this automated bird that she wanted to buy and s
 
 Anchored Artifacts: A-3395.1
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: The store's released video.
 
@@ -1586,7 +1586,7 @@ Transcript Snippet: told her that it wasn't for sale because it wasn't. It's It'
 
 Anchored Artifacts:
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: The store's released video and statements.
 
@@ -1602,7 +1602,7 @@ Transcript Snippet: Just drove all the way to Brooklyn to check out this store I
 
 Anchored Artifacts: A-3395.2
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: Clarkson's original post.
 
@@ -1618,7 +1618,7 @@ Transcript Snippet: She tweeted this 15 minutes after she left the store. She's 
 
 Anchored Artifacts: A-3395.2
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: Post timestamp versus store video timestamps.
 
@@ -1634,7 +1634,7 @@ Transcript Snippet: But she's trying to pretend she was discriminated against an
 
 Anchored Artifacts:
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: The released store footage.
 
@@ -1650,7 +1650,7 @@ Transcript Snippet: Now the owner's coming out saying that they're getting death
 
 Anchored Artifacts:
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: Owner's public statements.
 
@@ -1666,7 +1666,7 @@ Transcript Snippet: They kind of tricked him into allegedly, his son is claiming
 
 Anchored Artifacts:
 Mentions: N-964, N-97
-Related Nodes: N-11433
+Related Nodes: N-11347
 Tags: relevance:context
 Investigative Direction: The Variety article.
 
@@ -1682,7 +1682,7 @@ Transcript Snippet: And it's a pro-ICE project, which goes against his roots, hi
 
 Anchored Artifacts:
 Mentions: N-964, N-97
-Related Nodes: N-11433
+Related Nodes: N-11347
 Tags: relevance:context
 Investigative Direction: Pawn Shop production credits and press materials.
 
@@ -1698,7 +1698,7 @@ Transcript Snippet: About 2 weeks into shooting, everyone including us found out
 
 Anchored Artifacts: A-3396.1
 Mentions: N-964, N-97
-Related Nodes: N-11433
+Related Nodes: N-11347
 Tags: relevance:context
 Investigative Direction: The son's original post; production timeline.
 
@@ -1714,7 +1714,7 @@ Transcript Snippet: My dad contractually cannot badmouth him, the film, or walk 
 
 Anchored Artifacts: A-3396.1
 Mentions: N-964, N-97
-Related Nodes: N-11433
+Related Nodes: N-11347
 Tags: relevance:context
 Investigative Direction: Trejo's contract terms.
 
@@ -1730,7 +1730,7 @@ Transcript Snippet: He won't just sue you breach contract. He will follow you ac
 
 Anchored Artifacts:
 Mentions: N-97, N-3
-Related Nodes: N-11026
+Related Nodes: N-10945
 Tags: relevance:context
 Investigative Direction: Court filings in Shapiro- or Daily Wire-related litigation involving the host.
 
@@ -1746,7 +1746,7 @@ Transcript Snippet: Like I mean, then he will encourage others to sue you with t
 
 Anchored Artifacts:
 Mentions: N-97
-Related Nodes: N-11026
+Related Nodes: N-10945
 Tags: relevance:context
 Investigative Direction: Litigation funding disclosures in suits against the host.
 
@@ -1777,7 +1777,7 @@ Transcript Snippet: what Charlie Kirk's world would have been had he accepted BB
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10456, N-10000
+Related Nodes: N-10425, N-10000
 Tags: relevance:context
 Investigative Direction: Accounts of any Netanyahu offer to Charlie Kirk.
 
@@ -1793,7 +1793,7 @@ Transcript Snippet: Do you think he had a steel neck and this amazing thing happ
 
 Anchored Artifacts:
 Mentions: N-1, N-3
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Autopsy report and ballistic analysis.
 
@@ -1809,7 +1809,7 @@ Transcript Snippet: And now the the owner is trolling her and he says the word M
 
 Anchored Artifacts:
 Mentions: N-963
-Related Nodes: N-11432
+Related Nodes: N-11346
 Tags: relevance:tangential
 Investigative Direction: Owner's social media posts.
 
@@ -1825,7 +1825,7 @@ Transcript Snippet: She and her eighth-grade classmates will be traveling to DC 
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10075
+Related Nodes: N-10072
 Tags: relevance:tangential
 Investigative Direction: Show merch listings.
 

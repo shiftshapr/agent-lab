@@ -84,7 +84,7 @@
           ],
           "related_nodes": [
             "N-249",
-            "N-10247"
+            "N-10233"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
           ],
           "related_nodes": [
             "N-249",
-            "N-10247"
+            "N-10233"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
           "description": "Top Comment #1 (Yesterday): \"Terra Observer\" – Question on Jewish Donor Funding of Christian Organizations; Names \"Bob Shillman\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10246"
+            "N-10232"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -433,7 +433,7 @@
             "C-2801"
           ],
           "related_nodes": [
-            "N-10247"
+            "N-10233"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -509,7 +509,7 @@
             "C-2764"
           ],
           "related_nodes": [
-            "N-10246",
+            "N-10232",
             "N-3"
           ],
           "tags": [],
@@ -535,7 +535,7 @@
             "C-2769"
           ],
           "related_nodes": [
-            "N-10247",
+            "N-10233",
             "N-3"
           ],
           "tags": [],
@@ -677,7 +677,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ]
     },
     {
@@ -699,13 +699,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North Country Chapel Post Falls (Anthony Iglesias, Robert Davis), Virginia (Doug DeAndrea), Fort Lauderdale (2019), North Thurston Oregon (Jeffrey Zizz).",
@@ -726,8 +726,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10247",
-      "ref": "N-10247",
+      "@id": "N-10233",
+      "ref": "N-10233",
       "name": "Potter's Field Ministries Financial Fraud Allegations",
       "type": "investigation_target",
       "description": "2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.",
@@ -1344,8 +1344,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
       "type": "topic",
       "description": "Existing topic reused for the host's pavers remark.",
@@ -1361,8 +1361,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "topic",
       "description": "Existing topic reused for the host's Calvary Chapel remark.",
@@ -1378,8 +1378,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10166",
-      "ref": "N-10166",
+      "@id": "N-10159",
+      "ref": "N-10159",
       "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
       "type": "topic",
       "description": "Existing topic reused for the McCoy lies claim.",
@@ -1395,8 +1395,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
       "type": "topic",
       "description": "Existing topic reused for the call log claim.",
@@ -1412,8 +1412,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "topic",
       "description": "Existing topic reused for the infiltration claim.",
@@ -1429,8 +1429,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10245",
-      "ref": "N-10245",
+      "@id": "N-10231",
+      "ref": "N-10231",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
       "type": "topic",
       "description": "Existing topic reused for the Wilkins and Schaefer claims.",
@@ -1447,8 +1447,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10251",
-      "ref": "N-10251",
+      "@id": "N-10237",
+      "ref": "N-10237",
       "name": "TPUSA Faith-Angle Investigation",
       "type": "topic",
       "description": "Existing topic reused for the TPUSA Faith pivot claim.",
@@ -1464,8 +1464,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10252",
-      "ref": "N-10252",
+      "@id": "N-10238",
+      "ref": "N-10238",
       "name": "Potter's Field Hostile Takeover Allegation",
       "type": "topic",
       "description": "Existing topic reused for the McCoy CFO claim.",
@@ -1481,8 +1481,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "topic",
       "description": "Existing topic reused for the Egyptian planes announcement.",
@@ -1498,8 +1498,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
       "type": "topic",
       "description": "Existing topic reused for the Calvary Chapel founding remark.",
@@ -1515,8 +1515,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "topic",
       "description": "Existing topic reused for the donor demand claim.",
@@ -1532,8 +1532,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "topic",
       "description": "Existing topic reused for the Macron lawsuit claims.",
@@ -1550,8 +1550,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "topic",
       "description": "Existing topic reused for the Epstein emails claim.",
@@ -1568,8 +1568,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "topic",
       "description": "Existing topic reused for the TPUSA Faith claims.",
@@ -1586,8 +1586,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "topic",
       "description": "Existing topic reused for the Kelly claim.",
@@ -1603,8 +1603,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "topic",
       "description": "Existing topic reused for the DOGE committee claim.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10465",
-      "ref": "N-10465",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
       "type": "topic",
       "description": "Existing topic reused for the Chuck Smith claim.",
@@ -1637,8 +1637,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10817",
-      "ref": "N-10817",
+      "@id": "N-10740",
+      "ref": "N-10740",
       "name": "Butch Hibbs UVU Recording Behavior",
       "type": "topic",
       "description": "Existing topic reused for the Butch Hibbs claim.",
@@ -1654,8 +1654,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10818",
-      "ref": "N-10818",
+      "@id": "N-10741",
+      "ref": "N-10741",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
       "type": "topic",
       "description": "Existing topic reused for the Jack Hibbs claim.",
@@ -1671,8 +1671,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10916",
-      "ref": "N-10916",
+      "@id": "N-10837",
+      "ref": "N-10837",
       "name": "Thomas Massie Kentucky Primary Outside Spending",
       "type": "topic",
       "description": "Existing topic reused for the Adelson and Massie claim.",
@@ -1688,8 +1688,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10989",
-      "ref": "N-10989",
+      "@id": "N-10909",
+      "ref": "N-10909",
       "name": "Soter Global Ministries",
       "type": "organization",
       "description": "Existing organization reused for the orphanage remark.",
@@ -1842,8 +1842,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11106",
-      "ref": "N-11106",
+      "@id": "N-11024",
+      "ref": "N-11024",
       "name": "Camino Conviction Narrative Dispute",
       "type": "topic",
       "description": "Dispute between Thomas Camino's podcast account of a false conviction and the 1995 LA Times report, the host's account of a 1990 probation and the victim's email.",
@@ -1930,7 +1930,7 @@
         "A-1392.1"
       ],
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ],
       "tags": [],
       "claim_timestamp": "00:08:10",
@@ -1967,7 +1967,7 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:11:36",
@@ -2004,7 +2004,7 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
@@ -2042,7 +2042,7 @@
         "A-1396.1"
       ],
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ],
       "tags": [],
       "claim_timestamp": "00:46:40",
@@ -2098,7 +2098,7 @@
         "A-1398.11"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:59:30",
@@ -2260,8 +2260,8 @@
       "claim": "The host says the case would not be put at risk if Mikey McCoy shared his call logs, or if friends answered questions about why Charlie Kirk wanted to put together the DOGE committee.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10434"
+        "N-10185",
+        "N-10404"
       ],
       "tags": [
         "relevance:core"
@@ -2348,7 +2348,7 @@
         "A-2825.1"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2371,7 +2371,7 @@
         "A-1393.1"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2396,7 +2396,7 @@
         "A-1393.1"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2419,7 +2419,7 @@
       "claim": "The host says Rob McCoy placed Camino in the home fellowship program, which put him inside children's homes, and that he almost got away with it until mothers went online in 2022, remembered what had happened and objected.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2465,7 +2465,7 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2491,7 +2491,7 @@
         "A-1394.2"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2513,7 +2513,7 @@
         "A-1394.2"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2535,7 +2535,7 @@
         "A-1394.2"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2557,7 +2557,7 @@
         "A-1394.2"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2582,7 +2582,7 @@
         "A-1394.2"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-11024"
       ],
       "tags": [
         "relevance:context"
@@ -2604,7 +2604,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2626,7 +2626,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2650,7 +2650,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2672,7 +2672,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2694,7 +2694,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2716,7 +2716,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2739,7 +2739,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2763,8 +2763,8 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246",
-        "N-10989"
+        "N-10232",
+        "N-10909"
       ],
       "tags": [
         "relevance:context"
@@ -2786,7 +2786,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2809,7 +2809,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2831,7 +2831,7 @@
         "A-2826.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -2891,7 +2891,7 @@
       "claim": "The host says Potter's Field is an area in Whitefish, Montana where the Calvary Church Association funded a ministry that became Potter's Field Ministries, with a hunting ground, a camp for kids, a student program called Ignite and a burger chain.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ],
       "tags": [
         "relevance:context"
@@ -2911,7 +2911,7 @@
       "claim": "The host says that in 2019 Potter's Field Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ],
       "tags": [
         "relevance:context"
@@ -2933,7 +2933,7 @@
         "A-2827.1"
       ],
       "related_nodes": [
-        "N-10247"
+        "N-10233"
       ],
       "tags": [
         "relevance:context"
@@ -2954,8 +2954,8 @@
       "claim": "The host says that after announcing it was shutting down in 2019, Potter's Field Ministries brought in Pastor Rob McCoy as CFO, and that the money was transferred into his church, which she says was done above board with the people notified.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10247",
-        "N-10252"
+        "N-10233",
+        "N-10238"
       ],
       "tags": [
         "relevance:context"
@@ -2976,9 +2976,9 @@
       "claim": "The host says TPUSA Faith reads to her like an infiltration, that an organization about free markets and capitalism suddenly became all about faith, and that the pastors involved feel sleazy and dishonest to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209",
-        "N-10251",
-        "N-10398"
+        "N-10201",
+        "N-10237",
+        "N-10371"
       ],
       "tags": [
         "relevance:core"
@@ -2998,7 +2998,7 @@
       "claim": "The host says she has caught Rob McCoy in multiple lies and therefore does not see him as a person to steward faith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ],
       "tags": [
         "relevance:core"
@@ -3019,7 +3019,7 @@
       "claim": "The host says Calvary Chapel churches were the number one offenders when pastors got on stage in what she calls Operation Mocking Pastor, all saying the same thing about her and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:core"
@@ -3040,7 +3040,7 @@
       "claim": "The host says Jack Hibbs' brother Butch Hibbs was everywhere before and after Charlie Kirk's assassination and that there is footage of him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3066,7 +3066,7 @@
       "claim": "The host says she received emails saying Pastor Jack Hibbs seems to be coming undone and is hosting 5 a.m. calls against her and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:context"
@@ -3088,7 +3088,7 @@
       "claim": "The host says there are CIA implications in who started Calvary Chapel, which became an offshoot of the hippie movement, and names Chuck Smith as the founder.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10465"
+        "N-10434"
       ],
       "tags": [
         "relevance:tangential"
@@ -3149,7 +3149,7 @@
       "claim": "The host says her investigation into Brigitte Macron and her relationship with Emmanuel Macron involves a federal-level coverup that includes a never-before-seen lawsuit meant as propaganda to make people think there is nothing there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3190,7 +3190,7 @@
       "claim": "The host says that Turning Point Faith ratcheted up when Charlie Kirk was going day in and day out speaking about Ukraine and the trafficking of kids there, which she says was part of her timeline, and that he was tweeting about it every day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:core"
@@ -3232,7 +3232,7 @@
       "claim": "The host says the churches she is questioning have way too many military men who come from a long line of powerful military families.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:tangential"
@@ -3252,7 +3252,7 @@
       "claim": "The host says that, as she will detail the next day, the Trump administration seems to have been hiding emails she calls completely indefensible, and that she was done with MAGA when Trump asked what files.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3274,7 +3274,7 @@
       "claim": "The host says Pam Bondi said the Epstein matter was a Democrat hoax, and that she suspects the whole nation has been hoaxed by Republicans and Democrats and by elites at the top.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3315,7 +3315,7 @@
       "claim": "The host says that what her team has discovered about the Egyptian planes is so big that she had to go through proper channels to get the information to the government first, and that she had to work out who in government could be trusted, so the segment was delayed until the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3394,7 +3394,7 @@
       "claim": "The host says donors told Charlie Kirk they demanded he not let her speak at AmFest and that he make a statement against her, and that Charlie said no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -3418,7 +3418,7 @@
       "claim": "The host presents Megyn Kelly as someone told it was her career or Tucker Carlson, with a voice claiming to be her friend urging her to distance herself from Carlson, and says Kelly said no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3504,7 +3504,7 @@
       "claim": "The host says she does not believe Alexis Wilkins, who she says comes from a family of Freemasons and has a spotty background, simply loves Kash Patel for him, and that nobody knows what she was doing in Switzerland.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3526,7 +3526,7 @@
       "claim": "The host says Alexis Wilkins is also a member of the Calvary Chapel Church in Chino Hills, California.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -3550,7 +3550,7 @@
       "claim": "The host says the Babylon Bee guy, whose name she cannot recall, is also involved in Calvary Chapel, and that she thinks Calvary Chapel needs to be looked into.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [
         "relevance:context"
@@ -3572,7 +3572,7 @@
         "A-2829.1"
       ],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3595,7 +3595,7 @@
       "claim": "The host says Tim Dillon is already included in her lawsuit with Brigitte Macron because he and she discussed the Brigitte case and apparently the president of France watches Dillon, so he is drafted in there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3745,7 +3745,7 @@
       "claim": "The host says that they put down pavers almost immediately and releveled the area, which she finds quite shady.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [
         "relevance:core"
@@ -3792,7 +3792,7 @@
         "A-1398.5"
       ],
       "related_nodes": [
-        "N-10916"
+        "N-10837"
       ],
       "tags": [
         "relevance:tangential"
@@ -3836,8 +3836,8 @@
         "A-1398.11"
       ],
       "related_nodes": [
-        "N-10246",
-        "N-10264"
+        "N-10232",
+        "N-10248"
       ],
       "tags": [
         "relevance:tangential"

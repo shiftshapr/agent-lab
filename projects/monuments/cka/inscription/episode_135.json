@@ -108,8 +108,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10767",
-            "N-10768"
+            "N-10696",
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -128,7 +128,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10767"
+            "N-10696"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -156,7 +156,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10769"
+            "N-10698"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -409,8 +409,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10765",
-      "ref": "N-10765",
+      "@id": "N-10694",
+      "ref": "N-10694",
       "name": "Timpanogos Hospital Evacuation Tip",
       "type": "investigation_target",
       "description": "Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.",
@@ -426,13 +426,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10770"
+        "N-10188"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10766",
-      "ref": "N-10766",
+      "@id": "N-10695",
+      "ref": "N-10695",
       "name": "Security Clothing Disposal Question",
       "type": "investigation_target",
       "description": "Host's assertion that FBI took security team clothing down to boxer briefs; host infers possible destruction rather than evidence preservation given FBI's prior behavior of towing and reselling the vehicle.",
@@ -448,8 +448,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10767",
-      "ref": "N-10767",
+      "@id": "N-10696",
+      "ref": "N-10696",
       "name": "Autopsy Timeline Anomaly",
       "type": "investigation_target",
       "description": "Question raised by medical professional email (A-2220.2) and host regarding unusually short (~3 hour) autopsy timeline given typical protocol of bringing body to 40°F in morgue cooler before examination; estimate includes time Erika Kirk spent with the body on arrival.",
@@ -470,8 +470,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Alternative theory advanced by multiple artifact-anchored medical communications suggesting Charlie Kirk's neck wound pattern is more consistent with a shaped charge in his lapel microphone than with a bullet; also encompasses the inference that recovered bullet fragments may actually be shaped charge casing.",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10769",
-      "ref": "N-10769",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
       "type": "investigation_target",
       "description": "Persistent absence of eyewitness confirmation that any firearm was visible on the Losee Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.",
@@ -516,14 +516,16 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10770",
-      "ref": "N-10770",
-      "name": "Utah Valley Hospital File Anomaly",
+      "@id": "N-10188",
+      "ref": "N-10188",
+      "name": "UVU Hospital Charlie Kirk Medical File Access Question",
       "type": "investigation_target",
-      "description": "Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-10765) or by pre-existing record creation.",
+      "description": "Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-10694) or by pre-existing record creation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11638"
+        "C-11638",
+        "C-11641",
+        "C-11643"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -532,7 +534,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10765"
+        "N-10694"
       ]
     },
     {
@@ -849,8 +851,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10155",
-      "ref": "N-10155",
+      "@id": "N-10150",
+      "ref": "N-10150",
       "name": "Autopsy Record – Utah Privacy Statute Application",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -866,8 +868,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10183",
-      "ref": "N-10183",
+      "@id": "N-10175",
+      "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -886,26 +888,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10196",
-      "ref": "N-10196",
-      "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
-      "description": "Existing topic node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11641",
-        "C-11643"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10217",
-      "ref": "N-10217",
+      "@id": "N-10208",
+      "ref": "N-10208",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -921,8 +905,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10229",
-      "ref": "N-10229",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -938,8 +922,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -955,8 +939,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10344",
-      "ref": "N-10344",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -972,8 +956,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10362",
-      "ref": "N-10362",
+      "@id": "N-10338",
+      "ref": "N-10338",
       "name": "Vehicle Disposition Question",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -989,8 +973,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10572",
-      "ref": "N-10572",
+      "@id": "N-10523",
+      "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1006,8 +990,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10573",
-      "ref": "N-10573",
+      "@id": "N-10524",
+      "ref": "N-10524",
       "name": "Timpanogos Hospital Evidence Question",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1023,8 +1007,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10621",
-      "ref": "N-10621",
+      "@id": "N-10567",
+      "ref": "N-10567",
       "name": "Gun Firing Evidence Verification",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1042,8 +1026,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10640",
-      "ref": "N-10640",
+      "@id": "N-10585",
+      "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1059,8 +1043,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10679",
-      "ref": "N-10679",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1076,8 +1060,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1093,8 +1077,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1111,8 +1095,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1130,8 +1114,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10703",
-      "ref": "N-10703",
+      "@id": "N-10639",
+      "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1147,25 +1131,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
-      "description": "Existing topic node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11625"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10749",
-      "ref": "N-10749",
+      "@id": "N-10679",
+      "ref": "N-10679",
       "name": "Amaro Resignation Cause",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1182,8 +1149,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10751",
-      "ref": "N-10751",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1199,8 +1166,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10754",
-      "ref": "N-10754",
+      "@id": "N-10684",
+      "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1217,25 +1184,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10759",
-      "ref": "N-10759",
-      "name": "Kirk Burial / Cremation Status",
-      "type": "investigation_target",
-      "description": "Existing topic node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11671"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10761",
-      "ref": "N-10761",
+      "@id": "N-10690",
+      "ref": "N-10690",
       "name": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1252,8 +1202,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10790",
-      "ref": "N-10790",
+      "@id": "N-10714",
+      "ref": "N-10714",
       "name": "Luna / Helluva Boss Cultural Connection",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1269,8 +1219,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
       "type": "investigation_target",
       "description": "Existing organization node reused for new claims in this episode.",
@@ -1286,8 +1236,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10975",
-      "ref": "N-10975",
+      "@id": "N-10896",
+      "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
       "type": "investigation_target",
       "description": "Existing organization node reused for new claims in this episode.",
@@ -1303,8 +1253,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10987",
-      "ref": "N-10987",
+      "@id": "N-10907",
+      "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1320,8 +1270,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11039",
-      "ref": "N-11039",
+      "@id": "N-10957",
+      "ref": "N-10957",
       "name": "Erika Kirk Foreknowledge Question",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1338,8 +1288,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11055",
-      "ref": "N-11055",
+      "@id": "N-10973",
+      "ref": "N-10973",
       "name": "Tyler Robinson Gunshot Residue Test Question",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1355,8 +1305,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11135",
-      "ref": "N-11135",
+      "@id": "N-11053",
+      "ref": "N-11053",
       "name": "Bullet Fragment Chain-of-Custody Question",
       "type": "investigation_target",
       "description": "Existing topic node reused for new claims in this episode.",
@@ -1422,8 +1372,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11301",
-      "ref": "N-11301",
+      "@id": "N-11217",
+      "ref": "N-11217",
       "name": "Digital Games Research Association",
       "type": "organization",
       "description": "Academic association which the host says Dr. Ashley Brown Guajardo currently serves as president of.",
@@ -1439,8 +1389,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11302",
-      "ref": "N-11302",
+      "@id": "N-11218",
+      "ref": "N-11218",
       "name": "IGDA",
       "type": "organization",
       "description": "Organization abbreviated IGDA in the transcript, with a games user research special interest group co-directed, per the host, by Dr. Ashley Brown Guajardo.",
@@ -1456,8 +1406,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11303",
-      "ref": "N-11303",
+      "@id": "N-11219",
+      "ref": "N-11219",
       "name": "Guajardo Spouse Gamer and Furry Culture Question",
       "type": "topic",
       "description": "The host's inquiry into the medical examiner's wife, her gamer and furry culture research and online presence, and whether she overlaps with the Discord and gaming community around Tyler Robinson and Lance Twiggs.",
@@ -1478,8 +1428,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11304",
-      "ref": "N-11304",
+      "@id": "N-11220",
+      "ref": "N-11220",
       "name": "Erika Kirk Memorial Forgiveness Statement",
       "type": "topic",
       "description": "Erika Kirk's \"I forgive him\" statement about Tyler Robinson at the memorial, which the host reinterprets as a conviction of him.",
@@ -1496,8 +1446,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11305",
-      "ref": "N-11305",
+      "@id": "N-11221",
+      "ref": "N-11221",
       "name": "Utah Medical Examiner Office Departures to New York",
       "type": "topic",
       "description": "Reported departures of Dr. Deirdre Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.",
@@ -1574,7 +1524,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16",
@@ -1593,7 +1543,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:32:48",
@@ -1612,7 +1562,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:33:41",
@@ -1631,7 +1581,7 @@
         "A-2220.2"
       ],
       "related_nodes": [
-        "N-10767"
+        "N-10696"
       ],
       "tags": [],
       "claim_timestamp": "00:35:15",
@@ -1651,7 +1601,7 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
@@ -1670,7 +1620,7 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
@@ -1706,7 +1656,7 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:40:24",
@@ -1723,7 +1673,7 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:37:04",
@@ -1742,7 +1692,7 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
@@ -1756,8 +1706,8 @@
       "claim": "Per host's verbal source (not displayed in this episode), Timpanogos Hospital staff directed ER patients to a different wing at some point in the 10:00 a.m. hour on September 10, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10765",
-        "N-10770"
+        "N-10694",
+        "N-10188"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -1771,8 +1721,8 @@
       "claim": "Per host's verbal source, ER patients were informed at approximately 11:30 a.m. on September 10, 2025 that they would be transferred via shuttle to Intermountain/Utah Valley Hospital, and that is what happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10765",
-        "N-10770"
+        "N-10694",
+        "N-10188"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
@@ -1786,7 +1736,7 @@
       "claim": "The host says a patient file for Charlie Kirk, leaked to her show, appeared in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770"
+        "N-10188"
       ],
       "tags": [],
       "claim_timestamp": "00:25:08",
@@ -1803,7 +1753,7 @@
       "claim": "Per host's assertion (based on an unnamed tip), the FBI took security team members' clothing down to their boxer briefs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10766"
+        "N-10695"
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
@@ -1817,7 +1767,7 @@
       "claim": "Per host, the Timpanogos hospital Epic electronic medical record system did not communicate with Utah Valley's Intermountain Health system, so Charlie's file appearing at Utah Valley is anomalous.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770"
+        "N-10188"
       ],
       "tags": [],
       "claim_timestamp": "00:26:02",
@@ -1834,7 +1784,7 @@
       "claim": "The host says that for 10 months the public was told Erika Kirk only wants transparency and is asking the judge to show everyone everything, yet when the host shared a video the response was \"Locker up.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10217"
+        "N-10208"
       ],
       "tags": [
         "relevance:context"
@@ -1855,7 +1805,7 @@
       "claim": "The host says Charlie Kirk's autopsy was performed in the middle of the night and was finished in a couple of hours, which she calls the fastest autopsy ever.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10767"
+        "N-10696"
       ],
       "tags": [
         "relevance:core"
@@ -1875,8 +1825,8 @@
       "claim": "The host says the chief medical examiner is resigning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10749",
-        "N-10183"
+        "N-10679",
+        "N-10175"
       ],
       "tags": [
         "relevance:context"
@@ -1896,7 +1846,7 @@
       "claim": "The host says the person who signed off on Charlie Kirk's autopsy was Dr. Andrew Guajardo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10183"
+        "N-10175"
       ],
       "tags": [
         "relevance:core"
@@ -1917,8 +1867,8 @@
       "claim": "The host says the security team members' clothing they wore in the car to the hospital was covered in blood and that Mikey McCoy got them scrubs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688",
-        "N-10766"
+        "N-10626",
+        "N-10695"
       ],
       "tags": [
         "relevance:core"
@@ -1939,8 +1889,8 @@
       "claim": "The host says the story from a source she has found, if true, very much implies foreknowledge of Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11039",
-        "N-10765"
+        "N-10957",
+        "N-10694"
       ],
       "tags": [
         "relevance:core"
@@ -1960,7 +1910,7 @@
       "claim": "The host says Dr. Andrew Guajardo is from New York, moved to Utah in 2018 and worked as an assistant at the medical examiner's office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10183"
+        "N-10175"
       ],
       "tags": [
         "relevance:context"
@@ -1980,7 +1930,7 @@
       "claim": "The host says that when Dr. Deirdre Amaro became chief medical examiner in 2024 she selected Guajardo as her deputy, promoting him to deputy chief examiner that year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10183"
+        "N-10175"
       ],
       "tags": [
         "relevance:context"
@@ -2061,7 +2011,7 @@
       "claim": "The host says that after listening to the preliminary hearing she suspects Tyler Robinson could plausibly have been set up by Lance Twiggs, since Lance's prints are everywhere, he lives with Tyler, and he could plausibly have had a login to his boyfriend's Discord.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10703",
+        "N-10639",
         "N-10013"
       ],
       "tags": [
@@ -2083,8 +2033,8 @@
       "claim": "The host says the gun attributed to Tyler Robinson had dust in the barrel and so likely was not even fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10621",
-        "N-11055"
+        "N-10567",
+        "N-10973"
       ],
       "tags": [
         "relevance:core"
@@ -2104,7 +2054,7 @@
       "claim": "The host says Dr. Andrew Guajardo is married to Dr. Ashley Brown Guajardo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11303"
+        "N-11219"
       ],
       "tags": [
         "relevance:tangential"
@@ -2127,7 +2077,7 @@
         "A-3146.1"
       ],
       "related_nodes": [
-        "N-11303"
+        "N-11219"
       ],
       "tags": [
         "relevance:tangential"
@@ -2150,7 +2100,7 @@
         "A-3146.1"
       ],
       "related_nodes": [
-        "N-11303"
+        "N-11219"
       ],
       "tags": [
         "relevance:tangential"
@@ -2212,7 +2162,7 @@
         "A-3147.1"
       ],
       "related_nodes": [
-        "N-11303"
+        "N-11219"
       ],
       "tags": [
         "relevance:tangential"
@@ -2234,7 +2184,7 @@
         "A-3147.1"
       ],
       "related_nodes": [
-        "N-11302"
+        "N-11218"
       ],
       "tags": [
         "relevance:tangential"
@@ -2256,7 +2206,7 @@
         "A-3147.1"
       ],
       "related_nodes": [
-        "N-11301"
+        "N-11217"
       ],
       "tags": [
         "relevance:tangential"
@@ -2278,7 +2228,7 @@
         "A-3147.1"
       ],
       "related_nodes": [
-        "N-11303"
+        "N-11219"
       ],
       "tags": [
         "relevance:tangential"
@@ -2298,8 +2248,8 @@
       "claim": "The host says Lance Twiggs testified at the preliminary hearing that he goes by Luna, which she suspects is a gaming character he engages with outside of Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10790",
-        "N-10679"
+        "N-10714",
+        "N-10617"
       ],
       "tags": [
         "relevance:core"
@@ -2320,7 +2270,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10013",
-        "N-11303"
+        "N-11219"
       ],
       "tags": [
         "relevance:tangential"
@@ -2340,8 +2290,8 @@
       "claim": "The host says Dr. Deirdre Amaro has left the building and is no longer at Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10749",
-        "N-11305"
+        "N-10679",
+        "N-11221"
       ],
       "tags": [
         "relevance:context"
@@ -2363,7 +2313,7 @@
         "A-3148.1"
       ],
       "related_nodes": [
-        "N-11305"
+        "N-11221"
       ],
       "tags": [
         "relevance:context"
@@ -2386,7 +2336,7 @@
         "A-3148.1"
       ],
       "related_nodes": [
-        "N-11305"
+        "N-11221"
       ],
       "tags": [
         "relevance:tangential"
@@ -2406,7 +2356,7 @@
       "claim": "The host says Frank Turek described the group receiving scrubs from the hospital, which she has always found remarkably suspicious.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [
         "relevance:core"
@@ -2426,7 +2376,7 @@
       "claim": "The host says Brian Harpole's account is that he did all of the work while Rick Cutler was holding him and Frank Turek was praying in the back.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2448,9 +2398,8 @@
       "claim": "The host says Frank Turek says he did CPR while Brian Harpole says Turek did not, and suggests Turek may have written himself into the story to explain why he wore scrubs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699",
-        "N-10687",
-        "N-10737"
+        "N-10636",
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -2471,7 +2420,7 @@
       "claim": "The host says Turek's explanation is that Harpole was distracted for the last 30 seconds of the short car ride and did not see Turek lay Charlie flat and begin mouth-to-mouth CPR.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2493,7 +2442,7 @@
       "claim": "The host says the feds immediately had the vehicle towed and sent away, wanting it cleaned and resold rather than kept as evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10362",
+        "N-10338",
         "N-10014"
       ],
       "tags": [
@@ -2514,7 +2463,7 @@
       "claim": "The host says that in her mind the FBI likely took the security team's clothes and had them destroyed, though she says she does not know that for certain.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10766",
+        "N-10695",
         "N-10014"
       ],
       "tags": [
@@ -2535,8 +2484,8 @@
       "claim": "The host says it is odd that there were no eyewitnesses to the extremely erratic, chaotic and improbable ER scene Brian Harpole depicted, and asks where the witnesses are.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10573",
-        "N-10765"
+        "N-10524",
+        "N-10694"
       ],
       "tags": [
         "relevance:core"
@@ -2556,8 +2505,8 @@
       "claim": "The host says her source states all of the emergency room patients and all of their files were then transferred to Intermountain.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10765",
-        "N-10770"
+        "N-10694",
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -2566,7 +2515,7 @@
       "investigative_direction": "Seek Intermountain and Timpanogos transfer logs and electronic record audit trails for September 10, 2025.",
       "transcript_snippet": "All of the emergency room patients and all of their files were then transferred to Intermountain.",
       "mentions_person_refs": [
-        "N-10770"
+        "N-10188"
       ]
     },
     {
@@ -2577,7 +2526,7 @@
       "claim": "The host says the only record of those patients having been at Timpanogos would be hospital cameras, which she says were seized by Kash Patel's office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [
         "relevance:core"
@@ -2600,8 +2549,8 @@
       "claim": "The host says that if the shuttle transfer can be proven beyond a shadow of a doubt with paperwork, foreknowledge of Charlie's assassination could no longer be disputed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11039",
-        "N-10765"
+        "N-10957",
+        "N-10694"
       ],
       "tags": [
         "relevance:core"
@@ -2661,7 +2610,7 @@
       "claim": "The host says she trusts very much that the source's information about the emergency room evacuation is accurate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10765"
+        "N-10694"
       ],
       "tags": [
         "relevance:core"
@@ -2678,8 +2627,7 @@
       "claim": "The host says her October 28, 2025 report was based on a leak that Charlie had a file at Utah Valley Hospital and that people there were specifically instructed not to touch or open that file.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770",
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -2704,8 +2652,7 @@
         "A-3150.1"
       ],
       "related_nodes": [
-        "N-10770",
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -2730,8 +2677,8 @@
         "A-3150.1"
       ],
       "related_nodes": [
-        "N-10770",
-        "N-10765"
+        "N-10188",
+        "N-10694"
       ],
       "tags": [
         "relevance:core"
@@ -2753,7 +2700,7 @@
         "A-3150.1"
       ],
       "related_nodes": [
-        "N-10770"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -2776,8 +2723,8 @@
       "claim": "The host says the prosecution's filing the previous day published a small part of Charlie Kirk's medical exam, which bothered medical professionals who wrote to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10229",
-        "N-10155"
+        "N-10216",
+        "N-10150"
       ],
       "tags": [
         "relevance:core"
@@ -2799,7 +2746,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2822,7 +2769,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2844,8 +2791,8 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10761"
+        "N-10697",
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2865,9 +2812,9 @@
       "claim": "The host says she thinks the ATF testified that it received five fragments, four of which were unusable and one big enough to use.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10975",
-        "N-10572",
-        "N-11135"
+        "N-10896",
+        "N-10523",
+        "N-11053"
       ],
       "tags": [
         "relevance:core"
@@ -2876,8 +2823,8 @@
       "investigative_direction": "Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.",
       "transcript_snippet": "The the ATF testified I think that they received five fragments. Four were unusable unusable and one was big enough for them to use.",
       "mentions_person_refs": [
-        "N-10572",
-        "N-11135"
+        "N-10523",
+        "N-11053"
       ]
     },
     {
@@ -2890,7 +2837,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2912,7 +2859,7 @@
         "A-2220.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2932,8 +2879,8 @@
       "claim": "The host says she believes there was no gun on the rooftop and that a person was told to run so that another decoy could be blamed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10769",
-        "N-10754"
+        "N-10698",
+        "N-10684"
       ],
       "tags": [
         "relevance:core"
@@ -2942,7 +2889,7 @@
       "investigative_direction": "Seek rooftop scene evidence, the recovered-rifle chain of custody and identification of the runner.",
       "transcript_snippet": "I think that the there was no gun on the rooftop. There was a person who was told to run and so that they could blame another decoy.",
       "mentions_person_refs": [
-        "N-10754"
+        "N-10684"
       ]
     },
     {
@@ -2955,8 +2902,8 @@
         "A-2220.2"
       ],
       "related_nodes": [
-        "N-10768",
-        "N-10761"
+        "N-10697",
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2978,7 +2925,7 @@
         "A-2220.2"
       ],
       "related_nodes": [
-        "N-10767"
+        "N-10696"
       ],
       "tags": [
         "relevance:core"
@@ -2999,7 +2946,7 @@
       "claim": "The host says her team looked it up and confirmed that the protocol is to bring the body down to 40 degrees in the morgue and that this does not happen by morning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10767"
+        "N-10696"
       ],
       "tags": [
         "relevance:core"
@@ -3022,7 +2969,7 @@
       "claim": "The host says she thinks, from her team's research, that a body can wait about 12 hours before decomposition begins, so an immediate autopsy would not be illegal even though it departs from normal practice.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10767"
+        "N-10696"
       ],
       "tags": [
         "relevance:core"
@@ -3044,9 +2991,9 @@
         "A-2221.1"
       ],
       "related_nodes": [
-        "N-10897",
-        "N-10987",
-        "N-10768"
+        "N-10818",
+        "N-10907",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -3068,8 +3015,8 @@
         "A-2222.1"
       ],
       "related_nodes": [
-        "N-10754",
-        "N-10769"
+        "N-10684",
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -3078,7 +3025,7 @@
       "investigative_direction": "Cite the analysis the host refers to and compare with the full witness recording.",
       "transcript_snippet": "if he observed a person military crawling, which has been true proven true, and he saw this person gets down and into a position",
       "mentions_person_refs": [
-        "N-10769"
+        "N-10698"
       ]
     },
     {
@@ -3089,7 +3036,7 @@
       "claim": "The host says the gun has dust on the barrel and that Tyler Robinson's prints were the most degraded of those on that rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10621"
+        "N-10567"
       ],
       "tags": [
         "relevance:core"
@@ -3109,7 +3056,7 @@
       "claim": "The host says the weapon at issue is a German 98 Mauser, which she says would be hard to conceal in the way a handgun could.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10621"
+        "N-10567"
       ],
       "tags": [
         "relevance:core"
@@ -3131,8 +3078,7 @@
         "A-3151.1"
       ],
       "related_nodes": [
-        "N-10751",
-        "N-10759"
+        "N-10681"
       ],
       "tags": [
         "relevance:context"
@@ -3153,7 +3099,7 @@
       "claim": "The host says that in retrospect Erika's \"I forgive him\" at the memorial was in effect saying \"I convict him,\" meaning she convicted Tyler Robinson rather than forgave him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11304",
+        "N-11220",
         "N-10002"
       ],
       "tags": [
@@ -3178,7 +3124,7 @@
       "claim": "The host says Erika did not have any idea that Robinson had done it, had not seen any evidence herself, and that the assumption she was shown evidence at UVU is wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11304"
+        "N-11220"
       ],
       "tags": [
         "relevance:core"
@@ -3217,7 +3163,7 @@
       "claim": "The host says that before her Russia trip the president tweeted her face as the most vile person of the year, for no reason she could identify.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:context"
@@ -3238,7 +3184,7 @@
       "claim": "The host says that when she got to Russia one of her security members almost died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:tangential"

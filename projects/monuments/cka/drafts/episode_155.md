@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11315, N-11316
+  - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11231, N-11232
   - Claim Range: C-13368–C-13444
-  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-579, N-834, N-861, N-897, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-899
- - New Nodes Introduced: N-10847, N-10848
+  - Reused Nodes Appearing: N-10773, N-10772, N-14, N-54, N-94, N-200, N-244, N-366, N-579, N-834, N-861, N-897, N-10011, N-10012, N-10019, N-10032, N-10038, N-10048, N-10161, N-10321, N-10389, N-10416, N-10821, N-10895, N-11065, N-11084, N-899
+ - New Nodes Introduced: N-10770, N-10771
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-860
 
 # Episode Analysis – Bride of Charlie 155
@@ -35,7 +35,7 @@
 
 - Artifact Families Introduced: A-2405, A-2406, A-2407, A-2408, A-2409, A-2410, A-2411, A-2412, A-2413, A-2414, A-2415
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
-- New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850
+- New Nodes Introduced (investigation targets): N-10770, N-10771, N-10772, N-10773
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
 
 ---
@@ -170,7 +170,7 @@ Video Timestamp: 00:11:33–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13384, N-10847, N-10848, N-10850*
+*Related: C-13384, N-10770, N-10771, N-10773*
 
 **A-2413.2** TMZ surveillance footage timestamped 8:07 AM showing Tyler Robinson walking toward the UVU campus (already parked off campus)
 
@@ -191,7 +191,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-13370, C-13371, N-10847, N-10850*
+*Related: C-13370, C-13371, N-10770, N-10773*
 
 ---
 
@@ -206,7 +206,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-13399, C-13401, N-10848*
+*Related: C-13399, C-13401, N-10771*
 
 ---
 
@@ -221,7 +221,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-13401, N-10848*
+*Related: C-13401, N-10771*
 
 ---
 
@@ -298,13 +298,13 @@ Video Timestamp: 00:22:51-00:26:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, N-3, N-10849*
+*Related: C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, N-3, N-10772*
 
 ---
 
 ## IV. Node Register
 
-**N-10847** "Waluigi" Unknown Driver
+**N-10770** "Waluigi" Unknown Driver
 
 Code name assigned by the host to the unidentified operator of the second grey Dodge Challenger observed in the UVU admin/admissions lot; distinguished from the "Maroon Boy." Height and clothing shape stated as identifying traits; identity not established.
 
@@ -313,11 +313,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10850*
+*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10773*
 
 ---
 
-**N-10848** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift
+**N-10771** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift
 
 Persistent inconsistency between the Sept 15 search warrant narrative (Robinson visits wooded area 8:28–9:24 AM; visits parking-garage top first) and Agent Hull's preliminary-hearing testimony (omits top-of-structure stop; rearranges on-campus activity order).
 
@@ -330,7 +330,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question
+**N-10772** Woodbury Building / Baugh Family / N88 Plane Connection Question
 
 Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shelaine and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.
 
@@ -343,7 +343,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10850** Two Grey Dodge Challengers Discrepancy
+**N-10773** Two Grey Dodge Challengers Discrepancy
 
 Persistent question concerning the simultaneous presence of two grey Dodge Challengers on UVU campus within ~20 minutes of one another on Sept 10, with the host assigning separate code names to the operators ("Maroon Boy" / "Waluigi") and stating no unified prosecution narrative accounts for both vehicles.
 
@@ -352,7 +352,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10847*
+*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10770*
 
 ---
 
@@ -532,7 +532,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10040** Robinson On-Campus Linger Timeline
+**N-10038** Robinson On-Campus Linger Timeline
 
 Existing node reused for new claims in this episode.
 
@@ -540,7 +540,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing node reused for new claims in this episode.
 
@@ -548,7 +548,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Existing node reused for new claims in this episode.
 
@@ -556,7 +556,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Existing node reused for new claims in this episode.
 
@@ -564,7 +564,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing node reused for new claims in this episode.
 
@@ -572,7 +572,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing node reused for new claims in this episode.
 
@@ -580,7 +580,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Existing node reused for new claims in this episode.
 
@@ -588,7 +588,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10974** PETN Explosive
+**N-10895** PETN Explosive
 
 Existing node reused for new claims in this episode.
 
@@ -596,7 +596,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Existing node reused for new claims in this episode.
 
@@ -604,7 +604,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11168** Saprea
+**N-11084** Saprea
 
 Existing node reused for new claims in this episode.
 
@@ -652,7 +652,7 @@ Aliases: Chelsea Baugh
 
 ---
 
-**N-11315** Pre-Event Morning Meeting at UVU Hypothesis
+**N-11231** Pre-Event Morning Meeting at UVU Hypothesis
 
 Node Type: Topic
 The host's suggestion that a morning meeting may have taken place at UVU ahead of the September 10 event.
@@ -661,7 +661,7 @@ The host's suggestion that a morning meeting may have taken place at UVU ahead o
 
 ---
 
-**N-11316** 2026 Midterm Outlook and Conservative Infighting Commentary
+**N-11232** 2026 Midterm Outlook and Conservative Infighting Commentary
 
 Node Type: Topic
 The host's commentary on prediction-market odds, X posts and critics of the party in the run-up to the 2026 midterms.
@@ -843,7 +843,7 @@ Claim: The host says footage shows two separate grey Dodge Challengers arriving 
 
 Anchored Artifacts: A-2413.3
 
-Related Nodes: N-10847, N-10850
+Related Nodes: N-10770, N-10773
 
 Investigative Direction: Obtain parking-garage entry/exit logs and timestamped surveillance footage to independently verify the arrivals of two distinct grey Challengers.
 
@@ -857,7 +857,7 @@ Claim: The host says the footage shows the driver of the second grey Dodge Chall
 
 Anchored Artifacts: A-2413.3
 
-Related Nodes: N-10847, N-10850
+Related Nodes: N-10770, N-10773
 
 Investigative Direction: Obtain the original admin-lot surveillance footage to verify the number of attempts and any identifying characteristics of the driver.
 
@@ -871,7 +871,7 @@ Claim: The host says the footage shows the grey Dodge Challenger associated with
 
 Anchored Artifacts: A-2413.1
 
-Related Nodes: N-10847, N-10850
+Related Nodes: N-10770, N-10773
 
 Investigative Direction: Obtain the full top-of-structure surveillance footage to verify the eight-minute duration and any subject activity during that window.
 
@@ -901,7 +901,7 @@ Claim: The September 15 search warrant narrative (attributed to Agent Mortensson
 Anchored Artifacts: A-2414.1
 Mentions: N-898, N-40
 
-Related Nodes: N-10848
+Related Nodes: N-10771
 
 Investigative Direction: Obtain the actual Sept 15 search warrant filing to verify the quoted language and its full surrounding narrative.
 
@@ -916,7 +916,7 @@ Claim: The host alleges that Agent David Hull's preliminary hearing testimony pr
 Anchored Artifacts: A-2414.1, A-2415.1
 Mentions: N-860
 
-Related Nodes: N-10848
+Related Nodes: N-10771
 
 Investigative Direction: Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.
 
@@ -931,7 +931,7 @@ Claim: The host says neighbor Miss Noble and her husband saw a Dodge Challenger 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
 Mentions: N-899, N-861
 
-Related Nodes: N-10850
+Related Nodes: N-10773
 
 Investigative Direction: Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.
 
@@ -990,7 +990,7 @@ Transcript Snippet: there is a difference in the body on the Dodge Challenger uh
 
 Anchored Artifacts: A-2413.3
 Mentions: N-40, N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Compare the towed vehicle's make, year, trim and body photographs with the admin-lot footage frames, ideally with an independent automotive identification.
 
@@ -1006,7 +1006,7 @@ Transcript Snippet: And he has exceptionally tall legs and he looks to me like h
 
 Anchored Artifacts: A-2413.3
 Mentions: N-3
-Related Nodes: N-10847, N-10850
+Related Nodes: N-10770, N-10773
 Tags: relevance:core
 Investigative Direction: Measure the driver's proportions in the admin-lot footage against known heights of persons of interest, if the original footage is released.
 
@@ -1022,7 +1022,7 @@ Transcript Snippet: We do not think that the person who gets out of this car is 
 
 Anchored Artifacts: A-2413.3
 Mentions: N-3
-Related Nodes: N-10847, N-10850
+Related Nodes: N-10770, N-10773
 Supports: C-13370
 Tags: relevance:core
 Investigative Direction: Obtain simultaneous timestamps from the garage and admin-lot cameras to show whether both subjects were on camera at the same moment.
@@ -1039,7 +1039,7 @@ Transcript Snippet: we have actually no idea what either of these two people did
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10850, N-10040
+Related Nodes: N-10773, N-10038
 Tags: relevance:core
 Investigative Direction: Request the full UVU campus camera archive for 8:30 to 10:00 a.m. covering both vehicles and their occupants.
 
@@ -1055,7 +1055,7 @@ Transcript Snippet: All we got from the pre preliminary hearing is that Maroon B
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10040, N-11149
+Related Nodes: N-10038, N-11065
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for Hull's testimony on the TPUSA representative exchange and identify the employee asked.
 
@@ -1071,7 +1071,7 @@ Transcript Snippet: Yesterday, we wrongly showed you on the timeline um that thi
 
 Anchored Artifacts: A-2414.1, A-2415.1
 Mentions: N-3, N-860
-Related Nodes: N-10848
+Related Nodes: N-10771
 Tags: relevance:core
 Investigative Direction: Compare the show's published timeline against both the September 15 warrant narrative and the hearing transcript to document which source supplied each entry.
 
@@ -1087,7 +1087,7 @@ Transcript Snippet: he's going to leave 17 minutes later at about 9 9:50
 
 Anchored Artifacts: A-2413.3
 Mentions: N-3
-Related Nodes: N-10847, N-10850
+Related Nodes: N-10770, N-10773
 Supports: C-13370
 Tags: relevance:core
 Investigative Direction: Pull garage exit and admin-lot exit camera timestamps for both vehicles to confirm the near-simultaneous departures.
@@ -1104,7 +1104,7 @@ Transcript Snippet: Agent Hull doesn't even so much as try to suggest that they 
 
 Anchored Artifacts: A-2415.1
 Mentions: N-860, N-40, N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.
 
@@ -1120,7 +1120,7 @@ Transcript Snippet: There are no photos or videos of an identifiable Dodge Chall
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Search discovery and neighborhood camera releases for any frame of the Challenger parked near campus on September 10.
 
@@ -1136,7 +1136,7 @@ Transcript Snippet: They've never indicated that he had on body cam footage.
 
 Anchored Artifacts: 
 Mentions: N-861, N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.
 
@@ -1152,7 +1152,7 @@ Transcript Snippet: at times we went back and realized those two things were in 
 
 Anchored Artifacts: A-2415.1
 Mentions: N-860, N-3
-Related Nodes: N-10848
+Related Nodes: N-10771
 Tags: relevance:core
 Investigative Direction: Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.
 
@@ -1168,7 +1168,7 @@ Transcript Snippet: there's only one time where I observe what and I'm going to 
 
 Anchored Artifacts: A-2413.1
 Mentions: N-3
-Related Nodes: N-10850, N-10040
+Related Nodes: N-10773, N-10038
 Tags: relevance:core
 Investigative Direction: Obtain the full eight-minute top-level garage footage at native resolution for independent frame review.
 
@@ -1184,7 +1184,7 @@ Transcript Snippet: The TMZ footage, which they, for some reason, omitted, actua
 
 Anchored Artifacts: A-2413.2
 Mentions: N-40, N-3
-Related Nodes: N-10011, N-10040
+Related Nodes: N-10011, N-10038
 Supports: C-13388
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing exhibit list and Hull's testimony for any use of the TMZ 8:07 a.m. footage.
@@ -1201,7 +1201,7 @@ Transcript Snippet: they needed that crucial footage of the Dodge Challenger cap
 
 Anchored Artifacts: A-2413.1
 Mentions: N-40, N-3
-Related Nodes: N-10032, N-10850
+Related Nodes: N-10032, N-10773
 Tags: relevance:core
 Investigative Direction: Establish who selected the parking structure and arrival time, using Robinson's phone location data and campus gate or parking records.
 
@@ -1217,7 +1217,7 @@ Transcript Snippet: That was the decoy boy's literal job was to make sure that t
 
 Anchored Artifacts: A-2413.1
 Mentions: N-3
-Related Nodes: N-10032, N-10850
+Related Nodes: N-10032, N-10773
 Tags: relevance:core
 Investigative Direction: Identify who drove the Challenger into the structure and test the decoy theory against Robinson's phone, purchase and message records.
 
@@ -1233,7 +1233,7 @@ Transcript Snippet: we broke the story that Tyler Robinson was seen at the Dairy
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Supports: C-12441
 Tags: relevance:core
 Investigative Direction: Search the cemetery and nearby trash receptacles for records of recovered clothing and obtain Dairy Queen camera footage and receipts.
@@ -1265,7 +1265,7 @@ Transcript Snippet: Please email us more tips@canniswowens. com.
 
 Anchored Artifacts: A-3171.1
 Mentions: N-3
-Related Nodes: N-10051
+Related Nodes: N-10048
 Tags: relevance:core, DIA
 Investigative Direction: Record tip volume and any follow-up in later episodes where the host cites emailed tips.
 
@@ -1281,7 +1281,7 @@ Transcript Snippet: possibly driven by his boyfriend, Lance.
 
 Anchored Artifacts: 
 Mentions: N-40, N-54, N-3
-Related Nodes: N-10168
+Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Match Lance Twiggs' phone location and activity records on September 10 against the campus vehicle footage.
 
@@ -1297,7 +1297,7 @@ Transcript Snippet: I do not believe a Tyler Robinson ever changed on September 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10019, N-10343
+Related Nodes: N-10019, N-10321
 Tags: relevance:core
 Investigative Direction: Request the clothing evidence inventory and chain of custody for the black flag shirt and compare it to footage of the person who returned to campus.
 
@@ -1329,7 +1329,7 @@ Transcript Snippet: I think there could have been a morning meeting that happene
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11315, N-10012
+Related Nodes: N-11231, N-10012
 Tags: relevance:core
 Investigative Direction: Obtain UVU room reservations, access logs and calendars for the morning of September 10 to see whether any meeting occurred.
 
@@ -1345,7 +1345,7 @@ Transcript Snippet: I think Miss Noble, uh, the neighbor and her husband were te
 
 Anchored Artifacts: 
 Mentions: N-899, N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Supports: C-13382
 Tags: relevance:core
 Investigative Direction: Obtain Miss Noble's statement, 911 or tip-line record and the neighborhood surveillance referenced in the warrants.
@@ -1362,7 +1362,7 @@ Transcript Snippet: I suspect that those people were driving a rental car
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10850
+Related Nodes: N-10773
 Tags: relevance:core
 Investigative Direction: Check rental agency records for grey Dodge Challengers rented around Salt Lake and Utah counties for September 9 to 11.
 
@@ -1378,7 +1378,7 @@ Transcript Snippet: Clothes in the rooftop, that the screwdriver was found with 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10019, N-10343
+Related Nodes: N-10019, N-10321
 Tags: relevance:core
 Investigative Direction: Collect the dated early law-enforcement statements and later filings on clothing change location and screwdriver recovery location.
 
@@ -1394,7 +1394,7 @@ Transcript Snippet: In the video, Robinson is seen wearing a ball cap, a red t-s
 
 Anchored Artifacts: A-2414.1
 Mentions: N-40, N-3
-Related Nodes: N-10848, N-10019
+Related Nodes: N-10771, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting.
 
@@ -1410,7 +1410,7 @@ Transcript Snippet: And he heads to Chick-fil-A, sits down, he eats Chick-fil-A,
 
 Anchored Artifacts: A-2415.1
 Mentions: N-860, N-40, N-3
-Related Nodes: N-10848
+Related Nodes: N-10771
 Supports: C-12039
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript and any Chick-fil-A transaction or camera records for the 10:09 a.m. to 11:00 a.m. window.
@@ -1427,7 +1427,7 @@ Transcript Snippet: He plays Wordle off campus, sends that score to his friends 
 
 Anchored Artifacts: A-2415.1
 Mentions: N-860, N-40, N-3
-Related Nodes: N-10848
+Related Nodes: N-10771
 Supports: C-12041
 Tags: relevance:core
 Investigative Direction: Compare the 11:28 message metadata and device location against the claimed off-campus timeline.
@@ -1444,7 +1444,7 @@ Transcript Snippet: And then he changes into that black shirt with an American f
 
 Anchored Artifacts: A-2415.1
 Mentions: N-40, N-3
-Related Nodes: N-10019, N-10848
+Related Nodes: N-10019, N-10771
 Tags: relevance:core
 Investigative Direction: Request any camera footage of Robinson's vehicle or person off campus between 11:00 a.m. and the return to campus.
 
@@ -1460,7 +1460,7 @@ Transcript Snippet: That time gets adjusted three times across three different w
 
 Anchored Artifacts: 
 Mentions: N-899, N-3
-Related Nodes: N-10848, N-10850
+Related Nodes: N-10771, N-10773
 Tags: relevance:core
 Investigative Direction: Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.
 
@@ -1476,7 +1476,7 @@ Transcript Snippet: Actually, we can just assert that he simply was not shot by 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10447, N-10974
+Related Nodes: N-10416, N-10895
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report, ballistics and explosives-residue analysis, and the wound description from the treating surgeon.
 
@@ -1492,7 +1492,7 @@ Transcript Snippet: There was a lot of people who early on kept saying that they
 
 Anchored Artifacts: A-3173.1
 Mentions: N-3
-Related Nodes: N-10849, N-10012
+Related Nodes: N-10772, N-10012
 Tags: relevance:core
 Investigative Direction: Collect named eyewitness accounts and any photographs or video of the Woodbury building roof from September 10.
 
@@ -1508,7 +1508,7 @@ Transcript Snippet: There was also that person that was arrested who was taking 
 
 Anchored Artifacts: A-3173.1
 Mentions: N-3
-Related Nodes: N-10849
+Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Identify the arrest through UVU police or Orem and Provo booking records for September 11 and the stated charge.
 
@@ -1524,7 +1524,7 @@ Transcript Snippet: It was their plane. They had to come out and give a statemen
 
 Anchored Artifacts: A-3173.1
 Mentions: N-94, N-200, N-3
-Related Nodes: N-11168, N-10849
+Related Nodes: N-11084, N-10772
 Supports: C-4755
 Tags: relevance:core
 Investigative Direction: Retrieve the Maxfield statement text and FAA registration history for the N88 aircraft including the Romania registration.
@@ -1541,7 +1541,7 @@ Transcript Snippet: they actually shared ownership of that plane uh with a coupl
 
 Anchored Artifacts: A-3173.1
 Mentions: N-94, N-200, N-3
-Related Nodes: N-10849, N-10012
+Related Nodes: N-10772, N-10012
 Supports: C-2002
 Tags: relevance:core
 Investigative Direction: Check FAA registration and any LLC ownership filings for the aircraft to confirm co-owners.
@@ -1558,7 +1558,7 @@ Transcript Snippet: Chelsea and Casey Ba B A U G H donated $5 million to UVU.
 
 Anchored Artifacts: A-3173.1
 Mentions: N-834, N-900, N-3
-Related Nodes: N-10849, N-10012
+Related Nodes: N-10772, N-10012
 Tags: relevance:context
 Investigative Direction: Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.
 
@@ -1574,7 +1574,7 @@ Transcript Snippet: they have an entrepreneurship institute that was located in 
 
 Anchored Artifacts: A-3173.1
 Mentions: N-834, N-900, N-3
-Related Nodes: N-10849, N-10012
+Related Nodes: N-10772, N-10012
 Supports: C-2003
 Tags: relevance:core
 Investigative Direction: Confirm the institute's naming and location in UVU records and the Baughs' status in the aircraft ownership records.
@@ -1591,7 +1591,7 @@ Transcript Snippet: reach back out to us at more tips@candis. com.
 
 Anchored Artifacts: A-3172.1
 Mentions: N-3
-Related Nodes: N-10849
+Related Nodes: N-10772
 Tags: relevance:core, DIA
 Investigative Direction: Record tip volume and any follow-up in later episodes where the host cites emailed tips.
 
@@ -1607,7 +1607,7 @@ Transcript Snippet: He will then host someone to talk about the topic I'm coveri
 
 Anchored Artifacts: 
 Mentions: N-366, N-3, N-22
-Related Nodes: N-10416, N-10900
+Related Nodes: N-10389, N-10821
 Tags: relevance:tangential
 Investigative Direction: Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.
 
@@ -1623,7 +1623,7 @@ Transcript Snippet: apparently it sounded like I said selfesteem as opposed to s
 
 Anchored Artifacts: A-2408.1
 Mentions: N-366, N-3
-Related Nodes: N-10416
+Related Nodes: N-10389
 Supports: C-13417
 Tags: relevance:tangential
 Investigative Direction: Locate Boreing's original post and the live-show clip it references to confirm the connection.
@@ -1655,7 +1655,7 @@ Transcript Snippet: Jeremy wants to get paid by Turning Point.
 
 Anchored Artifacts: A-2406.1
 Mentions: N-897, N-366
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.
 
@@ -1671,7 +1671,7 @@ Transcript Snippet: The only thing that he got wrong in that assessment is that 
 
 Anchored Artifacts: A-2406.1
 Mentions: N-897, N-366, N-3
-Related Nodes: N-10416
+Related Nodes: N-10389
 Contradicts: C-13420
 Tags: relevance:tangential
 Investigative Direction: Compare Boreing's podcast sponsorship and TPUSA ties against the host's stalking characterization.
@@ -1703,7 +1703,7 @@ Transcript Snippet: I am the employee that he fired, but he cannot let go.
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Reconcile with the host's other accounts of how she left the Daily Wire and the termination or separation paperwork.
 
@@ -1749,7 +1749,7 @@ Transcript Snippet: But the calls to sue me, like he sued me privately for years
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Identify the Daily Wire v. Owens case numbers and filings on the court docket.
 
@@ -1765,7 +1765,7 @@ Transcript Snippet: Candace Owens has engaged in the worst act of public defamat
 
 Anchored Artifacts: A-3170.1
 Mentions: N-3, N-2, N-190, N-14, N-366
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Identify the episode and speaker of the clip and any pending defamation filings naming those parties.
 
@@ -1781,7 +1781,7 @@ Transcript Snippet: andor I'm not sure which, but certainly Candace has crossed 
 
 Anchored Artifacts: A-3170.2
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Review the cited statements against the actual malice standard in any filed complaint.
 
@@ -1797,7 +1797,7 @@ Transcript Snippet: Poly Market basically dropped odds and said that Democrats a
 
 Anchored Artifacts: A-2411.1
 Mentions: N-3
-Related Nodes: N-11316
+Related Nodes: N-11232
 Supports: C-13439
 Tags: relevance:tangential
 Investigative Direction: Check the Polymarket midterm contract's price history around the date of this episode.
@@ -1814,7 +1814,7 @@ Transcript Snippet: Uh speech censorship that's being platformed, demanded by pe
 
 Anchored Artifacts: 
 Mentions: N-244, N-3
-Related Nodes: N-11316
+Related Nodes: N-11232
 Tags: relevance:tangential
 Investigative Direction: Find Levin's and the second named person's statements calling for state action or lawsuits against the host.
 
@@ -1830,7 +1830,7 @@ Transcript Snippet: You attack Thomas Massie. Got him out of there.
 
 Anchored Artifacts: 
 Mentions: N-579, N-3
-Related Nodes: N-11316
+Related Nodes: N-11232
 Tags: relevance:tangential
 Investigative Direction: Check Massie's primary result and outside spending against him as documented in FEC filings.
 
@@ -1846,7 +1846,7 @@ Transcript Snippet: like um Laura Loomer referring to me as a ghetto black
 
 Anchored Artifacts: 
 Mentions: N-60, N-3
-Related Nodes: N-11316
+Related Nodes: N-11232
 Tags: relevance:context
 Investigative Direction: Locate the original Loomer post using the post archive and confirm wording and date.
 
@@ -2049,7 +2049,7 @@ Confidence: high
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.
 - **Claim failed admission test:** C-13382 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
-- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10849 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
+- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10772 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
 - **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" – original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.
 - **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Goforth/Goforth" against authoritative sources.

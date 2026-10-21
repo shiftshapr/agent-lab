@@ -12,9 +12,9 @@
 - **Transcript SHA-256**: 485249b3a83122df784d65092a124fe221777e005fc429793ac75572c8a2611c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11269, N-11270, N-11271, N-11272, N-11273
-  - Hole-minted Nodes (reintro-ep013): N-193, N-10158, N-10159, N-10160, N-10209, N-10406
-  - Tip-minted Nodes (reintro-ep013): N-10968, N-11153, N-11170
+  - Tip-minted Nodes (supplement_2026-10e): N-11185, N-11186, N-11187, N-11188, N-11189
+  - Hole-minted Nodes (reintro-ep013): N-193, N-10152, N-10153, N-10154, N-10201, N-10379
+  - Tip-minted Nodes (reintro-ep013): N-10889, N-11069, N-11086
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1153–C-1236
   - (see registers)
@@ -37,8 +37,8 @@
 
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
-  - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-10152, N-10153, N-10154, N-10155, N-10157
-  - Reused Nodes Appearing: N-3, N-40, N-125, N-134, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-117, N-129, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217, N-11096, N-11103, N-11274
+  - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-10147, N-10148, N-10149, N-10150, N-10151
+  - Reused Nodes Appearing: N-3, N-40, N-125, N-134, N-10144, N-5, N-32, N-49, N-57, N-93, N-97, N-117, N-129, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10049, N-10053, N-10075, N-10079, N-10111, N-10126, N-10130, N-10134, N-10139, N-10141, N-10142, N-10143, N-10819, N-10821, N-11133, N-11014, N-11021, N-11190
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (artifact clearly stated, video played)
 
-*Related: C-1154, C-1167, N-40, N-128, N-142, N-10152*
+*Related: C-1154, C-1167, N-40, N-128, N-142, N-10147*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1156, N-40, N-42, N-10157*
+*Related: C-1156, N-40, N-42, N-10151*
 
 **A-1197.2** Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1158, N-133, N-10154*
+*Related: C-1158, N-133, N-10149*
 
 **A-1199.2** Host-source reporting: Andrew Zenger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1158, N-134, N-10154*
+*Related: C-1158, N-134, N-10149*
 
 **A-1199.3** Host-source reporting: Judge Tony F. Graf Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1158, N-135, N-10154*
+*Related: C-1158, N-135, N-10149*
 
 **A-1199.4** Host-source reporting: new (unnamed) coroner on the case
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1158, N-10154*
+*Related: C-1158, N-10149*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party producer report)
 
-*Related: C-1214, N-136, N-140 (Larry Ellison), N-10157*
+*Related: C-1214, N-136, N-140 (Larry Ellison), N-10151*
 
 ---
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: C-1225, N-10152*
+*Related: C-1225, N-10147*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: N-10152 (tenuous; primarily commentary)*
+*Related: N-10147 (tenuous; primarily commentary)*
 
 ---
 
@@ -475,7 +475,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.1, C-1158, N-10154*
+*Related: A-1199.1, C-1158, N-10149*
 
 ---
 
@@ -487,7 +487,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High (involves routing question)
 
-*Related: A-1199.2, C-1158, N-10154, N-1*
+*Related: A-1199.2, C-1158, N-10149, N-1*
 
 ---
 
@@ -499,7 +499,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.3, C-1158, N-10154*
+*Related: A-1199.3, C-1158, N-10149*
 
 ---
 
@@ -511,7 +511,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1204.1, C-1214, N-10152*
+*Related: A-1204.1, C-1214, N-10147*
 
 ---
 
@@ -583,13 +583,13 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High (cooperative witness)
 
-*Related: A-1196.1, C-1167, N-128, N-40, N-10152*
+*Related: A-1196.1, C-1167, N-128, N-40, N-10147*
 
 ---
 
 ### Investigation Targets
 
-**N-10152** Unidentified Female / "Accomplice" in Shooter Footage
+**N-10147** Unidentified Female / "Accomplice" in Shooter Footage
 Persistent target referenced across host reporting, anonymous tip, and Shaner Broderick footage; the FBI has not, per host, publicly identified or released her.
 
 Evidence Count: 3
@@ -601,7 +601,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10153** "Robbie Hild" Identity Verification
+**N-10148** "Robbie Hild" Identity Verification
 X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.
 
 Evidence Count: 1
@@ -613,7 +613,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10154** Case-Personnel Cluster Anomalies
+**N-10149** Case-Personnel Cluster Anomalies
 Composite target covering the simultaneous arrival of new senior figures (FBI SAC "Robert Bohls," hospital CEO/surgeon Andrew Zenger, Judge Tony F. Graf Jr., unnamed new coroner) onto the case.
 
 Evidence Count: 3
@@ -625,7 +625,7 @@ Investigative Pressure: Medium-High
 
 ---
 
-**N-10155** Autopsy Record – Utah Privacy Statute Application
+**N-10150** Autopsy Record – Utah Privacy Statute Application
 Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.
 
 Evidence Count: 0
@@ -637,7 +637,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10156** Hospital Routing Anomaly
+**N-10144** Hospital Routing Discrepancy
 Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.
 
 Evidence Count: 1
@@ -649,7 +649,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10157** TPUSA Faith Packet / Israel References Claim
+**N-10151** TPUSA Faith Packet / Israel References Claim
 Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.
 
 Evidence Count: 1
@@ -661,7 +661,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19).
 
@@ -868,7 +868,7 @@ Country at the center of the host's Netanyahu clip, TikTok and Kirk remarks.
 
 ---
 
-**N-10052** Doorbell-Cam Footage Provenance
+**N-10049** Doorbell-Cam Footage Provenance
 
 Existing topic reused for how TMZ obtained the footage.
 
@@ -876,7 +876,7 @@ Existing topic reused for how TMZ obtained the footage.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for the host's account of Kirk's changing view of Israel.
 
@@ -884,7 +884,7 @@ Existing topic reused for the host's account of Kirk's changing view of Israel.
 
 ---
 
-**N-10078** TPUSA Financial Apparatus Investigation
+**N-10075** TPUSA Financial Apparatus Investigation
 
 Existing topic reused for the awaited financial report.
 
@@ -892,7 +892,7 @@ Existing topic reused for the awaited financial report.
 
 ---
 
-**N-10082** CIA
+**N-10079** CIA
 
 Agency the host links to UVU.
 
@@ -900,7 +900,7 @@ Agency the host links to UVU.
 
 ---
 
-**N-10115** Soviet Education Infiltration
+**N-10111** Soviet Education Infiltration
 
 Existing topic reused for the viewer remark on the UVU president.
 
@@ -908,7 +908,7 @@ Existing topic reused for the viewer remark on the UVU president.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Organization linked by the host to the Horowitz family.
 
@@ -916,7 +916,7 @@ Organization linked by the host to the Horowitz family.
 
 ---
 
-**N-10135** Doorbell Footage Completeness Question
+**N-10130** Doorbell Footage Completeness Question
 
 Existing topic reused for the footage the FBI allegedly withheld.
 
@@ -924,7 +924,7 @@ Existing topic reused for the footage the FBI allegedly withheld.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for the host's pastor-funding remarks.
 
@@ -932,7 +932,7 @@ Existing topic reused for the host's pastor-funding remarks.
 
 ---
 
-**N-10144** Phil Lyman Proximity and Behavior Investigation
+**N-10139** Phil Lyman Proximity and Behavior Investigation
 
 Existing topic reused for the host's exchange with Lyman.
 
@@ -940,7 +940,7 @@ Existing topic reused for the host's exchange with Lyman.
 
 ---
 
-**N-10146** Phil Lyman Location Discrepancy
+**N-10141** Phil Lyman Location Discrepancy
 
 Existing topic reused for Lyman's statements about where he watched the footage.
 
@@ -948,7 +948,7 @@ Existing topic reused for Lyman's statements about where he watched the footage.
 
 ---
 
-**N-10147** Unidentified Goth Person in Broderick Companion Photo
+**N-10142** Unidentified Goth Person in Broderick Companion Photo
 
 Existing topic reused for the person next to Shaner.
 
@@ -956,7 +956,7 @@ Existing topic reused for the person next to Shaner.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for why Kirk turned against Israel.
 
@@ -964,7 +964,7 @@ Existing topic reused for why Kirk turned against Israel.
 
 ---
 
-**N-10158** ADL–FBI Partnership Structure
+**N-10152** ADL–FBI Partnership Structure
 
 Existing topic reused for the shared-building claim.
 
@@ -972,7 +972,7 @@ Existing topic reused for the shared-building claim.
 
 ---
 
-**N-10159** Connecticut FBI Field Office Deployment Anomaly
+**N-10153** Connecticut FBI Field Office Deployment Anomaly
 
 Existing topic reused for the Connecticut building remark.
 
@@ -980,7 +980,7 @@ Existing topic reused for the Connecticut building remark.
 
 ---
 
-**N-10160** Tyler Robinson Defense Selection Anomaly
+**N-10154** Tyler Robinson Defense Selection Anomaly
 
 Existing topic reused for the defense lawyer comment.
 
@@ -988,7 +988,7 @@ Existing topic reused for the defense lawyer comment.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Existing topic reused for the Faith packet remark.
 
@@ -996,7 +996,7 @@ Existing topic reused for the Faith packet remark.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for the pressure campaign on Kelly.
 
@@ -1004,7 +1004,7 @@ Existing topic reused for the pressure campaign on Kelly.
 
 ---
 
-**N-10898** New York Post
+**N-10819** New York Post
 
 Outlet cited for the alleged fake letter and a spy story.
 
@@ -1012,7 +1012,7 @@ Outlet cited for the alleged fake letter and a spy story.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Employer where the host says she read VPN ads.
 
@@ -1020,7 +1020,7 @@ Employer where the host says she read VPN ads.
 
 ---
 
-**N-11096** TikTok Israel Moderation Claim
+**N-11014** TikTok Israel Moderation Claim
 
 Existing topic reused for the content-strike claim.
 
@@ -1028,7 +1028,7 @@ Existing topic reused for the content-strike claim.
 
 ---
 
-**N-11103** TikTok
+**N-11021** TikTok
 
 Platform at the center of the Netanyahu clip and the host's censorship claims.
 
@@ -1036,7 +1036,7 @@ Platform at the center of the Netanyahu clip and the host's censorship claims.
 
 ---
 
-**N-11153** Anti-Defamation League
+**N-11069** Anti-Defamation League
 
 Organization the host says shares a building with the FBI.
 
@@ -1044,7 +1044,7 @@ Organization the host says shares a building with the FBI.
 
 ---
 
-**N-11170** International Fellowship of Christians and Jews
+**N-11086** International Fellowship of Christians and Jews
 
 Organization the host says funds pastors.
 
@@ -1052,7 +1052,7 @@ Organization the host says funds pastors.
 
 ---
 
-**N-11217** Utah State University
+**N-11133** Utah State University
 
 Site of the TPUSA event described by an attendee.
 
@@ -1060,7 +1060,7 @@ Site of the TPUSA event described by an attendee.
 
 ---
 
-**N-11269** Ukrainian Hit List Claim
+**N-11185** Ukrainian Hit List Claim
 
 Node Type: Topic
 The host's assertion that Charlie Kirk, she, Tucker Carlson and a former Alex Jones employee were on a Ukrainian hit list.
@@ -1069,7 +1069,7 @@ The host's assertion that Charlie Kirk, she, Tucker Carlson and a former Alex Jo
 
 ---
 
-**N-11270** ExpressVPN Israeli Ownership Claim
+**N-11186** ExpressVPN Israeli Ownership Claim
 
 Node Type: Topic
 The comment and host remarks that Israel is taking over ExpressVPN and other VPN services and that ExpressVPN was started by an Israeli billionaire.
@@ -1078,7 +1078,7 @@ The comment and host remarks that Israel is taking over ExpressVPN and other VPN
 
 ---
 
-**N-11271** Security Guards Did Not Draw Guns Question
+**N-11187** Security Guards Did Not Draw Guns Question
 
 Node Type: Topic
 The viewer question and host agreement that no security guard drew a weapon when the shots rang out, and the host's remark on the security firm's earnings from Charlie.
@@ -1087,7 +1087,7 @@ The viewer question and host agreement that no security guard drew a weapon when
 
 ---
 
-**N-11272** Charlie Kirk Laptop Access Question
+**N-11188** Charlie Kirk Laptop Access Question
 
 Node Type: Topic
 The host's statement that she knows who had access to Charlie Kirk's laptop and has questions about that.
@@ -1096,7 +1096,7 @@ The host's statement that she knows who had access to Charlie Kirk's laptop and 
 
 ---
 
-**N-11273** Foreign Operatives and New Identities Hypothesis
+**N-11189** Foreign Operatives and New Identities Hypothesis
 
 Node Type: Topic
 The host's hunch that the shooting was a military operation by people from overseas, with new identities, supported by a Russian headline and a New York Times report.
@@ -1105,7 +1105,7 @@ The host's hunch that the shooting was a military operation by people from overs
 
 ---
 
-**N-11274** Shaner Broderick Account Deletion
+**N-11190** Shaner Broderick Account Deletion
 
 Node Type: Topic
 The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content after the host contacted him.
@@ -1125,7 +1125,7 @@ Claim: The host says it has been confirmed that a woman was with the shooter in 
 Anchored Artifacts: A-1196.1
 Mentions: 
 
-Related Nodes: N-10152
+Related Nodes: N-10147
 
 Investigative Direction: Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.
 
@@ -1168,7 +1168,7 @@ Claim: In footage recorded by Shaner Broderick, his aunt (identified as a Lyman 
 Anchored Artifacts: A-1196.1
 Mentions: N-40, N-128, N-142
 
-Related Nodes: N-10152
+Related Nodes: N-10147
 
 Investigative Direction: Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.
 
@@ -1183,7 +1183,7 @@ Claim: The host says multiple senior officials involved in the case were recent 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
 Mentions: N-133, N-134, N-135, N-41, N-69
 
-Related Nodes: N-10154, N-10156
+Related Nodes: N-10149, N-10144
 
 Investigative Direction: Confirm each appointment's date and predecessor; verify Andrew Zenger's direct involvement in Charlie Kirk's surgical care.
 
@@ -1198,7 +1198,7 @@ Claim: The host says she was told that, despite public rumors to the contrary, a
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
 
-Related Nodes: N-10155
+Related Nodes: N-10150
 
 Investigative Direction: Verify through official medical examiner channels or court filings.
 
@@ -1213,7 +1213,7 @@ Claim: The host says that, as she has learned, autopsy reports in Utah are kept 
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
 
-Related Nodes: N-10155
+Related Nodes: N-10150
 
 Investigative Direction: Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office.
 
@@ -1369,7 +1369,7 @@ Transcript Snippet: It is a fact that Tyler Robinson, we can't confirm that this
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-125
-Related Nodes: N-10151
+Related Nodes: N-10146
 Investigative Direction: Locate the photos the host refers to and establish who "uncle Mikey" is; check any Mike Mitchell link against the public record.
 
 ---
@@ -1384,7 +1384,7 @@ Transcript Snippet: the agents like I think of them as like Mr. Smith in the Mat
 
 Anchored Artifacts: 
 Mentions: N-3, N-46, N-22
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Collect the public posts demanding that Megyn Kelly denounce Candace Owens and Tucker Carlson and establish whether the accounts are coordinated.
 
@@ -1415,7 +1415,7 @@ Transcript Snippet: although that was not the nearest hospital from the universi
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10156
+Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Map hospital distances from the campus and compare published trauma-level designations of the nearer hospitals with the hospital used.
 
@@ -1431,7 +1431,7 @@ Transcript Snippet: I think it would be interesting to learn whether or not that
 
 Anchored Artifacts: A-3100.1
 Mentions: N-3, N-1, N-134
-Related Nodes: N-10156
+Related Nodes: N-10144
 Tags: relevance:core,dia
 Investigative Direction: Obtain the surgical team roster from the hospital or the death certificate and records through the family.
 
@@ -1447,7 +1447,7 @@ Transcript Snippet: just deleted his Facebook and just outright deleted his Link
 
 Anchored Artifacts: 
 Mentions: N-3, N-128
-Related Nodes: N-11274
+Related Nodes: N-11190
 Tags: relevance:core
 Investigative Direction: Compare archived captures of his accounts against the current state and ask him directly why he deleted them.
 
@@ -1463,7 +1463,7 @@ Transcript Snippet: someone paid money uh to inform us that there was footage th
 
 Anchored Artifacts: A-3107.1
 Mentions: N-3
-Related Nodes: N-10052, N-10135
+Related Nodes: N-10049, N-10130
 Tags: relevance:core
 Investigative Direction: Retrieve the earlier paid message and the tipster's identity, and compare her description with the doorbell footage released by TMZ.
 
@@ -1479,7 +1479,7 @@ Transcript Snippet: He has been forthcoming about the fact that his family owned
 
 Anchored Artifacts: 
 Mentions: N-61
-Related Nodes: N-10144
+Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Check county property records for Lyman family parcels on the route.
 
@@ -1511,7 +1511,7 @@ Transcript Snippet: you should recall that the very next morning on September th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10011, N-10052
+Related Nodes: N-10011, N-10049
 Tags: relevance:core
 Investigative Direction: Establish TMZ's first publication time and source for the doorbell footage.
 
@@ -1527,7 +1527,7 @@ Transcript Snippet: now we have actually the woman who handed over her footage t
 
 Anchored Artifacts: A-1196.1
 Mentions: N-3, N-142, N-128
-Related Nodes: N-10152, N-10014
+Related Nodes: N-10147, N-10014
 Tags: relevance:core
 Investigative Direction: Confirm the aunt's identity and whether she gave footage to the FBI and, if so, which files.
 
@@ -1543,7 +1543,7 @@ Transcript Snippet: during this 33-hour manhunt, not to inform the public that t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10014, N-10152
+Related Nodes: N-10014, N-10147
 Tags: relevance:core
 Investigative Direction: Review FBI press briefings from September 10 to 12 for any mention of a second person.
 
@@ -1559,7 +1559,7 @@ Transcript Snippet: He's angry. I mean, he said really not nice things to me. He
 
 Anchored Artifacts: 
 Mentions: N-3, N-61
-Related Nodes: N-10144
+Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Obtain the text or message exchange between the host and Phil Lyman.
 
@@ -1575,7 +1575,7 @@ Transcript Snippet: You were watching it live with Kayleigh McEnany on Fox News.
 
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-129
-Related Nodes: N-10006, N-10011, N-10146
+Related Nodes: N-10006, N-10011, N-10141
 Tags: relevance:core
 Investigative Direction: Pull the Fox News segment and compare Lyman's statements about where he was with the footage timeline.
 
@@ -1591,7 +1591,7 @@ Transcript Snippet: Either your cousin gave it to TMZ or the feds gave a portion
 
 Anchored Artifacts: 
 Mentions: N-3, N-61
-Related Nodes: N-10011, N-10052
+Related Nodes: N-10011, N-10049
 Tags: relevance:core
 Investigative Direction: Ask TMZ about its source and check the footage's chain of custody.
 
@@ -1607,7 +1607,7 @@ Transcript Snippet: if you have any tips pertaining to who the woman was that wa
 
 Anchored Artifacts: A-3100.2
 Mentions: N-3
-Related Nodes: N-10152
+Related Nodes: N-10147
 Tags: relevance:core,dia
 Investigative Direction: Cross-check submissions to the tip line against the footage and the Lyman family network.
 
@@ -1638,7 +1638,7 @@ Transcript Snippet: We discover that one person was from Austria.
 
 Anchored Artifacts: 
 Mentions: N-3, N-128
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Identify the Austrian national and verify his link to the Lyman family.
 
@@ -1654,7 +1654,7 @@ Transcript Snippet: Phil Lemon does not know this individual.
 
 Anchored Artifacts: 
 Mentions: N-61, N-128
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Compare Lyman's statements on who the two people were across interviews and messages.
 
@@ -1670,7 +1670,7 @@ Transcript Snippet: A person going by the name Robbie Hild who is allegedly from
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10153, N-10147
+Related Nodes: N-10148, N-10142
 Tags: relevance:core
 Investigative Direction: Verify the Robbie Hild identity through school, social media and residence records.
 
@@ -1686,7 +1686,7 @@ Transcript Snippet: even the president, I'm I'm blanking on her name, it like ma
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10115
+Related Nodes: N-10012, N-10111
 Tags: relevance:context
 Investigative Direction: Check the UVU president's published biography and degrees.
 
@@ -1718,7 +1718,7 @@ Transcript Snippet: the New York Times has reported on uh Russian Ukrainian spie
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10968, N-11273
+Related Nodes: N-10889, N-11189
 Tags: relevance:context
 Investigative Direction: Locate the New York Times article the host refers to.
 
@@ -1734,7 +1734,7 @@ Transcript Snippet: when you look at UVU campus and their strong ties um to the 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10082
+Related Nodes: N-10012, N-10079
 Tags: relevance:context
 Investigative Direction: Identify the documented CIA recruitment or partnership programs at UVU.
 
@@ -1750,7 +1750,7 @@ Transcript Snippet: it is telling about white lotus sect of all things.
 
 Anchored Artifacts: A-3104.1
 Mentions: N-3
-Related Nodes: N-11273
+Related Nodes: N-11189
 Tags: relevance:context
 Investigative Direction: Find the original Russian article and check its claims against declassified material.
 
@@ -1766,7 +1766,7 @@ Transcript Snippet: Charlie was on a um a hit list. I also was on that hit list.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11269
+Related Nodes: N-11185
 Tags: relevance:context
 Investigative Direction: Establish which list is meant and obtain it.
 
@@ -1782,7 +1782,7 @@ Transcript Snippet: I forgot the name of the individual that worked for Alex Jon
 
 Anchored Artifacts: 
 Mentions: N-22, N-93, N-3
-Related Nodes: N-11269
+Related Nodes: N-11185
 Tags: relevance:context
 Investigative Direction: Identify the Alex Jones employee and the Ukrainian list referenced.
 
@@ -1860,7 +1860,7 @@ Transcript Snippet: No, you wanted to hand it over to your Zionist friends.
 
 Anchored Artifacts: 
 Mentions: N-5
-Related Nodes: N-11103
+Related Nodes: N-11021
 Tags: relevance:context
 Investigative Direction: Compare Trump statements on the TikTok deal with the final ownership structure.
 
@@ -1876,7 +1876,7 @@ Transcript Snippet: it's Larry Ellison who has made he's very clear about the fa
 
 Anchored Artifacts: 
 Mentions: N-140
-Related Nodes: N-11103
+Related Nodes: N-11021
 Tags: relevance:context
 Investigative Direction: Find Ellison's exact public statement and the TikTok deal terms.
 
@@ -1892,7 +1892,7 @@ Transcript Snippet: Horowitz, the son of David Harowitz, David Harowitz from whi
 
 Anchored Artifacts: 
 Mentions: N-193, N-97
-Related Nodes: N-10131, N-11103
+Related Nodes: N-10126, N-11021
 Tags: relevance:context
 Investigative Direction: Identify which Horowitz is meant and check the TikTok deal investor list.
 
@@ -1908,7 +1908,7 @@ Transcript Snippet: just like the ADL spokesperson said when he was caught um on
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11153, N-11103
+Related Nodes: N-11069, N-11021
 Tags: relevance:context
 Investigative Direction: Find the recording of the ADL spokesperson.
 
@@ -1924,7 +1924,7 @@ Transcript Snippet: we saw instantly that our content was getting strikes you ca
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11096, N-11103
+Related Nodes: N-11014, N-11021
 Tags: relevance:context
 Investigative Direction: Obtain the strike notices and the executive's identity and statements.
 
@@ -1956,7 +1956,7 @@ Transcript Snippet: Megyn Kelly tweeted her episode and said, "Listen to Charlie
 
 Anchored Artifacts: A-1201.1
 Mentions: N-46, N-1, N-137, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Locate Kelly's original post and the reply chain.
 
@@ -1972,7 +1972,7 @@ Transcript Snippet: I lived what uh Charlie was going through where suddenly you
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Corroborate through Charlie's messages or associates describing similar pressure.
 
@@ -1988,7 +1988,7 @@ Transcript Snippet: He's a close friend and she is under enough pressure without
 
 Anchored Artifacts: A-1202.1
 Mentions: N-46, N-22, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Capture the full original Kelly post.
 
@@ -2034,7 +2034,7 @@ Transcript Snippet: This was Charlie. He was like, "I'm done. I'm just done. I'm
 
 Anchored Artifacts: A-1203.2
 Mentions: N-46, N-1
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Identify when and to whom Charlie expressed this.
 
@@ -2065,7 +2065,7 @@ Transcript Snippet: Then they will send the next layer which is a full-blown pre
 
 Anchored Artifacts: 
 Mentions: N-46, N-22, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Monitor media coverage of Kelly after October 1, 2025.
 
@@ -2081,7 +2081,7 @@ Transcript Snippet: I got received other emails of people saying that um they fe
 
 Anchored Artifacts: A-1205.1
 Mentions: N-3
-Related Nodes: N-10000, N-11217
+Related Nodes: N-10000, N-11133
 Tags: relevance:context
 Investigative Direction: Obtain those emails.
 
@@ -2097,7 +2097,7 @@ Transcript Snippet: they're handing out TPUSA faith packets and like Israel is m
 
 Anchored Artifacts: A-3105.1
 Mentions: N-3
-Related Nodes: N-10157, N-10209, N-10000
+Related Nodes: N-10151, N-10201, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the packet and count the Israel references.
 
@@ -2113,7 +2113,7 @@ Transcript Snippet: It's ridiculous. And I know who's behind that. I do.
 
 Anchored Artifacts: A-3105.1
 Mentions: N-3
-Related Nodes: N-10157, N-10209
+Related Nodes: N-10151, N-10201
 Tags: relevance:context
 Investigative Direction: Ask the host for the person she means and verify authorship.
 
@@ -2129,7 +2129,7 @@ Transcript Snippet: Charlie authentically when we started out loved Israel for t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10026, N-10056
+Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: Establish the dates and participants of the trip.
 
@@ -2145,7 +2145,7 @@ Transcript Snippet: And it was their behavior that turned him against them.
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10026, N-10148
+Related Nodes: N-10026, N-10143
 Tags: relevance:core
 Investigative Direction: Corroborate with Charlie's messages and public statements.
 
@@ -2192,7 +2192,7 @@ Transcript Snippet: Uh yes, I think it is strange actually. I thought about that
 
 Anchored Artifacts: A-3101.1
 Mentions: N-1, N-3
-Related Nodes: N-11271
+Related Nodes: N-11187
 Tags: relevance:core
 Investigative Direction: Review event video of the security team's reaction and TPUSA's security plan.
 
@@ -2208,7 +2208,7 @@ Transcript Snippet: the amount of money that they were making off of Charlie bec
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-11271
+Related Nodes: N-10000, N-11187
 Tags: relevance:core
 Investigative Direction: Review TPUSA contracts and payments to the security vendor.
 
@@ -2238,7 +2238,7 @@ Transcript Snippet: I have not explored that.
 
 Anchored Artifacts: A-1206.1
 Mentions: N-3, N-40, N-141
-Related Nodes: N-10160
+Related Nodes: N-10154
 Tags: relevance:context
 Investigative Direction: Check later episodes for follow-up.
 
@@ -2254,7 +2254,7 @@ Transcript Snippet: I hope you guys uh know that they share a building, I think,
 
 Anchored Artifacts: A-1207.1
 Mentions: N-3
-Related Nodes: N-10158, N-10159, N-11153, N-10014
+Related Nodes: N-10152, N-10153, N-11069, N-10014
 Tags: relevance:context
 Investigative Direction: Verify the address of any FBI facility and ADL office in Connecticut.
 
@@ -2269,7 +2269,7 @@ Claim: A viewer comment read by the host says Israel is taking over ExpressVPN a
 Transcript Snippet: Israel is taking over ExpressVPN and other VPN websites
 
 Anchored Artifacts: A-1208.1
-Related Nodes: N-11270
+Related Nodes: N-11186
 Tags: relevance:tangential
 Investigative Direction: Check ownership records of ExpressVPN and other VPN companies.
 
@@ -2285,7 +2285,7 @@ Transcript Snippet: I used to read ads for them, ExpressVPN, when I was uh worki
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11270, N-10900
+Related Nodes: N-11186, N-10821
 Tags: relevance:context
 Investigative Direction: Check ad schedules from the Daily Wire era.
 
@@ -2301,7 +2301,7 @@ Transcript Snippet: once I found that it was started by an Israeli billionaire
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11270
+Related Nodes: N-11186
 Tags: relevance:tangential
 Investigative Direction: Verify ExpressVPN founders and owners from corporate filings.
 
@@ -2317,7 +2317,7 @@ Transcript Snippet: Now they planted a fake letter in the same New York Post and
 
 Anchored Artifacts: A-3102.1
 Mentions: N-3, N-1
-Related Nodes: N-10898, N-10017
+Related Nodes: N-10819, N-10017
 Tags: relevance:core
 Investigative Direction: Authenticate the letter and trace its release.
 
@@ -2333,7 +2333,7 @@ Transcript Snippet: Yeah, I know who had access to Charlie's laptop and I have q
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11272, N-10078
+Related Nodes: N-11188, N-10075
 Tags: relevance:core
 Investigative Direction: Identify the laptop custodian and access logs.
 
@@ -2365,7 +2365,7 @@ Transcript Snippet: they take money from an agent of Israel or an organization l
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11170, N-10139
+Related Nodes: N-11086, N-10134
 Tags: relevance:context
 Investigative Direction: Review IFCJ grants and donor filings.
 
@@ -2381,7 +2381,7 @@ Transcript Snippet: but then they have you like um gathering pastors and paying 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11170, N-10139
+Related Nodes: N-11086, N-10134
 Tags: relevance:context
 Investigative Direction: Review IFCJ expenditure.
 
@@ -2569,7 +2569,7 @@ Confidence: high
 
 - Speculation / Framing Premise (failed Claim Admission Test): "I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas." Recorded as framing premise only – no artifact anchor.
 - Speculation / Framing Premise: "Tyler Robinson … we can't confirm that this is Mike Mitchell" – speculation on identity substitution; no artifact anchor.
-- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-10153 for tracking, but not inscribed as a claim.
+- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-10148 for tracking, but not inscribed as a claim.
 - Artifact verbally referenced but not shown: Russian-language translated article about "White Lotus sect" training fighters (article cited but not displayed in the transcript).
 - Transcript ambiguity: The "FBI" new head is referred to by host as "Robert Bohls" (possibly phonetic / partial nickname); spelling uncertain – preserved exactly.
 - Transcript ambiguity: "Erica Mindel" / "Erica Mindel" – spelling varies within the host's own narration.

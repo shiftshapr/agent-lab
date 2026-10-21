@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-840, N-841, N-842, N-843, N-844, N-11226
-  - Hole-minted Nodes (reintro-ep026): N-593, N-10482, N-10587, N-10630, N-10715
+  - Tip-minted Nodes (supplement_2026-10d): N-840, N-841, N-842, N-843, N-844, N-11142
+  - Hole-minted Nodes (reintro-ep026): N-593, N-10535, N-10576, N-10651
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2317–C-2406
-  - New Nodes Introduced: N-221, N-223, N-224, N-10224, N-10225, N-10227
-  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-222, N-10628, N-10226, N-10338, N-11227
+  - New Nodes Introduced: N-221, N-223, N-224, N-10213, N-10215
+  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10061, N-10070, N-10119, N-10144, N-10185, N-10186, N-10190, N-10191, N-10194, N-10208, N-10212, N-10303, N-10838, N-11018, N-222, N-10574, N-10214, N-11143
   - (see registers)
 
 # Episode Analysis Record
@@ -39,7 +39,7 @@
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
 - **Claim Range:** C-2320–C-2363
 - **New People Nodes Introduced:** N-221, N-190, N-159, N-106, N-222, N-223, N-60, N-14, N-56, N-224, N-17
-- **New Investigation Target Nodes Introduced:** N-10224, N-10225, N-10226, N-10227
+- **New Investigation Target Nodes Introduced:** N-10211, N-10213, N-10214, N-10215
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:03:45–00:04:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2320, C-2317, N-10224*
+*Related: C-2320, C-2317, N-10211*
 
 **A-1333.2** UVU event request email (mid-July 2025) – referenced verbally by host; shown on screen per host narration but content not transcribed in captions
 
@@ -73,7 +73,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; visual content not captured in caption transcript
 
-*Related: C-2317, N-10224*
+*Related: C-2317, N-10211*
 
 ---
 
@@ -248,7 +248,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-2363, N-190, N-10225, N-10226*
+*Related: C-2363, N-190, N-10213, N-10214*
 
 **A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration
 
@@ -259,7 +259,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-2363, N-10225*
+*Related: C-2363, N-10213*
 
 ---
 
@@ -356,7 +356,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-2320, C-2317, C-2384, N-10224, N-10225*
+*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-2320, C-2317, C-2384, N-10211, N-10213*
 
 **N-10000** Turning Point USA
 *(Existing – referenced in scheduling and phone call discussion)*
@@ -387,7 +387,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1343.1, A-1344.1, C-2369, C-2373, C-2384, C-2363, N-17, N-2, N-10225, N-10226, N-10227*
+*Related: A-1339.1, A-1343.1, A-1344.1, C-2369, C-2373, C-2384, C-2363, N-17, N-2, N-10213, N-10214, N-10215*
 
 **N-159** Blake Neff
 
@@ -494,7 +494,7 @@ Investigative Pressure: Low
 
 ### Investigation Target Nodes
 
-**N-10224** UVU Event Approval Timeline Anomaly
+**N-10211** UVU Event Approval Timeline Anomaly
 
 Persistent discrepancy between standard TPUSA advance-planning window (≈5–6 months, per A-1333.1) and the unusually short UVU request-to-event interval (mid-July 2025 request, September 2025 approval per host).
 
@@ -505,7 +505,7 @@ Investigative Pressure: High
 
 *Related: A-1333.1, A-1333.2, C-2320, C-2317, N-1*
 
-**N-10225** Equipment Box / First-Aid Anomaly at UVU Scene
+**N-10213** Equipment Box / First-Aid Anomaly at UVU Scene
 
 Persistent claim that Charlie Kirk was placed on top of an equipment box rather than flat ground, and that no visible first-aid administration occurred in the immediate post-shot window.
 
@@ -516,7 +516,7 @@ Investigative Pressure: High
 
 *Related: A-1344.1, A-1344.2, C-2363, N-1, N-190*
 
-**N-10226** Mikey McCoy Phone Call Sequence Anomaly
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Persistent claim that Mikey McCoy's described phone calls (Erica, Rob McCoy) within one minute of the shooting are inconsistent with observed movement patterns and with expected human behavior under such circumstances.
 
@@ -527,7 +527,7 @@ Investigative Pressure: High
 
 *Related: A-1339.1, A-1344.1, C-2373, N-190, N-159, N-17, N-2*
 
-**N-10227** YouTube Scheduling Order Anomaly
+**N-10215** YouTube Scheduling Order Anomaly
 
 Persistent claim that the first scheduled post on Charlie Kirk's YouTube channel after the memorial event was Mikey McCoy's speech, queued before Erika Kirk's.
 
@@ -731,7 +731,7 @@ Utah Valley University; venue of the September 10 event.
 
 ---
 
-**N-10064** The Pentagon
+**N-10061** The Pentagon
 
 The Pentagon; named in the host's 9/11 comments.
 
@@ -739,7 +739,7 @@ The Pentagon; named in the host's 9/11 comments.
 
 ---
 
-**N-10073** APAC
+**N-10070** AIPAC
 
 APAC; named in the viewer comment about a TPUSA takeover.
 
@@ -747,7 +747,7 @@ APAC; named in the viewer comment about a TPUSA takeover.
 
 ---
 
-**N-10124** Riverbend Ranch
+**N-10119** Riverbend Ranch
 
 Riverbend Ranch; the sponsor in the ad read.
 
@@ -755,7 +755,7 @@ Riverbend Ranch; the sponsor in the ad read.
 
 ---
 
-**N-10149** Hospital Routing Discrepancy
+**N-10144** Hospital Routing Discrepancy
 
 Existing topic reused for hospital arrival and lockdown claims.
 
@@ -763,7 +763,7 @@ Existing topic reused for hospital arrival and lockdown claims.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for call-log claims.
 
@@ -771,7 +771,7 @@ Existing topic reused for call-log claims.
 
 ---
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Existing topic reused for the succession plan claim.
 
@@ -779,7 +779,7 @@ Existing topic reused for the succession plan claim.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused for Mikey McCoy's movement claims.
 
@@ -787,7 +787,7 @@ Existing topic reused for Mikey McCoy's movement claims.
 
 ---
 
-**N-10199** Susie Wiles Eulogy-Selection Question
+**N-10191** Susie Wiles Eulogy-Selection Question
 
 Existing topic reused for the Wiles eulogy claim.
 
@@ -795,7 +795,7 @@ Existing topic reused for the Wiles eulogy claim.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for the Kash Patel claim.
 
@@ -803,7 +803,7 @@ Existing topic reused for the Kash Patel claim.
 
 ---
 
-**N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
+**N-10208** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
 Existing topic reused for the transparency claim.
 
@@ -811,15 +811,7 @@ Existing topic reused for the transparency claim.
 
 ---
 
-**N-10218** McCoy Succession Plan
-
-Existing topic reused for the McCoy succession plan claims.
-
-*Related: C-2327, C-2328*
-
----
-
-**N-10222** Israeli Cell Phone Presence on 9/10
+**N-10212** Israeli Cell Phone Presence on 9/10
 
 Existing topic reused for the Israeli cell phone cover-up claim.
 
@@ -827,7 +819,7 @@ Existing topic reused for the Israeli cell phone cover-up claim.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for the Epstein donors claim.
 
@@ -835,23 +827,7 @@ Existing topic reused for the Epstein donors claim.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
-
-Existing topic reused for the post-shooting call claims.
-
-*Related: C-2372, C-2374, C-2376, C-2377, C-2382*
-
----
-
-**N-10482** Mikey McCoy Phone Call Sequence
-
-Existing topic reused for the call length claim.
-
-*Related: C-2376*
-
----
-
-**N-10587** Trump Truth Social Post Pattern Question
+**N-10535** Trump Truth Social Post Pattern Question
 
 Existing topic reused for the Trump posting claims.
 
@@ -859,7 +835,7 @@ Existing topic reused for the Trump posting claims.
 
 ---
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Existing topic reused for the Loomer 5150 claim.
 
@@ -867,7 +843,7 @@ Existing topic reused for the Loomer 5150 claim.
 
 ---
 
-**N-10630** Laura Loomer Identity Claims (Jewish Heritage)
+**N-10576** Laura Loomer Identity Claims (Jewish Heritage)
 
 Existing topic reused for the Loomer identity claims.
 
@@ -875,7 +851,7 @@ Existing topic reused for the Loomer identity claims.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing topic reused for Blake Neff's movement claims.
 
@@ -883,7 +859,7 @@ Existing topic reused for Blake Neff's movement claims.
 
 ---
 
-**N-10917** Republican Jewish Coalition
+**N-10838** Republican Jewish Coalition
 
 Republican Jewish Coalition; event Cooper watched.
 
@@ -891,7 +867,7 @@ Republican Jewish Coalition; event Cooper watched.
 
 ---
 
-**N-11100** Charlie Kirk Post-Shooting First Aid Question
+**N-11018** Charlie Kirk Post-Shooting First Aid Question
 
 Existing topic reused for the first-aid claims.
 
@@ -947,7 +923,7 @@ Aliases: Theodor Herzl
 
 ---
 
-**N-11226** Mamdani Mayoral Race Opposition Spending
+**N-11142** Mamdani Mayoral Race Opposition Spending
 
 Node Type: Topic
 Donations the host lists against Zohran Mamdani in the 2025 NYC mayoral race: Bill Ackman $1.75 million, Michael Bloomberg $8.3 million, Joe Gebbia $3.1 million and the Tisch family $1.2 million.
@@ -956,7 +932,7 @@ Donations the host lists against Zohran Mamdani in the 2025 NYC mayoral race: Bi
 
 ---
 
-**N-11227** AIPAC Hostile Takeover of TPUSA Claim
+**N-11143** AIPAC Hostile Takeover of TPUSA Claim
 
 Node Type: Topic
 The host's statement, prompted by a viewer comment, that APAC has already taken over or been taking over Turning Point USA, with evidence promised but not yet given.
@@ -975,7 +951,7 @@ Claim: Per the October 2023 Turning Point USA email the host shows, planning for
 
 Anchored Artifacts: A-1333.1
 
-Related Nodes: N-10224
+Related Nodes: N-10211
 
 Investigative Direction: Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours.
 
@@ -990,7 +966,7 @@ Claim: The host says a UVU request for Charlie Kirk to speak on campus was recei
 Anchored Artifacts: A-1333.2
 Mentions: N-1
 
-Related Nodes: N-10224
+Related Nodes: N-10211
 
 Investigative Direction: Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates.
 
@@ -1149,7 +1125,7 @@ Claim: The host says Blake Neff's account conflicts with footage of Mikey McCoy'
 Anchored Artifacts: A-1339.1, A-1344.1
 Mentions: N-17, N-159, N-190, N-2
 
-Related Nodes: N-10226
+Related Nodes: N-10214
 
 Investigative Direction: Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.
 
@@ -1220,7 +1196,7 @@ Claim: The host says that when scheduled posts resumed on Charlie Kirk's YouTube
 Anchored Artifacts: A-1343.1
 Mentions: N-190, N-2, N-1, N-217
 
-Related Nodes: N-10227
+Related Nodes: N-10215
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 
@@ -1235,7 +1211,7 @@ Claim: The host alleges that Charlie Kirk was positioned on top of an equipment 
 Anchored Artifacts: A-1344.1, A-1344.2
 Mentions: N-1, N-190
 
-Related Nodes: N-10225, N-10226
+Related Nodes: N-10213, N-10214
 
 Investigative Direction: Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.
 
@@ -1251,7 +1227,7 @@ Transcript Snippet: That has never happened in the history of my having done cam
 
 Anchored Artifacts: A-1333.2
 Mentions: N-1, N-3
-Related Nodes: N-10224, N-10012
+Related Nodes: N-10211, N-10012
 Supports: C-2281
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's campus-tour approval records for fall 2025 and compare request-to-approval intervals for other stops with UVU's.
@@ -1284,7 +1260,7 @@ Transcript Snippet: University of North Carolina, Chapel Hill, which I think we 
 
 Anchored Artifacts: A-1333.1
 Mentions: N-3
-Related Nodes: N-10224
+Related Nodes: N-10211
 Tags: relevance:context
 Investigative Direction: Obtain the full October 2023 email and compare it with the actual spring 2024 tour dates and venues.
 
@@ -1300,7 +1276,7 @@ Transcript Snippet: You don't you don't instantly get approved for an event at T
 
 Anchored Artifacts: A-1333.1
 Mentions: N-1
-Related Nodes: N-10000, N-10224
+Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA event-planning SOPs or former tour staff accounts on approval lead times and rollover practice.
 
@@ -1316,7 +1292,7 @@ Transcript Snippet: It reeks of an inside job.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10224
+Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA and UVU correspondence on the request and approval; identify who approved it and when.
 
@@ -1332,7 +1308,7 @@ Transcript Snippet: Charlie was slated to speak in Utah on September 10th and th
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10012, N-10224
+Related Nodes: N-10012, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain the fall 2025 tour schedule, including the second Utah campus stop and its booking date.
 
@@ -1364,7 +1340,7 @@ Transcript Snippet: we've turned uh this event into an effective Trump rally.
 
 Anchored Artifacts: 
 Mentions: N-131, N-1, N-5
-Related Nodes: N-10002, N-10199
+Related Nodes: N-10002, N-10191
 Tags: relevance:core
 Investigative Direction: Obtain the memorial speaker list and transcript of the speeches.
 
@@ -1380,7 +1356,7 @@ Transcript Snippet: it just so happened that Charlie Kirk kept notebooks and dia
 
 Anchored Artifacts: 
 Mentions: N-17, N-1, N-190
-Related Nodes: N-10218, N-10194
+Related Nodes: N-10186
 Supports: C-2263
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's original statement and any notebook pages or provenance for the succession plan.
@@ -1397,7 +1373,7 @@ Transcript Snippet: the ghost of Charlie's notebooks that were never going to be
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10218
+Related Nodes: N-10186
 Tags: relevance:core
 Investigative Direction: Ask TPUSA for access to or custody records of the notebooks; check probate or estate filings for a will.
 
@@ -1429,7 +1405,7 @@ Transcript Snippet: He won pretty handily against Andrew Cuomo, which like 5 min
 
 Anchored Artifacts: 
 Mentions: N-223, N-840, N-3
-Related Nodes: N-11226
+Related Nodes: N-11142
 Tags: relevance:tangential
 Investigative Direction: Check certified NYC mayoral results and the dated Republican statements about Cuomo.
 
@@ -1445,7 +1421,7 @@ Transcript Snippet: Bill gave 1.75 million and Mom Donnie won irrespective of th
 
 Anchored Artifacts: 
 Mentions: N-37, N-223
-Related Nodes: N-11226
+Related Nodes: N-11142
 Tags: relevance:tangential
 Investigative Direction: Check super PAC and campaign finance filings for Ackman's contributions in the 2025 NYC mayoral race.
 
@@ -1461,7 +1437,7 @@ Transcript Snippet: He gave $8.3 million to Stop Mand Donnie and it didn't matte
 
 Anchored Artifacts: 
 Mentions: N-841, N-842, N-223
-Related Nodes: N-11226
+Related Nodes: N-11142
 Tags: relevance:tangential
 Investigative Direction: Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.
 
@@ -1573,7 +1549,7 @@ Transcript Snippet: President Trump dedicated 900% more truth social uh posts to
 
 Anchored Artifacts: 
 Mentions: N-5, N-223, N-1
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:core
 Investigative Direction: Count Trump's Truth Social posts on Mamdani and on the Kirk investigation over the same period.
 
@@ -1589,7 +1565,7 @@ Transcript Snippet: he didn't even send one message about uh investigating Charl
 
 Anchored Artifacts: 
 Mentions: N-5, N-1
-Related Nodes: N-10587
+Related Nodes: N-10535
 Tags: relevance:core
 Investigative Direction: Search Trump's Truth Social posts since September 10 for any reference to investigating Kirk's murder.
 
@@ -1637,7 +1613,7 @@ Transcript Snippet: she watched the totally deranged Tucker is not MAGA Republic
 
 Anchored Artifacts: 
 Mentions: N-221, N-22
-Related Nodes: N-10917
+Related Nodes: N-10838
 Tags: relevance:tangential
 Investigative Direction: Locate the Republican Jewish Coalition event recording and Cooper's reaction video.
 
@@ -1781,7 +1757,7 @@ Transcript Snippet: Each year, Riverbend Ranch provides about 850 elite black An
 
 Anchored Artifacts: A-3019.1
 Mentions: N-3
-Related Nodes: N-10124
+Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Verify the figures against Riverbend Ranch's own materials and the sponsorship disclosure.
 
@@ -1797,7 +1773,7 @@ Transcript Snippet: Charlie was never rendered any first aid immediately.
 
 Anchored Artifacts: A-1344.1
 Mentions: N-1, N-3
-Related Nodes: N-10225, N-11100
+Related Nodes: N-10213, N-11018
 Supports: C-1971
 Tags: relevance:core
 Investigative Direction: Obtain the multi-angle footage and security team accounts of the first minute after the shot.
@@ -1814,7 +1790,7 @@ Transcript Snippet: The security guard lifts him and guides him onto the ground,
 
 Anchored Artifacts: A-1344.2
 Mentions: N-1
-Related Nodes: N-10225
+Related Nodes: N-10213
 Tags: relevance:core
 Investigative Direction: Obtain the back and side footage and identify the guard and the equipment case.
 
@@ -1830,7 +1806,7 @@ Transcript Snippet: They're on either side of him, which is very strange.
 
 Anchored Artifacts: A-1344.2
 Mentions: N-1, N-180
-Related Nodes: N-10225
+Related Nodes: N-10213
 Tags: relevance:core
 Investigative Direction: Review post-shooting footage around the camera removal for the presence of the equipment box.
 
@@ -1846,7 +1822,7 @@ Transcript Snippet: He doesn't they don't even open their bag and try to adminis
 
 Anchored Artifacts: A-1344.1
 Mentions: N-1
-Related Nodes: N-10225, N-11100
+Related Nodes: N-10213, N-11018
 Supports: C-1971
 Tags: relevance:core
 Investigative Direction: Obtain the security contract and footage timing of the first 30 seconds on the ground.
@@ -1863,7 +1839,7 @@ Transcript Snippet: he never stops this move for a single second.
 
 Anchored Artifacts: A-1344.1
 Mentions: N-190
-Related Nodes: N-10226
+Related Nodes: N-10214
 Supports: C-1738
 Tags: relevance:core
 Investigative Direction: Obtain the full-length footage of Mikey McCoy's path and posture after the shot.
@@ -1880,7 +1856,7 @@ Transcript Snippet: I and him both had the reaction of let's get out of here bef
 
 Anchored Artifacts: A-1339.1
 Mentions: N-159, N-190, N-1
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and the video of his and McCoy's movements.
 
@@ -1896,7 +1872,7 @@ Transcript Snippet: I think I was ahead of him as we left.
 
 Anchored Artifacts: A-1339.1
 Mentions: N-159, N-190
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare Neff's account with footage tracking both men's positions.
 
@@ -1912,7 +1888,7 @@ Transcript Snippet: he was like a general directing a battle where he was you kn
 
 Anchored Artifacts: A-1339.1
 Mentions: N-159, N-190, N-2
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and statements from others at the scene.
 
@@ -1928,7 +1904,7 @@ Transcript Snippet: none of you can say anything that you've heard because it is
 
 Anchored Artifacts: A-1339.1
 Mentions: N-159, N-190, N-2
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and ask other staff present whether the instruction was given.
 
@@ -1944,7 +1920,7 @@ Transcript Snippet: And he is on the phone already. And Blake Neff is nowhere to
 
 Anchored Artifacts: A-1344.1
 Mentions: N-190, N-159
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: Obtain wide footage tracking both men's movements from the shot to the vehicles.
 
@@ -1960,7 +1936,7 @@ Transcript Snippet: I'm supposed to believe what this was a 15-second phone call
 
 Anchored Artifacts: 
 Mentions: N-190, N-2, N-159
-Related Nodes: N-10338, N-10482
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk covering the minutes after the shot.
 
@@ -1976,7 +1952,7 @@ Transcript Snippet: He made three cuz he also called Elizabeth McCoy, his wife, 
 
 Anchored Artifacts: 
 Mentions: N-190, N-217
-Related Nodes: N-10338
+Related Nodes: N-10214
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain call logs for the three reported calls.
 
@@ -1992,7 +1968,7 @@ Transcript Snippet: every day that goes on, it feels to me like Turning Point is
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10224
+Related Nodes: N-10000, N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA and UVU records on the event request and confirmation dates.
 
@@ -2008,7 +1984,7 @@ Transcript Snippet: Blake Neff says elsewhere they got into the hospital within 
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-10149
+Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Locate Neff's statement on arrival time and compare with transport and hospital records.
 
@@ -2024,7 +2000,7 @@ Transcript Snippet: the hospital was put on lockdown when Charlie came in.
 
 Anchored Artifacts: 
 Mentions: N-190, N-159, N-7
-Related Nodes: N-10149
+Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Obtain hospital access logs and security records for who was admitted and when.
 
@@ -2040,7 +2016,7 @@ Transcript Snippet: to dispel this rumor, right, by letting people see the call 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10193, N-10217
+Related Nodes: N-10185, N-10208
 Tags: relevance:core
 Investigative Direction: Identify who has stated that releasing call logs or footage would harm the case.
 
@@ -2056,7 +2032,7 @@ Transcript Snippet: They're lying about the timing of the phone calls.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10193, N-10338
+Related Nodes: N-10185, N-10214
 Tags: relevance:core
 Investigative Direction: Obtain the call logs for the calls described by Neff and compare timing.
 
@@ -2072,7 +2048,7 @@ Transcript Snippet: the feeling I'm getting that they were positioning Mikey to 
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-10227
+Related Nodes: N-10215
 Supports: C-2262
 Tags: relevance:core
 Investigative Direction: Document statements and role changes that elevated Mikey McCoy after September 10.
@@ -2089,7 +2065,7 @@ Transcript Snippet: they didn't bring back his YouTube channel and started sched
 
 Anchored Artifacts: A-1343.1
 Mentions: N-1
-Related Nodes: N-10227, N-10002
+Related Nodes: N-10215, N-10002
 Tags: relevance:core
 Investigative Direction: Obtain the YouTube channel upload and scheduling history for September 2025.
 
@@ -2105,7 +2081,7 @@ Transcript Snippet: So you see you've got Charlie and Ben, you've got Charlie, C
 
 Anchored Artifacts: A-1343.1
 Mentions: N-1, N-97, N-95, N-190, N-217
-Related Nodes: N-10227
+Related Nodes: N-10215
 Tags: relevance:core
 Investigative Direction: Capture the channel's upload list as of the date the screenshot was taken.
 
@@ -2137,7 +2113,7 @@ Transcript Snippet: the pro-Israel crowd, are signaling hard to us that another 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10064
+Related Nodes: N-10061
 Tags: relevance:tangential
 Investigative Direction: None: speculative assertion about a group; record only as said on air.
 
@@ -2153,7 +2129,7 @@ Transcript Snippet: she has been on multiple Psych 5150 holds.
 
 Anchored Artifacts: A-1340.1
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:tangential
 Investigative Direction: Check court or police records or Loomer's own statements regarding involuntary psychiatric holds.
 
@@ -2169,7 +2145,7 @@ Transcript Snippet: chained herself to Twitter when she got banned from Twitter 
 
 Anchored Artifacts: A-1340.1
 Mentions: N-60
-Related Nodes: N-10630
+Related Nodes: N-10576
 Tags: relevance:tangential
 Investigative Direction: Check contemporaneous news coverage of the 2018 Twitter headquarters protest.
 
@@ -2185,7 +2161,7 @@ Transcript Snippet: She can't produce any Bat Mitzvah pictures because it never 
 
 Anchored Artifacts: A-1340.1
 Mentions: N-60
-Related Nodes: N-10630
+Related Nodes: N-10576
 Tags: relevance:tangential
 Investigative Direction: Check Loomer's public statements on her background; no documentary record has been produced on air.
 
@@ -2233,7 +2209,7 @@ Transcript Snippet: a story was released later that he was protecting some of hi
 
 Anchored Artifacts: A-3020.1
 Mentions: N-5, N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Identify the story the host refers to and its publication date and sources.
 
@@ -2297,7 +2273,7 @@ Transcript Snippet: I think that's already happened actually and I think it had 
 
 Anchored Artifacts: A-3020.3
 Mentions: N-3
-Related Nodes: N-10073, N-10000, N-11227
+Related Nodes: N-10070, N-10000, N-11143
 Tags: relevance:core
 Investigative Direction: Obtain donor, board and staffing records at TPUSA showing APAC or AIPAC-linked influence; follow the host's promised evidence.
 
@@ -2313,7 +2289,7 @@ Transcript Snippet: They planned it perfectly. So this phone call and walking aw
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10226, N-10198
+Related Nodes: N-10214, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain footage and call records for a behavioral comparison against the witness accounts.
 
@@ -2329,7 +2305,7 @@ Transcript Snippet: Everything that we see looks like a military operation on th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10198
+Related Nodes: N-10190
 Tags: relevance:core
 Investigative Direction: None: interpretive assertion; would require the evidence of a military link to be produced.
 
@@ -2361,7 +2337,7 @@ Transcript Snippet: the covering up of the 12 Israeli cell phones because if it 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10222
+Related Nodes: N-10212
 Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Obtain the underlying phone-location data and official responses regarding the reported Israeli devices at UVU.
@@ -2378,7 +2354,7 @@ Transcript Snippet: Kash Patel is frantic and he's angry and he's shouting at pe
 
 Anchored Artifacts: 
 Mentions: N-69, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Identify the host's source and any corroborating FBI accounts.
 
@@ -2468,7 +2444,7 @@ Confidence: high
 - **A-1339.1** – Interview outlet, publication date, and full context require verification against the original published segment.
 - **A-1341.1** – Original outlet, full segment, and surrounding context require verification.
 - **Multiple A-1336 / A-1337 references** – Brett Cooper referenced as "23 years old" and "Gen Z" but date-of-birth not artifact-anchored.
-- **N-10225, N-10226, N-10227** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
+- **N-10213, N-10214, N-10215** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
 
 ---
 
@@ -2480,7 +2456,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-221–N-17)
-- [x] Non-person investigation targets use the 1000 series (N-10224–N-10227)
+- [x] Non-person investigation targets use the 1000 series (N-10211–N-10215)
 - [x] No speculative host-framing claims inscribed as evidence-backed claims
 - [x] Names preserved as they appear; "Mamdani" corrected from host's "Mom Donnie"/"Mam Donnie" variant to documented name
 - [x] Formatting consistent with protocol

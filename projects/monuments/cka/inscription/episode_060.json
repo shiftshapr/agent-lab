@@ -113,7 +113,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10430"
+            "N-10400"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -252,7 +252,7 @@
             "N-3",
             "N-1",
             "N-11",
-            "N-11038"
+            "N-10956"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -280,7 +280,7 @@
             "N-3",
             "N-1",
             "N-2",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -308,7 +308,7 @@
             "N-3",
             "N-2",
             "N-1",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -486,13 +486,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10430"
+        "N-10400"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10430",
-      "ref": "N-10430",
+      "@id": "N-10400",
+      "ref": "N-10400",
       "name": "Plane Records Timing Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac).",
@@ -514,8 +514,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10431",
-      "ref": "N-10431",
+      "@id": "N-10401",
+      "ref": "N-10401",
       "name": "Aspen Donor Retreat \"What Happens When You Die\" Question",
       "type": "investigation_target",
       "description": "Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange.",
@@ -806,9 +806,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11035",
-      "ref": "N-11035",
-      "name": "TPUSA Employee Purge and Leak Hunt",
+      "@id": "N-11002",
+      "ref": "N-11002",
+      "name": "TPUSA Leak Hunt and Employee Firings",
       "type": "topic",
       "description": "Reported firing of 30 to 40 TPUSA employees in a hunt for leaks, including a staffer whose laptop held screenshots of the host's timeline.",
       "related_artifacts": [],
@@ -825,8 +825,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10267",
-      "ref": "N-10267",
+      "@id": "N-10251",
+      "ref": "N-10251",
       "name": "TPUSA Drone Disclosure Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -842,8 +842,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -906,8 +906,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11036",
-      "ref": "N-11036",
+      "@id": "N-10954",
+      "ref": "N-10954",
       "name": "Aurora Theater Shooting Pattern Inquiry",
       "type": "topic",
       "description": "The host's and Coleman's examination of the 2012 Aurora theater shooting, victim Jessica Ghawi and links to other shootings and military presence.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10426",
-      "ref": "N-10426",
+      "@id": "N-10399",
+      "ref": "N-10399",
       "name": "New Braunfels Texas Security Personnel Cluster",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1006,8 +1006,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1058,8 +1058,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1186,8 +1186,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11037",
-      "ref": "N-11037",
+      "@id": "N-10955",
+      "ref": "N-10955",
       "name": "Dave Rubin PragerU Employee Grooming Allegation",
       "type": "topic",
       "description": "The host's allegation that Dave Rubin and his husband pushed a young former PragerU colleague toward a first date and kiss, which she says ended her friendship with Rubin.",
@@ -1223,8 +1223,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1240,8 +1240,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11038",
-      "ref": "N-11038",
+      "@id": "N-10956",
+      "ref": "N-10956",
       "name": "Shaffer Security",
       "type": "organization",
       "description": "Security firm the host says she distrusted and warned Charlie Kirk and Tyler Bowyer about in a group chat.",
@@ -1257,8 +1257,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1275,8 +1275,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1314,8 +1314,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10437",
-      "ref": "N-10437",
+      "@id": "N-10406",
+      "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1367,8 +1367,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11039",
-      "ref": "N-11039",
+      "@id": "N-10957",
+      "ref": "N-10957",
       "name": "Erika Kirk Foreknowledge Question",
       "type": "topic",
       "description": "The host's question and stated opinion on whether Erika Kirk knew Charlie Kirk would die the next day.",
@@ -1401,8 +1401,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10122",
-      "ref": "N-10122",
+      "@id": "N-10117",
+      "ref": "N-10117",
       "name": "Jezebel",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1435,15 +1435,18 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Tarmac Hug Account Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
         "C-5410",
-        "C-5411"
+        "C-5411",
+        "C-5416",
+        "C-5417",
+        "C-5418"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1453,28 +1456,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10560",
-      "ref": "N-10560",
-      "name": "Tarmac Hug Timeline Reconciliation Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5410",
-        "C-5416",
-        "C-5417",
-        "C-5418"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1490,8 +1473,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1509,8 +1492,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10358",
-      "ref": "N-10358",
+      "@id": "N-10334",
+      "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1528,8 +1511,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1547,9 +1530,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10370",
-      "ref": "N-10370",
-      "name": "Fort Huachuca Morning Meeting Investigation",
+      "@id": "N-10305",
+      "ref": "N-10305",
+      "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1665,7 +1648,7 @@
         "A-1657.1"
       ],
       "related_nodes": [
-        "N-10430"
+        "N-10400"
       ],
       "tags": [],
       "claim_timestamp": "01:08:11",
@@ -1759,7 +1742,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11035"
+        "N-11002"
       ],
       "tags": [],
       "claim_timestamp": "00:00:59",
@@ -1779,7 +1762,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11035"
+        "N-11002"
       ],
       "tags": [],
       "claim_timestamp": "00:01:39",
@@ -1799,7 +1782,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11035"
+        "N-11002"
       ],
       "tags": [],
       "claim_timestamp": "00:01:39",
@@ -1854,7 +1837,7 @@
       "claim": "The host says TPUSA's account of the drones has kept changing until a lawyer said there were drones, but they were for the media only and not for the security team.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10267",
+        "N-10251",
         "N-10000"
       ],
       "tags": [],
@@ -1876,7 +1859,7 @@
       "claim": "The host says everyone in the film that was never released is related to Fort Huachuca and the Sierra Vista area.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:04:42",
@@ -1894,7 +1877,7 @@
       "claim": "The host says Erika Kirk has been very open that her mother had Department of Defense contracts, and that once you look into what the mother did, Erika is clearly familiar with Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417"
+        "N-10390"
       ],
       "tags": [],
       "claim_timestamp": "00:04:42",
@@ -1913,8 +1896,8 @@
       "claim": "The host says she learned that Dan Flood's father ran Intel at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10694"
+        "N-10390",
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:04:42",
@@ -1934,7 +1917,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10694"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:04:42",
@@ -1953,8 +1936,8 @@
       "claim": "The host says that Dan Flood's protectee told him within a few days that someone was probably going to kill him and then died, which she calls, in her opinion, prime evidence Flood failed at his job.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340",
-        "N-10694"
+        "N-10318",
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:05:43",
@@ -1974,7 +1957,7 @@
       "claim": "The host says her Turning Point insider told her that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10694",
+        "N-10632",
         "N-10000"
       ],
       "tags": [],
@@ -1995,7 +1978,7 @@
       "claim": "The host says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [],
       "claim_timestamp": "00:06:35",
@@ -2054,7 +2037,7 @@
       "claim": "The host says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which she says looks pretty military in retrospect.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -2072,7 +2055,7 @@
       "claim": "The host says Pastor Rob McCoy is intimately involved with the victims of the Thousand Oaks Borderline Bar and Grill shooting, and that those at the bar were there because they had survived the Las Vegas shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:09:46",
@@ -2091,7 +2074,7 @@
       "claim": "The host says Rob McCoy happens to be in Nashville when there is another shooting, same story, which she describes as the official account that a trans person she calls Audrey Hale went crazy and shot up an elementary school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:09:46",
@@ -2110,7 +2093,7 @@
       "claim": "The host says she asked Coleman whether mass shootings could be targets where the military goes in and kills people and then blames a transgender person or a die-hard MAGA guy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:11:25",
@@ -2129,7 +2112,7 @@
       "claim": "Baron Coleman says Jessica Ghawi was in the Toronto mall food court in 2012, paid her bill minutes before the shooting started, and left after a feeling in her stomach, then died weeks later in the Aurora shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:12:10",
@@ -2148,8 +2131,8 @@
       "claim": "Baron Coleman says Jessica Ghawi used to live in New Braunfels, Texas, and he asks what goes on in New Braunfels, the town the host links to Dan Flood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036",
-        "N-10426"
+        "N-10954",
+        "N-10399"
       ],
       "tags": [],
       "claim_timestamp": "00:13:01",
@@ -2169,8 +2152,8 @@
       "claim": "Baron Coleman says the man who died with Jessica Ghawi had flown in from New Braunfels, Texas, to see her and go to the Aurora movie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036",
-        "N-10426"
+        "N-10954",
+        "N-10399"
       ],
       "tags": [],
       "claim_timestamp": "00:13:01",
@@ -2189,7 +2172,7 @@
       "claim": "The host says that, rather than leaving her where she lay, two police officers went into the theater, pulled Jessica Ghawi into a police car and took her to a hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:13:48",
@@ -2208,7 +2191,7 @@
       "claim": "The host says Aurora, Colorado had the Buckley Air Force Base from the year 2000 to 2021, which is now a Space Force base, so there is a military presence there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:14:32",
@@ -2226,7 +2209,7 @@
       "claim": "The host says that in the Aurora theater alone there were a ton of military guys among the victims.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:14:50",
@@ -2244,7 +2227,7 @@
       "claim": "The host says Jessica Ghawi's father's obituary did not mention her though he was mentioned in hers, and that the father adopted a young boy after she left the house.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11036"
+        "N-10954"
       ],
       "tags": [],
       "claim_timestamp": "00:14:50",
@@ -2297,7 +2280,7 @@
       "claim": "The host says there are actual Satanists running psychological operations in the military and that she is learning about children being trafficked onto military bases, while making clear she means the top and not rank-and-file troops.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55",
@@ -2351,7 +2334,7 @@
       "claim": "The host says that Bibi Netanyahu made an offer to Charlie Kirk to take Turning Point to the next level.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
@@ -2375,7 +2358,7 @@
       "claim": "The host says it was Andrew Kolvet, the TPUSA spokesperson, who told her about the Netanyahu offer, and that it did not come from a random conspiracy theorist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:25:26",
@@ -2397,7 +2380,7 @@
       "claim": "The host says the Netanyahu offer was confirmed by somebody in Andrew Kolvet's personal orbit, who said Kolvet told them he lost money when it happened, and she says she does not know what Netanyahu wanted in exchange.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:25:26",
@@ -2420,7 +2403,7 @@
       "claim": "The host says Marissa Streit, the Prager University CEO, is working on a documentary with a man she names as Shabbos Kestenbaum, who is telling people it will be a takedown of Candace Owens.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [],
       "claim_timestamp": "00:29:52",
@@ -2520,8 +2503,8 @@
       "claim": "The host says Dave Rubin hired a young person, perhaps 18 or 19, who worked on her team at Prager University, to move to Miami and work for Rubin and his husband.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11037",
-        "N-10131"
+        "N-10955",
+        "N-10126"
       ],
       "tags": [],
       "claim_timestamp": "00:34:44",
@@ -2540,7 +2523,7 @@
       "claim": "The host says Rubin told her and her husband that he and his husband thought the shy young employee was secretly gay and had been egging him to experiment and hook up with a guy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11037"
+        "N-10955"
       ],
       "tags": [],
       "claim_timestamp": "00:35:34",
@@ -2559,7 +2542,7 @@
       "claim": "The host says Rubin told her they pushed the young employee to go on a date with a guy and have his first kiss, after which the employee quit and moved, she thinks to Texas, and she says it was obvious to her they were grooming him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11037"
+        "N-10955"
       ],
       "tags": [],
       "claim_timestamp": "00:36:29",
@@ -2578,7 +2561,7 @@
       "claim": "The host says that story is the reason she stopped being friends with Dave Rubin and that she never shared it until his post, and she adds that Rubin has told her he has done drugs with Peter Thiel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11037"
+        "N-10955"
       ],
       "tags": [],
       "claim_timestamp": "00:36:29",
@@ -2691,7 +2674,7 @@
       "claim": "The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [],
       "claim_timestamp": "00:46:48",
@@ -2713,7 +2696,7 @@
         "A-2759.1"
       ],
       "related_nodes": [
-        "N-11038"
+        "N-10956"
       ],
       "tags": [],
       "claim_timestamp": "00:49:40",
@@ -2733,7 +2716,7 @@
       "claim": "The host says the school Charlie Kirk attended, which she has called his 'X-Men school', is now called Quest Academy and had a different name when he went there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:49:40",
@@ -2752,7 +2735,7 @@
       "claim": "The host says she thinks the military seeks out gifted children, tests them and tries to turn them into state weapons, and that bad things can happen if they refuse to serve the deep state.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [],
       "claim_timestamp": "00:49:40",
@@ -2772,7 +2755,7 @@
         "A-2760.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:51:30",
@@ -2792,7 +2775,7 @@
       "claim": "The host says Charlie Kirk's consistent public position was that, with young kids, a woman should not work outside the home if she can avoid it, which she says conflicts with the claim he wanted Erika to take over.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:51:30",
@@ -2812,7 +2795,7 @@
       "claim": "The host says the TPUSA side's story has been that if anything ever happened to Charlie Kirk, he wanted Erika to take over.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:52:18",
@@ -2834,7 +2817,7 @@
         "A-2761.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:53:04",
@@ -2854,7 +2837,7 @@
       "claim": "The host says she asked whether the statement was made at Bill Ackman's house, and Erika's side answered no, it was at a donor retreat in Aspen in August.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431"
+        "N-10401"
       ],
       "tags": [],
       "claim_timestamp": "00:53:59",
@@ -2874,7 +2857,7 @@
       "claim": "The host says that after she found out who was at the Aspen retreat and reached out, they alleged that somebody had asked Charlie Kirk 'What happens if you die?', which she calls a weird question, and she adds that he died a month later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431"
+        "N-10401"
       ],
       "tags": [],
       "claim_timestamp": "00:53:59",
@@ -2893,8 +2876,8 @@
       "claim": "The host says she asked two attendees of the small, exclusive Aspen donor retreat and neither remembers Charlie Kirk saying he wanted Erika to take over.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431",
-        "N-10437"
+        "N-10401",
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:54:34",
@@ -2914,8 +2897,8 @@
       "claim": "The host says one Aspen attendee remembers Charlie Kirk describing how TPUSA would grow and, when asked how he could do all of it, apparently answering that he hires people under him to run things.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431",
-        "N-10437"
+        "N-10401",
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:55:26",
@@ -2934,7 +2917,7 @@
       "claim": "The host says she is trying to confirm that Charlie Kirk said he wanted Erika to take over, cannot so far, and that the obvious step is for TPUSA to release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:56:50",
@@ -2954,7 +2937,7 @@
       "claim": "Baron Coleman says he is told there was audio and visual recording of the event in the Hamptons, and adds that he no longer believes audio or video without someone in the room confirming it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
+        "N-10606",
         "N-10027"
       ],
       "tags": [],
@@ -2973,7 +2956,7 @@
       "claim": "The host says that Erika Kirk told her the take-over statement was made in Aspen, while Coleman says he had thought the what-happens-when-you-die question came from the Hamptons.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431",
+        "N-10401",
         "N-10027"
       ],
       "tags": [],
@@ -2994,7 +2977,7 @@
       "claim": "The host says the Aspen donor event took place on August 15 to 17, less than a month before Charlie Kirk died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10431"
+        "N-10401"
       ],
       "tags": [],
       "claim_timestamp": "00:58:22",
@@ -3034,7 +3017,7 @@
       "claim": "The host says that first TPUSA would say she was a liar, then had to confirm that Charlie Kirk messaged Andrew Kolvet and Dan Flood the night before and said he was worried he was going to be assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:58:22",
@@ -3076,7 +3059,7 @@
       "claim": "Baron Coleman says his biggest question is whether Erika Kirk knew Charlie was going to die the next day, and that in his opinion the answer is yes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11039"
+        "N-10957"
       ],
       "tags": [],
       "claim_timestamp": "01:00:24",
@@ -3096,8 +3079,8 @@
       "claim": "The host says that, according to what Megyn Kelly was told, a priest came over to pray about the Jezebel article 48 hours before the assassination, which she finds strange given Charlie Kirk's humor about hostile articles.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10117",
-        "N-10122"
+        "N-10113",
+        "N-10117"
       ],
       "tags": [],
       "claim_timestamp": "01:00:24",
@@ -3120,8 +3103,7 @@
       "claim": "The host says Andrew Kolvet told her on the phone that he was anxious and pent up on the plane, and that as soon as it landed he got off and ran into Erika's arms on the tarmac and cried.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10560"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
@@ -3146,8 +3128,8 @@
         "A-1657.1"
       ],
       "related_nodes": [
-        "N-10430",
-        "N-10548"
+        "N-10400",
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "01:02:31",
@@ -3170,7 +3152,7 @@
       "claim": "The host says Erika Kirk told her that she found out Charlie Kirk was dead before they took off in Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10430"
+        "N-10400"
       ],
       "tags": [],
       "claim_timestamp": "01:02:31",
@@ -3190,7 +3172,7 @@
       "claim": "The host says that after Erika Kirk waited for Kolvet, they went into the hospital by different entrances, with Erika through the back and Kolvet through the front.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "01:02:31",
@@ -3212,7 +3194,7 @@
         "A-1657.1"
       ],
       "related_nodes": [
-        "N-10430"
+        "N-10400"
       ],
       "tags": [],
       "claim_timestamp": "01:08:11",
@@ -3235,8 +3217,8 @@
         "A-1657.1"
       ],
       "related_nodes": [
-        "N-10430",
-        "N-10560"
+        "N-10400",
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "01:08:11",
@@ -3258,7 +3240,7 @@
       "claim": "The host says that when she asked Erika Kirk and Justin Streiff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know; Coleman adds that surely Erika would have seen the wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10560"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "01:09:42",
@@ -3281,8 +3263,8 @@
         "A-1657.1"
       ],
       "related_nodes": [
-        "N-10560",
-        "N-10430"
+        "N-10502",
+        "N-10400"
       ],
       "tags": [],
       "claim_timestamp": "01:10:18",
@@ -3305,8 +3287,8 @@
       "claim": "The host says Erika Kirk told her to her face that Andrew Kolvet went rogue over the surgeon story, which the host did not believe because of HIPAA concerns for a seasoned surgeon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10358"
+        "N-10319",
+        "N-10334"
       ],
       "tags": [],
       "claim_timestamp": "01:11:11",
@@ -3329,8 +3311,8 @@
       "claim": "The host says her source told her that Erika Kirk was on the phone and that the quotation about the bullet came from Erika, not from Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10358"
+        "N-10319",
+        "N-10334"
       ],
       "tags": [],
       "claim_timestamp": "01:11:11",
@@ -3353,8 +3335,8 @@
       "claim": "The host says the person close to the surgeon told her that TPUSA panicked about her episode and called the surgeon to ask why the bullet did not go through, and he said he did not know why it did not if it was a .30-06.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10358"
+        "N-10319",
+        "N-10334"
       ],
       "tags": [],
       "claim_timestamp": "01:11:53",
@@ -3375,7 +3357,7 @@
       "claim": "The host says the person who gave her the tip about Dan Flood said money is being funneled through the Cattlemen's Ball, or Cattle Baron's Ball, as a money laundering operation to pay off dirty cops, with the funds said to go to the American Cancer Society.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10426"
+        "N-10399"
       ],
       "tags": [],
       "claim_timestamp": "01:13:01",
@@ -3399,7 +3381,7 @@
         "A-1658.1"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "01:14:50",
@@ -3424,7 +3406,7 @@
         "A-1658.1"
       ],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "01:17:23",
@@ -3449,8 +3431,8 @@
         "A-1658.1"
       ],
       "related_nodes": [
-        "N-10367",
-        "N-10370"
+        "N-10342",
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "01:17:23",

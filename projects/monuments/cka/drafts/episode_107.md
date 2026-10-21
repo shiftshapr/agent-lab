@@ -11,15 +11,15 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-727, N-728, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
-  - Hole-minted Nodes (reintro-ep107): N-10700, N-10785
-  - Tip-minted Nodes (reintro-ep107): N-10942
+  - Tip-minted Nodes (supplement_2026-10): N-727, N-728, N-10965, N-10966, N-10967, N-10968, N-10969, N-10970
+  - Hole-minted Nodes (reintro-ep107): N-10637
+  - Tip-minted Nodes (reintro-ep107): N-10863
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-9360–C-9488
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-7, N-208, N-341, N-342, N-10601, N-10622, N-9, N-224, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-343, N-348, N-344, N-349, N-724, N-725, N-726
+  - Reused Nodes Appearing: N-3, N-7, N-208, N-341, N-342, N-10548, N-10568, N-9, N-224, N-10000, N-10006, N-10026, N-10060, N-10371, N-10551, N-10552, N-10564, N-10844, N-343, N-348, N-344, N-349, N-724, N-725, N-726
   - Hole-minted Nodes (wave1): N-345, N-346, N-347
-  - Tip-minted Nodes (wave1): N-10893
+  - Tip-minted Nodes (wave1): N-10814
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-9362..C-9454 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (host recount; post not displayed in transcript)
 
-*Related: C-9362, C-9363, N-341, N-343, N-10622*
+*Related: C-9362, C-9363, N-341, N-343, N-10568*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 01:13:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (text read on air)
 
-*Related: C-9478, C-9454, N-341, N-10893*
+*Related: C-9478, C-9454, N-341, N-10814*
 
 ---
 
@@ -369,7 +369,7 @@ Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse
 
 *Related: A-2506.1, C-9379, C-9406*
 
-**N-10893** 45,000 Rescue Claim Discrepancy
+**N-10814** 45,000 Rescue Claim Discrepancy
 
 Node Type: Topic
 Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.
@@ -450,7 +450,7 @@ Setting of Marx's post-October 7 trips, the rocket fire and the six-hour reinfor
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Subject of Marx's account of entering Gaza and of the exchange on whether it is a genocide.
 
@@ -458,7 +458,7 @@ Subject of Marx's account of entering Gaza and of the exchange on whether it is 
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Structure of Turning Point USA Faith, discussed in the host's remarks on Charlie's Aspen statement and Erika Kirk's role.
 
@@ -466,7 +466,7 @@ Structure of Turning Point USA Faith, discussed in the host's remarks on Charlie
 
 ---
 
-**N-10601** Victor Marx IDF 50,000 Guns Request
+**N-10548** Victor Marx IDF 50,000 Guns Request
 
 Topic of Corby Hall's allegation and Marx's reply that he buys only for his own training.
 
@@ -474,7 +474,7 @@ Topic of Corby Hall's allegation and Marx's reply that he buys only for his own 
 
 ---
 
-**N-10604** Victor Marx Background Verification
+**N-10551** Victor Marx Background Verification
 
 Topic for the host's checks of Marx's background with family members.
 
@@ -482,7 +482,7 @@ Topic for the host's checks of Marx's background with family members.
 
 ---
 
-**N-10605** Erika Kirk–Victor Marx Relationship Verification
+**N-10552** Erika Kirk–Victor Marx Relationship Verification
 
 Topic for Marx's account of his relationships with Charlie, Erika and Eileen Marx.
 
@@ -490,7 +490,7 @@ Topic for Marx's account of his relationships with Charlie, Erika and Eileen Mar
 
 ---
 
-**N-10618** Victor Marx IDF / Israeli Defense Group Connection
+**N-10564** Victor Marx IDF / Israeli Defense Group Connection
 
 Topic for Marx's statements about IDF special operations access and his Charlie Kirk Show appearance.
 
@@ -498,7 +498,7 @@ Topic for Marx's statements about IDF special operations access and his Charlie 
 
 ---
 
-**N-10622** Early-Death-Announcement Timeline Verification
+**N-10568** Early-Death-Announcement Timeline Verification
 
 Topic for the timing and explanation of Marx's early Instagram posts about Charlie Kirk's death.
 
@@ -506,7 +506,7 @@ Topic for the timing and explanation of Marx's early Instagram posts about Charl
 
 ---
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 Topic under which the host's new FOIA request for White House Correspondents Dinner emails falls.
 
@@ -514,15 +514,7 @@ Topic under which the host's new FOIA request for White House Correspondents Din
 
 ---
 
-**N-10785** Victor Marx Biographical Claims Verification
-
-Topic for the host's recap and Marx's answers about his biography and abuse narrative.
-
-*Related: C-9366, C-9367, C-9368, C-9369, C-9370, C-9371, C-9372, C-9373, C-9374, C-9380, C-9384, C-9385, C-9390, C-9395, C-9397, C-9396, C-9398, C-9402, C-9405, C-9409, C-9411, C-9414, C-9415, C-9416, C-9417, C-9421, C-9446, C-9447, C-9468, C-9482*
-
----
-
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Topic of the White House email the host says the press team is not answering about.
 
@@ -530,7 +522,7 @@ Topic of the White House email the host says the press team is not answering abo
 
 ---
 
-**N-10942** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
+**N-10863** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
 
 Topic for Marx's account of the text reassuring Erika Kirk that they only wanted Charlie.
 
@@ -578,7 +570,7 @@ First named by Victor Marx at 00:51:20 in episode 107. Marx says Eubank invited 
 
 ---
 
-**N-11047** All Things Possible Ministries
+**N-10965** All Things Possible Ministries
 
 Node Type: Organization
 Victor Marx's ministry, which the host says he and his brother began in 2003; Marx discusses its funding, missions, law-enforcement partnerships and counts of people helped.
@@ -587,7 +579,7 @@ Victor Marx's ministry, which the host says he and his brother began in 2003; Ma
 
 ---
 
-**N-11048** Victor Marx Retooling Prayer and Deliverance Practice
+**N-10966** Victor Marx Retooling Prayer and Deliverance Practice
 
 Node Type: Topic
 The practice, described by the host as 'retooling' prayer and by Marx as deliverance prayer, in which Marx says he uses Christ's authority to cast out demons, with sessions he says are recorded.
@@ -596,7 +588,7 @@ The practice, described by the host as 'retooling' prayer and by Marx as deliver
 
 ---
 
-**N-11049** Holly Chalmers Rescue Dispute
+**N-10967** Holly Chalmers Rescue Dispute
 
 Node Type: Topic
 The dispute between Holly Chalmers, who accuses Marx of kidnapping her across state lines and calls him a trafficker, and Marx, who says he rescued her from a pedophile boyfriend with HSI approval.
@@ -605,7 +597,7 @@ The dispute between Holly Chalmers, who accuses Marx of kidnapping her across st
 
 ---
 
-**N-11050** Corby Hall Threat and Law Enforcement Search Dispute
+**N-10968** Corby Hall Threat and Law Enforcement Search Dispute
 
 Node Type: Topic
 The dispute over whether Corby Hall threatened Marx, whether Corey filed statements with the FBI and local authorities, and whether the FBI and El Paso County Sheriff are seeking Hall or investigating Marx for guns.
@@ -614,7 +606,7 @@ The dispute over whether Corby Hall threatened Marx, whether Corey filed stateme
 
 ---
 
-**N-11051** Victor Marx Cold-Case Sheriff Report
+**N-10969** Victor Marx Cold-Case Sheriff Report
 
 Node Type: Topic
 Marx's account that he shot a man at age 7 under his stepfather's coercion, later called a sheriff's department about a 40-year-old cold case in Simpson County, Mississippi, and cannot identify the victim or site.
@@ -623,7 +615,7 @@ Marx's account that he shot a man at age 7 under his stepfather's coercion, late
 
 ---
 
-**N-11052** Victor Marx Iraq and ISIS-Region Missions
+**N-10970** Victor Marx Iraq and ISIS-Region Missions
 
 Node Type: Topic
 Marx's account of missions to Iraq beginning in 2015 at the Kurdistan government's invitation, including IDP camp aid and a rescue of a mother held nine years.
@@ -641,7 +633,7 @@ Claim: The host says Victor Marx was the first she could find to publicly announ
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: A-2505.1
 Mentions: N-1, N-341
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
@@ -704,7 +696,7 @@ Claim: Per the victor2026.com website text the host shows during the interview, 
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: A-2509.2
 Mentions: N-341
-Related Nodes: N-10893
+Related Nodes: N-10814
 Investigative Direction: Verify archived website content; cross-check against organization's audited reports.
 
 ---
@@ -747,7 +739,7 @@ Claim Timestamp: 01:09:11
 Claim: Victor Marx, the guest, says in his interview with the host that he entered Gaza by virtue of special operations teams, to pray and to help injured Palestinian children.
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10601
+Related Nodes: N-10548
 Investigative Direction: Cross-reference with IDF/nonprofit invitation records and travel documentation.
 
 ---
@@ -759,7 +751,7 @@ Claim: Victor Marx states he watched the Charlie Kirk shooting video once and kn
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: A-2510.1
 Mentions: N-1, N-341
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
 ---
@@ -791,7 +783,7 @@ Claim: Victor Marx, the guest, says in his interview with the host that he and h
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: A-2509.2, A-2510.1
 Mentions: N-341
-Related Nodes: N-10893
+Related Nodes: N-10814
 Investigative Direction: Compare original website text against archived snapshots; reconcile with prior show clip.
 
 ---
@@ -806,7 +798,7 @@ Transcript Snippet: White House press team does not want to respond about that e
 
 Anchored Artifacts: A-2771.1
 Mentions: N-3
-Related Nodes: N-10923
+Related Nodes: N-10844
 Investigative Direction: Obtain the White House press office's responses or non-responses to the host's inquiry, and the email in question.
 
 ---
@@ -821,7 +813,7 @@ Transcript Snippet: we have since filed an FOIA request for the relative White H
 
 Anchored Artifacts: A-2771.1
 Mentions: N-3
-Related Nodes: N-10700, N-10923
+Related Nodes: N-10637, N-10844
 Investigative Direction: Obtain the FOIA request, its tracking number and the agency's acknowledgment or response.
 
 ---
@@ -836,7 +828,7 @@ Transcript Snippet: I am also informed that he presented her with a bulletproof 
 
 Anchored Artifacts: 
 Mentions: N-341, N-2
-Related Nodes: N-10605
+Related Nodes: N-10552
 Investigative Direction: Ask Marx and Erika Kirk's team whether a vehicle was provided; check the Instagram post's wording and any vehicle records.
 
 ---
@@ -866,7 +858,7 @@ Transcript Snippet: I've already told you his real name is Von Victor Kennedy. T
 
 Anchored Artifacts: 
 Mentions: N-341, N-349
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Obtain birth or name-change records and compare with Marx's own account.
 
 ---
@@ -881,7 +873,7 @@ Transcript Snippet: Gloyce did serve in the army doing counterintelligence. He t
 
 Anchored Artifacts: 
 Mentions: N-349
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Pull federal court records for the Kennedy marijuana conspiracy plea and Army service records.
 
 ---
@@ -896,7 +888,7 @@ Transcript Snippet: Victor's brother, Mike Kennedy, also pled guilty as a co-con
 
 Anchored Artifacts: 
 Mentions: N-724, N-349, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Locate the case docket and plea agreement naming Mike Kennedy and any trial testimony.
 
 ---
@@ -911,7 +903,7 @@ Transcript Snippet: Victor Marx's biological dad was Karl Marx. What a name. He 
 
 Anchored Artifacts: 
 Mentions: N-725, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Find public records, martial arts directories or interviews identifying Karl Marx and his criminal history.
 
 ---
@@ -926,7 +918,7 @@ Transcript Snippet: his biological father spent time in a mental hospital for ho
 
 Anchored Artifacts: 
 Mentions: N-725, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Look for commitment or hospital records, or Marx's own statements about his father's confinement.
 
 ---
@@ -941,7 +933,7 @@ Transcript Snippet: So, his grandfather killed his grandmother in a public murde
 
 Anchored Artifacts: 
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Search local news archives and death records for the incident.
 
 ---
@@ -956,7 +948,7 @@ Transcript Snippet: By the time he was 17, he had lived in 17 homes and attended
 
 Anchored Artifacts: 
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Compare with Marx's book and documentary accounts and school records.
 
 ---
@@ -971,7 +963,7 @@ Transcript Snippet: At 18, Victor joined the Marine Corps, served for 2 years be
 
 Anchored Artifacts: 
 Mentions: N-341, N-3
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Obtain Marx's DD-214 for enlistment and separation dates.
 
 ---
@@ -986,7 +978,7 @@ Transcript Snippet: At 23, Victor married his wife Eileen, Eileen Breining Marx,
 
 Anchored Artifacts: 
 Mentions: N-341, N-343
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Check marriage records and Marx's published biography.
 
 ---
@@ -1001,7 +993,7 @@ Transcript Snippet: In 2003, um he and his brother began All Things Possible Min
 
 Anchored Artifacts: 
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Check IRS Form 990 and state incorporation filings for All Things Possible Ministries.
 
 ---
@@ -1059,7 +1051,7 @@ Transcript Snippet: But I remember being at a morgue again wrapped to a chair an
 
 Anchored Artifacts: A-2506.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Identify the source interview and test the account against any morgue or coroner records.
 
 ---
@@ -1074,7 +1066,7 @@ Transcript Snippet: And I've dealt with thousands of demons now, thousands. Easi
 
 Anchored Artifacts: A-2506.1
 Mentions: N-341
-Related Nodes: N-11048
+Related Nodes: N-10966
 Investigative Direction: Identify the source of the audio and any recordings of the sessions he describes.
 
 ---
@@ -1089,7 +1081,7 @@ Transcript Snippet: Over 100 missions complete. Uh with trauma care help over 45
 
 Anchored Artifacts: A-2772.1
 Mentions: N-341
-Related Nodes: N-10893
+Related Nodes: N-10814
 Investigative Direction: Identify the source recording of the clip and compare its wording ('help' versus 'rescue') with Marx's later explanation.
 
 ---
@@ -1104,7 +1096,7 @@ Transcript Snippet: because of our access and our relationships with the special
 
 Anchored Artifacts: A-2772.1
 Mentions: N-341
-Related Nodes: N-10618
+Related Nodes: N-10564
 Supports: C-9158
 Investigative Direction: Identify the IDF units and dates of the visits Marx describes.
 
@@ -1120,7 +1112,7 @@ Transcript Snippet: They diagnosed me with bipolar 2 ultra-rapid cycler and put 
 
 Anchored Artifacts: A-2772.2
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Confirm the speaker and source of the clip; medical records are private, so look for Marx's own published statements.
 
 ---
@@ -1135,7 +1127,7 @@ Transcript Snippet: On the medications I was I was suicidal and probably more ho
 
 Anchored Artifacts: A-2772.2
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Identify the original recording and its date.
 
 ---
@@ -1150,7 +1142,7 @@ Transcript Snippet: we hosted Corby Hall who claimed that Victor Marx was doing 
 
 Anchored Artifacts: 
 Mentions: N-342, N-341
-Related Nodes: N-10601
+Related Nodes: N-10548
 Supports: C-8169
 Investigative Direction: Review the messages and documents Hall provided on the 50,000-gun request and any ATF or FFL records.
 
@@ -1166,7 +1158,7 @@ Transcript Snippet: we have also confirmed that Victor Marx conducts this {quote
 
 Anchored Artifacts: 
 Mentions: N-341, N-342, N-344
-Related Nodes: N-11048
+Related Nodes: N-10966
 Supports: C-8150
 Investigative Direction: Identify the other people prayed for and obtain any recordings Marx says he keeps of each session.
 
@@ -1182,7 +1174,7 @@ Transcript Snippet: In fact, I am told that he was once conducting such prayers 
 
 Anchored Artifacts: 
 Mentions: N-341
-Related Nodes: N-10000, N-11048
+Related Nodes: N-10000, N-10966
 Investigative Direction: Identify TPUSA staff who attended the sessions and any building or scheduling records.
 
 ---
@@ -1197,7 +1189,7 @@ Transcript Snippet: Victor Marx always rebuts them with the same line, that the 
 
 Anchored Artifacts: 
 Mentions: N-341, N-342
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: List the accusers and the dates and venues of each allegation; compare Marx's responses.
 
 ---
@@ -1212,7 +1204,7 @@ Transcript Snippet: a young woman named Holly Chalmers or Chalmers accused him o
 
 Anchored Artifacts: 
 Mentions: N-345, N-341
-Related Nodes: N-11049
+Related Nodes: N-10967
 Investigative Direction: Obtain any police or court filings by Holly Chalmers and the border records for her crossing.
 
 ---
@@ -1227,7 +1219,7 @@ Transcript Snippet: Victor Marx claims that he was actually rescuing her from he
 
 Anchored Artifacts: 
 Mentions: N-345, N-341
-Related Nodes: N-11049
+Related Nodes: N-10967
 Investigative Direction: Compare Marx's account with Canadian police records on the boyfriend and Holly's own statements.
 
 ---
@@ -1242,7 +1234,7 @@ Transcript Snippet: Victor Marx's own son wrote a letter to the board on a compa
 
 Anchored Artifacts: 
 Mentions: N-346, N-341, N-347
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Identify the board and obtain the letter; ask the board whether it received one.
 
 ---
@@ -1257,7 +1249,7 @@ Transcript Snippet: offering me $55,000 as essentially be quiet money. I decline
 
 Anchored Artifacts: A-2508.1
 Mentions: N-347, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Obtain the original post and ask the organization whether any payment was offered.
 
 ---
@@ -1272,7 +1264,7 @@ Transcript Snippet: My parents did not handle this letter well and immediately r
 
 Anchored Artifacts: A-2508.1
 Mentions: N-347, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Obtain the daughter's original social media post and the letter's date.
 
 ---
@@ -1287,7 +1279,7 @@ Transcript Snippet: He was not forced to kill anybody, that there are no bodies 
 
 Anchored Artifacts: A-2773.1
 Mentions: N-349, N-341
-Related Nodes: N-10785, N-10604
+Related Nodes: N-10551
 Investigative Direction: Identify and interview the family members and obtain any written statements.
 
 ---
@@ -1302,7 +1294,7 @@ Transcript Snippet: We did invite you to come on the show with Corby, which we a
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342, N-3
-Related Nodes: N-11050
+Related Nodes: N-10968
 Supports: C-8258, C-8546
 Investigative Direction: Obtain the invitation messages sent to Marx and his declination.
 
@@ -1318,7 +1310,7 @@ Transcript Snippet: I clearly communicated to you and your staff, do not have hi
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
-Related Nodes: N-11050
+Related Nodes: N-10968
 Investigative Direction: Compare Marx's claimed communications with the show's message logs and the DM thread referenced in earlier episodes.
 
 ---
@@ -1333,7 +1325,7 @@ Transcript Snippet: has filled out a statement both with local authorities and F
 
 Anchored Artifacts: A-2774.1
 Mentions: N-341, N-342
-Related Nodes: N-11050
+Related Nodes: N-10968
 Investigative Direction: Locate the statement Marx cites and any corresponding El Paso County Sheriff or FBI report.
 
 ---
@@ -1348,7 +1340,7 @@ Transcript Snippet: That was a long time ago and I'm thankful I didn't.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Supports: C-9385
 Investigative Direction: Compare with Marx's published accounts of when the thoughts occurred.
 
@@ -1364,7 +1356,7 @@ Transcript Snippet: this gentleman is being sought by the FBI and El Paso County
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
-Related Nodes: N-11050
+Related Nodes: N-10968
 Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to confirm whether any inquiry or warrant exists for Hall.
 
 ---
@@ -1379,7 +1371,7 @@ Transcript Snippet: We received only a message from Corey that she got a phone c
 
 Anchored Artifacts: A-2774.2
 Mentions: N-341, N-3
-Related Nodes: N-10601, N-11050
+Related Nodes: N-10548, N-10968
 Investigative Direction: Obtain the message from Corey and ask the FBI whether it made such a call.
 
 ---
@@ -1394,7 +1386,7 @@ Transcript Snippet: I've spoken with your family in Martinsville and they claim 
 
 Anchored Artifacts: A-2773.1
 Mentions: N-3, N-341
-Related Nodes: N-10785, N-10604
+Related Nodes: N-10551
 Investigative Direction: Identify which relatives spoke to the show and obtain their statements.
 
 ---
@@ -1409,7 +1401,7 @@ Transcript Snippet: But we're happy to give you the FBI's agent's name who is in
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11050
+Related Nodes: N-10968
 Investigative Direction: Request the agent's name from Marx and verify with the FBI field office.
 
 ---
@@ -1424,7 +1416,7 @@ Transcript Snippet: We said 2 years and he says it's three.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Supports: C-9408
 Revises: C-9373
 Investigative Direction: Compare against the DD-214 Marx cites.
@@ -1441,7 +1433,7 @@ Transcript Snippet: They also noted that there are no news stories that would ev
 
 Anchored Artifacts: A-2773.1
 Mentions: N-341, N-3
-Related Nodes: N-11051
+Related Nodes: N-10969
 Investigative Direction: Search local newspapers and missing-persons databases for the relevant county and period.
 
 ---
@@ -1456,7 +1448,7 @@ Transcript Snippet: Where did you you didn't grow up in Martinville, Mississippi
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Ask Marx where he lived at ages 3 to 7 and compare with school and census records.
 
 ---
@@ -1471,7 +1463,7 @@ Transcript Snippet: I didn't know who he was.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11051
+Related Nodes: N-10969
 Investigative Direction: Check the sheriff's department for any record of the call and what it describes.
 
 ---
@@ -1486,7 +1478,7 @@ Transcript Snippet: So, no, I did not walk into a police station. I called the s
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11051
+Related Nodes: N-10969
 Supports: C-8132
 Investigative Direction: Request any call log or case record from the sheriff's department Marx names.
 
@@ -1502,7 +1494,7 @@ Transcript Snippet: No, I have not suffered any [clears throat] sexual abuse.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Compare with Marx's book and documentary descriptions of the abuse he suffered.
 
 ---
@@ -1517,7 +1509,7 @@ Transcript Snippet: I've shared my story as an adult regarding my childhood and 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Compare the 3-to-7 timeline with his book, documentary and sheriff's call.
 
 ---
@@ -1532,7 +1524,7 @@ Transcript Snippet: my sister was on my documentary film, The Victor Marc Story,
 
 Anchored Artifacts: A-2511.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Watch the documentary and identify the sister and her statements.
 
 ---
@@ -1547,7 +1539,7 @@ Transcript Snippet: she is my half sister who is the daughter of the abuser
 
 Anchored Artifacts: A-2510.1
 Mentions: N-349, N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Identify Charmaine and ask whether she has spoken publicly.
 
 ---
@@ -1562,7 +1554,7 @@ Transcript Snippet: we've got analysts and detectives that come here to our trai
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Request the MOUs and ask the agencies named to confirm.
 
 ---
@@ -1577,7 +1569,7 @@ Transcript Snippet: it was 40 years old, we don't know where the house is, we do
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11051
+Related Nodes: N-10969
 Supports: C-8132
 Investigative Direction: Ask the sheriff's department whether a cold-case file exists and when Marx reported it.
 
@@ -1593,7 +1585,7 @@ Transcript Snippet: Uh there were two towns or sister towns, Mendenhall and Mage
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11051
+Related Nodes: N-10969
 Investigative Direction: Contact the Simpson County Sheriff's Department about any call or report from Marx and any missing-person cases.
 
 ---
@@ -1608,7 +1600,7 @@ Transcript Snippet: I was in ministry and I tried being a pastor, but I wasn't c
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Compare with older website text and ordination or church records.
 
 ---
@@ -1623,7 +1615,7 @@ Transcript Snippet: He said, "I give you authority to trample serpents, to cast 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11048
+Related Nodes: N-10966
 Investigative Direction: Obtain Marx's films and teaching materials describing the practice.
 
 ---
@@ -1638,7 +1630,7 @@ Transcript Snippet: they would often manifest demonic influence or oppression. A
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11048
+Related Nodes: N-10966
 Investigative Direction: Identify the facilities, dates and chaplaincy approvals for his youth prison ministry.
 
 ---
@@ -1653,7 +1645,7 @@ Transcript Snippet: we don't charge people to set them free. We do this out of l
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11048, N-11047
+Related Nodes: N-10966, N-10965
 Investigative Direction: Ask to inspect the letters and the ministry's donation records.
 
 ---
@@ -1668,7 +1660,7 @@ Transcript Snippet: We're talking 10, 15 minutes is the average time of prayer. 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-344
-Related Nodes: N-11048
+Related Nodes: N-10966
 Investigative Direction: Compare with Melody Hall's own description of the prayer.
 
 ---
@@ -1683,7 +1675,7 @@ Transcript Snippet: It's the Unseen War. And churches use that.
 
 Anchored Artifacts: A-2775.1
 Mentions: N-341
-Related Nodes: N-11048
+Related Nodes: N-10966
 Investigative Direction: Watch the film and compare its claims with Marx's on-air account.
 
 ---
@@ -1698,7 +1690,7 @@ Transcript Snippet: We record every session on audio or video so that they can h
 
 Anchored Artifacts: A-2775.2
 Mentions: N-341
-Related Nodes: N-11048
+Related Nodes: N-10966
 Investigative Direction: Ask for the recordings of the sessions with Corby and Melody Hall and with TPUSA staff.
 
 ---
@@ -1713,7 +1705,7 @@ Transcript Snippet: Just Charlie. He asked me to.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1, N-2
-Related Nodes: N-10000, N-11048
+Related Nodes: N-10000, N-10966
 Supports: C-9428
 Investigative Direction: Ask TPUSA staff who the three others were and whether sessions were recorded.
 
@@ -1729,7 +1721,7 @@ Transcript Snippet: I was speaking at an event at a small Hispanic church in Cal
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
-Related Nodes: N-10605
+Related Nodes: N-10552
 Investigative Direction: Identify the church and event date through event listings or social media.
 
 ---
@@ -1744,7 +1736,7 @@ Transcript Snippet: Yes, he he he was already married to Erika.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1, N-2
-Related Nodes: N-10605
+Related Nodes: N-10552
 Investigative Direction: Date the meeting against the Kirks' wedding date.
 
 ---
@@ -1759,7 +1751,7 @@ Transcript Snippet: Yeah. No, we never had a falling out.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
-Related Nodes: N-10605
+Related Nodes: N-10552
 Contradicts: C-9156
 Investigative Direction: Ask TPUSA sources who relayed the falling-out account and compare with the Instagram follow history.
 
@@ -1775,7 +1767,7 @@ Transcript Snippet: He still follows me. He was following me.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
-Related Nodes: N-10605
+Related Nodes: N-10552
 Contradicts: C-9156
 Investigative Direction: Check archived captures of Charlie Kirk's Instagram following list.
 
@@ -1791,7 +1783,7 @@ Transcript Snippet: it would have been it to the you know, to the minute about t
 
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Supports: C-9362
 Investigative Direction: Reconstruct the hospital notification time and the Instagram post time from archives.
 
@@ -1807,7 +1799,7 @@ Transcript Snippet: My son is at Charlie's event and Charlie was just shot
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Identify the texter and obtain the message and its timestamp.
 
 ---
@@ -1822,7 +1814,7 @@ Transcript Snippet: my team uh many who are former special operations guys in co
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Supports: C-9435
 Investigative Direction: Ask Marx to identify the team members and when each viewed the video.
 
@@ -1838,7 +1830,7 @@ Transcript Snippet: I thought it was premature and I I pulled it down cuz it jus
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1, N-7
-Related Nodes: N-10622
+Related Nodes: N-10568
 Supports: C-9362
 Investigative Direction: Compare with the archived post and with the host's account of two posts.
 
@@ -1854,7 +1846,7 @@ Transcript Snippet: I just told her, it nobody's going to kill you. You're safe,
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-2, N-1
-Related Nodes: N-10942
+Related Nodes: N-10863
 Investigative Direction: Obtain the text with its timestamp from Marx or Erika Kirk and compare against the post timing.
 
 ---
@@ -1869,7 +1861,7 @@ Transcript Snippet: you did make a post initially saying he had been shot, pray 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-341, N-1, N-2
-Related Nodes: N-10622
+Related Nodes: N-10568
 Supports: C-9362
 Investigative Direction: Pull archived copies of both posts with their timestamps.
 
@@ -1885,7 +1877,7 @@ Transcript Snippet: Jack Hibbs took down a video saying that actually there was 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-208, N-348, N-341
-Related Nodes: N-10622, N-10026
+Related Nodes: N-10568, N-10026
 Supports: C-9435
 Investigative Direction: Obtain Jack Hibbs's removed video and identify the Israeli channel and time of its report.
 
@@ -1901,7 +1893,7 @@ Transcript Snippet: Well, the first post I made was asked for prayer and I I kne
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
-Related Nodes: N-10622
+Related Nodes: N-10568
 Investigative Direction: Compare with his earlier statement that he posted Charlie had passed and with the archived posts.
 
 ---
@@ -1916,7 +1908,7 @@ Transcript Snippet: We brought our team immediately to help give relief for the 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10605
+Related Nodes: N-10552
 Investigative Direction: Identify the security team members and Marx's team members present and the dates.
 
 ---
@@ -1931,7 +1923,7 @@ Transcript Snippet: And Eileen's like a I don't know perhaps a second mom to Eri
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-343, N-2
-Related Nodes: N-10605
+Related Nodes: N-10552
 Investigative Direction: Ask Erika Kirk's office to confirm the relationship and dates.
 
 ---
@@ -1946,7 +1938,7 @@ Transcript Snippet: Yeah, no, not uh physically. We didn't do physical operation
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Compare with his travel disclosures and ministry reports.
 
 ---
@@ -1961,7 +1953,7 @@ Transcript Snippet: I worked for Dr. James Dobson as an assistant.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-727
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Ask Focus on the Family or Dobson's organization to confirm employment and dates.
 
 ---
@@ -1976,7 +1968,7 @@ Transcript Snippet: my time in the Marine Corps was I served on the President Re
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Check Marx's DD-214 for his unit and assignment; the transcript is unclear what 'the President Reagan' refers to.
 
 ---
@@ -1991,7 +1983,7 @@ Transcript Snippet: I was invited to go to Burma by Dave Eubank, who I consider 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-728
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Ask Eubank's organization to confirm the invitation and dates.
 
 ---
@@ -2006,7 +1998,7 @@ Transcript Snippet: we had an invitation by the Kurdistan government.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11052
+Related Nodes: N-10970
 Investigative Direction: Request the invitation documentation from Marx's ministry or the Kurdistan Regional Government.
 
 ---
@@ -2021,7 +2013,7 @@ Transcript Snippet: We went there the first time in 2015, the early part, and it
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11052
+Related Nodes: N-10970
 Investigative Direction: Compare with travel records, photos and ministry reports from 2015.
 
 ---
@@ -2036,7 +2028,7 @@ Transcript Snippet: This is from ISIS Emir in the house I was held captive. And 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-343
-Related Nodes: N-11052
+Related Nodes: N-10970
 Investigative Direction: Ask Marx where the phone went and to whom it was turned over.
 
 ---
@@ -2051,7 +2043,7 @@ Transcript Snippet: and never did we take any governmental funding.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Review the ministry's Form 990s and grant disclosures.
 
 ---
@@ -2066,7 +2058,7 @@ Transcript Snippet: It wasn't our focus to rescue women and children at at all.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10893, N-11052
+Related Nodes: N-10814, N-10970
 Investigative Direction: Compare with the 45,000 'rescued' figure on the campaign website and the played clip.
 
 ---
@@ -2081,7 +2073,7 @@ Transcript Snippet: I'm pretty sure you said 45,000.
 
 Anchored Artifacts: A-2776.1
 Mentions: N-3, N-341, N-224
-Related Nodes: N-10893
+Related Nodes: N-10814
 Contradicts: C-9454
 Investigative Direction: Watch the Shawn Ryan interview and check the exact phrasing Marx used about 45,000.
 
@@ -2097,7 +2089,7 @@ Transcript Snippet: We've helped. We've provided trauma relief and some we've de
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10893, N-11047
+Related Nodes: N-10814, N-10965
 Contradicts: C-9454
 Investigative Direction: Ask for documented counts of persons rescued versus assisted.
 
@@ -2113,7 +2105,7 @@ Transcript Snippet: we would never declare the total number of people we've resc
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10893
+Related Nodes: N-10814
 Investigative Direction: Ask for any anonymized or audited count.
 
 ---
@@ -2128,7 +2120,7 @@ Transcript Snippet: that was a rescue of a mom who had been held captive 9 years
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-343
-Related Nodes: N-11052
+Related Nodes: N-10970
 Investigative Direction: Ask Marx for the documentation and the safe-house photos and videos he says exist.
 
 ---
@@ -2143,7 +2135,7 @@ Transcript Snippet: there's no doubt in my mind that there are organizations tha
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Ask Marx which organizations he means.
 
 ---
@@ -2158,7 +2150,7 @@ Transcript Snippet: who either still have or did have the highest level of clear
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11047, N-11052
+Related Nodes: N-10965, N-10970
 Investigative Direction: Ask Marx to name the operators and verify through them.
 
 ---
@@ -2173,7 +2165,7 @@ Transcript Snippet: I work around the governments, but I've never been paid by a
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Review the ministry's financial filings for government grants or contracts.
 
 ---
@@ -2188,7 +2180,7 @@ Transcript Snippet: we just got a video from Southeast Asia I didn't ask for, bu
 
 Anchored Artifacts: A-2777.1
 Mentions: N-341
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Obtain the video from Marx's social media and check its metadata.
 
 ---
@@ -2203,7 +2195,7 @@ Transcript Snippet: if you'll accept the risk, I'll give you my word that you ca
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-3
-Related Nodes: N-11047
+Related Nodes: N-10965
 Investigative Direction: Ask whether the host accepts the invitation and the terms.
 
 ---
@@ -2218,7 +2210,7 @@ Transcript Snippet: we met with an HSI human trafficking specialist at the borde
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-345
-Related Nodes: N-11049
+Related Nodes: N-10967
 Investigative Direction: Ask HSI and CBP for records of the crossing and any parole documentation.
 
 ---
@@ -2233,7 +2225,7 @@ Transcript Snippet: have video that they just posted yesterday of Holly telling 
 
 Anchored Artifacts: A-2777.2
 Mentions: N-341, N-345
-Related Nodes: N-11049
+Related Nodes: N-10967
 Investigative Direction: Locate the couple's video and check its post date.
 
 ---
@@ -2248,7 +2240,7 @@ Transcript Snippet: it was Holly's pedophile who groomed this girl since she was
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-345
-Related Nodes: N-11049
+Related Nodes: N-10967
 Investigative Direction: Check Canadian court and police records on the boyfriend; no named allegation should be treated as established here.
 
 ---
@@ -2263,7 +2255,7 @@ Transcript Snippet: you'll be able to make millions.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-345
-Related Nodes: N-11049
+Related Nodes: N-10967
 Investigative Direction: Ask Marx for the source of this report and any documents of such a suit.
 
 ---
@@ -2278,7 +2270,7 @@ Transcript Snippet: I told people I was under psychiatric care, 123 visits to a 
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Compare with his book and talks where he gives the figure.
 
 ---
@@ -2293,7 +2285,7 @@ Transcript Snippet: You went on Charlie Kirk's show after October 7th. You've sa
 
 Anchored Artifacts: A-2778.1
 Mentions: N-3, N-341, N-1
-Related Nodes: N-10618
+Related Nodes: N-10564
 Supports: C-9157, C-9158
 Investigative Direction: Retrieve the Charlie Kirk Show episode and compare Marx's remarks.
 
@@ -2309,7 +2301,7 @@ Transcript Snippet: I went into the West Bank and yes, I did go into Gaza by vir
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10063
+Related Nodes: N-10060
 Supports: C-9470
 Investigative Direction: Check travel records and the IDF coordination Marx describes.
 
@@ -2356,7 +2348,7 @@ Transcript Snippet: I would say this, it has turned into a genocide
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10063
+Related Nodes: N-10060
 Investigative Direction: Compare with Marx's prior public statements on Gaza.
 
 ---
@@ -2371,7 +2363,7 @@ Transcript Snippet: I put it online. I was on Fox.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341
-Related Nodes: N-10006, N-10063
+Related Nodes: N-10006, N-10060
 Investigative Direction: Find the Fox News appearance and Marx's online posts.
 
 ---
@@ -2386,7 +2378,7 @@ Transcript Snippet: I have an FFL. I only buy stuff for our self for our trainin
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
-Related Nodes: N-10601
+Related Nodes: N-10548
 Supports: C-8324
 Contradicts: C-8169
 Investigative Direction: Check ATF licensing records and the Fold AR communications Hall supplied.
@@ -2403,7 +2395,7 @@ Transcript Snippet: Do you know where he is? Do you know where he would be?" And
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
-Related Nodes: N-11050
+Related Nodes: N-10968
 Investigative Direction: Ask the agencies named to confirm contacting Marx and Hall.
 
 ---
@@ -2418,7 +2410,7 @@ Transcript Snippet: The FBI has contacted us. It's an open investigation.
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
-Related Nodes: N-11050
+Related Nodes: N-10968
 Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to confirm an open investigation and its subject.
 
 ---
@@ -2433,7 +2425,7 @@ Transcript Snippet: do a short study on voodoo and understand voodoo voodoo ritu
 
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-3
-Related Nodes: N-10785
+Related Nodes: N-10551
 Investigative Direction: Ask Marx whether the abuse he describes involved ritual practices and where.
 
 ---
@@ -2476,7 +2468,7 @@ Transcript Snippet: Charlie said as much on stage in Aspen.
 
 Anchored Artifacts: A-2778.2
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10398
+Related Nodes: N-10371
 Investigative Direction: Locate the Aspen recording and the exact wording.
 
 ---
@@ -2491,7 +2483,7 @@ Transcript Snippet: She was the one who was driving home Turning Point Faith.
 
 Anchored Artifacts: A-2778.2
 Mentions: N-3, N-2, N-343
-Related Nodes: N-10398, N-10605
+Related Nodes: N-10371, N-10552
 Investigative Direction: Review TPUSA Faith leadership and event records for Erika Kirk's role.
 
 ---
@@ -2506,7 +2498,7 @@ Transcript Snippet: I think it was Erika who brought these people around and pus
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1, N-341
-Related Nodes: N-10398, N-10605
+Related Nodes: N-10371, N-10552
 Investigative Direction: Seek TPUSA staff or Kirk family accounts of who introduced Marx and gave him an office.
 
 ---

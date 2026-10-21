@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11258
-  - Hole-minted Nodes (reintro-ep097): N-10651, N-10695
-  - Tip-minted Nodes (reintro-ep097): N-11137
+  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11174
+  - Hole-minted Nodes (reintro-ep097): N-10593, N-10633
+  - Tip-minted Nodes (reintro-ep097): N-11055
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8635–C-8727
   - Tip-minted Nodes (reintro-ep097): N-784
-  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-190, N-195, N-209, N-224, N-261, N-271, N-278, N-280, N-319, N-550, N-599, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-432
- - New Nodes Introduced: N-10644, N-10648
+  - Reused Nodes Appearing: N-10347, N-10589, N-10590, N-10587, N-11295, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-190, N-195, N-209, N-224, N-261, N-271, N-278, N-280, N-319, N-550, N-599, N-10012, N-10023, N-10070, N-10256, N-10319, N-10334, N-10406, N-10501, N-10506, N-10586, N-10606, N-10619, N-10736, N-10763, N-10783, N-10820, N-10821, N-10921, N-10933, N-10592, N-432
+ - New Nodes Introduced: N-10588, N-10591
  - Hole-minted Nodes (wave3): N-427, N-428
  - Reused Nodes Appearing: N-2, N-379, N-3, N-266
  - (see registers)
@@ -43,7 +43,7 @@
 
 - Artifact Families Introduced: A-2015, A-2016, A-2017, A-2018, A-2019, A-2020, A-2021, A-2022, A-2023, A-2024, A-2025, A-2026, A-2027, A-2028, A-2029
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-10643, N-10644, N-10645, N-10646, N-10647, N-10648, N-10649, N-10650
+- New Investigation Target Nodes Introduced: N-10347, N-10588, N-10589, N-10590, N-10587, N-10591, N-11295, N-10592
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
@@ -110,7 +110,7 @@ Video Timestamp: 00:14:44 – 00:15:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8655, N-10644*
+*Related: C-8655, N-10588*
 
 **A-2015.6** Point 28 – citation of Harpole's November 17 Shawn Ryan appearance as defensive response to "Owens and other conspiracy theorists"
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8669, N-3, N-10643*
+*Related: C-8669, N-3, N-10347*
 
 **A-2017.3** Third message: "Hey Brian, reaching out again to see if you'd be willing to speak about the morning of the 9th... I oddly cannot get you to confirm or deny if you were there."
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:26:41 – 00:27:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8674, N-10646*
+*Related: C-8674, N-10590*
 
 **A-2019.2** Chief Long reply: "I got you covered."
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:27:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8674, N-10646*
+*Related: C-8674, N-10590*
 
 ---
 
@@ -386,7 +386,7 @@ Video Timestamp: 00:10:08 – 00:10:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8650, N-10645*
+*Related: C-8650, N-10589*
 
 ---
 
@@ -402,7 +402,7 @@ Video Timestamp: 01:09:37 – 01:13:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10645*
+*Related: N-10589*
 
 ---
 
@@ -474,22 +474,11 @@ Claim Count: (reused – not recounted)
 Episode Count: (reused – not recounted)
 Investigative Pressure: High
 
-*Related: A-2015.1, A-2015.2, A-2027.1, C-8640, N-3, N-10650*
+*Related: A-2015.1, A-2015.2, A-2027.1, C-8640, N-3, N-10592*
 
 ### Investigation Targets
 
-**N-10643** Harpole Fort Huachuca Alibi Question
-
-Persistence of unresolved alibi question for Brian Harpole's whereabouts on the morning of September 9, 2025; Snow's testimony places him at a Fort Huachuca meeting that concluded at 7:30 a.m.; afternoon Dallas flights cited.
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-2015.9, A-2017.2, A-2020.1, C-8669, C-8671, C-8678*
-
-**N-10644** Harpole Limited-Purpose Public Figure Status
+**N-10588** Harpole Limited-Purpose Public Figure Status
 
 Whether Harpole qualifies as a limited-purpose public figure for defamation actual-malice standard, hinging on his November 17, 2025 Shawn Ryan appearance.
 
@@ -500,7 +489,7 @@ Investigative Pressure: High
 
 *Related: A-2015.5, A-2015.6, C-8655, C-8657, C-8658*
 
-**N-10645** UVU Drone Authorization Records
+**N-10589** UVU Drone Authorization Records
 
 Question of whether Brian Harpole submitted and was denied a UVU drone authorization form (per Jen Common viewer comment); relevant to the lawsuit's drone grievance.
 
@@ -511,7 +500,7 @@ Investigative Pressure: Medium
 
 *Related: A-2015.4, A-2028.1, A-2029.1, C-8650*
 
-**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
+**N-10590** TPUSA Rooftop Security Decision-Making Discrepancy
 
 Whether security was responsible for securing Sorensen Center rooftop access and whether Chief Long's "I got you covered" reply addressed that access; conflict between Harpole's Shawn Ryan presentation and the lawsuit's later admission.
 
@@ -522,7 +511,7 @@ Investigative Pressure: Medium
 
 *Related: A-2015.*, A-2019.*, C-8674*
 
-**N-10647** Erika Kirk Murder Allegation Accuracy
+**N-10587** Erika Kirk Murder Allegation Accuracy
 
 Whether Erika Kirk correctly stated that Candace accused her of murdering Charlie Kirk.
 
@@ -533,7 +522,7 @@ Investigative Pressure: Medium
 
 *Related: A-2021.1, C-8686, C-8689, N-2, N-3*
 
-**N-10648** House Resolution Characterization Accuracy
+**N-10591** House Resolution Characterization Accuracy
 
 Whether the Lawler-Gottheimer resolution accurately characterizes Candace's prior statements about Israel, satanic pedophiles, Josef Mengele, and Christian children.
 
@@ -544,7 +533,7 @@ Investigative Pressure: Medium
 
 *Related: A-2023.1, A-2024.1, A-2022.1, C-8701, C-8702, C-8705, C-8709, C-8711, N-3*
 
-**N-10649** Candace-Erika December 15 Private Meeting Revelations
+**N-11295** Candace-Erika December 15 Private Meeting Revelations
 
 Private meeting in which Candace claims to have revealed to Erika Kirk that Mikey McCoy urged Candace to investigate Andrew Kolvet.
 
@@ -555,7 +544,7 @@ Investigative Pressure: Medium
 
 *Related: A-2016.1, N-3*
 
-**N-10650** Charlie Kirk September 9 Pre-Event Threat Text
+**N-10592** Charlie Kirk September 9 Pre-Event Threat Text
 
 Claimed text from Charlie Kirk to security the night before the September 10 event stating "I think I'm going to be killed" – referenced by Candace in arguing Harpole's incompetence claim.
 
@@ -800,7 +789,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.
 
@@ -808,7 +797,7 @@ AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.
 
 ---
 
-**N-10272** Harpole–Flood Text Attribution Discrepancy
+**N-10256** Harpole–Flood Text Attribution Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -816,7 +805,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims in this episode.
 
@@ -824,7 +813,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10358** Surgeon Quotation Authenticity Question
+**N-10334** Surgeon Quotation Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -832,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -840,7 +829,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10437** Aspen Donor Recall Verification
+**N-10406** Aspen Donor Recall Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -848,7 +837,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10546** Joe Kent Resignation Aftermath Pattern
+**N-10501** Joe Kent Resignation Aftermath Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -856,7 +845,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10552** Aubrey Termination Circumstances
+**N-10506** Aubrey Termination Circumstances
 
 Existing topic reused for new claims in this episode.
 
@@ -864,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10641** Andrew Kolvet Text Message Full Context Verification
+**N-10586** Andrew Kolvet Text Message Full Context Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -872,7 +861,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Existing topic reused for new claims in this episode.
 
@@ -880,7 +869,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -888,7 +877,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for new claims in this episode.
 
@@ -896,7 +885,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10695** Brian Harpole Medical Dressing Amount Claim
+**N-10633** Brian Harpole Medical Dressing Amount Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -904,7 +893,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10812** Terryl Farnsworth Evidence-Handling Question
+**N-10736** Terryl Farnsworth Evidence-Handling Question
 
 Existing topic reused for new claims in this episode.
 
@@ -912,7 +901,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10840** UVU Ambulance Denial Discrepancy
+**N-10763** UVU Ambulance Denial Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -920,7 +909,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Existing topic reused for new claims in this episode.
 
@@ -928,7 +917,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Paramount Tactical, Gary Melton's channel; the host says it relayed the warning about Harpole suing.
 
@@ -936,7 +925,7 @@ Paramount Tactical, Gary Melton's channel; the host says it relayed the warning 
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Daily Wire; the host says Harpole's lawyer is the one it used against her in arbitration.
 
@@ -944,7 +933,7 @@ Daily Wire; the host says Harpole's lawyer is the one it used against her in arb
 
 ---
 
-**N-11001** Valhalla VFT
+**N-10921** Valhalla VFT
 
 Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a relay of the lawsuit warning.
 
@@ -952,7 +941,7 @@ Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a re
 
 ---
 
-**N-11013** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
+**N-10933** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -960,7 +949,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11137** Harpole Team Medical Response Competence Dispute
+**N-11055** Harpole Team Medical Response Competence Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -976,7 +965,7 @@ First named by the host at 01:08:34 in episode 97 (spelled Sarelson; at 01:13:25
 
 ---
 
-**N-11258** Harpole Lawsuit Subpoena and Discovery Opportunity
+**N-11174** Harpole Lawsuit Subpoena and Discovery Opportunity
 
 Node Type: Topic
 The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terryl Farnsworth's footage, text messages and testimony from Erika Kirk.
@@ -1025,7 +1014,7 @@ Claim: Per the pre-filing demand letter the host reads, which she says summarize
 Anchored Artifacts: A-2015.2
 Mentions: N-1, N-3, N-266
 
-Related Nodes: N-10650
+Related Nodes: N-10592
 
 Investigative Direction: Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.
 
@@ -1055,7 +1044,7 @@ Claim: Per the pre-filing demand letter the host reads, Candace accused Harpole 
 Anchored Artifacts: A-2015.4
 Mentions: N-3, N-266
 
-Related Nodes: N-10645
+Related Nodes: N-10589
 
 Investigative Direction: Review "The Great Exodus from Utah" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages.
 
@@ -1070,7 +1059,7 @@ Claim: Per point 29 of the lawsuit the host reads, Harpole asserts he is a priva
 Anchored Artifacts: A-2015.5
 Mentions: N-3, N-266
 
-Related Nodes: N-10644
+Related Nodes: N-10588
 
 Investigative Direction: Review defamation caselaw on limited-purpose public figure doctrine and assess Harpole's voluntary insertion into the controversy.
 
@@ -1085,7 +1074,7 @@ Claim: Point 28 of the lawsuit asserts Harpole appeared on Shawn Ryan "solely to
 Anchored Artifacts: A-2015.6
 Mentions: N-3, N-224, N-266
 
-Related Nodes: N-10644
+Related Nodes: N-10588
 
 Investigative Direction: Confirm the air date of Harpole's Shawn Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.
 
@@ -1100,7 +1089,7 @@ Claim: Candace states she never once mentioned Harpole on her podcast prior to h
 Anchored Artifacts: A-2015.6, A-2018.1
 Mentions: N-3, N-224, N-266
 
-Related Nodes: N-10644
+Related Nodes: N-10588
 
 Investigative Direction: Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.
 
@@ -1115,7 +1104,7 @@ Claim: The host says she sent Harpole about four text messages, from shortly bef
 Anchored Artifacts: A-2015.8, A-2017.1, A-2017.2, A-2017.3
 Mentions: N-3, N-266, N-361
 
-Related Nodes: N-10643
+Related Nodes: N-10347
 
 Investigative Direction: Cross-reference the embedded text messages against phone records; verify Harpole's receipt.
 
@@ -1160,7 +1149,7 @@ Claim: The host says that although Harpole presented the Sorensen Center rooftop
 Anchored Artifacts: A-2015.* (admission), A-2019.1, A-2019.2
 Mentions: N-3, N-224, N-266, N-270, N-271
 
-Related Nodes: N-10646
+Related Nodes: N-10590
 
 Investigative Direction: Compare the original Shawn Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.
 
@@ -1175,7 +1164,7 @@ Claim: Candace's December 23 X post stated Fort Huachuca was confirmed via metad
 Anchored Artifacts: A-2020.1
 Mentions: N-3, N-361
 
-Related Nodes: N-10643
+Related Nodes: N-10347
 
 Investigative Direction: Obtain original X post screenshot and verify text against the quoted excerpt.
 
@@ -1205,7 +1194,7 @@ Claim: The host says Harpole's statement that drones could not be flown in Provo
 Anchored Artifacts: A-2015.4, A-2028.1
 Mentions: N-3, N-7, N-266
 
-Related Nodes: N-10645
+Related Nodes: N-10589
 
 Investigative Direction: Obtain full audio of Turek's drone statements and cross-reference with FAA Part 107 rules for Provo airspace.
 
@@ -1220,7 +1209,7 @@ Claim: The host says Erika Kirk publicly claimed that Candace accused her of mur
 Anchored Artifacts: A-2021.1
 Mentions: N-1, N-2, N-3, N-330
 
-Related Nodes: N-10647
+Related Nodes: N-10587
 
 Investigative Direction: Locate Erika Kirk's original statement on video or social media to verify exact wording and context.
 
@@ -1235,7 +1224,7 @@ Claim: Candace asserts she has never publicly accused Erika Kirk of murdering Ch
 Anchored Artifacts: A-2018.1 (defensive statement of position), A-2021.1
 Mentions: N-2, N-3, N-1
 
-Related Nodes: N-10647
+Related Nodes: N-10587
 
 Investigative Direction: Audit Candace's prior podcast transcripts and X posts for any statement that could be construed as accusing Erika.
 
@@ -1250,7 +1239,7 @@ Claim: Baron Coleman stated on his show that he had never heard Candace say Erik
 Anchored Artifacts: A-2021.1
 Mentions: N-1, N-2, N-3, N-330
 
-Related Nodes: N-10647
+Related Nodes: N-10587
 
 Investigative Direction: Locate Coleman's full segment for additional context.
 
@@ -1265,7 +1254,7 @@ Claim: The host says, citing a Times of Israel headline, that Reps. Mike Lawler 
 Anchored Artifacts: A-2023.1, A-2024.1
 Mentions: N-3, N-427, N-428
 
-Related Nodes: N-10648
+Related Nodes: N-10591
 
 Investigative Direction: Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.
 
@@ -1280,7 +1269,7 @@ Claim: The resolution text characterizes Candace's rhetoric as accusing Israel o
 Anchored Artifacts: A-2024.1
 Mentions: N-3
 
-Related Nodes: N-10648
+Related Nodes: N-10591
 
 Investigative Direction: Audit Candace's prior commentary for any statement matching the resolution's characterization.
 
@@ -1295,7 +1284,7 @@ Claim: The resolution text asserts Candace made an anti-Semitic claim that the U
 Anchored Artifacts: A-2024.1
 Mentions: N-3
 
-Related Nodes: N-10648
+Related Nodes: N-10591
 
 Investigative Direction: Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.
 
@@ -1310,7 +1299,7 @@ Claim: Per the resolution the host describes, it references her July 2024 remark
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-379
 
-Related Nodes: N-10648
+Related Nodes: N-10591
 
 Investigative Direction: Locate Candace's July 2024 statements about Mengele and verify exact wording.
 
@@ -1325,7 +1314,7 @@ Claim: In a clip the host plays from the official Auschwitz-Birkenau Memorial po
 Anchored Artifacts: A-2022.1
 Mentions: N-3, N-379
 
-Related Nodes: N-10648
+Related Nodes: N-10591
 
 Investigative Direction: Obtain original Auschwitz Memorial podcast episode for full context.
 
@@ -1355,7 +1344,7 @@ Transcript Snippet: She essentially put a target on my back by wrongly asserting
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10647
+Related Nodes: N-10587
 Supports: C-8689
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's April 29 statement and compare its exact wording to the host's prior published statements.
@@ -1372,7 +1361,7 @@ Transcript Snippet: You never communicated with me, you never spoke, you never i
 
 Anchored Artifacts: A-2015.1
 Mentions: N-3, N-266
-Related Nodes: N-10651
+Related Nodes: N-10593
 Supports: C-8637
 Tags: relevance:core
 Investigative Direction: Obtain the pre-filing email and the host's lawyers' correspondence log to confirm that no earlier retraction request exists.
@@ -1389,7 +1378,7 @@ Transcript Snippet: Brian Harpole is using the same lawyer the Daily Wire used t
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-10900, N-10651
+Related Nodes: N-10821, N-10593
 Tags: relevance:context
 Investigative Direction: Compare counsel of record in the Harpole complaint with counsel in the Daily Wire arbitration.
 
@@ -1405,7 +1394,7 @@ Transcript Snippet: at each and every one of my many events that I have done wit
 
 Anchored Artifacts: A-2015.2
 Mentions: N-3, N-266
-Related Nodes: N-10840, N-11137
+Related Nodes: N-10763, N-11055
 Tags: relevance:core
 Investigative Direction: Collect event run-of-show or medical-staffing documents from prior TPUSA events and the UVU event to compare ambulance provisions.
 
@@ -1421,7 +1410,7 @@ Transcript Snippet: texts you guys the night before and says, "I think I'm going
 
 Anchored Artifacts: A-2015.2
 Mentions: N-3, N-1, N-266
-Related Nodes: N-10650, N-11013
+Related Nodes: N-10592, N-10933
 Supports: C-3565
 Tags: relevance:core
 Investigative Direction: Obtain the night-before text thread and its recipients; ask security leadership to confirm or deny receipt.
@@ -1470,7 +1459,7 @@ Transcript Snippet: it was Terryl Farmsworth who notoriously announced in a self
 
 Anchored Artifacts: A-2015.3
 Mentions: N-261, N-1
-Related Nodes: N-10812
+Related Nodes: N-10736
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.
 
@@ -1502,7 +1491,7 @@ Transcript Snippet: Brian is the one who then runs over to Charlie and again you
 
 Anchored Artifacts: A-2015.4
 Mentions: N-3, N-266, N-1
-Related Nodes: N-10695
+Related Nodes: N-10633
 Tags: relevance:core
 Investigative Direction: Compare the quoted line with the full 'The Great Exodus from Utah' transcript.
 
@@ -1518,7 +1507,7 @@ Transcript Snippet: we're driving in, Megan, and his team has drones up um looki
 
 Anchored Artifacts: A-2028.1
 Mentions: N-7, N-1
-Related Nodes: N-10645
+Related Nodes: N-10589
 Supports: C-3110
 Tags: relevance:core
 Investigative Direction: Obtain the original Turek interview audio and the drone footage or text messages he describes.
@@ -1535,7 +1524,7 @@ Transcript Snippet: Yeah, you can't fly in Provo airspace meaning around airport
 
 Anchored Artifacts: A-2028.1
 Mentions: N-3
-Related Nodes: N-10645
+Related Nodes: N-10589
 Contradicts: C-3018
 Tags: relevance:core
 Investigative Direction: Check FAA Part 107 airspace authorization records for the UVU campus and any waiver requests filed for the event.
@@ -1584,7 +1573,7 @@ Transcript Snippet: private citizens can indeed become limited purpose public fi
 
 Anchored Artifacts: A-2015.5
 Mentions: N-3, N-266, N-224
-Related Nodes: N-10644
+Related Nodes: N-10588
 Contradicts: C-8655
 Tags: relevance:context
 Investigative Direction: Have a defamation lawyer assess Harpole's status under Tennessee or Utah limited-purpose public figure case law.
@@ -1651,7 +1640,7 @@ Transcript Snippet: it was because of his behavior and what he said on Shawn Rya
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-224
-Related Nodes: N-10862, N-10681
+Related Nodes: N-10783, N-10619
 Tags: relevance:core
 Investigative Direction: Compare the Shawn Ryan interview statements with the independent review findings and the host's first on-air reaction.
 
@@ -1667,7 +1656,7 @@ Transcript Snippet: on November 8th, I had first mentioned that there was someon
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-361
-Related Nodes: N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Locate the episode that first mentioned the Fort Huachuca sighting and reconcile its date with the host's statement that she first named Harpole on November 19.
 
@@ -1683,7 +1672,7 @@ Transcript Snippet: It was a solo episode on December 9th and if you recall, it 
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Confirm the air date of the solo episode and the sequence relative to the Mitch Snow interview.
 
@@ -1699,7 +1688,7 @@ Transcript Snippet: this was coming through Paramount Tactical and the Valhalla 
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-266
-Related Nodes: N-10899, N-11001, N-10651
+Related Nodes: N-10820, N-10921, N-10593
 Tags: relevance:core
 Investigative Direction: Obtain the messages the host received from the intermediaries and ask Paramount Tactical and Valhalla VFT whether they relayed a Harpole warning.
 
@@ -1715,7 +1704,7 @@ Transcript Snippet: So, before I even got to do the interview, Brian Harpole was
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-361
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Identify the intermediaries and any written message conveying the lawsuit threat, with dates.
 
@@ -1781,7 +1770,7 @@ Transcript Snippet: You presented this text chain as if it was yours. In fact, y
 
 Anchored Artifacts: A-2019.1
 Mentions: N-3, N-266, N-224, N-271, N-270
-Related Nodes: N-10272
+Related Nodes: N-10256
 Supports: C-3214
 Tags: relevance:core
 Investigative Direction: Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.
@@ -1798,7 +1787,7 @@ Transcript Snippet: I went through a great many pains to repeatedly assert publi
 
 Anchored Artifacts: A-2015.9
 Mentions: N-3, N-266, N-361
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-8679
 Tags: relevance:core
 Investigative Direction: Compile every on-air statement by the host on whether Harpole was identified and compare them to the complaint's characterization.
@@ -1815,7 +1804,7 @@ Transcript Snippet: I obviously can't confirm that you saw who you say you saw. 
 
 Anchored Artifacts: A-3076.1
 Mentions: N-3, N-361
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-8678
 Tags: relevance:core
 Investigative Direction: Obtain the full Mitch Snow interview and verify the clip is in context and its date.
@@ -1832,7 +1821,7 @@ Transcript Snippet: I confirmed the location with other people that are that are
 
 Anchored Artifacts: A-3076.1
 Mentions: N-3, N-361
-Related Nodes: N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Obtain the metadata files and the identities of the Fort Huachuca sources used to confirm the location.
 
@@ -1848,7 +1837,7 @@ Transcript Snippet: Remember, Mitch said he was at first taken outside by Captai
 
 Anchored Artifacts: A-2020.1
 Mentions: N-3, N-361, N-319
-Related Nodes: N-10373
+Related Nodes: N-10347
 Supports: C-4407
 Tags: relevance:core
 Investigative Direction: Obtain the incident report and any base logs naming Captain Neff on the morning described.
@@ -1897,7 +1886,7 @@ Transcript Snippet: You're dealing with a lawyer that has full access to my lawy
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Ask the host's counsel for correspondence with Harpole's lawyer over the past two years.
 
@@ -1913,7 +1902,7 @@ Transcript Snippet: I obviously just received this lawsuit a couple of hours ago
 
 Anchored Artifacts: A-2015.1
 Mentions: N-3, N-30
-Related Nodes: N-11258
+Related Nodes: N-11174
 Tags: relevance:context
 Investigative Direction: Check the docket filing time and the service record against the host's account.
 
@@ -1929,7 +1918,7 @@ Transcript Snippet: Terryl Farnsworth actually has footage the public has never 
 
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-266
-Related Nodes: N-11258, N-10812
+Related Nodes: N-11174, N-10736
 Tags: relevance:core
 Investigative Direction: Seek the footage through discovery or a subpoena in the Harpole action and identify its custodians.
 
@@ -1945,7 +1934,7 @@ Transcript Snippet: I saw a text message where she was joking around with a frie
 
 Anchored Artifacts: A-2021.1
 Mentions: N-330, N-3, N-2
-Related Nodes: N-10641, N-10647
+Related Nodes: N-10586, N-10587
 Tags: relevance:core
 Investigative Direction: Obtain the full text exchange and its recipient, and Erika Kirk's statement referencing it.
 
@@ -1961,7 +1950,7 @@ Transcript Snippet: her team is attacking Joe Kent for asking that question.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-209
-Related Nodes: N-10546
+Related Nodes: N-10501
 Tags: relevance:core
 Investigative Direction: Collect posts by Erika Kirk's team attacking Joe Kent and compare to his public remarks on foreign influence.
 
@@ -1977,7 +1966,7 @@ Transcript Snippet: Her lying about Dr. Lee Trotter's words. That is significant
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-195
-Related Nodes: N-10358
+Related Nodes: N-10334
 Supports: C-4180
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's attributions to Dr. Trotter with his own statements.
@@ -1994,7 +1983,7 @@ Transcript Snippet: Colluding with Andrew Kolvet on an absurd man of steel state
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10341, N-10358
+Related Nodes: N-10319, N-10334
 Tags: relevance:core
 Investigative Direction: Obtain the host's December 15 meeting notes or recording and Kolvet's drafting records for the statement.
 
@@ -2010,7 +1999,7 @@ Transcript Snippet: Donors literally telling me that she is lying about the audi
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10664, N-10437
+Related Nodes: N-10606, N-10406
 Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Identify the donors present at the Aspen event and obtain on-record statements about whether Kirk named Erika.
@@ -2027,7 +2016,7 @@ Transcript Snippet: They have not yet released the video to answer the claims be
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Tags: relevance:core
 Investigative Direction: Request the original recording with metadata and the venue and date of capture from TPUSA.
 
@@ -2043,7 +2032,7 @@ Transcript Snippet: pretending that that little private correspondence where we 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-278
-Related Nodes: N-10641
+Related Nodes: N-10586
 Tags: relevance:core
 Investigative Direction: Obtain the full private chat between the host and Kolvet and its date.
 
@@ -2059,7 +2048,7 @@ Transcript Snippet: Like I said, release the entire chat. I you have my full per
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10641
+Related Nodes: N-10586
 Tags: relevance:core
 Investigative Direction: Request that Kolvet or TPUSA publish the full chat and verify its completeness.
 
@@ -2075,7 +2064,7 @@ Transcript Snippet: since what you are attempting to falsely insinuate is that I
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Obtain the December 15 meeting notes and any recording, plus Kolvet's statement making the insinuation.
 
@@ -2091,7 +2080,7 @@ Transcript Snippet: someone at Turning Point USA got a message out to me. And th
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk whether the host made this disclosure on December 15 and identify the third party.
 
@@ -2107,7 +2096,7 @@ Transcript Snippet: It was Mikey McCoy. Mikey McCoy got a message out to me uh v
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-14, N-550
-Related Nodes: N-10649
+Related Nodes: N-11295
 Tags: relevance:core
 Investigative Direction: Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.
 
@@ -2123,7 +2112,7 @@ Transcript Snippet: you can still cannot produce the information that you are cl
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-550
-Related Nodes: N-10552
+Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Laitsch and compare it against the host's published material.
 
@@ -2139,7 +2128,7 @@ Transcript Snippet: these two people I I both of them brought this forward take 
 
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-427, N-428
-Related Nodes: N-10083, N-10648
+Related Nodes: N-10070, N-10591
 Tags: relevance:context
 Investigative Direction: Check FEC and OpenSecrets records for AIPAC-linked contributions to Lawler and Gottheimer.
 
@@ -2155,7 +2144,7 @@ Transcript Snippet: Government promoting false claims that that Jews are taught 
 
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-427, N-428
-Related Nodes: N-10648
+Related Nodes: N-10591
 Tags: relevance:context
 Investigative Direction: Obtain the full resolution text and its cited sources for each recital.
 
@@ -2171,7 +2160,7 @@ Transcript Snippet: Satanic pedophiles working for Israel, we're talking about E
 
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-9
-Related Nodes: N-10648
+Related Nodes: N-10591
 Tags: relevance:context
 Investigative Direction: Locate the host's original statement and compare it with the resolution's paraphrase.
 
@@ -2219,7 +2208,7 @@ Transcript Snippet: It then goes on and says um that I repeated false claims tha
 
 Anchored Artifacts: A-2024.1
 Mentions: N-3, N-427, N-428
-Related Nodes: N-10648
+Related Nodes: N-10591
 Tags: relevance:context
 Investigative Direction: Search the host's transcripts for the alleged statement and for the source the resolution cites.
 
@@ -2333,7 +2322,7 @@ Transcript Snippet: this lawyer, Matt Sarelson, the one who speaks like he has h
 
 Anchored Artifacts: 
 Mentions: N-3, N-859, N-60
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.
 
@@ -2349,7 +2338,7 @@ Transcript Snippet: And Trump was signaling you should sue people to to Erika.
 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-2
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:context
 Investigative Direction: Find the Trump remarks urging lawsuits and whether they referenced Erika Kirk.
 
@@ -2365,7 +2354,7 @@ Transcript Snippet: these lawsuits to get to that phase is hundred hundreds of t
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-11258
+Related Nodes: N-11174
 Tags: relevance:context
 Investigative Direction: Ask the host's counsel for a budget estimate; the figure is her husband's stated expectation.
 
@@ -2381,7 +2370,7 @@ Transcript Snippet: UVU just requires you to fill out a form which is titled req
 
 Anchored Artifacts: A-2029.1
 Mentions: N-266
-Related Nodes: N-10645, N-10012
+Related Nodes: N-10589, N-10012
 Tags: relevance:core
 Investigative Direction: Request the UVU drone authorization form records for the event under GRAMA.
 
@@ -2397,7 +2386,7 @@ Transcript Snippet: But I have thus far not been given an alibi for the morning 
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-10643, N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Ask Harpole's counsel for dated receipts, location data or travel records for the morning of September 9.
 
@@ -2413,7 +2402,7 @@ Transcript Snippet: The flights were for what? 2:19, 1:19, 1:39 in the afternoon
 
 Anchored Artifacts: A-3077.1
 Mentions: N-3, N-266
-Related Nodes: N-10643, N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Obtain the flight records the host refers to and verify the times, routes and the source of the records.
 
@@ -2429,7 +2418,7 @@ Transcript Snippet: Mitch says the meeting concluded at 7:30 a. m. There were fl
 
 Anchored Artifacts: A-3077.1
 Mentions: N-3, N-361
-Related Nodes: N-10643, N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Identify the specific flights the host means and check them against Harpole's travel records.
 
@@ -2445,7 +2434,7 @@ Transcript Snippet: I was sympathetic to you and I was wrong about you is what I
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-10373
+Related Nodes: N-10347
 Qualifies: C-8662
 Tags: relevance:core
 Investigative Direction: Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.
@@ -2590,10 +2579,10 @@ Confidence: high
 - **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpole" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
 - **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
 - **Name uncertainty – Matt Sarelson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Sarelson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.
-- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-10649).
+- **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-11295).
 - **Timestamp estimation:** Some artifact timestamps were approximated where the host transitions between quoted passages without discrete visual cues.
 - **Transcript ambiguity – "the morning of September 9":** Harpole's alleged Fort Huachuca presence is repeatedly dated to "the morning of September 9" by the host. Charlie Kirk was shot on September 10, 2025. The September 9 reference may refer to the day before the event, consistent with Snow's account of a pre-event meeting; flag for verification against Snow's primary statements.
-- **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-10643.
+- **Unverified alibi for Harpole:** Candace notes Snow's claim of Harpole at Fort Huachuca on the morning of September 9 has not been refuted by Harpole with any document (Starbucks receipt, etc.); Harpole cites only afternoon Dallas flights. Alibi remains open under N-10347.
 - **Lawsuit characterization caveat:** Host assertions regarding the lawsuit's strategic intent (PR-booth theory) are interpretive commentary and have not been inscribed as artifact-backed claims.
 
 ---

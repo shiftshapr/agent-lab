@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-3",
             "N-5",
-            "N-10640"
+            "N-10585"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10637",
+            "N-10582",
             "N-369"
           ],
           "tags": [],
@@ -78,7 +78,7 @@
             "C-8574"
           ],
           "related_nodes": [
-            "N-10637",
+            "N-10582",
             "N-368",
             "N-369"
           ],
@@ -99,7 +99,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10638",
+            "N-10583",
             "N-370"
           ],
           "tags": [],
@@ -120,7 +120,7 @@
           "related_nodes": [
             "N-2",
             "N-330",
-            "N-10637"
+            "N-10582"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
           "related_nodes": [
             "N-2",
             "N-370",
-            "N-10638"
+            "N-10583"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10639"
+            "N-10584"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10639"
+            "N-10584"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "N-2",
             "N-3",
             "N-87",
-            "N-10639"
+            "N-10584"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -227,8 +227,8 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10639",
-            "N-10642"
+            "N-10584",
+            "N-10587"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,7 +286,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-10641"
+            "N-10586"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -525,7 +525,7 @@
             "N-60",
             "N-82",
             "N-377",
-            "N-10270"
+            "N-10254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -552,7 +552,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10647"
+            "N-10587"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -611,7 +611,7 @@
             "N-3",
             "N-14",
             "N-159",
-            "N-10647"
+            "N-10587"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -625,8 +625,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "Persistent discrepancy between official shooting narrative and surveillance footage indicating possible friendly fire by Secret Service at the 2026 White House Correspondents Dinner incident.",
@@ -649,8 +649,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10638",
-      "ref": "N-10638",
+      "@id": "N-10583",
+      "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
       "type": "investigation_target",
       "description": "Unresolved question of whether Sara Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source.",
@@ -672,8 +672,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10639",
-      "ref": "N-10639",
+      "@id": "N-10584",
+      "ref": "N-10584",
       "name": "Erika Kirk Pre-Recorded Statement Authorship and Authenticity",
       "type": "investigation_target",
       "description": "Question of who authored Erika Kirk's pre-recorded 9-minute statement (host suggests Blake Neff), whether it was scripted, and how it was produced.",
@@ -701,8 +701,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10640",
-      "ref": "N-10640",
+      "@id": "N-10585",
+      "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
       "type": "investigation_target",
       "description": "Question of who authored and pushed send on Trump's April 2026 Truth Social post criticizing Candace Owens (host names Dan Scavino and Natalie Harp as historical senders).",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10641",
-      "ref": "N-10641",
+      "@id": "N-10586",
+      "ref": "N-10586",
       "name": "Andrew Kolvet Text Message Full Context Verification",
       "type": "investigation_target",
       "description": "Unresolved question of the complete text message chain shared between Candace and others regarding the December meeting with Erika Kirk; host has publicly authorized release of the full chain.",
@@ -749,17 +749,25 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10642",
-      "ref": "N-10642",
-      "name": "Erika Kirk Murder Claim Accuracy",
+      "@id": "N-10587",
+      "ref": "N-10587",
+      "name": "Erika Kirk Murder Allegation Accuracy",
       "type": "investigation_target",
       "description": "Question of whether Candace Owens ever made an explicit on-podcast claim that Erika Kirk murdered Charlie Kirk, and the framing of the December text joke as evidence.",
       "related_artifacts": [
         "A-2009.4",
-        "A-2011.1"
+        "A-2011.1",
+        "A-2964.1",
+        "A-2966.1"
       ],
       "related_claims": [
-        "C-8596"
+        "C-8596",
+        "C-8598",
+        "C-8599",
+        "C-8600",
+        "C-8608",
+        "C-8611",
+        "C-8616"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1140,7 +1148,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10638"
+        "N-10583"
       ]
     },
     {
@@ -1224,8 +1232,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1241,8 +1249,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1258,8 +1266,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1279,8 +1287,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1296,8 +1304,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10358",
-      "ref": "N-10358",
+      "@id": "N-10334",
+      "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1314,8 +1322,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1331,8 +1339,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1349,8 +1357,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10552",
-      "ref": "N-10552",
+      "@id": "N-10506",
+      "ref": "N-10506",
       "name": "Aubrey Termination Circumstances",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1366,8 +1374,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10587",
-      "ref": "N-10587",
+      "@id": "N-10535",
+      "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1384,8 +1392,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10590",
-      "ref": "N-10590",
+      "@id": "N-10538",
+      "ref": "N-10538",
       "name": "Laura Loomer Influence on Trump Policy Question",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1405,8 +1413,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10601",
-      "ref": "N-10601",
+      "@id": "N-10548",
+      "ref": "N-10548",
       "name": "Victor Marx IDF 50,000 Guns Request",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1422,8 +1430,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10607",
-      "ref": "N-10607",
+      "@id": "N-10554",
+      "ref": "N-10554",
       "name": "UGA No-Show Security Threat Explanation Discrepancy",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1440,8 +1448,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10613",
-      "ref": "N-10613",
+      "@id": "N-10560",
+      "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1458,50 +1466,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10616",
-      "ref": "N-10616",
-      "name": "UGA Rally Cancellation Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing node cited by new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8586"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10647",
-      "ref": "N-10647",
-      "name": "Erika Kirk Murder Allegation Accuracy",
-      "type": "investigation_target",
-      "description": "Existing node cited by new claims in this episode.",
-      "related_artifacts": [
-        "A-2964.1",
-        "A-2966.1"
-      ],
-      "related_claims": [
-        "C-8598",
-        "C-8599",
-        "C-8600",
-        "C-8608",
-        "C-8611",
-        "C-8616"
-      ],
-      "tags": [],
-      "evidence_count": 2,
-      "claim_count": 6,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Existing node cited by new claims in this episode.",
@@ -1850,7 +1816,7 @@
         "A-2007.1"
       ],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [],
       "claim_timestamp": "00:02:43",
@@ -1870,7 +1836,7 @@
         "A-2008.1"
       ],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:29:10",
@@ -1889,7 +1855,7 @@
         "A-2008.2"
       ],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:29:53",
@@ -1909,7 +1875,7 @@
         "A-2008.3"
       ],
       "related_nodes": [
-        "N-10638"
+        "N-10583"
       ],
       "tags": [],
       "claim_timestamp": "00:31:35",
@@ -1929,11 +1895,11 @@
         "A-2008.5"
       ],
       "related_nodes": [
-        "N-10638"
+        "N-10583"
       ],
       "tags": [],
       "claim_timestamp": "00:32:25",
-      "investigative_direction": "Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10638).",
+      "investigative_direction": "Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10583).",
       "transcript_snippet": "I will offer $10,000 to somebody who has the opposite side footage.",
       "mentions_person_refs": [
         "N-3",
@@ -1951,7 +1917,7 @@
         "A-2008.4"
       ],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:33:09",
@@ -1974,7 +1940,7 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [],
       "claim_timestamp": "00:37:46",
@@ -1994,7 +1960,7 @@
         "A-2009.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [],
       "claim_timestamp": "00:39:21",
@@ -2013,8 +1979,8 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10639",
-        "N-10642"
+        "N-10584",
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:47:25",
@@ -2034,7 +2000,7 @@
         "A-2009.2"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [],
       "claim_timestamp": "00:42:09",
@@ -2053,7 +2019,7 @@
         "A-2009.3"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [],
       "claim_timestamp": "00:45:38",
@@ -2092,7 +2058,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [],
       "claim_timestamp": "00:51:23",
@@ -2113,7 +2079,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [],
       "claim_timestamp": "00:52:52",
@@ -2134,7 +2100,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [],
       "claim_timestamp": "00:52:52",
@@ -2283,7 +2249,7 @@
       "claim": "The host says Trump's Truth Social post about her was the fourth tweet about her in a span of two weeks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:tangential"
@@ -2304,7 +2270,7 @@
       "claim": "The host says Trump had already called her low IQ and had asserted that she was uglier than Brigitte Macron, so the post repeated earlier points.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:tangential"
@@ -2344,7 +2310,7 @@
       "claim": "The host says the photo of her that Trump shared is authentic and not AI-generated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:tangential"
@@ -2365,7 +2331,7 @@
       "claim": "The host says that in the four days before the Trump post, Laura Loomer shared AI photos, stories about drunken hit-and-runs and claims about secret trusts to hide money from the Macrons.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -2440,7 +2406,7 @@
       "claim": "The host says the words on the Trump-linked magazine-style cover read that Candace Owens lies, lies, lies and uses rich white men, and earlier said she shared the photo publicly, which is why someone could put it on an AI cover.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:context"
@@ -2518,7 +2484,7 @@
       "claim": "The host says she is told that Laura Loomer was ranting to people about not being invited to the White House Correspondents Dinner in the period before the Trump post.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [
         "relevance:context"
@@ -2539,8 +2505,8 @@
       "claim": "The host says Laura Loomer demanded a tweet of support from Trump, and that this explains the race-tinged language of the Trump post.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640",
-        "N-10590"
+        "N-10585",
+        "N-10538"
       ],
       "tags": [
         "relevance:context"
@@ -2589,7 +2555,7 @@
       "claim": "The host says she is told that White House chief of staff Susie Wiles was staunchly opposed to the Trump tweet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:context"
@@ -2611,7 +2577,7 @@
       "claim": "The host relays a long-standing rumor that Loomer has blackmail on Trump, tied to Loomer claiming relations with him after going on Air Force One, while saying she is reticent to believe it because it is Loomer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [
         "relevance:tangential"
@@ -2633,7 +2599,7 @@
       "claim": "The host quotes Laura Loomer as saying she will not stop and will post their grandkids, mother and father until she gets what she wants, and calls it emotional blackmail.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [
         "relevance:context"
@@ -2654,8 +2620,8 @@
       "claim": "The host says Trump's posts attacking Tucker Carlson and Megyn Kelly followed whoever Laura Loomer was attacking that week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590",
-        "N-10406"
+        "N-10538",
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2678,7 +2644,7 @@
       "claim": "The host says Trump has never pushed send on his own tweets, that this was Dan Scavino's job in the first term, and that it is widely reported to be Natalie Harp's job on Truth Social.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10640"
+        "N-10585"
       ],
       "tags": [
         "relevance:context"
@@ -2703,7 +2669,7 @@
         "A-2008.2"
       ],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:context"
@@ -2726,7 +2692,7 @@
       "claim": "The host says most people inside the ballroom could not hear or distinguish the sound of what was going on and inferred a shooting from the Secret Service rushing the president out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:context"
@@ -2746,7 +2712,7 @@
       "claim": "The host credits Andrew Kolvet with honestly recounting that he heard a sound he did not recognize, and says it could have been plates crashing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:context"
@@ -2769,8 +2735,8 @@
         "A-2008.4"
       ],
       "related_nodes": [
-        "N-10637",
-        "N-10638"
+        "N-10582",
+        "N-10583"
       ],
       "tags": [
         "relevance:core"
@@ -2794,7 +2760,7 @@
       "claim": "The host says the White House Correspondents Dinner was an event that Charlie Kirk never attended and that Trump never attended as president.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:core"
@@ -2815,7 +2781,7 @@
       "claim": "The host says that after the UGA no-show, the Vice President lectured the host's side about not keeping Erika Kirk safe, though the host says her side had not told Erika not to go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2838,7 +2804,7 @@
         "A-2009.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [
         "relevance:core"
@@ -2861,7 +2827,7 @@
         "A-2009.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [
         "relevance:core"
@@ -2885,8 +2851,7 @@
       "claim": "The host says Erika Kirk had said she could not do her UGA commitment because of credible threats and because she could not trust the Secret Service, then attended an event reliant on the Secret Service.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10607",
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2907,7 +2872,7 @@
       "claim": "The host says Charlie Kirk hated the White House Correspondents Dinner and always made fun of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:core"
@@ -2953,7 +2918,7 @@
       "claim": "The host says Erika Kirk, she believes, also went to a pre-party for the dinner, which was posted publicly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:context"
@@ -2976,7 +2941,7 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [
         "relevance:context"
@@ -3000,7 +2965,7 @@
         "A-2009.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [
         "relevance:core"
@@ -3024,7 +2989,7 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10584"
       ],
       "tags": [
         "relevance:context"
@@ -3051,7 +3016,7 @@
         "A-2964.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3078,7 +3043,7 @@
         "A-2966.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3103,7 +3068,7 @@
         "A-2966.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3127,7 +3092,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10641",
+        "N-10586",
         "N-10000"
       ],
       "tags": [
@@ -3154,8 +3119,8 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10349",
-        "N-10641"
+        "N-10327",
+        "N-10586"
       ],
       "tags": [
         "relevance:core"
@@ -3182,7 +3147,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [
         "relevance:core"
@@ -3206,7 +3171,7 @@
       "claim": "The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10552"
+        "N-10506"
       ],
       "tags": [
         "relevance:core"
@@ -3227,7 +3192,7 @@
       "claim": "The host says she went into the meeting expecting straight answers from Erika Kirk and that Erika then lied to her face, which made her increasingly suspicious.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3248,7 +3213,7 @@
       "claim": "The host says donors are telling her that the audio or video of Charlie Kirk presented by Erika's side was AI.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -3270,7 +3235,7 @@
       "claim": "The host says she spoke to multiple donors who were at the event and that it is strange Erika will not release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -3293,7 +3258,7 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3321,7 +3286,7 @@
       "claim": "The host says Erika Kirk was standing next to FBI Director Kash Patel at the dinner while, in the host's view, the FBI is holding up the case, and that she wouldn't be able to stomach standing next to him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -3343,8 +3308,8 @@
       "claim": "The host says Erika Kirk claimed the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10358"
+        "N-10416",
+        "N-10334"
       ],
       "tags": [
         "relevance:core"
@@ -3370,8 +3335,8 @@
       "claim": "The host says, according to donors who were present, Erika lied about Charlie saying he wanted her to take over if he were killed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
-        "N-10194"
+        "N-10606",
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -3421,7 +3386,7 @@
         "A-2966.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3446,8 +3411,8 @@
       "claim": "The host says Erika Kirk claimed she was not on the phone when she was, and that she facilitated the whole conversation involving the surgeon, and that blame was placed on Dr. Lee Trotter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10358"
+        "N-10416",
+        "N-10334"
       ],
       "tags": [
         "relevance:core"
@@ -3535,7 +3500,7 @@
         "A-2963.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3560,7 +3525,7 @@
         "A-2963.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -3671,7 +3636,7 @@
       "claim": "The host says the Corby Hall episode was pre-recorded to cover Thursday while she was away, which is why she didn't mention it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:context"
@@ -3694,7 +3659,7 @@
         "A-2014.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10548"
       ],
       "tags": [
         "relevance:context"
@@ -3714,7 +3679,7 @@
       "claim": "The host says Victor Marx has been posting videos but never replied to her Instagram message or her follow-up, and she invites him to appear by Zoom on her terms.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:context"

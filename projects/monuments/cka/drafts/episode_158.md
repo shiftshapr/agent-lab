@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11082, N-11083, N-11085, N-11087, N-11088, N-11089, N-11090
+  - Tip-minted Nodes (supplement_2026-10): N-11000, N-11001, N-11003, N-11005, N-11006, N-11007, N-11008
   - Claim Range: C-13645–C-13721
-  - New Nodes Introduced: N-10867, N-10868
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-190, N-237, N-278, N-217, N-266, N-7, N-496, N-159, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-211, N-224, N-330, N-522, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086, N-10864
+  - New Nodes Introduced: N-10788, N-10789
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-190, N-237, N-278, N-217, N-266, N-7, N-496, N-159, N-10053, N-10190, N-10186, N-10762, N-10780, N-10781, N-10784, N-10, N-8, N-13, N-16, N-18, N-10786, N-211, N-224, N-330, N-522, N-10027, N-10060, N-10067, N-10099, N-10320, N-10783, N-10809, N-11009, N-10787, N-11002, N-11004, N-10785
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dillon not minted. Leah Thomas not minted.
 
@@ -39,7 +39,7 @@ Video Timestamp: 00:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted/read on air)
 
-*Related: C-13645, C-13650, C-13651, N-10864, N-10865, N-2, N-13*
+*Related: C-13645, C-13650, C-13651, N-10785, N-10786, N-2, N-13*
 
 ---
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:02:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (visual as described by host)
 
-*Related: C-13645, N-10864, N-2*
+*Related: C-13645, N-10785, N-2*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted from profile); Medium (host inference about PR mindset)
 
-*Related: C-13658, N-10866, N-2, N-217*
+*Related: C-13658, N-10787, N-2, N-217*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:20:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quote as read); Medium (wardrobe catalog as host compilation)
 
-*Related: C-13662, N-10864, N-2*
+*Related: C-13662, N-10785, N-2*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:26:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (DeGroote quote as read); Low–Medium (McCoy gatekeeping as host allegation)
 
-*Related: C-13671, N-10218, N-496, N-190, N-1, N-2*
+*Related: C-13671, N-10186, N-496, N-190, N-1, N-2*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted in profile)
 
-*Related: C-13667, C-13675, N-22, N-14, N-10056, N-10864*
+*Related: C-13667, C-13675, N-22, N-14, N-10053, N-10785*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline/narrative as characterized); High (that host presents the flip as coordinated)
 
-*Related: C-13692, N-10867, N-3, N-30*
+*Related: C-13692, N-10788, N-3, N-30*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:47:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (archive dates as host-stated; verify Wayback/primary); High (Ackman interest as asserted with deleted-tweet capture claim)
 
-*Related: C-13705, C-13710, N-10868, N-37, N-36, N-10860, N-10863*
+*Related: C-13705, C-13710, N-10789, N-37, N-36, N-10781, N-10784*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13688, C-13689, N-3, N-10070*
+*Related: C-13688, C-13689, N-3, N-10067*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:43:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13701, C-13714, N-3, N-10868*
+*Related: C-13701, C-13714, N-3, N-10789*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 01:05:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13720, N-3, N-11091*
+*Related: C-13720, N-3, N-11009*
 
 ---
 
@@ -200,7 +200,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13671, C-13675, A-2462.1, N-10863*
+*Related: C-13671, C-13675, A-2462.1, N-10784*
 
 ---
 
@@ -212,7 +212,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13645, C-13650, C-13651, C-13658, C-13662, A-2459.1, N-10864, N-10865*
+*Related: C-13645, C-13650, C-13651, C-13658, C-13662, A-2459.1, N-10785, N-10786*
 
 ---
 
@@ -224,7 +224,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13692, A-2464.1, N-10867*
+*Related: C-13692, A-2464.1, N-10788*
 
 ---
 
@@ -248,7 +248,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13692, N-10867*
+*Related: C-13692, N-10788*
 
 ---
 
@@ -260,7 +260,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13705, N-10868, N-10863*
+*Related: C-13705, N-10789, N-10784*
 
 ---
 
@@ -272,7 +272,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13710, A-2465.1, N-10868*
+*Related: C-13710, A-2465.1, N-10789*
 
 ---
 
@@ -296,7 +296,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13671, N-10198, N-10218*
+*Related: C-13671, N-10190, N-10186*
 
 ---
 
@@ -344,7 +344,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-10839, N-10859*
+*Related: N-10762, N-10780*
 
 ---
 
@@ -380,11 +380,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13645, N-10864*
+*Related: C-13645, N-10785*
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships.
 
@@ -392,11 +392,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13675, C-13651, N-10865*
+*Related: C-13675, C-13651, N-10786*
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Reused for post-assassination office/home-office behavior contrast with shrine narrative.
 
@@ -408,7 +408,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10218** McCoy Succession Plan
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Reused around will-appointment timing and succession optics.
 
@@ -420,7 +420,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 Background for TPUSA non-participation contrast and post-review smear timing.
 
@@ -428,11 +428,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: N-10859, A-2459.1*
+*Related: N-10780, A-2459.1*
 
 ---
 
-**N-10859** TPUSA Non-Participation in UVU Independent Review
+**N-10780** TPUSA Non-Participation in UVU Independent Review
 
 Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Forest Group.
 
@@ -440,11 +440,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13645, N-10839*
+*Related: C-13645, N-10762*
 
 ---
 
-**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-10781** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 Reused when plotting July 9 college-video archive against July 10 UVU ask.
 
@@ -452,11 +452,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13705, N-10868, N-10*
+*Related: C-13705, N-10789, N-10*
 
 ---
 
-**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-10784** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay.
 
@@ -464,11 +464,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13705, N-10868*
+*Related: C-13705, N-10789*
 
 ---
 
-**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-10785** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.
 
@@ -481,7 +481,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness
+**N-10786** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.
 
@@ -490,11 +490,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13650, C-13651, A-2459.1, N-10056, N-13*
+*Related: C-13650, C-13651, A-2459.1, N-10053, N-13*
 
 ---
 
-**N-10866** Night-of Assassination Aloe Yoga Outfit Directive
+**N-10787** Night-of Assassination Aloe Yoga Outfit Directive
 
 New topic: profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative.
 
@@ -507,7 +507,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10867** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
+**N-10788** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)
 
 New topic: post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package.
 
@@ -520,7 +520,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10868** July 9 2025 Archive of Candace College YouTube Project
+**N-10789** July 9 2025 Archive of Candace College YouTube Project
 
 New topic: first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification.
 
@@ -529,7 +529,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13705, C-13710, A-2465.1, N-37, N-10860, N-10863*
+*Related: C-13705, C-13710, A-2465.1, N-37, N-10781, N-10784*
 
 ---
 
@@ -601,7 +601,7 @@ Named by the host among Erika Kirk's December appearances.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Daily Mail; source of the headline the host reads about her being in crisis.
 
@@ -609,7 +609,7 @@ Daily Mail; source of the headline the host reads about her being in crisis.
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Organization the host links to attacks on her that she says double when Erika Kirk is in DC.
 
@@ -617,7 +617,7 @@ Organization the host links to attacks on her that she says double when Erika Ki
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Place at issue in the profile's account of Charlie's criticism and in the host's Gaza remarks.
 
@@ -625,7 +625,7 @@ Place at issue in the profile's account of Charlie's criticism and in the host's
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Existing topic reused for the review's debunking of Harpole's podcast narrative.
 
@@ -633,7 +633,7 @@ Existing topic reused for the review's debunking of Harpole's podcast narrative.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for the host's August 5 Hamptons phone call claim.
 
@@ -649,7 +649,7 @@ Place where the host says Charlie was on August 5, 2025.
 
 ---
 
-**N-10103** Bulletproof Vest Absence
+**N-10099** Bulletproof Vest Absence
 
 Existing topic reused for the night-before vest recommendation claim.
 
@@ -657,7 +657,7 @@ Existing topic reused for the night-before vest recommendation claim.
 
 ---
 
-**N-11082** Charlie Kirk Office Shrine Claim
+**N-11000** Charlie Kirk Office Shrine Claim
 
 Node Type: Topic
 The profile's account that Charlie's office is preserved as a shrine, set against the host's claim that Mikey McCoy used Charlie's home office for interviews 12 days after the murder.
@@ -666,7 +666,7 @@ The profile's account that Charlie's office is preserved as a shrine, set agains
 
 ---
 
-**N-11083** Erika Kirk Fall 2025 Public Appearance and Wardrobe Schedule
+**N-11001** Erika Kirk Fall 2025 Public Appearance and Wardrobe Schedule
 
 Node Type: Topic
 The host's dated list of Erika Kirk's public appearances and outfits between September and December 2025, used to dispute the claim that the sparkly Amfest suit was the only thing that fit.
@@ -675,7 +675,7 @@ The host's dated list of Erika Kirk's public appearances and outfits between Sep
 
 ---
 
-**N-11084** TPUSA Leak Hunt and Employee Firings
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Node Type: Topic
 The profile's and the host's account that TPUSA chased leaks to the host, fired employees suspected of being sources, and searched for a mole after the host's July tweets.
@@ -684,7 +684,7 @@ The profile's and the host's account that TPUSA chased leaks to the host, fired 
 
 ---
 
-**N-11085** Night-Before Security Recommendations Discussion
+**N-11003** Night-Before Security Recommendations Discussion
 
 Node Type: Topic
 DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.
@@ -693,7 +693,7 @@ DeGroote's account, read from the profile, that on the night before the assassin
 
 ---
 
-**N-11086** Priest Report of Marital Issues
+**N-11004** Priest Report of Marital Issues
 
 Node Type: Topic
 The host's claim, from a source, that the priest told people there were marital issues between Charlie and Erika Kirk.
@@ -702,7 +702,7 @@ The host's claim, from a source, that the priest told people there were marital 
 
 ---
 
-**N-11087** TPUSA Notice of Intent to Sue UVU
+**N-11005** TPUSA Notice of Intent to Sue UVU
 
 Node Type: Topic
 The host's account of a sloppily filed TPUSA notice that it intends to sue UVU despite not participating in the independent review.
@@ -711,7 +711,7 @@ The host's account of a sloppily filed TPUSA notice that it intends to sue UVU d
 
 ---
 
-**N-11088** George Oxford Ancient Hebrew Study
+**N-11006** George Oxford Ancient Hebrew Study
 
 Node Type: Topic
 The smear package's claim that George speaks Hebrew as proof he is a secret Zionist, and the host's explanation that he studied ancient Hebrew in Oxford's theology program.
@@ -720,7 +720,7 @@ The smear package's claim that George speaks Hebrew as proof he is a secret Zion
 
 ---
 
-**N-11089** Hidden Accounts Smear Evidence Dispute
+**N-11007** Hidden Accounts Smear Evidence Dispute
 
 Node Type: Topic
 The host's dispute of the smear's claimed MySpace, Flickr, Twitter and adult-site accounts, including the data-leak sourcing, archive dates and missing tattoos.
@@ -729,7 +729,7 @@ The host's dispute of the smear's claimed MySpace, Flickr, Twitter and adult-sit
 
 ---
 
-**N-11090** Black Robe Mafia Judges and Lawyers Claim
+**N-11008** Black Robe Mafia Judges and Lawyers Claim
 
 Node Type: Topic
 The host's prediction that judges and lawyers acting for the state, which she calls the black robe mafia, will be exposed.
@@ -738,7 +738,7 @@ The host's prediction that judges and lawyers acting for the state, which she ca
 
 ---
 
-**N-11091** Wear Forbidden
+**N-11009** Wear Forbidden
 
 Node Type: Organization
 Account whose parody video of a smear strategy meeting the host plays at the end of the episode.
@@ -758,7 +758,7 @@ Claim: Host asserts Clara Molot's Vanity Fair profile–enabled by months of TPU
 Anchored Artifacts: A-2459.1, A-2459.2
 Mentions: N-13, N-2
 
-Related Nodes: N-10859, N-10864
+Related Nodes: N-10780, N-10785
 
 Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Forest Group outreach log.
 
@@ -773,7 +773,7 @@ Claim: Per the profile as read, Erika described decisions via a heaven/reunion h
 Anchored Artifacts: A-2459.1
 Mentions: N-2
 
-Related Nodes: N-10865
+Related Nodes: N-10786
 
 Investigative Direction: Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window.
 
@@ -788,7 +788,7 @@ Claim: When pressed on Israel/Netanyahu, Erika said she does not sit around thin
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-36
 
-Related Nodes: N-10056, N-10865
+Related Nodes: N-10053, N-10786
 
 Investigative Direction: Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-13675).
 
@@ -803,7 +803,7 @@ Claim: The profile states Erika, thinking about Air Force 2 optics and a “heav
 Anchored Artifacts: A-2460.1
 Mentions: N-2, N-217
 
-Related Nodes: N-10866
+Related Nodes: N-10787
 
 Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.
 
@@ -818,7 +818,7 @@ Claim: Host disputes Erika’s profile claim that the Amfest Alice + Olivia spar
 Anchored Artifacts: A-2461.1
 Mentions: N-2
 
-Related Nodes: N-10864
+Related Nodes: N-10785
 
 Investigative Direction: Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”
 
@@ -833,7 +833,7 @@ Claim: Doug DeGroote confirms they planned to sign will paperwork that Monday; h
 Anchored Artifacts: A-2462.1
 Mentions: N-1, N-2, N-190, N-496
 
-Related Nodes: N-10198, N-10218
+Related Nodes: N-10190, N-10186
 
 Investigative Direction: Seek calendar/email primary for the appointment; separate DeGroote on-record facts from host allegations about McCoy.
 
@@ -848,7 +848,7 @@ Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Can
 Anchored Artifacts: A-2463.1
 Mentions: N-3, N-14, N-22
 
-Related Nodes: N-10864
+Related Nodes: N-10785
 
 Investigative Direction: Confirm quote context in published piece; note host’s declined-to-comment status.
 
@@ -863,7 +863,7 @@ Claim: Per Carlson’s conversations with Erika as relayed in the profile, she w
 Anchored Artifacts: A-2463.1
 Mentions: N-2, N-22
 
-Related Nodes: N-10056, N-10865
+Related Nodes: N-10053, N-10786
 
 Investigative Direction: Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.
 
@@ -878,7 +878,7 @@ Claim: Host asserts attackers shifted from “jealous of Erika / antisemitic” 
 Anchored Artifacts: A-2464.1
 Mentions: N-3, N-30
 
-Related Nodes: N-10839, N-10867
+Related Nodes: N-10762, N-10788
 
 Investigative Direction: Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.
 
@@ -893,7 +893,7 @@ Claim: Host claims Wayback/first-archive of the college project is July 9, 2025�
 Anchored Artifacts: A-2465.1
 Mentions: N-36
 
-Related Nodes: N-10860, N-10863, N-10868
+Related Nodes: N-10781, N-10784, N-10789
 
 Investigative Direction: Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional.
 
@@ -908,7 +908,7 @@ Claim: Host asserts billionaire Bill Ackman was among the first to retweet/ampli
 Anchored Artifacts: A-2465.1
 Mentions: N-3, N-37, N-1
 
-Related Nodes: N-10868
+Related Nodes: N-10789
 
 Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.
 
@@ -923,7 +923,7 @@ Claim: Profile/DeGroote state the board voted two days after Charlie's death to 
 Anchored Artifacts: A-2459.1, A-2462.1
 Mentions: N-2, N-496
 
-Related Nodes: N-10218
+Related Nodes: N-10186
 
 Investigative Direction: Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.
 
@@ -939,7 +939,7 @@ Transcript Snippet: Instead, they are going to put Erika in a spread for Vanity 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-159
-Related Nodes: N-10864
+Related Nodes: N-10785
 Supports: C-13058
 Investigative Direction: Retrieve the host's July 18 tweet and its timestamp, and compare it with the profile's publication date and the July photo shoot.
 
@@ -955,7 +955,7 @@ Transcript Snippet: And then you have Charlie's bust in the corner. And I think 
 
 Anchored Artifacts: A-2459.2
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10864
+Related Nodes: N-10785
 Investigative Direction: Obtain the published Vanity Fair photograph and caption to check the objects the host lists.
 
 ---
@@ -970,7 +970,7 @@ Transcript Snippet: since Erika attends mass every Sunday and travels with a pri
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-3
-Related Nodes: N-10864
+Related Nodes: N-10785
 Investigative Direction: Locate the profile passage and any other reporting that confirms Erika's mass attendance and a travelling priest.
 
 ---
@@ -985,7 +985,7 @@ Transcript Snippet: came up in every single one of our conversations, but politi
 
 Anchored Artifacts: A-2459.1
 Mentions: N-13, N-2
-Related Nodes: N-10865
+Related Nodes: N-10786
 Supports: C-13650
 Investigative Direction: Compare against the full Vanity Fair text to confirm the sentence and its context.
 
@@ -1001,7 +1001,7 @@ Transcript Snippet: The first time we met in the lobby of the Waldorf Histori Ho
 
 Anchored Artifacts: A-2459.1
 Mentions: N-13, N-2
-Related Nodes: N-10864
+Related Nodes: N-10785
 Investigative Direction: Check the published profile for the meeting date and the outfit description.
 
 ---
@@ -1016,7 +1016,7 @@ Transcript Snippet: I do not know how to explain it other than this world will n
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-13
-Related Nodes: N-10864
+Related Nodes: N-10785
 Investigative Direction: Verify the quotation and its attribution in the published profile.
 
 ---
@@ -1031,7 +1031,7 @@ Transcript Snippet: Thanks. She says they're real. Like my hair.
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2
-Related Nodes: N-10864
+Related Nodes: N-10785
 Investigative Direction: Check the profile text for the exchange and its date.
 
 ---
@@ -1046,7 +1046,7 @@ Transcript Snippet: opting instead to work on the couch in Charlie's office near
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-1, N-13
-Related Nodes: N-11082
+Related Nodes: N-11000
 Investigative Direction: Obtain the profile passage and any dated photographs of the TPUSA headquarters office and the unfinished upper floor.
 
 ---
@@ -1061,7 +1061,7 @@ Transcript Snippet: 12 days after Charlie was murdered, Mikey McCoy was taking i
 
 Anchored Artifacts: 
 Mentions: N-190, N-1
-Related Nodes: N-11082, N-10198
+Related Nodes: N-11000, N-10190
 Contradicts: C-13655
 Investigative Direction: Date McCoy's Fox appearances and confirm the room they were filmed in from broadcast stills.
 
@@ -1077,7 +1077,7 @@ Transcript Snippet: apparently people found that she made purchases at Aloe thro
 
 Anchored Artifacts: A-2460.1
 Mentions: N-2
-Related Nodes: N-10866
+Related Nodes: N-10787
 Investigative Direction: Identify who found the account purchase and obtain the order record or a screenshot with its timestamp.
 
 ---
@@ -1092,7 +1092,7 @@ Transcript Snippet: including one young woman who vomited on herself from the tr
 
 Anchored Artifacts: A-2460.1
 Mentions: N-2
-Related Nodes: N-10866
+Related Nodes: N-10787
 Investigative Direction: Identify the staffer and the young woman named in the profile and confirm the sentence in the published text.
 
 ---
@@ -1121,7 +1121,7 @@ Transcript Snippet: she's got a team of people working on her every move, hair, 
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2
-Related Nodes: N-11083
+Related Nodes: N-11001
 Investigative Direction: Identify the stylists and staff credited at Erika's public events and in her social posts.
 
 ---
@@ -1136,7 +1136,7 @@ Transcript Snippet: Never mind the fact that the event was held in Phoenix. That
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2
-Related Nodes: N-11083
+Related Nodes: N-11001
 Investigative Direction: Confirm the Amfest venue, its date and Erika's residence from event listings and public records.
 
 ---
@@ -1151,7 +1151,7 @@ Transcript Snippet: Jesse Watters interview on November 5th. She was wearing a g
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-211
-Related Nodes: N-11083
+Related Nodes: N-11001
 Supports: C-13662
 Investigative Direction: Build a dated plate from video stills of each named appearance.
 
@@ -1167,7 +1167,7 @@ Transcript Snippet: The Sean Hannity interview on December 8th. The Fox and Frie
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-16, N-278
-Related Nodes: N-11083
+Related Nodes: N-11001
 Supports: C-13662
 Investigative Direction: Confirm each broadcast date and outfit from network video.
 
@@ -1183,7 +1183,7 @@ Transcript Snippet: Erika when she gave an award to Caleb Chilcutt the uh on Dec
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-10, N-522
-Related Nodes: N-11083
+Related Nodes: N-11001
 Supports: C-13662
 Investigative Direction: Check dates of the Chilcutt award and the Minaj and Bream interviews against broadcast records.
 
@@ -1199,7 +1199,7 @@ Transcript Snippet: Turning Point has spent the last year chasing internal leaks
 
 Anchored Artifacts: A-2459.1
 Mentions: N-3, N-13
-Related Nodes: N-11084
+Related Nodes: N-11002
 Supports: C-5511
 Investigative Direction: Identify the employees and dates of the leak-related firings and compare with prior reports of about 40 firings.
 
@@ -1215,7 +1215,7 @@ Transcript Snippet: when Owens's tweeted tweeted details about our photo shoot i
 
 Anchored Artifacts: A-2459.1
 Mentions: N-3, N-13
-Related Nodes: N-11084
+Related Nodes: N-11002
 Supports: C-13646
 Investigative Direction: Compare the host's July 18 tweet with the date of the photo shoot and TPUSA's internal reaction.
 
@@ -1231,7 +1231,7 @@ Transcript Snippet: Carlson says he loves Candace and calls her a very humane an
 
 Anchored Artifacts: A-2463.1
 Mentions: N-22, N-3
-Related Nodes: N-10864
+Related Nodes: N-10785
 Supports: C-13667
 Investigative Direction: Confirm Carlson's quote with the writer or the published text.
 
@@ -1247,7 +1247,7 @@ Transcript Snippet: She meets up with people in DC. She knows these attacks are 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10888
+Related Nodes: N-10809
 Investigative Direction: Seek dated schedule or travel records and the host's sources for the DC meetings; the allegation rests on the host's sources.
 
 ---
@@ -1262,7 +1262,7 @@ Transcript Snippet: The night before Charlie was killed, he had been discussing 
 
 Anchored Artifacts: A-2462.1
 Mentions: N-496, N-1, N-2
-Related Nodes: N-11085, N-10103
+Related Nodes: N-11003, N-10099
 Investigative Direction: Identify the pastor and the security team's written recommendations; compare with Charlie not wearing a vest on September 10.
 
 ---
@@ -1292,7 +1292,7 @@ Transcript Snippet: I have it on good authority that the priest has told people 
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-11086
+Related Nodes: N-11004
 Investigative Direction: Identify the priest and the host's source; only the source or the priest could confirm or refute.
 
 ---
@@ -1307,7 +1307,7 @@ Transcript Snippet: But in his last year, Charlie had become increasingly willin
 
 Anchored Artifacts: A-2459.1
 Mentions: N-1, N-36
-Related Nodes: N-10056, N-10063
+Related Nodes: N-10053, N-10060
 Investigative Direction: Check the published profile for the passage and its sourcing.
 
 ---
@@ -1322,7 +1322,7 @@ Transcript Snippet: Do I think that you can question how other leaders run their
 
 Anchored Artifacts: A-2459.1
 Mentions: N-2, N-13
-Related Nodes: N-10056, N-10063
+Related Nodes: N-10053, N-10060
 Investigative Direction: Verify the quotation and context in the published profile.
 
 ---
@@ -1337,7 +1337,7 @@ Transcript Snippet: And I knew because Andrew Kolvet told me, even though he den
 
 Anchored Artifacts: 
 Mentions: N-14, N-3, N-2
-Related Nodes: N-10218
+Related Nodes: N-10186
 Supports: C-13680, C-12435, C-9235
 Investigative Direction: Obtain the host's dated message or call record with Kolvet and any TPUSA statement of the vote date.
 
@@ -1353,7 +1353,7 @@ Transcript Snippet: Degrroot says Erika saved Turning Point two or three years o
 
 Anchored Artifacts: A-2462.1
 Mentions: N-496, N-2
-Related Nodes: N-10218
+Related Nodes: N-10186
 Investigative Direction: Confirm the quote in the published profile and request board minutes on the succession decision.
 
 ---
@@ -1382,7 +1382,7 @@ Transcript Snippet: He obviously was a political animal and would have answered 
 
 Anchored Artifacts: A-2805.1
 Mentions: N-13, N-1, N-2
-Related Nodes: N-10865
+Related Nodes: N-10786
 Supports: C-13650
 Investigative Direction: Locate the source of the Molot audio and confirm it is her own recording or interview.
 
@@ -1398,7 +1398,7 @@ Transcript Snippet: first we got the precursor which was a very sloppily filed. 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11087, N-10839, N-10859
+Related Nodes: N-11005, N-10762, N-10780
 Investigative Direction: Obtain the notice of intent to sue and its filing date, and the review's account of TPUSA's non-participation.
 
 ---
@@ -1413,7 +1413,7 @@ Transcript Snippet: Baron actually had the scoop on that and that it was going t
 
 Anchored Artifacts: 
 Mentions: N-330, N-3
-Related Nodes: N-10839
+Related Nodes: N-10762
 Supports: C-13190
 Investigative Direction: Find Coleman's earlier statement or post predicting the review's release and tone.
 
@@ -1429,7 +1429,7 @@ Transcript Snippet: they dedicate pages to debunking Brian Harpole's narrative o
 
 Anchored Artifacts: 
 Mentions: N-266, N-224, N-3
-Related Nodes: N-10862, N-10839
+Related Nodes: N-10783, N-10762
 Supports: C-13582
 Investigative Direction: Read the review's pages on Harpole and the Shawn Ryan appearance and compare to the podcast transcript.
 
@@ -1445,7 +1445,7 @@ Transcript Snippet: We do an episode on it. It goes viral. It's like 3 million v
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10839
+Related Nodes: N-10762
 Investigative Direction: Check the view count of the host's review episode on YouTube.
 
 ---
@@ -1460,7 +1460,7 @@ Transcript Snippet: Insiders reveal whispers of a foreign reconnaissance mission
 
 Anchored Artifacts: A-2806.1
 Mentions: N-3
-Related Nodes: N-10070, N-10867
+Related Nodes: N-10067, N-10788
 Investigative Direction: Archive the Daily Mail article, its date and any named insiders.
 
 ---
@@ -1475,7 +1475,7 @@ Transcript Snippet: I've never in my life even been on a military base.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10070
+Related Nodes: N-10067
 Contradicts: C-13688
 Investigative Direction: Check against the host's own earlier statements about base visits.
 
@@ -1491,7 +1491,7 @@ Transcript Snippet: this was Andrew Kolvet, was because I just was getting too c
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Investigative Direction: Find Kolvet's original statement and its date; compare with the host's account of Charlie's final months.
 
 ---
@@ -1520,7 +1520,7 @@ Transcript Snippet: The federal agent promoting Candace Owens to become presiden
 
 Anchored Artifacts: A-2464.1
 Mentions: N-3
-Related Nodes: N-10867
+Related Nodes: N-10788
 Supports: C-13692
 Investigative Direction: Archive the original posts and identify the author and platform.
 
@@ -1536,7 +1536,7 @@ Transcript Snippet: I know they're paying people on Discord to do this stuff
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10867
+Related Nodes: N-10788
 Investigative Direction: Identify the Discord channels and any payment records; the claim rests on the host's sources.
 
 ---
@@ -1551,7 +1551,7 @@ Transcript Snippet: the proof that they have that he's a secret Zionist is they 
 
 Anchored Artifacts: A-2464.1
 Mentions: N-30, N-3
-Related Nodes: N-10867, N-11088
+Related Nodes: N-10788, N-11006
 Investigative Direction: Archive the smear post and check what it actually says about Hebrew.
 
 ---
@@ -1566,7 +1566,7 @@ Transcript Snippet: So George chose ancient Hebrew and he did well.
 
 Anchored Artifacts: 
 Mentions: N-30, N-3
-Related Nodes: N-11088
+Related Nodes: N-11006
 Qualifies: C-13695
 Investigative Direction: Check Oxford theology course requirements and George's published degree classification.
 
@@ -1582,7 +1582,7 @@ Transcript Snippet: I picked the aderall epidemic and college campuses.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10868
+Related Nodes: N-10789
 Investigative Direction: Obtain the video, its upload metadata and the course syllabus or instructor confirmation.
 
 ---
@@ -1597,7 +1597,7 @@ Transcript Snippet: Certainly is my entire album, which was on my Facebook, of m
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089
+Related Nodes: N-11007
 Investigative Direction: Compare the Flickr album with the host's Facebook album and the account's creation date.
 
 ---
@@ -1612,7 +1612,7 @@ Transcript Snippet: They also found that I had a Twitter account in college that
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089
+Related Nodes: N-11007
 Investigative Direction: Identify the Twitter handle and its archive history.
 
 ---
@@ -1627,7 +1627,7 @@ Transcript Snippet: I have never in my life had a MySpace account.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089, N-10868
+Related Nodes: N-11007, N-10789
 Investigative Direction: Check the MySpace archive capture the critics used and any account-owner identifiers.
 
 ---
@@ -1642,7 +1642,7 @@ Transcript Snippet: The college video is actually shot in my boyfriend's dorm.
 
 Anchored Artifacts: A-2807.1
 Mentions: N-3
-Related Nodes: N-10868
+Related Nodes: N-10789
 Investigative Direction: View the video linked in the description and verify the location and cast.
 
 ---
@@ -1657,7 +1657,7 @@ Transcript Snippet: across the state of Rhode Island across like four different 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089, N-10867
+Related Nodes: N-11007, N-10788
 Investigative Direction: Archive the smear post and the accounts it names.
 
 ---
@@ -1672,7 +1672,7 @@ Transcript Snippet: We got it from a data leak, but we can't show you the data l
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089, N-10867
+Related Nodes: N-11007, N-10788
 Investigative Direction: Ask the author which leak and which dataset; none has been shown on air.
 
 ---
@@ -1687,7 +1687,7 @@ Transcript Snippet: I was pregnant with my daughter in 2022, I reactivated my pr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089, N-10867
+Related Nodes: N-11007, N-10788
 Investigative Direction: Request account activity logs from the platform in question.
 
 ---
@@ -1702,7 +1702,7 @@ Transcript Snippet: Look at the date on when they archived it. August 5th, 2025.
 
 Anchored Artifacts: A-2465.1
 Mentions: N-3
-Related Nodes: N-10868, N-11089
+Related Nodes: N-10789, N-11007
 Supports: C-13705
 Investigative Direction: Check the archive.org capture date of the MySpace page.
 
@@ -1718,7 +1718,7 @@ Transcript Snippet: Charlie was in the Hamptons receiving a phone call from BBNe
 
 Anchored Artifacts: 
 Mentions: N-1, N-36
-Related Nodes: N-10342, N-10027
+Related Nodes: N-10320, N-10027
 Supports: C-4118, C-253
 Investigative Direction: Corroborate the Netanyahu call and Charlie's refusal through attendees or phone records.
 
@@ -1734,7 +1734,7 @@ Transcript Snippet: X is incredible where the world's experts gather and share t
 
 Anchored Artifacts: A-2465.1
 Mentions: N-37, N-3
-Related Nodes: N-10868
+Related Nodes: N-10789
 Supports: C-13710
 Investigative Direction: Recover the deleted Ackman tweet from the host's capture or an archive.
 
@@ -1750,7 +1750,7 @@ Transcript Snippet: he did confirm that the video is me through AI voice analysi
 
 Anchored Artifacts: A-2465.1
 Mentions: N-37, N-3, N-30
-Related Nodes: N-10868, N-11089
+Related Nodes: N-10789, N-11007
 Investigative Direction: Identify the retweeted account and read its thread.
 
 ---
@@ -1779,7 +1779,7 @@ Transcript Snippet: Why is Bill Ackman in particular interested in this thing th
 
 Anchored Artifacts: 
 Mentions: N-37, N-1
-Related Nodes: N-10868, N-10027
+Related Nodes: N-10789, N-10027
 Supports: C-253
 Investigative Direction: Date the Ackman and Hamptons meeting against the archive timestamp.
 
@@ -1809,7 +1809,7 @@ Transcript Snippet: when she's in DC, the uh, Department of War attacks against 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10888
+Related Nodes: N-10809
 Supports: C-13672
 Investigative Direction: Compare dated DC trips by Erika with the timing of hostile pieces about the host.
 
@@ -1825,7 +1825,7 @@ Transcript Snippet: And I made mine like obviously funny and arrested a dealer w
 
 Anchored Artifacts: A-2807.1
 Mentions: N-3
-Related Nodes: N-10868
+Related Nodes: N-10789
 Investigative Direction: View the video linked in the description to confirm its content.
 
 ---
@@ -1840,7 +1840,7 @@ Transcript Snippet: they even put a video of a some girl who her profile says sh
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-11089, N-10867
+Related Nodes: N-11007, N-10788
 Investigative Direction: Archive the video and profile that the smear used.
 
 ---
@@ -1855,7 +1855,7 @@ Transcript Snippet: Two of them would have been seen in this shot. And um they a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11089, N-10867
+Related Nodes: N-11007, N-10788
 Investigative Direction: Compare the images with the host's past podcast descriptions of her tattoos and belly ring.
 
 ---
@@ -1870,7 +1870,7 @@ Transcript Snippet: I think by the end of this we're also the black robe mafia i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11090
+Related Nodes: N-11008
 Investigative Direction: Identify the judges and lawyers she means; none is named in this episode.
 
 ---
@@ -1885,7 +1885,7 @@ Transcript Snippet: And I will not be changing my mind about Gaza being a genoci
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Investigative Direction: Check the host's employment history and the stated reasons for her departure from Daily Wire.
 
 ---
@@ -1900,7 +1900,7 @@ Transcript Snippet: We'll tell everyone she runs an underground casino.
 
 Anchored Artifacts: A-2808.1
 Mentions: N-3
-Related Nodes: N-11091
+Related Nodes: N-11009
 Investigative Direction: Identify the Wear Forbidden account, the video's date and its creator.
 
 ---
@@ -1915,7 +1915,7 @@ Transcript Snippet: Apparently, this is the person is like an old school graer A
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-10867, N-11091
+Related Nodes: N-10788, N-11009
 Investigative Direction: Ask the host which person she means and the basis for the Wilson affiliation.
 
 ---

@@ -19,10 +19,10 @@
     "- **Model Version**: claude-manual-extract-seq084",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Hole-minted Nodes (reintro-ep084): N-10582, N-10631",
+    "  - Hole-minted Nodes (reintro-ep084): N-10577",
     "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Tip-minted Nodes (skeleton): N-594, N-595, N-596, N-10903, N-10904, N-10906",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-106, N-186, N-190, N-209, N-211, N-217, N-243, N-246, N-266, N-330, N-361, N-493, N-550, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587, N-597, N-10641, N-598",
+    "  - Tip-minted Nodes (skeleton): N-594, N-595, N-596, N-10824, N-10825, N-10827",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-106, N-186, N-190, N-209, N-211, N-217, N-243, N-246, N-266, N-330, N-361, N-493, N-550, N-10000, N-10071, N-10104, N-10178, N-10195, N-10204, N-10342, N-10347, N-10351, N-10419, N-10445, N-10446, N-10449, N-10239, N-10106, N-10507, N-10502, N-10505, N-10826, N-10535, N-597, N-10586, N-598",
     "  - Claim Range: C-7507–C-7556",
     "  - (see registers)",
     "",
@@ -87,7 +87,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7509, C-7510, C-7511, N-595, N-2, N-10108, N-10074*"
+     "raw": "*Related: C-7509, C-7510, C-7511, N-595, N-2, N-10104, N-10071*"
     },
     {
      "raw": ""
@@ -250,7 +250,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-330, N-14, N-10554*"
+     "raw": "*Related: N-330, N-14, N-10507*"
     },
     {
      "raw": ""
@@ -293,7 +293,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, N-330, N-246, N-10903*"
+     "raw": "*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, N-330, N-246, N-10824*"
     },
     {
      "raw": ""
@@ -346,7 +346,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7515, C-7522, C-7523, C-7524, C-7525, C-7526, C-7527, C-7528, C-7529, N-14, N-493, N-550, N-15, N-10547*"
+     "raw": "*Related: C-7515, C-7522, C-7523, C-7524, C-7525, C-7526, C-7527, C-7528, C-7529, N-14, N-493, N-550, N-15, N-10507*"
     },
     {
      "raw": ""
@@ -459,7 +459,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7532, C-7535, C-7536, C-7538, N-2, N-10905*"
+     "raw": "*Related: C-7532, C-7535, C-7536, C-7538, N-2, N-10826*"
     },
     {
      "raw": ""
@@ -512,7 +512,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7533, N-2, N-10479, N-10483*"
+     "raw": "*Related: C-7533, N-2, N-10446, N-10449*"
     },
     {
      "raw": ""
@@ -920,7 +920,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7554, N-30, N-10631*"
+     "raw": "*Related: C-7554, N-30, N-10577*"
     },
     {
      "raw": ""
@@ -1684,8 +1684,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -1707,8 +1707,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10108",
-   "header": "**N-10108** Police Scanner Description",
+   "id": "N-10104",
+   "header": "**N-10104** Police Scanner Description",
    "label": "Police Scanner Description",
    "lines": [
     {
@@ -1730,8 +1730,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10186",
-   "header": "**N-10186** Plane 888 / Maxfield Plane Investigation",
+   "id": "N-10178",
+   "header": "**N-10178** Plane 888 / Maxfield Plane Investigation",
    "label": "Plane 888 / Maxfield Plane Investigation",
    "lines": [
     {
@@ -1753,8 +1753,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10203",
-   "header": "**N-10203** Provo Airport Flight Anomaly Cluster",
+   "id": "N-10195",
+   "header": "**N-10195** Provo Airport Flight Anomaly Cluster",
    "label": "Provo Airport Flight Anomaly Cluster",
    "lines": [
     {
@@ -1778,8 +1778,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10212",
-   "header": "**N-10212** TPUSA Financial Irregularities Question",
+   "id": "N-10204",
+   "header": "**N-10204** TPUSA Financial Irregularities Question",
    "label": "TPUSA Financial Irregularities Question",
    "lines": [
     {
@@ -1801,8 +1801,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10367",
-   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "id": "N-10342",
+   "header": "**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "lines": [
     {
@@ -1824,8 +1824,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10373",
-   "header": "**N-10373** Brian Harpole Fort Huachuca Presence Verification",
+   "id": "N-10347",
+   "header": "**N-10347** Brian Harpole Fort Huachuca Presence Verification",
    "label": "Brian Harpole Fort Huachuca Presence Verification",
    "lines": [
     {
@@ -1847,8 +1847,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10378",
-   "header": "**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow",
+   "id": "N-10351",
+   "header": "**N-10351** Andrew Kolvet Coordination with Attackers of Mitch Snow",
    "label": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
    "lines": [
     {
@@ -1870,8 +1870,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10450",
-   "header": "**N-10450** Fort Huachuca PR Response Coordination Question",
+   "id": "N-10419",
+   "header": "**N-10419** Fort Huachuca PR Response Coordination Question",
    "label": "Fort Huachuca PR Response Coordination Question",
    "lines": [
     {
@@ -1893,8 +1893,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10478",
-   "header": "**N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
+   "id": "N-10445",
+   "header": "**N-10445** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
    "label": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
    "lines": [
     {
@@ -1916,8 +1916,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10479",
-   "header": "**N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question",
+   "id": "N-10446",
+   "header": "**N-10446** Sept 7, 2025 Erika Instagram Post – Manipulation Question",
    "label": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
    "lines": [
     {
@@ -1939,8 +1939,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10483",
-   "header": "**N-10483** Erika's Mother Medical Narrative",
+   "id": "N-10449",
+   "header": "**N-10449** Erika's Mother Medical Narrative",
    "label": "Erika's Mother Medical Narrative",
    "lines": [
     {
@@ -1962,9 +1962,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10496",
-   "header": "**N-10496** Egyptian Planes Investigation",
-   "label": "Egyptian Planes Investigation",
+   "id": "N-10239",
+   "header": "**N-10239** Egyptian Military Plane Tracking Investigation",
+   "label": "Egyptian Military Plane Tracking Investigation",
    "lines": [
     {
      "raw": ""
@@ -1985,9 +1985,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10508",
-   "header": "**N-10508** Tyler Robinson Evidence Sufficiency Question",
-   "label": "Tyler Robinson Evidence Sufficiency Question",
+   "id": "N-10106",
+   "header": "**N-10106** Tyler Robinson Evidence Gaps",
+   "label": "Tyler Robinson Evidence Gaps",
    "lines": [
     {
      "raw": ""
@@ -2008,31 +2008,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10547",
-   "header": "**N-10547** September 10 Plane Logistics Discrepancy",
-   "label": "September 10 Plane Logistics Discrepancy",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "The Santa Barbara–Scottsdale–Provo routing in the host's revised timeline."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-7515, C-7520, C-7522, C-7527, A-2528.1*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10548",
-   "header": "**N-10548** Tarmac Hug Account Discrepancy",
+   "id": "N-10502",
+   "header": "**N-10502** Tarmac Hug Account Discrepancy",
    "label": "Tarmac Hug Account Discrepancy",
    "lines": [
     {
@@ -2054,8 +2031,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10551",
-   "header": "**N-10551** Joe Kent Leak Accusation Chain",
+   "id": "N-10505",
+   "header": "**N-10505** Joe Kent Leak Accusation Chain",
    "label": "Joe Kent Leak Accusation Chain",
    "lines": [
     {
@@ -2077,8 +2054,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10554",
-   "header": "**N-10554** Andrew Kolvet 9/10 Flight Itinerary",
+   "id": "N-10507",
+   "header": "**N-10507** Andrew Kolvet 9/10 Flight Itinerary",
    "label": "Andrew Kolvet 9/10 Flight Itinerary",
    "lines": [
     {
@@ -2101,33 +2078,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10560",
-   "header": "**N-10560** Tarmac Hug Timeline Reconciliation Question",
-   "label": "Tarmac Hug Timeline Reconciliation Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "k": "The 3",
-     "v": "30 scanner pickup time is set against the 4:30–4:40 tarmac account.",
-     "sep": ":"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-7509, C-7510, C-7511, C-7512, C-7530*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10582",
-   "header": "**N-10582** Erika Kirk September 10 Whereabouts Verification",
+   "id": "N-10440",
+   "header": "**N-10440** Erika Kirk September 10 Whereabouts Verification",
    "label": "Erika Kirk September 10 Whereabouts Verification",
    "lines": [
     {
@@ -2149,8 +2101,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10587",
-   "header": "**N-10587** Trump Truth Social Post Pattern Question",
+   "id": "N-10535",
+   "header": "**N-10535** Trump Truth Social Post Pattern Question",
    "label": "Trump Truth Social Post Pattern Question",
    "lines": [
     {
@@ -2174,8 +2126,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10631",
-   "header": "**N-10631** George Farmer / Tracy Robinson $6,987 Incident",
+   "id": "N-10577",
+   "header": "**N-10577** George Farmer / Tracy Robinson $6,987 Incident",
    "label": "George Farmer / Tracy Robinson $6,987 Incident",
    "lines": [
     {
@@ -2197,8 +2149,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10641",
-   "header": "**N-10641** Andrew Kolvet Text Message Full Context Verification",
+   "id": "N-10586",
+   "header": "**N-10586** Andrew Kolvet Text Message Full Context Verification",
    "label": "Andrew Kolvet Text Message Full Context Verification",
    "lines": [
     {
@@ -2220,8 +2172,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10903",
-   "header": "**N-10903** N582MM TPUSA-Associated Plane Flight Pattern",
+   "id": "N-10824",
+   "header": "**N-10824** N582MM TPUSA-Associated Plane Flight Pattern",
    "label": "N582MM TPUSA-Associated Plane Flight Pattern",
    "lines": [
     {
@@ -2248,8 +2200,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10904",
-   "header": "**N-10904** Charlie Kirk Pilot \"Jamie\" Identification",
+   "id": "N-10825",
+   "header": "**N-10825** Charlie Kirk Pilot \"Jamie\" Identification",
    "label": "Charlie Kirk Pilot \"Jamie\" Identification",
    "lines": [
     {
@@ -2276,8 +2228,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10905",
-   "header": "**N-10905** New York Times Erika Kirk Interview Account Discrepancies",
+   "id": "N-10826",
+   "header": "**N-10826** New York Times Erika Kirk Interview Account Discrepancies",
    "label": "New York Times Erika Kirk Interview Account Discrepancies",
    "lines": [
     {
@@ -2304,8 +2256,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10906",
-   "header": "**N-10906** Frank Turek Schedule Change Tip",
+   "id": "N-10827",
+   "header": "**N-10827** Frank Turek Schedule Change Tip",
    "label": "Frank Turek Schedule Change Tip",
    "lines": [
     {
@@ -2377,7 +2329,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903, N-10000"
+     "v": "N-10824, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -2437,7 +2389,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10582"
+     "v": "N-10440"
     },
     {
      "k": "Supports",
@@ -2498,7 +2450,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10108, N-10074, N-10560"
+     "v": "N-10104, N-10071, N-10502"
     },
     {
      "k": "Investigative Direction",
@@ -2555,7 +2507,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548, N-10560"
+     "v": "N-10502"
     },
     {
      "k": "Investigative Direction",
@@ -2612,7 +2564,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10560"
+     "v": "N-10507, N-10502"
     },
     {
      "k": "Supports",
@@ -2676,7 +2628,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548, N-10560"
+     "v": "N-10502"
     },
     {
      "k": "Investigative Direction",
@@ -2733,7 +2685,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -2793,7 +2745,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10000"
+     "v": "N-10507, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -2850,7 +2802,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10547"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -2907,7 +2859,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -2964,7 +2916,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -3024,7 +2976,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548, N-10554"
+     "v": "N-10502, N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -3081,7 +3033,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -3141,7 +3093,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548, N-10547, N-10000"
+     "v": "N-10502, N-10507, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3201,7 +3153,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10904"
+     "v": "N-10825"
     },
     {
      "k": "Investigative Direction",
@@ -3258,7 +3210,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10547"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -3315,7 +3267,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10582"
+     "v": "N-10440"
     },
     {
      "k": "Investigative Direction",
@@ -3368,7 +3320,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10203, N-10186"
+     "v": "N-10195, N-10178"
     },
     {
      "k": "Supports",
@@ -3429,7 +3381,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10000"
+     "v": "N-10507, N-10000"
     },
     {
      "k": "Supports",
@@ -3547,7 +3499,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10547, N-10554"
+     "v": "N-10507"
     },
     {
      "k": "Investigative Direction",
@@ -3604,7 +3556,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10587"
+     "v": "N-10535"
     },
     {
      "k": "Investigative Direction",
@@ -3661,7 +3613,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10108, N-10582"
+     "v": "N-10104, N-10440"
     },
     {
      "k": "Investigative Direction",
@@ -3721,7 +3673,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10560"
+     "v": "N-10507, N-10502"
     },
     {
      "k": "Investigative Direction",
@@ -3835,7 +3787,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905, N-10483, N-10478"
+     "v": "N-10826, N-10449, N-10445"
     },
     {
      "k": "Supports",
@@ -3896,7 +3848,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10479, N-10483"
+     "v": "N-10446, N-10449"
     },
     {
      "k": "Supports",
@@ -3960,7 +3912,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10483, N-10478"
+     "v": "N-10449, N-10445"
     },
     {
      "k": "Investigative Direction",
@@ -4017,7 +3969,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905, N-10582"
+     "v": "N-10826, N-10440"
     },
     {
      "k": "Investigative Direction",
@@ -4074,7 +4026,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905, N-10582"
+     "v": "N-10826, N-10440"
     },
     {
      "k": "Investigative Direction",
@@ -4131,7 +4083,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10582"
+     "v": "N-10440"
     },
     {
      "k": "Investigative Direction",
@@ -4188,7 +4140,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905"
+     "v": "N-10826"
     },
     {
      "k": "Investigative Direction",
@@ -4457,7 +4409,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10212"
+     "v": "N-10000, N-10204"
     },
     {
      "k": "Investigative Direction",
@@ -4517,7 +4469,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10378, N-10450"
+     "v": "N-10351, N-10419"
     },
     {
      "k": "Supports",
@@ -4581,7 +4533,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373, N-10367"
+     "v": "N-10347, N-10342"
     },
     {
      "k": "Supports",
@@ -4642,7 +4594,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903, N-10074"
+     "v": "N-10824, N-10071"
     },
     {
      "k": "Investigative Direction",
@@ -4699,7 +4651,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903"
+     "v": "N-10824"
     },
     {
      "k": "Investigative Direction",
@@ -4756,7 +4708,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903"
+     "v": "N-10824"
     },
     {
      "k": "Investigative Direction",
@@ -4813,7 +4765,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903"
+     "v": "N-10824"
     },
     {
      "k": "Investigative Direction",
@@ -4870,7 +4822,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10903"
+     "v": "N-10824"
     },
     {
      "k": "Investigative Direction",
@@ -4930,7 +4882,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10496, N-10074"
+     "v": "N-10239, N-10071"
     },
     {
      "k": "Investigative Direction",
@@ -4990,7 +4942,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10551, N-10641"
+     "v": "N-10505, N-10586"
     },
     {
      "k": "Investigative Direction",
@@ -5100,7 +5052,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10631"
+     "v": "N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -5160,7 +5112,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10906"
+     "v": "N-10827"
     },
     {
      "k": "Investigative Direction",
@@ -5220,7 +5172,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10508"
+     "v": "N-10106"
     },
     {
      "k": "Investigative Direction",
@@ -5386,7 +5338,7 @@
     "## 7. Optional Flags",
     "",
     "- **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).",
-    "- **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 (\"2 days before\"), while prior claim C-6105 and node N-10479 date it September 7. C-7533 is linked as Supports C-6105 on the shared proposition; the date difference is preserved.",
+    "- **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 (\"2 days before\"), while prior claim C-6105 and node N-10446 date it September 7. C-7533 is linked as Supports C-6105 on the shared proposition; the date difference is preserved.",
     "- **Name matching**: \"Elizabeth McCord\" (19:56, 20:52) and \"Elizabeth McCoy\" (15:29) are both mapped to N-217 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. \"Cat\" (14:28) and \"Katherine Locastro\" (15:29) are treated as one new person, N-597. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. \"Marina Minas\" is matched to N-493 Marina (TPUSA CMO) through its alias.",
     "- **Transcription ambiguities**: The comedian is spelled \"Druski\", \"Druski\" and \"Druski\"; these are kept as written and aliased to N-594 Druski. Kolvet appears as \"Andrew Kolvet\" and \"Andrew Kolvets\". The tail number is first read as \"N28 9 MM\" and then corrected on air to N582MM. The scanner line \"2J436 436\" is a unit or cruiser identifier per the host. \"Sergeant Dupey\" spelling is unverified.",
     "- **Timing ambiguity**: the host says Kolvet was \"on the flight that landed at 4:30 p. m.\" (05:56) but elsewhere says \"about 4:40 p. m.\" (02:15) and \"4:36 plane\" (14:28). All are preserved as spoken.",

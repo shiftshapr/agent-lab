@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10763"
+            "N-10692"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,9 +57,9 @@
             "C-11541"
           ],
           "related_nodes": [
-            "N-10141",
+            "N-10136",
             "N-2",
-            "N-10764"
+            "N-10693"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,7 +87,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10761"
+            "N-10690"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-11514"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-11521"
           ],
           "related_nodes": [
-            "N-10762"
+            "N-10691"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,8 +241,8 @@
             "C-11530"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10762"
+            "N-10136",
+            "N-10691"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -494,20 +494,25 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10759",
-        "N-10761",
-        "N-10764"
+        "N-10681",
+        "N-10690",
+        "N-10693"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10759",
-      "ref": "N-10759",
-      "name": "Kirk Burial / Cremation Status",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "Persistent investigation target: whether Charlie Kirk was actually interred at a Catholic cemetery, or subject to a mock burial before/after cremation.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11556",
+        "C-11557",
+        "C-11558",
+        "C-11560"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -516,15 +521,15 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-10760",
-        "N-10763",
-        "N-10764"
+        "N-10689",
+        "N-10692",
+        "N-10693"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10760",
-      "ref": "N-10760",
+      "@id": "N-10689",
+      "ref": "N-10689",
       "name": "Mock Burial Allegation",
       "type": "investigation_target",
       "description": "Specific allegation from unnamed tipster: Hansen Mortuary declined to participate in a mock burial, prompting TPUSA to relocate to a Catholic church arrangement via Erika's priest contact.",
@@ -537,15 +542,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10759",
-        "N-10763",
-        "N-10764"
+        "N-10681",
+        "N-10692",
+        "N-10693"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10761",
-      "ref": "N-10761",
+      "@id": "N-10690",
+      "ref": "N-10690",
       "name": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
       "type": "investigation_target",
       "description": "Investigation target concerning the cause of hemorrhaging observed around Kirk's heart and both lungs – bullet-trajectory effects, post-injury medical intervention (hospital resuscitation), or alternative blunt force trauma (e.g., exploding microphone).",
@@ -567,8 +572,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10762",
-      "ref": "N-10762",
+      "@id": "N-10691",
+      "ref": "N-10691",
       "name": "\"Other Angle\" Rooftop Footage Existence",
       "type": "investigation_target",
       "description": "Investigation target concerning the alleged second rooftop video angle (claimed by Blake Neff and by podcast participant) showing the shooter pulling a rifle from his pants / assembling a weapon.",
@@ -586,13 +591,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10763",
-      "ref": "N-10763",
+      "@id": "N-10692",
+      "ref": "N-10692",
       "name": "Hansen Mortuary Role",
       "type": "investigation_target",
       "description": "Investigation target concerning Hansen Mortuary's involvement: receipt of Kirk's body on Sept 11, alleged refusal to participate in mock burial, and transition of remains to a Catholic funeral.",
@@ -608,14 +613,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10759",
-        "N-10760"
+        "N-10681",
+        "N-10689"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10764",
-      "ref": "N-10764",
+      "@id": "N-10693",
+      "ref": "N-10693",
       "name": "Kirk Religious Affiliation Status",
       "type": "investigation_target",
       "description": "Investigation target concerning Charlie Kirk's actual religious affiliation at time of death: claimed by TPUSA as evangelical/non-denominational; Catholic funeral mass creates conflict with that claim.",
@@ -633,8 +638,8 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-10141",
-        "N-10760"
+        "N-10136",
+        "N-10689"
       ]
     },
     {
@@ -954,8 +959,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -974,8 +979,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -993,8 +998,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10769",
-      "ref": "N-10769",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1019,8 +1024,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10172",
-      "ref": "N-10172",
+      "@id": "N-10165",
+      "ref": "N-10165",
       "name": "Multiple Decoys Theory (4 Decoys Named)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1037,8 +1042,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1054,8 +1059,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10201",
-      "ref": "N-10201",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1065,7 +1070,14 @@
         "C-11534",
         "C-11535",
         "C-11537",
-        "C-11562"
+        "C-11562",
+        "C-11538",
+        "C-11539",
+        "C-11546",
+        "C-11551",
+        "C-11554",
+        "C-11555",
+        "C-11561"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1075,8 +1087,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1084,7 +1096,8 @@
       "related_claims": [
         "C-11540",
         "C-11543",
-        "C-11545"
+        "C-11545",
+        "C-11542"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1094,8 +1107,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1113,48 +1126,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11542"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11538",
-        "C-11539",
-        "C-11546",
-        "C-11551",
-        "C-11554",
-        "C-11555",
-        "C-11561"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 7,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10233",
-      "ref": "N-10233",
+      "@id": "N-10220",
+      "ref": "N-10220",
       "name": "Priest Presence at Ole Miss Event",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1172,28 +1145,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10751",
-      "ref": "N-10751",
-      "name": "Charlie Kirk Cremation/Burial Status Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11556",
-        "C-11557",
-        "C-11558",
-        "C-11560"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 4,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1209,8 +1162,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1226,8 +1179,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1243,8 +1196,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1262,8 +1215,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1279,8 +1232,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10719",
-      "ref": "N-10719",
+      "@id": "N-10655",
+      "ref": "N-10655",
       "name": "Prosecution Non-Call of Rooftop Eyewitness",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1296,9 +1249,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11143",
-      "ref": "N-11143",
-      "name": "Rooftop Screwdriver Claim",
+      "@id": "N-10086",
+      "ref": "N-10086",
+      "name": "Screwdriver Evidence Question",
       "type": "topic",
       "description": "The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.",
       "related_artifacts": [],
@@ -1326,7 +1279,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [],
       "claim_timestamp": "00:33:25",
@@ -1345,7 +1298,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [],
       "claim_timestamp": "00:34:21",
@@ -1364,7 +1317,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10762"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -1400,7 +1353,7 @@
         "A-2205.1"
       ],
       "related_nodes": [
-        "N-10763"
+        "N-10692"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -1419,7 +1372,7 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-10764"
+        "N-10693"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -1493,7 +1446,7 @@
         "A-2213.1"
       ],
       "related_nodes": [
-        "N-10762"
+        "N-10691"
       ],
       "tags": [],
       "claim_timestamp": "00:12:19",
@@ -1560,7 +1513,7 @@
         "A-2878.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -1582,7 +1535,7 @@
       "claim": "The host says that after she sat down with Erika Kirk there was no evidence which indicated that Tyler Robinson murdered Charlie, and that she still does not understand Erika's confidence at the preliminary hearing stage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -1607,7 +1560,7 @@
         "A-2879.1"
       ],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1629,7 +1582,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -1650,7 +1603,7 @@
       "claim": "The host says influencers were brought to the courtroom and are going out and lying about what they saw inside it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -1670,7 +1623,7 @@
       "claim": "The host alleges that influencers were brought into the courtroom and then instructed to put on over-the-top dramatic performances pretending to have encountered a blitzkrieg of evidence, which she says has since been debunked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -1692,8 +1645,8 @@
         "A-2211.1"
       ],
       "related_nodes": [
-        "N-10172",
-        "N-10769"
+        "N-10165",
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1714,7 +1667,7 @@
       "claim": "The host says viewers told her that gravel would have visibly kicked up if the rooftop person had fired a .30-06.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1734,7 +1687,7 @@
       "claim": "The host says there is no evidence that any gun was on the rooftop and that even her source who recorded the video neither says nor shows a gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1756,7 +1709,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1779,7 +1732,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10762"
+        "N-10691"
       ],
       "tags": [
         "relevance:core"
@@ -1805,7 +1758,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1828,7 +1781,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -1849,7 +1802,7 @@
       "claim": "The host says there is zero proof that Tyler Robinson's parents identified him in the footage and that this is just Neff narrating.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -1876,7 +1829,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -1900,7 +1853,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -1923,7 +1876,7 @@
         "A-2212.1"
       ],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -1945,7 +1898,7 @@
         "A-2213.1"
       ],
       "related_nodes": [
-        "N-10762"
+        "N-10691"
       ],
       "tags": [
         "relevance:core"
@@ -1968,7 +1921,7 @@
       "claim": "The host says the same courtroom influencers whom the show platformed earlier said the footage was in 4K and that the person was Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -1989,7 +1942,7 @@
       "claim": "The host says Turning Point's extreme sensitivity about Charlie's body is new, because TPUSA was initially very open about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2010,7 +1963,7 @@
       "claim": "The host says she has been told it was allegedly Elizabeth McCoy, not Stacy Sheridan as she previously said, who recorded Erika in Charlie's open casket in Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2033,7 +1986,7 @@
       "claim": "The host says the recording of Erika at Charlie's open casket was made in Utah on September 11 around midday.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2056,7 +2009,7 @@
         "A-2880.1"
       ],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2081,7 +2034,7 @@
       "claim": "The host says that on September 20 at around 11:00 a.m. Charlie was no longer at Hansen and had a Catholic funeral mass at a Catholic church he regularly attended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2101,7 +2054,7 @@
       "claim": "The host says the Catholic mass was not open to the public but was not hidden from it, since it occurred alongside the parish's regular mass and parishioners saw the hearse.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2121,8 +2074,8 @@
       "claim": "The host says an entire mockingbird campaign was launched to attack her after she publicly asserted there were rumblings that Charlie was close to converting to Catholicism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -2143,8 +2096,8 @@
       "claim": "The host says the question of Charlie converting was a conversation that happened even between her and Charlie, with her telling him to take the next step.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10164",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -2165,7 +2118,7 @@
       "claim": "The host says that in the immediate aftermath of Charlie's assassination it was a high priority for Turning Point to come out and shut down the idea that he was close to converting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -2188,7 +2141,7 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:core"
@@ -2215,7 +2168,7 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -2239,7 +2192,7 @@
         "A-2206.1"
       ],
       "related_nodes": [
-        "N-10323"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2263,7 +2216,7 @@
       "claim": "The host says she received a tip about the Hansen move and that the tip has checked out in a major way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10760"
+        "N-10689"
       ],
       "tags": [
         "relevance:core"
@@ -2285,8 +2238,8 @@
         "A-2881.1"
       ],
       "related_nodes": [
-        "N-10760",
-        "N-10763"
+        "N-10689",
+        "N-10692"
       ],
       "tags": [
         "relevance:core"
@@ -2309,7 +2262,7 @@
         "A-2881.1"
       ],
       "related_nodes": [
-        "N-10760"
+        "N-10689"
       ],
       "tags": [
         "relevance:core"
@@ -2331,8 +2284,8 @@
         "A-2881.1"
       ],
       "related_nodes": [
-        "N-10760",
-        "N-10763"
+        "N-10689",
+        "N-10692"
       ],
       "tags": [
         "relevance:core"
@@ -2352,8 +2305,8 @@
       "claim": "The host says TPUSA landed upon the Catholic Church because of Erika's very strong ties to the priest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323",
-        "N-10233"
+        "N-10193",
+        "N-10220"
       ],
       "tags": [
         "relevance:core"
@@ -2373,7 +2326,7 @@
       "claim": "The host says that after learning her husband was shot, Erika coordinated to bring the priest to Utah rather than flying out her family members.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10233"
+        "N-10220"
       ],
       "tags": [
         "relevance:core"
@@ -2394,7 +2347,7 @@
       "claim": "The host says the priest traveled with Erika to the Turning Point event featuring the vice president at Ole Miss on October 29.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10233"
+        "N-10220"
       ],
       "tags": [
         "relevance:core"
@@ -2417,7 +2370,7 @@
       "claim": "The host says as a fact that Charlie's casket was closed on the day of the Catholic funeral mass.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2438,8 +2391,8 @@
       "claim": "The host says that afterward the casket was taken to a Catholic cemetery where close friends, family and high net worth donors gathered around it one last time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10759",
-        "N-10323"
+        "N-10681",
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2459,8 +2412,7 @@
       "claim": "The host says she can state, without saying allegedly, that Charlie was not lowered into the ground that day and no grave was dug out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10759",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2481,8 +2433,7 @@
       "claim": "The host says attendees at the cemetery were asked to leave and were told \"You leave and we'll handle the rest,\" and that they were told Charlie would be put somewhere unmarked for fear the left could desecrate his burial place.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10759",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2505,8 +2456,7 @@
       "claim": "The host says the attendees were shuttled to a luncheon elsewhere and no one at the funeral that day can truthfully claim to have seen Charlie buried.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10759",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2527,7 +2477,7 @@
       "claim": "The host says she is led to believe the ceremony was a mock burial done as a favor by a friend and not illegal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10760"
+        "N-10689"
       ],
       "tags": [
         "relevance:core"
@@ -2548,8 +2498,7 @@
       "claim": "The host says she is led to believe Charlie was cremated either before or after the ceremony and not lowered into the ground that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10759",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [
         "relevance:core"
@@ -2570,8 +2519,8 @@
       "claim": "The host says the mock burial is the reason she believes Erika chose a Catholic funeral mass despite public indications that Charlie was evangelical.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10760",
-        "N-10323"
+        "N-10689",
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -2593,7 +2542,7 @@
       "claim": "The host says the burial places of recently deceased prominent people, including George H. W. Bush, JFK Jr. and John McCain, can be looked up, so TPUSA's stated fear of desecration does not explain secrecy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:context"
@@ -2631,7 +2580,7 @@
       "claim": "The host says there is no evidence of a screwdriver, referring to what Blake Neff cites, and asks where it is in the evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11143"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2652,8 +2601,8 @@
       "claim": "Speaking sarcastically, the host suggests Officer Bagley's body-camera footage cut out right when he found the screwdriver Neff refers to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10725",
-        "N-11143"
+        "N-10660",
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2694,7 +2643,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2721,8 +2670,8 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-10341",
-        "N-10761"
+        "N-10319",
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2745,7 +2694,7 @@
         "A-2207.1"
       ],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2769,7 +2718,7 @@
       "claim": "The host says Frank Turek told the audience he realized in those critical minutes that Charlie did not have a pulse.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10687"
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -2790,7 +2739,7 @@
       "claim": "The host says Erika has said that Charlie died instantly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2811,7 +2760,7 @@
       "claim": "The host says there is also a scenario in which his heart was got going again at the hospital, which would allow hemorrhaging.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10761"
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2831,8 +2780,8 @@
       "claim": "The host says she believes the microphone exploded on Charlie, and that there is a chance hemorrhaging in the heart and lungs could come from blunt force trauma to the heart.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768",
-        "N-10761"
+        "N-10697",
+        "N-10690"
       ],
       "tags": [
         "relevance:core"
@@ -2853,8 +2802,8 @@
       "claim": "The host says it would be informative to know whether Charlie had bruising on his chest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10761",
-        "N-10768"
+        "N-10690",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2875,7 +2824,7 @@
       "claim": "The host says she has fully ruled out any chance that the person on the Lozi roof shot Charlie in the neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10769"
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -2899,8 +2848,8 @@
       "claim": "The host says she thinks the person on the roof was a military man tasked with being an acrobat, one of several decoys tasked with running.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10172",
-        "N-10769"
+        "N-10165",
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -2920,7 +2869,7 @@
       "claim": "The host says there is a reason witnesses are not brought into the courtroom and why they haven't even been contacted by the prosecution.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10719"
+        "N-10655"
       ],
       "tags": [
         "relevance:core"
@@ -2942,7 +2891,7 @@
         "A-2882.1"
       ],
       "related_nodes": [
-        "N-11143"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2964,8 +2913,8 @@
         "A-2882.1"
       ],
       "related_nodes": [
-        "N-11143",
-        "N-10769"
+        "N-10086",
+        "N-10698"
       ],
       "tags": [
         "relevance:core"
@@ -2988,7 +2937,7 @@
       "claim": "The host says Blake Neff shows convenient amnesia about events that day and continues to exclude Danny Philip from the equation, noting that it was Danny Philip whom Neff was driving with.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3132,8 +3081,8 @@
         "A-2883.1"
       ],
       "related_nodes": [
-        "N-10761",
-        "N-10768"
+        "N-10690",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"

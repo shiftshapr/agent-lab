@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq116
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep116): N-10678, N-10685, N-10756
+  - Hole-minted Nodes (reintro-ep116): N-10616, N-10623, N-10686
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-680, N-10985
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-159, N-190, N-208, N-209, N-261, N-278, N-410, N-414, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-681, N-682, N-10730, N-10984, N-10715, N-10986
+  - Tip-minted Nodes (skeleton): N-680, N-10905
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-159, N-190, N-208, N-209, N-261, N-278, N-410, N-414, N-10000, N-10012, N-10014, N-10071, N-10088, N-10103, N-10106, N-10226, N-10300, N-10303, N-10313, N-10214, N-10324, N-10338, N-10354, N-10415, N-10492, N-10505, N-10021, N-10528, N-10529, N-10532, N-10602, N-10637, N-10641, N-10659, N-10697, N-10732, N-10736, N-10809, N-10844, N-10871, N-10741, N-681, N-682, N-10664, N-10904, N-10651, N-10906
   - Claim Range: C-9977–C-10037
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:05:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9981, N-1, N-10768*
+*Related: C-9981, N-1, N-10697*
 
 **A-2668.2** Static close-up picture of the Rode wireless microphone and its magnetic clip
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:06:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9982, N-1, N-10768*
+*Related: C-9982, N-1, N-10697*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:14:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9987, C-9988, N-10107, N-10014*
+*Related: C-9987, C-9988, N-10103, N-10014*
 
 **A-2669.2** News clip of a newscaster at the UVU courtyard reporting that the grass is being replaced with pavers
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:19:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9989, N-10107, N-10012*
+*Related: C-9989, N-10103, N-10012*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:23:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9994, C-9995, N-10768, N-10319*
+*Related: C-9994, C-9995, N-10697, N-10300*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:25:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9998, C-10000, N-681, N-10678*
+*Related: C-9998, C-10000, N-681, N-10616*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:44:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10019, N-3, N-10986*
+*Related: C-10019, N-3, N-10906*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:48:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10023, N-3, N-69, N-10700*
+*Related: C-10023, N-3, N-69, N-10637*
 
 **A-2674.2** FBI account's reply to the host's FOIA post (read aloud)
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:52:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10027, N-10984, N-9*
+*Related: C-10027, N-10904, N-9*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:53:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10028, C-10029, C-10030, N-10950*
+*Related: C-10028, C-10029, C-10030, N-10871*
 
 **A-2675.2** Video of the veteran starting physical therapy
 
@@ -249,7 +249,7 @@ Video Timestamp: 01:05:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10033, N-10768*
+*Related: C-10033, N-10697*
 
 **A-2676.2** Viewer comment (Easy Hammer) read on air about the necklace acting as shrapnel
 
@@ -260,7 +260,7 @@ Video Timestamp: 01:07:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10034, C-10035, N-2, N-10537*
+*Related: C-10034, C-10035, N-2, N-10492*
 
 **A-2676.3** Viewer comment (Amara Moussa) read on air about who received Charlie Kirk at the hospital
 
@@ -438,239 +438,233 @@ Its X account sparred with the host over her FOIA post; the host also faults its
 
 *Related: C-9977, C-9984, C-9988, C-9999, C-10015, C-10023, C-10024, C-10025, C-10026, A-2669.1, A-2674.2, A-2674.3, A-2674.4*
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 One of the paving supervisors was a maintenance groundskeeper at a facility in Provo.
 
 *Related: C-9988*
 
-**N-10092** Brigham Young University
+**N-10088** Brigham Young University
 
 Host says Connor Henderson and Zachariah Qureshi attended BYU at the same time.
 
 *Related: C-10037*
 
-**N-10107** Crime Scene Pavers
+**N-10103** Crime Scene Pavers
 
 The Sunday paver installation at the spot where Charlie Kirk was killed.
 
 *Related: C-9987, C-9988, C-9989, A-2669.1, A-2669.2*
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Untested rifle firing, five other sets of prints and no GSR test.
 
 *Related: C-9986, C-10006, C-10007*
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Host says Kash Patel had the feds take the hospital footage.
 
 *Related: C-10015*
 
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 Host argues a .30-06 would have nearly decapitated Charlie Kirk and compares it to a PETN charge.
 
 *Related: C-9990, C-9993, C-9994, C-9995, A-2670.1*
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Invoked through the empty Epstein binders event.
 
 *Related: C-10027*
 
-**N-10334** CBS Bari Weiss Town Hall Production Integrity
+**N-10313** CBS Bari Weiss Town Hall Production Integrity
 
 Erika Kirk's answer to Bari Weiss on Tyler Robinson acting alone.
 
 *Related: C-10004*
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Mikey McCoy calling his wife rather than Erika Kirk or 911.
 
 *Related: C-10010*
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 The SD card removal from the camera behind Charlie Kirk's head and the zoomed footage.
 
 *Related: C-9996, C-9997*
 
-**N-10362** Vehicle Disposition Question
+**N-10338** Vehicle Disposition Question
 
 The towing, cleaning and resale of the transport SUV.
 
 *Related: C-9999*
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Host refers to Robinson buying a steak in Panguitch.
 
 *Related: C-10008*
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 The "lie about the Hampton Summit" and TPUSA's response to the leaked messages.
 
 *Related: C-10001, C-10002*
 
-**N-10508** Tyler Robinson Evidence Sufficiency Question
-
-Erika Kirk's lawyer told the host he had no more evidence than the public.
-
-*Related: C-10005*
-
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 The magnetic mic clip and the necklace that the host says broke first.
 
 *Related: C-9982, C-10034, C-10035, A-2676.2*
 
-**N-10551** Joe Kent Leak Accusation Chain
+**N-10505** Joe Kent Leak Accusation Chain
 
 TPUSA's suggestion that Joe Kent passed the messages to the host.
 
 *Related: C-10002*
 
-**N-10566** Tyler Robinson Confession Narrative Discrepancy
+**N-10021** Robinson Confession and Arrest Discrepancy
 
 The alleged text confession, keyboard note and shifting Discord confession.
 
 *Related: C-10008*
 
-**N-10577** Built Inc. Federal Contracting Pattern
+**N-10528** Built Inc. Federal Contracting Pattern
 
 The Built organization co-founded by Zachariah Qureshi's father and a Henderson.
 
 *Related: C-10036*
 
-**N-10578** Decoy Subject Investigation (Qureshi)
+**N-10529** Decoy Subject Investigation (Qureshi)
 
 The Qureshi–Henderson connection is restated.
 
 *Related: C-10037, C-10036*
 
-**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10532** Tyler Robinson Defense – Chain of Custody / Documents
 
 Host says the FBI has held documents the defense requested since September.
 
 *Related: C-10025*
 
-**N-10660** Hospital "No Neck Left" Narrative Discrepancy
+**N-10602** Hospital "No Neck Left" Narrative Discrepancy
 
 Host says outside the front wound Charlie Kirk was in very good condition.
 
 *Related: C-9993*
 
-**N-10678** SUV Floorboard Shard Mic Identification
+**N-10616** SUV Floorboard Shard Mic Identification
 
 The SUV shards Jon Bray says are ABS plastic from the Rode mic.
 
 *Related: C-9998, C-10000, A-2671.1*
 
-**N-10685** Car Interior Shards and Blood Evidence Pattern
+**N-10623** Car Interior Shards and Blood Evidence Pattern
 
 Location of the shards in the captain chairs and seat crevices.
 
 *Related: C-10000*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The Kash Patel itinerary and Erika Kirk email requests, and the reduced-scope refiling.
 
 *Related: C-10020, C-10022, C-10023, C-10024, C-10032, A-2674.1*
 
-**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
+**N-10641** Charlie's Road Microphone Glass Origin Investigation Target
 
 Jon Bray's theory that the SUV shards are the shattered mic housing.
 
 *Related: C-9979, C-9998*
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Blake Neff calling his mother rather than 911.
 
 *Related: C-10011*
 
-**N-10724** Butler Shooting Insider Involvement Claim
+**N-10659** Butler Shooting Insider Involvement Claim
 
 The Butler leads supplied by Don Porter.
 
 *Related: C-9978*
 
-**N-10730** Frank Turek FaceTime Story Inconsistency
+**N-10664** Frank Turek FaceTime Story Inconsistency
 
 Turek's open-FaceTime account set against the Jack Hibbs interview.
 
 *Related: C-10012, C-10013, C-10014*
 
-**N-10756** K9 Scent Tracking Discrepancy
+**N-10686** K9 Scent Tracking Discrepancy
 
 Bomb dogs on scene not brought to where Charlie Kirk sat.
 
 *Related: C-9984, C-9985, C-9986*
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Central theory of the episode.
 
 *Related: C-9979, C-9981, C-9982, C-9983, C-9994, C-9995, C-10033, C-10035, A-2668.1, A-2668.2, A-2670.1, A-2676.1*
 
-**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
+**N-10732** Terryl SD Card-to-Laptop Transfer Sequence
 
 Host says Terryl Farnsworth was instructed to take the SD card.
 
 *Related: C-9996*
 
-**N-10812** Terryl Farnsworth Evidence-Handling Question
+**N-10736** Terryl Farnsworth Evidence-Handling Question
 
 Terryl Farnsworth's early conversation with Erika Kirk about the back footage.
 
 *Related: C-9991*
 
-**N-10818** Jack Hibbs Sequence-of-Events Discrepancy
+**N-10741** Jack Hibbs Sequence-of-Events Discrepancy
 
 Turek's account in the Jack Hibbs interview of first calls at the hospital.
 
 *Related: C-10013*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Host says the "emotional asset" email should not have been its concern.
 
 *Related: C-10021*
 
-**N-10984** U.S. Department of Justice
+**N-10904** U.S. Department of Justice
 
 Node Type: Organization
 Federal department the host says accused her of clickbait through the FBI's rapid response account, and which she says staged the Epstein binders event; the host's FOIA requests are pending with it.
 
 *Related: C-10027, C-10032, A-2674.6*
 
-**N-10985** September 10 UVU Event Live Stream to TPUSA Office Verification
+**N-10905** September 10 UVU Event Live Stream to TPUSA Office Verification
 
 Node Type: Topic
 Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terryl Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.
 
 *Related: C-10016, N-261, N-10000*
 
-**N-10986** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
+**N-10906** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
 
 Node Type: Topic
 Investigation target: the October 10 explosion at Accurate Energetic Systems, a maker of military and demolition explosives about 60 miles west of Nashville, which the host says killed 16 employees. The host says some believe it could be where a rigged device was assembled, or a way to hide evidence, and asks for tips.
 
 *Related: C-10017, C-10018, C-10019, A-2673.1*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting, which sought to boost Erika Kirk's video and called her an "emotional asset," and the host's FOIA request for emails naming Erika Kirk.
 
-*Related: C-10021, C-10022, N-2, N-10888*
+*Related: C-10021, C-10022, N-2, N-10809*
 
-**N-10950** US Department of Veterans Affairs (VA)
+**N-10871** US Department of Veterans Affairs (VA)
 
 Node Type: Organization
 Agency the host says repeatedly declined an appointment for a 12-year veteran who later had a seizure in Russia, and which she says hands veterans drugs such as Xanax instead of addressing physical brain injuries.
@@ -704,7 +698,7 @@ Transcript Snippet: It was Corey Comparators a friend who refused to let the cir
 
 Anchored Artifacts:
 Mentions: N-680, N-105, N-3
-Related Nodes: N-10724
+Related Nodes: N-10659
 Investigative Direction: Confirm Don Porter's relationship to Corey Comperatore and review the materials he provided.
 
 ---
@@ -719,7 +713,7 @@ Transcript Snippet: It was a theory that was at first posited by an ex-user name
 
 Anchored Artifacts:
 Mentions: N-681, N-1, N-3
-Related Nodes: N-10768, N-10705
+Related Nodes: N-10697, N-10641
 Investigative Direction: Locate Jon Bray's X posts on the theory and their earliest dates.
 
 ---
@@ -749,7 +743,7 @@ Transcript Snippet: Anyway, it was during that tour, as far as we can see, that 
 
 Anchored Artifacts: A-2668.1
 Mentions: N-1, N-3
-Related Nodes: N-10768, N-10000
+Related Nodes: N-10697, N-10000
 Investigative Direction: Compare event footage from spring and fall 2024 and obtain TPUSA's AV vendor records for when the wireless lavalier was introduced.
 
 ---
@@ -764,7 +758,7 @@ Transcript Snippet: That clip is what you see on the outside of Charlie at the S
 
 Anchored Artifacts: A-2668.2
 Mentions: N-1
-Related Nodes: N-10768, N-10537
+Related Nodes: N-10697, N-10492
 Investigative Direction: Identify the exact microphone model used on September 10 and whether it was recovered as evidence.
 
 ---
@@ -779,7 +773,7 @@ Transcript Snippet: This would be what is known as a shaped charge. I've learned
 
 Anchored Artifacts:
 Mentions: N-681, N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Investigative Direction: Consult explosives experts on whether a microphone-sized shaped charge could produce the observed wound.
 
 ---
@@ -794,7 +788,7 @@ Transcript Snippet: despite us having revealed to you that bomb dogs were availa
 
 Anchored Artifacts:
 Mentions: N-1, N-40
-Related Nodes: N-10756, N-10014
+Related Nodes: N-10686, N-10014
 Investigative Direction: Obtain K9 deployment logs from the agencies on scene at UVU on September 10, 2025.
 
 ---
@@ -809,7 +803,7 @@ Transcript Snippet: They are They are so effective that that they can still smel
 
 Anchored Artifacts:
 Mentions: 
-Related Nodes: N-10756
+Related Nodes: N-10686
 Investigative Direction: Check published K9 detection research for residue persistence windows.
 
 ---
@@ -824,7 +818,7 @@ Transcript Snippet: It's also my belief that the reason why they didn't locate t
 
 Anchored Artifacts:
 Mentions: N-40
-Related Nodes: N-10756, N-10110
+Related Nodes: N-10686, N-10106
 Supports: C-8344
 Investigative Direction: Obtain the forensic report on the rifle's firing status and any K9 alert records.
 
@@ -840,7 +834,7 @@ Transcript Snippet: And he says, "We've got to put pavers in for emergency." So,
 
 Anchored Artifacts: A-2669.1
 Mentions: N-1
-Related Nodes: N-10107
+Related Nodes: N-10103
 Supports: C-1465
 Investigative Direction: Obtain UVU facilities work orders and contractor invoices for the paver installation.
 
@@ -856,7 +850,7 @@ Transcript Snippet: Uh the FBI and the state the governor and the FBI, that's wh
 
 Anchored Artifacts: A-2669.1
 Mentions: N-41
-Related Nodes: N-10107, N-10014, N-10074
+Related Nodes: N-10103, N-10014, N-10071
 Investigative Direction: Request communications between the governor's office, the FBI and UVU or state facilities staff about the paving.
 
 ---
@@ -871,7 +865,7 @@ Transcript Snippet: And the university is already making some changes. They're r
 
 Anchored Artifacts: A-2669.2
 Mentions: N-1
-Related Nodes: N-10107, N-10012
+Related Nodes: N-10103, N-10012
 Investigative Direction: Identify the station and air date of the report and match it to UVU's paving timeline.
 
 ---
@@ -886,7 +880,7 @@ Transcript Snippet: And on top of that, we have, of course, the.30-06 bullet, wh
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10319
+Related Nodes: N-10300
 Investigative Direction: Obtain the medical examiner's report and independent ballistic analysis of the wound.
 
 ---
@@ -901,7 +895,7 @@ Transcript Snippet: it is now very compelling to me that Terryl says he spoke to
 
 Anchored Artifacts:
 Mentions: N-261, N-2, N-1
-Related Nodes: N-10812
+Related Nodes: N-10736
 Investigative Direction: Obtain Terryl Farnsworth's statements on when and with whom he discussed the footage.
 
 ---
@@ -932,7 +926,7 @@ Transcript Snippet: I I have confirmed that Charlie, outside of that front-facin
 
 Anchored Artifacts:
 Mentions: N-1, N-3
-Related Nodes: N-10319, N-10660
+Related Nodes: N-10300, N-10602
 Investigative Direction: Obtain the autopsy report and the hospital trauma record.
 
 ---
@@ -947,7 +941,7 @@ Transcript Snippet: This is NIJ 4 rated glass Yeah, from a.30-06 and it's about 
 
 Anchored Artifacts: A-2670.1
 Mentions: 
-Related Nodes: N-10768, N-10319
+Related Nodes: N-10697, N-10300
 Investigative Direction: Identify the test video's source and verify the glass rating and charge weight.
 
 ---
@@ -962,7 +956,7 @@ Transcript Snippet: A.30-06 can cut through most bulletproof glass, but a PETN e
 
 Anchored Artifacts: A-2670.1
 Mentions: N-3
-Related Nodes: N-10768, N-10319
+Related Nodes: N-10697, N-10300
 Investigative Direction: Compare published NIJ level ratings for .30-06 penetration with explosive test data.
 
 ---
@@ -977,7 +971,7 @@ Transcript Snippet: why Terryl Farnsworth was instructed specifically to take th
 
 Anchored Artifacts:
 Mentions: N-261, N-1
-Related Nodes: N-10808, N-10346
+Related Nodes: N-10732, N-10324
 Investigative Direction: Establish who instructed the SD card removal and its chain of custody.
 
 ---
@@ -992,7 +986,7 @@ Transcript Snippet: I think you are correct that he zoomed in on that that foota
 
 Anchored Artifacts:
 Mentions: N-261, N-3
-Related Nodes: N-10346
+Related Nodes: N-10324
 Investigative Direction: Obtain the original SD card file and compare its frame with what was shown to the host.
 
 ---
@@ -1007,7 +1001,7 @@ Transcript Snippet: he said that my video was the missing piece to his theory th
 
 Anchored Artifacts: A-2671.1
 Mentions: N-681, N-3, N-1
-Related Nodes: N-10705, N-10678
+Related Nodes: N-10641, N-10616
 Investigative Direction: Have the SUV shards forensically analyzed or obtain any FBI evidence log of debris recovered from the vehicle.
 
 ---
@@ -1022,7 +1016,7 @@ Transcript Snippet: They had it towed, cleaned, towed again, and resold or put u
 
 Anchored Artifacts:
 Mentions: N-7, N-1
-Related Nodes: N-10362, N-10014
+Related Nodes: N-10338, N-10014
 Investigative Direction: Trace the vehicle's VIN through tow, detailing and auction records.
 
 ---
@@ -1037,7 +1031,7 @@ Transcript Snippet: Just behind the driver seat is where Charlie's body was pull
 
 Anchored Artifacts: A-2671.1
 Mentions: N-1
-Related Nodes: N-10678, N-10685
+Related Nodes: N-10616, N-10623
 Investigative Direction: Match the photos to the vehicle and seating positions and analyze the material.
 
 ---
@@ -1052,7 +1046,7 @@ Transcript Snippet: Nobody was looking at Israel and Bibi Netanyahu comes out an
 
 Anchored Artifacts:
 Mentions: N-36
-Related Nodes: N-10446
+Related Nodes: N-10415
 Investigative Direction: Locate Netanyahu's statement and its date relative to public speculation.
 
 ---
@@ -1067,7 +1061,7 @@ Transcript Snippet: What was the response from Turning Point? To be angry and to
 
 Anchored Artifacts:
 Mentions: N-209, N-3
-Related Nodes: N-10551, N-10000, N-10446
+Related Nodes: N-10505, N-10000, N-10415
 Investigative Direction: Collect TPUSA staff statements attributing the leak to Joe Kent.
 
 ---
@@ -1097,7 +1091,7 @@ Transcript Snippet: Bari Weiss, do you believe it? Yes. Do you believe Tyler Rob
 
 Anchored Artifacts:
 Mentions: N-278, N-2, N-40
-Related Nodes: N-10334
+Related Nodes: N-10313
 Investigative Direction: Review the CBS town hall transcript for the exact question and answer.
 
 ---
@@ -1112,7 +1106,7 @@ Transcript Snippet: I said, "Do you have more evidence than the than the public 
 
 Anchored Artifacts:
 Mentions: N-2, N-3
-Related Nodes: N-10508
+Related Nodes: N-10106
 Investigative Direction: Identify the lawyer and confirm the date of the call.
 
 ---
@@ -1127,7 +1121,7 @@ Transcript Snippet: they keep conveniently not wanting it to remind you that the
 
 Anchored Artifacts:
 Mentions: N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Supports: C-756
 Investigative Direction: Obtain the latent print report on the rifle from the court record.
 
@@ -1143,7 +1137,7 @@ Transcript Snippet: They don't want to explain to us why the police didn't perfo
 
 Anchored Artifacts:
 Mentions: N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Investigative Direction: Check arrest and lab records for any GSR collection from Tyler Robinson.
 
 ---
@@ -1158,7 +1152,7 @@ Transcript Snippet: Oh, but he also wrote a note because um and put it under his
 
 Anchored Artifacts:
 Mentions: N-40
-Related Nodes: N-10566, N-10381
+Related Nodes: N-10021, N-10354
 Investigative Direction: Compare the charging documents' description of the text, note and Discord messages.
 
 ---
@@ -1188,7 +1182,7 @@ Transcript Snippet: He went to He went to call his wife. And he didn't call 911.
 
 Anchored Artifacts:
 Mentions: N-190, N-2
-Related Nodes: N-10338
+Related Nodes: N-10214
 Supports: C-6107
 Investigative Direction: Obtain Mikey McCoy's call log for September 10, 2025.
 
@@ -1204,7 +1198,7 @@ Transcript Snippet: And Blake Neff didn't call 911. He called his mother.
 
 Anchored Artifacts:
 Mentions: N-159, N-190
-Related Nodes: N-10715
+Related Nodes: N-10651
 Investigative Direction: Obtain Blake Neff's call log and 911 dispatch logs for the event.
 
 ---
@@ -1219,7 +1213,7 @@ Transcript Snippet: was that he was on the phone FaceTiming his 35-year-old son.
 
 Anchored Artifacts: A-2672.2
 Mentions: N-7, N-682, N-1
-Related Nodes: N-10730
+Related Nodes: N-10664
 Investigative Direction: Obtain Frank Turek's phone records for the duration of the FaceTime call.
 
 ---
@@ -1234,7 +1228,7 @@ Transcript Snippet: Okay, then I got the first call from Mike cuz I was in the >
 
 Anchored Artifacts: A-2672.1
 Mentions: N-208, N-7, N-190, N-1
-Related Nodes: N-10818, N-10730
+Related Nodes: N-10741, N-10664
 Investigative Direction: Compare Turek's carrier records for incoming calls with the FaceTime session duration.
 
 ---
@@ -1249,7 +1243,7 @@ Transcript Snippet: I was just well, first I I was FaceTiming my wife and then I
 
 Anchored Artifacts: A-2672.2
 Mentions: N-7, N-46, N-682, N-1
-Related Nodes: N-10730
+Related Nodes: N-10664
 Investigative Direction: Obtain the FaceTime session logs from Turek's or his son's device.
 
 ---
@@ -1264,7 +1258,7 @@ Transcript Snippet: When Kash Patel got on the scene, he instructed the Feds to 
 
 Anchored Artifacts:
 Mentions: N-69
-Related Nodes: N-10239, N-10014
+Related Nodes: N-10226, N-10014
 Investigative Direction: Obtain FBI evidence logs for the Timpanogos Hospital footage and who ordered its collection.
 
 ---
@@ -1279,7 +1273,7 @@ Transcript Snippet: I've asked people at Turning Point USA, "Do you remember see
 
 Anchored Artifacts:
 Mentions: N-261, N-1
-Related Nodes: N-10985, N-10000
+Related Nodes: N-10905, N-10000
 Investigative Direction: Request TPUSA's streaming platform logs for the September 10 event.
 
 ---
@@ -1294,7 +1288,7 @@ Transcript Snippet: but I will say that I am going to look into the explosion th
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10986
+Related Nodes: N-10906
 Investigative Direction: Review investigative reports on the Accurate Energetic Systems explosion and any missing inventory.
 
 ---
@@ -1309,7 +1303,7 @@ Transcript Snippet: On October 10th, there was an explosion at the Accurate Ener
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10986
+Related Nodes: N-10906
 Investigative Direction: Check OSHA, ATF and local news records for the date, casualties and cause.
 
 ---
@@ -1324,7 +1318,7 @@ Transcript Snippet: please email us at tips@candaceowens. com. Not your theories
 
 Anchored Artifacts: A-2673.1
 Mentions: N-3
-Related Nodes: N-10986
+Related Nodes: N-10906
 Investigative Direction: Track tips received and any follow-up reporting on the explosion.
 
 ---
@@ -1339,7 +1333,7 @@ Transcript Snippet: They have to respond to my request within the legal time fra
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10700
+Related Nodes: N-10637
 Investigative Direction: Check 5 U.S.C. 552(a)(6) on response deadlines and unusual-circumstances extensions.
 
 ---
@@ -1354,7 +1348,7 @@ Transcript Snippet: They referred to her as an emotional asset and this was done
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10923, N-10888
+Related Nodes: N-10844, N-10809
 Investigative Direction: Obtain the email and its distribution list via FOIA.
 
 ---
@@ -1369,7 +1363,7 @@ Transcript Snippet: We asked just for any emails that included Erika Kirk's name
 
 Anchored Artifacts:
 Mentions: N-2, N-3
-Related Nodes: N-10923, N-10700
+Related Nodes: N-10844, N-10637
 Investigative Direction: Obtain the agency's acknowledgment letter and extension notice.
 
 ---
@@ -1384,7 +1378,7 @@ Transcript Snippet: Via FOIA, we formally requested Kash Patel's travel itinerar
 
 Anchored Artifacts: A-2674.1
 Mentions: N-69, N-1, N-3
-Related Nodes: N-10700, N-10014
+Related Nodes: N-10637, N-10014
 Investigative Direction: Compare the FBI's written response with the host's summary.
 
 ---
@@ -1399,7 +1393,7 @@ Transcript Snippet: Your show, just like the fake news media, will be called out
 
 Anchored Artifacts: A-2674.2
 Mentions: N-3
-Related Nodes: N-10014, N-10700
+Related Nodes: N-10014, N-10637
 Investigative Direction: Archive the FBI post and the acknowledgment letter it references.
 
 ---
@@ -1414,7 +1408,7 @@ Transcript Snippet: Do you mind utilizing a similar speed to get Tyler Robinson'
 
 Anchored Artifacts: A-2674.3
 Mentions: N-40, N-1, N-3
-Related Nodes: N-10014, N-10581
+Related Nodes: N-10014, N-10532
 Investigative Direction: Review defense discovery motions in the Tyler Robinson case for outstanding FBI material.
 
 ---
@@ -1444,7 +1438,7 @@ Transcript Snippet: This moment where you had influencers holding effectively em
 
 Anchored Artifacts: A-2674.6
 Mentions: N-9
-Related Nodes: N-10984, N-10324
+Related Nodes: N-10904, N-10303
 Investigative Direction: Identify the DOJ event date and the binders' actual contents.
 
 ---
@@ -1459,7 +1453,7 @@ Transcript Snippet: was begging for an appointment at the VA and was routinely b
 
 Anchored Artifacts: A-2675.1
 Mentions: N-3
-Related Nodes: N-10950
+Related Nodes: N-10871
 Investigative Direction: Obtain the veteran's VA appointment request records from May onward (with consent).
 
 ---
@@ -1474,7 +1468,7 @@ Transcript Snippet: the hospital treated him with just so much kindness getting 
 
 Anchored Artifacts: A-2675.1, A-2675.2
 Mentions: N-3
-Related Nodes: N-10950
+Related Nodes: N-10871
 Investigative Direction: Obtain the Russian hospital's treatment records (with consent).
 
 ---
@@ -1503,7 +1497,7 @@ Transcript Snippet: Um they're giving them drugs that by the way are illegal in 
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10950
+Related Nodes: N-10871
 Investigative Direction: Compare VA prescribing practice for PTSD with Russia's controlled-substance schedules.
 
 ---
@@ -1518,7 +1512,7 @@ Transcript Snippet: Ashley just let me know that she did already reduce the burd
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10700, N-10984
+Related Nodes: N-10637, N-10904
 Investigative Direction: Track the refiled FOIA request and the agency's response date.
 
 ---
@@ -1533,7 +1527,7 @@ Transcript Snippet: I didn't dismiss it. I never dismissed the exploding mic the
 
 Anchored Artifacts: A-2676.1
 Mentions: N-3
-Related Nodes: N-10768
+Related Nodes: N-10697
 Investigative Direction: Review earlier episodes for the host's prior statements on the mic theory.
 
 ---
@@ -1548,7 +1542,7 @@ Transcript Snippet: The strangest story came from Frank Turek, which was like th
 
 Anchored Artifacts: A-2676.2
 Mentions: N-7, N-1
-Related Nodes: N-10537
+Related Nodes: N-10492
 Supports: C-4213
 Investigative Direction: Obtain FBI evidence logs for the necklace's recovery.
 
@@ -1564,7 +1558,7 @@ Transcript Snippet: that's why before Charlie reacts to the wound, the necklace 
 
 Anchored Artifacts: A-2676.2
 Mentions: N-1
-Related Nodes: N-10537, N-10768
+Related Nodes: N-10492, N-10697
 Investigative Direction: Frame-by-frame analysis of the back-camera and audience footage.
 
 ---
@@ -1579,7 +1573,7 @@ Transcript Snippet: and then we find out that Connor was working at the hospital
 
 Anchored Artifacts: A-2676.3
 Mentions: N-414, N-410
-Related Nodes: N-10578, N-10092
+Related Nodes: N-10529, N-10088
 Supports: C-7798
 Investigative Direction: Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.
 
@@ -1595,7 +1589,7 @@ Transcript Snippet: His father was one half of the Built organization, um along 
 
 Anchored Artifacts: A-2676.3
 Mentions: N-410, N-414
-Related Nodes: N-10577, N-10578
+Related Nodes: N-10528, N-10529
 Supports: C-7795
 Investigative Direction: Check Built Inc. corporate filings and residential records for both families.
 
@@ -1833,7 +1827,7 @@ Confidence: high
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
 - **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-10019, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
 - **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-681 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terryl", "Taral" and "Terryl Farnsworth" are mapped to N-261. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-410 Zachariah Qureshi; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
-- **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
+- **Possible duplicate topic**: N-10844 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
 - **Cross-episode links left out**: C-609 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1363 (SD card removal on law-enforcement instruction) may relate to C-9996, but the source of the instruction differs, so it is left unlinked.
 - **Not inscribed as claims (admission test)**:

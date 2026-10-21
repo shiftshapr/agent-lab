@@ -22,14 +22,14 @@
     "- **Transcript SHA-256**: 01827eb532b7317b128eba25a70f6def2108e8ca79fdbe46bd399b76d5e2e53f",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10): N-11002, N-11003, N-11004, N-11005",
-    "  - Hole-minted Nodes (reintro-ep004): N-180, N-10062, N-10076, N-10139, N-10201",
-    "  - Tip-minted Nodes (reintro-ep004): N-10898, N-10934",
+    "  - Tip-minted Nodes (supplement_2026-10): N-10922, N-10923, N-10924, N-10925",
+    "  - Hole-minted Nodes (reintro-ep004): N-180, N-10059, N-10073, N-10134, N-10193",
+    "  - Tip-minted Nodes (reintro-ep004): N-10819, N-10855",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-300–C-390",
     "  - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110",
-    "  - New Nodes Introduced: N-69, N-70, N-71, N-10038, N-10039, N-10040, N-10041, N-10042, N-10043, N-10044, N-10045, N-10046",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41, N-5, N-37, N-10000, N-10006, N-10013, N-10014, N-10018, N-10021, N-10022, N-10029, N-10034, N-10097, N-10165, N-10047",
+    "  - New Nodes Introduced: N-69, N-70, N-71, N-10037, N-10038, N-10039, N-10040, N-10041, N-10042, N-10043",
+    "  - Reused Nodes Appearing: N-10019, N-10030, N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41, N-5, N-37, N-10000, N-10006, N-10013, N-10014, N-10018, N-10021, N-10022, N-10029, N-10033, N-10093, N-10158, N-10044",
     "",
     "## 2. Executive Summary",
     "",
@@ -2074,8 +2074,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10038",
-   "header": "**N-10038** Text Message Language Anomaly",
+   "id": "N-10037",
+   "header": "**N-10037** Text Message Language Anomaly",
    "label": "Text Message Language Anomaly",
    "lines": [
     {
@@ -2111,9 +2111,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10039",
-   "header": "**N-10039** Missing Text Message Timestamps",
-   "label": "Missing Text Message Timestamps",
+   "id": "N-10030",
+   "header": "**N-10030** Text Message Timestamp Discrepancy",
+   "label": "Text Message Timestamp Discrepancy",
    "lines": [
     {
      "raw": ""
@@ -2148,8 +2148,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10040",
-   "header": "**N-10040** Robinson On-Campus Linger Timeline",
+   "id": "N-10038",
+   "header": "**N-10038** Robinson On-Campus Linger Timeline",
    "label": "Robinson On-Campus Linger Timeline",
    "lines": [
     {
@@ -2185,8 +2185,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10041",
-   "header": "**N-10041** Note Under Keyboard Disposal",
+   "id": "N-10039",
+   "header": "**N-10039** Note Under Keyboard Disposal",
    "label": "Note Under Keyboard Disposal",
    "lines": [
     {
@@ -2222,9 +2222,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10042",
-   "header": "**N-10042** Outfit Change Claim",
-   "label": "Outfit Change Claim",
+   "id": "N-10019",
+   "header": "**N-10019** Robinson Outfit Change Discrepancy",
+   "label": "Robinson Outfit Change Discrepancy",
    "lines": [
     {
      "raw": ""
@@ -2259,8 +2259,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10043",
-   "header": "**N-10043** Two-Person Theory (Maroon vs Stairs)",
+   "id": "N-10040",
+   "header": "**N-10040** Two-Person Theory (Maroon vs Stairs)",
    "label": "Two-Person Theory (Maroon vs Stairs)",
    "lines": [
     {
@@ -2298,8 +2298,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10044",
-   "header": "**N-10044** Lance Twiggs Protection Allegation",
+   "id": "N-10041",
+   "header": "**N-10041** Lance Twiggs Protection Allegation",
    "label": "Lance Twiggs Protection Allegation",
    "lines": [
     {
@@ -2335,8 +2335,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10045",
-   "header": "**N-10045** Stanford Psychology Family Pattern",
+   "id": "N-10042",
+   "header": "**N-10042** Stanford Psychology Family Pattern",
    "label": "Stanford Psychology Family Pattern",
    "lines": [
     {
@@ -2372,8 +2372,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10046",
-   "header": "**N-10046** Federal Conspiracy Allegation",
+   "id": "N-10043",
+   "header": "**N-10043** Federal Conspiracy Allegation",
    "label": "Federal Conspiracy Allegation",
    "lines": [
     {
@@ -2409,8 +2409,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10047",
-   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "id": "N-10044",
+   "header": "**N-10044** Donor Intimidation of Charlie Kirk",
    "label": "Donor Intimidation of Charlie Kirk",
    "lines": [
     {
@@ -2765,8 +2765,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10034",
-   "header": "**N-10034** Lance Twiggs Family Allegations",
+   "id": "N-10033",
+   "header": "**N-10033** Lance Twiggs Family Allegations",
    "label": "Lance Twiggs Family Allegations",
    "lines": [
     {
@@ -2794,8 +2794,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10062",
-   "header": "**N-10062** Orem, Utah",
+   "id": "N-10059",
+   "header": "**N-10059** Orem, Utah",
    "label": "Orem, Utah",
    "lines": [
     {
@@ -2823,8 +2823,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10076",
-   "header": "**N-10076** Cameragate Investigation",
+   "id": "N-10073",
+   "header": "**N-10073** Cameragate Investigation",
    "label": "Cameragate Investigation",
    "lines": [
     {
@@ -2852,8 +2852,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10097",
-   "header": "**N-10097** George Zinn Arrest Location/Timing",
+   "id": "N-10093",
+   "header": "**N-10093** George Zinn Arrest Location/Timing",
    "label": "George Zinn Arrest Location/Timing",
    "lines": [
     {
@@ -2881,8 +2881,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10139",
-   "header": "**N-10139** Operation Mocking Pastor",
+   "id": "N-10134",
+   "header": "**N-10134** Operation Mocking Pastor",
    "label": "Operation Mocking Pastor",
    "lines": [
     {
@@ -2910,8 +2910,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10165",
-   "header": "**N-10165** Campus Footage Release Strategy Question",
+   "id": "N-10158",
+   "header": "**N-10158** Campus Footage Release Strategy Question",
    "label": "Campus Footage Release Strategy Question",
    "lines": [
     {
@@ -2939,8 +2939,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10201",
-   "header": "**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy",
+   "id": "N-10193",
+   "header": "**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "label": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "lines": [
     {
@@ -2968,8 +2968,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10898",
-   "header": "**N-10898** New York Post",
+   "id": "N-10819",
+   "header": "**N-10819** New York Post",
    "label": "New York Post",
    "lines": [
     {
@@ -2997,8 +2997,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10934",
-   "header": "**N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
+   "id": "N-10855",
+   "header": "**N-10855** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
    "label": "Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
    "lines": [
     {
@@ -3026,8 +3026,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11002",
-   "header": "**N-11002** Warner Valley, Utah",
+   "id": "N-10922",
+   "header": "**N-10922** Warner Valley, Utah",
    "label": "Warner Valley, Utah",
    "lines": [
     {
@@ -3059,8 +3059,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11003",
-   "header": "**N-11003** American Jewish Committee",
+   "id": "N-10923",
+   "header": "**N-10923** American Jewish Committee",
    "label": "American Jewish Committee",
    "lines": [
     {
@@ -3092,8 +3092,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11004",
-   "header": "**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
+   "id": "N-10924",
+   "header": "**N-10924** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
    "label": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
    "lines": [
     {
@@ -3125,8 +3125,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11005",
-   "header": "**N-11005** Donor Requests for Funeral Remarks",
+   "id": "N-10925",
+   "header": "**N-10925** Donor Requests for Funeral Remarks",
    "label": "Donor Requests for Funeral Remarks",
    "lines": [
     {
@@ -3194,7 +3194,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10038"
+     "v": "N-10037"
     },
     {
      "k": "Confidence",
@@ -3246,7 +3246,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10039, N-10046"
+     "v": "N-10030, N-10043"
     },
     {
      "k": "Confidence",
@@ -3302,7 +3302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10041"
+     "v": "N-10039"
     },
     {
      "k": "Confidence",
@@ -3354,7 +3354,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Confidence",
@@ -3406,7 +3406,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Confidence",
@@ -3458,7 +3458,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10042"
+     "v": "N-10019"
     },
     {
      "k": "Confidence",
@@ -3514,7 +3514,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10044"
+     "v": "N-10041"
     },
     {
      "k": "Confidence",
@@ -3566,7 +3566,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10042, N-10046"
+     "v": "N-10019, N-10043"
     },
     {
      "k": "Confidence",
@@ -3622,7 +3622,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10043, N-10046"
+     "v": "N-10040, N-10043"
     },
     {
      "k": "Confidence",
@@ -3678,7 +3678,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10045"
+     "v": "N-10042"
     },
     {
      "k": "Confidence",
@@ -3734,7 +3734,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Confidence",
@@ -3786,7 +3786,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Contradicts",
@@ -3908,7 +3908,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10038"
+     "v": "N-10037"
     },
     {
      "k": "Supports",
@@ -3969,7 +3969,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10041"
+     "v": "N-10039"
     },
     {
      "k": "Supports",
@@ -4030,7 +4030,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040, N-10062"
+     "v": "N-10038, N-10059"
     },
     {
      "k": "Investigative Direction",
@@ -4087,7 +4087,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Investigative Direction",
@@ -4144,7 +4144,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10097"
+     "v": "N-10093"
     },
     {
      "k": "Investigative Direction",
@@ -4201,7 +4201,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Supports",
@@ -4262,7 +4262,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Supports",
@@ -4323,7 +4323,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10097"
+     "v": "N-10093"
     },
     {
      "k": "Investigative Direction",
@@ -4380,7 +4380,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Investigative Direction",
@@ -4437,7 +4437,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Investigative Direction",
@@ -4494,7 +4494,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Investigative Direction",
@@ -4551,7 +4551,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10042"
+     "v": "N-10019"
     },
     {
      "k": "Supports",
@@ -4612,7 +4612,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10042, N-10165"
+     "v": "N-10019, N-10158"
     },
     {
      "k": "Supports",
@@ -4673,7 +4673,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10165, N-10042"
+     "v": "N-10158, N-10019"
     },
     {
      "k": "Investigative Direction",
@@ -4730,7 +4730,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040"
+     "v": "N-10038"
     },
     {
      "k": "Investigative Direction",
@@ -4783,7 +4783,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10013, N-10039"
+     "v": "N-10013, N-10030"
     },
     {
      "k": "Supports",
@@ -4901,7 +4901,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10898"
+     "v": "N-10819"
     },
     {
      "k": "Investigative Direction",
@@ -4954,7 +4954,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10014, N-10043"
+     "v": "N-10014, N-10040"
     },
     {
      "k": "Investigative Direction",
@@ -5011,7 +5011,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10034"
+     "v": "N-10033"
     },
     {
      "k": "Investigative Direction",
@@ -5422,7 +5422,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10044"
+     "v": "N-10041"
     },
     {
      "k": "Investigative Direction",
@@ -5479,7 +5479,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11002, N-10021"
+     "v": "N-10922, N-10021"
     },
     {
      "k": "Investigative Direction",
@@ -5597,7 +5597,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10034"
+     "v": "N-10033"
     },
     {
      "k": "Investigative Direction",
@@ -5654,7 +5654,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10044"
+     "v": "N-10041"
     },
     {
      "k": "Investigative Direction",
@@ -5711,7 +5711,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10044, N-10034"
+     "v": "N-10041, N-10033"
     },
     {
      "k": "Investigative Direction",
@@ -5939,7 +5939,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10042"
+     "v": "N-10019"
     },
     {
      "k": "Investigative Direction",
@@ -5996,7 +5996,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10042"
+     "v": "N-10019"
     },
     {
      "k": "Investigative Direction",
@@ -6114,7 +6114,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10013, N-10039, N-10046"
+     "v": "N-10013, N-10030, N-10043"
     },
     {
      "k": "Investigative Direction",
@@ -6171,7 +6171,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10044"
+     "v": "N-10041"
     },
     {
      "k": "Investigative Direction",
@@ -6228,7 +6228,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10165, N-10040"
+     "v": "N-10158, N-10038"
     },
     {
      "k": "Investigative Direction",
@@ -6285,7 +6285,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10044"
+     "v": "N-10041"
     },
     {
      "k": "Supports",
@@ -6346,7 +6346,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10034, N-10044"
+     "v": "N-10033, N-10041"
     },
     {
      "k": "Investigative Direction",
@@ -6403,7 +6403,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10043, N-10014"
+     "v": "N-10040, N-10014"
     },
     {
      "k": "Investigative Direction",
@@ -6460,7 +6460,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10046"
+     "v": "N-10043"
     },
     {
      "k": "Investigative Direction",
@@ -6578,7 +6578,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Investigative Direction",
@@ -6794,7 +6794,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047, N-10000"
+     "v": "N-10044, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -6912,7 +6912,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11003"
+     "v": "N-10923"
     },
     {
      "k": "Supports",
@@ -7030,7 +7030,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Supports",
@@ -7091,7 +7091,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Investigative Direction",
@@ -7148,7 +7148,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Qualifies",
@@ -7209,7 +7209,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Supports",
@@ -7270,7 +7270,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10934"
+     "v": "N-10855"
     },
     {
      "k": "Investigative Direction",
@@ -7327,7 +7327,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047, N-10934"
+     "v": "N-10044, N-10855"
     },
     {
      "k": "Investigative Direction",
@@ -7384,7 +7384,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Investigative Direction",
@@ -7441,7 +7441,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Investigative Direction",
@@ -7498,7 +7498,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Investigative Direction",
@@ -7608,7 +7608,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10076"
+     "v": "N-10073"
     },
     {
      "k": "Investigative Direction",
@@ -7665,7 +7665,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10076, N-10165"
+     "v": "N-10073, N-10158"
     },
     {
      "k": "Investigative Direction",
@@ -7775,7 +7775,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10165, N-10076"
+     "v": "N-10158, N-10073"
     },
     {
      "k": "Investigative Direction",
@@ -7832,7 +7832,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11004, N-10139"
+     "v": "N-10924, N-10134"
     },
     {
      "k": "Investigative Direction",
@@ -7889,7 +7889,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10139"
+     "v": "N-10134"
     },
     {
      "k": "Investigative Direction",
@@ -7946,7 +7946,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10139"
+     "v": "N-10134"
     },
     {
      "k": "Investigative Direction",
@@ -8003,7 +8003,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10139"
+     "v": "N-10134"
     },
     {
      "k": "Investigative Direction",
@@ -8060,7 +8060,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10046"
+     "v": "N-10043"
     },
     {
      "k": "Investigative Direction",
@@ -8117,7 +8117,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11005, N-10201"
+     "v": "N-10925, N-10193"
     },
     {
      "k": "Investigative Direction",
@@ -8174,7 +8174,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Supports",
@@ -8235,7 +8235,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10898"
+     "v": "N-10819"
     },
     {
      "k": "Investigative Direction",

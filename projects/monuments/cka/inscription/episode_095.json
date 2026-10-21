@@ -35,8 +35,8 @@
             "N-563",
             "N-261",
             "N-1",
-            "N-10799",
-            "N-10908"
+            "N-10723",
+            "N-10829"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -64,8 +64,8 @@
           "related_nodes": [
             "N-261",
             "N-3",
-            "N-10808",
-            "N-10810"
+            "N-10732",
+            "N-10734"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -93,7 +93,7 @@
           "related_nodes": [
             "N-563",
             "N-1",
-            "N-10908"
+            "N-10829"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -111,7 +111,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10908"
+            "N-10829"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -145,7 +145,7 @@
             "N-489",
             "N-387",
             "N-2",
-            "N-10907"
+            "N-10828"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -191,7 +191,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10070",
+            "N-10067",
             "N-10022"
           ],
           "tags": [],
@@ -210,7 +210,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10077",
+            "N-10074",
             "N-10022"
           ],
           "tags": [],
@@ -302,7 +302,7 @@
           "related_nodes": [
             "N-3",
             "N-1",
-            "N-10751"
+            "N-10681"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1007,8 +1007,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Published the family-heirloom headline the host cited to Neff.",
@@ -1026,8 +1026,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
       "type": "investigation_target",
       "description": "The rifle-photo message and newly added \"pooch\" line in Robinson's messages.",
@@ -1046,8 +1046,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
       "type": "investigation_target",
       "description": "Streiff's call to the host's husband about whether she recorded the footage.",
@@ -1063,9 +1063,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "The host asks whether Charlie was buried after a Catholic funeral mass or cremated.",
       "related_artifacts": [],
@@ -1080,8 +1080,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Terryl's stated reason (protecting Erika) for removing the camera.",
@@ -1098,8 +1098,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10376",
-      "ref": "N-10376",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
       "type": "investigation_target",
       "description": "The tent recreation for selfies is cited again.",
@@ -1115,8 +1115,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10570",
-      "ref": "N-10570",
+      "@id": "N-10521",
+      "ref": "N-10521",
       "name": "Defense Discovery Dumping Strategy",
       "type": "investigation_target",
       "description": "600,000 files given to the defense in March and the continuance request.",
@@ -1133,8 +1133,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10581",
-      "ref": "N-10581",
+      "@id": "N-10532",
+      "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
       "type": "investigation_target",
       "description": "The host urges the defense to obtain the unzoomed back-camera footage.",
@@ -1150,8 +1150,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10590",
-      "ref": "N-10590",
+      "@id": "N-10538",
+      "ref": "N-10538",
       "name": "Laura Loomer Influence on Trump Policy Question",
       "type": "investigation_target",
       "description": "Loomer's phone access to Trump and her role as adviser.",
@@ -1168,8 +1168,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10600",
-      "ref": "N-10600",
+      "@id": "N-10547",
+      "ref": "N-10547",
       "name": "Victor Marx 51% Fold AR Acquisition Attempt",
       "type": "investigation_target",
       "description": "Recalled as Marx wanting the patent and pushing Corby Hall out.",
@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10613",
-      "ref": "N-10613",
+      "@id": "N-10560",
+      "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
       "type": "investigation_target",
       "description": "Marx declined to join; the Corby Hall interview goes ahead.",
@@ -1202,8 +1202,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10618",
-      "ref": "N-10618",
+      "@id": "N-10564",
+      "ref": "N-10564",
       "name": "Victor Marx IDF / Israeli Defense Group Connection",
       "type": "investigation_target",
       "description": "The host says Marx wanted the patent for Israel.",
@@ -1219,8 +1219,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10626",
-      "ref": "N-10626",
+      "@id": "N-10572",
+      "ref": "N-10572",
       "name": "Erika Kirk Speedy Trial Motion (January 16)",
       "type": "investigation_target",
       "description": "The host anticipates the judge refusing a continuance because Erika asserted her victim's rights.",
@@ -1236,8 +1236,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
       "type": "investigation_target",
       "description": "The host says Loomer cannot own a gun in any of the 50 states.",
@@ -1253,8 +1253,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Donors told the host Charlie never said the \"I appoint Erika\" line at Aspen.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10751",
-      "ref": "N-10751",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "The host asks whether Charlie Kirk was cremated.",
@@ -1292,25 +1292,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10759",
-      "ref": "N-10759",
-      "name": "Kirk Burial / Cremation Status",
-      "type": "investigation_target",
-      "description": "The body was reportedly moved a couple of times.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8540"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10799",
-      "ref": "N-10799",
+      "@id": "N-10723",
+      "ref": "N-10723",
       "name": "Back-Camera Footage Discrepancy",
       "type": "investigation_target",
       "description": "Nicci's finding that the shared footage was zoomed or cropped, hiding the ground.",
@@ -1331,8 +1314,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10801",
-      "ref": "N-10801",
+      "@id": "N-10725",
+      "ref": "N-10725",
       "name": "Terryl Post-Removal Communications",
       "type": "investigation_target",
       "description": "The host's September 17 and 19 calls with Terryl.",
@@ -1350,8 +1333,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10808",
-      "ref": "N-10808",
+      "@id": "N-10732",
+      "ref": "N-10732",
       "name": "Terryl SD Card-to-Laptop Transfer Sequence",
       "type": "investigation_target",
       "description": "The \"YOLO\" drive on Terryl's desktop in Scottsdale.",
@@ -1370,8 +1353,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10810",
-      "ref": "N-10810",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
       "type": "investigation_target",
       "description": "Whether the SD card was ever given to federal agents.",
@@ -1391,8 +1374,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10812",
-      "ref": "N-10812",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Terryl's possession of the footage in Arizona.",
@@ -1409,8 +1392,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
       "description": "Transcript spelling \"Wiyre Fy\". The host ties the new back camera to the sponsorship deal.",
@@ -1426,8 +1409,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10907",
-      "ref": "N-10907",
+      "@id": "N-10828",
+      "ref": "N-10828",
       "name": "Lori Frantzve 2016 Gun Patent Dinner",
       "type": "topic",
       "description": "Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guinta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.",
@@ -1457,8 +1440,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10908",
-      "ref": "N-10908",
+      "@id": "N-10829",
+      "ref": "N-10829",
       "name": "Back-Camera and Platform Setup Introduction (2025 Tour)",
       "type": "topic",
       "description": "Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Yrefy sponsorship deal.",
@@ -1494,7 +1477,7 @@
       "claim": "The host says Terryl raced to take down the back-camera footage minutes after Charlie Kirk was struck, which her team estimated at about four minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:01:22",
@@ -1555,7 +1538,7 @@
         "A-2537.1"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
@@ -1577,8 +1560,8 @@
         "A-2537.1"
       ],
       "related_nodes": [
-        "N-10799",
-        "N-10908"
+        "N-10723",
+        "N-10829"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
@@ -1598,7 +1581,7 @@
         "A-2537.1"
       ],
       "related_nodes": [
-        "N-10799",
+        "N-10723",
         "N-10012"
       ],
       "tags": [],
@@ -1618,7 +1601,7 @@
       "claim": "The host says she phoned Terryl on September 17 because footage of him taking down the camera was going viral, and that it took him two days to get back to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10801"
+        "N-10725"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
@@ -1637,7 +1620,7 @@
       "claim": "The host says Terryl was hesitant on September 17, saying he wanted to protect the footage and Erika Kirk, and that on September 19 he agreed to get on a call and show her the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10801"
+        "N-10725"
       ],
       "tags": [],
       "claim_timestamp": "00:05:16",
@@ -1658,8 +1641,8 @@
         "A-2538.1"
       ],
       "related_nodes": [
-        "N-10808",
-        "N-10810"
+        "N-10732",
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -1678,9 +1661,9 @@
       "claim": "The host says that in their September 17 and 19 conversations Terryl never told her he did not have the footage or the SD card, or that he had given the SD card to federal agents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810",
-        "N-10812",
-        "N-10801"
+        "N-10734",
+        "N-10736",
+        "N-10725"
       ],
       "tags": [],
       "claim_timestamp": "00:07:29",
@@ -1699,7 +1682,7 @@
       "claim": "The host says Terryl told her he removed the SD card and took the camera down because he wanted to protect Erika Kirk and did not want her to see Charlie dying again, and that he had spoken with Erika about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:08:21",
@@ -1720,7 +1703,7 @@
         "A-2538.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:08:21",
@@ -1742,8 +1725,8 @@
         "A-2538.1"
       ],
       "related_nodes": [
-        "N-10808",
-        "N-10812"
+        "N-10732",
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:09:05",
@@ -1761,7 +1744,7 @@
       "claim": "The host relays a producer's suggestion that federal agents learned of Terryl's footage from her show and pressured Justin Streiff to call her husband to ask whether she had recorded it. The host rejects the idea that agents only learned of it then.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300"
+        "N-10282"
       ],
       "tags": [],
       "claim_timestamp": "00:09:05",
@@ -1783,7 +1766,7 @@
         "A-2537.1"
       ],
       "related_nodes": [
-        "N-10799"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:09:48",
@@ -1803,7 +1786,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10581"
+        "N-10532"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
@@ -1823,7 +1806,7 @@
         "A-2539.1"
       ],
       "related_nodes": [
-        "N-10908",
+        "N-10829",
         "N-10000"
       ],
       "tags": [],
@@ -1844,7 +1827,7 @@
         "A-2539.1"
       ],
       "related_nodes": [
-        "N-10908",
+        "N-10829",
         "N-10000"
       ],
       "tags": [],
@@ -1865,7 +1848,7 @@
         "A-2539.2"
       ],
       "related_nodes": [
-        "N-10908"
+        "N-10829"
       ],
       "tags": [],
       "claim_timestamp": "00:14:37",
@@ -1883,8 +1866,8 @@
       "claim": "The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with \"Wiyre Fy\" (Yrefy).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10870",
-        "N-10908",
+        "N-10791",
+        "N-10829",
         "N-10000"
       ],
       "tags": [],
@@ -1902,7 +1885,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:16:43",
@@ -1921,8 +1904,8 @@
       "claim": "The host says Victor Marx wanted Corby Hall's Fold AR patent for Israel and sought to push Hall out so he would sell it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10600",
-        "N-10618"
+        "N-10547",
+        "N-10564"
       ],
       "tags": [],
       "claim_timestamp": "00:16:43",
@@ -1943,7 +1926,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:18:04",
@@ -1964,7 +1947,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:18:04",
@@ -1985,7 +1968,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:18:04",
@@ -2006,7 +1989,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:19:11",
@@ -2026,7 +2009,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:19:11",
@@ -2047,7 +2030,7 @@
         "A-2540.1"
       ],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:20:24",
@@ -2067,7 +2050,7 @@
       "claim": "The host says nothing came of the dinner and that the person involved with the patent later got into a lawsuit with Victor Marx, the outcome of which she has not yet established.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10907"
+        "N-10828"
       ],
       "tags": [],
       "claim_timestamp": "00:21:34",
@@ -2147,7 +2130,7 @@
         "A-2541.2"
       ],
       "related_nodes": [
-        "N-10070",
+        "N-10067",
         "N-10022"
       ],
       "tags": [],
@@ -2169,7 +2152,7 @@
         "A-2541.3"
       ],
       "related_nodes": [
-        "N-10077",
+        "N-10074",
         "N-10022"
       ],
       "tags": [],
@@ -2188,7 +2171,7 @@
       "claim": "The host says multiple donors told her Charlie Kirk never said \"I appoint Erika Kirk to be the CEO and chairman\" at Aspen, either on stage or at a smaller dinner of about 10 to 12 people. She says the donors believe the released audio is AI.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16",
@@ -2210,7 +2193,7 @@
       "claim": "The host says Erika Kirk told Megyn Kelly that TPUSA has the Aspen video, yet it declined to share it. She says Blake Neff instead accused her of being a psychopath, as with a knife on a subway, as the reason it could not be shared.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
+        "N-10606",
         "N-10000"
       ],
       "tags": [],
@@ -2235,7 +2218,7 @@
       "claim": "The host says TPUSA put up a recreation of the tent Charlie Kirk died under for selfies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10376",
+        "N-10349",
         "N-10000"
       ],
       "tags": [],
@@ -2278,7 +2261,7 @@
       "claim": "The host says that, according to Laura Loomer, she speaks to Donald Trump by phone multiple times a day, and that one of his first calls after attacking Iran was to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:35:03",
@@ -2333,7 +2316,7 @@
       "claim": "The host says Laura Loomer is not allowed to own guns, and later that there are 50 states in which she cannot own one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [],
       "claim_timestamp": "00:36:45",
@@ -2405,7 +2388,7 @@
       "claim": "The host says the question to ask is whether Donald Trump is mentally fit if he makes a conscious decision to tweet out that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10590"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:39:28",
@@ -2444,7 +2427,7 @@
       "claim": "The host says prosecutors dumped 600,000 files on Tyler Robinson's defense in March, about seven months into the case, making a continuance reasonable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10570"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:44:48",
@@ -2465,8 +2448,8 @@
       "claim": "The host says the defense asked not to set a date until discovery was in hand, and the judge replied that the date could always be bumped. She says a refusal now, after Erika Kirk asserted her victim's rights, would be telling.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10626",
-        "N-10570"
+        "N-10572",
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:44:48",
@@ -2485,7 +2468,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-10751"
+        "N-10681"
       ],
       "tags": [],
       "claim_timestamp": "00:47:03",
@@ -2507,8 +2490,7 @@
       "claim": "The host says she learned early on that Erika Kirk had moved Charlie Kirk's body a couple of times.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10751",
-        "N-10759"
+        "N-10681"
       ],
       "tags": [],
       "claim_timestamp": "00:47:03",
@@ -2527,8 +2509,8 @@
       "claim": "The host says Charlie Kirk's body was first taken to a burial plus cremation services provider and then somewhere else, and asks whether he was cremated after a Catholic funeral mass.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10751",
-        "N-10323"
+        "N-10681",
+        "N-10193"
       ],
       "tags": [],
       "claim_timestamp": "00:48:09",
@@ -2549,7 +2531,7 @@
         "A-2543.1"
       ],
       "related_nodes": [
-        "N-10751"
+        "N-10681"
       ],
       "tags": [],
       "claim_timestamp": "00:49:03",
@@ -2586,7 +2568,7 @@
       "claim": "The host says that in the affidavits, ellipses in Tyler Robinson's previously released messages have been filled with added sentences. One, sent to Lance Twiggs, reads \"I hope that pooch has a bad sniffer.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [],
       "claim_timestamp": "00:51:43",
@@ -2621,7 +2603,7 @@
       "claim": "The host says Victor Marx did not want to join Corby Hall on the show, so she kept her appointment with Hall for an interview airing the next day. She says Marx had demanded to bring his wife and set terms of engagement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [],
       "claim_timestamp": "00:54:47",

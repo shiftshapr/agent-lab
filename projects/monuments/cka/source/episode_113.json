@@ -19,10 +19,10 @@
     "- **Model Version**: claude-manual-extract-seq113",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Hole-minted Nodes (reintro-ep113): N-10865",
+    "  - Hole-minted Nodes (reintro-ep113): N-10786",
     "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-10961, N-10964, N-10965, N-10966, N-10967",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-591, N-659, N-663, N-664, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-672, N-10962, N-10963",
+    "  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-10882, N-10885, N-10886, N-10887, N-10888",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-591, N-659, N-663, N-664, N-10000, N-10008, N-10026, N-10067, N-10342, N-10390, N-10496, N-10574, N-10606, N-10611, N-10637, N-10820, N-10876, N-672, N-10883, N-10884",
     "  - Claim Range: C-9818–C-9866",
     "  - (see registers)",
     "",
@@ -85,7 +85,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9819, C-9820, N-659, N-178, N-10955*"
+     "raw": "*Related: C-9819, C-9820, N-659, N-178, N-10876*"
     },
     {
      "raw": ""
@@ -128,7 +128,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9826, C-9827, C-9828, N-178, N-663, N-664, N-10955*"
+     "raw": "*Related: C-9826, C-9827, C-9828, N-178, N-663, N-664, N-10876*"
     },
     {
      "raw": ""
@@ -171,7 +171,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-178, N-10955*"
+     "raw": "*Related: N-178, N-10876*"
     },
     {
      "raw": ""
@@ -284,7 +284,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9829, C-9830, N-668, N-669, N-10955*"
+     "raw": "*Related: C-9829, C-9830, N-668, N-669, N-10876*"
     },
     {
      "raw": ""
@@ -344,7 +344,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9832, C-9834, N-5, N-10961, N-10962*"
+     "raw": "*Related: C-9832, C-9834, N-5, N-10882, N-10883*"
     },
     {
      "raw": ""
@@ -380,7 +380,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-10955, N-10961, N-10962, N-10963*"
+     "raw": "*Related: N-10876, N-10882, N-10883, N-10884*"
     },
     {
      "raw": ""
@@ -440,7 +440,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9836, C-9837, C-9838, N-591, N-670, N-5, N-10964*"
+     "raw": "*Related: C-9836, C-9837, C-9838, N-591, N-670, N-5, N-10885*"
     },
     {
      "raw": ""
@@ -519,7 +519,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9840, N-591, N-10964*"
+     "raw": "*Related: C-9840, N-591, N-10885*"
     },
     {
      "raw": ""
@@ -562,7 +562,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-591, N-671, N-672, N-10963, N-10965*"
+     "raw": "*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-591, N-671, N-672, N-10884, N-10886*"
     },
     {
      "raw": ""
@@ -622,7 +622,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9847, C-9848, N-10966, N-10026*"
+     "raw": "*Related: C-9847, C-9848, N-10887, N-10026*"
     },
     {
      "raw": ""
@@ -725,7 +725,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9851, C-9853, C-9860, N-1, N-2, N-10664*"
+     "raw": "*Related: C-9851, C-9853, C-9860, N-1, N-2, N-10606*"
     },
     {
      "raw": ""
@@ -931,7 +931,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9857, C-9858, N-10967, N-10026*"
+     "raw": "*Related: C-9857, C-9858, N-10888, N-10026*"
     },
     {
      "raw": ""
@@ -984,7 +984,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9862, C-9863, C-9864, N-433, N-10671, N-10700*"
+     "raw": "*Related: C-9862, C-9863, C-9864, N-433, N-10611, N-10637*"
     },
     {
      "raw": ""
@@ -1551,8 +1551,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10955",
-   "header": "**N-10955** Sazan Island",
+   "id": "N-10876",
+   "header": "**N-10876** Sazan Island",
    "label": "Sazan Island",
    "lines": [
     {
@@ -1578,8 +1578,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10961",
-   "header": "**N-10961** Kharg Island",
+   "id": "N-10882",
+   "header": "**N-10882** Kharg Island",
    "label": "Kharg Island",
    "lines": [
     {
@@ -1605,8 +1605,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10962",
-   "header": "**N-10962** Venezuela",
+   "id": "N-10883",
+   "header": "**N-10883** Venezuela",
    "label": "Venezuela",
    "lines": [
     {
@@ -1632,8 +1632,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10963",
-   "header": "**N-10963** Cuba",
+   "id": "N-10884",
+   "header": "**N-10884** Cuba",
    "label": "Cuba",
    "lines": [
     {
@@ -1659,8 +1659,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10964",
-   "header": "**N-10964** US Central Command (CENTCOM)",
+   "id": "N-10885",
+   "header": "**N-10885** US Central Command (CENTCOM)",
    "label": "US Central Command (CENTCOM)",
    "lines": [
     {
@@ -1686,8 +1686,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10965",
-   "header": "**N-10965** Guantanamo Bay",
+   "id": "N-10886",
+   "header": "**N-10886** Guantanamo Bay",
    "label": "Guantanamo Bay",
    "lines": [
     {
@@ -1713,8 +1713,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10966",
-   "header": "**N-10966** The Spectator (US edition)",
+   "id": "N-10887",
+   "header": "**N-10887** The Spectator (US edition)",
    "label": "The Spectator (US edition)",
    "lines": [
     {
@@ -1740,8 +1740,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10967",
-   "header": "**N-10967** Haaretz",
+   "id": "N-10888",
+   "header": "**N-10888** Haaretz",
    "label": "Haaretz",
    "lines": [
     {
@@ -1836,8 +1836,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10070",
-   "header": "**N-10070** Daily Mail",
+   "id": "N-10067",
+   "header": "**N-10067** Daily Mail",
    "label": "Daily Mail",
    "lines": [
     {
@@ -1859,8 +1859,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10367",
-   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "id": "N-10342",
+   "header": "**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "lines": [
     {
@@ -1882,8 +1882,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10417",
-   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "id": "N-10390",
+   "header": "**N-10390** Fort Huachuca Erika Presence Investigation",
    "label": "Fort Huachuca Erika Presence Investigation",
    "lines": [
     {
@@ -1905,31 +1905,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10472",
-   "header": "**N-10472** Fort Huachuca Alibi Investigation",
-   "label": "Fort Huachuca Alibi Investigation",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "The host says Erika Kirk has not provided an alibi and that Paramount Tactical debunked the one offered."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-9866*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10541",
-   "header": "**N-10541** Strait of Hormuz / US-Iran War Context",
+   "id": "N-10496",
+   "header": "**N-10496** Strait of Hormuz / US-Iran War Context",
    "label": "Strait of Hormuz / US-Iran War Context",
    "lines": [
     {
@@ -1951,8 +1928,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10628",
-   "header": "**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+   "id": "N-10574",
+   "header": "**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
    "label": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
    "lines": [
     {
@@ -1974,8 +1951,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10664",
-   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "id": "N-10606",
+   "header": "**N-10606** Charlie Kirk Aspen Audio Authenticity Question",
    "label": "Charlie Kirk Aspen Audio Authenticity Question",
    "lines": [
     {
@@ -1997,8 +1974,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10671",
-   "header": "**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest",
+   "id": "N-10611",
+   "header": "**N-10611** SAM702 / Fort Huachuca September 9 Passenger Manifest",
    "label": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
    "lines": [
     {
@@ -2020,8 +1997,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10700",
-   "header": "**N-10700** Pending FOIA Requests",
+   "id": "N-10637",
+   "header": "**N-10637** Pending FOIA Requests",
    "label": "Pending FOIA Requests",
    "lines": [
     {
@@ -2043,8 +2020,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10865",
-   "header": "**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+   "id": "N-10786",
+   "header": "**N-10786** Erika Heaven-Focused Political Non-Answers / CEO Fitness",
    "label": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
    "lines": [
     {
@@ -2066,8 +2043,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -2135,7 +2112,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10865"
+     "v": "N-10000, N-10786"
     },
     {
      "k": "Investigative Direction",
@@ -2192,7 +2169,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2249,7 +2226,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2597,7 +2574,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2654,7 +2631,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2711,7 +2688,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2768,7 +2745,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2825,7 +2802,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10955"
+     "v": "N-10876"
     },
     {
      "k": "Investigative Direction",
@@ -2883,7 +2860,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10541"
+     "v": "N-10496"
     },
     {
      "k": "Investigative Direction",
@@ -2940,7 +2917,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10961"
+     "v": "N-10882"
     },
     {
      "k": "Investigative Direction",
@@ -2998,7 +2975,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10961"
+     "v": "N-10882"
     },
     {
      "k": "Investigative Direction",
@@ -3055,7 +3032,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10962"
+     "v": "N-10883"
     },
     {
      "k": "Investigative Direction",
@@ -3114,7 +3091,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10962, N-10026"
+     "v": "N-10883, N-10026"
     },
     {
      "k": "Supports",
@@ -3175,7 +3152,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10964, N-10541"
+     "v": "N-10885, N-10496"
     },
     {
      "k": "Investigative Direction",
@@ -3232,7 +3209,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10964, N-10541"
+     "v": "N-10885, N-10496"
     },
     {
      "k": "Investigative Direction",
@@ -3405,7 +3382,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10964"
+     "v": "N-10885"
     },
     {
      "k": "Investigative Direction",
@@ -3462,7 +3439,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10965"
+     "v": "N-10886"
     },
     {
      "k": "Investigative Direction",
@@ -3520,7 +3497,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10628"
+     "v": "N-10574"
     },
     {
      "k": "Investigative Direction",
@@ -3577,7 +3554,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10965"
+     "v": "N-10886"
     },
     {
      "k": "Investigative Direction",
@@ -3634,7 +3611,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10963"
+     "v": "N-10884"
     },
     {
      "k": "Investigative Direction",
@@ -3691,7 +3668,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10963, N-10964"
+     "v": "N-10884, N-10885"
     },
     {
      "k": "Investigative Direction",
@@ -3749,7 +3726,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10965"
+     "v": "N-10886"
     },
     {
      "k": "Investigative Direction",
@@ -3807,7 +3784,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10966"
+     "v": "N-10887"
     },
     {
      "k": "Investigative Direction",
@@ -3865,7 +3842,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10966, N-10026"
+     "v": "N-10887, N-10026"
     },
     {
      "k": "Investigative Direction",
@@ -3979,7 +3956,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Supports",
@@ -4040,7 +4017,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Supports",
@@ -4101,7 +4078,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -4158,7 +4135,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664, N-10000"
+     "v": "N-10606, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -4332,7 +4309,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10070, N-10664"
+     "v": "N-10000, N-10067, N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -4390,7 +4367,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10967, N-10026"
+     "v": "N-10888, N-10026"
     },
     {
      "k": "Investigative Direction",
@@ -4566,7 +4543,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664"
+     "v": "N-10606"
     },
     {
      "k": "Investigative Direction",
@@ -4682,7 +4659,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10700, N-10671"
+     "v": "N-10637, N-10611"
     },
     {
      "k": "Investigative Direction",
@@ -4739,7 +4716,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10671, N-10700"
+     "v": "N-10611, N-10637"
     },
     {
      "k": "Investigative Direction",
@@ -4796,7 +4773,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10671, N-10417"
+     "v": "N-10611, N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -4854,7 +4831,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10367, N-10417"
+     "v": "N-10342, N-10390"
     },
     {
      "k": "Supports",
@@ -4916,7 +4893,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10472"
+     "v": "N-10820, N-10390"
     },
     {
      "k": "Supports",
@@ -5814,7 +5791,7 @@
     "- **Artifacts verbally referenced but not shown**: A-2645.1 (the Hansell FOIA request and response). The Daily Mail article on withholding the video and the host's prior-day naming of donors are referenced but not shown. A studio cutout of Laura Loomer holding a long \"receipt\" (25:19) is a comedy prop and is recorded only as meme context.",
     "- **Episode metadata**: the skeleton's Video Timestamp Range was 00:56:29; it is set to 00:47:48 from the transcript front matter.",
     "- **Name matching**: the host repeatedly says \"Pete Buttigieg\" (21:34) when she means Pete Hegseth; all are mapped to N-591. \"Larry Loomer\" is the host's running nickname for Laura Loomer (N-60). \"Andrew Kolvet\", \"Andrew Kovacs\" and \"Kovacs\" are mapped to N-14 Andrew Kolvet. \"Brad Hansell\" is mapped to N-433 Bradley Hansell. \"Prime Minister Rama\" is assumed to be Edi Rama (N-664); the transcript gives only the surname. \"Admiral Cooper, the commander of CENTCOM\" (N-670) is likely Adm. Brad Cooper, but only the surname airs. \"Brian knows that\" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. \"Erika Frantz Paye\" in a viewer comment is a variant of Erika Frantzve (N-2). \"Nathaniel\" and \"Nathan Rothschild\" are taken as Nat Rothschild (N-663).",
-    "- **Transcription ambiguities**: \"Cezanne\" (13:42) is Sazan; \"Karg Island\" is Kharg; \"trolling at WLS\" refers to YWLS; \"Sam 702\" is linked to N-10671 (SAM702). \"in 1950 1959\" is a self-correction, and 1959 is used.",
+    "- **Transcription ambiguities**: \"Cezanne\" (13:42) is Sazan; \"Karg Island\" is Kharg; \"trolling at WLS\" refers to YWLS; \"Sam 702\" is linked to N-10611 (SAM702). \"in 1950 1959\" is a self-correction, and 1959 is used.",
     "- **Possible host errors kept as spoken**: the host says \"the Roman name for Pluto is Hades\" (Hades is the Greek name); she calls Enver Hoxha \"prime minister\" (he was also First Secretary); she gives Iran's population as \"150 million\". C-9865 places the hotel sighting \"on the base\" on \"the 8th\"; prior claim C-4347 names the Candlewood Inn & Suites, so the two are consistent.",
     "- **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-9849, C-9850 and C-9852 mention both.",
     "- **DIA scan**: the only hit is \"candaceowens. com\" (42:59) in a merch plug for the Stand With Candace mug, not a tip request, so it is not a DIA beat. No tip, bounty or Decentralized Intelligence Agency beats air.",

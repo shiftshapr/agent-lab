@@ -503,7 +503,7 @@
           ],
           "related_nodes": [
             "N-430",
-            "N-10657"
+            "N-10599"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1050,8 +1050,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10058",
-      "ref": "N-10058",
+      "@id": "N-10055",
+      "ref": "N-10055",
       "name": "BBC",
       "type": "investigation_target",
       "description": "BBC; broadcaster of the 2013 Kanye interview clip.",
@@ -1067,8 +1067,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10061",
-      "ref": "N-10061",
+      "@id": "N-10058",
+      "ref": "N-10058",
       "name": "CIA Operation Mockingbird",
       "type": "investigation_target",
       "description": "CIA Operation Mockingbird; the host says the New York Times was involved.",
@@ -1084,8 +1084,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10062",
-      "ref": "N-10062",
+      "@id": "N-10059",
+      "ref": "N-10059",
       "name": "Orem, Utah",
       "type": "investigation_target",
       "description": "Orem, Utah; location of the hospital waiting room in the Deseret News account.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the Zoom call claims.",
@@ -1126,8 +1126,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10201",
-      "ref": "N-10201",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the funeral fireworks claims.",
@@ -1146,8 +1146,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for the Netanyahu offer claims.",
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10657",
-      "ref": "N-10657",
+      "@id": "N-10599",
+      "ref": "N-10599",
       "name": "Salem Media Foreign Agent Registration Status",
       "type": "investigation_target",
       "description": "Existing topic reused for the Salem Media claims.",
@@ -1186,8 +1186,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "Existing topic reused for the foreign agent filing claims.",
@@ -1204,8 +1204,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the Denali and whereabouts claims.",
@@ -1224,8 +1224,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10805",
-      "ref": "N-10805",
+      "@id": "N-10729",
+      "ref": "N-10729",
       "name": "Debate Israel Focus",
       "type": "investigation_target",
       "description": "Existing topic reused for the debate-help explanation.",
@@ -1241,8 +1241,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Department of War; named in the host's claims about TPUSA and revenge.",
@@ -1260,8 +1260,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Daily Wire; the host's former employer in the Kanye statement and contract claims.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
       "type": "investigation_target",
       "description": "Existing topic reused for the New York Times apartment interview claim.",
@@ -1297,8 +1297,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10914",
-      "ref": "N-10914",
+      "@id": "N-10835",
+      "ref": "N-10835",
       "name": "Show Faith by Works LLC",
       "type": "investigation_target",
       "description": "Show Faith by Works LLC; named by the host as a FARA registrant.",
@@ -1315,8 +1315,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "The New York Times; publisher of Erika Kirk's op-ed.",
@@ -1336,8 +1336,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11061",
-      "ref": "N-11061",
+      "@id": "N-10979",
+      "ref": "N-10979",
       "name": "Restaurantology Event Green Room Attendance Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the Restaurantology attendance claim.",
@@ -1653,7 +1653,7 @@
       "claim": "The host says the same people who told the audience that overwhelming happiness and fireworks at Charlie Kirk's funeral were normal then argued that happiness and fireworks at a Ye concert a year later were unacceptable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:context"
@@ -1675,7 +1675,7 @@
       "claim": "The host says the excuse offered for the fireworks at Charlie Kirk's funeral was that Charlie loved pyrotechnics, and she calls that a bizarre way to argue that people were wrong to feel uneasy about the celebratory tone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:context"
@@ -1796,7 +1796,7 @@
         "A-2342.1"
       ],
       "related_nodes": [
-        "N-10058"
+        "N-10055"
       ],
       "tags": [
         "relevance:tangential"
@@ -1834,7 +1834,7 @@
       "claim": "The host says that for a long time the media had the power to create and delete people with what seemed like a Department of Defense level budget, and that the media operated as digital assassins until Ye.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [
         "relevance:tangential"
@@ -1872,7 +1872,7 @@
       "claim": "The host says that after Kanye tweeted he would go Defcon 3 on some Jewish people, everyone with a platform was pressed to condemn him, and her Daily Wire colleagues needed her in particular to make a statement because they knew she was his friend.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -1896,7 +1896,7 @@
       "claim": "The host says a Daily Wire co-CEO banged his fists in a heated conference and asked why she would not make a statement, asking whether she realized how hard it was for Ben that she would not.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -1917,7 +1917,7 @@
       "claim": "The host says she held the line on not condemning Kanye, lost millions because of it, and that the Daily Wire edited her contract with a different clause because of what Kanye said.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -1957,7 +1957,7 @@
       "claim": "The host says that she knows what Andrew told her, namely that Bibi Netanyahu offered to take Turning Point to the next level.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10000"
       ],
       "tags": [
@@ -1983,7 +1983,7 @@
       "claim": "The host says Charlie Kirk was at a table in his final weeks where offers were made to him and that she thinks everyone knows he said no, as Ye did.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -2026,7 +2026,7 @@
       "claim": "The host says that about a year and a half later, when her departure from the Daily Wire (which she calls being fired) was announced, she tweeted \"The rumors are true. I am finally free.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2103,7 +2103,7 @@
       "claim": "The host says that she and others working for the truth know that the Department of War is seeking revenge on them for doing so, and that revenge will not beat the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [
         "relevance:context"
@@ -2210,7 +2210,7 @@
       "claim": "The host says that although Neff flew into Salt Lake City with Charlie aboard Charlie's jets on September 10, he got into the second rental, a Denali, with Danny Philip and perhaps others, and then arrived at the event from the back seat as if someone else had been in the front.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2236,8 +2236,8 @@
       "claim": "The host says neither Danny Philip nor Blake Neff attended the Restaurantology event that morning where Charlie gave an interview.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11061",
-        "N-10715"
+        "N-10979",
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2259,7 +2259,7 @@
       "claim": "The host says Neff cannot account for where he was, says he was keeping time, did not remember who he was with, and had to be reminded that he was with Danny, who was driving the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2374,7 +2374,7 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-10062"
+        "N-10059"
       ],
       "tags": [
         "relevance:core"
@@ -2444,7 +2444,7 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-10062"
+        "N-10059"
       ],
       "tags": [
         "relevance:core"
@@ -2468,7 +2468,7 @@
         "A-2347.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2556,7 +2556,7 @@
         "A-2348.1"
       ],
       "related_nodes": [
-        "N-10968"
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2579,8 +2579,8 @@
       "claim": "The host says the New York Times was the first publication Erika partnered with and that she opened the family's apartment to an in-person interview about two days after Charlie's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905",
-        "N-10968"
+        "N-10826",
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2601,7 +2601,7 @@
       "claim": "The host says Charlie never wrote an op-ed for the New York Times, that his opinion of the paper is documented throughout his career, and that he regarded it as a fixture of the deep state apparatus and read it to know its perspective.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968"
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2623,7 +2623,7 @@
         "A-2345.1"
       ],
       "related_nodes": [
-        "N-10968"
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2646,7 +2646,7 @@
       "claim": "The host, addressing Erika, says Turning Point 2.0 is a totally different organization and that Erika works with the Department of War and the deep state apparatus and is their emotional asset.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
+        "N-10809",
         "N-10000"
       ],
       "tags": [
@@ -2863,8 +2863,8 @@
       "claim": "The host says that the New York Times was involved in Operation Mockingbird, after what she calls a different state assassination, the assassination of JFK.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10061",
-        "N-10968"
+        "N-10058",
+        "N-10889"
       ],
       "tags": [
         "relevance:tangential"
@@ -2931,7 +2931,7 @@
         "A-2899.1"
       ],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2955,7 +2955,7 @@
       "claim": "The host says the description of the call participants came from Frank Turek and that there were two Israeli officials on it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2975,7 +2975,7 @@
       "claim": "The host says Rabbi Wolicki was on the call, correcting herself that it was a Zoom call rather than FaceTime because he was in Arizona, and that Josh Hammer was on it too.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2999,7 +2999,7 @@
       "claim": "The host says the Zoom call came just two hours after Charlie said he was abandoning the pro-Israel cause, and that he was not kidding or speaking tongue in cheek.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3043,7 +3043,7 @@
       "claim": "The host says Erika was getting her nails done while the call was going on and that the story about it is now changing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3126,8 +3126,8 @@
         "A-2350.2"
       ],
       "related_nodes": [
-        "N-10805",
-        "N-10169"
+        "N-10729",
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3147,7 +3147,7 @@
       "claim": "The host says Josh Hammer said Charlie was just really interested in Hammer's book and wanted to know more about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3168,7 +3168,7 @@
       "claim": "The host says Frank Turek was on the call and questions why so many people would be giving Charlie debate tips, including Hammer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3191,7 +3191,7 @@
         "A-2350.3"
       ],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -3214,7 +3214,7 @@
         "A-2350.3"
       ],
       "related_nodes": [
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -3259,7 +3259,7 @@
         "A-2350.5"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [
         "relevance:core"
@@ -3284,7 +3284,7 @@
         "A-2350.5"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [
         "relevance:core"
@@ -3303,9 +3303,9 @@
         "A-2900.1"
       ],
       "related_nodes": [
-        "N-10657",
-        "N-10662",
-        "N-10914"
+        "N-10599",
+        "N-10604",
+        "N-10835"
       ],
       "tags": [
         "relevance:core"
@@ -3327,8 +3327,8 @@
         "A-2900.1"
       ],
       "related_nodes": [
-        "N-10662",
-        "N-10657"
+        "N-10604",
+        "N-10599"
       ],
       "tags": [
         "relevance:core"
@@ -3347,7 +3347,7 @@
         "A-2900.1"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [
         "relevance:core"
@@ -3372,8 +3372,8 @@
         "A-2350.5"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10657"
+        "N-10835",
+        "N-10599"
       ],
       "tags": [
         "relevance:core"

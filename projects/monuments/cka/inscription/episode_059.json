@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-470",
-            "N-10425"
+            "N-10398"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,7 +57,7 @@
           ],
           "related_nodes": [
             "N-470",
-            "N-10425"
+            "N-10398"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,8 +86,8 @@
           ],
           "related_nodes": [
             "N-270",
-            "N-10425",
-            "N-10426"
+            "N-10398",
+            "N-10399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
           ],
           "related_nodes": [
             "N-471",
-            "N-10425"
+            "N-10398"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -141,7 +141,7 @@
           "description": "Cattleman's Ball website displayed on screen, showing multi-state event locations including Texas, Kansas, Oregon, Florida, and Nebraska",
           "related_claims": [],
           "related_nodes": [
-            "N-10425"
+            "N-10398"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -196,7 +196,7 @@
           ],
           "related_nodes": [
             "N-472",
-            "N-10427"
+            "N-10251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
           ],
           "related_nodes": [
             "N-472",
-            "N-10427"
+            "N-10251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10427"
+            "N-10251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
             "C-5304"
           ],
           "related_nodes": [
-            "N-10427"
+            "N-10251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10428"
+            "N-10392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10428"
+            "N-10392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,7 +326,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10428"
+            "N-10392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -355,7 +355,7 @@
             "N-17",
             "N-473",
             "N-474",
-            "N-10429"
+            "N-10134"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -441,7 +441,7 @@
           "description": "\"Scrub Girl\" comment read aloud, stating \"I grew up in Converse, Texas, and no New Braunfels/New Braunfels, Texas… it's definitely expanding rapidly the past couple of years. Yeah, I believe that there is some military stuff. One person said to me that it was an intel base.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10426"
+            "N-10399"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -500,7 +500,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-10428"
+            "N-10392"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -723,8 +723,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-470",
-        "N-10425",
-        "N-10426"
+        "N-10398",
+        "N-10399"
       ]
     },
     {
@@ -758,7 +758,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-270",
-        "N-10425"
+        "N-10398"
       ]
     },
     {
@@ -777,8 +777,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-471",
-        "N-10425",
-        "N-10426"
+        "N-10398",
+        "N-10399"
       ]
     },
     {
@@ -804,7 +804,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-266",
-        "N-10425"
+        "N-10398"
       ]
     },
     {
@@ -823,7 +823,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-270",
-        "N-10425"
+        "N-10398"
       ]
     },
     {
@@ -843,7 +843,7 @@
       "related_nodes": [
         "N-1",
         "N-270",
-        "N-10425"
+        "N-10398"
       ]
     },
     {
@@ -883,7 +883,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ]
     },
     {
@@ -901,7 +901,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ]
     },
     {
@@ -920,7 +920,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-461",
-        "N-10426"
+        "N-10399"
       ]
     },
     {
@@ -939,7 +939,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-460",
-        "N-10426"
+        "N-10399"
       ]
     },
     {
@@ -961,7 +961,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10429"
+        "N-10134"
       ]
     },
     {
@@ -983,7 +983,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10429"
+        "N-10134"
       ]
     },
     {
@@ -1005,7 +1005,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10429"
+        "N-10134"
       ]
     },
     {
@@ -1029,8 +1029,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10425",
-      "ref": "N-10425",
+      "@id": "N-10398",
+      "ref": "N-10398",
       "name": "Dan Flood Family Law Enforcement Network",
       "type": "investigation_target",
       "description": "Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10426",
-      "ref": "N-10426",
+      "@id": "N-10399",
+      "ref": "N-10399",
       "name": "New Braunfels Texas Security Personnel Cluster",
       "type": "investigation_target",
       "description": "Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.",
@@ -1084,9 +1084,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10427",
-      "ref": "N-10427",
-      "name": "TPUSA Drone Story Discrepancy",
+      "@id": "N-10251",
+      "ref": "N-10251",
+      "name": "TPUSA Drone Disclosure Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turek (drone footage with Charlie), Andrew Kolvet (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
       "related_artifacts": [
@@ -1109,8 +1109,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10428",
-      "ref": "N-10428",
+      "@id": "N-10392",
+      "ref": "N-10392",
       "name": "Erika Kirk China Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target reconciling three artifact-anchored statements about Erika Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
@@ -1135,9 +1135,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10429",
-      "ref": "N-10429",
-      "name": "Operation Mocking Pastor / Cornerstone Chapel Event",
+      "@id": "N-10134",
+      "ref": "N-10134",
+      "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.",
       "related_artifacts": [
@@ -1463,8 +1463,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
       "description": "Fort Huachuca September 8-9, 2025 Eyewitness Encounter; the topic behind Mitch Snow's account.",
@@ -1480,8 +1480,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Romania / Eastern Europe Trafficking Cluster; related to Erika's Romanian orphanage work and the host's trafficking theme.",
@@ -1499,8 +1499,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@id": "N-10394",
+      "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
       "type": "investigation_target",
       "description": "Buckman-TPUSA Donor Relationship Investigation; covers the top donors and the $10 million gift.",
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
       "type": "investigation_target",
       "description": "GATE / Gifted Education Program Investigation; reused for the commenters' memory reports.",
@@ -1534,8 +1534,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
       "type": "investigation_target",
       "description": "Dan Flood Role and Behavior Assessment; reused for Flood's reported security presence at the event.",
@@ -1551,8 +1551,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Paramount Tactical; the host says it told them the shot Frank Turek saw was only the wide shot.",
@@ -1569,8 +1569,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11038",
-      "ref": "N-11038",
+      "@id": "N-10956",
+      "ref": "N-10956",
       "name": "Shaffer Security",
       "type": "investigation_target",
       "description": "Shaffer Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).",
@@ -1586,8 +1586,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11122",
-      "ref": "N-11122",
+      "@id": "N-11040",
+      "ref": "N-11040",
       "name": "Creative Children's Academy / Quest Academy",
       "type": "investigation_target",
       "description": "Creative Children's Academy / Quest Academy; the school the host calls the X-Men school.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11166",
-      "ref": "N-11166",
+      "@id": "N-11082",
+      "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
       "type": "investigation_target",
       "description": "Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China work.",
@@ -1622,8 +1622,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11387",
-      "ref": "N-11387",
+      "@id": "N-11303",
+      "ref": "N-11303",
       "name": "Cattle Baron's Ball / Cattleman's Ball",
       "type": "organization",
       "description": "The Dallas-founded American Cancer Society single-night fundraiser and a separate 501c3 Cattleman's Ball benefiting the Fred and Pamela Buffett Cancer Center, as described by the host; the emailer alleges the events launder money to buy off US police, which the host cannot confirm.",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11388",
-      "ref": "N-11388",
+      "@id": "N-11304",
+      "ref": "N-11304",
       "name": "Anonymous Emailer Cattleman's Ball and Flood Family Claims",
       "type": "topic",
       "description": "Allegations the host relays from an anonymous emailer: JFK and Kirk assassination links, a Cattleman's Ball money laundering scheme and a connection of Dan Flood and his father to both; the host stresses she cannot verify them.",
@@ -1671,7 +1671,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1690,7 +1690,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1709,7 +1709,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
@@ -1728,7 +1728,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
@@ -1747,7 +1747,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
@@ -1766,7 +1766,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
@@ -1785,7 +1785,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
@@ -1804,7 +1804,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:09:03",
@@ -1823,7 +1823,7 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
@@ -1844,7 +1844,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:12:58",
@@ -1863,7 +1863,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10426"
+        "N-10399"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
@@ -1882,7 +1882,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
@@ -1901,7 +1901,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:14:28",
@@ -1920,7 +1920,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1939,7 +1939,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1958,7 +1958,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
@@ -1995,7 +1995,7 @@
         "A-1648.1"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [],
       "claim_timestamp": "00:28:10",
@@ -2011,7 +2011,7 @@
         "A-1650.2"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
@@ -2030,7 +2030,7 @@
         "A-1650.3"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
@@ -2051,7 +2051,7 @@
         "A-1650.1"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
@@ -2070,7 +2070,7 @@
         "A-1651.1"
       ],
       "related_nodes": [
-        "N-10429"
+        "N-10134"
       ],
       "tags": [],
       "claim_timestamp": "00:34:31",
@@ -2160,7 +2160,7 @@
         "A-3303.1"
       ],
       "related_nodes": [
-        "N-11388"
+        "N-11304"
       ],
       "tags": [
         "relevance:context"
@@ -2184,8 +2184,8 @@
         "A-3303.1"
       ],
       "related_nodes": [
-        "N-11387",
-        "N-11388"
+        "N-11303",
+        "N-11304"
       ],
       "tags": [
         "relevance:tangential"
@@ -2226,7 +2226,7 @@
         "A-1646.1"
       ],
       "related_nodes": [
-        "N-11387"
+        "N-11303"
       ],
       "tags": [
         "relevance:context"
@@ -2248,7 +2248,7 @@
         "A-1646.1"
       ],
       "related_nodes": [
-        "N-11387"
+        "N-11303"
       ],
       "tags": [
         "relevance:context"
@@ -2270,8 +2270,8 @@
         "A-3303.1"
       ],
       "related_nodes": [
-        "N-11388",
-        "N-10425"
+        "N-11304",
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2294,7 +2294,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2317,7 +2317,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2340,7 +2340,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2363,7 +2363,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2385,7 +2385,7 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2426,7 +2426,7 @@
       "claim": "The host says she cannot assert it with certainty but would bet that Robert Eugene Flood probably knew Bill Montgomery, who convinced Charlie Kirk to start Turning Point USA in Illinois in the same neighborhood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2471,7 +2471,7 @@
       "claim": "The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy [Creative Children's Academy].",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2492,7 +2492,7 @@
       "claim": "The host says that Charlie Kirk attended the X-Men school after they wanted to drug him for being brilliant and his mother said no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2554,8 +2554,8 @@
       "claim": "The host says Bill Montgomery chose to hire Shaffer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Greg Shaffer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11038",
-        "N-10425"
+        "N-10956",
+        "N-10398"
       ],
       "tags": [
         "relevance:core"
@@ -2578,7 +2578,7 @@
       "claim": "The host says Greg Shaffer is from Dallas, worked for the FBI on the elite hostage rescue team, and was a supervisor on the Dallas Joint Terrorism Task Force.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:core"
@@ -2598,7 +2598,7 @@
       "claim": "The host says Greg Shaffer was at least stationed in Budapest, Hungary, which she calls another Eastern European connection.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2618,7 +2618,7 @@
       "claim": "The host says Turning Point's number one donor cut a $10 million check last year in June, referring to the Buckman couple.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:context"
@@ -2642,8 +2642,8 @@
       "claim": "The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city that people online tracking Erika Kirk's plane noticed it kept visiting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10426",
-        "N-10421"
+        "N-10399",
+        "N-10394"
       ],
       "tags": [
         "relevance:core"
@@ -2670,7 +2670,7 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2690,7 +2690,7 @@
       "claim": "The host says all of Charlie Kirk's security that day was from Texas, naming Rick Cutler, Dan Flood and Brian Harpole.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:core"
@@ -2713,7 +2713,7 @@
       "claim": "The host says Brian Harpole was also born in Dallas, Texas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:core"
@@ -2735,7 +2735,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2757,7 +2757,7 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2777,7 +2777,7 @@
       "claim": "The host says that Bobby Harpole is now working at a funeral home.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10425"
+        "N-10398"
       ],
       "tags": [
         "relevance:context"
@@ -2800,7 +2800,7 @@
         "A-3303.1"
       ],
       "related_nodes": [
-        "N-11388"
+        "N-11304"
       ],
       "tags": [
         "relevance:context"
@@ -2906,7 +2906,7 @@
         "A-3308.1"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -2932,7 +2932,7 @@
         "A-3308.2"
       ],
       "related_nodes": [
-        "N-10427",
+        "N-10251",
         "N-10012"
       ],
       "tags": [
@@ -2959,7 +2959,7 @@
         "A-1649.1"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -2979,7 +2979,7 @@
         "A-1649.1"
       ],
       "related_nodes": [
-        "N-10427",
+        "N-10251",
         "N-10012"
       ],
       "tags": [
@@ -3000,7 +3000,7 @@
         "A-1649.1"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3023,7 +3023,7 @@
         "A-1649.2"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3046,7 +3046,7 @@
         "A-1649.2"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:context"
@@ -3069,8 +3069,8 @@
         "A-1648.1"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10427"
+        "N-10820",
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3095,7 +3095,7 @@
         "A-3305.1"
       ],
       "related_nodes": [
-        "N-10427"
+        "N-10251"
       ],
       "tags": [
         "relevance:context"
@@ -3116,8 +3116,8 @@
       "claim": "The host says that Paramount Tactical and Andrew Kolvet had told them that what Frank Turek saw was only the wide shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10427"
+        "N-10820",
+        "N-10251"
       ],
       "tags": [
         "relevance:core"
@@ -3139,7 +3139,7 @@
       "claim": "The host says that last week she told viewers that the theme of sex trafficking, child sex trafficking in particular, is coming up too much in the investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -3164,8 +3164,8 @@
         "A-1650.1"
       ],
       "related_nodes": [
-        "N-11166",
-        "N-10428"
+        "N-11082",
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3190,8 +3190,8 @@
         "A-1650.1"
       ],
       "related_nodes": [
-        "N-10401",
-        "N-10428"
+        "N-10374",
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3213,7 +3213,7 @@
         "A-1650.3"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [
         "relevance:context"
@@ -3236,7 +3236,7 @@
         "A-1650.3"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3262,8 +3262,8 @@
         "A-3306.1"
       ],
       "related_nodes": [
-        "N-11166",
-        "N-10428"
+        "N-11082",
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3286,7 +3286,7 @@
         "A-3304.1"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3307,7 +3307,7 @@
       "claim": "The host says Cornerstone Church previously had a pastor on stage naming her (transcribed Candace Owens) and Tucker Carlson as repeating talking points.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10429"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -3328,7 +3328,7 @@
       "claim": "The host says somebody could ask Rob McCoy why he is trying to rehabilitate people who went to prison for harming children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10429"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -3414,7 +3414,7 @@
         "A-1653.1"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [
         "relevance:core"
@@ -3440,7 +3440,7 @@
         "A-1653.3"
       ],
       "related_nodes": [
-        "N-10426"
+        "N-10399"
       ],
       "tags": [
         "relevance:context"
@@ -3483,7 +3483,7 @@
         "A-1653.4"
       ],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:context"
@@ -3526,7 +3526,7 @@
         "A-1653.6"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:context"
@@ -3552,7 +3552,7 @@
         "A-1653.7"
       ],
       "related_nodes": [
-        "N-10428"
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3580,7 +3580,7 @@
       "claim": "The host recounts a commenter named Joe who argued that Mitch Snow abused women 20 years ago, so his Fort Huachuca account should not be heard, and says Baron Coleman rebutted her; the host does not endorse the allegation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:context"

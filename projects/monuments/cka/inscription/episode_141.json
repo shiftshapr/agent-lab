@@ -31,9 +31,9 @@
             "C-12143"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10794",
-            "N-10795"
+            "N-10136",
+            "N-10718",
+            "N-10719"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
             "C-12149"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -69,7 +69,7 @@
             "C-12153"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,7 +87,7 @@
             "C-12172"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -103,8 +103,8 @@
           "description": "Debate Segment – Screwdriver and Timeline Discussion",
           "related_claims": [],
           "related_nodes": [
-            "N-10141",
-            "N-10795"
+            "N-10136",
+            "N-10719"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
             "C-12124"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -138,7 +138,7 @@
           "description": "Debate Segment – Wilson's False Attribution of \"Girl Boss\" to Owens",
           "related_claims": [],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -254,7 +254,7 @@
             "C-12191"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -280,7 +280,7 @@
             "C-12180"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,8 +306,8 @@
             "C-12171"
           ],
           "related_nodes": [
-            "N-10141",
-            "N-10795"
+            "N-10136",
+            "N-10719"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -541,8 +541,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10794",
-      "ref": "N-10794",
+      "@id": "N-10718",
+      "ref": "N-10718",
       "name": "September 9, 2025 Message Nature Discrepancy",
       "type": "investigation_target",
       "description": "Persistent disagreement over whether the Charlie Kirk security message Wilson referenced in his opening statement was sent via Signal (per Wilson's prior framing) or iMessage (per Owens's prior public claim that she has seen the message).",
@@ -558,13 +558,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10795",
-      "ref": "N-10795",
+      "@id": "N-10719",
+      "ref": "N-10719",
       "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
       "type": "investigation_target",
       "description": "Wilson opened the debate stating he possesses never-before-seen messages from Charlie Kirk's security team dated September 9, 2025, and committed to dropping the underlying message text on his show following the debate; the message had not been released as of this episode.",
@@ -582,13 +582,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10796",
-      "ref": "N-10796",
+      "@id": "N-10720",
+      "ref": "N-10720",
       "name": "Turning Point USA Organizational State (Post-Debate)",
       "type": "investigation_target",
       "description": "Persistent investigation target tracking TPUSA's institutional conduct, public posture, and personnel alignment under Erika Kirk's leadership; episode contributes Wilson's performance and the post-debate social media reaction as additional data points.",
@@ -1108,8 +1108,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10090",
-      "ref": "N-10090",
+      "@id": "N-10086",
+      "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
       "type": "investigation_target",
       "description": "Topic tied to the planted-screwdriver exchange.",
@@ -1125,8 +1125,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10102",
-      "ref": "N-10102",
+      "@id": "N-10098",
+      "ref": "N-10098",
       "name": "Earpiece Rumor Debunking",
       "type": "investigation_target",
       "description": "Topic tied to the in-ear monitor claims.",
@@ -1144,8 +1144,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
       "type": "investigation_target",
       "description": "Topic tied to the Foreign Legion threat exchange.",
@@ -1161,8 +1161,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "investigation_target",
       "description": "Topic tied to the Converse sneakers identification testimony.",
@@ -1178,8 +1178,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Topic tied to the receipt and owner account.",
@@ -1198,8 +1198,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10507",
-      "ref": "N-10507",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
       "type": "investigation_target",
       "description": "Topic tied to the 'I have his cell phone' statement.",
@@ -1215,8 +1215,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10593",
-      "ref": "N-10593",
+      "@id": "N-10541",
+      "ref": "N-10541",
       "name": "Tyler Robinson Filing Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Topic tied to the dismissal filing and charges.",
@@ -1234,8 +1234,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
       "type": "investigation_target",
       "description": "Topic tied to the body cam remarks.",
@@ -1252,8 +1252,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10805",
-      "ref": "N-10805",
+      "@id": "N-10729",
+      "ref": "N-10729",
       "name": "Debate Israel Focus",
       "type": "investigation_target",
       "description": "Topic tied to the host's remarks on Wilson's focus on Israel and France.",
@@ -1269,9 +1269,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10816",
-      "ref": "N-10816",
-      "name": "Charlie Kirk September 9, 2025 Text Messages",
+      "@id": "N-10730",
+      "ref": "N-10730",
+      "name": "Charlie Kirk Pre-Event Text Messages",
       "type": "investigation_target",
       "description": "Topic tied to the content of the September 9 message.",
       "related_artifacts": [],
@@ -1306,8 +1306,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11066",
-      "ref": "N-11066",
+      "@id": "N-10984",
+      "ref": "N-10984",
       "name": "Wilson Debate Crucible Team Anonymity",
       "type": "topic",
       "description": "The anonymous 'Crucible team' that emailed the host's side for Wilson, the contract, escrow and Rogan-offer renegotiation, and the burner-phone contact.",
@@ -1329,8 +1329,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11067",
-      "ref": "N-11067",
+      "@id": "N-10985",
+      "ref": "N-10985",
       "name": "Wilson Debate Studio Access Dispute",
       "type": "topic",
       "description": "Dispute over what Wilson's party was entitled to do at the host's home: the live-stream setup demand, the basement entrance, the live call-in from the playroom and the no-filming clause.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11068",
-      "ref": "N-11068",
+      "@id": "N-10986",
+      "ref": "N-10986",
       "name": "Utah Rule 1102 Hearsay Standard",
       "type": "topic",
       "description": "Utah's Rule 1102, which the host says permits hearsay at the preliminary hearing and underpins her point about inference from evidence.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11069",
-      "ref": "N-11069",
+      "@id": "N-10987",
+      "ref": "N-10987",
       "name": "Host Debate Winnings Dispute",
       "type": "topic",
       "description": "The host's $300K payment from Wilson's offer, the demands that she donate it or set up a trust, and her stated plan to give to the Catholic Church.",
@@ -1398,8 +1398,8 @@
         "A-2277.1"
       ],
       "related_nodes": [
-        "N-10794",
-        "N-10795"
+        "N-10718",
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:18:36",
@@ -1565,7 +1565,7 @@
         "A-2283.1"
       ],
       "related_nodes": [
-        "N-10795"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:42:35",
@@ -1620,11 +1620,11 @@
         "A-2277.1"
       ],
       "related_nodes": [
-        "N-10794"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:19:49",
-      "investigative_direction": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10794).",
+      "investigative_direction": "Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10718).",
       "mentions_person_refs": [
         "N-2",
         "N-1"
@@ -1639,7 +1639,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10796"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:00:30",
@@ -1733,7 +1733,7 @@
         "A-2795.1"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [],
       "claim_timestamp": "00:03:50",
@@ -1754,7 +1754,7 @@
         "A-2795.1"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
@@ -1774,7 +1774,7 @@
         "A-2795.1"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -1795,7 +1795,7 @@
         "A-2795.1"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
@@ -1834,7 +1834,7 @@
         "A-2795.1"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -1873,7 +1873,7 @@
         "A-2795.2"
       ],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
@@ -1912,7 +1912,7 @@
         "A-2795.3"
       ],
       "related_nodes": [
-        "N-11066"
+        "N-10984"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -1934,7 +1934,7 @@
         "A-2795.3"
       ],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:11:10",
@@ -1955,8 +1955,8 @@
         "A-2795.1"
       ],
       "related_nodes": [
-        "N-11066",
-        "N-11067"
+        "N-10984",
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:12:08",
@@ -1975,7 +1975,7 @@
       "claim": "The host says Wilson turned up with Steven Crowder's team, naming Gerald Morgan as the person Wilson brought, and that this explained the secrecy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:13:18",
@@ -1996,7 +1996,7 @@
       "claim": "The host says her side had Wilson's party enter through the back basement door instead of the front door she normally uses for guests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
@@ -2015,7 +2015,7 @@
       "claim": "The host says Gerald decided to do a live call-in from her children's playroom just outside the studio, despite her explaining that filming was limited to the studio.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:14:15",
@@ -2053,7 +2053,7 @@
         "A-2795.2"
       ],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [],
       "claim_timestamp": "00:16:01",
@@ -2089,7 +2089,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10796"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:17:24",
@@ -2108,8 +2108,8 @@
       "claim": "The host says that within the first three minutes of the debate, Wilson made clear that TPUSA was backing him by citing a never-before-seen message, which she says makes Erika Kirk look like a liar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10795",
-        "N-10796"
+        "N-10719",
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:17:50",
@@ -2134,8 +2134,8 @@
         "A-2277.1"
       ],
       "related_nodes": [
-        "N-10794",
-        "N-10816"
+        "N-10718",
+        "N-10730"
       ],
       "tags": [],
       "claim_timestamp": "00:19:20",
@@ -2156,8 +2156,8 @@
         "A-2277.1"
       ],
       "related_nodes": [
-        "N-10794",
-        "N-10816"
+        "N-10718",
+        "N-10730"
       ],
       "tags": [],
       "claim_timestamp": "00:18:56",
@@ -2178,7 +2178,7 @@
         "A-2793.1"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10468"
       ],
       "tags": [],
       "claim_timestamp": "00:19:40",
@@ -2223,7 +2223,7 @@
       "claim": "The host says that at the Nashville meeting Erika Kirk told her the message was on Signal and that the team's Signal messages auto-delete, and that Erika did not know because, the host guesses, Dan Flood had not told her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10794"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:20:25",
@@ -2243,7 +2243,7 @@
       "claim": "The host says the message was actually sent by iMessage, that she told viewers Erika lied twice, and that she knows for a fact it was iMessage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10794"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:20:50",
@@ -2265,7 +2265,7 @@
       "claim": "The host says the TPUSA side expects people to believe Erika was not told of the message for four months, although the host says someone told her about it in September.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10794"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
@@ -2284,8 +2284,8 @@
       "claim": "The host says Wilson has promised to release the message on his show as evidence, and that although it is supposed to be on Signal, she knows for a fact it was sent by iMessage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10795",
-        "N-10794"
+        "N-10719",
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:21:53",
@@ -2306,7 +2306,7 @@
         "A-2277.7"
       ],
       "related_nodes": [
-        "N-10796"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:25:20",
@@ -2345,7 +2345,7 @@
       "claim": "The host says the preliminary hearing repeatedly discussed Utah's Rule 1102, under which hearsay is allowed at that stage as probative, and that this lets people infer from the evidence outside the courtroom too.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11068"
+        "N-10986"
       ],
       "tags": [],
       "claim_timestamp": "00:27:32",
@@ -2365,7 +2365,7 @@
         "A-2277.3"
       ],
       "related_nodes": [
-        "N-10290"
+        "N-10272"
       ],
       "tags": [],
       "claim_timestamp": "00:29:20",
@@ -2488,8 +2488,8 @@
         "A-2792.2"
       ],
       "related_nodes": [
-        "N-10090",
-        "N-10725"
+        "N-10086",
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:35:50",
@@ -2510,7 +2510,7 @@
         "A-2792.2"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:36:10",
@@ -2570,7 +2570,7 @@
       "claim": "The host says she called Wilson out for playing three clips of Erika Kirk in a row after saying he was not there on behalf of TPUSA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10796"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:38:00",
@@ -2669,7 +2669,7 @@
       "claim": "The host says the most recent filing, the filing for dismissal, was released two days before the debate and that she marked it up and prepared to discuss it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:41:40",
@@ -2688,7 +2688,7 @@
       "claim": "The host says Wilson's side was circulating a wrong talking point that Tyler Robinson admitted in the filing that the text messages were real, and that people were lying about what the filing said.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:42:10",
@@ -2730,7 +2730,7 @@
         "A-2277.4"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:47:09",
@@ -2752,7 +2752,7 @@
         "A-2792.3"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:49:30",
@@ -2776,7 +2776,7 @@
         "A-2792.3"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:51:29",
@@ -2797,7 +2797,7 @@
         "A-2792.3"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:52:07",
@@ -2819,7 +2819,7 @@
       "claim": "The host says the lead investigator testified at the preliminary hearing that he identified the person in a maroon shirt on the stairs as the same person later in a black shirt because both wore Converse sneakers, and that Wilson called that compelling and tweeted it as part of the overwhelming evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:52:30",
@@ -2841,7 +2841,7 @@
         "A-2792.3"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:53:04",
@@ -2920,7 +2920,7 @@
         "A-2280.1"
       ],
       "related_nodes": [
-        "N-10102"
+        "N-10098"
       ],
       "tags": [],
       "claim_timestamp": "01:03:20",
@@ -2941,7 +2941,7 @@
         "A-2280.1"
       ],
       "related_nodes": [
-        "N-10102"
+        "N-10098"
       ],
       "tags": [],
       "claim_timestamp": "01:04:30",
@@ -2981,7 +2981,7 @@
         "A-2280.1"
       ],
       "related_nodes": [
-        "N-10102"
+        "N-10098"
       ],
       "tags": [],
       "claim_timestamp": "01:05:50",
@@ -3022,7 +3022,7 @@
       "claim": "The host says that after being told she was scared to take the money, she took the money, exactly what Wilson offered, 300k, and was then criticized for taking it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11069"
+        "N-10987"
       ],
       "tags": [],
       "claim_timestamp": "01:10:00",
@@ -3044,7 +3044,7 @@
       "claim": "The host says many people, including Michael Knowles, demanded she establish a trust for Charlie Kirk's children with the money, and she reads one post saying she should give it to Tyler Robinson's defense.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11069"
+        "N-10987"
       ],
       "tags": [],
       "claim_timestamp": "01:10:30",
@@ -3120,7 +3120,7 @@
       "claim": "The host says she will not take instruction on the winnings and plans to give money to the Catholic Church, the priests who supported her, and people who took care of her, such as her sister.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11069"
+        "N-10987"
       ],
       "tags": [],
       "claim_timestamp": "01:13:30",
@@ -3198,7 +3198,7 @@
       "claim": "The host says Wilson says he is dropping the message this week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10795"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "01:19:50",
@@ -3256,7 +3256,7 @@
       "claim": "The host says Wilson's debate claim was that the evidence is overwhelming that Tyler Robinson did it, and that he did not defend it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10805"
+        "N-10729"
       ],
       "tags": [],
       "claim_timestamp": "01:23:50",

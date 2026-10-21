@@ -32,7 +32,7 @@
             "C-10873"
           ],
           "related_nodes": [
-            "N-10725"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
             "C-10873"
           ],
           "related_nodes": [
-            "N-10726"
+            "N-10661"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
             "C-10895"
           ],
           "related_nodes": [
-            "N-10725"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
             "C-10882"
           ],
           "related_nodes": [
-            "N-10727"
+            "N-10654"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -124,7 +124,7 @@
             "C-10883"
           ],
           "related_nodes": [
-            "N-10727"
+            "N-10654"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-10889"
           ],
           "related_nodes": [
-            "N-10727"
+            "N-10654"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -170,7 +170,7 @@
             "C-10890"
           ],
           "related_nodes": [
-            "N-10727"
+            "N-10654"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -197,7 +197,7 @@
             "C-10909"
           ],
           "related_nodes": [
-            "N-10730"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-10923"
           ],
           "related_nodes": [
-            "N-10731"
+            "N-10665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -444,8 +444,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
       "type": "investigation_target",
       "description": "Persistent discrepancy between the testimony that the Axon Body Cam 4 terminated ~27:35 into the shift while the officer was on the rooftop, and the Axon operator email asserting ~14-hour battery life with a docked-shift upload cycle.",
@@ -455,7 +455,8 @@
       ],
       "related_claims": [
         "C-10867",
-        "C-10869"
+        "C-10869",
+        "C-10870"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -466,16 +467,17 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10726",
-      "ref": "N-10726",
-      "name": "Unidentified Badge-Holding Rooftop Companion",
+      "@id": "N-10661",
+      "ref": "N-10661",
+      "name": "Officer Bagley Rooftop Companion Identification",
       "type": "investigation_target",
       "description": "Persistent investigative target: the plain-clothed individual Officer Bagley accompanied onto the Losee Center roof, who displayed a badge and carried a handgun, and whose agency was never verified by Bagley.",
       "related_artifacts": [
         "A-2146.2"
       ],
       "related_claims": [
-        "C-10871"
+        "C-10871",
+        "C-10872"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -486,8 +488,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10727",
-      "ref": "N-10727",
+      "@id": "N-10654",
+      "ref": "N-10654",
       "name": "Abandoned Backpack / Jacket / Gloves Non-Testing Decision",
       "type": "investigation_target",
       "description": "Persistent investigative target: the abandoned items found at the Fulton Library bus stop on the shooter's route, sent to the FBI lab for DNA testing, then reclassified as \"bystander\" or \"Kirk's detail\" without testing.",
@@ -514,8 +516,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10728",
-      "ref": "N-10728",
+      "@id": "N-10662",
+      "ref": "N-10662",
       "name": "Timpanogos Hospital Pre-Notification Failure",
       "type": "investigation_target",
       "description": "Persistent investigative target: alleged absence of advance notice to Timpanogos Regional Hospital of Charlie Kirk's arrival, contradicting the official 911-call narrative.",
@@ -531,8 +533,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
       "type": "investigation_target",
       "description": "Persistent investigative target: no witness in the on-air record has claimed personal credit for the 911 call; the call itself has not been located in publicly released logs.",
@@ -548,8 +550,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10730",
-      "ref": "N-10730",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Frank Turek FaceTime Story Inconsistency",
       "type": "investigation_target",
       "description": "Persistent investigative target: Turek's two on-record accounts of where the FaceTime call ended (\"hotel\" vs. \"hospital\") and the question of which adult son/daughter-in-law was on the line.",
@@ -568,8 +570,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10731",
-      "ref": "N-10731",
+      "@id": "N-10665",
+      "ref": "N-10665",
       "name": "Screwdriver Footage Graininess Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigative target: Bongino's Sept. 15 characterization of the rooftop screwdriver footage as \"too grainy\" to discern, contrasted with later influencer claims of \"4K HD crystal clear\" footage.",
@@ -1214,7 +1216,8 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10921"
+        "C-10921",
+        "C-10922"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1261,8 +1264,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10064",
-      "ref": "N-10064",
+      "@id": "N-10061",
+      "ref": "N-10061",
       "name": "The Pentagon",
       "type": "investigation_target",
       "description": "Zach Turek's alleged workplace.",
@@ -1278,8 +1281,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10090",
-      "ref": "N-10090",
+      "@id": "N-10086",
+      "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
       "type": "investigation_target",
       "description": "Existing topic reused for screwdriver claims.",
@@ -1299,8 +1302,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Where the host says she met Ballard and others.",
@@ -1316,8 +1319,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10177",
-      "ref": "N-10177",
+      "@id": "N-10170",
+      "ref": "N-10170",
       "name": "Charlie Kirk Final-Days Text Communications",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's message archive.",
@@ -1335,8 +1338,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Existing topic reused for pastor claims.",
@@ -1353,8 +1356,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for Kolvet's miracle tweet.",
@@ -1370,25 +1373,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
-      "name": "Tyler Robinson Confession Narrative Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10922"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1404,8 +1390,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10692",
-      "ref": "N-10692",
+      "@id": "N-10630",
+      "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1422,8 +1408,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@id": "N-10648",
+      "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1440,8 +1426,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10717",
-      "ref": "N-10717",
+      "@id": "N-10653",
+      "ref": "N-10653",
       "name": "Losee Center–Library Route Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the bus stop location.",
@@ -1459,25 +1445,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10736",
-      "ref": "N-10736",
-      "name": "Screwdriver Evidence Chain Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10876"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10754",
-      "ref": "N-10754",
+      "@id": "N-10684",
+      "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1494,42 +1463,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10772",
-      "ref": "N-10772",
-      "name": "Officer Bagley Rooftop Companion Identification",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10872"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10773",
-      "ref": "N-10773",
-      "name": "Body Cam Battery Failure Circumstances",
-      "type": "investigation_target",
-      "description": "Existing topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10870"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10778",
-      "ref": "N-10778",
+      "@id": "N-10704",
+      "ref": "N-10704",
       "name": "Officer Bagley Rooftop Video Review Question",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1545,8 +1480,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10818",
-      "ref": "N-10818",
+      "@id": "N-10741",
+      "ref": "N-10741",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1562,8 +1497,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Department of Defense.",
@@ -1579,8 +1514,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11017",
-      "ref": "N-11017",
+      "@id": "N-10937",
+      "ref": "N-10937",
       "name": "TPUSA Influencer Payment Campaign Allegation",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1596,8 +1531,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
       "type": "investigation_target",
       "description": "Existing topic reused for influencers at the hearing.",
@@ -1673,8 +1608,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11138",
-      "ref": "N-11138",
+      "@id": "N-11056",
+      "ref": "N-11056",
       "name": "Turek Family Military Connections",
       "type": "topic",
       "description": "The host's claims about the military postings of Frank Turek's sons and family, including Zach Turek at the Pentagon and Spencer as an Air Force pilot.",
@@ -1704,7 +1639,7 @@
         "A-2146.1"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:05:36–00:06:28",
@@ -1723,7 +1658,7 @@
         "A-2146.2"
       ],
       "related_nodes": [
-        "N-10726"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:09:06–00:10:43",
@@ -1742,7 +1677,7 @@
         "A-2146.2"
       ],
       "related_nodes": [
-        "N-10726"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:10:05–00:11:27",
@@ -1761,7 +1696,7 @@
         "A-2147.1"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:06:28–00:08:12",
@@ -1778,7 +1713,7 @@
         "A-2148.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:15:19–00:16:23",
@@ -1798,7 +1733,7 @@
         "A-2148.2"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:16:23–00:17:06",
@@ -1817,7 +1752,7 @@
         "A-2148.2"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:17:06–00:17:53",
@@ -1836,7 +1771,7 @@
         "A-2149.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:19:25–00:20:30",
@@ -1855,7 +1790,7 @@
         "A-2149.2"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:20:30–00:21:15",
@@ -1876,7 +1811,7 @@
         "A-2149.2"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [],
       "claim_timestamp": "00:20:30–00:24:14",
@@ -1897,7 +1832,7 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:35:42–00:36:38",
@@ -1916,7 +1851,7 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:35:42–00:38:14",
@@ -1935,7 +1870,7 @@
         "A-2152.1"
       ],
       "related_nodes": [
-        "N-10731"
+        "N-10665"
       ],
       "tags": [],
       "claim_timestamp": "00:46:07–00:47:07",
@@ -1971,7 +1906,7 @@
       "claim": "A source verified by host as a Timpanogos Regional Hospital employee told the host that the hospital was not informed ahead of time that Charlie Kirk was en route, contrary to the official 911-call-and-pre-notification narrative.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10728"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:25:23–00:27:13",
@@ -1988,7 +1923,7 @@
       "claim": "The host says Brian Harpole, in his on-record statements, refers to a 911 call collectively (\"we called 911\") without identifying the specific individual who placed the call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [],
       "claim_timestamp": "00:26:17–00:27:13",
@@ -2026,7 +1961,7 @@
       "claim": "The host says Baron Coleman flagged to her over the weekend a part of the preliminary hearing that she had missed and that is a potential answer for why the FBI moved not to test the backpack, gloves and jacket found at the bus stop near the library.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2047,7 +1982,7 @@
       "claim": "The host says Kash Patel announced a couple of days later that a screwdriver carried Tyler Robinson's DNA, but that it had already been leaked that a screwdriver was discovered, which she thinks was the next day, September 11, and that Robinson was found in 33 hours.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
+        "N-10086",
         "N-10014"
       ],
       "tags": [
@@ -2070,8 +2005,8 @@
       "claim": "The host says the person who filmed and observed the figure on the Losee Center roof has kept his story and has no recollection of seeing a towel or a screwdriver, and that this was the same in her conversations with him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
-        "N-10754"
+        "N-10086",
+        "N-10684"
       ],
       "tags": [
         "relevance:core"
@@ -2091,8 +2026,8 @@
       "claim": "The host says Officer Bagley raced to the Losee Center roof, was there at 12:44 p.m. and found the screwdriver, and that none of the influencers' recaps of the 4K footage showed the screwdriver being taken out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
-        "N-10731"
+        "N-10086",
+        "N-10665"
       ],
       "tags": [
         "relevance:core"
@@ -2115,7 +2050,7 @@
         "A-2146.1"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [
         "relevance:core"
@@ -2140,8 +2075,7 @@
         "A-2147.1"
       ],
       "related_nodes": [
-        "N-10725",
-        "N-10773"
+        "N-10660"
       ],
       "tags": [
         "relevance:core"
@@ -2167,8 +2101,7 @@
         "A-2146.2"
       ],
       "related_nodes": [
-        "N-10726",
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2193,8 +2126,8 @@
         "A-2146.2"
       ],
       "related_nodes": [
-        "N-10778",
-        "N-10726"
+        "N-10704",
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2217,8 +2150,8 @@
       "claim": "The host says sarcastically that a ton of influencers confirmed that for the rooftop Bagley was on they are now able to get 4K HD footage that has been enhanced, and that these influencers are typically the only ones shown it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10731",
-        "N-11065"
+        "N-10665",
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -2239,8 +2172,7 @@
       "claim": "The host says she does not think there was ever a screwdriver on the roof during the shooter's movements and thinks it was planted at a different time, because the official narrative cannot explain why he would take it out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10090",
-        "N-10736"
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2260,8 +2192,8 @@
       "claim": "The host says that, based on the eyewitness account from the person who recorded him, she thinks the shooter had no towel and that what is seen swinging is a bag that officials are calling a towel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10754",
-        "N-10090"
+        "N-10684",
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2304,7 +2236,7 @@
         "A-2148.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2329,8 +2261,8 @@
         "A-2148.1"
       ],
       "related_nodes": [
-        "N-10727",
-        "N-10717"
+        "N-10654",
+        "N-10653"
       ],
       "tags": [
         "relevance:core"
@@ -2355,7 +2287,7 @@
         "A-2148.2"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2380,7 +2312,7 @@
         "A-2148.2"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2406,7 +2338,7 @@
         "A-2148.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2428,7 +2360,7 @@
         "A-2149.1"
       ],
       "related_nodes": [
-        "N-10727",
+        "N-10654",
         "N-10014"
       ],
       "tags": [
@@ -2454,7 +2386,7 @@
         "A-2149.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2480,8 +2412,8 @@
         "A-2149.2"
       ],
       "related_nodes": [
-        "N-10717",
-        "N-10727"
+        "N-10653",
+        "N-10654"
       ],
       "tags": [
         "relevance:core"
@@ -2505,7 +2437,7 @@
       "claim": "The host says 70 to 80 percent of homicide victims are killed by people they know and that the share rises when money is involved, using it to argue that knowing the victim is no reason to stop testing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10727"
+        "N-10654"
       ],
       "tags": [
         "relevance:context"
@@ -2526,8 +2458,8 @@
       "claim": "The host says there surely was a surveillance camera trained on the bus stop and hopes it surfaces as the trial moves forward.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10727",
-        "N-10717"
+        "N-10654",
+        "N-10653"
       ],
       "tags": [
         "relevance:core"
@@ -2547,7 +2479,7 @@
       "claim": "The host says her verified Timpanogos source explained that when a 911 call is made, a place in the hospital receives the call, preps and expects the patient to arrive.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10728"
+        "N-10662"
       ],
       "tags": [
         "relevance:core"
@@ -2570,7 +2502,7 @@
       "claim": "The host says that although Brian Harpole and Frank Turek loved telling the story over and over, nobody wants to take credit for calling 911.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -2597,8 +2529,8 @@
         "A-2866.1"
       ],
       "related_nodes": [
-        "N-10728",
-        "N-10692"
+        "N-10662",
+        "N-10630"
       ],
       "tags": [
         "relevance:core"
@@ -2623,8 +2555,8 @@
         "A-2866.1"
       ],
       "related_nodes": [
-        "N-10712",
-        "N-10729"
+        "N-10648",
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -2645,7 +2577,7 @@
       "claim": "The host calls the journey to the hospital a 7-minute short journey and asks who made the 911 call during it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -2665,8 +2597,8 @@
       "claim": "The host says the 911 calls have been released and gone through by people, yet she cannot find the call placed from the car, which she says is public information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729",
-        "N-10692"
+        "N-10663",
+        "N-10630"
       ],
       "tags": [
         "relevance:core"
@@ -2689,7 +2621,7 @@
       "claim": "The host says Frank Turek is \"kind of the leader of the Christian grift,\" that it is \"kind of his entire brand,\" and, she would say, \"kind of\" the legacy of his family's involvement in the military.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11138"
+        "N-11056"
       ],
       "tags": [
         "relevance:context"
@@ -2710,7 +2642,7 @@
       "claim": "The host says it is obvious to her that these pastors were part of a broader psychological operation against Christians to tie them to Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209",
+        "N-10201",
         "N-10026"
       ],
       "tags": [
@@ -2756,7 +2688,7 @@
       "claim": "The host tells Turek he comes across as a fraud and says he belongs to a movement of Christian pastors who hail from literal military operations designed to target Christians.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:tangential"
@@ -2780,8 +2712,8 @@
       "claim": "The host says Frank Turek's grown sons include two who served as captains in the Air Force, one of whom served in intelligence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11138",
-        "N-10730"
+        "N-11056",
+        "N-10664"
       ],
       "tags": [
         "relevance:context"
@@ -2804,8 +2736,8 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-10818",
-        "N-10730"
+        "N-10741",
+        "N-10664"
       ],
       "tags": [
         "relevance:core"
@@ -2828,7 +2760,7 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [
         "relevance:core"
@@ -2854,8 +2786,8 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-10064",
-        "N-11138"
+        "N-10061",
+        "N-11056"
       ],
       "tags": [
         "relevance:core"
@@ -2876,7 +2808,7 @@
       "claim": "The host says Turek decided to sit in the backseat, pray and listen to Ben Shapiro's security team receive updates.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10712"
+        "N-10648"
       ],
       "tags": [
         "relevance:core"
@@ -2898,8 +2830,8 @@
       "claim": "The host says Turek did not call 911 and did not think to phone his son who works for the Department of Defense.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729",
-        "N-10888"
+        "N-10663",
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -2924,7 +2856,7 @@
       "claim": "The host says Spencer Turek works as a branch chief pilot for the Air Force and that he appears to be on the East Coast.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11138"
+        "N-11056"
       ],
       "tags": [
         "relevance:context"
@@ -2947,7 +2879,7 @@
         "A-2150.1"
       ],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [
         "relevance:core"
@@ -2969,7 +2901,7 @@
       "claim": "The host says Frank Turek and his son Zach wrote a book together titled Hollywood Heroes, which argues that superhero movies reveal God.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11138"
+        "N-11056"
       ],
       "tags": [
         "relevance:context"
@@ -2993,7 +2925,7 @@
         "A-2871.1"
       ],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -3014,7 +2946,7 @@
       "claim": "The host says that if she were the lead investigator she would be interested in all the call logs, including those of a 35-year-old man FaceTiming at 2:23 p.m., because she finds Turek's narrative worth prodding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10730"
+        "N-10664"
       ],
       "tags": [
         "relevance:core"
@@ -3063,7 +2995,7 @@
         "A-2872.1"
       ],
       "related_nodes": [
-        "N-10566"
+        "N-10021"
       ],
       "tags": [
         "relevance:core"
@@ -3086,7 +3018,7 @@
         "A-2152.1"
       ],
       "related_nodes": [
-        "N-10731"
+        "N-10665"
       ],
       "tags": [
         "relevance:core"
@@ -3156,7 +3088,7 @@
         "A-2870.1"
       ],
       "related_nodes": [
-        "N-10177"
+        "N-10170"
       ],
       "tags": [
         "relevance:context"
@@ -3180,7 +3112,7 @@
         "A-2870.1"
       ],
       "related_nodes": [
-        "N-10177"
+        "N-10170"
       ],
       "tags": [
         "relevance:context"
@@ -3202,7 +3134,7 @@
         "A-2870.1"
       ],
       "related_nodes": [
-        "N-10177"
+        "N-10170"
       ],
       "tags": [
         "relevance:context"
@@ -3227,7 +3159,7 @@
       ],
       "related_nodes": [
         "N-10026",
-        "N-11017"
+        "N-10937"
       ],
       "tags": [
         "relevance:context"
@@ -3296,7 +3228,7 @@
         "A-2869.1"
       ],
       "related_nodes": [
-        "N-10681"
+        "N-10619"
       ],
       "tags": [
         "relevance:context"
@@ -3454,7 +3386,7 @@
       "claim": "The host says she saw people pinging her that Megyn Kelly is hosting the influencers who described the hearing, and that she herself had not watched because she was on vacation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:context"
@@ -3475,8 +3407,8 @@
       "claim": "The host says she does not know whether Megyn Kelly caught what was leaked afterward, that the influencers' footage was just a zoomed-in version of the 12.4 footage they saw.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10731",
-        "N-11065"
+        "N-10665",
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -3520,7 +3452,7 @@
       "claim": "The host says a decision in September will determine that the case is going through and more evidence will be presented, and she expects Kelly to change her mind then.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -3600,7 +3532,7 @@
       "claim": "The host says she has a lot to think about regarding Tim Ballard, since she met all of these people sort of through PragerU, and she is re-examining that time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"

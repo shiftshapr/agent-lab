@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10771"
+            "N-10699"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-11693"
           ],
           "related_nodes": [
-            "N-10772"
+            "N-10661"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -76,7 +76,7 @@
             "C-11694"
           ],
           "related_nodes": [
-            "N-10773"
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-11705"
           ],
           "related_nodes": [
-            "N-10772"
+            "N-10661"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
             "C-11714"
           ],
           "related_nodes": [
-            "N-10774"
+            "N-10700"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,7 +229,7 @@
             "C-11727"
           ],
           "related_nodes": [
-            "N-10775"
+            "N-10701"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,8 +326,8 @@
             "C-11694"
           ],
           "related_nodes": [
-            "N-10772",
-            "N-10773"
+            "N-10661",
+            "N-10660"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,7 +403,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10771",
+            "N-10699",
             "N-3"
           ],
           "tags": [],
@@ -429,7 +429,7 @@
             "C-11684"
           ],
           "related_nodes": [
-            "N-10737",
+            "N-10636",
             "N-266",
             "N-487"
           ],
@@ -456,8 +456,8 @@
             "C-11689"
           ],
           "related_nodes": [
-            "N-10681",
-            "N-10737",
+            "N-10619",
+            "N-10636",
             "N-266",
             "N-3"
           ],
@@ -484,7 +484,7 @@
             "C-11707"
           ],
           "related_nodes": [
-            "N-10772",
+            "N-10661",
             "N-748"
           ],
           "tags": [],
@@ -510,7 +510,7 @@
             "C-11717"
           ],
           "related_nodes": [
-            "N-10774",
+            "N-10700",
             "N-3",
             "N-748"
           ],
@@ -556,7 +556,7 @@
           "related_nodes": [
             "N-1",
             "N-10000",
-            "N-10539",
+            "N-10494",
             "N-159",
             "N-2",
             "N-5"
@@ -573,8 +573,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10771",
-      "ref": "N-10771",
+      "@id": "N-10699",
+      "ref": "N-10699",
       "name": "Missing Gloves Origin in SUV Door",
       "type": "investigation_target",
       "description": "Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10772",
-      "ref": "N-10772",
+      "@id": "N-10661",
+      "ref": "N-10661",
       "name": "Officer Bagley Rooftop Companion Identification",
       "type": "investigation_target",
       "description": "Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.",
@@ -619,9 +619,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10773",
-      "ref": "N-10773",
-      "name": "Body Cam Battery Failure Circumstances",
+      "@id": "N-10660",
+      "ref": "N-10660",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
       "type": "investigation_target",
       "description": "Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.",
       "related_artifacts": [
@@ -629,7 +629,8 @@
         "A-2233.1"
       ],
       "related_claims": [
-        "C-11694"
+        "C-11694",
+        "C-11708"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -639,8 +640,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10774",
-      "ref": "N-10774",
+      "@id": "N-10700",
+      "ref": "N-10700",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
       "type": "investigation_target",
       "description": "Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.",
@@ -660,8 +661,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10775",
-      "ref": "N-10775",
+      "@id": "N-10701",
+      "ref": "N-10701",
       "name": "US CentCom Iran Crowdsourcing Request",
       "type": "investigation_target",
       "description": "Investigative target: senior US Central Command officer's reported email soliciting \"creative and unconventional\" ideas to pressure Iran, sourced from CNN reporting.",
@@ -1137,8 +1138,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Provo, Utah; the host cites the nearby FBI office there.",
@@ -1155,8 +1156,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10219",
-      "ref": "N-10219",
+      "@id": "N-10209",
+      "ref": "N-10209",
       "name": "Mikey McCoy Pre-Death Documentation Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for the McCoy recording claim.",
@@ -1172,8 +1173,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for the Epstein-files claim.",
@@ -1189,8 +1190,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for the rooftop access timeline claims.",
@@ -1207,8 +1208,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for Kirk's Iran war positions.",
@@ -1230,8 +1231,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10679",
-      "ref": "N-10679",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
       "type": "investigation_target",
       "description": "Existing topic reused for the Twiggs DNA claim.",
@@ -1247,8 +1248,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing topic reused for the Shawn Ryan interview claim.",
@@ -1264,8 +1265,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
       "type": "investigation_target",
       "description": "Existing topic reused for the hospital clothing claims.",
@@ -1282,25 +1283,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
-      "name": "Officer Bagley Body-Cam Battery Anomaly",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the body-cam battery claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11708"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10732",
-      "ref": "N-10732",
+      "@id": "N-10666",
+      "ref": "N-10666",
       "name": "Salt Lake City Hotel Identification Gap",
       "type": "investigation_target",
       "description": "Existing topic reused for the TPUSA hotel claim.",
@@ -1316,9 +1300,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "@id": "N-10636",
+      "ref": "N-10636",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Existing topic reused for the Harpole and Turek car-ride accounts.",
       "related_artifacts": [],
@@ -1337,8 +1321,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10747",
-      "ref": "N-10747",
+      "@id": "N-10677",
+      "ref": "N-10677",
       "name": "TPUSA Inner Circle Composition Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the inner-circle claim.",
@@ -1354,8 +1338,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10964",
-      "ref": "N-10964",
+      "@id": "N-10885",
+      "ref": "N-10885",
       "name": "US Central Command (CENTCOM)",
       "type": "investigation_target",
       "description": "US Central Command; its reported email asking for Iran ideas.",
@@ -1371,8 +1355,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
       "type": "investigation_target",
       "description": "Existing topic reused for the Iran war claims.",
@@ -1390,8 +1374,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11306",
-      "ref": "N-11306",
+      "@id": "N-11222",
+      "ref": "N-11222",
       "name": "Security Guard Stroke in Russia",
       "type": "topic",
       "description": "The host's account of a member of her security detail who suffered a severe stroke during the Russia trip, had brain surgery in a Russian hospital, and is now seeking rehabilitation.",
@@ -1411,8 +1395,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11307",
-      "ref": "N-11307",
+      "@id": "N-11223",
+      "ref": "N-11223",
       "name": "International Institute of Brain Enhancement",
       "type": "organization",
       "description": "Rehabilitation institute in Delray, Florida that the host names as the guard's next step and for which she asks viewers to help with funding.",
@@ -1428,8 +1412,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11308",
-      "ref": "N-11308",
+      "@id": "N-11224",
+      "ref": "N-11224",
       "name": "TPUSA 4K Video Claim Dispute",
       "type": "topic",
       "description": "The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video of Tyler Robinson taking the shot, and the later shift to saying the 4K footage showed other things.",
@@ -1448,8 +1432,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11309",
-      "ref": "N-11309",
+      "@id": "N-11225",
+      "ref": "N-11225",
       "name": "Brady List Website",
       "type": "topic",
       "description": "The Brady List website, a database of officers with documented credibility or misconduct issues, on which the host says Allan E. Robertson has an entry.",
@@ -1476,7 +1460,7 @@
         "A-2223.1"
       ],
       "related_nodes": [
-        "N-10771"
+        "N-10699"
       ],
       "tags": [],
       "claim_timestamp": "00:03:26",
@@ -1514,7 +1498,7 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-10773"
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
@@ -1533,7 +1517,7 @@
         "A-2224.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
@@ -1553,7 +1537,7 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
@@ -1572,7 +1556,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -1593,7 +1577,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:16:28",
@@ -1613,7 +1597,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
@@ -1666,7 +1650,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
@@ -1685,7 +1669,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
@@ -1704,7 +1688,7 @@
         "A-2230.1"
       ],
       "related_nodes": [
-        "N-10775"
+        "N-10701"
       ],
       "tags": [],
       "claim_timestamp": "00:34:33",
@@ -1791,8 +1775,8 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-10772",
-        "N-10773"
+        "N-10661",
+        "N-10660"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
@@ -1811,7 +1795,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:context"
@@ -1834,7 +1818,7 @@
         "A-3152.1"
       ],
       "related_nodes": [
-        "N-10771"
+        "N-10699"
       ],
       "tags": [
         "relevance:core"
@@ -1858,7 +1842,7 @@
       "claim": "The host says a sleuth emailed a tip that Mikey McCoy had been recording Charlie's last moments, including in the weeks leading up to the shooting, and that his footage of Kirk exiting the car is the basis for the empty-pocket finding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10219"
+        "N-10209"
       ],
       "tags": [
         "relevance:core"
@@ -1880,8 +1864,8 @@
       "claim": "The host says Brian Harpole was not sitting on the side of the car where the gloves were found, and was already covered in blood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10771",
-        "N-10737"
+        "N-10699",
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -1904,7 +1888,7 @@
       "claim": "The host says Harpole tells a story that a nurse wiped the blood off his face, which she uses to argue he had no reason to stop and put on gloves in the moving car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -1926,7 +1910,7 @@
         "A-3153.1"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -1950,7 +1934,7 @@
       "claim": "The host says Rick Cutler was among those who allegedly stripped off clothes at the hospital, and says she thinks Frank Turek has been open about doing so.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [
         "relevance:core"
@@ -1971,7 +1955,7 @@
       "claim": "The host says she was told the feds were the ones who allegedly took those clothes, down to \"his boxer briefs\" (it is unclear whether she means Cutler or Frank Turek, both just mentioned), which she calls 'a bit much'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688",
+        "N-10626",
         "N-10014"
       ],
       "tags": [
@@ -1993,7 +1977,7 @@
       "claim": "The host recounts Harpole's story that he grabbed a gurney, jumped on top of Charlie in the ER and began cutting his shirt while the staff looked on awaiting instructions on what drugs to administer, and says the public does not buy it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2019,8 +2003,8 @@
         "A-3154.1"
       ],
       "related_nodes": [
-        "N-10681",
-        "N-10737"
+        "N-10619",
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2041,7 +2025,7 @@
       "claim": "The host says the screwdriver found on the rooftop has Lance Twiggs's DNA alongside Tyler Robinson's DNA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [
         "relevance:core"
@@ -2063,7 +2047,7 @@
       "claim": "The host says it is still not known whether the screwdriver even works for that particular gun.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2086,7 +2070,7 @@
       "claim": "The host says Bagley testifies he reached Losi at 12:44 and discovered the screwdriver 10 to 15 feet past the railing in the gravel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2111,7 +2095,7 @@
         "A-2226.1"
       ],
       "related_nodes": [
-        "N-10772",
+        "N-10661",
         "N-10014"
       ],
       "tags": [
@@ -2138,7 +2122,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2162,7 +2146,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2184,7 +2168,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2207,7 +2191,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2231,7 +2215,7 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2253,8 +2237,7 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-10725",
-        "N-10773"
+        "N-10660"
       ],
       "tags": [
         "relevance:core"
@@ -2276,7 +2259,7 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2300,7 +2283,7 @@
         "A-2235.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:context"
@@ -2322,7 +2305,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-11309"
+        "N-11225"
       ],
       "tags": [
         "relevance:context"
@@ -2344,8 +2327,8 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-11309",
-        "N-10774"
+        "N-11225",
+        "N-10700"
       ],
       "tags": [
         "relevance:context"
@@ -2365,7 +2348,7 @@
       "claim": "The host says there is a lot of corruption in the San Bernardino, California Police Department, and asks Californians for information about an incident involving Robertson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:context"
@@ -2388,7 +2371,7 @@
         "A-2228.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:core"
@@ -2411,7 +2394,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:core"
@@ -2434,7 +2417,7 @@
         "A-3156.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:core",
@@ -2479,8 +2462,8 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-10772",
-        "N-10774"
+        "N-10661",
+        "N-10700"
       ],
       "tags": [
         "relevance:core"
@@ -2501,7 +2484,7 @@
       "claim": "The host says a member of her security detail who had served 12 years had a very severe stroke, needed brain surgery to remove a clot, and that the host's team now understands it must have happened in Russia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11306"
+        "N-11222"
       ],
       "tags": [
         "relevance:tangential"
@@ -2521,7 +2504,7 @@
       "claim": "The host says the guard had been trying for over five years to get a VA appointment and could not get one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11306"
+        "N-11222"
       ],
       "tags": [
         "relevance:tangential"
@@ -2541,7 +2524,7 @@
       "claim": "The host says the Russian Ministry of Health covered the guard's hospital bill, and later thanks the Ministry for paying the entire bill.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11306"
+        "N-11222"
       ],
       "tags": [
         "relevance:tangential"
@@ -2561,7 +2544,7 @@
       "claim": "The host says the guard's eyesight returned like a miracle once the clot was removed, so he no longer needs glasses, and that Russian military families cheered him on during rehabilitation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11306"
+        "N-11222"
       ],
       "tags": [
         "relevance:tangential"
@@ -2581,8 +2564,8 @@
       "claim": "The host says the guard is trying to get into the International Institute of Brain Enhancement in Delray, Florida, not covered by VA benefits, and asks viewers or a charity to help.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11306",
-        "N-11307"
+        "N-11222",
+        "N-11223"
       ],
       "tags": [
         "relevance:tangential"
@@ -2604,8 +2587,8 @@
         "A-2230.1"
       ],
       "related_nodes": [
-        "N-10775",
-        "N-10964"
+        "N-10701",
+        "N-10885"
       ],
       "tags": [
         "relevance:tangential"
@@ -2625,8 +2608,8 @@
       "claim": "The host says 'we know' Charlie Kirk was the first casualty of the Iranian war and that he was in the way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128",
-        "N-10539"
+        "N-11046",
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2650,7 +2633,7 @@
       "claim": "The host says Trump listened to a pitch by Netanyahu saying they could take Persia in a week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -2672,7 +2655,7 @@
       "claim": "The host says that according to Trump's tweets the US has beaten Iran about 55 times, yet has not beaten Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:tangential"
@@ -2695,7 +2678,7 @@
         "A-3157.1"
       ],
       "related_nodes": [
-        "N-10539",
+        "N-10494",
         "N-10000"
       ],
       "tags": [
@@ -2722,7 +2705,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2745,7 +2728,7 @@
         "A-2232.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2767,7 +2750,7 @@
         "A-2232.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2789,7 +2772,7 @@
         "A-2232.1"
       ],
       "related_nodes": [
-        "N-10539"
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -2871,7 +2854,7 @@
       "claim": "The host asserts Charlie was betrayed and that people in his inner core and circle are part and parcel of the lies being told, which she says will be exposed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10747"
+        "N-10677"
       ],
       "tags": [
         "relevance:core"
@@ -2910,7 +2893,7 @@
       "claim": "The host says she expected given Erika's confidence that the preliminary hearing would show a 4K HD video of Tyler taking the shot, and says nothing of the kind was shown.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -2935,7 +2918,7 @@
       "claim": "The host says the people who claimed 4K video are now saying they meant 4K footage of other things such as the bush or the Losee Center, not of him taking the shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -2958,7 +2941,7 @@
       "claim": "The host says the literal words that came out of the speakers' mouths were that there was 4K footage of him taking the shot, and that they said Tyler killed him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -2982,7 +2965,7 @@
       "claim": "The host says the recent video she revealed is the 4K video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11308"
+        "N-11224"
       ],
       "tags": [
         "relevance:core"
@@ -3002,7 +2985,7 @@
       "claim": "The host asserts there is somebody in the Epstein files and there are videos that exist that allowed Trump to be completely run over.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3024,7 +3007,7 @@
       "claim": "The host says her team found out what hotel TPUSA staff including Andrew Kolvet stayed in, says she will share it the next day, and wonders whether Blake Neff stayed at the same hotel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10732",
+        "N-10666",
         "N-10000"
       ],
       "tags": [

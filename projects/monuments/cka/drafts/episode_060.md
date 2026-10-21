@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-717, N-718, N-11035, N-11036, N-11037, N-11039
-  - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664
+  - Tip-minted Nodes (supplement_2026-10): N-717, N-718, N-10954, N-10955, N-10957
+  - Hole-minted Nodes (reintro-ep060): N-10406, N-10502, N-10606
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5334–C-5430
-  - New Nodes Introduced: N-476, N-477, N-478, N-479, N-10430, N-10431
-  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-117, N-190, N-270, N-521, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436, N-10694, N-11038
+  - New Nodes Introduced: N-476, N-477, N-478, N-479, N-10400, N-10401
+  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-117, N-190, N-270, N-521, N-10000, N-10004, N-10027, N-10113, N-10117, N-10126, N-10134, N-10144, N-10251, N-10318, N-10319, N-10320, N-10334, N-10342, N-10305, N-10390, N-10395, N-10399, N-10405, N-10632, N-10956
   - (see registers), N-11
 
 ## 2. Executive Summary
@@ -295,7 +295,7 @@ Video Timestamp: 01:08:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5414, N-2, N-10430*
+*Related: C-5414, N-2, N-10400*
 
 ---
 
@@ -363,7 +363,7 @@ Video Timestamp: 00:49:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5390, N-3, N-1, N-11, N-11038*
+*Related: C-5390, N-3, N-1, N-11, N-10956*
 
 ---
 
@@ -376,7 +376,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5393, N-3, N-1, N-2, N-10664*
+*Related: C-5393, N-3, N-1, N-2, N-10606*
 
 ---
 
@@ -389,7 +389,7 @@ Video Timestamp: 00:53:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5396, N-3, N-2, N-1, N-10664*
+*Related: C-5396, N-3, N-2, N-1, N-10606*
 
 ---
 
@@ -496,11 +496,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-5414, N-10430*
+*Related: C-5414, N-10400*
 
 ---
 
-**N-10430** Plane Records Timing Discrepancy
+**N-10400** Plane Records Timing Discrepancy
 
 Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac).
 
@@ -513,7 +513,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10431** Aspen Donor Retreat "What Happens When You Die" Question
+**N-10401** Aspen Donor Retreat "What Happens When You Die" Question
 
 Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange.
 
@@ -551,7 +551,7 @@ Turning Point USA; subject of the purge, drone and leak claims.
 
 ---
 
-**N-11035** TPUSA Employee Purge and Leak Hunt
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Node Type: Topic
 Reported firing of 30 to 40 TPUSA employees in a hunt for leaks, including a staffer whose laptop held screenshots of the host's timeline.
@@ -568,7 +568,7 @@ TPUSA spokesperson; the host recounts his tarmac account, the Netanyahu offer an
 
 ---
 
-**N-10267** TPUSA Drone Disclosure Discrepancy
+**N-10251** TPUSA Drone Disclosure Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -584,7 +584,7 @@ Widow and TPUSA CEO; the host questions her accounts of the planes, the hospital
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -600,7 +600,7 @@ Dan Flood; the host and Coleman discuss his role, promotion and the night-before
 
 ---
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Existing topic reused for new claims in this episode.
 
@@ -616,7 +616,7 @@ Subject of the assassination; the host reports his statements, donor pressure an
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -624,7 +624,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11036** Aurora Theater Shooting Pattern Inquiry
+**N-10954** Aurora Theater Shooting Pattern Inquiry
 
 Node Type: Topic
 The host's and Coleman's examination of the 2012 Aurora theater shooting, victim Jessica Ghawi and links to other shootings and military presence.
@@ -641,7 +641,7 @@ Pastor the host links to shooting victims and to the Operation Mocking Pastor th
 
 ---
 
-**N-10426** New Braunfels Texas Security Personnel Cluster
+**N-10399** New Braunfels Texas Security Personnel Cluster
 
 Existing topic reused for new claims in this episode.
 
@@ -657,7 +657,7 @@ First named by the host at 00:14:50 in episode 60. Author the host calls the ori
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -681,7 +681,7 @@ Benjamin Netanyahu; the host reports an offer to take TPUSA to the next level.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -705,7 +705,7 @@ First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and K
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Existing topic reused for new claims in this episode.
 
@@ -737,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11037** Dave Rubin PragerU Employee Grooming Allegation
+**N-10955** Dave Rubin PragerU Employee Grooming Allegation
 
 Node Type: Topic
 The host's allegation that Dave Rubin and his husband pushed a young former PragerU colleague toward a first date and kiss, which she says ended her friendship with Rubin.
@@ -754,7 +754,7 @@ Mentioned in the host's remark about pastors telling followers to unfollow him.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for new claims in this episode.
 
@@ -762,7 +762,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11038** Shaffer Security
+**N-10956** Shaffer Security
 
 Node Type: Organization
 Security firm the host says she distrusted and warned Charlie Kirk and Tyler Bowyer about in a group chat.
@@ -771,7 +771,7 @@ Security firm the host says she distrusted and warned Charlie Kirk and Tyler Bow
 
 ---
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -779,7 +779,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -795,7 +795,7 @@ Bill Ackman; the host asks whether the take-over statement was made at his house
 
 ---
 
-**N-10437** Aspen Donor Recall Verification
+**N-10406** Aspen Donor Recall Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -819,7 +819,7 @@ Mikey McCoy; Coleman says Kirk ran emergency drills with him.
 
 ---
 
-**N-11039** Erika Kirk Foreknowledge Question
+**N-10957** Erika Kirk Foreknowledge Question
 
 Node Type: Topic
 The host's question and stated opinion on whether Erika Kirk knew Charlie Kirk would die the next day.
@@ -836,7 +836,7 @@ Megyn Kelly; the host says the priest account was told to her.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -844,7 +844,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10122** Jezebel
+**N-10117** Jezebel
 
 Existing topic reused for new claims in this episode.
 
@@ -852,7 +852,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -860,15 +860,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10560** Tarmac Hug Timeline Reconciliation Question
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-5410, C-5416, C-5417, C-5418*
-
----
-
-**N-10149** Hospital Routing Discrepancy
+**N-10144** Hospital Routing Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -876,7 +868,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims in this episode.
 
@@ -884,7 +876,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10358** Surgeon Quotation Authenticity Question
+**N-10334** Surgeon Quotation Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -900,7 +892,7 @@ Mitch Snow; the Fort Huachuca witness at the center of Operation Debunk Mitch.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing topic reused for new claims in this episode.
 
@@ -908,7 +900,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10370** Fort Huachuca Morning Meeting Investigation
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -997,7 +989,7 @@ Claim: The host says Erika Kirk's plane (N102DZ), carrying a priest, Erika Kirk,
 Anchored Artifacts: A-1657.1
 Mentions: N-2, N-11, N-217, N-14
 
-Related Nodes: N-10430
+Related Nodes: N-10400
 
 Investigative Direction: Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.
 
@@ -1069,7 +1061,7 @@ Transcript Snippet: I heard there were 30 to 40 people purged, that they were lo
 
 Anchored Artifacts: 
 Mentions: N-330, N-3
-Related Nodes: N-10000, N-11035
+Related Nodes: N-10000, N-11002
 Investigative Direction: Obtain TPUSA headcount and separation records or named former employees to confirm the size and timing of the reported purge.
 
 ---
@@ -1084,7 +1076,7 @@ Transcript Snippet: they made her bring her laptop up and they Andrew saw in her
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10000, N-11035
+Related Nodes: N-10000, N-11002
 Investigative Direction: Identify the employee through the host's source and obtain any termination paperwork or messages; ask TPUSA to confirm or deny.
 
 ---
@@ -1099,7 +1091,7 @@ Transcript Snippet: They panicked and they fired every single person that she wa
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11035
+Related Nodes: N-10000, N-11002
 Investigative Direction: Compare the list of separated employees with the host's source network; this can only be tested through the host's sources.
 
 ---
@@ -1144,7 +1136,7 @@ Transcript Snippet: finally a lawyer's like, "Okay, there were drones, but they 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10267, N-10000
+Related Nodes: N-10251, N-10000
 Supports: C-5304
 Investigative Direction: Compare TPUSA's cease and desist letter and public statements on drones with UVU's event approvals and any drone permits.
 
@@ -1160,7 +1152,7 @@ Transcript Snippet: Then we sort of learned that everybody in this movie that ne
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10417
+Related Nodes: N-10390
 Investigative Direction: Identify the film and its cast and crew and check each person's documented Sierra Vista or Fort Huachuca connection.
 
 ---
@@ -1175,7 +1167,7 @@ Transcript Snippet: Erika has been very open about the fact that her mother DOD 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10417
+Related Nodes: N-10390
 Investigative Direction: Find Erika Kirk's own public statements about her mother's DOD work and federal contract records for the mother's employer.
 
 ---
@@ -1190,7 +1182,7 @@ Transcript Snippet: Dan Flood's father ran Intel at Fort Huachuca.
 
 Anchored Artifacts: 
 Mentions: N-3, N-270
-Related Nodes: N-10417, N-10694
+Related Nodes: N-10390, N-10632
 Investigative Direction: Check obituaries, military and law-enforcement records for Dan Flood's father and any Fort Huachuca assignment; compare with the Robert Flood biography in episode 59.
 
 ---
@@ -1205,7 +1197,7 @@ Transcript Snippet: we received a solid tip yesterday that Dan Flood, not only h
 
 Anchored Artifacts: 
 Mentions: N-3, N-270
-Related Nodes: N-10000, N-10694
+Related Nodes: N-10000, N-10632
 Investigative Direction: Ask TPUSA for Dan Flood's current title and start date in any security role; look for staff listings or event credentials.
 
 ---
@@ -1220,7 +1212,7 @@ Transcript Snippet: you had a protectee of yours tell you within a few days that
 
 Anchored Artifacts: 
 Mentions: N-3, N-270, N-1
-Related Nodes: N-10340, N-10694
+Related Nodes: N-10318, N-10632
 Investigative Direction: Obtain the night-before text messages and any security briefings showing what Charlie Kirk told Flood and when.
 
 ---
@@ -1235,7 +1227,7 @@ Transcript Snippet: my Turning Point insider told me that before Charlie died, t
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-270
-Related Nodes: N-10694, N-10000
+Related Nodes: N-10632, N-10000
 Investigative Direction: Seek internal TPUSA messages or a second source on any planned change to Flood's role in August or September 2025.
 
 ---
@@ -1250,7 +1242,7 @@ Transcript Snippet: he was protecting her at the White House when they did the C
 
 Anchored Artifacts: 
 Mentions: N-3, N-270, N-2
-Related Nodes: N-10694
+Related Nodes: N-10632
 Supports: C-5323
 Investigative Direction: Review photos and press pool footage of the White House event for Flood and the rest of Erika Kirk's detail.
 
@@ -1294,7 +1286,7 @@ Transcript Snippet: some guy walks in in tactical gear, but this was like he was
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Compare the host's description with trial testimony and the official report on the gunman's equipment.
 
 ---
@@ -1309,7 +1301,7 @@ Transcript Snippet: Rob McCoy's the pastor thousand Oaks you know pastor he's in
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Check McCoy's documented role after the Borderline shooting and verify the share of victims who were Route 91 survivors.
 
 ---
@@ -1324,7 +1316,7 @@ Transcript Snippet: Then Rob McCoy happens to be in Nashville and oh there's ano
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Locate McCoy's travel and speaking schedule for March 2023 and verify whether he was in Nashville that day.
 
 ---
@@ -1339,7 +1331,7 @@ Transcript Snippet: I said to you what if there are just targets and the militar
 
 Anchored Artifacts: 
 Mentions: N-3, N-330
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: This is a hypothesis, not a finding; test case by case against court records and ballistic and autopsy evidence for each named shooting.
 
 ---
@@ -1354,7 +1346,7 @@ Transcript Snippet: Jessica Ghawi was in that food court. She paid her bill at l
 
 Anchored Artifacts: 
 Mentions: N-330, N-478
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline.
 
 ---
@@ -1369,7 +1361,7 @@ Transcript Snippet: she used to live in New Braunfels Texas of all places. Bam t
 
 Anchored Artifacts: 
 Mentions: N-330, N-478, N-270
-Related Nodes: N-11036, N-10426
+Related Nodes: N-10954, N-10399
 Investigative Direction: Check Ghawi's residence history and any link between her New Braunfels period and people named in the Kirk case.
 
 ---
@@ -1384,7 +1376,7 @@ Transcript Snippet: And he had flown in from New Braunfels Texas to see her to g
 
 Anchored Artifacts: 
 Mentions: N-330, N-478
-Related Nodes: N-11036, N-10426
+Related Nodes: N-10954, N-10399
 Investigative Direction: Identify the companion from the victim list and confirm his hometown and travel from public reporting.
 
 ---
@@ -1399,7 +1391,7 @@ Transcript Snippet: rather than leaving her where she is two police officers go 
 
 Anchored Artifacts: 
 Mentions: N-3, N-478
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Compare with the Aurora police report, 911 logs and the coroner's findings on Ghawi's death.
 
 ---
@@ -1414,7 +1406,7 @@ Transcript Snippet: It was the Buckley Air Force Base from the year 2000 to 2021
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Check Buckley's service history and the date it was redesignated a Space Force base.
 
 ---
@@ -1429,7 +1421,7 @@ Transcript Snippet: in that theater alone there were a ton of military guys that
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Tabulate the military service of the 12 killed and 70 wounded from the court victim list.
 
 ---
@@ -1444,7 +1436,7 @@ Transcript Snippet: His daughter who was tragically murdered not terribly long b
 
 Anchored Artifacts: 
 Mentions: N-3, N-478
-Related Nodes: N-11036
+Related Nodes: N-10954
 Investigative Direction: Retrieve the father's obituary and Ghawi's obituary and any adoption record.
 
 ---
@@ -1487,7 +1479,7 @@ Transcript Snippet: when we have actual Satanists that are running psychological
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10436
+Related Nodes: N-10405
 Investigative Direction: Ask for the specific cases, courts-martial or investigations she relies on for trafficking on military bases.
 
 ---
@@ -1530,7 +1522,7 @@ Transcript Snippet: Bibi Netanyahu made an offer to Charlie Kirk to take Turning
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-4114, C-2134
 Investigative Direction: Seek the text of any Netanyahu-side communication to Kirk or TPUSA and testimony from those present at the Hamptons discussions.
 
@@ -1546,7 +1538,7 @@ Transcript Snippet: That was told to me from Andrew Kolvet. Okay? That's not som
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-4114
 Investigative Direction: Ask Kolvet whether he made the statement; look for the host's recorded call or texts with him.
 
@@ -1562,7 +1554,7 @@ Transcript Snippet: Yes, that's been confirmed by somebody in you know Andrew Ko
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-4118
 Investigative Direction: Identify the person in Kolvet's orbit and obtain a statement; compare with the family-friend tip in episode 39.
 
@@ -1578,7 +1570,7 @@ Transcript Snippet: And uh he's going around telling everybody it's going to be 
 
 Anchored Artifacts: 
 Mentions: N-3, N-117, N-718
-Related Nodes: N-10131
+Related Nodes: N-10126
 Investigative Direction: Ask PragerU and the filmmaker to confirm the project's existence and subject; the host spells the name variously.
 
 ---
@@ -1650,7 +1642,7 @@ Transcript Snippet: Dave Rubin um hired a a person who worked with me on my team
 
 Anchored Artifacts: 
 Mentions: N-3, N-32
-Related Nodes: N-11037, N-10131
+Related Nodes: N-10955, N-10126
 Investigative Direction: Identify the employee through PragerU or Rubin staff lists and ask him to confirm or deny the host's account.
 
 ---
@@ -1665,7 +1657,7 @@ Transcript Snippet: We We think he's secretly gay. And uh so we've been like at,
 
 Anchored Artifacts: 
 Mentions: N-3, N-32
-Related Nodes: N-11037
+Related Nodes: N-10955
 Investigative Direction: Seek the host's husband's recollection and any contemporaneous messages; Rubin has not responded in this episode.
 
 ---
@@ -1680,7 +1672,7 @@ Transcript Snippet: What ends up happening is he then says that they compelled h
 
 Anchored Artifacts: 
 Mentions: N-3, N-32
-Related Nodes: N-11037
+Related Nodes: N-10955
 Investigative Direction: Treat as the host's allegation; the employee's own account is the necessary corroboration.
 
 ---
@@ -1695,7 +1687,7 @@ Transcript Snippet: That's the reason I stopped being friends with Dave Rubin. I
 
 Anchored Artifacts: 
 Mentions: N-3, N-32, N-521
-Related Nodes: N-11037
+Related Nodes: N-10955
 Investigative Direction: Compare with earlier episodes in which the host described her break with Rubin.
 
 ---
@@ -1782,7 +1774,7 @@ Transcript Snippet: We've got these pastors like Rob McCoy constantly trying to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-17, N-22
-Related Nodes: N-10139
+Related Nodes: N-10134
 Investigative Direction: Ask for the specific cases and sermons; the host's framing is hyperbolic, so look for documented McCoy statements on offenders and Tucker Carlson.
 
 ---
@@ -1797,7 +1789,7 @@ Transcript Snippet: I ranted at him and Tyler Bowyer in a group chat. I actually
 
 Anchored Artifacts: A-2759.1
 Mentions: N-3, N-1, N-11
-Related Nodes: N-11038
+Related Nodes: N-10956
 Investigative Direction: Obtain the group chat export with dates; ask Bowyer and TPUSA to confirm the exchange and Shaffer Security's contract with TPUSA.
 
 ---
@@ -1812,7 +1804,7 @@ Transcript Snippet: I called his ex-men school which is now called Quest Academy
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10422
+Related Nodes: N-10395
 Investigative Direction: Verify the school's former name and Kirk's enrollment dates from yearbooks or school records; the transcript spelling is garbled.
 
 ---
@@ -1827,7 +1819,7 @@ Transcript Snippet: there is an angle here where I think the military is actuall
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Investigative Direction: A theory, not a finding; look for documented military screening of gifted programs and Kirk's participation in any such program.
 
 ---
@@ -1842,7 +1834,7 @@ Transcript Snippet: when they had Amfest and Erika came out, they played audio o
 
 Anchored Artifacts: A-2760.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Obtain the AmFest broadcast and the full original recording, including date, venue and any video, and have it forensically authenticated.
 
 ---
@@ -1857,7 +1849,7 @@ Transcript Snippet: when it comes up to a woman working outside the home with yo
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Compile Kirk's recorded statements on mothers working outside the home and compare their dates with the alleged August statement.
 
 ---
@@ -1872,7 +1864,7 @@ Transcript Snippet: their story has been that if anything ever happened to him, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Collect every TPUSA and Erika Kirk statement of this claim with date and venue and compare with the Aspen attendee accounts.
 
 ---
@@ -1887,7 +1879,7 @@ Transcript Snippet: they had prepared a response to a question that I wasn't ask
 
 Anchored Artifacts: A-2761.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Ask for the transcript, its source recording and its date; examine whether the printout matches any event recording.
 
 ---
@@ -1902,7 +1894,7 @@ Transcript Snippet: And I said, "Was this at Was this at Bill Ackman's house?" A
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-2
-Related Nodes: N-10431
+Related Nodes: N-10401
 Investigative Direction: Obtain the Aspen retreat guest list, agenda and any recording.
 
 ---
@@ -1917,7 +1909,7 @@ Transcript Snippet: I reach out and then they alleged that this was a question t
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10431
+Related Nodes: N-10401
 Investigative Direction: Identify the asker and each attendee who recalls the question; the host says she can now name the donor.
 
 ---
@@ -1932,7 +1924,7 @@ Transcript Snippet: Very small group, exclusive group of donors in Aspen in Augu
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10431, N-10437
+Related Nodes: N-10401, N-10406
 Investigative Direction: Ask the remaining attendees on the record; the host says she has contacted only two.
 
 ---
@@ -1947,7 +1939,7 @@ Transcript Snippet: what one person remembers, which sounds much more sensible, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10431, N-10437
+Related Nodes: N-10401, N-10406
 Investigative Direction: Obtain a signed account from the attendee and compare it with any recording of the event.
 
 ---
@@ -1962,7 +1954,7 @@ Transcript Snippet: I'm saying thus far I'm trying to confirm the story, I can't
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Request the unedited video of the retreat or speech and an attendee confirmation; treat the statement as unverified until then.
 
 ---
@@ -1977,7 +1969,7 @@ Transcript Snippet: I'm told that there was audio and visual at that event in th
 
 Anchored Artifacts: 
 Mentions: N-330
-Related Nodes: N-10664, N-10027
+Related Nodes: N-10606, N-10027
 Investigative Direction: Ask TPUSA whether a recording exists and of which event; the host and Coleman later say they were unsure whether the question came from the Hamptons or Aspen.
 
 ---
@@ -1992,7 +1984,7 @@ Transcript Snippet: I was told by Erika it was Aspen.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-330
-Related Nodes: N-10431, N-10027
+Related Nodes: N-10401, N-10027
 Investigative Direction: Pin down Erika Kirk's own account of venue and date, and compare it with the Hamptons attendee accounts.
 
 ---
@@ -2007,7 +1999,7 @@ Transcript Snippet: August 15th to 17th. So, less than less than a month [clears
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10431
+Related Nodes: N-10401
 Investigative Direction: Obtain the event listing, hotel or venue records and attendee list for August 15 to 17, 2025.
 
 ---
@@ -2037,7 +2029,7 @@ Transcript Snippet: first they were going to say I was a liar, then they had to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-14, N-270
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4063
 Investigative Direction: Obtain the texts or TPUSA's public confirmation, with timestamps; the transcript spells Kolvet as Kolodny.
 
@@ -2067,7 +2059,7 @@ Transcript Snippet: Because I think the answer to that question is yes. In my op
 
 Anchored Artifacts: 
 Mentions: N-330, N-2, N-1
-Related Nodes: N-11039
+Related Nodes: N-10957
 Investigative Direction: This is the host's stated opinion without a cited basis in this segment; look for any document or testimony of what Erika Kirk knew on September 9 and 10.
 
 ---
@@ -2082,7 +2074,7 @@ Transcript Snippet: and that the priest came over to pray 48 hours before to pra
 
 Anchored Artifacts: 
 Mentions: N-3, N-46, N-1
-Related Nodes: N-10117, N-10122
+Related Nodes: N-10113, N-10117
 Supports: C-810
 Investigative Direction: Identify the priest and date of the visit and compare with the Megyn Kelly interview where the account was given.
 
@@ -2098,7 +2090,7 @@ Transcript Snippet: As soon as the plane landed I deep got off of the plane and 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10548, N-10560
+Related Nodes: N-10502
 Supports: C-5414
 Investigative Direction: Check the host's phone records and notes of the calls and compare with Kolvet's public account and airport footage.
 
@@ -2114,7 +2106,7 @@ Transcript Snippet: Their planes landed an hour apart. Mhm. So, I just thought i
 
 Anchored Artifacts: A-1657.1
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10430, N-10548
+Related Nodes: N-10400, N-10502
 Supports: C-5414
 Investigative Direction: Pull the FAA and Flightradar24 data for both flights and compare it with the minute-by-minute arrival accounts.
 
@@ -2130,7 +2122,7 @@ Transcript Snippet: she did tell me that she found out Charlie was dead before t
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10430
+Related Nodes: N-10400
 Investigative Direction: Compare this with Erika Kirk's other accounts of when she learned of the death and with any call logs.
 
 ---
@@ -2145,7 +2137,7 @@ Transcript Snippet: they then went into different entries into the hospital. Eri
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10149
+Related Nodes: N-10144
 Investigative Direction: Check hospital security footage and staff accounts of the arrival of each.
 
 ---
@@ -2160,7 +2152,7 @@ Transcript Snippet: I was able to determine that that's the Yrefy guy. So, which
 
 Anchored Artifacts: A-1657.1
 Mentions: N-3
-Related Nodes: N-10430
+Related Nodes: N-10400
 Supports: C-5414
 Investigative Direction: Identify the aircraft owner from FAA registration records; the term Yrefy is as spelled in the transcript.
 
@@ -2176,7 +2168,7 @@ Transcript Snippet: I got the impression that he flew alone. And then I was told
 
 Anchored Artifacts: A-1657.1
 Mentions: N-3, N-14
-Related Nodes: N-10430, N-10560
+Related Nodes: N-10400, N-10502
 Supports: C-5414
 Investigative Direction: Compare the flight manifest with Kolvet's own statements about who flew with him.
 
@@ -2192,7 +2184,7 @@ Transcript Snippet: And Erika sat quietly like she didn't know the answer to whe
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-15, N-14
-Related Nodes: N-10560
+Related Nodes: N-10502
 Investigative Direction: Ask Erika Kirk and Justin Streiff for their accounts of that exchange and the date it happened.
 
 ---
@@ -2207,7 +2199,7 @@ Transcript Snippet: And so Justin Streiff then said to me I'll get back to you a
 
 Anchored Artifacts: A-1657.1
 Mentions: N-3, N-15, N-14
-Related Nodes: N-10560, N-10430
+Related Nodes: N-10502, N-10400
 Supports: C-5414
 Investigative Direction: Obtain the message in which Strieff replied and the passenger manifest if available.
 
@@ -2223,7 +2215,7 @@ Transcript Snippet: Erika told me to my face that Andrew went rogue and I never 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10341, N-10358
+Related Nodes: N-10319, N-10334
 Supports: C-4080
 Investigative Direction: Compare with Kolvet's statement in episode 47 and any account from the surgeon.
 
@@ -2239,7 +2231,7 @@ Transcript Snippet: when my source told me that Erika was on the phone and that 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
-Related Nodes: N-10341, N-10358
+Related Nodes: N-10319, N-10334
 Supports: C-4080
 Investigative Direction: Identify the source and obtain a second confirmation of who relayed the surgeon's words.
 
@@ -2255,7 +2247,7 @@ Transcript Snippet: they did this cuz they panicked about my episode and then th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10341, N-10358
+Related Nodes: N-10319, N-10334
 Supports: C-594
 Investigative Direction: Identify the person close to the surgeon and ask for an on-record account; the surgeon is named in prior episodes.
 
@@ -2271,7 +2263,7 @@ Transcript Snippet: said that money is being funneled that it's just a money lau
 
 Anchored Artifacts: 
 Mentions: N-3, N-270
-Related Nodes: N-10426
+Related Nodes: N-10399
 Supports: C-5278
 Investigative Direction: Review the Cattle Baron's Ball's filings and American Cancer Society grants; the allegation is unverified and the host says to investigate it.
 
@@ -2287,7 +2279,7 @@ Transcript Snippet: This is when they were running Operation Debunk Mitch and th
 
 Anchored Artifacts: A-1658.1
 Mentions: N-3, N-330, N-361
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-5424
 Investigative Direction: Locate the Operation Debunk Mitch posts and the baby mama's statement.
 
@@ -2303,7 +2295,7 @@ Transcript Snippet: She had the police report. His son later confirmed the polic
 
 Anchored Artifacts: A-1658.1
 Mentions: N-330, N-361, N-3
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-5424
 Investigative Direction: Obtain the police report and the son's confirmation as cited in the host's Fort Huachuca episodes.
 
@@ -2319,7 +2311,7 @@ Transcript Snippet: She called someone at the base and they said, yeah. Yeah. Um
 
 Anchored Artifacts: A-1658.1
 Mentions: N-330, N-361, N-3
-Related Nodes: N-10367, N-10370
+Related Nodes: N-10342, N-10305
 Supports: C-5424
 Investigative Direction: Identify the base contact and obtain a written or on-record confirmation of the building and its use.
 

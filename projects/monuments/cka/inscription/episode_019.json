@@ -462,7 +462,7 @@
           "related_nodes": [
             "N-3",
             "N-180",
-            "N-10192"
+            "N-10184"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -490,7 +490,7 @@
             "N-3",
             "N-180",
             "N-1",
-            "N-10799"
+            "N-10723"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -517,7 +517,7 @@
           "related_nodes": [
             "N-11",
             "N-180",
-            "N-10346"
+            "N-10324"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -663,7 +663,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ]
     },
     {
@@ -770,8 +770,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10191",
-      "ref": "N-10191",
+      "@id": "N-10183",
+      "ref": "N-10183",
       "name": "834ms Phone Timing Analysis",
       "type": "investigation_target",
       "description": "Investigable measurement: claimed time between gunshot audio and Mikey McCoy's phone-to-ear motion based on host's frame-by-frame review of event footage.",
@@ -793,8 +793,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10192",
-      "ref": "N-10192",
+      "@id": "N-10184",
+      "ref": "N-10184",
       "name": "Camera Operator Behavior Pattern",
       "type": "investigation_target",
       "description": "Investigable question regarding the camera operator's post-shot conduct: immediate selfie recording, premature announcement of death, brief flight distance, and delayed camera takedown.",
@@ -820,8 +820,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target: the absence of any public release or response from Mikey McCoy regarding who he was calling at 12:23 p.m. on 2025-09-10, despite host's stated attempts to obtain comment.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Investigable question: how Pastor Rob McCoy possessed knowledge of a TPUSA succession plan four days post-event, and the relationship between that disclosure and the implementation timeline.",
@@ -852,7 +852,10 @@
         "A-1260.1"
       ],
       "related_claims": [
-        "C-1726"
+        "C-1726",
+        "C-1728",
+        "C-1729",
+        "C-1771"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -865,8 +868,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10195",
-      "ref": "N-10195",
+      "@id": "N-10187",
+      "ref": "N-10187",
       "name": "Josh Hammer Defamation Threat",
       "type": "investigation_target",
       "description": "Investigable matter: Josh Hammer's reported threat of defamation action against Candace Owens following her discussion of Charlie Kirk's Israel-related text messages.",
@@ -1156,8 +1159,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1173,8 +1176,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1198,8 +1201,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10112",
-      "ref": "N-10112",
+      "@id": "N-10108",
+      "ref": "N-10108",
       "name": "Lone-Shooter Narrative Critique",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1218,8 +1221,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1235,8 +1238,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1252,8 +1255,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1269,8 +1272,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1293,28 +1296,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10218",
-      "ref": "N-10218",
-      "name": "McCoy Succession Plan",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1728",
-        "C-1729",
-        "C-1771"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10226",
-      "ref": "N-10226",
-      "name": "Mikey McCoy Phone Call Sequence Anomaly",
+      "@id": "N-10214",
+      "ref": "N-10214",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1322,7 +1306,8 @@
         "C-1735",
         "C-1736",
         "C-1737",
-        "C-1758"
+        "C-1758",
+        "C-1730"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1332,27 +1317,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
-      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1730",
-        "C-1735",
-        "C-1736"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1369,8 +1335,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1394,8 +1360,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10561",
-      "ref": "N-10561",
+      "@id": "N-10513",
+      "ref": "N-10513",
       "name": "Stacy Sheridan September 10 Location Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1411,8 +1377,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10635",
-      "ref": "N-10635",
+      "@id": "N-10581",
+      "ref": "N-10581",
       "name": "Lead-up Footage Absence",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1428,8 +1394,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10799",
-      "ref": "N-10799",
+      "@id": "N-10723",
+      "ref": "N-10723",
       "name": "Back-Camera Footage Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1445,8 +1411,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10806",
-      "ref": "N-10806",
+      "@id": "N-10730",
+      "ref": "N-10730",
       "name": "Charlie Kirk Pre-Event Text Messages",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1465,8 +1431,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11093",
-      "ref": "N-11093",
+      "@id": "N-11011",
+      "ref": "N-11011",
       "name": "Utah Back-to-Back Tour Stops Anomaly",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1566,8 +1532,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11378",
-      "ref": "N-11378",
+      "@id": "N-11294",
+      "ref": "N-11294",
       "name": "Candace Owens Handler Thesis After Kanye Tweet",
       "type": "topic",
       "description": "The host's theory that handlers were sent out after Kanye West's 2018 tweet to break apart her and Charlie Kirk and then manage them.",
@@ -1610,8 +1576,8 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-10191",
-        "N-10193"
+        "N-10183",
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34–00:11:27",
@@ -1630,8 +1596,8 @@
         "A-1261.3"
       ],
       "related_nodes": [
-        "N-10191",
-        "N-10193"
+        "N-10183",
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:13:17",
@@ -1650,8 +1616,8 @@
         "A-1261.2"
       ],
       "related_nodes": [
-        "N-10191",
-        "N-10193"
+        "N-10183",
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
@@ -1671,7 +1637,7 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:24:44–00:25:51",
@@ -1690,7 +1656,7 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:24:44–00:25:51",
@@ -1710,7 +1676,7 @@
         "A-1262.2"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:23:05",
@@ -1730,7 +1696,7 @@
         "A-1260.1"
       ],
       "related_nodes": [
-        "N-10194"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11",
@@ -1891,7 +1857,7 @@
         "A-1265.1"
       ],
       "related_nodes": [
-        "N-10195"
+        "N-10187"
       ],
       "tags": [],
       "claim_timestamp": "00:34:49–00:35:33",
@@ -2027,7 +1993,7 @@
         "A-1269.9"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:56:09",
@@ -2060,7 +2026,7 @@
       "claim": "Host states she told someone to play devil's advocate for Mikey McCoy and explain how he did it so quickly; \"no one could win this game.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
@@ -2115,7 +2081,7 @@
       "claim": "The host says Charlie Kirk's \"quote unquote closest friends,\" his closest political allies and the White House all seemed ready to move on much faster than she did, and that some may have accepted his death within minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:context"
@@ -2275,7 +2241,7 @@
       "claim": "The host says she had assumed Kirk's inner circle (Tyler Bowyer, Andrew Kolvet, Stacy Sheridan) and she would be on a group chat together pursuing answers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:context"
@@ -2298,7 +2264,7 @@
       "claim": "The host says Stacy Sheridan is the person holding the camera while Charlie Kirk's casket is escorted off Air Force Two.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10561"
+        "N-10513"
       ],
       "tags": [
         "relevance:context"
@@ -2337,7 +2303,7 @@
       "claim": "The host says she is told the people around Kirk believe the official narrative of a lone shooter with no one else involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10112"
+        "N-10108"
       ],
       "tags": [
         "relevance:core"
@@ -2380,7 +2346,7 @@
         "A-3287.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -2403,7 +2369,7 @@
         "A-3287.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:context"
@@ -2427,8 +2393,8 @@
         "A-3287.1"
       ],
       "related_nodes": [
-        "N-10338",
-        "N-10198"
+        "N-10214",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2452,7 +2418,7 @@
         "A-3287.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2473,7 +2439,7 @@
       "claim": "The host says Mikey McCoy was behind the tent when Charlie got shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2496,7 +2462,7 @@
         "A-3287.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2518,8 +2484,7 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-10226",
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2544,8 +2509,7 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-10226",
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2567,8 +2531,8 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-10226",
-        "N-10635"
+        "N-10214",
+        "N-10581"
       ],
       "tags": [
         "relevance:core"
@@ -2590,7 +2554,7 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2613,7 +2577,7 @@
       "claim": "The host says that, unlike what she would have done, neither Mikey McCoy nor Turning Point has issued a statement to dispel the rumors about the phone call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2675,8 +2639,8 @@
       "claim": "The host says that in six years of college events she never had the AV camera man standing next to her, and that his lingering beside Charlie struck her as weird.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2700,8 +2664,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2727,7 +2691,7 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -2750,8 +2714,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2774,8 +2738,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2798,8 +2762,8 @@
         "A-3289.1"
       ],
       "related_nodes": [
-        "N-10799",
-        "N-10192"
+        "N-10723",
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -2823,8 +2787,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2846,8 +2810,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2869,8 +2833,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2892,8 +2856,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10076"
+        "N-10184",
+        "N-10073"
       ],
       "tags": [
         "relevance:core"
@@ -2915,8 +2879,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10226"
+        "N-10184",
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2941,8 +2905,8 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-11093"
+        "N-10184",
+        "N-11011"
       ],
       "tags": [
         "relevance:core"
@@ -2967,7 +2931,7 @@
         "A-3288.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:context"
@@ -2990,8 +2954,8 @@
         "A-3290.1"
       ],
       "related_nodes": [
-        "N-10346",
-        "N-10167"
+        "N-10324",
+        "N-10160"
       ],
       "tags": [
         "relevance:core"
@@ -3018,8 +2982,8 @@
         "A-1262.2"
       ],
       "related_nodes": [
-        "N-10192",
-        "N-10198"
+        "N-10184",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3043,7 +3007,7 @@
         "A-1262.2"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -3066,7 +3030,7 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -3088,7 +3052,7 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-10192"
+        "N-10184"
       ],
       "tags": [
         "relevance:core"
@@ -3111,8 +3075,8 @@
         "A-1262.1"
       ],
       "related_nodes": [
-        "N-10076",
-        "N-10346"
+        "N-10073",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -3132,7 +3096,7 @@
       "claim": "The host, apparently mocking a speech she attributes to Pastor McCoy, says Charlie \"wanted me to lead the next movement\" and said \"I'm America's pastor,\" then adds sarcastically \"I'm sure he did. I'm sure he called you America's pastor.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:context"
@@ -3154,9 +3118,9 @@
       "claim": "The host says Josh Hammer lied about Charlie's position on Israel, and when caught did not apologize but doubled down.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10187",
-        "N-10148",
-        "N-10056"
+        "N-10179",
+        "N-10143",
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -3180,7 +3144,7 @@
       "claim": "The host says she described on a previous show a very vivid dream in which Charlie told her he had been betrayed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:tangential"
@@ -3204,7 +3168,7 @@
       "claim": "The host says Charlie also dreamed very vividly and would text her about those dreams after waking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"
@@ -3227,8 +3191,8 @@
         "A-1266.1"
       ],
       "related_nodes": [
-        "N-10389",
-        "N-10806"
+        "N-10362",
+        "N-10730"
       ],
       "tags": [
         "relevance:context"
@@ -3255,7 +3219,7 @@
       ],
       "related_nodes": [
         "N-10004",
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"
@@ -3279,8 +3243,8 @@
         "A-1266.1"
       ],
       "related_nodes": [
-        "N-10806",
-        "N-10389"
+        "N-10730",
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -3304,7 +3268,7 @@
       ],
       "related_nodes": [
         "N-10003",
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:context"
@@ -3327,8 +3291,8 @@
         "A-1266.1"
       ],
       "related_nodes": [
-        "N-10389",
-        "N-10806"
+        "N-10362",
+        "N-10730"
       ],
       "tags": [
         "relevance:context"
@@ -3351,8 +3315,8 @@
         "A-1266.1"
       ],
       "related_nodes": [
-        "N-10389",
-        "N-10806"
+        "N-10362",
+        "N-10730"
       ],
       "tags": [
         "relevance:context"
@@ -3373,7 +3337,7 @@
       "claim": "The host says podcasters, video makers and people taking money are telling audiences not to look in the direction of the case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10112"
+        "N-10108"
       ],
       "tags": [
         "relevance:context"
@@ -3393,7 +3357,7 @@
       "claim": "The host says there are people who betrayed Charlie, that they will probably not come clean, and that they are scared.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10389"
+        "N-10362"
       ],
       "tags": [
         "relevance:core"
@@ -3433,7 +3397,7 @@
       "claim": "The host says there are many people involved at different stages, beyond the lone shooter, and that some people who know things may be watching her show from an office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10112"
+        "N-10108"
       ],
       "tags": [
         "relevance:core"
@@ -3453,7 +3417,7 @@
       "claim": "The host says there will be justice for Charlie, but not the fake kind and not the Tyler Robinson kind.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10112"
+        "N-10108"
       ],
       "tags": [
         "relevance:core"
@@ -3511,7 +3475,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10004",
-        "N-11378"
+        "N-11294"
       ],
       "tags": [
         "relevance:context"
@@ -3594,7 +3558,7 @@
         "A-1261.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"

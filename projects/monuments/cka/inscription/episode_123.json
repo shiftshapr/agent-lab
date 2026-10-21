@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10706"
+            "N-10642"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10705"
+            "N-10641"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,7 +162,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10705"
+            "N-10641"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
             "C-10557"
           ],
           "related_nodes": [
-            "N-10705"
+            "N-10641"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -505,8 +505,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10705",
-      "ref": "N-10705",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: where did the tempered glass in the vehicle come from, and how was the road/lapel microphone broken?",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10706",
-      "ref": "N-10706",
+      "@id": "N-10642",
+      "ref": "N-10642",
       "name": "Charlie's Bloody Jacket Chain of Custody Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.",
@@ -546,8 +546,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10707",
-      "ref": "N-10707",
+      "@id": "N-10643",
+      "ref": "N-10643",
       "name": "Missing Charlie's Shirt Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: location and disposition of Charlie Kirk's shirt on the day of the incident.",
@@ -563,8 +563,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10708",
-      "ref": "N-10708",
+      "@id": "N-10644",
+      "ref": "N-10644",
       "name": "Car Door Open During Transport Report Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: police scanner reports indicating car door was open during high-speed transport and a visible \"struggle\" in the vehicle.",
@@ -978,8 +978,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1030,9 +1030,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10226",
-      "ref": "N-10226",
-      "name": "Mikey McCoy Phone Call Sequence Anomaly",
+      "@id": "N-10214",
+      "ref": "N-10214",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1047,8 +1047,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10369",
-      "ref": "N-10369",
+      "@id": "N-10344",
+      "ref": "N-10344",
       "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1082,8 +1082,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10507",
-      "ref": "N-10507",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1100,8 +1100,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1117,8 +1117,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10678",
-      "ref": "N-10678",
+      "@id": "N-10616",
+      "ref": "N-10616",
       "name": "SUV Floorboard Shard Mic Identification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10686",
-      "ref": "N-10686",
+      "@id": "N-10624",
+      "ref": "N-10624",
       "name": "Hospital Transport Sequence Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1154,8 +1154,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1172,8 +1172,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1190,8 +1190,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10714",
-      "ref": "N-10714",
+      "@id": "N-10650",
+      "ref": "N-10650",
       "name": "Unidentified Burnt Object in Charlie Kirk's SUV",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1208,8 +1208,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10724",
-      "ref": "N-10724",
+      "@id": "N-10659",
+      "ref": "N-10659",
       "name": "Butler Shooting Insider Involvement Claim",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1245,8 +1245,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1262,8 +1262,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10987",
-      "ref": "N-10987",
+      "@id": "N-10907",
+      "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1297,8 +1297,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11134",
-      "ref": "N-11134",
+      "@id": "N-11052",
+      "ref": "N-11052",
       "name": "Charlie Kirk Carry-to-Vehicle Handling Question",
       "type": "topic",
       "description": "The host's observation, from images she has not shown, that Charlie's neck was unsecured and his shirt raised as he was carried to the vehicle.",
@@ -1327,7 +1327,7 @@
         "A-2111.4"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11–00:17:00",
@@ -1362,11 +1362,11 @@
         "A-2110.1"
       ],
       "related_nodes": [
-        "N-10706"
+        "N-10642"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
-      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-10706).",
+      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-10642).",
       "mentions_person_refs": [
         "N-1"
       ]
@@ -1379,7 +1379,7 @@
       "claim": "The host says Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10706"
+        "N-10642"
       ],
       "tags": [],
       "claim_timestamp": "00:07:01",
@@ -1464,7 +1464,7 @@
       "claim": "The host says that across their many retellings, Frank Turek and Brian Harpole described Frank praying and Harpole packing the wound but did not mention any shattered tempered glass in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:19:40",
@@ -1518,7 +1518,7 @@
         "A-2114.2"
       ],
       "related_nodes": [
-        "N-10708"
+        "N-10644"
       ],
       "tags": [],
       "claim_timestamp": "00:50:36",
@@ -1536,8 +1536,8 @@
       "claim": "The host says TPUSA spokesperson Andrew Kolvet should respond about why or how the Rode microphone shattered, why Frank Turek and Brian Harpole seem to have forgotten it in their many retellings, and where Charlie's shirt is.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705",
-        "N-10707"
+        "N-10641",
+        "N-10643"
       ],
       "tags": [],
       "claim_timestamp": "00:29:24–00:30:20",
@@ -1608,7 +1608,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -1630,7 +1630,7 @@
       "claim": "The host says Frank Turek's account of the car ride is told differently than Brian Harpole's account of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -1674,7 +1674,7 @@
       "claim": "The host says she believes Tyler Robinson did pick up clothes and bury them at Dairy Queen, while leaving open whether he was an accessory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -1695,9 +1695,9 @@
       "claim": "The host says Jon Bray was convinced from the very beginning that Charlie's microphone was rigged beneath him and subsequently shattered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768",
-        "N-10987",
-        "N-10705"
+        "N-10697",
+        "N-10907",
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -1739,8 +1739,8 @@
       "claim": "The host says that after the earlier photos were released, critics lied and said the fragments were not the Rode microphone but something else, such as a pair of sunglasses.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10369",
-        "N-10678"
+        "N-10344",
+        "N-10616"
       ],
       "tags": [
         "relevance:core"
@@ -1763,7 +1763,7 @@
       "claim": "The host says nobody's story said anything about even lifting Charlie's shirt, so no one has explained how the microphone could have broken.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -1809,7 +1809,7 @@
       "claim": "The host says Charlie went to Salt Lake City and gave an interview to a company she names as Restaurantology before driving to Provo for the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:context"
@@ -1829,7 +1829,7 @@
       "claim": "The host says Charlie had a jacket that he did not wear, as he was in a t-shirt, and that the jacket stayed in the car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10707"
+        "N-10643"
       ],
       "tags": [
         "relevance:core"
@@ -1849,8 +1849,8 @@
       "claim": "The host says Frank Turek's story is that he changed clothes in part because he did not want Erika to see him bloodied, and asks why a bloody jacket of Charlie's would then be returned to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688",
-        "N-10706"
+        "N-10626",
+        "N-10642"
       ],
       "tags": [
         "relevance:core"
@@ -1873,7 +1873,7 @@
         "A-2110.3"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -1893,7 +1893,7 @@
       "claim": "The host says the story Frank Turek and Brian Harpole tell has about six minutes on the clock at 40, 60 and 100 miles an hour for a ride Google Maps puts at eight minutes, and that such speeds mean they were not stuck in traffic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -1920,7 +1920,7 @@
         "A-2111.1"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [
         "relevance:core"
@@ -1939,7 +1939,7 @@
         "A-2111.2"
       ],
       "related_nodes": [
-        "N-10707"
+        "N-10643"
       ],
       "tags": [
         "relevance:context"
@@ -1956,7 +1956,7 @@
       "claim": "The host says she considered that the black item was a taser, recalled Rick Cutler had something on his back when running in, but concluded it did not match what Cutler had on him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10714"
+        "N-10650"
       ],
       "tags": [
         "relevance:core"
@@ -1995,8 +1995,8 @@
         "A-2114.1"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10862"
+        "N-10820",
+        "N-10783"
       ],
       "tags": [
         "relevance:core"
@@ -2019,7 +2019,7 @@
         "A-2111.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2039,7 +2039,7 @@
       "claim": "The host says she had devised a scenario in which Frank, rather than providing CPR, was trying to get Charlie's shirt off, which put blood on his hands.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [
         "relevance:core"
@@ -2063,7 +2063,7 @@
       "claim": "The host says she does not believe for a single second that the scene she describes took place at the hospital and calls the glass undeniable.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2085,7 +2085,7 @@
         "A-2111.4"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -2104,7 +2104,7 @@
         "A-2111.4"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -2123,7 +2123,7 @@
         "A-2857.1"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -2144,7 +2144,7 @@
       "claim": "The host says Brian Harpole is suing her over his incompetence, mocks his position that she cannot call him incompetent, and says people should watch how Charlie was carried to the car.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -2170,7 +2170,7 @@
         "A-2858.1"
       ],
       "related_nodes": [
-        "N-11134"
+        "N-11052"
       ],
       "tags": [
         "relevance:core"
@@ -2192,7 +2192,7 @@
         "A-2858.1"
       ],
       "related_nodes": [
-        "N-11134"
+        "N-11052"
       ],
       "tags": [
         "relevance:core"
@@ -2214,8 +2214,8 @@
         "A-2858.1"
       ],
       "related_nodes": [
-        "N-11134",
-        "N-10705"
+        "N-11052",
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -2235,7 +2235,7 @@
       "claim": "The host says she has run the microphone question past Baron Coleman and a person she calls Tim, asking for the other side, and that all must acknowledge this is the road mic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:context"
@@ -2255,7 +2255,7 @@
       "claim": "The host says Erika Kirk was the first to say at the podium that Mikey McCoy was amazing and snapped into action, which the host calls patently untrue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2276,7 +2276,7 @@
       "claim": "The host says she was told Mikey McCoy was the most emotionally impacted and did not have it together at the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2299,7 +2299,7 @@
       "claim": "The host says Mikey's reaction leads her to believe he did not know Charlie was going to die that day and was not prepared for it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10226"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2378,7 +2378,7 @@
       "claim": "The host asks whether Blake Neff, Graham Allen and Paramount Tactical really thought they were going to delude the public into the absurd story they tried to spin.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:context"
@@ -2399,8 +2399,8 @@
       "claim": "The host says the Butler shooting happened on a Saturday and that Charlie normally turned his phone off on Saturdays.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10724",
-        "N-10507"
+        "N-10659",
+        "N-10468"
       ],
       "tags": [
         "relevance:context"
@@ -2422,7 +2422,7 @@
         "A-2113"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10468"
       ],
       "tags": [
         "relevance:context"
@@ -2445,7 +2445,7 @@
         "A-2113"
       ],
       "related_nodes": [
-        "N-10724"
+        "N-10659"
       ],
       "tags": [
         "relevance:context"
@@ -2545,7 +2545,7 @@
         "A-2861.2"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:tangential"
@@ -2564,7 +2564,7 @@
         "A-2114.3"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [
         "relevance:core"
@@ -2581,8 +2581,8 @@
       "claim": "The host says she thinks Jon Bray's theory has infinitely more evidence than the story told by the prosecution, the FBI and TPUSA representatives.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705",
-        "N-10768"
+        "N-10641",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2602,7 +2602,7 @@
       "claim": "The host says Brian Harpole said they caught a tail, going so fast that police were behind them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2625,7 +2625,7 @@
       "claim": "The host says she heard via the grapevine that the vehicle did not take the nearby highway but went on back roads.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2767,7 +2767,7 @@
       "claim": "The host says she does not know what is going on with data centers or Utah or why they are so tied to Romania, and that the pieces are coming together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [
         "relevance:context"

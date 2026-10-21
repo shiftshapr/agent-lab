@@ -15,13 +15,13 @@
 - **Transcript SHA-256**: 05c80b0f23bab3431b8d277251cd2231ddfdd801d28cb34d1e440687aa0c59f5
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep007): N-99, N-10094, N-10110, N-10297, N-10341
-  - Tip-minted Nodes (reintro-ep007): N-10900, N-11116
+  - Hole-minted Nodes (reintro-ep007): N-99, N-10090, N-10106, N-10279, N-10319
+  - Tip-minted Nodes (reintro-ep007): N-10821, N-11034
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-584–C-657
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
-  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10084, N-10086, N-10087, N-10088, N-10090, N-10091
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134, N-10083, N-10085, N-68
+  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10079, N-10080, N-10082, N-10083, N-10084, N-10086, N-10087
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10035, N-10044, N-10050, N-10051, N-10057, N-10060, N-10067, N-10073, N-10077, N-10100, N-10134, N-10252, N-10320, N-10924, N-72, N-10085, N-10129, N-10070, N-10081, N-68
 ## 2. Executive Summary
 
 Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.
@@ -78,7 +78,7 @@ Confidence: high
 
 **A-1138.1** Derek Maxfield Instagram statement: ATC granted transponder shutdown permission
 Video Timestamp: 00:17:12–00:17:48
-*Related: C-600, N-94, N-10014, N-10084*
+*Related: C-600, N-94, N-10014, N-10080*
 Transcript Snippet: they got permission to you know turn off services which are transponder services um and they got that permission from the air traffic controller.
 Confidence: medium
 
@@ -88,13 +88,13 @@ Confidence: medium
 
 **A-1139.1** Photo showing pipeline behind Charlie's seat
 Video Timestamp: 00:20:46–00:21:00
-*Related: C-605, N-10012, N-10085*
+*Related: C-605, N-10012, N-10081*
 Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Confidence: medium
 
 **A-1139.2** Close-up of trap-door boxes at location
 Video Timestamp: 00:21:13–00:21:27
-*Related: C-605, N-10012, N-10085*
+*Related: C-605, N-10012, N-10081*
 Transcript Snippet: You're observing those two little boxes, and they told me that that was a a trap door.
 
 **A-1139.3** Footage of area being repaved shortly after shooting
@@ -108,7 +108,7 @@ Transcript Snippet: They decided to instead pave that area, repave it.
 
 **A-1140.1** Laura Loomer tweet reporting Candace to CIA over CIA-themed merch
 Video Timestamp: 00:27:15–00:28:40
-*Related: C-612, N-60, N-10082*
+*Related: C-612, N-60, N-10079*
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Confidence: high
 
@@ -152,7 +152,7 @@ Transcript Snippet: If you call everyone an anti-semite if they don't take a pur
 
 **A-1143.2** Charlie Kirk town hall clip discussing AIPAC
 Video Timestamp: 00:39:25–00:42:59
-*Related: C-631, N-10083*
+*Related: C-631, N-10070*
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 
 ---
@@ -444,7 +444,7 @@ Israeli PM alleged to have offered Charlie Kirk funding.
 
 ---
 
-**N-10082** CIA
+**N-10079** CIA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -476,7 +476,7 @@ Site of Charlie Kirk shooting; alleged underground tunnel/pipeline owner.
 
 ---
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 Node Type: Organization
 Organization Kind: advocacy_group
@@ -488,7 +488,7 @@ Pro-Israel lobbying organization discussed at Charlie's town hall.
 
 ---
 
-**N-10084** FAA
+**N-10080** FAA
 
 Node Type: Organization
 Organization Kind: government_agency
@@ -498,7 +498,7 @@ Federal Aviation Administration; consulted re transponder claim.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -508,7 +508,7 @@ Mismatch between expected high-velocity bullet behavior and reported no-exit-wou
 
 ---
 
-**N-10086** Transponder / Plane Anomaly Investigation
+**N-10082** Transponder / Plane Anomaly Investigation
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -518,7 +518,7 @@ Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).
 
 ---
 
-**N-10087** UVU Underground Tunnel / Pipeline Investigation
+**N-10083** UVU Underground Tunnel / Pipeline Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -528,7 +528,7 @@ Hypothesis that underground access near Charlie's seat could explain no-exit-wou
 
 ---
 
-**N-10088** Candace Owens FBI/CIA Reporting Incident
+**N-10084** Candace Owens FBI/CIA Reporting Incident
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -538,7 +538,7 @@ Allegation that Candace was reported to FBI and CIA over merch and rhetoric.
 
 ---
 
-**N-10089** Charlie Kirk / Candace Alleged Falling Out
+**N-10085** Charlie Kirk / Candace Alleged Falling Out
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -548,7 +548,7 @@ Disputed narrative that Charlie and Candace had a breakup; host denies.
 
 ---
 
-**N-10090** Screwdriver Evidence Question
+**N-10086** Screwdriver Evidence Question
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -558,7 +558,7 @@ Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.
 
 ---
 
-**N-10091** Dr. Frank Turek Suspicion
+**N-10087** Dr. Frank Turek Suspicion
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -672,7 +672,7 @@ Decoy Boy Operation Analysis; topic covering Zinn's role.
 
 ---
 
-**N-10036** Building Donor Withdrawal Investigation
+**N-10035** Building Donor Withdrawal Investigation
 
 Building Donor Withdrawal Investigation; donor pulled funding and demanded name removal.
 
@@ -680,7 +680,7 @@ Building Donor Withdrawal Investigation; donor pulled funding and demanded name 
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.
 
@@ -688,7 +688,7 @@ Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.
 
 ---
 
-**N-10053** Vacant-House / Decoy Shooter Theory
+**N-10050** Vacant-House / Decoy Shooter Theory
 
 Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.
 
@@ -696,7 +696,7 @@ Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.
 
 ---
 
-**N-10054** Caldera Engineering Valve Pattern
+**N-10051** Caldera Engineering Valve Pattern
 
 Caldera Engineering Valve Pattern; the witness's valve company.
 
@@ -704,7 +704,7 @@ Caldera Engineering Valve Pattern; the witness's valve company.
 
 ---
 
-**N-10060** Good Morning America
+**N-10057** Good Morning America
 
 Good Morning America; where the children appeared.
 
@@ -712,7 +712,7 @@ Good Morning America; where the children appeared.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Gaza; context for the leaked thread and Israel remarks.
 
@@ -720,7 +720,7 @@ Gaza; context for the leaked thread and Israel remarks.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Daily Mail; reported the host raged about not being invited.
 
@@ -728,7 +728,7 @@ Daily Mail; reported the host raged about not being invited.
 
 ---
 
-**N-10076** Cameragate Investigation
+**N-10073** Cameragate Investigation
 
 Cameragate Investigation; camera removal after the shooting.
 
@@ -736,7 +736,7 @@ Cameragate Investigation; camera removal after the shooting.
 
 ---
 
-**N-10080** Valve/Piping Industry Intelligence Connection
+**N-10077** Valve/Piping Industry Intelligence Connection
 
 Valve/Piping Industry Intelligence Connection; the host's valve remark.
 
@@ -744,7 +744,7 @@ Valve/Piping Industry Intelligence Connection; the host's valve remark.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 LDS Church; the host's intelligence recruiting remark.
 
@@ -752,7 +752,7 @@ LDS Church; the host's intelligence recruiting remark.
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Catholic Conversion Rumor; Charlie and Catholicism.
 
@@ -760,7 +760,7 @@ Catholic Conversion Rumor; Charlie and Catholicism.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Tyler Robinson Evidence Gaps; the disappeared letter.
 
@@ -768,7 +768,7 @@ Tyler Robinson Evidence Gaps; the disappeared letter.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Hamptons Weekend Retreat; gathering context.
 
@@ -776,7 +776,7 @@ Hamptons Weekend Retreat; gathering context.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Operation Mocking Pastor; what the host says the $150 million funded.
 
@@ -784,7 +784,7 @@ Operation Mocking Pastor; what the host says the $150 million funded.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 AmFest Speaker Removal Pattern; the host says she was blocked from speaking.
 
@@ -792,7 +792,7 @@ AmFest Speaker Removal Pattern; the host says she was blocked from speaking.
 
 ---
 
-**N-10297** Eric Bolling / PBD Podcast Apology Incident
+**N-10279** Eric Bolling / PBD Podcast Apology Incident
 
 Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breakup claim.
 
@@ -800,7 +800,7 @@ Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breaku
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Andrew Kolvet Surgeon Bullet Description; Kolvet statement.
 
@@ -808,7 +808,7 @@ Andrew Kolvet Surgeon Bullet Description; Kolvet statement.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Bibi Netanyahu TPUSA Funding Offer; alleged offer.
 
@@ -816,7 +816,7 @@ Bibi Netanyahu TPUSA Funding Offer; alleged offer.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Daily Wire; the host's former employer.
 
@@ -824,7 +824,7 @@ Daily Wire; the host's former employer.
 
 ---
 
-**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
+**N-10924** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
 
 Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens; the funding claim.
 
@@ -832,7 +832,7 @@ Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candac
 
 ---
 
-**N-11116** Candace Owens Daily Wire Firing Reasons
+**N-11034** Candace Owens Daily Wire Firing Reasons
 
 Candace Owens Daily Wire Firing Reasons; her job loss.
 
@@ -860,7 +860,7 @@ Claim: TPUSA spokesperson Andrew Kolvet publicly stated the absence of an exit w
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Anchored Artifacts: A-1135.1
 Mentions: N-14
-Related Nodes: N-10000, N-10085
+Related Nodes: N-10000, N-10081
 Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.
 
 ---
@@ -872,7 +872,7 @@ Claim: In a tweet the host reads, Andrew Kolvet says the surgeon who worked on C
 Transcript Snippet: He said the bullet quote absolutely should have gone through.
 Anchored Artifacts: A-1135.1
 Mentions: N-14, N-1
-Related Nodes: N-10085
+Related Nodes: N-10081
 Investigative Direction: Identify the surgeon and request confirmation; review any hospital records.
 
 ---
@@ -884,7 +884,7 @@ Claim: In a clip the host plays, Alex Jones says on X Live that a TPUSA spokespe
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Anchored Artifacts: A-1136.1
 Mentions: N-93
-Related Nodes: N-10085
+Related Nodes: N-10081
 Investigative Direction: Archive the original X Live broadcast.
 
 ---
@@ -909,7 +909,7 @@ Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost 
 Transcript Snippet: It can't be both. Can't be.
 Anchored Artifacts: A-1137.1, A-1138.1
 Mentions: N-69, N-94
-Related Nodes: N-10014, N-10084, N-10086
+Related Nodes: N-10014, N-10080, N-10082
 Confidence: medium
 Uncertainty: Both sides cited via on-screen/read-aloud artifacts.
 Investigative Direction: Obtain FAA radar logs and ATC recordings for the relevant flight.
@@ -923,7 +923,7 @@ Claim: The host says that old photos of where Charlie Kirk was seated show a lar
 Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Anchored Artifacts: A-1139.1, A-1139.2
 Mentions: N-1
-Related Nodes: N-10012, N-10087
+Related Nodes: N-10012, N-10083
 Investigative Direction: Obtain UVU facilities maps, irrigation system records, and underground utility diagrams.
 
 ---
@@ -947,7 +947,7 @@ Claim: In a tweet the host reads, Laura Loomer tags the director of the CIA and 
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Anchored Artifacts: A-1140.1
 Mentions: N-3, N-60
-Related Nodes: N-10082, N-10088
+Related Nodes: N-10079, N-10084
 Investigative Direction: Archive the original Loomer tweet; check whether any formal CIA complaint was filed.
 
 ---
@@ -959,7 +959,7 @@ Claim: An X account called Awesome Jew released text messages between Charlie Ki
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Anchored Artifacts: A-1141.1, A-1141.2
 Mentions: N-1, N-3, N-96
-Related Nodes: N-10089
+Related Nodes: N-10085
 Investigative Direction: Verify the actual date of the messages via metadata or forensic analysis of screenshots.
 
 Tags: open_source_investigation
@@ -972,7 +972,7 @@ Claim: Host asserts the released text messages dated to 2023 based on context (B
 Transcript Snippet: It's from 2023. He then writes 'It doesn't come natural to her...'
 Anchored Artifacts: A-1141.1, A-1141.2
 Mentions: N-1, N-3, N-64
-Related Nodes: N-10089
+Related Nodes: N-10085
 Investigative Direction: Cross-reference the content with public 2023 events; obtain metadata from screenshots.
 
 Tags: open_source_investigation
@@ -996,7 +996,7 @@ Claim: In a clip the host plays, Charlie Kirk says that if you call everyone an 
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
 Mentions: N-36, N-1
-Related Nodes: N-10083
+Related Nodes: N-10070
 Investigative Direction: Verify the full town hall recording.
 
 ---
@@ -1008,7 +1008,7 @@ Claim: In a clip the host plays of an audience Q&A, after Charlie Kirk invites h
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.
 Anchored Artifacts: A-1143.2
 Mentions: N-1
-Related Nodes: N-10083
+Related Nodes: N-10070
 Investigative Direction: Verify the full town hall recording and Charlie's subsequent statements on the topic.
 
 ---
@@ -1031,7 +1031,7 @@ Claim: A viewer reports that authorities claimed a screwdriver was found on the 
 Transcript Snippet: You don't use a screwdriver to take that rifle apart.
 Anchored Artifacts: A-1145.1
 Mentions:
-Related Nodes: N-10090
+Related Nodes: N-10086
 Investigative Direction: Identify the rifle model and required disassembly tools; locate official inventory of recovered items.
 
 ---
@@ -1043,7 +1043,7 @@ Claim: A viewer comment the host reads says something about Dr. Frank Turek isn'
 Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 Anchored Artifacts: A-1145.2
 Mentions: N-7
-Related Nodes: N-10091
+Related Nodes: N-10087
 Investigative Direction: Obtain the full Frank Turek memorial speech and biographical background.
 
 ---
@@ -1211,7 +1211,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-83, N-10076
+Related Nodes: N-83, N-10073
 
 Supports: C-376, C-501
 
@@ -1233,7 +1233,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10085
+Related Nodes: N-10081
 
 Supports: C-516
 
@@ -1255,7 +1255,7 @@ Anchored Artifacts: A-1135.1
 
 Mentions: N-14, N-1, N-3
 
-Related Nodes: N-10341, N-10085
+Related Nodes: N-10319, N-10081
 
 Tags: relevance:core
 
@@ -1275,7 +1275,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-40
 
-Related Nodes: N-10110
+Related Nodes: N-10106
 
 Tags: relevance:core
 
@@ -1315,7 +1315,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10053, N-10012
+Related Nodes: N-10050, N-10012
 
 Tags: relevance:core
 
@@ -1335,7 +1335,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10054, N-10011
+Related Nodes: N-10051, N-10011
 
 Supports: C-527
 
@@ -1357,7 +1357,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10080
+Related Nodes: N-10077
 
 Supports: C-526
 
@@ -1379,7 +1379,7 @@ Anchored Artifacts: A-3097.1
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10087, N-10012
+Related Nodes: N-10083, N-10012
 
 Supports: C-605
 
@@ -1401,7 +1401,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10087, N-10085
+Related Nodes: N-10083, N-10081
 
 Tags: relevance:core
 
@@ -1421,7 +1421,7 @@ Anchored Artifacts:
 
 Mentions: N-1, N-3
 
-Related Nodes: N-10012, N-10087
+Related Nodes: N-10012, N-10083
 
 Supports: C-605
 
@@ -1443,7 +1443,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10014, N-10082, N-10088
+Related Nodes: N-10014, N-10079, N-10084
 
 Supports: C-612
 
@@ -1465,7 +1465,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-72, N-1
 
-Related Nodes: N-10297
+Related Nodes: N-10279
 
 Tags: relevance:context
 
@@ -1485,7 +1485,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10089
+Related Nodes: N-10085
 
 Contradicts: C-462
 
@@ -1507,7 +1507,7 @@ Anchored Artifacts:
 
 Mentions: N-96, N-37, N-3
 
-Related Nodes: N-10027, N-10134
+Related Nodes: N-10027, N-10129
 
 Tags: relevance:context
 
@@ -1527,7 +1527,7 @@ Anchored Artifacts: A-1141.2
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10089, N-10047
+Related Nodes: N-10085, N-10044
 
 Tags: relevance:context
 
@@ -1565,7 +1565,7 @@ Anchored Artifacts: A-1141.2
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10089, N-10063
+Related Nodes: N-10085, N-10060
 
 Tags: relevance:context
 
@@ -1605,7 +1605,7 @@ Anchored Artifacts: A-1141.2
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10089
+Related Nodes: N-10085
 
 Tags: relevance:context
 
@@ -1625,7 +1625,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10000, N-10089
+Related Nodes: N-10000, N-10085
 
 Supports: C-464, C-540
 
@@ -1647,7 +1647,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10268
+Related Nodes: N-10252
 
 Tags: relevance:context
 
@@ -1685,7 +1685,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-11116, N-10900
+Related Nodes: N-11034, N-10821
 
 Tags: relevance:context
 
@@ -1705,7 +1705,7 @@ Anchored Artifacts: A-1143.1
 
 Mentions: N-1, N-22, N-3
 
-Related Nodes: N-10083
+Related Nodes: N-10070
 
 Tags: relevance:context
 
@@ -1725,7 +1725,7 @@ Anchored Artifacts: A-1143.1
 
 Mentions: N-1, N-3
 
-Related Nodes: N-10083
+Related Nodes: N-10070
 
 Tags: relevance:context
 
@@ -1745,7 +1745,7 @@ Anchored Artifacts: A-1143.2
 
 Mentions: N-1, N-3
 
-Related Nodes: N-10083
+Related Nodes: N-10070
 
 Tags: relevance:context
 
@@ -1765,7 +1765,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10083
+Related Nodes: N-10070
 
 Supports: C-631
 
@@ -1787,7 +1787,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10047
+Related Nodes: N-10044
 
 Tags: relevance:context
 
@@ -1845,7 +1845,7 @@ Anchored Artifacts: A-1145.3
 
 Mentions: N-3
 
-Related Nodes: N-10060
+Related Nodes: N-10057
 
 Tags: relevance:context
 
@@ -1883,7 +1883,7 @@ Anchored Artifacts:
 
 Mentions: N-1, N-3
 
-Related Nodes: N-10063
+Related Nodes: N-10060
 
 Tags: relevance:context
 
@@ -1903,7 +1903,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10087, N-10012
+Related Nodes: N-10083, N-10012
 
 Tags: relevance:core
 
@@ -1923,7 +1923,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10012, N-10087
+Related Nodes: N-10012, N-10083
 
 Supports: C-605
 
@@ -1963,7 +1963,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10070
+Related Nodes: N-10067
 
 Supports: C-529, C-480
 
@@ -1985,7 +1985,7 @@ Anchored Artifacts: A-3099.1
 
 Mentions: N-3
 
-Related Nodes: N-10094, N-10012
+Related Nodes: N-10090, N-10012
 
 Tags: relevance:context
 
@@ -2059,7 +2059,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-2, N-99, N-36, N-1
 
-Related Nodes: N-10342
+Related Nodes: N-10320
 
 Tags: relevance:core
 
@@ -2079,7 +2079,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-36, N-22, N-1
 
-Related Nodes: N-10139, N-11004
+Related Nodes: N-10134, N-10924
 
 Supports: C-380
 
@@ -2101,7 +2101,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-36, N-1
 
-Related Nodes: N-10342
+Related Nodes: N-10320
 
 Tags: relevance:core
 
@@ -2121,7 +2121,7 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 
-Related Nodes: N-10104
+Related Nodes: N-10100
 
 Tags: relevance:context
 
@@ -2141,7 +2141,7 @@ Anchored Artifacts:
 
 Mentions: N-2, N-3
 
-Related Nodes: N-10104
+Related Nodes: N-10100
 
 Tags: relevance:context
 
@@ -2161,7 +2161,7 @@ Anchored Artifacts:
 
 Mentions: N-98, N-3, N-1
 
-Related Nodes: N-10036, N-10000
+Related Nodes: N-10035, N-10000
 
 Supports: C-269
 

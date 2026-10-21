@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10224"
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10224"
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -387,8 +387,8 @@
           ],
           "related_nodes": [
             "N-190",
-            "N-10225",
-            "N-10226"
+            "N-10213",
+            "N-10214"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,7 +407,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10225"
+            "N-10213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -567,8 +567,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10224",
-        "N-10225"
+        "N-10211",
+        "N-10213"
       ]
     },
     {
@@ -654,9 +654,9 @@
       "related_nodes": [
         "N-17",
         "N-2",
-        "N-10225",
-        "N-10226",
-        "N-10227"
+        "N-10213",
+        "N-10214",
+        "N-10215"
       ]
     },
     {
@@ -841,8 +841,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10224",
-      "ref": "N-10224",
+      "@id": "N-10211",
+      "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
       "type": "investigation_target",
       "description": "Persistent discrepancy between standard TPUSA advance-planning window (≈5–6 months, per A-1333.1) and the unusually short UVU request-to-event interval (mid-July 2025 request, September 2025 approval per host).",
@@ -865,8 +865,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10225",
-      "ref": "N-10225",
+      "@id": "N-10213",
+      "ref": "N-10213",
       "name": "Equipment Box / First-Aid Anomaly at UVU Scene",
       "type": "investigation_target",
       "description": "Persistent claim that Charlie Kirk was placed on top of an equipment box rather than flat ground, and that no visible first-aid administration occurred in the immediate post-shot window.",
@@ -889,9 +889,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10226",
-      "ref": "N-10226",
-      "name": "Mikey McCoy Phone Call Sequence Anomaly",
+      "@id": "N-10214",
+      "ref": "N-10214",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Persistent claim that Mikey McCoy's described phone calls (Erica, Rob McCoy) within one minute of the shooting are inconsistent with observed movement patterns and with expected human behavior under such circumstances.",
       "related_artifacts": [
@@ -899,7 +899,12 @@
         "A-1344.1"
       ],
       "related_claims": [
-        "C-2373"
+        "C-2373",
+        "C-2372",
+        "C-2374",
+        "C-2376",
+        "C-2377",
+        "C-2382"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -915,8 +920,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10227",
-      "ref": "N-10227",
+      "@id": "N-10215",
+      "ref": "N-10215",
       "name": "YouTube Scheduling Order Anomaly",
       "type": "investigation_target",
       "description": "Persistent claim that the first scheduled post on Charlie Kirk's YouTube channel after the memorial event was Mikey McCoy's speech, queued before Erika Kirk's.",
@@ -1427,8 +1432,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10064",
-      "ref": "N-10064",
+      "@id": "N-10061",
+      "ref": "N-10061",
       "name": "The Pentagon",
       "type": "investigation_target",
       "description": "The Pentagon; named in the host's 9/11 comments.",
@@ -1444,9 +1449,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10073",
-      "ref": "N-10073",
-      "name": "APAC",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "AIPAC",
       "type": "investigation_target",
       "description": "APAC; named in the viewer comment about a TPUSA takeover.",
       "related_artifacts": [],
@@ -1461,8 +1466,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10124",
-      "ref": "N-10124",
+      "@id": "N-10119",
+      "ref": "N-10119",
       "name": "Riverbend Ranch",
       "type": "investigation_target",
       "description": "Riverbend Ranch; the sponsor in the ad read.",
@@ -1478,8 +1483,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for hospital arrival and lockdown claims.",
@@ -1496,8 +1501,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for call-log claims.",
@@ -1514,14 +1519,15 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for the succession plan claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2327"
+        "C-2327",
+        "C-2328"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1531,8 +1537,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for Mikey McCoy's movement claims.",
@@ -1550,8 +1556,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10199",
-      "ref": "N-10199",
+      "@id": "N-10191",
+      "ref": "N-10191",
       "name": "Susie Wiles Eulogy-Selection Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the Wiles eulogy claim.",
@@ -1567,8 +1573,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Existing topic reused for the Kash Patel claim.",
@@ -1584,8 +1590,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10217",
-      "ref": "N-10217",
+      "@id": "N-10208",
+      "ref": "N-10208",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
       "type": "investigation_target",
       "description": "Existing topic reused for the transparency claim.",
@@ -1601,26 +1607,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10218",
-      "ref": "N-10218",
-      "name": "McCoy Succession Plan",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the McCoy succession plan claims.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2327",
-        "C-2328"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10222",
-      "ref": "N-10222",
+      "@id": "N-10212",
+      "ref": "N-10212",
       "name": "Israeli Cell Phone Presence on 9/10",
       "type": "investigation_target",
       "description": "Existing topic reused for the Israeli cell phone cover-up claim.",
@@ -1636,8 +1624,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for the Epstein donors claim.",
@@ -1653,46 +1641,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
-      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the post-shooting call claims.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2372",
-        "C-2374",
-        "C-2376",
-        "C-2377",
-        "C-2382"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10482",
-      "ref": "N-10482",
-      "name": "Mikey McCoy Phone Call Sequence",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the call length claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2376"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10587",
-      "ref": "N-10587",
+      "@id": "N-10535",
+      "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the Trump posting claims.",
@@ -1709,8 +1659,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10628",
-      "ref": "N-10628",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
       "type": "investigation_target",
       "description": "Existing topic reused for the Loomer 5150 claim.",
@@ -1726,8 +1676,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10630",
-      "ref": "N-10630",
+      "@id": "N-10576",
+      "ref": "N-10576",
       "name": "Laura Loomer Identity Claims (Jewish Heritage)",
       "type": "investigation_target",
       "description": "Existing topic reused for the Loomer identity claims.",
@@ -1744,8 +1694,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for Blake Neff's movement claims.",
@@ -1762,8 +1712,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10917",
-      "ref": "N-10917",
+      "@id": "N-10838",
+      "ref": "N-10838",
       "name": "Republican Jewish Coalition",
       "type": "investigation_target",
       "description": "Republican Jewish Coalition; event Cooper watched.",
@@ -1779,8 +1729,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11100",
-      "ref": "N-11100",
+      "@id": "N-11018",
+      "ref": "N-11018",
       "name": "Charlie Kirk Post-Shooting First Aid Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the first-aid claims.",
@@ -1884,8 +1834,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11226",
-      "ref": "N-11226",
+      "@id": "N-11142",
+      "ref": "N-11142",
       "name": "Mamdani Mayoral Race Opposition Spending",
       "type": "topic",
       "description": "Donations the host lists against Zohran Mamdani in the 2025 NYC mayoral race: Bill Ackman $1.75 million, Michael Bloomberg $8.3 million, Joe Gebbia $3.1 million and the Tisch family $1.2 million.",
@@ -1903,8 +1853,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11227",
-      "ref": "N-11227",
+      "@id": "N-11143",
+      "ref": "N-11143",
       "name": "AIPAC Hostile Takeover of TPUSA Claim",
       "type": "topic",
       "description": "The host's statement, prompted by a viewer comment, that APAC has already taken over or been taking over Turning Point USA, with evidence promised but not yet given.",
@@ -1930,7 +1880,7 @@
         "A-1333.1"
       ],
       "related_nodes": [
-        "N-10224"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:03:45–00:04:20",
@@ -1947,7 +1897,7 @@
         "A-1333.2"
       ],
       "related_nodes": [
-        "N-10224"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:02:39–00:03:30",
@@ -2149,7 +2099,7 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-10226"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:39:39–00:43:20",
@@ -2241,7 +2191,7 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-10227"
+        "N-10215"
       ],
       "tags": [],
       "claim_timestamp": "00:45:19–00:46:08",
@@ -2264,8 +2214,8 @@
         "A-1344.2"
       ],
       "related_nodes": [
-        "N-10225",
-        "N-10226"
+        "N-10213",
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:31:22",
@@ -2285,7 +2235,7 @@
         "A-1333.2"
       ],
       "related_nodes": [
-        "N-10224",
+        "N-10211",
         "N-10012"
       ],
       "tags": [
@@ -2331,7 +2281,7 @@
         "A-1333.1"
       ],
       "related_nodes": [
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:context"
@@ -2354,7 +2304,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2375,7 +2325,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2396,7 +2346,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -2439,7 +2389,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10002",
-        "N-10199"
+        "N-10191"
       ],
       "tags": [
         "relevance:core"
@@ -2461,8 +2411,7 @@
       "claim": "The host says Pastor Rob McCoy told Americans that Charlie Kirk kept notebooks and diaries in which he wrote a succession plan, and she sarcastically retells it as a notebook describing Mikey McCoy with adjectives like \"fantastic\" and \"heroic\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218",
-        "N-10194"
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -2487,7 +2436,7 @@
       "claim": "The host says the public is not going to be allowed to read Charlie Kirk's notebooks but is expected to accept that others read them, and that a succession plan would normally be formalized in a will drawn up by one of his lawyers, which she assumes he had.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [
         "relevance:core"
@@ -2530,7 +2479,7 @@
       "claim": "The host says Zohran Mamdani won pretty handily against Andrew Cuomo despite billionaire money flowing into the anti-Mamdani campaign, and that Republicans had recently called Cuomo unbelievably corrupt and said he should be in prison.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11226"
+        "N-11142"
       ],
       "tags": [
         "relevance:tangential"
@@ -2552,7 +2501,7 @@
       "claim": "The host says Bill Ackman gave $1.75 million in the effort against Zohran Mamdani and at times demanded a debate with him, and that Mamdani won regardless.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11226"
+        "N-11142"
       ],
       "tags": [
         "relevance:tangential"
@@ -2573,7 +2522,7 @@
       "claim": "The host says Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC, Airbnb co-founder Joseph Gebbia gave $3.1 million, and the Tisch family gave $1.2 million, and that Mamdani still won.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11226"
+        "N-11142"
       ],
       "tags": [
         "relevance:tangential"
@@ -2712,7 +2661,7 @@
       "claim": "The host says President Trump dedicated 900 percent more Truth Social posts to ensuring Mamdani would lose than to ensuring Charlie Kirk's murderer was found.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:core"
@@ -2734,7 +2683,7 @@
       "claim": "The host says Donald Trump did not send even one message about investigating Charlie Kirk's murder.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10587"
+        "N-10535"
       ],
       "tags": [
         "relevance:core"
@@ -2796,7 +2745,7 @@
       "claim": "The host says Brett Cooper watched the Republican Jewish Coalition event about Tucker Carlson not being MAGA and agreed that demands to censor and deplatform are childish and ineffective.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10917"
+        "N-10838"
       ],
       "tags": [
         "relevance:tangential"
@@ -2989,7 +2938,7 @@
         "A-3019.1"
       ],
       "related_nodes": [
-        "N-10124"
+        "N-10119"
       ],
       "tags": [
         "relevance:tangential"
@@ -3011,8 +2960,8 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-10225",
-        "N-11100"
+        "N-10213",
+        "N-11018"
       ],
       "tags": [
         "relevance:core"
@@ -3038,7 +2987,7 @@
         "A-1344.2"
       ],
       "related_nodes": [
-        "N-10225"
+        "N-10213"
       ],
       "tags": [
         "relevance:core"
@@ -3060,7 +3009,7 @@
         "A-1344.2"
       ],
       "related_nodes": [
-        "N-10225"
+        "N-10213"
       ],
       "tags": [
         "relevance:core"
@@ -3083,8 +3032,8 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-10225",
-        "N-11100"
+        "N-10213",
+        "N-11018"
       ],
       "tags": [
         "relevance:core"
@@ -3109,7 +3058,7 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-10226"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3134,7 +3083,7 @@
         "A-1339.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3158,7 +3107,7 @@
         "A-1339.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3181,7 +3130,7 @@
         "A-1339.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3205,7 +3154,7 @@
         "A-1339.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3229,7 +3178,7 @@
         "A-1344.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3250,8 +3199,7 @@
       "claim": "The host says that if Blake Neff's account is true, the call between Mikey McCoy and Erika Kirk must have been about 15 seconds, which she argues is implausible for a spouse receiving such news.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338",
-        "N-10482"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3273,7 +3221,7 @@
       "claim": "The host says she knows for a fact that Mikey McCoy made three early calls, not two, including one to his wife Elizabeth McCoy, who screamed at the office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3295,7 +3243,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10224"
+        "N-10211"
       ],
       "tags": [
         "relevance:core"
@@ -3315,7 +3263,7 @@
       "claim": "The host says Blake Neff has said elsewhere that they got into the hospital within 25 minutes, which she says means they knew instantly which hospital and direction to go.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149"
+        "N-10144"
       ],
       "tags": [
         "relevance:core"
@@ -3335,7 +3283,7 @@
       "claim": "The host says that, as they were told, the hospital was put on lockdown when Charlie Kirk came in but let Mikey McCoy and the Turning Point staff in ('Maybe that's true'), and that Blake Neff and Frank Turek say they were there when it was announced Kirk had died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10149"
+        "N-10144"
       ],
       "tags": [
         "relevance:core"
@@ -3357,8 +3305,8 @@
       "claim": "The host says unnamed parties are telling the public that letting people see the call logs and video footage would somehow hurt the case, and that she rejects this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10217"
+        "N-10185",
+        "N-10208"
       ],
       "tags": [
         "relevance:core"
@@ -3378,8 +3326,8 @@
       "claim": "The host asserts that unnamed parties are lying about the phone calls and the timing of the phone calls.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10338"
+        "N-10185",
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3399,7 +3347,7 @@
       "claim": "The host says she is getting the feeling that they were positioning Mikey McCoy to be the new Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10227"
+        "N-10215"
       ],
       "tags": [
         "relevance:core"
@@ -3425,7 +3373,7 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-10227",
+        "N-10215",
         "N-10002"
       ],
       "tags": [
@@ -3448,7 +3396,7 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-10227"
+        "N-10215"
       ],
       "tags": [
         "relevance:core"
@@ -3492,7 +3440,7 @@
       "claim": "The host says the pro-Israel crowd is signaling hard that another 9/11 is coming, is jacking up jihad rhetoric, and notes the Pentagon was implicated in 9/11.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10064"
+        "N-10061"
       ],
       "tags": [
         "relevance:tangential"
@@ -3514,7 +3462,7 @@
         "A-1340.1"
       ],
       "related_nodes": [
-        "N-10628"
+        "N-10574"
       ],
       "tags": [
         "relevance:tangential"
@@ -3536,7 +3484,7 @@
         "A-1340.1"
       ],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [
         "relevance:tangential"
@@ -3558,7 +3506,7 @@
         "A-1340.1"
       ],
       "related_nodes": [
-        "N-10630"
+        "N-10576"
       ],
       "tags": [
         "relevance:tangential"
@@ -3621,7 +3569,7 @@
         "A-3020.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3706,9 +3654,9 @@
         "A-3020.3"
       ],
       "related_nodes": [
-        "N-10073",
+        "N-10070",
         "N-10000",
-        "N-11227"
+        "N-11143"
       ],
       "tags": [
         "relevance:core"
@@ -3728,8 +3676,8 @@
       "claim": "The host says that because those behind the killing planned it perfectly, the phone call and walking away in the right direction is not what a natural person would do, and that she believes Charlie Kirk's murder happened because evil became very desperate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10226",
-        "N-10198"
+        "N-10214",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3750,7 +3698,7 @@
       "claim": "The host says everything seen on the day looks like a military operation and that human behavior is lacking in the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3791,7 +3739,7 @@
       "claim": "The host says there is a cover-up of the 12 Israeli cell phones, because if it really were nothing, officials would share that information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10222"
+        "N-10212"
       ],
       "tags": [
         "relevance:core"
@@ -3814,7 +3762,7 @@
       "claim": "The host says she is hearing that Kash Patel is frantic, angry and shouting at people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"

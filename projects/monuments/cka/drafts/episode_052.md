@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-764, N-11110, N-11111, N-11112, N-11113, N-11114, N-11115
-  - Hole-minted Nodes (reintro-ep052): N-489, N-10740, N-10797, N-10832
-  - Tip-minted Nodes (reintro-ep052): N-11054
+  - Tip-minted Nodes (supplement_2026-10b): N-764, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
+  - Hole-minted Nodes (reintro-ep052): N-489, N-10672, N-10721, N-10755
+  - Tip-minted Nodes (reintro-ep052): N-10972
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4516–C-4631
-  - New Nodes Introduced: N-380, N-381, N-382, N-383, N-384, N-385, N-387, N-10381, N-10383, N-10384
-  - Reused Nodes Appearing: N-82, N-3, N-363, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-163, N-195, N-237, N-260, N-261, N-266, N-270, N-288, N-312, N-330, N-361, N-10000, N-10014, N-10018, N-10024, N-10051, N-10077, N-10085, N-10114, N-10164, N-10180, N-10186, N-10230, N-10238, N-10239, N-10253, N-10256, N-10270, N-10298, N-10317, N-10323, N-10326, N-10340, N-10342, N-10346, N-10359, N-10367, N-10370, N-10371, N-10373, N-10376, N-10379, N-10385, N-10416, N-10447, N-10853, N-386, N-10382, N-325
+  - New Nodes Introduced: N-380, N-381, N-382, N-383, N-384, N-385, N-387, N-10354, N-10356, N-10357
+  - Reused Nodes Appearing: N-82, N-3, N-363, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-163, N-195, N-237, N-260, N-261, N-266, N-270, N-288, N-312, N-330, N-361, N-10000, N-10014, N-10018, N-10024, N-10048, N-10074, N-10081, N-10110, N-10100, N-10172, N-10178, N-10217, N-10225, N-10226, N-10239, N-10242, N-10254, N-10280, N-10298, N-10193, N-10305, N-10318, N-10320, N-10324, N-10335, N-10342, N-10345, N-10347, N-10349, N-10352, N-10358, N-10389, N-10416, N-10775, N-386, N-10355, N-325
   - (see registers), N-11
 
 # Episode 52 Analysis
@@ -42,12 +42,12 @@ Video Timestamp: 00:04:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-4518, C-4521, N-10381, Tyler Robinson node*
+*Related: C-4518, C-4521, N-10354, Tyler Robinson node*
 
 **A-1577.2** Map showing ~3-hour drive distance from Orem, Utah to Panguitch, Utah (host's on-screen display)
 Video Timestamp: 00:02:43
 
-*Related: C-4518, N-10381*
+*Related: C-4518, N-10354*
 
 **A-1578** Erika Kirk September 8 Follow-Up Text Bundle
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:19:30
 **A-1579.1** 12-hour House committee hearing video (reviewed by host to verify Rep. Mark Amodei's presence)
 Video Timestamp: 00:21:13
 
-*Related: C-4563, Mark Amodei node, N-10382*
+*Related: C-4563, Mark Amodei node, N-10355*
 
 **A-1580** Tyler Bowyer Memorial Clip Bundle
 
@@ -79,7 +79,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00
 
-*Related: C-4591, N-380, N-381, N-387, N-10383, Lori Frantzve node*
+*Related: C-4591, N-380, N-381, N-387, N-10356, Lori Frantzve node*
 
 **A-1582** David Frodsham News Article Bundle
 
@@ -95,7 +95,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:50
 
-*Related: C-4609, N-10384, N-10383*
+*Related: C-4609, N-10357, N-10356*
 
 **A-1584** Daily Wire "Maddie in the No" Clip Bundle
 
@@ -173,7 +173,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-4591, N-381, N-382, N-383, N-10383*
+*Related: A-1581.1, C-4591, N-381, N-382, N-383, N-10356*
 
 **N-381** David Farnsworth
 
@@ -184,7 +184,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-4591, N-380, N-382, Lori Frantzve node, N-10383*
+*Related: A-1581.1, C-4591, N-380, N-382, Lori Frantzve node, N-10356*
 
 **N-382** Dwayne Farnsworth
 
@@ -195,7 +195,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-380, N-381, Terryl Farnsworth node, Tyler Bowyer node, N-10383, N-11*
+*Related: N-380, N-381, Terryl Farnsworth node, Tyler Bowyer node, N-10356, N-11*
 
 **N-383** Albert Farnsworth
 
@@ -228,7 +228,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: Terryl Farnsworth node, N-10383*
+*Related: Terryl Farnsworth node, N-10356*
 
 **N-386** Maddie (Daily Wire host)
 
@@ -250,7 +250,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1581.1, N-2 (Erika Kirk, as "Erika"), Lori Frantzve node, N-10383*
+*Related: A-1581.1, N-2 (Erika Kirk, as "Erika"), Lori Frantzve node, N-10356*
 
 **N-67** Mark Herman (director, Candace show)
 
@@ -263,7 +263,7 @@ Investigative Pressure: Low
 
 *Related: C-4609*
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.
 
@@ -274,7 +274,7 @@ Investigative Pressure: High
 
 *Related: A-1577.1, A-1577.2, C-4518, C-4521, Tyler Robinson node*
 
-**N-10382** Mark Amodei House Committee Visual Identification
+**N-10355** Mark Amodei House Committee Visual Identification
 
 Whether Rep. Mark Amodei is visibly present early in the 12-hour House committee hearing video reviewed by host.
 
@@ -285,7 +285,7 @@ Investigative Pressure: Medium
 
 *Related: A-1579.1, C-4563, Mark Amodei node*
 
-**N-10383** Farnsworth Family Political-Military Network
+**N-10356** Farnsworth Family Political-Military Network
 
 Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Guinta, Thomas Burt, and Davis-Monthan / Fort Huachuca.
 
@@ -296,7 +296,7 @@ Investigative Pressure: Medium
 
 *Related: A-1581.1, C-4591, N-380, N-381, N-382, N-385, N-387, Lori Frantzve node, N-11*
 
-**N-10384** Davis-Monthan AFB September 9 Attendee Verification
+**N-10357** Davis-Monthan AFB September 9 Attendee Verification
 
 Verification of which Arizona community leaders attended the Davis-Monthan AFB Arizona Commanders Summit on September 9, 2025.
 
@@ -305,7 +305,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1583.1, C-4609, N-10383*
+*Related: A-1583.1, C-4609, N-10356*
 
 **N-11** Tyler Bowyer
 
@@ -579,7 +579,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -587,7 +587,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for new claims in this episode.
 
@@ -595,7 +595,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -603,7 +603,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10114** Utah Beehive Symbolism
+**N-10110** Utah Beehive Symbolism
 
 Existing topic reused for new claims in this episode.
 
@@ -611,7 +611,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
+**N-10100** Catholic Conversion Rumor
 
 Existing topic reused for new claims in this episode.
 
@@ -619,7 +619,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -627,7 +627,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10186** Plane 888 / Maxfield Plane Investigation
+**N-10178** Plane 888 / Maxfield Plane Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -635,7 +635,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10230** Saint Michael Pendant / Charlie Catholic-Curious Status
+**N-10217** Saint Michael Pendant / Charlie Catholic-Curious Status
 
 Existing topic reused for new claims in this episode.
 
@@ -643,7 +643,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10238** Daily Wire Intern Covert Recording Operation
+**N-10225** Daily Wire Intern Covert Recording Operation
 
 Existing topic reused for new claims in this episode.
 
@@ -651,7 +651,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10239** Timpanogos Hospital Footage Seizure Verification
+**N-10226** Timpanogos Hospital Footage Seizure Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -659,7 +659,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -667,7 +667,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10256** Duncan Aviation Rental Vehicle Investigation
+**N-10242** Duncan Aviation Rental Vehicle Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -675,7 +675,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for new claims in this episode.
 
@@ -683,7 +683,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10298** Pierre Dupont Donor Identity Verification Question
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 Existing topic reused for new claims in this episode.
 
@@ -691,7 +691,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10317** Pierre Falcone / Turning Point USA Connection Claim
+**N-10298** Pierre Falcone / Turning Point USA Connection Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -699,7 +699,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -707,7 +707,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -715,7 +715,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -723,7 +723,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -731,7 +731,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -739,7 +739,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10359** Hospital Federal Access Question
+**N-10335** Hospital Federal Access Question
 
 Existing topic reused for new claims in this episode.
 
@@ -747,7 +747,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing topic reused for new claims in this episode.
 
@@ -755,15 +755,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10370** Fort Huachuca Morning Meeting Investigation
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-4565*
-
----
-
-**N-10371** Mark Amodei September 9 Alibi Verification
+**N-10345** Mark Amodei September 9 Alibi Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -771,7 +763,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -779,7 +771,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10376** AmFest Tent Recreation Approval Chain
+**N-10349** AmFest Tent Recreation Approval Chain
 
 Existing topic reused for new claims in this episode.
 
@@ -787,7 +779,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10379** Daily Wire Social Media Reactivation
+**N-10352** Daily Wire Social Media Reactivation
 
 Existing topic reused for new claims in this episode.
 
@@ -795,7 +787,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Existing topic reused for new claims in this episode.
 
@@ -803,7 +795,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -811,7 +803,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -819,7 +811,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10740** SUV Interior Anomaly
+**N-10672** SUV Interior Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -827,7 +819,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10797** Terryl Farnsworth Google-Hack Contradiction
+**N-10721** Terryl Farnsworth Google-Hack Contradiction
 
 Existing topic reused for new claims in this episode.
 
@@ -835,7 +827,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Existing topic reused for new claims in this episode.
 
@@ -843,7 +835,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation
+**N-10775** Dairy Queen Timestamp UTC vs MST Reconciliation
 
 Existing topic reused for new claims in this episode.
 
@@ -851,7 +843,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11054** Bomb Dog Deployment at the Crime Scene
+**N-10972** Bomb Dog Deployment at the Crime Scene
 
 Existing topic reused for new claims in this episode.
 
@@ -867,7 +859,7 @@ First named by the host at 00:33:30 in episode 052 as the congressman who suppor
 
 ---
 
-**N-11110** Erika Kirk and Tyler Bowyer First-Meeting Account
+**N-11028** Erika Kirk and Tyler Bowyer First-Meeting Account
 
 Node Type: Topic
 The host's questions to Erika Kirk about how she met Tyler Bowyer, the conflict between Erika's 2015-rally answer and Bowyer's memorial account, and the senator or congressman connection Erika mentioned.
@@ -876,7 +868,7 @@ The host's questions to Erika Kirk about how she met Tyler Bowyer, the conflict 
 
 ---
 
-**N-11111** Tyler Bowyer Legal and Debt History Claims
+**N-11029** Tyler Bowyer Legal and Debt History Claims
 
 Node Type: Topic
 The host's statements that Tyler Bowyer was indicted in Arizona, pardoned, and was in debt with wages garnished before becoming wealthy.
@@ -885,7 +877,7 @@ The host's statements that Tyler Bowyer was indicted in Arizona, pardoned, and w
 
 ---
 
-**N-11112** Eddie Farnsworth Trafficking Bill and Nephew Allegations
+**N-11030** Eddie Farnsworth Trafficking Bill and Nephew Allegations
 
 Node Type: Topic
 The host's statements that Eddie Farnsworth blocked a 2013 hearing on a child sex trafficking bill and that his nephew Albert Farnsworth raped a 13-year-old.
@@ -894,7 +886,7 @@ The host's statements that Eddie Farnsworth blocked a 2013 hearing on a child se
 
 ---
 
-**N-11113** French Online Harassment Sentences Over Brigitte Macron
+**N-11031** French Online Harassment Sentences Over Brigitte Macron
 
 Node Type: Topic
 The host's description of the French court's sentences, account suspensions, course orders and moral damages against ten defendants over posts about Brigitte Macron.
@@ -903,7 +895,7 @@ The host's description of the French court's sentences, account suspensions, cou
 
 ---
 
-**N-11114** AZ Tech and E3 Tech DoD EMP Contracts
+**N-11032** AZ Tech and E3 Tech DoD EMP Contracts
 
 Node Type: Topic
 Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Defense contracts for EMP hardening and testing at Fort Huachuca, and that Erika Kirk moved to Arizona because of her mother's defense contracts.
@@ -912,7 +904,7 @@ Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Def
 
 ---
 
-**N-11115** Robinson Grandmother Whereabouts Hypothesis
+**N-11033** Robinson Grandmother Whereabouts Hypothesis
 
 Node Type: Topic
 The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Panguitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.
@@ -932,7 +924,7 @@ Claim: The host says Tyler Robinson drove approximately three hours from Orem, U
 Anchored Artifacts: A-1577.1, A-1577.2
 Mentions: N-40
 
-Related Nodes: N-10381
+Related Nodes: N-10354
 
 Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.
 
@@ -945,7 +937,7 @@ Claim: The host says Cowboys Smokehouse staff identified Tyler Robinson from the
 Anchored Artifacts: A-1577.1
 Mentions: N-40
 
-Related Nodes: N-10381
+Related Nodes: N-10354
 
 Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.
 
@@ -995,7 +987,7 @@ Claim: After personally reviewing a 12-hour House committee video, host conclude
 Anchored Artifacts: A-1579.1
 Mentions: N-3, N-363
 
-Related Nodes: N-10382
+Related Nodes: N-10355
 
 Investigative Direction: Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.
 
@@ -1020,7 +1012,7 @@ Claim: Per a 2014 Arizona House record the host shows, Senator David Farnsworth 
 Anchored Artifacts: A-1581.1
 Mentions: N-380, N-381, N-387, N-489
 
-Related Nodes: N-10383
+Related Nodes: N-10356
 
 Investigative Direction: Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).
 
@@ -1045,7 +1037,7 @@ Claim: Per the Davis-Monthan AFB website the host shows, the Arizona Commanders 
 Anchored Artifacts: A-1583.1
 Mentions: 
 
-Related Nodes: N-10383, N-10384
+Related Nodes: N-10356, N-10357
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 
@@ -1126,7 +1118,7 @@ Transcript Snippet: not exactly pop over to a nearby Dairy Queen to have lunch, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10051
+Related Nodes: N-10048
 Supports: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the Dairy Queen transaction and camera records and the charging document's description of the post-shooting texts.
@@ -1143,7 +1135,7 @@ Transcript Snippet: Tyler Robinson ordered a steak medium rare with mashed potat
 
 Anchored Artifacts: A-1577.1
 Mentions: N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Interview the three servers and obtain the itemised receipt and the restaurant's staffing roster for the night.
 
@@ -1159,7 +1151,7 @@ Transcript Snippet: they don't have any cameras at this restaurant. So, what the
 
 Anchored Artifacts: A-1577.1
 Mentions: N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Confirm with the restaurant and neighbouring businesses that no camera covered the bar or entrance on September 10, and obtain the card transaction record.
@@ -1191,7 +1183,7 @@ Transcript Snippet: They didn't do that. Instead, they were contacted days later
 
 Anchored Artifacts: A-1577.1
 Mentions: N-40
-Related Nodes: N-10381, N-10014
+Related Nodes: N-10354, N-10014
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Request the FBI's tip log and any record of when and how it learned of the Panguitch purchase.
@@ -1208,7 +1200,7 @@ Transcript Snippet: He seemed absolutely fine and normal and was texting on his 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Interview the servers directly about Robinson's demeanor and obtain the phone records for his texting that evening.
 
@@ -1239,7 +1231,7 @@ Transcript Snippet: the Dairy Queen stop because it had to have occurred earlier
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10051, N-10381
+Related Nodes: N-10048, N-10354
 Revises: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the Dairy Queen transaction time, any camera timestamps and the photo metadata to fix the real time of the stop.
@@ -1256,7 +1248,7 @@ Transcript Snippet: there was a literal receipt and the FBI knows about it um an
 
 Anchored Artifacts: A-1577.1
 Mentions: N-40, N-3
-Related Nodes: N-10381, N-10014
+Related Nodes: N-10354, N-10014
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Ask the FBI and the restaurant whether the receipt was handed over and on what date.
@@ -1289,7 +1281,7 @@ Transcript Snippet: After 6:00 p. m. is when we are gauging the first correspond
 
 Anchored Artifacts: 
 Mentions: N-40, N-54, N-3
-Related Nodes: N-10077, N-10024
+Related Nodes: N-10074, N-10024
 Tags: relevance:core
 Investigative Direction: Compare the host's 6:00 p.m. estimate with the message timestamps in the released Robinson-Lance chain.
 
@@ -1305,7 +1297,7 @@ Transcript Snippet: Maybe it was actually 5:38 p. m. and time zones were wrong.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10051, N-10853
+Related Nodes: N-10048, N-10775
 Revises: C-403
 Supports: C-4526
 Tags: relevance:core
@@ -1323,7 +1315,7 @@ Transcript Snippet: That's the time approximately that Tyler turned up in Pangui
 
 Anchored Artifacts: A-1577.1
 Mentions: N-40, N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Obtain the card transaction time and the server's account to confirm arrival and departure times.
@@ -1340,7 +1332,7 @@ Transcript Snippet: he may have gone to his grandma's house afterwards because a
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-11115, N-10381
+Related Nodes: N-11033, N-10354
 Tags: relevance:core
 Investigative Direction: Identify the grandmother's residence and whether anyone saw Robinson or a vehicle there on the night of September 10.
 
@@ -1356,7 +1348,7 @@ Transcript Snippet: Tyler Robinson's grandmother was one of the first people to 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-11115
+Related Nodes: N-11033
 Tags: relevance:core
 Investigative Direction: Locate the grandmother's original public statement and its date and venue.
 
@@ -1372,7 +1364,7 @@ Transcript Snippet: Please, we are inviting you to send us an email to more tips
 
 Anchored Artifacts: A-2839.1
 Mentions: N-3
-Related Nodes: N-10381
+Related Nodes: N-10354
 Tags: relevance:core
 Investigative Direction: Check whether any nearby business responds with camera footage covering the restaurant on September 10.
 
@@ -1388,7 +1380,7 @@ Transcript Snippet: I also broke the story about Charlie's Catholic consideratio
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10164, N-10230, N-10323
+Related Nodes: N-10100, N-10217, N-10193
 Tags: relevance:context
 Investigative Direction: Compile the earlier episodes' receipts on Kirk's mass attendance, rosary and funeral arrangements.
 
@@ -1404,7 +1396,7 @@ Transcript Snippet: I also broke the story regarding Terara Farnsworth's strange
 
 Anchored Artifacts: 
 Mentions: N-3, N-261
-Related Nodes: N-10346
+Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Review the original footage of Farnsworth's actions in the minutes after the shot.
 
@@ -1420,7 +1412,7 @@ Transcript Snippet: was because I broke the story that there was no blood on the
 
 Anchored Artifacts: A-1585.1
 Mentions: N-3, N-1
-Related Nodes: N-10085
+Related Nodes: N-10081
 Supports: C-516
 Tags: relevance:core
 Investigative Direction: Obtain the unedited back-view video and have a forensic pathologist assess wound path and bleeding.
@@ -1437,7 +1429,7 @@ Transcript Snippet: I also presented to you guys the photos from inside Charlie'
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10740
+Related Nodes: N-10672
 Supports: C-4291
 Tags: relevance:core
 Investigative Direction: Request the SUV chain-of-custody and impound records from Utah authorities and the FBI.
@@ -1454,7 +1446,7 @@ Transcript Snippet: Broke a story that the feds seized the cameras inside the ho
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10239
+Related Nodes: N-10226
 Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Obtain the hospital's and the FBI's records of any camera or footage seizure.
@@ -1471,7 +1463,7 @@ Transcript Snippet: the feds blocked Dr. Troder from returning to his operating 
 
 Anchored Artifacts: 
 Mentions: N-3, N-195
-Related Nodes: N-10359
+Related Nodes: N-10335
 Tags: relevance:core
 Investigative Direction: Identify the person who received the DC call through hospital and FBI call logs.
 
@@ -1487,7 +1479,7 @@ Transcript Snippet: We broke the story that Andrew Kolvet lied about the Superma
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-195, N-2
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-4180
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Dr. Trotter's representatives for the source of the quotation.
@@ -1504,7 +1496,7 @@ Transcript Snippet: We broke the story that Charlie texted Dan Flood and Andrew 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-270, N-14
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-3533
 Tags: relevance:core
 Investigative Direction: Obtain the text thread from Kolvet, Flood or Erika Kirk and compare it to the host's description.
@@ -1521,7 +1513,7 @@ Transcript Snippet: This has now been confirmed by Erikaru. At least it was conf
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4064, C-4543
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team to confirm publicly what she told the host about the text.
@@ -1538,7 +1530,7 @@ Transcript Snippet: We broke the story that Netanyahu called Charlie to make an 
 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1, N-2
-Related Nodes: N-10342, N-10018
+Related Nodes: N-10320, N-10018
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's phone records for the Netanyahu call and statements by Erika Kirk on the offer.
@@ -1555,7 +1547,7 @@ Transcript Snippet: I confirmed that separately from Andrew Kolvet with someone 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-2134
 Tags: relevance:core
 Investigative Direction: Identify the independent source, directly or through the host, and the nature of their knowledge.
@@ -1572,7 +1564,7 @@ Transcript Snippet: We presented the military police report, backed that up with
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10367
+Related Nodes: N-10342
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Obtain the incident report (861-1-2025-MPC446) through Fort Huachuca or a FOIA request.
@@ -1589,7 +1581,7 @@ Transcript Snippet: Um that document we still have for you which is coming forwa
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Supports: C-2917
 Tags: relevance:core
 Investigative Direction: Obtain flight-tracking logs and the document the host says is forthcoming.
@@ -1606,7 +1598,7 @@ Transcript Snippet: We broke a story about the bomb dogs failing to detect the r
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054
+Related Nodes: N-10972
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain police reports naming the officers who located the rifle and who directed them.
@@ -1623,7 +1615,7 @@ Transcript Snippet: Is it Pierre Dupont? Is it Pierre Falconee? I think it's Pie
 
 Anchored Artifacts: 
 Mentions: N-3, N-312, N-288
-Related Nodes: N-10317, N-10298, N-10000
+Related Nodes: N-10298, N-10280, N-10000
 Qualifies: C-3476
 Tags: relevance:core
 Investigative Direction: Identify the donor behind the reported check through TPUSA donor records or sources.
@@ -1655,7 +1647,7 @@ Transcript Snippet: the idea from them was that at future tour stops, people wou
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10376, N-10000
+Related Nodes: N-10349, N-10000
 Supports: C-4552
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA's written statement on the tent concept and its planned tour use.
@@ -1703,7 +1695,7 @@ Transcript Snippet: No response at all from Brian Harpole. I've told you that se
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Ask Harpole through a representative whether he received the host's outreach.
 
@@ -1719,7 +1711,7 @@ Transcript Snippet: Now, Dan Flood was not seen at Fort Huachuca, but he does ha
 
 Anchored Artifacts: 
 Mentions: N-3, N-270, N-266
-Related Nodes: N-10373
+Related Nodes: N-10347
 Tags: relevance:core
 Investigative Direction: Obtain the Flood-Harpole message record and Flood's September 8-9 location data.
 
@@ -1735,7 +1727,7 @@ Transcript Snippet: I told you that we looked up a congressman that fit the desc
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-363
-Related Nodes: N-10371
+Related Nodes: N-10345
 Supports: C-4351
 Tags: relevance:core
 Investigative Direction: Compare Amodei's public height and appearance with Mitch's recorded description.
@@ -1752,7 +1744,7 @@ Transcript Snippet: And he said that that face looks familiar.
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-363
-Related Nodes: N-10371
+Related Nodes: N-10345
 Supports: C-4351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's own account of how he identified the photo and his stated confidence.
@@ -1769,7 +1761,7 @@ Transcript Snippet: Then Mark Ammedday came out and he had dropped a YouTube vid
 
 Anchored Artifacts: A-1579.1
 Mentions: N-3, N-363
-Related Nodes: N-10382, N-10371
+Related Nodes: N-10355, N-10345
 Supports: C-4416
 Tags: relevance:core
 Investigative Direction: Obtain the House Clerk's roll-call record for the date.
@@ -1786,7 +1778,7 @@ Transcript Snippet: Mitch initially contacted me about just Erika Kirk um, and B
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-2, N-266
-Related Nodes: N-10367, N-10373
+Related Nodes: N-10342, N-10347
 Tags: relevance:core
 Investigative Direction: Review Mitch's original contact with the host and what he said about each person.
 
@@ -1802,7 +1794,7 @@ Transcript Snippet: this hands-on meeting that looked like mission, mission is o
 
 Anchored Artifacts: 
 Mentions: N-3, N-361
-Related Nodes: N-10370, N-10326
+Related Nodes: N-10305
 Supports: C-4336
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's full account and the identities of those in the meeting.
@@ -1819,7 +1811,7 @@ Transcript Snippet: Told you guys he just started lying to me repeatedly. Weird.
 
 Anchored Artifacts: 
 Mentions: N-3, N-261
-Related Nodes: N-10797, N-10346
+Related Nodes: N-10721, N-10324
 Tags: relevance:core
 Investigative Direction: Obtain a recording or notes of the call, and Farnsworth's account of what was said.
 
@@ -1835,7 +1827,7 @@ Transcript Snippet: I don't know how to send a file. What do you mean? You run a
 
 Anchored Artifacts: 
 Mentions: N-3, N-261
-Related Nodes: N-10797
+Related Nodes: N-10721
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth to explain the statement and how the camera files were later handled.
 
@@ -1851,7 +1843,7 @@ Transcript Snippet: I also expressed that to Erika and Justin Streiff when we we
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-15, N-261
-Related Nodes: N-10346
+Related Nodes: N-10324
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk and Justin Streiff to confirm what was said about Farnsworth in the meeting.
 
@@ -1882,7 +1874,7 @@ Transcript Snippet: Not only did the bullet not go through, it didn't even cause
 
 Anchored Artifacts: A-1585.1
 Mentions: N-3, N-1
-Related Nodes: N-10085, N-10180
+Related Nodes: N-10081, N-10172
 Supports: C-4570
 Tags: relevance:core
 Investigative Direction: Obtain the full video and have independent analysts review it frame by frame.
@@ -1899,7 +1891,7 @@ Transcript Snippet: And the only blood that I saw was blood in his hand on which
 
 Anchored Artifacts: A-1585.1
 Mentions: N-3, N-1
-Related Nodes: N-10085, N-10180
+Related Nodes: N-10081, N-10172
 Tags: relevance:core
 Investigative Direction: Have a forensic pathologist review the video for the blood in the hand and its source.
 
@@ -1915,7 +1907,7 @@ Transcript Snippet: Uh he's also been indicted for crimes by the state of Arizon
 
 Anchored Artifacts: 
 Mentions: N-3, N-11, N-5
-Related Nodes: N-11111
+Related Nodes: N-11029
 Tags: relevance:context
 Investigative Direction: Check Arizona court dockets and the pardon record for Bowyer.
 
@@ -1931,7 +1923,7 @@ Transcript Snippet: A person that seems motivated by money, a person who factual
 
 Anchored Artifacts: 
 Mentions: N-3, N-11
-Related Nodes: N-11111, N-10000
+Related Nodes: N-11029, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain court garnishment records and TPUSA's Form 990 compensation filings.
 
@@ -1947,7 +1939,7 @@ Transcript Snippet: I think Tyler Bowyer, it is a logical conclusion that he is 
 
 Anchored Artifacts: 
 Mentions: N-3, N-11
-Related Nodes: N-11111
+Related Nodes: N-11029
 Tags: relevance:context
 Investigative Direction: State the factual basis (court records, financial filings) for the host's conclusion.
 
@@ -1963,7 +1955,7 @@ Transcript Snippet: I decided to ask Erika in person during our sitdown how she 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-11
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team to confirm the question and her answer.
 
@@ -1979,7 +1971,7 @@ Transcript Snippet: Both she and Tyler have been honest about that fact, particu
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-11, N-5
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Review rally footage and the public statements in which each described attending.
 
@@ -1995,7 +1987,7 @@ Transcript Snippet: So the three of them have known each other since at least Ju
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-11, N-489, N-5
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Review footage of the July 2015 Arizona rally and identify who stood where.
 
@@ -2011,7 +2003,7 @@ Transcript Snippet: So I asked Erika how she met him. Her answer was that she me
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-11, N-5
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's representatives to confirm her account of how she met Bowyer.
 
@@ -2027,7 +2019,7 @@ Transcript Snippet: I immediately corrected her. I said, "That's not possible.
 
 Anchored Artifacts: A-1580.1
 Mentions: N-3, N-2, N-11
-Related Nodes: N-11110
+Related Nodes: N-11028
 Supports: C-4581
 Tags: relevance:core
 Investigative Direction: Compare the memorial remarks with Erika Kirk's own accounts of how they met.
@@ -2044,7 +2036,7 @@ Transcript Snippet: she doesn't remember how she met him, but she said that she 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-11
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team whether she located the old messages and what they show.
 
@@ -2060,7 +2052,7 @@ Transcript Snippet: they had a a connection in politics via a a senator or a con
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-11
-Related Nodes: N-11110, N-10383
+Related Nodes: N-11028, N-10356
 Tags: relevance:core
 Investigative Direction: Identify which senator or congressman Erika meant and any link to the Farnsworths.
 
@@ -2076,7 +2068,7 @@ Transcript Snippet: Terryl Farnsworth par Farnsworth's parents went to high scho
 
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-11
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Check yearbooks and public records for the two families in Chandler.
 
@@ -2092,7 +2084,7 @@ Transcript Snippet: They graduated um it looks like two years apart uh from Gilb
 
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-11
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Check Gilbert High School yearbooks and graduation lists.
 
@@ -2156,7 +2148,7 @@ Transcript Snippet: Terryl's father is a man named Dwayne Farnsworth and his fir
 
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-382, N-380, N-381
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Verify the Farnsworth family tree from Arizona public records and obituaries.
 
@@ -2172,7 +2164,7 @@ Transcript Snippet: In fact, Eddie has actually been sued in the past with Tyler
 
 Anchored Artifacts: 
 Mentions: N-3, N-380, N-11
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:context
 Investigative Direction: Search Arizona court dockets for cases naming both Eddie Farnsworth and Tyler Bowyer as defendants.
 
@@ -2188,7 +2180,7 @@ Transcript Snippet: They got it passed through. So, the three of these people kn
 
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-381, N-489
-Related Nodes: N-10383
+Related Nodes: N-10356
 Supports: C-4591
 Tags: relevance:context
 Investigative Direction: Check the Arizona legislature's 2014 record for the bill's outcome.
@@ -2205,7 +2197,7 @@ Transcript Snippet: And he got support from Congressman Trent Franks.
 
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-381, N-764
-Related Nodes: N-10383
+Related Nodes: N-10356
 Supports: C-4591
 Tags: relevance:context
 Investigative Direction: Pull the 2014 record and Franks's public statements on the EMP bill.
@@ -2222,7 +2214,7 @@ Transcript Snippet: Larry Guinta, by the way, or Gwenta, I don't know if I'm say
 
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-387, N-2
-Related Nodes: N-10383
+Related Nodes: N-10356
 Supports: C-4591
 Tags: relevance:core
 Investigative Direction: Confirm the family relationship with marriage and public records for Lori Frantzve.
@@ -2239,7 +2231,7 @@ Transcript Snippet: The Finesworths, the Boyers, and the France fees have known 
 
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-489, N-11, N-381, N-380
-Related Nodes: N-10383
+Related Nodes: N-10356
 Supports: C-4591
 Tags: relevance:context
 Investigative Direction: Look for documents earlier than 2014 linking the families.
@@ -2256,7 +2248,7 @@ Transcript Snippet: Um I have an indication that it was actually earlier, but th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10383
+Related Nodes: N-10356
 Qualifies: C-4595
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the indication or source, then verify it with records.
@@ -2273,7 +2265,7 @@ Transcript Snippet: he blocked a hearing on a bill to prevent child sex traffick
 
 Anchored Artifacts: 
 Mentions: N-3, N-380
-Related Nodes: N-11112, N-10832
+Related Nodes: N-11030, N-10755
 Tags: relevance:context
 Investigative Direction: Check the Arizona House Judiciary Committee agenda and press coverage of the 2013 bill.
 
@@ -2289,7 +2281,7 @@ Transcript Snippet: his nephew, Albert Farnsworth, um had raped a 13-year-old.
 
 Anchored Artifacts: 
 Mentions: N-3, N-380, N-383
-Related Nodes: N-11112
+Related Nodes: N-11030
 Tags: relevance:tangential
 Investigative Direction: Check Arizona court records and news archives for the case against Albert Farnsworth.
 
@@ -2305,7 +2297,7 @@ Transcript Snippet: they run uh an anti-child sex trafficking charity. Also, in 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10186, N-10832
+Related Nodes: N-10178, N-10755
 Tags: relevance:context
 Investigative Direction: Identify the plane owners and the charity, and check their public profile photos.
 
@@ -2321,7 +2313,7 @@ Transcript Snippet: following the assassination, Phil Lyman was speaking to the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-325
-Related Nodes: N-10832
+Related Nodes: N-10755
 Tags: relevance:context
 Investigative Direction: Locate the Lyman-Ballard conversation, its date and venue.
 
@@ -2337,7 +2329,7 @@ Transcript Snippet: he had gotten u donation and support from Glenn Beck for Ope
 
 Anchored Artifacts: 
 Mentions: N-3, N-325, N-237
-Related Nodes: N-10832
+Related Nodes: N-10755
 Tags: relevance:tangential
 Investigative Direction: Check Operation Underground's and Beck's public statements on the support.
 
@@ -2353,7 +2345,7 @@ Transcript Snippet: literally across the way there's a place known as Arizona Mi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10832, N-10000
+Related Nodes: N-10755, N-10000
 Tags: relevance:tangential
 Investigative Direction: Verify the location of TPUSA's campus relative to Arizona Mills and any law enforcement data on trafficking there.
 
@@ -2369,7 +2361,7 @@ Transcript Snippet: I am not suggesting that Turning Point USA is trafficking ch
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10832, N-10000
+Related Nodes: N-10755, N-10000
 Qualifies: C-4603, C-4599
 Tags: relevance:context
 Investigative Direction: Treat as a hedge on the host's trafficking-theme claims; test whether those claims rest on documents.
@@ -2386,7 +2378,7 @@ Transcript Snippet: I am wondering regarding Eddie Farnsworth if it is possible 
 
 Anchored Artifacts: 
 Mentions: N-3, N-380, N-363, N-361
-Related Nodes: N-10371, N-10383
+Related Nodes: N-10345, N-10356
 Tags: relevance:core
 Investigative Direction: Show Mitch photos of Farnsworth and Amodei side by side and compare with his recorded description.
 
@@ -2402,7 +2394,7 @@ Transcript Snippet: I sent it to Mitch and he said, "Yes, this man looks very fa
 
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-380
-Related Nodes: N-10371, N-10383
+Related Nodes: N-10345, N-10356
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's own statement on the photo and whether he can place Farnsworth at the base.
 
@@ -2418,7 +2410,7 @@ Transcript Snippet: because the Farnsworth family has deep military ties as well
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:context
 Investigative Direction: Identify Farnsworth family members' military service and contracts.
 
@@ -2434,7 +2426,7 @@ Transcript Snippet: Uh, it's a little over an hour north in Tucson.
 
 Anchored Artifacts: A-1583.1
 Mentions: N-3
-Related Nodes: N-10384
+Related Nodes: N-10357
 Tags: relevance:context
 Investigative Direction: Check the road distance between Davis-Monthan AFB and Fort Huachuca.
 
@@ -2450,7 +2442,7 @@ Transcript Snippet: Again, that could obviously just be a coincidence, but it's 
 
 Anchored Artifacts: A-1583.1
 Mentions: N-3
-Related Nodes: N-10384, N-10383
+Related Nodes: N-10357, N-10356
 Qualifies: C-4609
 Tags: relevance:context
 Investigative Direction: Obtain the summit's attendee list and agenda.
@@ -2467,7 +2459,7 @@ Transcript Snippet: His father-in-law is Thomas Burt, who ran Duncan Aviation. T
 
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-385, N-260
-Related Nodes: N-10256, N-10383
+Related Nodes: N-10242, N-10356
 Supports: C-2939
 Tags: relevance:core
 Investigative Direction: Verify the family relationship and Bert's role through corporate and marriage records.
@@ -2484,7 +2476,7 @@ Transcript Snippet: He actually ran Duncan Aviation as the executive vice presid
 
 Anchored Artifacts: 
 Mentions: N-3, N-385, N-260
-Related Nodes: N-10256
+Related Nodes: N-10242
 Tags: relevance:context
 Investigative Direction: Check Duncan Aviation press releases and filings for Bert's title and retirement date.
 
@@ -2500,7 +2492,7 @@ Transcript Snippet: it looked like a Daily Wire was teasing something on my chan
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10379
+Related Nodes: N-10352
 Supports: C-4615
 Tags: relevance:context
 Investigative Direction: Obtain screenshots of the reactivated accounts and posts and their dates.
@@ -2517,7 +2509,7 @@ Transcript Snippet: They tossed around three other people. They even considered 
 
 Anchored Artifacts: 
 Mentions: N-3, N-386, N-163
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:context
 Investigative Direction: Ask the host for the tipsters' basis, and confirm casting through Daily Wire or the people named.
 
@@ -2533,7 +2525,7 @@ Transcript Snippet: In fact, in terms of making honey or bee related products, t
 
 Anchored Artifacts: A-1584.1
 Mentions: N-3
-Related Nodes: N-10114
+Related Nodes: N-10110
 Tags: relevance:tangential
 Investigative Direction: Check USDA honey production rankings for Utah.
 
@@ -2549,7 +2541,7 @@ Transcript Snippet: It's actually the beehive state. It's relates to the uh Morm
 
 Anchored Artifacts: A-1584.1
 Mentions: N-3
-Related Nodes: N-10114
+Related Nodes: N-10110
 Tags: relevance:tangential
 Investigative Direction: Check Utah state history sources on the beehive symbol and its adoption.
 
@@ -2565,7 +2557,7 @@ Transcript Snippet: laws that prevent employers from sending interns to stalk yo
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10238, N-10416
+Related Nodes: N-10225, N-10389
 Tags: relevance:context
 Investigative Direction: Identify the intern incidents, the events and any recorded evidence of the cancelled speaking events.
 
@@ -2581,7 +2573,7 @@ Transcript Snippet: Eight men and two women between the ages of 41 and 65.
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
-Related Nodes: N-11113
+Related Nodes: N-11031
 Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment listing the defendants and charges.
 
@@ -2597,7 +2589,7 @@ Transcript Snippet: of the 10 defendants, eight were given suspended sentences b
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
-Related Nodes: N-11113
+Related Nodes: N-11031
 Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment and press reports for the sentences.
 
@@ -2613,7 +2605,7 @@ Transcript Snippet: Three of the individuals were described as the instigators a
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
-Related Nodes: N-11113
+Related Nodes: N-11031
 Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment for the account suspension orders.
 
@@ -2629,7 +2621,7 @@ Transcript Snippet: all of them were ordered to attend an online course regardin
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
-Related Nodes: N-11113
+Related Nodes: N-11031
 Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment for the course order.
 
@@ -2645,7 +2637,7 @@ Transcript Snippet: And they have to collectively pay Rajit Macron what's known 
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
-Related Nodes: N-11113
+Related Nodes: N-11031
 Tags: relevance:tangential
 Investigative Direction: Obtain the French court judgment for the damages order and amount.
 
@@ -2661,7 +2653,7 @@ Transcript Snippet: evil people are getting caught doing evil things and those e
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-4624
 Tags: relevance:context
 Investigative Direction: Follow the Delaware docket and any French or US speech legislation the host links to the suit.
@@ -2678,7 +2670,7 @@ Transcript Snippet: in Delaware, a place where I'm pretty sure France has been r
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the historical basis for the France-Delaware assertion.
 
@@ -2694,7 +2686,7 @@ Transcript Snippet: But this is not defamation. She's not making the argument th
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11113, N-10270
+Related Nodes: N-11031, N-10254
 Tags: relevance:tangential
 Investigative Direction: Read the French judgment's reasoning on whether truth of the statements was considered.
 
@@ -2740,7 +2732,7 @@ Transcript Snippet: Looking into Erika's mom's company, AZ Tech and E3 Tech, hav
 
 Anchored Artifacts: A-2840.1
 Mentions: N-3, N-2, N-489
-Related Nodes: N-11114
+Related Nodes: N-11032
 Tags: relevance:core
 Investigative Direction: Search federal contract databases (SAM.gov, USASpending) for AZ Tech and E3 Tech and their Fort Huachuca testing work.
 
@@ -2756,7 +2748,7 @@ Transcript Snippet: She's like on camera saying that she moved to Arizona becaus
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-489
-Related Nodes: N-11114
+Related Nodes: N-11032
 Supports: C-4630
 Tags: relevance:core
 Investigative Direction: Locate the interview in which Erika Kirk says this and confirm the wording.

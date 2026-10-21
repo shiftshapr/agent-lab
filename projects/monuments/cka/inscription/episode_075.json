@@ -538,8 +538,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10856",
-      "ref": "N-10856",
+      "@id": "N-10777",
+      "ref": "N-10777",
       "name": "Pentagon Seating Geometry Claim (Investigation Target)",
       "type": "investigation_target",
       "description": "Persistent host claim that Charlie Kirk was \"seated in the center of a pentagon when he was killed,\" which she derives by analogy from a pentagram illustration in the so-called \"Freemason Bible.\" In this episode, the claim is host inference, not directly anchored to any artifact depicting the actual seating geometry at the September 10 event. Verification target: obtain and review contemporaneous photographs/video of the September 10 venue showing the actual configuration of the security perimeter and seating.",
@@ -555,8 +555,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10857",
-      "ref": "N-10857",
+      "@id": "N-10778",
+      "ref": "N-10778",
       "name": "\"Freemason Bible\" Document Authentication (Investigation Target)",
       "type": "investigation_target",
       "description": "The host's characterization of the mailed document as a \"33rd degree Freemason Bible\" originating from the estate auction of a deceased Oklahoma Freemason rests entirely on an unsigned handwritten cover letter. Authentication, provenance, and whether the document reflects mainstream Freemason belief vs. fringe material remains unestablished in-episode. Verification target: confirm document via independent Masonic-history scholars and cross-reference with known Masonic publishing.",
@@ -576,8 +576,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10858",
-      "ref": "N-10858",
+      "@id": "N-10779",
+      "ref": "N-10779",
       "name": "Erika Kirk Presidential Viability Narrative (Investigation Target)",
       "type": "investigation_target",
       "description": "Aggregate target tracking whether TPUSA figures and adjacent commentators explicitly floated her viability as a candidate during 2025, prior to public statements she might herself make. This episode contributes three artifact-anchored data points (Bowyer, Turek, McQuaid) within the first ~3 weeks after September 10.",
@@ -1190,8 +1190,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1208,8 +1208,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10113",
-      "ref": "N-10113",
+      "@id": "N-10109",
+      "ref": "N-10109",
       "name": "Beehive Code / School Underground Premonition",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1227,8 +1227,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1245,8 +1245,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1264,8 +1264,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10403",
-      "ref": "N-10403",
+      "@id": "N-10376",
+      "ref": "N-10376",
       "name": "Erika Kirk Handler Thesis",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1283,8 +1283,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1300,8 +1300,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10414",
-      "ref": "N-10414",
+      "@id": "N-10387",
+      "ref": "N-10387",
       "name": "CERN Satantic Ritual Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1317,8 +1317,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10415",
-      "ref": "N-10415",
+      "@id": "N-10388",
+      "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1334,8 +1334,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1370,8 +1370,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1387,8 +1387,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1422,8 +1422,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1440,8 +1440,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10962",
-      "ref": "N-10962",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Venezuela",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1458,8 +1458,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1476,8 +1476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11072",
-      "ref": "N-11072",
+      "@id": "N-10990",
+      "ref": "N-10990",
       "name": "Cancelled TPUSA Event and Kanye France Trip",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1581,8 +1581,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
       "type": "topic",
       "description": "The host's argument that the 2026 US and Israeli campaign against Iran was engineered by Israel, that Trump betrayed America First, and that Charlie Kirk was its first casualty.",
@@ -1611,8 +1611,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11129",
-      "ref": "N-11129",
+      "@id": "N-11047",
+      "ref": "N-11047",
       "name": "Freemasonry",
       "type": "topic",
       "description": "The fraternal order and its symbolism, which the host studies and ties to her occult-influence thesis.",
@@ -1630,8 +1630,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11130",
-      "ref": "N-11130",
+      "@id": "N-11048",
+      "ref": "N-11048",
       "name": "B'nai B'rith",
       "type": "organization",
       "description": "Jewish service organization the host calls the Jewish Freemason group and says has run the country since at least the Civil War.",
@@ -1647,8 +1647,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11131",
-      "ref": "N-11131",
+      "@id": "N-11049",
+      "ref": "N-11049",
       "name": "Charlie Kirk Death as Spell Claim",
       "type": "topic",
       "description": "The host's belief that the manner and broadcast of Charlie Kirk's death were meant to cast a spell and that he was sacrificed.",
@@ -1664,8 +1664,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10505",
-      "ref": "N-10505",
+      "@id": "N-10466",
+      "ref": "N-10466",
       "name": "Erika Kirk Post-Assassination Conduct Composite",
       "type": "topic",
       "description": "The host's list of Erika Kirk's behaviors after September 10: a raise for Dan Flood, a Times interview, office attendance with her children, claimed absence of fear and forgiveness of the accused.",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11132",
-      "ref": "N-11132",
+      "@id": "N-11050",
+      "ref": "N-11050",
       "name": "Trump Response to Kirk Assassination",
       "type": "topic",
       "description": "The host's account of how many posts Trump made about Charlie Kirk, their content, and whether he called for an investigation.",
@@ -1709,8 +1709,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11133",
-      "ref": "N-11133",
+      "@id": "N-11051",
+      "ref": "N-11051",
       "name": "Glyphosate and White Phosphorus Defense Production Act Order",
       "type": "topic",
       "description": "The February 26 executive order invoking the Defense Production Act for glyphosate and the Washington Post's note on elemental phosphorus, and the host's tie to Israeli use of white phosphorus.",
@@ -1788,7 +1788,7 @@
         "A-2439.1"
       ],
       "related_nodes": [
-        "N-10857"
+        "N-10778"
       ],
       "tags": [],
       "claim_timestamp": "00:10:30",
@@ -1805,7 +1805,7 @@
         "A-2439.2"
       ],
       "related_nodes": [
-        "N-10857"
+        "N-10778"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55",
@@ -1822,7 +1822,7 @@
         "A-2440.1"
       ],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [],
       "claim_timestamp": "00:19:40",
@@ -1843,7 +1843,7 @@
         "A-2441.1"
       ],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [],
       "claim_timestamp": "00:20:50",
@@ -1865,7 +1865,7 @@
         "A-2442.1"
       ],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [],
       "claim_timestamp": "00:21:50",
@@ -2018,7 +2018,7 @@
       "claim": "The host says Bill Ackman apparently wants her imprisoned for suggesting that American sons and daughters should object to being slaughtered for Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -2039,7 +2039,7 @@
       "claim": "The host says it is completely obvious to anyone paying attention that Erika Kirk's desire was to become president one day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [
         "relevance:core"
@@ -2060,7 +2060,7 @@
       "claim": "The host says people who practice occult magic are, at this moment, pushing for World War III.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:tangential"
@@ -2137,7 +2137,7 @@
         "A-2852.1"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10387"
       ],
       "tags": [
         "relevance:tangential"
@@ -2160,7 +2160,7 @@
       "claim": "The host says the entire scientific revolution began because of a long organized Freemasonic effort to remove humanity from its innate spiritual understanding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2199,7 +2199,7 @@
       "claim": "The host says no one can explain why or how she had a sense of dread in the very week leading up to Charlie Kirk's assassination, including that the danger would come to a school and relate to bees.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10113"
+        "N-10109"
       ],
       "tags": [
         "relevance:core"
@@ -2223,7 +2223,7 @@
       "claim": "The host says her feeling was so overwhelming that she hired extra security, took her podcast off the air and pulled her children out of school in the week before the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10113"
+        "N-10109"
       ],
       "tags": [
         "relevance:core"
@@ -2247,7 +2247,7 @@
       "claim": "The host says Charlie Kirk said he knew from the moment he signed on the dotted line that he was going to die young, and that his death would be related to Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10415",
+        "N-10388",
         "N-10000"
       ],
       "tags": [
@@ -2271,7 +2271,7 @@
       "claim": "The host says she knew Freemason Bibles existed from studying Sigmund Freud and learning that he inherited one from his father.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2294,7 +2294,7 @@
         "A-2439.1"
       ],
       "related_nodes": [
-        "N-10857"
+        "N-10778"
       ],
       "tags": [
         "relevance:context"
@@ -2316,7 +2316,7 @@
         "A-2439.1"
       ],
       "related_nodes": [
-        "N-10857"
+        "N-10778"
       ],
       "tags": [
         "relevance:context"
@@ -2338,7 +2338,7 @@
         "A-2439.1"
       ],
       "related_nodes": [
-        "N-10857"
+        "N-10778"
       ],
       "tags": [
         "relevance:context"
@@ -2360,7 +2360,7 @@
         "A-2853.1"
       ],
       "related_nodes": [
-        "N-10856"
+        "N-10777"
       ],
       "tags": [
         "relevance:core"
@@ -2381,7 +2381,7 @@
       "claim": "The host says she believes B'nai B'rith, which she calls the Jewish Freemason group, has been running the United States since at least the Civil War.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11130"
+        "N-11048"
       ],
       "tags": [
         "relevance:tangential"
@@ -2459,7 +2459,7 @@
       "claim": "The host says Freemasons worship Solomon as the master architect and believe he gave them the keys to build and therefore control societies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11129"
+        "N-11047"
       ],
       "tags": [
         "relevance:tangential"
@@ -2519,7 +2519,7 @@
       "claim": "The host says she believes the manner of Charlie Kirk's death was also intended to cast a spell.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11131"
+        "N-11049"
       ],
       "tags": [
         "relevance:core"
@@ -2587,8 +2587,8 @@
         "A-2439.2"
       ],
       "related_nodes": [
-        "N-10857",
-        "N-10113"
+        "N-10778",
+        "N-10109"
       ],
       "tags": [
         "relevance:context"
@@ -2647,7 +2647,7 @@
       "claim": "The host says there was an ultimate goal of raising Erika Kirk's political profile as a potential presidential candidate, and that it was explicitly and almost immediately seeded by Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [
         "relevance:core"
@@ -2694,7 +2694,7 @@
         "A-2440.1"
       ],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [
         "relevance:core"
@@ -2725,7 +2725,7 @@
         "A-2441.1"
       ],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [
         "relevance:context"
@@ -2749,7 +2749,7 @@
         "A-2442.1"
       ],
       "related_nodes": [
-        "N-10858"
+        "N-10779"
       ],
       "tags": [
         "relevance:core"
@@ -2770,7 +2770,7 @@
       "claim": "The host says she thinks Elizabeth Lane read Erika Kirk correctly when she posited that Erika may be a psychopath.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2792,8 +2792,8 @@
       "claim": "The host says Erika Kirk, after her husband's public assassination, offered a raise to Dan Flood, the security guard the host says failed Charlie in every way on September 10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10694",
-        "N-10505"
+        "N-10632",
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2816,9 +2816,9 @@
       "claim": "The host says Erika Kirk offered and then gave an in-home interview to the New York Times in the immediate days after her husband's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905",
-        "N-10968",
-        "N-10505"
+        "N-10826",
+        "N-10889",
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2842,7 +2842,7 @@
       "claim": "The host says the New York Times is a publication that Erika Kirk's husband hated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968"
+        "N-10889"
       ],
       "tags": [
         "relevance:context"
@@ -2864,8 +2864,8 @@
       "claim": "The host says Erika Kirk told the Times journalist that the least traumatizing part was the idea of raising her children without a father.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905",
-        "N-10505"
+        "N-10826",
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2889,7 +2889,7 @@
       "claim": "The host says Erika Kirk felt compelled to go into the office the same week as the assassination and to bring her children every day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2910,7 +2910,7 @@
       "claim": "The host says Erika Kirk told Jesse Watters that she had zero fear and was not scared to walk out the door the next day with her kids in tow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2932,7 +2932,7 @@
       "claim": "The host says Erika Kirk forgave the person who allegedly murdered her husband before she even saw evidence of his guilt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2957,8 +2957,8 @@
       "claim": "The host says Erika Kirk helped validate the implausible parts of the narrative about Tyler Robinson, including a neck stopping a .30-06 bullet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10505"
+        "N-10416",
+        "N-10466"
       ],
       "tags": [
         "relevance:core"
@@ -2980,7 +2980,7 @@
       "claim": "The host says Erika Kirk came up with and crafted the Superman steel neck account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -3003,7 +3003,7 @@
         "A-2444.1"
       ],
       "related_nodes": [
-        "N-10403"
+        "N-10376"
       ],
       "tags": [
         "relevance:context"
@@ -3026,7 +3026,7 @@
         "A-2444.1"
       ],
       "related_nodes": [
-        "N-10403"
+        "N-10376"
       ],
       "tags": [
         "relevance:context"
@@ -3053,7 +3053,7 @@
         "A-2444.1"
       ],
       "related_nodes": [
-        "N-10403"
+        "N-10376"
       ],
       "tags": [
         "relevance:context"
@@ -3094,7 +3094,7 @@
       "claim": "The host says one of the tweets Trump dedicated to Charlie Kirk after his assassination was an AI image of Charlie hugging an Israeli flag.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11132"
+        "N-11050"
       ],
       "tags": [
         "relevance:core"
@@ -3119,7 +3119,7 @@
       "claim": "The host says that after Charlie Kirk's assassination Trump dedicated two tweets, three at most, and never demanded an investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11132"
+        "N-11050"
       ],
       "tags": [
         "relevance:core"
@@ -3141,7 +3141,7 @@
       "claim": "The host says Trump has shown more interest in debunking the mainstream media narrative about whether he is balding than in investigating who murdered Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11132"
+        "N-11050"
       ],
       "tags": [
         "relevance:context"
@@ -3163,7 +3163,7 @@
       "claim": "The host says Trump promised low gas prices and no more forever wars or involvement in Middle East conflict, and that the public is now getting the opposite.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3247,7 +3247,7 @@
       "claim": "The host says the Trump administration delayed the release of the Epstein files and then gaslit the public, and that Trump called the files a Democratic hoax.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3269,7 +3269,7 @@
       "claim": "The host says Trump famously asked whether people were still talking about the Epstein files and still talking about children being harmed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3315,7 +3315,7 @@
         "A-2445.1"
       ],
       "related_nodes": [
-        "N-10962"
+        "N-10883"
       ],
       "tags": [
         "relevance:context"
@@ -3339,7 +3339,7 @@
         "A-2445.1"
       ],
       "related_nodes": [
-        "N-10962"
+        "N-10883"
       ],
       "tags": [
         "relevance:context"
@@ -3380,7 +3380,7 @@
         "A-2446.1"
       ],
       "related_nodes": [
-        "N-11133"
+        "N-11051"
       ],
       "tags": [
         "relevance:context"
@@ -3402,7 +3402,7 @@
         "A-2447.1"
       ],
       "related_nodes": [
-        "N-11133"
+        "N-11051"
       ],
       "tags": [
         "relevance:context"
@@ -3427,7 +3427,7 @@
         "A-2447.1"
       ],
       "related_nodes": [
-        "N-11133"
+        "N-11051"
       ],
       "tags": [
         "relevance:context"
@@ -3448,7 +3448,7 @@
       "claim": "The host says Bibi Netanyahu instructed Trump to bomb Iran almost immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3470,8 +3470,8 @@
       "claim": "The host says that because Charlie Kirk was alive at that time, the initial US action against Iran was limited to hitting nuclear sites.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539",
-        "N-11128"
+        "N-10494",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -3492,8 +3492,8 @@
       "claim": "The host says the obstacle of Charlie Kirk was then subsequently removed and that the United States is now preemptively bombing Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10539",
-        "N-11128"
+        "N-10494",
+        "N-11046"
       ],
       "tags": [
         "relevance:core"
@@ -3514,7 +3514,7 @@
       "claim": "The host says the United States just killed 150 Iranian schoolgirls between the ages of 7 and 12 in a preemptive strike.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3534,7 +3534,7 @@
       "claim": "The host says Norman Finkelstein told her Israel had a literal government policy known as mowing the lawn in Gaza, in which the IDF would randomly shoot Palestinians so the population did not grow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:context"
@@ -3555,7 +3555,7 @@
       "claim": "The host says those going through the Epstein files find conversations openly about how in the future people will not be able to reproduce on their own.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:tangential"
@@ -3602,7 +3602,7 @@
         "A-2449.1"
       ],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3624,7 +3624,7 @@
         "A-2450.1"
       ],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3651,7 +3651,7 @@
         "A-2450.1"
       ],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3674,7 +3674,7 @@
         "A-2450.1"
       ],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3697,7 +3697,7 @@
         "A-2450.1"
       ],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3717,7 +3717,7 @@
       "claim": "The host says Israel got to get away with the Lavon Affair and with what it did to the USS Liberty, and that attacking America is a right reserved for Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [
         "relevance:context"
@@ -3737,7 +3737,7 @@
       "claim": "The host says officials first said it would be just Operation Midnight Hammer and now say more preemptive action is needed and that ground options are on the table.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3757,7 +3757,7 @@
       "claim": "The host says Bill Ackman was retweeting people who said it is a federal crime to tell people not to sign up for the military, after she suggested people should not join.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128"
+        "N-11046"
       ],
       "tags": [
         "relevance:context"
@@ -3801,7 +3801,7 @@
       "claim": "The host says the cease and desist letter she received from Turning Point USA objected to her saying that Turning Point was militarily infiltrated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436",
+        "N-10405",
         "N-10000"
       ],
       "tags": [
@@ -3825,7 +3825,7 @@
       "claim": "The host says she pointed out the backgrounds of the pastors, Turning Point Faith and Erika's mother, and that a lot of military people arrived very quickly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436",
+        "N-10405",
         "N-10000"
       ],
       "tags": [
@@ -3852,7 +3852,7 @@
         "A-2855.1"
       ],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:context"
@@ -3875,7 +3875,7 @@
         "A-2855.1"
       ],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [
         "relevance:context"
@@ -3897,7 +3897,7 @@
       "claim": "The host says the Christian Zionists, including Paula White and the pastors around Trump, resemble a movement that followed Jacob Frank and believed in a messianic mission.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:tangential"
@@ -3918,8 +3918,8 @@
       "claim": "The host says property in Gaza was promised to a lot of these pastors, with homes already promised to them to convince their churches to support this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063",
-        "N-10209"
+        "N-10060",
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -3961,7 +3961,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-11072"
+        "N-10990"
       ],
       "tags": [
         "relevance:core"
@@ -3982,7 +3982,7 @@
       "claim": "The host says Megyn Kelly has been attacked really hard and asks viewers to pray for her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:tangential"

@@ -59,7 +59,7 @@
             "N-3",
             "N-647",
             "N-624",
-            "N-10948"
+            "N-10869"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -82,7 +82,7 @@
             "N-30",
             "N-647",
             "N-648",
-            "N-10949"
+            "N-10870"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -135,7 +135,7 @@
           "related_nodes": [
             "N-649",
             "N-650",
-            "N-10951"
+            "N-10872"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -184,7 +184,7 @@
           "related_nodes": [
             "N-3",
             "N-649",
-            "N-10952"
+            "N-10873"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -361,7 +361,7 @@
           ],
           "related_nodes": [
             "N-658",
-            "N-10954"
+            "N-10875"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -434,7 +434,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10664"
+            "N-10606"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -503,7 +503,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10700"
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "The host restates that Charlie Kirk was changing his mind about Israel.",
@@ -1386,8 +1386,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Reporters were shown the appointment video exclusively, per the host.",
@@ -1403,8 +1403,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Erika Kirk's November 2025 Megyn Kelly interview introduced the appointment video.",
@@ -1420,8 +1420,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "The host restates that Charlie attended Catholic mass, sometimes daily.",
@@ -1437,8 +1437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10376",
-      "ref": "N-10376",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
       "type": "investigation_target",
       "description": "The host cites the recreated tent for selfies alongside the displayed microphone.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Context for the allegation the heckler referenced about Erika Kirk's past.",
@@ -1471,8 +1471,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
       "type": "investigation_target",
       "description": "The host says the church Erika Kirk partnered with is being sued and the lawsuit is ongoing.",
@@ -1488,8 +1488,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10437",
-      "ref": "N-10437",
+      "@id": "N-10406",
+      "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
       "description": "Donors and Erika fans present say the appointment never happened; the host has contacted the donors.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
       "type": "investigation_target",
       "description": "Thomas Massie's announced honor for survivors; the host's Phil Tourney interview.",
@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10538",
-      "ref": "N-10538",
+      "@id": "N-10493",
+      "ref": "N-10493",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
       "type": "investigation_target",
       "description": "Kolvet's earlier statement that an intern runs the TPUSA X account.",
@@ -1541,15 +1541,25 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10583",
-      "ref": "N-10583",
-      "name": "Aspen Donor Audio Integrity Question",
+      "@id": "N-10606",
+      "ref": "N-10606",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Attendees believe the clip was spliced from different points of the event.",
-      "related_artifacts": [],
+      "related_artifacts": [
+        "A-2625.2"
+      ],
       "related_claims": [
         "C-9754",
-        "C-9758"
+        "C-9758",
+        "C-9747",
+        "C-9749",
+        "C-9752",
+        "C-9755",
+        "C-9757",
+        "C-9762",
+        "C-9763",
+        "C-9764"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1559,25 +1569,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10584",
-      "ref": "N-10584",
-      "name": "Aspen Donor Event Memory Discrepancy",
-      "type": "investigation_target",
-      "description": "Donors recall \"the board would figure it out,\" not an appointment.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-9753"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "The host's narrowed FOIA asks for emails on Erika Kirk and the correspondents' dinner shooting.",
@@ -1593,35 +1586,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
-      "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
-      "description": "The host says definitively she believes the appointment clip is doctored; TPUSA's X account says it is real.",
-      "related_artifacts": [
-        "A-2625.2"
-      ],
-      "related_claims": [
-        "C-9747",
-        "C-9749",
-        "C-9752",
-        "C-9755",
-        "C-9757",
-        "C-9758",
-        "C-9762",
-        "C-9763",
-        "C-9764"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 9,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
       "type": "investigation_target",
       "description": "The White House asked the host to narrow her Erika Kirk FOIA request.",
@@ -1640,8 +1606,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "The host says it appears to have been involved in the White House emails about Erika Kirk.",
@@ -1657,8 +1623,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10948",
-      "ref": "N-10948",
+      "@id": "N-10869",
+      "ref": "N-10869",
       "name": "St. Petersburg International Economic Forum (SPIEF)",
       "type": "organization",
       "description": "Annual economic forum in St. Petersburg, described by the host as the \"Davos of the East,\" where she spoke on a family panel. She says a Trump administration delegation also attended. Critics claimed Putin invited her and that she appeared alongside Dugin.",
@@ -1679,8 +1645,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10949",
-      "ref": "N-10949",
+      "@id": "N-10870",
+      "ref": "N-10870",
       "name": "Alexander Dugin–George Farmer Italy Meeting Allegation",
       "type": "topic",
       "description": "Investigation target: Laura Loomer's source-based claim that Alexander Dugin met the host's husband George Farmer in a secret meeting in Italy about a month before the Russia trip, used to call for FARA registration and FinCEN flags. The host denies ever meeting Dugin.",
@@ -1700,8 +1666,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10950",
-      "ref": "N-10950",
+      "@id": "N-10871",
+      "ref": "N-10871",
       "name": "US Department of Veterans Affairs (VA)",
       "type": "organization",
       "description": "The host says her security staffer tried for years to get a VA appointment before suffering a stroke in Russia, and that members of his platoon died by suicide after failing to get appointments.",
@@ -1718,8 +1684,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10951",
-      "ref": "N-10951",
+      "@id": "N-10872",
+      "ref": "N-10872",
       "name": "People's Will",
       "type": "organization",
       "description": "Russian revolutionary group (Narodnaya Volya) that, per the host, plotted the 1881 assassination of Tsar Alexander II; the host reads Deborah Hertz's figures on its membership.",
@@ -1738,8 +1704,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10952",
-      "ref": "N-10952",
+      "@id": "N-10873",
+      "ref": "N-10873",
       "name": "Church of the Savior on Spilled Blood",
       "type": "place",
       "description": "Church in St. Petersburg built on the spot where Alexander II's carriage was bombed; the host shows her own video from it.",
@@ -1757,8 +1723,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10953",
-      "ref": "N-10953",
+      "@id": "N-10874",
+      "ref": "N-10874",
       "name": "Paleo Valley",
       "type": "organization",
       "description": "Sponsor of the host's show; the host says Alex Clark made private calls demanding it drop the show.",
@@ -1774,8 +1740,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10954",
-      "ref": "N-10954",
+      "@id": "N-10875",
+      "ref": "N-10875",
       "name": "Alliance Defending Freedom",
       "type": "organization",
       "description": "Christian legal organization (ADF) where Alex Clark's fiancé Vance Voetberg says he works.",
@@ -1793,8 +1759,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
       "type": "topic",
       "description": "Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. In this episode the host says her report was true, that Erika Kirk is considered an \"emotional asset,\" and that the Department of War appears to have been involved; her narrowed FOIA request seeks these emails.",
@@ -1855,7 +1821,7 @@
       "claim": "The host says the Trump administration sent an entire delegation to the same St. Petersburg International Economic Forum she attended, and that it went unreported.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10948"
+        "N-10869"
       ],
       "tags": [],
       "claim_timestamp": "00:03:32",
@@ -1873,7 +1839,7 @@
       "claim": "The host says the Russia trip was a family vacation that her family paid for, and that after extending the trip she was asked to join a SPIEF panel on family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10948"
+        "N-10869"
       ],
       "tags": [],
       "claim_timestamp": "00:03:32",
@@ -1894,7 +1860,7 @@
         "A-2618.1"
       ],
       "related_nodes": [
-        "N-10948"
+        "N-10869"
       ],
       "tags": [],
       "claim_timestamp": "00:04:21",
@@ -1916,7 +1882,7 @@
         "A-2618.2"
       ],
       "related_nodes": [
-        "N-10949"
+        "N-10870"
       ],
       "tags": [],
       "claim_timestamp": "00:05:53",
@@ -1937,8 +1903,8 @@
       "claim": "The host says she has never met Alexander Dugin and did not know he was speaking at SPIEF.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10948",
-        "N-10949"
+        "N-10869",
+        "N-10870"
       ],
       "tags": [],
       "claim_timestamp": "00:05:53",
@@ -1962,7 +1928,7 @@
         "A-2618.2"
       ],
       "related_nodes": [
-        "N-10949"
+        "N-10870"
       ],
       "tags": [],
       "claim_timestamp": "00:06:42",
@@ -2015,7 +1981,7 @@
       "claim": "The host says the staffer's wife told her that he knew something was wrong and had been trying to get an appointment with the VA for years.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10950"
+        "N-10871"
       ],
       "tags": [],
       "claim_timestamp": "00:12:36",
@@ -2033,7 +1999,7 @@
       "claim": "According to the host, the staffer's wife said he and his platoon had survived a sonar blast, that the VA suggested his symptoms could be PTSD, and that several platoon members died by suicide after they could not get appointments.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10950"
+        "N-10871"
       ],
       "tags": [],
       "claim_timestamp": "00:13:34",
@@ -2087,7 +2053,7 @@
       "claim": "The host says Thomas Massie announced that he was doing something to honor the survivors of the USS Liberty, and that her interview with survivor Phil Tourney went viral.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10451"
+        "N-10420"
       ],
       "tags": [],
       "claim_timestamp": "00:16:22",
@@ -2109,7 +2075,7 @@
         "A-2620.1"
       ],
       "related_nodes": [
-        "N-10951"
+        "N-10872"
       ],
       "tags": [],
       "claim_timestamp": "00:19:26",
@@ -2129,7 +2095,7 @@
         "A-2620.1"
       ],
       "related_nodes": [
-        "N-10951"
+        "N-10872"
       ],
       "tags": [],
       "claim_timestamp": "00:21:39",
@@ -2223,7 +2189,7 @@
         "A-2621.1"
       ],
       "related_nodes": [
-        "N-10952"
+        "N-10873"
       ],
       "tags": [],
       "claim_timestamp": "00:27:36",
@@ -2315,8 +2281,8 @@
       "claim": "The host says Erika Kirk went on tour with Greg Laurie's Harvest church. According to the host, the church is being sued over alleged trafficking in Romania, the lawsuit is ongoing, and she believes Laurie's position is that Paul Havsgaard did some things in Romania but it was not a broader church conspiracy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10411",
-        "N-10401"
+        "N-10384",
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:40:20",
@@ -2492,8 +2458,8 @@
       "claim": "The host repeats that Charlie Kirk was attending Catholic mass, sometimes daily, and was changing his mind about Israel, which she says started Alex Clark's conflict with her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10350",
-        "N-10056"
+        "N-10328",
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:50:16",
@@ -2513,7 +2479,7 @@
       "claim": "The host says Alex Clark made private phone calls demanding that the sponsor Paleo Valley drop the host's show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10953"
+        "N-10874"
       ],
       "tags": [],
       "claim_timestamp": "00:50:16",
@@ -2594,7 +2560,7 @@
         "A-2623.5"
       ],
       "related_nodes": [
-        "N-10954"
+        "N-10875"
       ],
       "tags": [],
       "claim_timestamp": "00:53:38",
@@ -2612,8 +2578,8 @@
       "claim": "The host says Erika Kirk first raised the video in a November 2025 interview with Megyn Kelly. According to the host, Erika said there that Charlie named her CEO at a private event three weeks before his death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10194",
-        "N-10664"
+        "N-10186",
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:55:43",
@@ -2655,7 +2621,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:00:14",
@@ -2674,7 +2640,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10376"
+        "N-10349"
       ],
       "tags": [],
       "claim_timestamp": "01:00:58",
@@ -2711,9 +2677,9 @@
       "claim": "The host says TPUSA showed the video exclusively to Daily Mail reporters and told them it was withheld to protect donors. She says that excuse is false because the camera stayed on Charlie Kirk and never showed the audience.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070",
+        "N-10067",
         "N-10000",
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:01:43",
@@ -2731,8 +2697,7 @@
       "claim": "The host says donors and TPUSA employees who were present say the appointment never happened. According to her, they remember Charlie Kirk answering that the board would figure it out and referring to Steve Jobs trusting his lieutenants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10584",
-        "N-10437"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "01:02:31",
@@ -2754,8 +2719,8 @@
       "claim": "The host says she asked people who were there and are fans of Erika Kirk, and that they do not remember the appointment and believe the clip was spliced from different points of the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10437",
-        "N-10583"
+        "N-10406",
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:02:31",
@@ -2776,7 +2741,7 @@
         "A-2625.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:03:31",
@@ -2816,7 +2781,7 @@
         "A-2625.2"
       ],
       "related_nodes": [
-        "N-10664",
+        "N-10606",
         "N-10008"
       ],
       "tags": [],
@@ -2841,8 +2806,7 @@
         "A-2625.2"
       ],
       "related_nodes": [
-        "N-10664",
-        "N-10583"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:05:07",
@@ -2905,7 +2869,7 @@
       "claim": "The host says that after a TPUSA X post about Thomas Massie, Andrew Kolvet called to say an intern, not senior staff, runs the TPUSA account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10538",
+        "N-10493",
         "N-10000"
       ],
       "tags": [],
@@ -2928,7 +2892,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:07:26",
@@ -2950,7 +2914,7 @@
       "claim": "The host says she is waiting for TPUSA to agree that she can publish the full Aspen video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:08:06",
@@ -2969,7 +2933,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "01:08:58",
@@ -3004,7 +2968,7 @@
       "claim": "The host says she has contacted the donors who asked the question at Aspen, giving one an extra day after texting, and plans to name them and share the full video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10437"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "01:17:14",
@@ -3024,8 +2988,8 @@
         "A-2627.1"
       ],
       "related_nodes": [
-        "N-10700",
-        "N-10637"
+        "N-10637",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "01:19:14",
@@ -3046,9 +3010,9 @@
         "A-2627.1"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10888",
-        "N-10700"
+        "N-10844",
+        "N-10809",
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "01:20:03",

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-747, N-11069
-  - Hole-minted Nodes (reintro-ep141): N-10805
+  - Tip-minted Nodes (supplement_2026-10): N-747, N-10987
+  - Hole-minted Nodes (reintro-ep141): N-10729
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12113–C-12208
   - (see registers)
@@ -40,8 +40,8 @@
 **Episode 141 Ledger Summary**
 
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
-  - New Nodes Introduced: N-10794, N-10795, N-10796
-  - Reused Nodes Appearing: N-18, N-560, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
+  - New Nodes Introduced: N-10718, N-10719, N-10720
+  - Reused Nodes Appearing: N-18, N-560, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10086, N-10098, N-10272, N-10316, N-10354, N-10468, N-10541, N-10660, N-10730, N-10986, N-10984, N-10985
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -52,7 +52,7 @@ This episode presents Candace Owens's post-debate recap of a discussion between 
 
 Secondary artifacts include post-debate social media reactions: an AI-generated "Jars Wide Shut" video by @whereforbidden (A-2278.1), a "Stages of Debate Grief" meme by @alpha_approved (A-2279.1), two Rachel Wilson X posts regarding in-ear monitors and case detail familiarity (A-2280.1, A-2280.2), a Steven Crowder–Andrew Wilson post-debate phone call regarding makeup and hair (A-2281.1), and a Poly Market chart showing Robinson conviction odds falling during the debate (A-2282.1).
 
-The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-10794), and Wilson's stated intent to release "never-before-seen messages" (N-10795). Pre-debate negotiation details, including anonymous "Crucible team" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.
+The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-10718), and Wilson's stated intent to release "never-before-seen messages" (N-10719). Pre-debate negotiation details, including anonymous "Crucible team" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12139, C-12143, N-10794, N-10795*
+*Related: C-12139, C-12143, N-10718, N-10719*
 
 **A-2277.2** Debate Segment – Wilson's 75–85% Confidence Estimate
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:49:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10795*
+*Related: N-10719*
 
 **A-2277.6** Debate Segment – 16-Second Silence and Lance DNA Clip Moment
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-12171, N-10795, N-18*
+*Related: C-12171, N-10719, N-18*
 
 ---
 
@@ -339,7 +339,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-10794** September 9, 2025 Message Nature Discrepancy
+**N-10718** September 9, 2025 Message Nature Discrepancy
 
 Persistent disagreement over whether the Charlie Kirk security message Wilson referenced in his opening statement was sent via Signal (per Wilson's prior framing) or iMessage (per Owens's prior public claim that she has seen the message).
 
@@ -350,7 +350,7 @@ Investigative Pressure: Medium
 
 *Related: A-2277.1, C-12139*
 
-**N-10795** Wilson's Promised Release of "Never-Before-Seen Messages"
+**N-10719** Wilson's Promised Release of "Never-Before-Seen Messages"
 
 Wilson opened the debate stating he possesses never-before-seen messages from Charlie Kirk's security team dated September 9, 2025, and committed to dropping the underlying message text on his show following the debate; the message had not been released as of this episode.
 
@@ -361,7 +361,7 @@ Investigative Pressure: Medium
 
 *Related: A-2277.1, A-2283.1, C-12139, C-12171*
 
-**N-10796** Turning Point USA Organizational State (Post-Debate)
+**N-10720** Turning Point USA Organizational State (Post-Debate)
 
 Persistent investigation target tracking TPUSA's institutional conduct, public posture, and personnel alignment under Erika Kirk's leadership; episode contributes Wilson's performance and the post-debate social media reaction as additional data points.
 
@@ -543,7 +543,7 @@ Place named in the played exchange about who called the shots.
 
 ---
 
-**N-10090** Screwdriver Evidence Question
+**N-10086** Screwdriver Evidence Question
 
 Topic tied to the planted-screwdriver exchange.
 
@@ -551,7 +551,7 @@ Topic tied to the planted-screwdriver exchange.
 
 ---
 
-**N-10102** Earpiece Rumor Debunking
+**N-10098** Earpiece Rumor Debunking
 
 Topic tied to the in-ear monitor claims.
 
@@ -559,7 +559,7 @@ Topic tied to the in-ear monitor claims.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Topic tied to the Foreign Legion threat exchange.
 
@@ -567,7 +567,7 @@ Topic tied to the Foreign Legion threat exchange.
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Topic tied to the Converse sneakers identification testimony.
 
@@ -575,7 +575,7 @@ Topic tied to the Converse sneakers identification testimony.
 
 ---
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Topic tied to the receipt and owner account.
 
@@ -583,7 +583,7 @@ Topic tied to the receipt and owner account.
 
 ---
 
-**N-10507** Charlie Kirk Phone Access Question
+**N-10468** Charlie Kirk Phone Access Question
 
 Topic tied to the 'I have his cell phone' statement.
 
@@ -591,7 +591,7 @@ Topic tied to the 'I have his cell phone' statement.
 
 ---
 
-**N-10593** Tyler Robinson Filing Timeline Discrepancy
+**N-10541** Tyler Robinson Filing Timeline Discrepancy
 
 Topic tied to the dismissal filing and charges.
 
@@ -599,7 +599,7 @@ Topic tied to the dismissal filing and charges.
 
 ---
 
-**N-10725** Officer Bagley Body-Cam Battery Anomaly
+**N-10660** Officer Bagley Body-Cam Battery Anomaly
 
 Topic tied to the body cam remarks.
 
@@ -607,7 +607,7 @@ Topic tied to the body cam remarks.
 
 ---
 
-**N-10805** Debate Israel Focus
+**N-10729** Debate Israel Focus
 
 Topic tied to the host's remarks on Wilson's focus on Israel and France.
 
@@ -615,7 +615,7 @@ Topic tied to the host's remarks on Wilson's focus on Israel and France.
 
 ---
 
-**N-10816** Charlie Kirk September 9, 2025 Text Messages
+**N-10730** Charlie Kirk Pre-Event Text Messages
 
 Topic tied to the content of the September 9 message.
 
@@ -631,7 +631,7 @@ First named by the host at 00:13:18 in episode 141. Named as the person from Ste
 
 ---
 
-**N-11066** Wilson Debate Crucible Team Anonymity
+**N-10984** Wilson Debate Crucible Team Anonymity
 
 Node Type: Topic
 The anonymous 'Crucible team' that emailed the host's side for Wilson, the contract, escrow and Rogan-offer renegotiation, and the burner-phone contact.
@@ -640,7 +640,7 @@ The anonymous 'Crucible team' that emailed the host's side for Wilson, the contr
 
 ---
 
-**N-11067** Wilson Debate Studio Access Dispute
+**N-10985** Wilson Debate Studio Access Dispute
 
 Node Type: Topic
 Dispute over what Wilson's party was entitled to do at the host's home: the live-stream setup demand, the basement entrance, the live call-in from the playroom and the no-filming clause.
@@ -649,7 +649,7 @@ Dispute over what Wilson's party was entitled to do at the host's home: the live
 
 ---
 
-**N-11068** Utah Rule 1102 Hearsay Standard
+**N-10986** Utah Rule 1102 Hearsay Standard
 
 Node Type: Topic
 Utah's Rule 1102, which the host says permits hearsay at the preliminary hearing and underpins her point about inference from evidence.
@@ -658,7 +658,7 @@ Utah's Rule 1102, which the host says permits hearsay at the preliminary hearing
 
 ---
 
-**N-11069** Host Debate Winnings Dispute
+**N-10987** Host Debate Winnings Dispute
 
 Node Type: Topic
 The host's $300K payment from Wilson's offer, the demands that she donate it or set up a trust, and her stated plan to give to the Catholic Church.
@@ -678,7 +678,7 @@ Claim: The host plays a clip in which Andrew Wilson, reading from his phone, ope
 Anchored Artifacts: A-2277.1
 Mentions: N-18, N-1
 
-Related Nodes: N-10794, N-10795
+Related Nodes: N-10718, N-10719
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -790,7 +790,7 @@ Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed i
 Anchored Artifacts: A-2283.1
 Mentions: N-18, N-40
 
-Related Nodes: N-10795
+Related Nodes: N-10719
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -829,9 +829,9 @@ Claim: In a clip the host plays, Erika Kirk says she and Charlie Kirk promised e
 Anchored Artifacts: A-2277.1
 Mentions: N-2, N-1
 
-Related Nodes: N-10794
+Related Nodes: N-10718
 
-Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10794).
+Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10718).
 
 ---
 
@@ -845,7 +845,7 @@ Transcript Snippet: they brought that guy in to train Turning Point USA students
 
 Anchored Artifacts: 
 Mentions: N-3, N-18
-Related Nodes: N-10000, N-10796
+Related Nodes: N-10000, N-10720
 Supports: C-11936
 Investigative Direction: Obtain TPUSA event schedules, invoices or student-chapter communications showing a Wilson debate-training engagement and any payment.
 
@@ -918,7 +918,7 @@ Transcript Snippet: I am provided with no identity as to who I am communicating 
 
 Anchored Artifacts: A-2795.1
 Mentions: N-3, N-18
-Related Nodes: N-11066
+Related Nodes: N-10984
 Investigative Direction: Obtain the email chain headers and signature blocks to see who sent from the 'Crucible team' address.
 
 ---
@@ -933,7 +933,7 @@ Transcript Snippet: they then declare that they would like a contract and an esc
 
 Anchored Artifacts: A-2795.1
 Mentions: N-3
-Related Nodes: N-11066
+Related Nodes: N-10984
 Investigative Direction: Obtain the draft and signed contract and any escrow correspondence between the two sides' lawyers.
 
 ---
@@ -948,7 +948,7 @@ Transcript Snippet: Joe Rogan has now made an offer to host this discussion down
 
 Anchored Artifacts: A-2795.1
 Mentions: N-3, N-268
-Related Nodes: N-11066
+Related Nodes: N-10984
 Investigative Direction: Obtain the email and ask Rogan's team whether and when an offer to host was made.
 
 ---
@@ -963,7 +963,7 @@ Transcript Snippet: They offer me a luxury car to accommodate my pregnancy and I
 
 Anchored Artifacts: A-2795.1
 Mentions: N-3
-Related Nodes: N-11066
+Related Nodes: N-10984
 Investigative Direction: Obtain the email containing the car offer and the host's reply.
 
 ---
@@ -992,7 +992,7 @@ Transcript Snippet: they want to have a guaranteed 90 minutes to basically sit m
 
 Anchored Artifacts: A-2795.1
 Mentions: N-3, N-18
-Related Nodes: N-11066
+Related Nodes: N-10984
 Investigative Direction: Obtain the renegotiation email and the final contract text on question periods.
 
 ---
@@ -1021,7 +1021,7 @@ Transcript Snippet: we are not allowing them to film anywhere but inside of this
 
 Anchored Artifacts: A-2795.2
 Mentions: N-3, N-18
-Related Nodes: N-11067
+Related Nodes: N-10985
 Investigative Direction: Compare the contract's filming clause with the host's account of the FaceTime call.
 
 ---
@@ -1050,7 +1050,7 @@ Transcript Snippet: It appears to be a burner phone.
 
 Anchored Artifacts: A-2795.3
 Mentions: N-3, N-18, N-57
-Related Nodes: N-11066
+Related Nodes: N-10984
 Investigative Direction: Have the producer preserve the text thread and number lookup results.
 
 ---
@@ -1065,7 +1065,7 @@ Transcript Snippet: they're going to need a desk. They're going to need a place 
 
 Anchored Artifacts: A-2795.3
 Mentions: N-3, N-18
-Related Nodes: N-11067
+Related Nodes: N-10985
 Investigative Direction: Obtain the text thread and the contract's live-stream clause.
 
 ---
@@ -1080,7 +1080,7 @@ Transcript Snippet: 9:15 PM the night before the debate with a follow-up email s
 
 Anchored Artifacts: A-2795.1
 Mentions: N-3, N-18
-Related Nodes: N-11066, N-11067
+Related Nodes: N-10984, N-10985
 Investigative Direction: Obtain the two emails with timestamps.
 
 ---
@@ -1095,7 +1095,7 @@ Transcript Snippet: he shows up with Steven Crowder's team.
 
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-259, N-747
-Related Nodes: N-11067
+Related Nodes: N-10985
 Investigative Direction: Confirm the identities of the four-person party with Crowder's company and the debate's security or visitor list.
 
 ---
@@ -1110,7 +1110,7 @@ Transcript Snippet: they had to go through the back through the basement door
 
 Anchored Artifacts: 
 Mentions: N-3, N-18
-Related Nodes: N-11067
+Related Nodes: N-10985
 Investigative Direction: Ask the host's staff or Wilson's party to confirm the entrance used.
 
 ---
@@ -1125,7 +1125,7 @@ Transcript Snippet: Gerald decided to do a live callin from my kids' playroom ju
 
 Anchored Artifacts: 
 Mentions: N-3, N-747
-Related Nodes: N-11067
+Related Nodes: N-10985
 Investigative Direction: Check Crowder's channel for any live call-in on debate day and its time.
 
 ---
@@ -1154,7 +1154,7 @@ Transcript Snippet: one thing the contract did stipulate was no filming outside 
 
 Anchored Artifacts: A-2795.2
 Mentions: N-3, N-747
-Related Nodes: N-11067
+Related Nodes: N-10985
 Investigative Direction: Obtain the contract and read the filming clause.
 
 ---
@@ -1183,7 +1183,7 @@ Transcript Snippet: I wanted turning point to claim their horse. I wanted them t
 
 Anchored Artifacts: 
 Mentions: N-3, N-18
-Related Nodes: N-10000, N-10796
+Related Nodes: N-10000, N-10720
 Investigative Direction: Locate the public negotiation posts on this term and any TPUSA statement on Wilson.
 
 ---
@@ -1198,7 +1198,7 @@ Transcript Snippet: in the first three minutes of the debate, he makes it perfec
 
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-2
-Related Nodes: N-10795, N-10796
+Related Nodes: N-10719, N-10720
 Supports: C-12139
 Investigative Direction: Establish how Wilson obtained the message and whether TPUSA or Erika Kirk supplied it.
 
@@ -1214,7 +1214,7 @@ Transcript Snippet: remind them that they are there for one person's security on
 
 Anchored Artifacts: A-2277.1
 Mentions: N-1, N-18
-Related Nodes: N-10794, N-10816
+Related Nodes: N-10718, N-10730
 Investigative Direction: Obtain the original message with metadata and the security team's message it replied to.
 
 ---
@@ -1229,7 +1229,7 @@ Transcript Snippet: Tomorrow's event will be covered by both my team and the cam
 
 Anchored Artifacts: A-2277.1
 Mentions: N-1, N-18
-Related Nodes: N-10794, N-10816
+Related Nodes: N-10718, N-10730
 Investigative Direction: Compare the stated '11 on site' with UVU and TPUSA security staffing records for September 10, 2025.
 
 ---
@@ -1244,7 +1244,7 @@ Transcript Snippet: He didn't. He didn't say that. And I have his cell phone.
 
 Anchored Artifacts: A-2793.1
 Mentions: N-1, N-2, N-237, N-18
-Related Nodes: N-10507
+Related Nodes: N-10468
 Supports: C-9204
 Revises: C-12143
 Investigative Direction: Identify the clip's source (the December 2025 Glenn Beck interview or the debate's played clips) and confirm the speaker.
@@ -1275,7 +1275,7 @@ Transcript Snippet: it was on Signal and the team's messages autodelete on Signa
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-270
-Related Nodes: N-10794
+Related Nodes: N-10718
 Investigative Direction: Ask TPUSA and Erika Kirk which app carried the message and whether Signal disappearing-message settings were enabled.
 
 ---
@@ -1290,7 +1290,7 @@ Transcript Snippet: The message was actually sent on iMessage.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10794
+Related Nodes: N-10718
 Supports: C-9205
 Investigative Direction: Obtain the message with its originating-app metadata (iMessage versus Signal).
 
@@ -1306,7 +1306,7 @@ Transcript Snippet: supposed to believe you didn't tell her for four months, but
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10794
+Related Nodes: N-10718
 Investigative Direction: Identify who told the host in September and when Erika Kirk learned of the message.
 
 ---
@@ -1321,7 +1321,7 @@ Transcript Snippet: Andrew, who has promised that he's going to release this on 
 
 Anchored Artifacts: 
 Mentions: N-3, N-18
-Related Nodes: N-10795, N-10794
+Related Nodes: N-10719, N-10718
 Investigative Direction: Check Wilson's show after August 17, 2026 for the release and the message's metadata.
 
 ---
@@ -1336,7 +1336,7 @@ Transcript Snippet: He literally came out of his mouth. I never said girl boss.
 
 Anchored Artifacts: A-2277.7
 Mentions: N-3, N-18
-Related Nodes: N-10796
+Related Nodes: N-10720
 Investigative Direction: Check the debate transcript for who first said 'girl boss'.
 
 ---
@@ -1365,7 +1365,7 @@ Transcript Snippet: yeah, we allow this at this stage, it's probitative
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11068
+Related Nodes: N-10986
 Investigative Direction: Read Utah Rule of Evidence 1102 and the preliminary-hearing rulings applying it.
 
 ---
@@ -1380,7 +1380,7 @@ Transcript Snippet: I handed over that information to Tulsi Gabbard's office.
 
 Anchored Artifacts: A-2277.3
 Mentions: N-3, N-329
-Related Nodes: N-10290
+Related Nodes: N-10272
 Investigative Direction: Ask Gabbard's office whether it received such information and when.
 
 ---
@@ -1468,7 +1468,7 @@ Transcript Snippet: It's at least plausible that the the uh screwdriver was plan
 
 Anchored Artifacts: A-2792.2
 Mentions: N-3, N-506
-Related Nodes: N-10090, N-10725
+Related Nodes: N-10086, N-10660
 Investigative Direction: Compare with Bagley's preliminary-hearing testimony on rooftop checks and chain of custody for the screwdriver.
 
 ---
@@ -1483,7 +1483,7 @@ Transcript Snippet: What I can say strongly is that his uh cam died at just the 
 
 Anchored Artifacts: A-2792.2
 Mentions: N-3, N-506
-Related Nodes: N-10725
+Related Nodes: N-10660
 Supports: C-10867
 Investigative Direction: Obtain body-cam metadata and the battery or recording-end logs for Bagley's camera.
 
@@ -1527,7 +1527,7 @@ Transcript Snippet: I then called him out for having played three Erika clips li
 
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-2
-Related Nodes: N-10796
+Related Nodes: N-10720
 Investigative Direction: Count the Erika Kirk clips played in the debate video.
 
 ---
@@ -1599,7 +1599,7 @@ Transcript Snippet: the filing for dismissal, which dropped 2 days before our de
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10593
+Related Nodes: N-10541
 Investigative Direction: Identify the filing and its docket date.
 
 ---
@@ -1614,7 +1614,7 @@ Transcript Snippet: his wrong talking points that the Tyler Robinson admitted to
 
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-40
-Related Nodes: N-10593
+Related Nodes: N-10541
 Investigative Direction: Read the dismissal filing for any statement on the authenticity of the text messages.
 
 ---
@@ -1643,7 +1643,7 @@ Transcript Snippet: The second charge is the felony discharge of a weapon. Uh th
 
 Anchored Artifacts: A-2277.4
 Mentions: N-3, N-18, N-40
-Related Nodes: N-10593
+Related Nodes: N-10541
 Investigative Direction: Compare with the charging information filed against Robinson.
 
 ---
@@ -1658,7 +1658,7 @@ Transcript Snippet: I spoke to the owner. The owner told me that he pulled the r
 
 Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4518
 Investigative Direction: Obtain the receipt, the restaurant's records and the owner's on-record account.
 
@@ -1674,7 +1674,7 @@ Transcript Snippet: somebody accessing his knowing what his debit card was and c
 
 Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Seek the card transaction records through discovery or court exhibits.
 
 ---
@@ -1689,7 +1689,7 @@ Transcript Snippet: They contacted the FBI. He shared his experience. He recogni
 
 Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4518
 Investigative Direction: Locate the owner's interview and any FBI report on the restaurant contact.
 
@@ -1705,7 +1705,7 @@ Transcript Snippet: And he says they were both wearing Converse sneakers.
 
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-40
-Related Nodes: N-10337
+Related Nodes: N-10316
 Investigative Direction: Read the preliminary-hearing transcript on shoe identification and Wilson's tweet.
 
 ---
@@ -1720,7 +1720,7 @@ Transcript Snippet: Actually, I haven't done that.
 
 Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Investigative Direction: Ask the host whether any card-network or bank verification was later attempted.
 
 ---
@@ -1778,7 +1778,7 @@ Transcript Snippet: these earpieces do not work beyond 15 ft out of out of the u
 
 Anchored Artifacts: A-2280.1
 Mentions: N-3, N-18
-Related Nodes: N-10102
+Related Nodes: N-10098
 Investigative Direction: Ask the production team for the equipment model and range specification.
 
 ---
@@ -1793,7 +1793,7 @@ Transcript Snippet: I texted nobody during the entire debate because I I was foc
 
 Anchored Artifacts: A-2280.1
 Mentions: N-3
-Related Nodes: N-10102
+Related Nodes: N-10098
 Investigative Direction: Check the host's X post timestamp and phone logs for the debate window.
 
 ---
@@ -1822,7 +1822,7 @@ Transcript Snippet: we all heard the exact same thing and PBD had a direct line 
 
 Anchored Artifacts: A-2280.1
 Mentions: N-3, N-18, N-57
-Related Nodes: N-10102
+Related Nodes: N-10098
 Investigative Direction: Ask Bet-David's and the host's producers what the feed carried.
 
 ---
@@ -1852,7 +1852,7 @@ Transcript Snippet: Then I take the money. Exactly what he offers. 300k
 
 Anchored Artifacts: 
 Mentions: N-3, N-18
-Related Nodes: N-11069
+Related Nodes: N-10987
 Supports: C-11917
 Investigative Direction: Obtain the signed contract and payment records for the $300,000.
 
@@ -1868,7 +1868,7 @@ Transcript Snippet: I need to donate this money and establish a trust for Charli
 
 Anchored Artifacts: 
 Mentions: N-3, N-101, N-1, N-40
-Related Nodes: N-11069
+Related Nodes: N-10987
 Investigative Direction: Collect the public posts making these demands.
 
 ---
@@ -1926,7 +1926,7 @@ Transcript Snippet: it's going to be the Catholic Church, the priests that took 
 
 Anchored Artifacts: 
 Mentions: N-3, N-113
-Related Nodes: N-11069
+Related Nodes: N-10987
 Investigative Direction: Watch for later statements or filings showing any donations made.
 
 ---
@@ -1986,7 +1986,7 @@ Transcript Snippet: He says he's dropping it this week.
 
 Anchored Artifacts: 
 Mentions: N-3, N-18
-Related Nodes: N-10795
+Related Nodes: N-10719
 Supports: C-12148
 Investigative Direction: Check Wilson's show for a release during the week of August 17, 2026.
 
@@ -2030,7 +2030,7 @@ Transcript Snippet: Your debate claim is the evidence is overwhelming that Tyler
 
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-40
-Related Nodes: N-10805
+Related Nodes: N-10729
 Supports: C-12149
 Investigative Direction: Check the debate's agreed resolution wording.
 
@@ -2307,8 +2307,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (starting at N-10141 for new entities)
-- [x] Non-person investigation targets use the 1000 series (starting at N-10794)
+- [x] People nodes use the global people ledger (starting at N-10136 for new entities)
+- [x] Non-person investigation targets use the 1000 series (starting at N-10718)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly as transcribed, with uncertainty flagged
 - [x] Formatting consistent throughout

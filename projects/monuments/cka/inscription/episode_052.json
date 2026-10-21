@@ -31,7 +31,7 @@
             "C-4521"
           ],
           "related_nodes": [
-            "N-10381"
+            "N-10354"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,7 +49,7 @@
             "C-4518"
           ],
           "related_nodes": [
-            "N-10381"
+            "N-10354"
           ],
           "tags": [],
           "video_timestamp": "00:02:43"
@@ -94,7 +94,7 @@
             "C-4563"
           ],
           "related_nodes": [
-            "N-10382"
+            "N-10355"
           ],
           "tags": [],
           "video_timestamp": "00:21:13"
@@ -139,7 +139,7 @@
             "N-380",
             "N-381",
             "N-387",
-            "N-10383"
+            "N-10356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,8 +185,8 @@
             "C-4609"
           ],
           "related_nodes": [
-            "N-10384",
-            "N-10383"
+            "N-10357",
+            "N-10356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -365,7 +365,7 @@
         "N-381",
         "N-382",
         "N-383",
-        "N-10383"
+        "N-10356"
       ]
     },
     {
@@ -389,7 +389,7 @@
       "related_nodes": [
         "N-380",
         "N-382",
-        "N-10383"
+        "N-10356"
       ]
     },
     {
@@ -409,7 +409,7 @@
       "related_nodes": [
         "N-380",
         "N-381",
-        "N-10383"
+        "N-10356"
       ]
     },
     {
@@ -464,7 +464,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ]
     },
     {
@@ -503,13 +503,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.",
@@ -529,8 +529,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10382",
-      "ref": "N-10382",
+      "@id": "N-10355",
+      "ref": "N-10355",
       "name": "Mark Amodei House Committee Visual Identification",
       "type": "investigation_target",
       "description": "Whether Rep. Mark Amodei is visibly present early in the 12-hour House committee hearing video reviewed by host.",
@@ -548,8 +548,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
       "type": "investigation_target",
       "description": "Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Guinta, Thomas Burt, and Davis-Monthan / Fort Huachuca.",
@@ -574,8 +574,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10384",
-      "ref": "N-10384",
+      "@id": "N-10357",
+      "ref": "N-10357",
       "name": "Davis-Monthan AFB September 9 Attendee Verification",
       "type": "investigation_target",
       "description": "Verification of which Arizona community leaders attended the Davis-Monthan AFB Arizona Commanders Summit on September 9, 2025.",
@@ -591,7 +591,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ]
     },
     {
@@ -1398,8 +1398,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1417,8 +1417,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1434,8 +1434,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10085",
-      "ref": "N-10085",
+      "@id": "N-10081",
+      "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1453,8 +1453,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10114",
-      "ref": "N-10114",
+      "@id": "N-10110",
+      "ref": "N-10110",
       "name": "Utah Beehive Symbolism",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1471,9 +1471,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "Catholic Conversion Rumor",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1488,8 +1488,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10180",
-      "ref": "N-10180",
+      "@id": "N-10172",
+      "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1506,8 +1506,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10186",
-      "ref": "N-10186",
+      "@id": "N-10178",
+      "ref": "N-10178",
       "name": "Plane 888 / Maxfield Plane Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1523,8 +1523,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10230",
-      "ref": "N-10230",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10238",
-      "ref": "N-10238",
+      "@id": "N-10225",
+      "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1574,8 +1574,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1591,8 +1591,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10256",
-      "ref": "N-10256",
+      "@id": "N-10242",
+      "ref": "N-10242",
       "name": "Duncan Aviation Rental Vehicle Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1609,8 +1609,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1628,8 +1628,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10298",
-      "ref": "N-10298",
+      "@id": "N-10280",
+      "ref": "N-10280",
       "name": "Pierre Dupont Donor Identity Verification Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1645,8 +1645,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10317",
-      "ref": "N-10317",
+      "@id": "N-10298",
+      "ref": "N-10298",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1662,9 +1662,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1696,8 +1696,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1714,8 +1714,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1732,8 +1732,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1751,8 +1751,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10359",
-      "ref": "N-10359",
+      "@id": "N-10335",
+      "ref": "N-10335",
       "name": "Hospital Federal Access Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1768,8 +1768,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1786,25 +1786,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10370",
-      "ref": "N-10370",
-      "name": "Fort Huachuca Morning Meeting Investigation",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-4565"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10371",
-      "ref": "N-10371",
+      "@id": "N-10345",
+      "ref": "N-10345",
       "name": "Mark Amodei September 9 Alibi Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1824,8 +1807,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1843,8 +1826,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10376",
-      "ref": "N-10376",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1860,8 +1843,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10379",
-      "ref": "N-10379",
+      "@id": "N-10352",
+      "ref": "N-10352",
       "name": "Daily Wire Social Media Reactivation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1877,8 +1860,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1894,8 +1877,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1911,8 +1894,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1928,8 +1911,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10740",
-      "ref": "N-10740",
+      "@id": "N-10672",
+      "ref": "N-10672",
       "name": "SUV Interior Anomaly",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1945,8 +1928,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10797",
-      "ref": "N-10797",
+      "@id": "N-10721",
+      "ref": "N-10721",
       "name": "Terryl Farnsworth Google-Hack Contradiction",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1963,8 +1946,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10832",
-      "ref": "N-10832",
+      "@id": "N-10755",
+      "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1985,8 +1968,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10853",
-      "ref": "N-10853",
+      "@id": "N-10775",
+      "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2002,8 +1985,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11054",
-      "ref": "N-11054",
+      "@id": "N-10972",
+      "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2036,8 +2019,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11110",
-      "ref": "N-11110",
+      "@id": "N-11028",
+      "ref": "N-11028",
       "name": "Erika Kirk and Tyler Bowyer First-Meeting Account",
       "type": "topic",
       "description": "The host's questions to Erika Kirk about how she met Tyler Bowyer, the conflict between Erika's 2015-rally answer and Bowyer's memorial account, and the senator or congressman connection Erika mentioned.",
@@ -2059,8 +2042,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11111",
-      "ref": "N-11111",
+      "@id": "N-11029",
+      "ref": "N-11029",
       "name": "Tyler Bowyer Legal and Debt History Claims",
       "type": "topic",
       "description": "The host's statements that Tyler Bowyer was indicted in Arizona, pardoned, and was in debt with wages garnished before becoming wealthy.",
@@ -2078,8 +2061,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11112",
-      "ref": "N-11112",
+      "@id": "N-11030",
+      "ref": "N-11030",
       "name": "Eddie Farnsworth Trafficking Bill and Nephew Allegations",
       "type": "topic",
       "description": "The host's statements that Eddie Farnsworth blocked a 2013 hearing on a child sex trafficking bill and that his nephew Albert Farnsworth raped a 13-year-old.",
@@ -2096,8 +2079,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11113",
-      "ref": "N-11113",
+      "@id": "N-11031",
+      "ref": "N-11031",
       "name": "French Online Harassment Sentences Over Brigitte Macron",
       "type": "topic",
       "description": "The host's description of the French court's sentences, account suspensions, course orders and moral damages against ten defendants over posts about Brigitte Macron.",
@@ -2118,8 +2101,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11114",
-      "ref": "N-11114",
+      "@id": "N-11032",
+      "ref": "N-11032",
       "name": "AZ Tech and E3 Tech DoD EMP Contracts",
       "type": "topic",
       "description": "Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Defense contracts for EMP hardening and testing at Fort Huachuca, and that Erika Kirk moved to Arizona because of her mother's defense contracts.",
@@ -2136,8 +2119,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11115",
-      "ref": "N-11115",
+      "@id": "N-11033",
+      "ref": "N-11033",
       "name": "Robinson Grandmother Whereabouts Hypothesis",
       "type": "topic",
       "description": "The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Panguitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.",
@@ -2165,7 +2148,7 @@
         "A-1577.2"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:02:43",
@@ -2184,7 +2167,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:04:45",
@@ -2252,7 +2235,7 @@
         "A-1579.1"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10355"
       ],
       "tags": [],
       "claim_timestamp": "00:21:13",
@@ -2292,7 +2275,7 @@
         "A-1581.1"
       ],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:33:00",
@@ -2331,8 +2314,8 @@
         "A-1583.1"
       ],
       "related_nodes": [
-        "N-10384",
-        "N-10383"
+        "N-10357",
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50",
@@ -2435,7 +2418,7 @@
       "claim": "The host, repeatedly hedging with 'allegedly', says the official account has Robinson stopping at a nearby Dairy Queen for a calm lunch and texting his partner right after the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -2461,7 +2444,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2483,7 +2466,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2527,7 +2510,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-10381",
+        "N-10354",
         "N-10014"
       ],
       "tags": [
@@ -2551,7 +2534,7 @@
       "claim": "Relaying what the people who reported it told her, the host says Robinson was not very talkative, seemed fine and normal and was texting on his phone; she adds that he was calm, without jitters, and not scared.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2591,8 +2574,8 @@
       "claim": "The host says the Dairy Queen stop had to occur earlier than her earlier timeline documented because a three-hour drive to Panguitch with an evening arrival leaves no room for the old timing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051",
-        "N-10381"
+        "N-10048",
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2618,7 +2601,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-10381",
+        "N-10354",
         "N-10014"
       ],
       "tags": [
@@ -2664,7 +2647,7 @@
       "claim": "The host says the first correspondence between Robinson and Lance is gauged, from their conversation, to have taken place after 6:00 p.m.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077",
+        "N-10074",
         "N-10024"
       ],
       "tags": [
@@ -2687,8 +2670,8 @@
       "claim": "The host says the Dairy Queen photo was initially placed at 6:38 p.m. and wonders whether it was actually 5:38 p.m. and a time zone was wrong, promising to follow up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051",
-        "N-10853"
+        "N-10048",
+        "N-10775"
       ],
       "tags": [
         "relevance:core"
@@ -2717,7 +2700,7 @@
         "A-1577.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2741,8 +2724,8 @@
       "claim": "The host says the people who reported the story suspect Robinson may have gone to his grandmother's house, who is from the area and lives nearby, afterwards; she stresses this is not known as fact.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11115",
-        "N-10381"
+        "N-11033",
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2763,7 +2746,7 @@
       "claim": "The host recalls that Robinson's grandmother was one of the first people to speak out and said, 'You have the wrong person.'",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11115"
+        "N-11033"
       ],
       "tags": [
         "relevance:core"
@@ -2786,7 +2769,7 @@
         "A-2839.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [
         "relevance:core"
@@ -2806,9 +2789,9 @@
       "claim": "The host says she broke the story about Charlie Kirk's Catholic considerations and then had to present receipts, including mass attendance, praying the rosary, dying wearing a St. Michael pendant and a private Catholic funeral mass.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10164",
-        "N-10230",
-        "N-10323"
+        "N-10100",
+        "N-10217",
+        "N-10193"
       ],
       "tags": [
         "relevance:context"
@@ -2829,7 +2812,7 @@
       "claim": "The host says she broke the story regarding Terryl Farnsworth's strange behavior moments after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -2852,7 +2835,7 @@
         "A-1585.1"
       ],
       "related_nodes": [
-        "N-10085"
+        "N-10081"
       ],
       "tags": [
         "relevance:core"
@@ -2876,7 +2859,7 @@
       "claim": "The host says she presented photos from inside Charlie Kirk's SUV after the assassination and broke the story that the feds did not impound that vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10740"
+        "N-10672"
       ],
       "tags": [
         "relevance:core"
@@ -2900,7 +2883,7 @@
       "claim": "The host says she broke the story that the feds seized the cameras inside the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [
         "relevance:core"
@@ -2923,7 +2906,7 @@
       "claim": "The host says the feds blocked Dr. Trotter from returning to his operating room and a phone call was then placed to DC, and that she is still trying to find who received it, after which he was allowed back.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10359"
+        "N-10335"
       ],
       "tags": [
         "relevance:core"
@@ -2944,7 +2927,7 @@
       "claim": "The host says Andrew Kolvet lied about the 'Superman neck' and that the quotation never came from Dr. Lee Trotter but allegedly came from Erika Kirk in a moment of upset.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -2970,7 +2953,7 @@
       "claim": "The host says she broke the story that Charlie Kirk texted Dan Flood and Andrew Kolvet the night before saying he was afraid they were going to kill him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2996,7 +2979,7 @@
       "claim": "The host says the night-before text claim has now been confirmed, at least to her, by Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3021,7 +3004,7 @@
       "claim": "The host says she broke the story that Netanyahu called Charlie Kirk to offer to take Turning Point to the next level, and that the story is disputed by Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10018"
       ],
       "tags": [
@@ -3048,7 +3031,7 @@
       "claim": "The host says she confirmed the Netanyahu offer separately from Andrew Kolvet, with someone who had no communication with Kolvet, and so tends to believe the offer came through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -3073,7 +3056,7 @@
       "claim": "The host says she presented the military police report and evidence that Mitch was telling the truth about what happened on September 9.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367"
+        "N-10342"
       ],
       "tags": [
         "relevance:core"
@@ -3097,7 +3080,7 @@
       "claim": "The host says she broke the story about Egyptian planes tracking Turning Point Faith, that she still has a document to release, and that she will be proven correct.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3120,7 +3103,7 @@
       "claim": "The host says bomb dogs failed to detect the recently discharged weapon on September 10 and that the feds then directed three rookie police officers to find it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054"
+        "N-10972"
       ],
       "tags": [
         "relevance:core"
@@ -3143,8 +3126,8 @@
       "claim": "The host says she broke the story of a massive check coming to Turning Point USA from a man named Pierre and that she really believes it is Pierre Falcone rather than Pierre Dupont.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10317",
         "N-10298",
+        "N-10280",
         "N-10000"
       ],
       "tags": [
@@ -3190,7 +3173,7 @@
       "claim": "The host says TPUSA's idea was that at future tour stops people would use the tent to grieve and share how Charlie Kirk changed their lives.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10376",
+        "N-10349",
         "N-10000"
       ],
       "tags": [
@@ -3256,7 +3239,7 @@
       "claim": "The host says there has been no response at all from Brian Harpole, which she says she has told the audience several times.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3277,7 +3260,7 @@
       "claim": "The host says Dan Flood was not seen at Fort Huachuca but does have communication with Brian Harpole.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3299,7 +3282,7 @@
       "claim": "The host says Mitch described a person he was sure was a congressman, and that her search found Mark Amodei, who fits the description of 5'9, glasses and grayish white hair.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10371"
+        "N-10345"
       ],
       "tags": [
         "relevance:core"
@@ -3324,7 +3307,7 @@
       "claim": "The host says Mitch said Amodei's face looked familiar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10371"
+        "N-10345"
       ],
       "tags": [
         "relevance:core"
@@ -3351,8 +3334,8 @@
         "A-1579.1"
       ],
       "related_nodes": [
-        "N-10382",
-        "N-10371"
+        "N-10355",
+        "N-10345"
       ],
       "tags": [
         "relevance:core"
@@ -3376,8 +3359,8 @@
       "claim": "The host says Mitch initially contacted her about just Erika Kirk and Brian Harpole, Harpole being the big one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10367",
-        "N-10373"
+        "N-10342",
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3400,8 +3383,7 @@
       "claim": "The host says Mitch described the meeting he saw as hands-on, like 'mission is on the table, let's go break right before a mission'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10370",
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -3425,8 +3407,8 @@
       "claim": "The host says that on her first phone call with Terryl Farnsworth, about a week after the shooting, he started lying to her repeatedly and his energy was weird.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10797",
-        "N-10346"
+        "N-10721",
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -3447,7 +3429,7 @@
       "claim": "The host says Farnsworth told her he did not know how to send a file and was scared Google might hack him, which she found implausible for the head of an AV company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10797"
+        "N-10721"
       ],
       "tags": [
         "relevance:core"
@@ -3468,7 +3450,7 @@
       "claim": "The host says she expressed her suspicion of Terryl Farnsworth to Erika Kirk and Justin Streiff while sitting in the meeting, saying she was not taking her foot off the pedal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -3512,8 +3494,8 @@
         "A-1585.1"
       ],
       "related_nodes": [
-        "N-10085",
-        "N-10180"
+        "N-10081",
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -3539,8 +3521,8 @@
         "A-1585.1"
       ],
       "related_nodes": [
-        "N-10085",
-        "N-10180"
+        "N-10081",
+        "N-10172"
       ],
       "tags": [
         "relevance:core"
@@ -3561,7 +3543,7 @@
       "claim": "The host says Tyler Bowyer has been indicted for crimes by the state of Arizona, federal crimes for which she says he was recently pardoned by President Donald Trump, and that she believes the court cases are still moving.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11111"
+        "N-11029"
       ],
       "tags": [
         "relevance:context"
@@ -3583,7 +3565,7 @@
       "claim": "The host says Tyler Bowyer was in debt and having his payments garnished at Turning Point USA before he became a millionaire working for a charity.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11111",
+        "N-11029",
         "N-10000"
       ],
       "tags": [
@@ -3605,7 +3587,7 @@
       "claim": "The host says it is a logical conclusion that Tyler Bowyer is at best a very shady character and that she stands by it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11111"
+        "N-11029"
       ],
       "tags": [
         "relevance:context"
@@ -3626,7 +3608,7 @@
       "claim": "The host says that at her in-person sitdown with Erika Kirk she asked how Erika met Tyler Bowyer, her number one of three questions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -3648,7 +3630,7 @@
       "claim": "The host says Erika Kirk and Tyler Bowyer have both been open about knowing each other before Erika and Charlie dated, particularly citing Trump's 2015 presidential rally where they both attended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -3671,7 +3653,7 @@
       "claim": "The host says Erika's mother Lori Frantzve is in the background of the July 2015 Trump rally, so the three have known each other publicly since at least July 2015.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -3695,7 +3677,7 @@
       "claim": "The host says Erika Kirk's answer was that she met Tyler Bowyer at the 2015 rally because they were both standing behind Trump.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -3720,7 +3702,7 @@
         "A-1580.1"
       ],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -3745,7 +3727,7 @@
       "claim": "The host says Erika told her she did not remember how she met Bowyer but would look back through old messages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -3767,8 +3749,8 @@
       "claim": "The host says Erika told her she and Bowyer had a connection in politics via a senator or a congressman.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110",
-        "N-10383"
+        "N-11028",
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -3790,7 +3772,7 @@
       "claim": "The host says Terryl Farnsworth's parents went to high school with Tyler Bowyer's parents and that they are all from Chandler, Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -3812,7 +3794,7 @@
       "claim": "The host says Tyler Bowyer and Terryl Farnsworth went to high school together, graduating about two years apart from Gilbert High School.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -3900,7 +3882,7 @@
       "claim": "The host says Terryl Farnsworth's father is Dwayne Farnsworth and that Eddie and David Farnsworth are brothers and first cousins of Dwayne.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -3924,7 +3906,7 @@
       "claim": "The host says Eddie Farnsworth has been sued in the past together with Tyler Bowyer, who are on the same side.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -3948,7 +3930,7 @@
         "A-1581.1"
       ],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -3975,7 +3957,7 @@
         "A-1581.1"
       ],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -4002,7 +3984,7 @@
         "A-1581.1"
       ],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -4029,7 +4011,7 @@
         "A-1581.1"
       ],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -4056,7 +4038,7 @@
       "claim": "The host says she has an indication that the connection was actually earlier than 2014, but that on paper she will stick to the facts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -4079,8 +4061,8 @@
       "claim": "The host says Eddie Farnsworth, then chair of the Arizona House Judiciary Committee, blocked a hearing in 2013 on a bill to prevent child sex trafficking, which had bipartisan support.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11112",
-        "N-10832"
+        "N-11030",
+        "N-10755"
       ],
       "tags": [
         "relevance:context"
@@ -4101,7 +4083,7 @@
       "claim": "The host says Eddie Farnsworth had been in the news years earlier because his nephew Albert Farnsworth had raped a 13-year-old.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11112"
+        "N-11030"
       ],
       "tags": [
         "relevance:tangential"
@@ -4123,8 +4105,8 @@
       "claim": "The host says the people who own the 888 plane run an anti-child-sex-trafficking charity and wear a t-shirt from Operation Underground in their profile pictures.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10186",
-        "N-10832"
+        "N-10178",
+        "N-10755"
       ],
       "tags": [
         "relevance:context"
@@ -4144,7 +4126,7 @@
       "claim": "The host says that following the assassination Phil Lyman was speaking to Tim Ballard, who used to run Operation Underground.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10832"
+        "N-10755"
       ],
       "tags": [
         "relevance:context"
@@ -4166,7 +4148,7 @@
       "claim": "The host says Tim Ballard, who used to run Operation Underground, had received a donation and support from Glenn Beck for it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10832"
+        "N-10755"
       ],
       "tags": [
         "relevance:tangential"
@@ -4188,7 +4170,7 @@
       "claim": "The host says that across from where Turning Point USA decided to put its campus there is a place known as Arizona Mills, which she describes as \"like the number one place\" for child sex trafficking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10832",
+        "N-10755",
         "N-10000"
       ],
       "tags": [
@@ -4209,7 +4191,7 @@
       "claim": "The host says she is making no connection and is not suggesting that Turning Point USA is trafficking children, only that trafficking themes keep coming up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10832",
+        "N-10755",
         "N-10000"
       ],
       "tags": [
@@ -4234,8 +4216,8 @@
       "claim": "The host wonders whether Mitch saw Eddie Farnsworth at Fort Huachuca because Farnsworth is a dead ringer for Mark Amodei.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10371",
-        "N-10383"
+        "N-10345",
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -4258,8 +4240,8 @@
       "claim": "The host says she sent a photo of Eddie Farnsworth to Mitch and he said the man looks very familiar, although neither is the person he contacted her about.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10371",
-        "N-10383"
+        "N-10345",
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -4281,7 +4263,7 @@
       "claim": "The host says the Farnsworth family has deep military ties.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -4303,7 +4285,7 @@
         "A-1583.1"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10357"
       ],
       "tags": [
         "relevance:context"
@@ -4325,8 +4307,8 @@
         "A-1583.1"
       ],
       "related_nodes": [
-        "N-10384",
-        "N-10383"
+        "N-10357",
+        "N-10356"
       ],
       "tags": [
         "relevance:context"
@@ -4349,8 +4331,8 @@
       "claim": "The host says people on the internet found that Terryl Farnsworth's father-in-law is Thomas Burt, who ran Duncan Aviation, the FBO that she says rented the cars for the feds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10256",
-        "N-10383"
+        "N-10242",
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -4376,7 +4358,7 @@
       "claim": "The host says Thomas Burt ran Duncan Aviation as executive vice president and COO for 22 years and retired in 2019.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10256"
+        "N-10242"
       ],
       "tags": [
         "relevance:context"
@@ -4398,7 +4380,7 @@
       "claim": "The host says that the day before Daily Wire appeared to be teasing something on her channels, which it brought back, and released content on her old Instagram channels.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10379"
+        "N-10352"
       ],
       "tags": [
         "relevance:context"
@@ -4421,7 +4403,7 @@
       "claim": "The host says that, apparently, before Maddie, Daily Wire tossed around three other people and even considered a combination show with the person who played the bailiff on Matt Walsh's Judged.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [
         "relevance:context"
@@ -4445,7 +4427,7 @@
         "A-1584.1"
       ],
       "related_nodes": [
-        "N-10114"
+        "N-10110"
       ],
       "tags": [
         "relevance:tangential"
@@ -4467,7 +4449,7 @@
         "A-1584.1"
       ],
       "related_nodes": [
-        "N-10114"
+        "N-10110"
       ],
       "tags": [
         "relevance:tangential"
@@ -4487,8 +4469,8 @@
       "claim": "The host says there should be laws preventing employers from sending interns to stalk someone at events, trying to get them cancelled from speaking events and buying their friends, which she presents as what her former employer is doing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10238",
-        "N-10416"
+        "N-10225",
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -4511,7 +4493,7 @@
         "A-2841.1"
       ],
       "related_nodes": [
-        "N-11113"
+        "N-11031"
       ],
       "tags": [
         "relevance:tangential"
@@ -4534,7 +4516,7 @@
         "A-2841.1"
       ],
       "related_nodes": [
-        "N-11113"
+        "N-11031"
       ],
       "tags": [
         "relevance:tangential"
@@ -4557,7 +4539,7 @@
         "A-2841.1"
       ],
       "related_nodes": [
-        "N-11113"
+        "N-11031"
       ],
       "tags": [
         "relevance:tangential"
@@ -4580,7 +4562,7 @@
         "A-2841.1"
       ],
       "related_nodes": [
-        "N-11113"
+        "N-11031"
       ],
       "tags": [
         "relevance:tangential"
@@ -4603,7 +4585,7 @@
         "A-2841.1"
       ],
       "related_nodes": [
-        "N-11113"
+        "N-11031"
       ],
       "tags": [
         "relevance:tangential"
@@ -4624,7 +4606,7 @@
       "claim": "The host says the purpose of the Macron lawsuit against her is that powerful people caught doing evil still have the power to pass legislation and establish new laws so they never get caught again.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -4648,7 +4630,7 @@
       "claim": "The host says she is pretty sure Delaware is a place where France has been running the game since the Revolutionary War.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -4668,8 +4650,8 @@
       "claim": "The host says that the French case is not defamation, and that Brigitte Macron is not making the argument that the statements about her are untrue but that her feelings are hurt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11113",
-        "N-10270"
+        "N-11031",
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -4730,7 +4712,7 @@
         "A-2840.1"
       ],
       "related_nodes": [
-        "N-11114"
+        "N-11032"
       ],
       "tags": [
         "relevance:core"
@@ -4752,7 +4734,7 @@
       "claim": "The host says Erika Kirk is on camera saying that she moved to Arizona because her mother got defense contracts, with her mother working with the DoD.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11114"
+        "N-11032"
       ],
       "tags": [
         "relevance:core"

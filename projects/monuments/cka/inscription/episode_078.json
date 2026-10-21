@@ -34,8 +34,8 @@
           "related_nodes": [
             "N-2",
             "N-581",
-            "N-10531",
-            "N-10532"
+            "N-10487",
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "N-2",
             "N-580",
             "N-273",
-            "N-10533"
+            "N-10488"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
           "related_nodes": [
             "N-2",
             "N-582",
-            "N-10534"
+            "N-10489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,7 +142,7 @@
           "related_nodes": [
             "N-2",
             "N-582",
-            "N-10534"
+            "N-10489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,7 +172,7 @@
           "related_nodes": [
             "N-582",
             "N-583",
-            "N-10534"
+            "N-10489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -200,7 +200,7 @@
           "related_nodes": [
             "N-588",
             "N-583",
-            "N-10534"
+            "N-10489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -228,7 +228,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10536"
+            "N-10491"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10536"
+            "N-10491"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -264,7 +264,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10536"
+            "N-10491"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,8 +291,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10535",
-            "N-10537"
+            "N-10490",
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10535"
+            "N-10490"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -331,7 +331,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10535"
+            "N-10490"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,8 +350,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10535",
-            "N-10537"
+            "N-10490",
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,7 +407,7 @@
           "related_nodes": [
             "N-579",
             "N-41",
-            "N-10538"
+            "N-10493"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -426,7 +426,7 @@
           ],
           "related_nodes": [
             "N-579",
-            "N-10538"
+            "N-10493"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -454,7 +454,7 @@
           ],
           "related_nodes": [
             "N-579",
-            "N-10538"
+            "N-10493"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -681,7 +681,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ]
     },
     {
@@ -704,7 +704,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-273",
-        "N-10533"
+        "N-10488"
       ]
     },
     {
@@ -724,8 +724,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10531",
-        "N-10532"
+        "N-10487",
+        "N-10478"
       ]
     },
     {
@@ -751,7 +751,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ]
     },
     {
@@ -774,7 +774,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ]
     },
     {
@@ -859,7 +859,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-580",
-        "N-10533"
+        "N-10488"
       ]
     },
     {
@@ -900,7 +900,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10532"
+        "N-10478"
       ]
     },
     {
@@ -927,8 +927,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10531",
-      "ref": "N-10531",
+      "@id": "N-10487",
+      "ref": "N-10487",
       "name": "301 East 66th Street NYC Building Investigation",
       "type": "investigation_target",
       "description": "Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as \"apartments for models.\" Per host, viewers identified building matching description of the \"white building\" associated with Erika Kirk's Next Model Management real-estate role.",
@@ -948,20 +948,23 @@
       "related_nodes": [
         "N-2",
         "N-581",
-        "N-10532"
+        "N-10478"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a \"white building\" near 68th Street between Second and Third Avenue.",
       "related_artifacts": [
         "A-1835.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-6971",
+        "C-7067"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -970,13 +973,13 @@
       "related_nodes": [
         "N-2",
         "N-568",
-        "N-10531"
+        "N-10487"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10533",
-      "ref": "N-10533",
+      "@id": "N-10488",
+      "ref": "N-10488",
       "name": "Club America High School Pushback",
       "type": "investigation_target",
       "description": "Investigation target: state-level rollout of Club America (TPUSA) in high schools, including Arkansas proclamation; pushback reported in displayed user comments.",
@@ -999,8 +1002,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10534",
-      "ref": "N-10534",
+      "@id": "N-10489",
+      "ref": "N-10489",
       "name": "Renee Crossman / United Hands Romania Cult Affiliation",
       "type": "investigation_target",
       "description": "Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erika Kirk.",
@@ -1029,8 +1032,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10535",
-      "ref": "N-10535",
+      "@id": "N-10490",
+      "ref": "N-10490",
       "name": "9/10 Behind Charlie Video Analysis",
       "type": "investigation_target",
       "description": "Investigation target: forensic observations from the displayed behind-Charlie footage (necklace/magnet clasp state, blood pattern, hand motion at table).",
@@ -1053,13 +1056,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10537"
+        "N-10492"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10536",
-      "ref": "N-10536",
+      "@id": "N-10491",
+      "ref": "N-10491",
       "name": "Hospital Transport Van Interior Photo Analysis",
       "type": "investigation_target",
       "description": "Investigation target: forensic observations from displayed photos of van interior that transported Charlie Kirk to hospital, including Instaclot package identification and back-seat material distribution.",
@@ -1083,8 +1086,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
       "type": "investigation_target",
       "description": "Investigation target: state and behavior of Kirk's necklace and magnet clasp as shown in displayed 9/10 video and surrounding testimony (Erica, Frank, Brian Harpole stories referenced by host).",
@@ -1102,13 +1105,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10535"
+        "N-10490"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10538",
-      "ref": "N-10538",
+      "@id": "N-10493",
+      "ref": "N-10493",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
       "type": "investigation_target",
       "description": "Investigation target: TP Action public reversal against Massie, who was a longtime Charlie Kirk favorite, and the surrounding X community note fact-check.",
@@ -1744,8 +1747,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1761,8 +1764,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1778,8 +1781,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1795,8 +1798,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1814,8 +1817,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1831,8 +1834,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1848,8 +1851,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1866,8 +1869,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@id": "N-10394",
+      "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1884,26 +1887,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10519",
-      "ref": "N-10519",
-      "name": "Erika Kirk Next Model Management Involvement",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6971",
-        "C-7067"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10522",
-      "ref": "N-10522",
+      "@id": "N-10479",
+      "ref": "N-10479",
       "name": "January 29 West Wing Meeting Subject",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1921,8 +1906,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10523",
-      "ref": "N-10523",
+      "@id": "N-10480",
+      "ref": "N-10480",
       "name": "Linda Rothschild Corcoran Group Presidency Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1938,8 +1923,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10705",
-      "ref": "N-10705",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1955,8 +1940,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1972,8 +1957,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10812",
-      "ref": "N-10812",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1990,8 +1975,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2007,8 +1992,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10916",
-      "ref": "N-10916",
+      "@id": "N-10837",
+      "ref": "N-10837",
       "name": "Thomas Massie Kentucky Primary Outside Spending",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2024,8 +2009,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10922",
-      "ref": "N-10922",
+      "@id": "N-10843",
+      "ref": "N-10843",
       "name": "Superfeed",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2041,8 +2026,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10986",
-      "ref": "N-10986",
+      "@id": "N-10906",
+      "ref": "N-10906",
       "name": "Accurate Energetic Systems Explosion (Hickman County, Tennessee)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2059,8 +2044,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10987",
-      "ref": "N-10987",
+      "@id": "N-10907",
+      "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2077,8 +2062,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11165",
-      "ref": "N-11165",
+      "@id": "N-11081",
+      "ref": "N-11081",
       "name": "Romanian Angels Project",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2097,8 +2082,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11192",
-      "ref": "N-11192",
+      "@id": "N-11108",
+      "ref": "N-11108",
       "name": "Sabbatian-Frankist Cult Allegation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2114,8 +2099,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11211",
-      "ref": "N-11211",
+      "@id": "N-11127",
+      "ref": "N-11127",
       "name": "Farnsworth Told Host He Discussed the Footage With Erika",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -2131,8 +2116,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11342",
-      "ref": "N-11342",
+      "@id": "N-11258",
+      "ref": "N-11258",
       "name": "Fort Campbell Drone Theft Report",
       "type": "topic",
       "description": "A commenter's report that four drones were stolen from Fort Campbell and the host's guess that they went to Israel.",
@@ -2149,8 +2134,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11343",
-      "ref": "N-11343",
+      "@id": "N-11259",
+      "ref": "N-11259",
       "name": "Alexander Brothers Epstein File Redaction Question",
       "type": "topic",
       "description": "Whether the Alexander brothers' names were redacted from the Epstein files and why, set against their federal sex trafficking convictions and ties to Kushner.",
@@ -2183,7 +2168,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10531"
+        "N-10487"
       ],
       "tags": [],
       "claim_timestamp": "00:03:07",
@@ -2202,8 +2187,8 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10531",
-        "N-10532"
+        "N-10487",
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -2222,8 +2207,8 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10531",
-        "N-10532"
+        "N-10487",
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -2258,7 +2243,7 @@
         "A-1837.1"
       ],
       "related_nodes": [
-        "N-10533"
+        "N-10488"
       ],
       "tags": [],
       "claim_timestamp": "00:13:44",
@@ -2278,7 +2263,7 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
@@ -2298,7 +2283,7 @@
         "A-1838.2"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:16:04",
@@ -2318,7 +2303,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:19:25",
@@ -2337,7 +2322,7 @@
         "A-1840.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:21:19",
@@ -2359,7 +2344,7 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-10536"
+        "N-10491"
       ],
       "tags": [],
       "claim_timestamp": "00:30:45",
@@ -2379,8 +2364,8 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-10535",
-        "N-10537"
+        "N-10490",
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:34:11",
@@ -2399,7 +2384,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
@@ -2418,7 +2403,7 @@
         "A-1842.3"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -2437,7 +2422,7 @@
         "A-1843.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41",
@@ -2457,7 +2442,7 @@
         "A-1844.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
@@ -2476,7 +2461,7 @@
         "A-1844.2"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
@@ -2497,7 +2482,7 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
@@ -2517,7 +2502,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
@@ -2536,7 +2521,7 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
@@ -2556,7 +2541,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [],
       "claim_timestamp": "00:38:21",
@@ -2576,7 +2561,7 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-10536"
+        "N-10491"
       ],
       "tags": [],
       "claim_timestamp": "00:31:14",
@@ -2596,7 +2581,7 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
@@ -2615,7 +2600,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:22:59",
@@ -2651,8 +2636,7 @@
       "claim": "The host says she was told that Erika was the point person for Next Model Management when it came to housing young models, dealing with apartments in a white building the sources placed near 68th Street between Second and Third Avenue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532",
-        "N-10519"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -2676,8 +2660,8 @@
       "claim": "The host says viewers sent her a building that could match the white building description and that it was owned by Mark Epstein, Jeffrey Epstein's brother, who inherited all of his wealth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10531",
-        "N-10532"
+        "N-10487",
+        "N-10478"
       ],
       "tags": [
         "relevance:core"
@@ -2700,7 +2684,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10531"
+        "N-10487"
       ],
       "tags": [
         "relevance:context"
@@ -2722,7 +2706,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10531"
+        "N-10487"
       ],
       "tags": [
         "relevance:context"
@@ -2744,7 +2728,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10531"
+        "N-10487"
       ],
       "tags": [
         "relevance:context"
@@ -2766,7 +2750,7 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10523"
+        "N-10480"
       ],
       "tags": [
         "relevance:context"
@@ -2790,7 +2774,7 @@
       "claim": "The host says Tal, Oren and Alon Alexander are Jared Kushner's Israeli business friends who sold Ivanka and Jared their Miami mansion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11343"
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -2814,8 +2798,8 @@
       "claim": "The host says Kash Patel said there was no evidence of trafficking in the Epstein files, yet the Alexander brothers were in the files.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324",
-        "N-11343"
+        "N-10303",
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -2838,7 +2822,7 @@
       "claim": "The host says the Alexander brothers visited the White House multiple times and were invited to the annual Hanukkah party.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11343"
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -2860,8 +2844,8 @@
       "claim": "The host says the Alexander brothers' last names were redacted from the Epstein files, and notes the public was told redactions were limited to protecting against child pornography.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324",
-        "N-11343"
+        "N-10303",
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -2883,8 +2867,8 @@
       "claim": "The host says Congressman Thomas Massie played a leading role in exposing the Epstein redactions and that Trump now wants him primaried in Kentucky because, she says, Israel wants him out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10916",
-        "N-10538"
+        "N-10837",
+        "N-10493"
       ],
       "tags": [
         "relevance:context"
@@ -2905,7 +2889,7 @@
       "claim": "The host says the Alexander brothers were revealed because of Massie, and had just been found guilty in a major sex trafficking case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11343"
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -2930,7 +2914,7 @@
         "A-1836.1"
       ],
       "related_nodes": [
-        "N-11343"
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -2954,7 +2938,7 @@
         "A-1836.1"
       ],
       "related_nodes": [
-        "N-11343"
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -3013,7 +2997,7 @@
       "claim": "The host alleges the administration used redactions to protect rapists and sex traffickers, which she says is because they donate to the IDF.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11343"
+        "N-11259"
       ],
       "tags": [
         "relevance:context"
@@ -3035,8 +3019,8 @@
       "claim": "The host says Andrew Kolvet and other Turning Point USA affiliates had a meeting with top brass in the West Wing the day before the Epstein files dropped.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10522",
-        "N-10324"
+        "N-10479",
+        "N-10303"
       ],
       "tags": [
         "relevance:core"
@@ -3060,7 +3044,7 @@
       "claim": "The host says Kash Patel wanted to help Andrew Kolvet camouflage the West Wing meeting by way of faking a Charlie Kirk live episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -3085,7 +3069,7 @@
       "claim": "The host says that on the episode Kash Patel said he was calling in and never does this, while, she says, he and Kolvet were together in DC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10522"
+        "N-10479"
       ],
       "tags": [
         "relevance:core"
@@ -3109,7 +3093,7 @@
       "claim": "The host says Erika's Turning Point is being pushed into high schools across America and that the group is also trying to establish something in Ireland.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10533"
+        "N-10488"
       ],
       "tags": [
         "relevance:context"
@@ -3131,7 +3115,7 @@
         "A-3220.1"
       ],
       "related_nodes": [
-        "N-11165"
+        "N-11081"
       ],
       "tags": [
         "relevance:context"
@@ -3157,8 +3141,8 @@
         "A-3220.1"
       ],
       "related_nodes": [
-        "N-11165",
-        "N-10534"
+        "N-11081",
+        "N-10489"
       ],
       "tags": [
         "relevance:context"
@@ -3182,7 +3166,7 @@
       "claim": "The host says Renee Crossman has been involved with the Romanian orphanage and organization for over a decade.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [
         "relevance:context"
@@ -3204,7 +3188,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [
         "relevance:context"
@@ -3226,7 +3210,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [
         "relevance:tangential"
@@ -3248,7 +3232,7 @@
         "A-1840.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [
         "relevance:context"
@@ -3269,8 +3253,8 @@
       "claim": "The host says Renee Crossman, Erika's partner on the Romanian Angels project, is a self-admitted member of the Children of God cult and has not been accused of any wrongdoing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10534",
-        "N-11165"
+        "N-10489",
+        "N-11081"
       ],
       "tags": [
         "relevance:context"
@@ -3291,7 +3275,7 @@
       "claim": "The host says the US Marines Crossman partnered with were going to be accused of wrongdoing, namely prostituting children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11165"
+        "N-11081"
       ],
       "tags": [
         "relevance:context"
@@ -3316,7 +3300,7 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10534"
+        "N-10489"
       ],
       "tags": [
         "relevance:context"
@@ -3415,7 +3399,7 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-10536"
+        "N-10491"
       ],
       "tags": [
         "relevance:core"
@@ -3434,7 +3418,7 @@
         "A-1841.3"
       ],
       "related_nodes": [
-        "N-10536"
+        "N-10491"
       ],
       "tags": [
         "relevance:core"
@@ -3453,7 +3437,7 @@
         "A-1841.3"
       ],
       "related_nodes": [
-        "N-10536"
+        "N-10491"
       ],
       "tags": [
         "relevance:core"
@@ -3470,8 +3454,8 @@
       "claim": "The host says that on a phone call Terryl Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346",
-        "N-10812"
+        "N-10324",
+        "N-10736"
       ],
       "tags": [
         "relevance:core"
@@ -3494,7 +3478,7 @@
       "claim": "The host says she has learned about Farnsworth's father, uncles and cousins and their relationship with Lori Frantzve dating back to 2013.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [
         "relevance:core"
@@ -3515,8 +3499,8 @@
       "claim": "The host says she thinks that at some point Turning Point said it did not have the footage, but that it does have it, and that Terryl Farnsworth showed her the footage at his office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10812",
-        "N-11211"
+        "N-10736",
+        "N-11127"
       ],
       "tags": [
         "relevance:core"
@@ -3538,7 +3522,7 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [
         "relevance:core"
@@ -3560,7 +3544,7 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [
         "relevance:core"
@@ -3580,7 +3564,7 @@
       "claim": "The host says Frank tells the story of going out to get his backpack from the car while the feds searched it at the hospital and seeing Charlie's necklace on his backpack.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -3604,7 +3588,7 @@
       "claim": "The host says the feds told Frank that they were looking for that necklace, and asks how they knew he had one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -3625,7 +3609,7 @@
       "claim": "The host says Erika has told several stories about the necklace, how precious it was to Charlie and how grateful she was to get it back.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -3651,7 +3635,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [
         "relevance:core"
@@ -3676,8 +3660,8 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-10987",
-        "N-10537"
+        "N-10907",
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -3699,8 +3683,8 @@
         "A-1841.1"
       ],
       "related_nodes": [
-        "N-10705",
-        "N-10987"
+        "N-10641",
+        "N-10907"
       ],
       "tags": [
         "relevance:core"
@@ -3722,7 +3706,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [
         "relevance:core"
@@ -3744,7 +3728,7 @@
         "A-1842.3"
       ],
       "related_nodes": [
-        "N-10535"
+        "N-10490"
       ],
       "tags": [
         "relevance:context"
@@ -3764,7 +3748,7 @@
       "claim": "The host says occult worship comes up under different names, including Frankism, Sabbatianism and child of God, but is the same ideology redressed, and that children are inevitably harmed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11192"
+        "N-11108"
       ],
       "tags": [
         "relevance:tangential"
@@ -3781,7 +3765,7 @@
       "claim": "The host says Turning Point Action is run by Tyler Bowyer and kicks money back to Erika's mother via Superfeed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10922"
+        "N-10843"
       ],
       "tags": [
         "relevance:core"
@@ -3824,7 +3808,7 @@
         "A-1844.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10493"
       ],
       "tags": [
         "relevance:context"
@@ -3887,8 +3871,8 @@
         "A-3221.2"
       ],
       "related_nodes": [
-        "N-10897",
-        "N-10533"
+        "N-10818",
+        "N-10488"
       ],
       "tags": [
         "relevance:context"
@@ -3910,7 +3894,7 @@
         "A-3221.2"
       ],
       "related_nodes": [
-        "N-10533"
+        "N-10488"
       ],
       "tags": [
         "relevance:context"
@@ -3973,7 +3957,7 @@
         "A-3221.5"
       ],
       "related_nodes": [
-        "N-11342"
+        "N-11258"
       ],
       "tags": [
         "relevance:tangential"
@@ -3992,7 +3976,7 @@
         "A-3221.5"
       ],
       "related_nodes": [
-        "N-11342"
+        "N-11258"
       ],
       "tags": [
         "relevance:tangential"
@@ -4009,7 +3993,7 @@
       "claim": "The host says she is on Ben Shapiro's side regarding Jeremy Boreing and that the two do not speak because of how insane she says Boreing is.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [
         "relevance:tangential"
@@ -4030,7 +4014,7 @@
       "claim": "The host says Jeremy Boreing recently gave about five interviews about her and, when she replied on X, said she was having a meltdown responding to his interviews.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10385"
+        "N-10358"
       ],
       "tags": [
         "relevance:tangential"
@@ -4128,8 +4112,8 @@
       "claim": "The host says Jon Bray is looking into the microphone theory and why there was an explosion in Tennessee.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10986",
-        "N-10768"
+        "N-10906",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -4149,7 +4133,7 @@
       "claim": "The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests Jon Bray look into the Buckman family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:context"
@@ -4175,7 +4159,7 @@
       "claim": "The host says she saw Nelda Buckman give an interview in which she said her interest in trafficking charities began because her first husband cheated with sex workers, which made her want to understand them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:tangential"
@@ -4195,7 +4179,7 @@
       "claim": "The host says the Buckman family has factories in Tennessee, though not the specific one that blew up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10986"
+        "N-10906"
       ],
       "tags": [
         "relevance:context"
@@ -4238,8 +4222,7 @@
         "A-3222.2"
       ],
       "related_nodes": [
-        "N-10532",
-        "N-10519"
+        "N-10478"
       ],
       "tags": [
         "relevance:core",
@@ -4279,7 +4262,7 @@
       "claim": "The host says another sitting president, Emmanuel Macron, is suing a podcaster, meaning her, for speaking about the reality of what happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:context"
@@ -4303,8 +4286,8 @@
       "claim": "The host says she has repeatedly stated that France was there on the day of Charlie's assassination and that the White House has not disputed it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10316",
-        "N-10290"
+        "N-10297",
+        "N-10272"
       ],
       "tags": [
         "relevance:core"

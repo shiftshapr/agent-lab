@@ -104,7 +104,7 @@
             "C-8837"
           ],
           "related_nodes": [
-            "N-10901"
+            "N-10822"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
             "C-8843"
           ],
           "related_nodes": [
-            "N-10901"
+            "N-10822"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -544,7 +544,7 @@
           "related_nodes": [
             "N-5",
             "N-1",
-            "N-11352"
+            "N-11268"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -571,7 +571,7 @@
           "related_nodes": [
             "N-55",
             "N-3",
-            "N-10187"
+            "N-10179"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -597,7 +597,7 @@
           ],
           "related_nodes": [
             "N-485",
-            "N-10661"
+            "N-10603"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -611,8 +611,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10657",
-      "ref": "N-10657",
+      "@id": "N-10599",
+      "ref": "N-10599",
       "name": "Salem Media Foreign Agent Registration Status",
       "type": "investigation_target",
       "description": "Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.",
@@ -634,13 +634,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10662"
+        "N-10604"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10658",
-      "ref": "N-10658",
+      "@id": "N-10600",
+      "ref": "N-10600",
       "name": "Josh Hammer Show Audience Anomaly",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.",
@@ -657,13 +657,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-55",
-        "N-10657"
+        "N-10599"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10659",
-      "ref": "N-10659",
+      "@id": "N-10601",
+      "ref": "N-10601",
       "name": "Pam Bondi Foreign Influence Task Force Disbanding",
       "type": "investigation_target",
       "description": "February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.",
@@ -682,13 +682,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-85",
-        "N-10662"
+        "N-10604"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10660",
-      "ref": "N-10660",
+      "@id": "N-10602",
+      "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had \"no neck left,\" and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.",
@@ -702,8 +702,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10661",
-      "ref": "N-10661",
+      "@id": "N-10603",
+      "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
       "type": "investigation_target",
       "description": "Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.",
@@ -728,8 +728,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.",
@@ -759,14 +759,14 @@
       "related_nodes": [
         "N-85",
         "N-33",
-        "N-10657",
-        "N-10659"
+        "N-10599",
+        "N-10601"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10663",
-      "ref": "N-10663",
+      "@id": "N-10605",
+      "ref": "N-10605",
       "name": "Mikey McCoy Witness Reliability Question",
       "type": "investigation_target",
       "description": "Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible \"weak link\" among Kirk's inner circle.",
@@ -876,8 +876,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10901",
-      "ref": "N-10901",
+      "@id": "N-10822",
+      "ref": "N-10822",
       "name": "Havas Media",
       "type": "organization",
       "description": "French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it \"Havas Media\" at 16:50 and 36:54.",
@@ -1107,8 +1107,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10722",
-      "ref": "N-10722",
+      "@id": "N-10657",
+      "ref": "N-10657",
       "name": "Clock Tower X / Israeli Influence Operation",
       "type": "investigation_target",
       "description": "Clock Tower X / Israeli Influence Operation; existing topic reused.",
@@ -1172,8 +1172,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10415",
-      "ref": "N-10415",
+      "@id": "N-10388",
+      "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for Kirk premonition pattern.",
@@ -1206,8 +1206,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for the night-before texts to Kolvet and Flood.",
@@ -1242,8 +1242,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the Harpole lawsuit.",
@@ -1259,8 +1259,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11258",
-      "ref": "N-11258",
+      "@id": "N-11174",
+      "ref": "N-11174",
       "name": "Harpole Lawsuit Subpoena and Discovery Opportunity",
       "type": "investigation_target",
       "description": "Existing topic reused for Harpole discovery.",
@@ -1276,8 +1276,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for Kirk's Israel position claims.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11351",
-      "ref": "N-11351",
+      "@id": "N-11267",
+      "ref": "N-11267",
       "name": "Salem Media Group",
       "type": "organization",
       "description": "Media company that distributes the Charlie Kirk Show and, per the host, the Josh Hammer show; the host links it to Clock Tower X's FARA filing, Brad Parscale's role, the Trump Jr. deal and its alleged financial difficulties.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11300",
-      "ref": "N-11300",
+      "@id": "N-11216",
+      "ref": "N-11216",
       "name": "Charlie Kirk Show LLC",
       "type": "investigation_target",
       "description": "Charlie Kirk Show LLC; organization reused for ownership and building claims.",
@@ -1397,8 +1397,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10914",
-      "ref": "N-10914",
+      "@id": "N-10835",
+      "ref": "N-10835",
       "name": "Show Faith by Works LLC",
       "type": "investigation_target",
       "description": "Show Faith by Works LLC; organization reused.",
@@ -1415,8 +1415,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10653",
-      "ref": "N-10653",
+      "@id": "N-10595",
+      "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
       "type": "investigation_target",
       "description": "Existing topic reused for the geofencing link.",
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11352",
-      "ref": "N-11352",
+      "@id": "N-11268",
+      "ref": "N-11268",
       "name": "Trump Post of Kirk With Israeli Flag",
       "type": "topic",
       "description": "The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hugging an Israeli and an American flag when Kirk died.",
@@ -1505,8 +1505,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused for the attacks on Megyn Kelly.",
@@ -1544,8 +1544,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
       "type": "investigation_target",
       "description": "Existing topic reused for Hammer's text messages.",
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11353",
-      "ref": "N-11353",
+      "@id": "N-11269",
+      "ref": "N-11269",
       "name": "Charlie Kirk Show Equity Stakes Question",
       "type": "topic",
       "description": "The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew Kolvet held stakes in the Charlie Kirk Show and that Kolvet allegedly lost millions when Kirk refused Netanyahu.",
@@ -1634,8 +1634,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
       "type": "investigation_target",
       "description": "Existing topic reused for Kirk's refusal of Netanyahu.",
@@ -1651,8 +1651,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10495",
-      "ref": "N-10495",
+      "@id": "N-10458",
+      "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
       "type": "investigation_target",
       "description": "Existing topic reused for the Hamptons dinner allegation.",
@@ -1668,8 +1668,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10305",
-      "ref": "N-10305",
+      "@id": "N-10287",
+      "ref": "N-10287",
       "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the Kolvet lost-millions tip.",
@@ -1685,8 +1685,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for the Netanyahu TPUSA funding offer.",
@@ -1719,8 +1719,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the Hammer pre-death Zoom call.",
@@ -1737,8 +1737,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11221",
-      "ref": "N-11221",
+      "@id": "N-11137",
+      "ref": "N-11137",
       "name": "Newsweek",
       "type": "investigation_target",
       "description": "Newsweek; distribution partner for the Hammer show.",
@@ -1754,8 +1754,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10910",
-      "ref": "N-10910",
+      "@id": "N-10831",
+      "ref": "N-10831",
       "name": "Dhillon Law Group",
       "type": "investigation_target",
       "description": "Dhillon Law Group; organization reused.",
@@ -1811,8 +1811,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11121",
-      "ref": "N-11121",
+      "@id": "N-11039",
+      "ref": "N-11039",
       "name": "Hollywood Gang Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the Hollywood gang claim.",
@@ -1921,8 +1921,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Daily Wire; organization reused for the court-system and Crain & Co claims.",
@@ -1940,8 +1940,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for the Daily Wire pattern against the host.",
@@ -1975,8 +1975,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
       "type": "investigation_target",
       "description": "Existing topic reused for Justin Streiff's post-assassination phone call.",
@@ -2009,8 +2009,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for Mikey McCoy's behavior on September 10.",
@@ -2027,8 +2027,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11354",
-      "ref": "N-11354",
+      "@id": "N-11270",
+      "ref": "N-11270",
       "name": "Israeli Bot Campaign Claim",
       "type": "topic",
       "description": "The host's claim that Israel's propaganda spending includes bot armies, fake accounts and mass emails used to flood comment sections and event hosts.",
@@ -2046,8 +2046,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11304",
-      "ref": "N-11304",
+      "@id": "N-11220",
+      "ref": "N-11220",
       "name": "Erika Kirk Memorial Forgiveness Statement",
       "type": "investigation_target",
       "description": "Existing topic reused for Erika's forgiveness statement.",
@@ -2063,8 +2063,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Tyler Robinson Evidence Gaps; existing topic reused.",
@@ -2080,8 +2080,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11355",
-      "ref": "N-11355",
+      "@id": "N-11271",
+      "ref": "N-11271",
       "name": "Charlie Kirk Faked Death Theory",
       "type": "topic",
       "description": "The viewer theory that Charlie Kirk faked his death, which the host rejects based on one source and the amount of blood in the car.",
@@ -2198,8 +2198,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10662",
-        "N-10901"
+        "N-10604",
+        "N-10822"
       ],
       "tags": [],
       "claim_timestamp": "00:14:07",
@@ -2216,7 +2216,7 @@
         "A-2048.2"
       ],
       "related_nodes": [
-        "N-10662"
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:14:08",
@@ -2233,9 +2233,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10657",
-        "N-10662",
-        "N-10901"
+        "N-10599",
+        "N-10604",
+        "N-10822"
       ],
       "tags": [],
       "claim_timestamp": "00:15:34",
@@ -2251,7 +2251,7 @@
         "A-2049.1"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -2270,7 +2270,7 @@
         "A-2049.2"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -2287,7 +2287,7 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -2306,7 +2306,7 @@
         "A-2050.1"
       ],
       "related_nodes": [
-        "N-10658"
+        "N-10600"
       ],
       "tags": [],
       "claim_timestamp": "00:24:59",
@@ -2325,7 +2325,7 @@
         "A-2051.1"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [],
       "claim_timestamp": "00:31:21",
@@ -2345,7 +2345,7 @@
         "A-2051.1"
       ],
       "related_nodes": [
-        "N-10657"
+        "N-10599"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
@@ -2366,8 +2366,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10659",
-        "N-10662"
+        "N-10601",
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:32:50",
@@ -2387,7 +2387,7 @@
         "A-2053.1"
       ],
       "related_nodes": [
-        "N-10659"
+        "N-10601"
       ],
       "tags": [],
       "claim_timestamp": "00:34:17",
@@ -2407,7 +2407,7 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10662"
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -2426,9 +2426,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10657",
-        "N-10662",
-        "N-10901"
+        "N-10599",
+        "N-10604",
+        "N-10822"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -2462,8 +2462,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10657",
-        "N-10662"
+        "N-10599",
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:38:35",
@@ -2482,7 +2482,7 @@
         "A-2055.1"
       ],
       "related_nodes": [
-        "N-10662"
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:39:40",
@@ -2498,7 +2498,7 @@
         "A-2056.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [],
       "claim_timestamp": "00:46:55",
@@ -2518,7 +2518,7 @@
         "A-2056.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [],
       "claim_timestamp": "00:47:29",
@@ -2537,7 +2537,7 @@
         "A-2057.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [],
       "claim_timestamp": "00:48:28",
@@ -2609,7 +2609,7 @@
         "A-2061.1"
       ],
       "related_nodes": [
-        "N-10663"
+        "N-10605"
       ],
       "tags": [],
       "claim_timestamp": "00:58:45",
@@ -2646,7 +2646,7 @@
       "claim": "The host says Israel is going to increase its spending on American propaganda to almost a billion dollars this year.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -2666,7 +2666,7 @@
       "claim": "The host says that in the week leading up to Charlie Kirk's death she had a terrifying, overwhelming feeling that led her to pull her kids out of school because she sensed danger coming to a school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10415"
+        "N-10388"
       ],
       "tags": [
         "relevance:context"
@@ -2689,7 +2689,7 @@
         "A-3232.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2717,9 +2717,9 @@
         "A-3232.1"
       ],
       "related_nodes": [
-        "N-10340",
-        "N-10651",
-        "N-11258"
+        "N-10318",
+        "N-10593",
+        "N-11174"
       ],
       "tags": [
         "relevance:core"
@@ -2743,7 +2743,7 @@
         "A-2046.1"
       ],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:context"
@@ -2805,8 +2805,8 @@
       "claim": "The host says the Charlie Kirk Show is hosted by Salem Media and that Kirk was excited about that deal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11351",
-        "N-11300"
+        "N-11267",
+        "N-11216"
       ],
       "tags": [
         "relevance:context"
@@ -2827,7 +2827,7 @@
       "claim": "The host says Kirk adored Rush Limbaugh and, he told her, listened to him on the way to school every day when he was young; she says he wanted to host three hours of radio every day and saw the Charlie Kirk Show as a means to fulfill that dream.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11351"
+        "N-11267"
       ],
       "tags": [
         "relevance:tangential"
@@ -2872,8 +2872,8 @@
         "A-2048.2"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10653"
+        "N-10835",
+        "N-10595"
       ],
       "tags": [
         "relevance:context"
@@ -2885,7 +2885,7 @@
         "C-8837"
       ],
       "mentions_person_refs": [
-        "N-10653"
+        "N-10595"
       ]
     },
     {
@@ -2915,7 +2915,7 @@
       "claim": "The host says she first met Brad Parscale over lunch with Charlie Kirk at a private club in Washington, DC, where she says he treated her and Kirk like nobodies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10722"
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -2940,9 +2940,9 @@
         "A-2049.2"
       ],
       "related_nodes": [
-        "N-10657",
-        "N-11351",
-        "N-10722"
+        "N-10599",
+        "N-11267",
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -2951,8 +2951,8 @@
       "investigative_direction": "Read the Clock Tower X FARA exhibits for any contract naming Salem and compare Salem's own statements on whether it is a party or a platform.",
       "transcript_snippet": "these documents show you that they have a financial relationship that is structured to benefit Israel.",
       "mentions_person_refs": [
-        "N-11351",
-        "N-10722"
+        "N-11267",
+        "N-10657"
       ]
     },
     {
@@ -2965,7 +2965,7 @@
         "A-3233.1"
       ],
       "related_nodes": [
-        "N-11352"
+        "N-11268"
       ],
       "tags": [
         "relevance:core"
@@ -2989,7 +2989,7 @@
       "claim": "The host says it is a fact that Charlie Kirk changed his mind on Israel in the end, and that this was a secret others were desperate to protect.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -3013,7 +3013,7 @@
       "claim": "The host says Megyn Kelly was pro-Israel, never thought Israel did it, and said that Tyler Robinson on a rooftop looked possible and that documents were needed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3035,7 +3035,7 @@
       "claim": "The host says Megyn Kelly told the truth about Charlie Kirk's shifting viewpoints on Israel and that the host is convinced this is what led to the attacks on Kelly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3057,7 +3057,7 @@
       "claim": "The host says that of all the people in Kirk's circle, she had effectively only two, Tucker Carlson and Megyn Kelly, willing to back her up that Kirk had long conversations with them and changed his mind on Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -3083,7 +3083,7 @@
       "claim": "The host says Josh Hammer vociferously denied, in the days after Charlie Kirk's death, that Kirk had abandoned the pro-Israel cause, instantly proclaiming it was not true before he knew the message would get out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:core"
@@ -3107,7 +3107,7 @@
         "A-3234.1"
       ],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:core"
@@ -3131,8 +3131,8 @@
       "claim": "The host says that on October 15th it was announced that Josh Hammer was given a show on the Salem Podcast Network, the same network that hosts the Charlie Kirk Show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11351",
-        "N-10658"
+        "N-11267",
+        "N-10600"
       ],
       "tags": [
         "relevance:context"
@@ -3152,7 +3152,7 @@
       "claim": "The host says she remembers learning years ago that Salem Media was struggling financially and was looking for a buyer or a deal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11351"
+        "N-11267"
       ],
       "tags": [
         "relevance:context"
@@ -3172,9 +3172,9 @@
       "claim": "The host says Charlie Kirk told her his Salem deal was fantastic and that he was going to be a part owner and own his show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11351",
-        "N-11300",
-        "N-11353"
+        "N-11267",
+        "N-11216",
+        "N-11269"
       ],
       "tags": [
         "relevance:context"
@@ -3195,8 +3195,8 @@
       "claim": "The host says Kirk told her, perhaps once upon a time, that his was the only truly profitable or the most profitable show at the Salem network, which was in trouble.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11351",
-        "N-11300"
+        "N-11267",
+        "N-11216"
       ],
       "tags": [
         "relevance:context"
@@ -3217,8 +3217,8 @@
       "claim": "The host says Charlie Kirk told her specifically that Andrew Kolvet owned a stake in the Charlie Kirk Show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300",
-        "N-11353"
+        "N-11216",
+        "N-11269"
       ],
       "tags": [
         "relevance:core"
@@ -3240,8 +3240,8 @@
       "claim": "The host says that Blake Neff and Andrew Kolvet do not technically work for Turning Point USA and are paid at least in part by the Charlie Kirk Show, and that she thinks Neff said he was paid entirely by the show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300",
-        "N-11353"
+        "N-11216",
+        "N-11269"
       ],
       "tags": [
         "relevance:core"
@@ -3263,7 +3263,7 @@
       "claim": "The host says the Charlie Kirk Show staff have their own separate building on the property of the Turning Point USA campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300"
+        "N-11216"
       ],
       "tags": [
         "relevance:context"
@@ -3283,7 +3283,7 @@
       "claim": "The host says that, if she remembers correctly, Erika Kirk took an office in the Charlie Kirk Show building before Charlie died and would go there sometimes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11300"
+        "N-11216"
       ],
       "tags": [
         "relevance:core"
@@ -3306,8 +3306,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10456",
-        "N-10495"
+        "N-10425",
+        "N-10458"
       ],
       "tags": [
         "relevance:core"
@@ -3330,9 +3330,9 @@
       "claim": "The host says, allegedly, that Andrew Kolvet told his close orbit of family and friends in Santa Barbara that he lost millions when Charlie Kirk said no to Bibi Netanyahu and to taking Turning Point USA to the next level, and she wonders whether this relates to Kolvet's stake in the Kirk show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10305",
-        "N-10342",
-        "N-11353"
+        "N-10287",
+        "N-10320",
+        "N-11269"
       ],
       "tags": [
         "relevance:core"
@@ -3381,7 +3381,7 @@
         "A-2052.1"
       ],
       "related_nodes": [
-        "N-10659"
+        "N-10601"
       ],
       "tags": [
         "relevance:context"
@@ -3403,7 +3403,7 @@
         "A-2053.1"
       ],
       "related_nodes": [
-        "N-10659"
+        "N-10601"
       ],
       "tags": [
         "relevance:context"
@@ -3425,7 +3425,7 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3451,8 +3451,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10340",
-        "N-10169"
+        "N-10318",
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3478,9 +3478,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-11351",
-        "N-11221",
-        "N-10658"
+        "N-11267",
+        "N-11137",
+        "N-10600"
       ],
       "tags": [
         "relevance:context"
@@ -3500,7 +3500,7 @@
       "claim": "The host says the Dhillon Law Group firm has been privately suing her for two years, which she would say is on behalf of Israel, though some would say that is a gratuitous understanding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10910"
+        "N-10831"
       ],
       "tags": [
         "relevance:context"
@@ -3522,7 +3522,7 @@
         "A-2055.1"
       ],
       "related_nodes": [
-        "N-10914"
+        "N-10835"
       ],
       "tags": [
         "relevance:context"
@@ -3539,7 +3539,7 @@
       "claim": "The host says Blake Lively brought in a PR crisis firm that had a former CIA agent who left the CIA and opened a PR crisis firm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3560,7 +3560,7 @@
       "claim": "The host says she subscribes to what Courtney Love told her, that there is a gang operating in Hollywood that takes publishing rights.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11121"
+        "N-11039"
       ],
       "tags": [
         "relevance:tangential"
@@ -3581,7 +3581,7 @@
       "claim": "The host says she covered the Harvey Weinstein case, that she thinks it could have had something to do with publishing rights, and that Weinstein had to sell his entire company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11121"
+        "N-11039"
       ],
       "tags": [
         "relevance:tangential"
@@ -3602,7 +3602,7 @@
       "claim": "The host says Blake Lively's initial filing was a civil-rights, employee-type complaint in California, not really a court case, and that Lively did not expect the public to read the documents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3623,7 +3623,7 @@
       "claim": "The host says Bryan Freedman, Justin Baldoni's lawyer, filed his response and created an entire website that let the public read it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3647,7 +3647,7 @@
         "A-2057.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3670,7 +3670,7 @@
         "A-2057.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3693,7 +3693,7 @@
         "A-3235.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3713,7 +3713,7 @@
       "claim": "The host says Ryan Reynolds joined the It Ends With Us promotion that was not truly a promo, and used it with Hugh Jackman to make fun of Justin Baldoni.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3737,7 +3737,7 @@
         "A-2059.1"
       ],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3758,7 +3758,7 @@
       "claim": "The host says she thinks Justin Baldoni did end up in the hospital from all the stress of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3781,7 +3781,7 @@
       "claim": "The host says the Lively and Baldoni dispute was settled just two weeks before the scheduled trial dates, and that Lively lost both Taylor Swift and the respect of the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10661"
+        "N-10603"
       ],
       "tags": [
         "relevance:tangential"
@@ -3803,8 +3803,8 @@
       "claim": "The host says she has gone through harassment privately with the Daily Wire throughout the court system, and that she is glad some of it is now spilling into public view.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10416"
+        "N-10821",
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -3824,7 +3824,7 @@
       "claim": "The host says that on the day of the shooting her husband spoke to Justin Streiff, she was speaking to Andrew Kolvet, and she was also speaking to Tucker Carlson about what Kolvet told her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10300"
+        "N-10282"
       ],
       "tags": [
         "relevance:core"
@@ -3847,7 +3847,7 @@
       "claim": "The host says that when Charlie Kirk was in the hospital she and others were told repeatedly that he had no neck left.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660"
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3868,7 +3868,7 @@
       "claim": "The host says Charlie Kirk basically only had the entry point in the front, which looked terrible because it hit the artery and caused the bleeding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660"
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3892,7 +3892,7 @@
       "claim": "The host says that Charlie Kirk's neck was completely fine and that is why the casket was open, so the no-neck story was false.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660"
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3916,7 +3916,7 @@
       "claim": "The host says it seems weird that the no-neck account was an intentional talking point, and she feels it was prepared so they could say the .30-06 went through and completely destroyed his neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660"
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3937,7 +3937,7 @@
       "claim": "The host says nobody would have known the no-neck account was false had it not been for 'Terryl Farnsworth', whom she calls an unexpected hero because he could not get his lie straight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10660"
+        "N-10602"
       ],
       "tags": [
         "relevance:core"
@@ -3958,7 +3958,7 @@
       "claim": "The host says TPUSA never said Mikey McCoy's name without an adjective, such as amazing or stupendous, and that Erika Kirk said Mikey was amazing in her first speech.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10663"
+        "N-10605"
       ],
       "tags": [
         "relevance:context"
@@ -3980,8 +3980,8 @@
       "claim": "The host says, in what she calls her opinion and allegedly, that TPUSA lied when it said Mikey McCoy flew into action and did it all, and that he did not suddenly see, call and direct things.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198",
-        "N-10663"
+        "N-10190",
+        "N-10605"
       ],
       "tags": [
         "relevance:core"
@@ -4005,8 +4005,8 @@
       "claim": "The host says that according to her sources Mikey McCoy was an absolute mess at the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198",
-        "N-10663"
+        "N-10190",
+        "N-10605"
       ],
       "tags": [
         "relevance:core"
@@ -4049,7 +4049,7 @@
       "claim": "The host says she has it on good notice that Mikey McCoy is talking about real estate deals and that people around him are telling him about money.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10663"
+        "N-10605"
       ],
       "tags": [
         "relevance:core"
@@ -4070,8 +4070,8 @@
       "claim": "The host says Israel's propaganda increase to about a billion dollars includes bot campaigns and fake accounts used to flood comment sections.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11354",
-        "N-10722"
+        "N-11270",
+        "N-10657"
       ],
       "tags": [
         "relevance:context"
@@ -4094,8 +4094,8 @@
       "claim": "The host says she observed bots in Megyn Kelly's Instagram comment section after she was let go from the Daily Wire and found out they were literally Israeli bot armies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11354",
-        "N-10900"
+        "N-11270",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -4116,7 +4116,7 @@
       "claim": "The host says Israeli companies can send 3,000 emails on a dime to anyone hosting an event, using bots that make it look like individual residents are objecting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11354"
+        "N-11270"
       ],
       "tags": [
         "relevance:tangential"
@@ -4136,7 +4136,7 @@
       "claim": "The host says that after learning more she was wrong yesterday, because the sports company Crain & Co did not get shut down at the Daily Wire but opted to leave on its own.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -4174,7 +4174,7 @@
       "claim": "The host says that Charlie Kirk keeps trending and that they wanted the story to end on September 21st with an 'I forgive him'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11304"
+        "N-11220"
       ],
       "tags": [
         "relevance:core"
@@ -4195,7 +4195,7 @@
       "claim": "The host says she could probably get to forgiving Tyler Robinson too, because she does not think he did it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -4216,7 +4216,7 @@
       "claim": "The host says she knows the theory that Charlie Kirk faked his death and is still alive is not true because of one of her sources, and that she hoped it was true before she went to Wyoming.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11355"
+        "N-11271"
       ],
       "tags": [
         "relevance:core"
@@ -4237,7 +4237,7 @@
       "claim": "The host says she does not think the faked-death theory fits the car and the amount of blood that was in it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11355"
+        "N-11271"
       ],
       "tags": [
         "relevance:core"

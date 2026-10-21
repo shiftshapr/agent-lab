@@ -95,7 +95,7 @@
             "C-12576"
           ],
           "related_nodes": [
-            "N-10818"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -146,7 +146,7 @@
             "C-12589"
           ],
           "related_nodes": [
-            "N-10817"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,7 +164,7 @@
             "C-12556"
           ],
           "related_nodes": [
-            "N-10817"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
           "description": "Butch Hibbs standing behind persons speaking to news crews about what they witnessed",
           "related_claims": [],
           "related_nodes": [
-            "N-10817"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
           "description": "Photo of unidentified individual in pink hat and blue shirt holding a drink at UVU",
           "related_claims": [],
           "related_nodes": [
-            "N-10819"
+            "N-10742"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -416,8 +416,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10817",
-      "ref": "N-10817",
+      "@id": "N-10740",
+      "ref": "N-10740",
       "name": "Butch Hibbs UVU Recording Behavior",
       "type": "investigation_target",
       "description": "Persistent investigation into why a 74-year-old attendee recorded footage from multiple angles immediately after the shooting rather than rendering aid, fleeing, or calling emergency services; whether the footage was transmitted to Jack Hibbs or others; and the identity/content of the ~5-minute post-shooting phone call.",
@@ -439,8 +439,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10818",
-      "ref": "N-10818",
+      "@id": "N-10741",
+      "ref": "N-10741",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Turek), (b) \"cousin Charlie\" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.",
@@ -461,8 +461,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10819",
-      "ref": "N-10819",
+      "@id": "N-10742",
+      "ref": "N-10742",
       "name": "Unidentified UVU Attendee (Pink Hat / Blue Shirt)",
       "type": "investigation_target",
       "description": "Unidentified individual visible in UVU 9/10 photographs wearing a pink hat and blue shirt, holding what appears to be a drink; host has requested audience help identifying and contacting this person.",
@@ -1257,8 +1257,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10040",
-      "ref": "N-10040",
+      "@id": "N-10038",
+      "ref": "N-10038",
       "name": "Robinson On-Campus Linger Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1274,8 +1274,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1292,8 +1292,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1330,8 +1330,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1348,8 +1348,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1366,8 +1366,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1385,8 +1385,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1403,8 +1403,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1420,8 +1420,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1440,8 +1440,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1458,8 +1458,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1475,8 +1475,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10570",
-      "ref": "N-10570",
+      "@id": "N-10521",
+      "ref": "N-10521",
       "name": "Defense Discovery Dumping Strategy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1495,8 +1495,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10679",
-      "ref": "N-10679",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1513,8 +1513,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@id": "N-10648",
+      "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1531,8 +1531,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1548,8 +1548,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1565,8 +1565,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10885",
-      "ref": "N-10885",
+      "@id": "N-10806",
+      "ref": "N-10806",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1582,8 +1582,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1600,8 +1600,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1617,8 +1617,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10969",
-      "ref": "N-10969",
+      "@id": "N-10890",
+      "ref": "N-10890",
       "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1634,8 +1634,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11057",
-      "ref": "N-11057",
+      "@id": "N-10975",
+      "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1651,8 +1651,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@id": "N-10983",
+      "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1668,8 +1668,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11070",
-      "ref": "N-11070",
+      "@id": "N-10988",
+      "ref": "N-10988",
       "name": "Terryl Selfie Video Metadata Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1703,9 +1703,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11148",
-      "ref": "N-11148",
-      "name": "Wilks Family Funding Network",
+      "@id": "N-11020",
+      "ref": "N-11020",
+      "name": "Wilks Brothers Funding Network",
       "type": "topic",
       "description": "The host's assertions about the Wilks brothers funding Calvary Chapel church construction, PragerU, the early Daily Wire and pro-Israel politicians.",
       "related_artifacts": [],
@@ -1724,8 +1724,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
       "type": "topic",
       "description": "The preliminary hearing, the seven charges and the defense motion to dismiss counts 1, 6 and 7, with the magistrate's ruling awaited on the broadcast date.",
@@ -1762,8 +1762,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11150",
-      "ref": "N-11150",
+      "@id": "N-11066",
+      "ref": "N-11066",
       "name": "Aggravated Murder Single-Victim Standard and Pennsylvania Precedent",
       "type": "topic",
       "description": "The host's account that Utah has no single-victim aggravated murder conviction and that the prosecution relies on Pennsylvania cases despite that state's death penalty moratorium.",
@@ -1852,7 +1852,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
@@ -1890,7 +1890,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:16:13",
@@ -1912,7 +1912,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
@@ -1932,7 +1932,7 @@
         "A-2324.2"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [],
       "claim_timestamp": "00:24:18",
@@ -1988,7 +1988,7 @@
         "A-2324.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:19:30",
@@ -2052,7 +2052,7 @@
       "claim": "The host says Data Republican (Jennica Pounds), who she says attacked her for investigating the case, looks very much like Tyler Robinson and says she has no positive evidence that it was not Pounds on the UVU staircase.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10885"
+        "N-10806"
       ],
       "tags": [
         "relevance:context"
@@ -2075,7 +2075,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11065"
+        "N-10983"
       ],
       "tags": [
         "relevance:core"
@@ -2123,8 +2123,8 @@
         "A-2326.4"
       ],
       "related_nodes": [
-        "N-10398",
-        "N-10264"
+        "N-10371",
+        "N-10248"
       ],
       "tags": [
         "relevance:context"
@@ -2166,7 +2166,7 @@
       "claim": "The host says Mikey McCoy calmly walked away from the shooting without dialing 911, and instead phoned his wife, then Erika Kirk, then his father Rob McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2191,7 +2191,7 @@
       "claim": "The host says Rob McCoy told the story that his son asked him to pray, and that Mikey McCoy turned out to have phoned another pastor that day asking for prayer, setting up Jack Hibbs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2218,7 +2218,7 @@
         "A-2325.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -2242,7 +2242,7 @@
         "A-2325.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:context"
@@ -2263,7 +2263,7 @@
       "claim": "The host says many people looked into where Butch Hibbs lives and a flight he potentially took to Tennessee, and that her team did not engage in proliferating those conspiracies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:tangential"
@@ -2286,7 +2286,7 @@
         "A-2325.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -2310,7 +2310,7 @@
       "claim": "The host says she first heard of Pastor Jack Hibbs from Marissa Streit, whom she calls the Mossad agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131",
+        "N-10126",
         "N-10015"
       ],
       "tags": [
@@ -2333,7 +2333,7 @@
       "claim": "The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her the Mossad agent turned CEO of PragerU.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131",
+        "N-10126",
         "N-10015"
       ],
       "tags": [
@@ -2355,8 +2355,8 @@
       "claim": "The host says the billionaire Wilks brothers fund construction of some Calvary Chapel churches, including Rob McCoy's church in Thousand Oaks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11148",
-        "N-10264"
+        "N-11020",
+        "N-10248"
       ],
       "tags": [
         "relevance:context"
@@ -2377,7 +2377,7 @@
       "claim": "The host says the Wilks brothers are not in any way evangelical Christians, which she finds strange given that they fund churches.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11148"
+        "N-11020"
       ],
       "tags": [
         "relevance:context"
@@ -2397,8 +2397,8 @@
       "claim": "The host says the Wilks brothers also fund PragerU and were behind the initial big funding of the Daily Wire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11148",
-        "N-10131"
+        "N-11020",
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -2418,7 +2418,7 @@
       "claim": "The host says she is told the Wilks brothers fly Israeli flags along their property lines in Texas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11148"
+        "N-11020"
       ],
       "tags": [
         "relevance:context"
@@ -2438,7 +2438,7 @@
       "claim": "The host says the Wilks brothers fund radically pro-Israel politicians like Ted Cruz, and that Israel is their main issue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11148"
+        "N-11020"
       ],
       "tags": [
         "relevance:context"
@@ -2461,7 +2461,7 @@
         "A-2321.1"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2487,7 +2487,7 @@
         "A-2322.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -2512,7 +2512,7 @@
       ],
       "related_nodes": [
         "N-10015",
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:context"
@@ -2535,7 +2535,7 @@
         "A-2322.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -2560,7 +2560,7 @@
       "claim": "The host says that the night before the shooting Charlie Kirk was texting donors that he had no choice but to abandon the pro-Israel cause.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -2604,7 +2604,7 @@
       "claim": "The host says that Charlie Kirk was texting people the night before that he thought he was going to be killed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -2628,7 +2628,7 @@
       "claim": "The host says Charlie Kirk was taking phone calls the night before from rabbis based in Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2649,7 +2649,7 @@
       "claim": "The host says the stated explanation is that Charlie Kirk needed to learn how to debate and was asking for debate tips from people like Josh Hammer and rabbis based in Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2674,8 +2674,8 @@
       "claim": "The host says Butch Hibbs is very much involved in Calvary Chapel in Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10264",
-        "N-10248"
+        "N-10248",
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -2697,7 +2697,7 @@
         "A-2323.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -2723,7 +2723,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2747,7 +2747,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2773,7 +2773,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2800,7 +2800,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2826,7 +2826,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2852,7 +2852,7 @@
         "A-2322.2"
       ],
       "related_nodes": [
-        "N-10818"
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2876,7 +2876,7 @@
         "A-2895.1"
       ],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2905,8 +2905,8 @@
         "A-2895.1"
       ],
       "related_nodes": [
-        "N-10193",
-        "N-10818"
+        "N-10185",
+        "N-10741"
       ],
       "tags": [
         "relevance:core"
@@ -2930,8 +2930,8 @@
         "A-2895.1"
       ],
       "related_nodes": [
-        "N-10193",
-        "N-10264"
+        "N-10185",
+        "N-10248"
       ],
       "tags": [
         "relevance:core"
@@ -2953,7 +2953,7 @@
       "claim": "The host says Terryl prematurely announced Charlie's death to himself and chose to record a selfie video rather than call 911.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11070"
+        "N-10988"
       ],
       "tags": [
         "relevance:core"
@@ -2978,7 +2978,7 @@
       "claim": "The host says that after the selfie video Terryl jumped down, was not crying, started removing SD cards and put an SD card into his computer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11070"
+        "N-10988"
       ],
       "tags": [
         "relevance:core"
@@ -3001,7 +3001,7 @@
       "claim": "The host says Blake Neff called his mother and did not thereafter call 911.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -3024,7 +3024,7 @@
       "claim": "The host says that, to her knowledge, neither Danny Phillip nor Nate Walker, Charlie's assistants, called 911.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10729"
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -3048,7 +3048,7 @@
       "claim": "The host says she learned that someone in the hospital-bound SUV was providing updates to Ben Shapiro's security team while Charlie Kirk was dying in the back seat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10712"
+        "N-10648"
       ],
       "tags": [
         "relevance:core"
@@ -3072,7 +3072,7 @@
       "claim": "The host says Ben Shapiro was the person Charlie Kirk could not stand, and that it does not seem above board that he was receiving status updates as Charlie lay dying.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10712"
+        "N-10648"
       ],
       "tags": [
         "relevance:context"
@@ -3098,7 +3098,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3121,7 +3121,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3144,7 +3144,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3168,7 +3168,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3192,7 +3192,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3215,7 +3215,7 @@
         "A-2894.1"
       ],
       "related_nodes": [
-        "N-10819"
+        "N-10742"
       ],
       "tags": [
         "relevance:core"
@@ -3237,7 +3237,7 @@
         "A-2325.2"
       ],
       "related_nodes": [
-        "N-10819"
+        "N-10742"
       ],
       "tags": [
         "relevance:core"
@@ -3259,7 +3259,7 @@
         "A-2324.3"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3284,7 +3284,7 @@
         "A-2324.3"
       ],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:context"
@@ -3306,7 +3306,7 @@
         "A-2324.3"
       ],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:context"
@@ -3328,7 +3328,7 @@
         "A-2324.1"
       ],
       "related_nodes": [
-        "N-10817"
+        "N-10740"
       ],
       "tags": [
         "relevance:core"
@@ -3350,7 +3350,7 @@
       "claim": "The host says the preliminary hearing took place across five days in early July.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3371,7 +3371,7 @@
       "claim": "The host says she told viewers that under Utah's 1102 rule, reliable hearsay is permitted at the preliminary hearing stage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3395,8 +3395,8 @@
       "claim": "The host says it is permitted for Lance Twiggs to submit video testimony and that the defense is not able to cross-examine him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10679",
-        "N-11149"
+        "N-10617",
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3417,8 +3417,8 @@
       "claim": "The host says Lance's lawyer was able to lead him in questioning at the probative hearing, where leading questions would normally draw objections.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10679",
-        "N-11149"
+        "N-10617",
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3438,7 +3438,7 @@
       "claim": "The host says that at this stage officers such as Bagley or Hull can get up and say they were told by someone that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3460,7 +3460,7 @@
       "claim": "The host says the state is seeking seven charges against Tyler Robinson, the most severe being aggravated murder, which carries a death sentence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3483,8 +3483,8 @@
       "claim": "The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, someone who fired just one bullet and had one victim.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-11150"
+        "N-11065",
+        "N-11066"
       ],
       "tags": [
         "relevance:core"
@@ -3504,8 +3504,8 @@
       "claim": "The host says aggravated murder typically involves an aggravating circumstance such as plotting a bomb or spraying multiple bullets into a crowd, showing an intent to murder en masse.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-11150"
+        "N-11065",
+        "N-11066"
       ],
       "tags": [
         "relevance:context"
@@ -3525,8 +3525,8 @@
       "claim": "The host says the prosecution argues Tyler Robinson is the shooter but also that he chose to fire only one bullet despite having more rounds in the chamber.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-11150"
+        "N-11065",
+        "N-11066"
       ],
       "tags": [
         "relevance:core"
@@ -3546,8 +3546,8 @@
       "claim": "The host says the prosecution alleges text messages where Robinson says he is going to see Charlie Kirk and has to do it because his hate is too much to negotiate, which she says suggests a single target.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077",
-        "N-11149"
+        "N-10074",
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3568,8 +3568,8 @@
       "claim": "The host says that, since Utah has no such precedent, the prosecution's response to the dismissal motion borrows from Pennsylvania law and jurisprudence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-11150"
+        "N-11065",
+        "N-11066"
       ],
       "tags": [
         "relevance:core"
@@ -3589,7 +3589,7 @@
       "claim": "The host says the Pennsylvania cases cited involved clear intent for more than one victim, where fate intervened, such as someone spraying bullets at children where only one child was hit and died.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11150"
+        "N-11066"
       ],
       "tags": [
         "relevance:core"
@@ -3609,7 +3609,7 @@
       "claim": "The host says Pennsylvania currently has a moratorium on its death penalty altogether, making it an odd state to cite.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11150"
+        "N-11066"
       ],
       "tags": [
         "relevance:context"
@@ -3629,7 +3629,7 @@
       "claim": "The host says she would be very shocked if the aggravated murder charge moved forward, and that Utah would be making history if it did.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:context"
@@ -3649,7 +3649,7 @@
       "claim": "The host says the second charge is felony discharge of a firearm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3669,7 +3669,7 @@
       "claim": "The host says the third charge is obstruction of justice because the prosecution alleges Tyler Robinson hid the firearm used to shoot Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3690,7 +3690,7 @@
       "claim": "The host says the fourth charge is obstruction of justice for allegedly hiding the clothing worn during the shooting, though she notes he is said to have worn the maroon shirt earlier that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
+        "N-11065",
         "N-10019"
       ],
       "tags": [
@@ -3711,8 +3711,8 @@
       "claim": "The host says the fifth charge is witness tampering for allegedly texting Lance and telling him to delete an exchange.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-10077"
+        "N-11065",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3733,8 +3733,8 @@
       "claim": "The host says the sixth charge is also witness tampering for allegedly texting Lance and telling him not to speak to police and to lawyer up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149",
-        "N-10077"
+        "N-11065",
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3755,7 +3755,7 @@
       "claim": "The host says the defense argues count six should be dismissed on its face because telling a witness about the constitutional right to stay silent and to lawyer up is not witness tampering.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3776,7 +3776,7 @@
       "claim": "The host says the seventh charge is a violent offense in the presence of a child, and the defense argues the presumption on a college campus is that no minor children were present.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3796,7 +3796,7 @@
       "claim": "The host says the defense filed to dismiss counts one, six and seven on their face, without litigating the evidence, and that the ruling was awaited.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -3820,7 +3820,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:context"
@@ -3841,7 +3841,7 @@
       "claim": "The host says that the Department of War is involved in propaganda and in trying to get Tyler Robinson convicted, going after people asking meaningful questions, smearing people and putting people on payroll.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [
         "relevance:core"
@@ -3865,7 +3865,7 @@
       "claim": "The host says Graham Allen was working as a consultant for the Department of War and then suddenly started working for Turning Point USA, doing much propaganda for them, which she reads as preparation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888",
+        "N-10809",
         "N-10000"
       ],
       "tags": [
@@ -3887,8 +3887,8 @@
       "claim": "The host says Donald Trump phoned Charlie Kirk in July telling him to stop speaking about the Epstein files.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10969",
-        "N-10324"
+        "N-10890",
+        "N-10303"
       ],
       "tags": [
         "relevance:core"
@@ -3913,7 +3913,7 @@
       "claim": "The host says she thinks the case will somehow be tied to the Epstein network, pointing to human trafficking themes she believes she has shown early seeds of.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3953,7 +3953,7 @@
       "claim": "The host says Tyler Robinson is potentially innocent, perhaps an accessory to murder, and that perhaps he was dumping or played some role that day, which she has always thought meant he was around campus that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [
         "relevance:core"
@@ -3976,7 +3976,7 @@
         "A-2896.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10521"
       ],
       "tags": [
         "relevance:context"
@@ -3998,7 +3998,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10013",
-        "N-10570"
+        "N-10521"
       ],
       "tags": [
         "relevance:core"
@@ -4018,7 +4018,7 @@
       "claim": "The host says 12.1 terabytes were handed over, including 1 million Discord messages alone, asking how a defense could be ready for court in two weeks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10570",
+        "N-10521",
         "N-10013"
       ],
       "tags": [
@@ -4039,7 +4039,7 @@
       "claim": "The host says a party that first resists and then is forced by a court to hand over material can over-supply it so the other side's team cannot sift it, and that the prosecution is doing this and propagandizing it as openness.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10570"
+        "N-10521"
       ],
       "tags": [
         "relevance:context"
@@ -4103,7 +4103,7 @@
         "A-2897.1"
       ],
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ],
       "tags": [
         "relevance:tangential"
@@ -4125,7 +4125,7 @@
       "claim": "The host says her team has been saving a lot of material because they wanted to see which direction the preliminary hearing would go and what would be decided, before going all out.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11149"
+        "N-11065"
       ],
       "tags": [
         "relevance:context"
@@ -4145,7 +4145,7 @@
       "claim": "The host says, addressing Blake Neff, that he did not start working until the beginning of 2024, so he knew Charlie Kirk for a year and a half and was only there because Charlie did a solid for his good friend Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:core"

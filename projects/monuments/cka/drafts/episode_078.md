@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11342, N-11343
-  - Hole-minted Nodes (reintro-ep078): N-590, N-10705, N-10812
-  - Tip-minted Nodes (reintro-ep078): N-10986, N-11211
+  - Tip-minted Nodes (supplement_2026-10f): N-11258, N-11259
+  - Hole-minted Nodes (reintro-ep078): N-590, N-10641, N-10736
+  - Tip-minted Nodes (reintro-ep078): N-10906, N-11127
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6970–C-7071
-  - New Nodes Introduced: N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-588, N-10531, N-10533, N-10534, N-10535, N-10536, N-10538
-  - Reused Nodes Appearing: N-579, N-10532, N-4, N-5, N-7, N-11, N-14, N-22, N-33, N-50, N-69, N-97, N-163, N-186, N-244, N-261, N-280, N-366, N-377, N-460, N-489, N-520, N-659, N-681, N-10270, N-10290, N-10316, N-10324, N-10346, N-10383, N-10385, N-10421, N-10519, N-10522, N-10523, N-10897, N-10916, N-10922, N-11165, N-11192, N-10537, N-10768, N-10987
+  - New Nodes Introduced: N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-588, N-10487, N-10488, N-10489, N-10490, N-10491, N-10493
+  - Reused Nodes Appearing: N-579, N-10478, N-4, N-5, N-7, N-11, N-14, N-22, N-33, N-50, N-69, N-97, N-163, N-186, N-244, N-261, N-280, N-366, N-377, N-460, N-489, N-520, N-659, N-681, N-10254, N-10272, N-10297, N-10303, N-10324, N-10356, N-10358, N-10394, N-10479, N-10480, N-10818, N-10837, N-10843, N-11081, N-11108, N-10492, N-10697, N-10907
   - (see registers)
 
 # Meta-Data
@@ -41,7 +41,7 @@
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845, A-2523
 - **Claim Range:** C-6972–C-7002
 - **New People Nodes Introduced:** N-579, N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-41, N-273, N-178, N-568, N-588
-- **New Investigation Target Nodes Introduced:** N-10531, N-10532, N-10533, N-10534, N-10535, N-10536, N-10537
+- **New Investigation Target Nodes Introduced:** N-10487, N-10478, N-10488, N-10489, N-10490, N-10491, N-10492
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -68,7 +68,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6972, C-6976, C-6977, N-2, N-581, N-10531, N-10532*
+*Related: C-6972, C-6976, C-6977, N-2, N-581, N-10487, N-10478*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:13:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6996, N-2, N-580, N-273, N-10533*
+*Related: C-6996, N-2, N-580, N-273, N-10488*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:17:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7001, C-7002, N-2, N-582, N-10534*
+*Related: C-7001, C-7002, N-2, N-582, N-10489*
 
 **A-1838.2** Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:16:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6997, N-2, N-582, N-10534*
+*Related: C-6997, N-2, N-582, N-10489*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7005, C-7003, C-7011, N-582, N-583, N-10534*
+*Related: C-7005, C-7003, C-7011, N-582, N-583, N-10489*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:21:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7007, N-588, N-583, N-10534*
+*Related: C-7007, N-588, N-583, N-10489*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:30:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7017, C-7018, N-10536*
+*Related: C-7017, C-7018, N-10491*
 
 **A-1841.2** Photo of van interior from another angle
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7017, N-10536*
+*Related: C-7017, N-10491*
 
 **A-1841.3** Photo showing side angle of van interior with what appears to be an Instaclot package on the floor
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:31:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10536*
+*Related: N-10491*
 
 ---
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:34:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7024, N-10535, N-10537*
+*Related: C-7024, N-10490, N-10492*
 
 **A-1842.2** Video segment showing Charlie falling/sliding toward the table
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:38:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7031, C-7035, N-10535*
+*Related: C-7031, C-7035, N-10490*
 
 **A-1842.3** Video segment showing Charlie's hands making contact with table without grabbing any object
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7037, N-10535*
+*Related: C-7037, N-10490*
 
 **A-1842.4** Video segment showing the necklace and magnet clasp still attached post-impact
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:35:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7024, N-10535, N-10537*
+*Related: C-7024, N-10490, N-10492*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7044, N-579, N-41, N-10538*
+*Related: C-7044, N-579, N-41, N-10493*
 
 **A-1844.2** X community note fact-checking TP Action's Massie tweet: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman"
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7045, N-579, N-10538*
+*Related: C-7045, N-579, N-10493*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:44:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7046, C-7047, N-579, N-10538*
+*Related: C-7046, C-7047, N-579, N-10493*
 
 ---
 
@@ -429,7 +429,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-7040, C-7044, C-7045, C-7046, N-10538*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-7040, C-7044, C-7045, C-7046, N-10493*
 
 ---
 
@@ -442,7 +442,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1837.1, C-6996, N-273, N-10533*
+*Related: A-1837.1, C-6996, N-273, N-10488*
 
 ---
 
@@ -455,7 +455,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1835.1, N-10531, N-10532*
+*Related: A-1835.1, N-10487, N-10478*
 
 ---
 
@@ -468,7 +468,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1838.1, A-1838.2, A-1839.1, C-7001, C-6997, C-7003, N-10534*
+*Related: A-1838.1, A-1838.2, A-1839.1, C-7001, C-6997, C-7003, N-10489*
 
 ---
 
@@ -481,7 +481,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1839.1, A-1840.1, C-7005, N-10534*
+*Related: A-1839.1, A-1840.1, C-7005, N-10489*
 
 ---
 
@@ -533,7 +533,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-580, N-10533*
+*Related: N-580, N-10488*
 
 ---
 
@@ -559,7 +559,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-10532*
+*Related: N-2, N-10478*
 
 ---
 
@@ -576,7 +576,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10531** 301 East 66th Street NYC Building Investigation
+**N-10487** 301 East 66th Street NYC Building Investigation
 
 Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as "apartments for models." Per host, viewers identified building matching description of the "white building" associated with Erika Kirk's Next Model Management real-estate role.
 
@@ -585,24 +585,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, C-6972, C-6976, C-6977, N-2, N-581, N-10532*
+*Related: A-1835.1, C-6972, C-6976, C-6977, N-2, N-581, N-10478*
 
 ---
 
-**N-10532** Next Model Management / Erika Kirk Connection
-
-Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a "white building" near 68th Street between Second and Third Avenue.
-
-Evidence Count: 1
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1835.1, N-2, N-568, N-10531*
-
----
-
-**N-10533** Club America High School Pushback
+**N-10488** Club America High School Pushback
 
 Investigation target: state-level rollout of Club America (TPUSA) in high schools, including Arkansas proclamation; pushback reported in displayed user comments.
 
@@ -615,7 +602,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10534** Renee Crossman / United Hands Romania Cult Affiliation
+**N-10489** Renee Crossman / United Hands Romania Cult Affiliation
 
 Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erika Kirk.
 
@@ -628,7 +615,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10535** 9/10 Behind Charlie Video Analysis
+**N-10490** 9/10 Behind Charlie Video Analysis
 
 Investigation target: forensic observations from the displayed behind-Charlie footage (necklace/magnet clasp state, blood pattern, hand motion at table).
 
@@ -637,11 +624,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-7024, C-7031, C-7037, C-7035, N-10537*
+*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-7024, C-7031, C-7037, C-7035, N-10492*
 
 ---
 
-**N-10536** Hospital Transport Van Interior Photo Analysis
+**N-10491** Hospital Transport Van Interior Photo Analysis
 
 Investigation target: forensic observations from displayed photos of van interior that transported Charlie Kirk to hospital, including Instaclot package identification and back-seat material distribution.
 
@@ -654,7 +641,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Investigation target: state and behavior of Kirk's necklace and magnet clasp as shown in displayed 9/10 video and surrounding testimony (Erica, Frank, Brian Harpole stories referenced by host).
 
@@ -663,11 +650,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1842.1, A-1842.4, C-7024, N-10535*
+*Related: A-1842.1, A-1842.4, C-7024, N-10490*
 
 ---
 
-**N-10538** Turning Point Action / Thomas Massie Disavowal Incident
+**N-10493** Turning Point Action / Thomas Massie Disavowal Incident
 
 Investigation target: TP Action public reversal against Massie, who was a longtime Charlie Kirk favorite, and the surrounding X community note fact-check.
 
@@ -920,7 +907,7 @@ Jon Bray; investigator on the microphone theory and the Tennessee explosion.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for new claims in this episode.
 
@@ -928,7 +915,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 Existing topic reused for new claims in this episode.
 
@@ -936,7 +923,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused for new claims in this episode.
 
@@ -944,7 +931,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for new claims in this episode.
 
@@ -952,7 +939,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -960,7 +947,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10383** Farnsworth Family Political-Military Network
+**N-10356** Farnsworth Family Political-Military Network
 
 Existing topic reused for new claims in this episode.
 
@@ -968,7 +955,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Existing topic reused for new claims in this episode.
 
@@ -976,7 +963,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10421** Buckman–TPUSA Donor Relationship Investigation
+**N-10394** Buckman–TPUSA Donor Relationship Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -984,7 +971,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10519** Erika Kirk Next Model Management Involvement
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -992,7 +979,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10522** January 29 West Wing Meeting Subject
+**N-10479** January 29 West Wing Meeting Subject
 
 Existing topic reused for new claims in this episode.
 
@@ -1000,7 +987,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10523** Linda Rothschild Corcoran Group Presidency Verification
+**N-10480** Linda Rothschild Corcoran Group Presidency Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -1008,7 +995,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
+**N-10641** Charlie's Road Microphone Glass Origin Investigation Target
 
 Existing topic reused for new claims in this episode.
 
@@ -1016,7 +1003,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Existing topic reused for new claims in this episode.
 
@@ -1024,7 +1011,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10812** Terryl Farnsworth Evidence-Handling Question
+**N-10736** Terryl Farnsworth Evidence-Handling Question
 
 Existing topic reused for new claims in this episode.
 
@@ -1032,7 +1019,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10897** Project Constitution
+**N-10818** Project Constitution
 
 Existing topic reused for new claims in this episode.
 
@@ -1040,7 +1027,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10916** Thomas Massie Kentucky Primary Outside Spending
+**N-10837** Thomas Massie Kentucky Primary Outside Spending
 
 Existing topic reused for new claims in this episode.
 
@@ -1048,7 +1035,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10922** Superfeed
+**N-10843** Superfeed
 
 Existing topic reused for new claims in this episode.
 
@@ -1056,7 +1043,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10986** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
+**N-10906** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
 
 Existing topic reused for new claims in this episode.
 
@@ -1064,7 +1051,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10987** Charlie Kirk Inside-Shirt Rode Mic Placement
+**N-10907** Charlie Kirk Inside-Shirt Rode Mic Placement
 
 Existing topic reused for new claims in this episode.
 
@@ -1072,7 +1059,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Existing topic reused for new claims in this episode.
 
@@ -1080,7 +1067,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11192** Sabbatian-Frankist Cult Allegation
+**N-11108** Sabbatian-Frankist Cult Allegation
 
 Existing topic reused for new claims in this episode.
 
@@ -1088,7 +1075,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11211** Farnsworth Told Host He Discussed the Footage With Erika
+**N-11127** Farnsworth Told Host He Discussed the Footage With Erika
 
 Existing topic reused for new claims in this episode.
 
@@ -1096,7 +1083,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11342** Fort Campbell Drone Theft Report
+**N-11258** Fort Campbell Drone Theft Report
 
 Node Type: Topic
 A commenter's report that four drones were stolen from Fort Campbell and the host's guess that they went to Israel.
@@ -1105,7 +1092,7 @@ A commenter's report that four drones were stolen from Fort Campbell and the hos
 
 ---
 
-**N-11343** Alexander Brothers Epstein File Redaction Question
+**N-11259** Alexander Brothers Epstein File Redaction Question
 
 Node Type: Topic
 Whether the Alexander brothers' names were redacted from the Epstein files and why, set against their federal sex trafficking convictions and ties to Kushner.
@@ -1124,7 +1111,7 @@ Claim: The displayed New York Post article identifies 301 East 66th Street, a 16
 
 Anchored Artifacts: A-1835.1
 Mentions: N-9
-Related Nodes: N-10531
+Related Nodes: N-10487
 Investigative Direction: Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.
 
 ---
@@ -1137,7 +1124,7 @@ Claim: Per the displayed NY Post article, some apartments in the 301 East 66th S
 
 Anchored Artifacts: A-1835.1
 Mentions: N-9
-Related Nodes: N-10531, N-10532
+Related Nodes: N-10487, N-10478
 Investigative Direction: Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses.
 
 ---
@@ -1149,7 +1136,7 @@ Claim Timestamp: 00:04:48
 Claim: The photo embedded in the displayed NY Post article depicting the building was credited to Corcoran real estate.
 
 Anchored Artifacts: A-1835.1
-Related Nodes: N-10531, N-10532
+Related Nodes: N-10487, N-10478
 Investigative Direction: Confirm Corcoran's listing history for 301 East 66th Street and identify the Corcoran president referenced in Epstein files as a Rothschild.
 
 ---
@@ -1174,7 +1161,7 @@ Claim: The host says Arkansas Governor Sarah Huckabee Sanders signed a proclamat
 
 Anchored Artifacts: A-1837.1
 Mentions: N-2, N-580
-Related Nodes: N-10533
+Related Nodes: N-10488
 Investigative Direction: Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.
 
 ---
@@ -1187,7 +1174,7 @@ Claim: Per the displayed 2017 article, Erika Kirk stated: "I am happy to collabo
 
 Anchored Artifacts: A-1838.1
 Mentions: N-2, N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.
 
 ---
@@ -1200,7 +1187,7 @@ Claim: In a clip the host plays, Erika Kirk says the people at the base in Const
 
 Anchored Artifacts: A-1838.2
 Mentions: N-2, N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.
 
 ---
@@ -1213,7 +1200,7 @@ Claim: Per the displayed Romanian investigative article, Children of God founder
 
 Anchored Artifacts: A-1839.1
 Mentions: N-583
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.
 
 ---
@@ -1226,7 +1213,7 @@ Claim: Per the displayed Megyn Kelly interview clip, Christina Babin described b
 
 Anchored Artifacts: A-1840.1
 Mentions: N-583, N-588, N-46
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's "sexual sharing" directive.
 
 ---
@@ -1239,7 +1226,7 @@ Claim: Per the displayed van interior photo, the host says it looks very much to
 
 Anchored Artifacts: A-1841.1, A-1841.2
 Mentions: N-1
-Related Nodes: N-10536
+Related Nodes: N-10491
 Investigative Direction: Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.
 
 ---
@@ -1252,7 +1239,7 @@ Claim: The host says the displayed video shows Charlie Kirk's necklace whipping 
 
 Anchored Artifacts: A-1842.1, A-1842.4
 Mentions: N-1
-Related Nodes: N-10535, N-10537
+Related Nodes: N-10490, N-10492
 Investigative Direction: Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erika Kirk, Frank, and Brian Harpole (as referenced by host).
 
 ---
@@ -1265,7 +1252,7 @@ Claim: Per the displayed video, the host says no blood is seen heading backward 
 
 Anchored Artifacts: A-1842.2
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Investigative Direction: Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round.
 
 ---
@@ -1278,7 +1265,7 @@ Claim: Per the displayed video, when Charlie Kirk's hands first make contact wit
 
 Anchored Artifacts: A-1842.3
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Investigative Direction: Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory.
 
 ---
@@ -1291,7 +1278,7 @@ Claim: Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as on
 
 Anchored Artifacts: A-1843.1
 Mentions: N-1, N-579
-Related Nodes: N-10538
+Related Nodes: N-10493
 Investigative Direction: Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).
 
 ---
@@ -1304,7 +1291,7 @@ Claim: The host says Turning Point Action tweeted that Thomas Massie was a "rhin
 
 Anchored Artifacts: A-1844.1
 Mentions: N-579
-Related Nodes: N-10538
+Related Nodes: N-10493
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 
 ---
@@ -1317,7 +1304,7 @@ Claim: Per the displayed X community note, the Massie tweet from Turning Point A
 
 Anchored Artifacts: A-1844.2
 Mentions: N-579, N-1
-Related Nodes: N-10538
+Related Nodes: N-10493
 Investigative Direction: Preserve community note metadata; identify raters and any subsequent updates to the note.
 
 ---
@@ -1330,7 +1317,7 @@ Claim: The host says Massie's reply shows a tweet of Charlie Kirk calling Massie
 
 Anchored Artifacts: A-1843.1, A-1845.1
 Mentions: N-1, N-579
-Related Nodes: N-10538
+Related Nodes: N-10493
 Investigative Direction: Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.
 
 ---
@@ -1343,7 +1330,7 @@ Claim: Per the displayed Romanian investigative article, Renee Crossman is ident
 
 Anchored Artifacts: A-1839.1
 Mentions: N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.
 
 ---
@@ -1356,7 +1343,7 @@ Claim: Per the displayed 2017 article, Erika Kirk's partnership for the benefit 
 
 Anchored Artifacts: A-1838.1
 Mentions: N-2, N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.
 
 ---
@@ -1369,7 +1356,7 @@ Claim: Per the displayed video, an individual the host identifies as "Dan" is ob
 
 Anchored Artifacts: A-1842.2
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Investigative Direction: Identify the individual referred to as "Dan" via displayed video and corroborate identity with official event staff rosters.
 
 ---
@@ -1382,7 +1369,7 @@ Claim: The host says Baron Coleman is working on examining why "they" told the s
 
 Anchored Artifacts: A-1841.1, A-1841.2
 Mentions: N-266, N-330
-Related Nodes: N-10536
+Related Nodes: N-10491
 Investigative Direction: Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.
 
 ---
@@ -1395,7 +1382,7 @@ Claim: Per the displayed Massie reply tweet, Massie directly asked Turning Point
 
 Anchored Artifacts: A-1845.1
 Mentions: N-579
-Related Nodes: N-10538
+Related Nodes: N-10493
 Investigative Direction: Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.
 
 ---
@@ -1408,7 +1395,7 @@ Claim: The host says Renee Crossman defends the cult, which, according to the in
 
 Anchored Artifacts: A-1839.1
 Mentions: N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Investigative Direction: Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.
 
 ---
@@ -1438,7 +1425,7 @@ Transcript Snippet: Erika Frantzve was, as we were told, the point person to the
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10532, N-10519
+Related Nodes: N-10478
 Supports: C-6857, C-6860
 Tags: relevance:core
 Investigative Direction: Identify the sources and obtain their statements; match the white building to property-management records for Next Model Management apartments.
@@ -1455,7 +1442,7 @@ Transcript Snippet: A building that was owned by Mark Epstein, Jeffrey Epstein's
 
 Anchored Artifacts: 
 Mentions: N-581, N-9
-Related Nodes: N-10531, N-10532
+Related Nodes: N-10487, N-10478
 Tags: relevance:core
 Investigative Direction: Pull New York City property records (ACRIS) for the building viewers identified and its ownership chain; confirm the street address and whether it is 301 East 66th Street.
 
@@ -1471,7 +1458,7 @@ Transcript Snippet: the underage girls that he trafficked more than a dozen also
 
 Anchored Artifacts: A-1835.1
 Mentions: N-9
-Related Nodes: N-10531
+Related Nodes: N-10487
 Tags: relevance:context
 Investigative Direction: Obtain the cited civil complaints and sworn testimony and check which guests and dignitaries are actually named.
 
@@ -1487,7 +1474,7 @@ Transcript Snippet: It was relatively small and there was Danone yogurt in the f
 
 Anchored Artifacts: A-1835.1
 Mentions: N-9
-Related Nodes: N-10531
+Related Nodes: N-10487
 Tags: relevance:context
 Investigative Direction: Locate the 2022 account quoted in the article and confirm the building and the distances described.
 
@@ -1503,7 +1490,7 @@ Transcript Snippet: And civil filings allege the condos were used to house young
 
 Anchored Artifacts: A-1835.1
 Mentions: N-9
-Related Nodes: N-10531
+Related Nodes: N-10487
 Tags: relevance:context
 Investigative Direction: Identify the civil filings the article cites and read the allegations about the condos.
 
@@ -1519,7 +1506,7 @@ Transcript Snippet: remember the Corcoran president, according to Jeffrey Epstei
 
 Anchored Artifacts: A-1835.1
 Mentions: N-9, N-520
-Related Nodes: N-10523
+Related Nodes: N-10480
 Supports: C-6470
 Tags: relevance:context
 Investigative Direction: Check the Epstein document cited and compare with Corcoran Group's published leadership records.
@@ -1536,7 +1523,7 @@ Transcript Snippet: Jared Kushner's Israeli business friends who sold Ivanka and
 
 Anchored Artifacts: 
 Mentions: N-178, N-659, N-584, N-585, N-586
-Related Nodes: N-11343
+Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Check Miami-Dade property records for the Kushner purchase and any Alexander brothers role as broker or seller.
 
@@ -1552,7 +1539,7 @@ Transcript Snippet: Remember, Kash Patel said there was no evidence of trafficki
 
 Anchored Artifacts: 
 Mentions: N-69, N-584, N-585, N-586
-Related Nodes: N-10324, N-11343
+Related Nodes: N-10303, N-11259
 Tags: relevance:context
 Investigative Direction: Find Patel's statement on trafficking evidence and check the released files for any Alexander entries.
 
@@ -1568,7 +1555,7 @@ Transcript Snippet: They certainly visited the White House multiple times. They 
 
 Anchored Artifacts: 
 Mentions: N-584, N-585, N-586
-Related Nodes: N-11343
+Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Request White House visitor logs and Hanukkah reception guest lists covering the Alexander brothers.
 
@@ -1584,7 +1571,7 @@ Transcript Snippet: I'm wondering if it's because of that that they had their la
 
 Anchored Artifacts: 
 Mentions: N-584, N-585, N-586
-Related Nodes: N-10324, N-11343
+Related Nodes: N-10303, N-11259
 Tags: relevance:context
 Investigative Direction: Compare the redacted and unredacted Epstein file releases for Alexander entries and the stated redaction rationale.
 
@@ -1600,7 +1587,7 @@ Transcript Snippet: the redactions didn't matter in the end thanks to the crusad
 
 Anchored Artifacts: 
 Mentions: N-579, N-5
-Related Nodes: N-10916, N-10538
+Related Nodes: N-10837, N-10493
 Tags: relevance:context
 Investigative Direction: Document Trump's public statements on a Massie primary challenger and the outside spending recorded against him.
 
@@ -1616,7 +1603,7 @@ Transcript Snippet: Uh the brothers were revealed because of him and they were, 
 
 Anchored Artifacts: 
 Mentions: N-579, N-584, N-585, N-586
-Related Nodes: N-11343
+Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Trace how the Alexander names entered the public record after the Epstein file release and Massie's role in it.
 
@@ -1632,7 +1619,7 @@ Transcript Snippet: All three brothers were arrested in December of 2024. During
 
 Anchored Artifacts: A-1836.1
 Mentions: N-584, N-585, N-586
-Related Nodes: N-11343
+Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Pull the Southern District of New York docket and trial coverage for arrest dates and witness count.
 
@@ -1648,7 +1635,7 @@ Transcript Snippet: including in Florida, where Alon and Oren are charged with r
 
 Anchored Artifacts: A-1836.1
 Mentions: N-584, N-586
-Related Nodes: N-11343
+Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Check the Florida state court docket for the pending charges and pleas.
 
@@ -1694,7 +1681,7 @@ Transcript Snippet: protect rapists, Israeli rapists, and sex traffickers becaus
 
 Anchored Artifacts: 
 Mentions: N-584, N-585, N-586
-Related Nodes: N-11343
+Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Request any donation records tying the Alexander brothers to IDF-linked charities and the redaction decision records.
 
@@ -1710,7 +1697,7 @@ Transcript Snippet: that mysterious meeting that Andrew Kolvet and other Turning
 
 Anchored Artifacts: 
 Mentions: N-14
-Related Nodes: N-10522, N-10324
+Related Nodes: N-10479, N-10303
 Supports: C-6833, C-6825
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs for the day before the Epstein file release showing Kolvet and other TPUSA attendees.
@@ -1727,7 +1714,7 @@ Transcript Snippet: Little hush-hush meeting that Mr. 33 Patel wanted to help An
 
 Anchored Artifacts: 
 Mentions: N-69, N-14, N-1
-Related Nodes: N-10522
+Related Nodes: N-10479
 Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Obtain the episode's air time and metadata and communications between Patel's office and TPUSA about the show.
@@ -1744,7 +1731,7 @@ Transcript Snippet: I'm calling in. I never do this. Haha. Meanwhile, you're tog
 
 Anchored Artifacts: 
 Mentions: N-69, N-14
-Related Nodes: N-10522
+Related Nodes: N-10479
 Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Compare the live show audio and call-in metadata with the participants' physical locations that day.
@@ -1761,7 +1748,7 @@ Transcript Snippet: And now it seems they're taking it a step further trying to 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10533
+Related Nodes: N-10488
 Tags: relevance:context
 Investigative Direction: Look for TPUSA announcements, filings or press about an Irish chapter and the national Club America rollout.
 
@@ -1777,7 +1764,7 @@ Transcript Snippet: The Black Sea rotational force base got moved to Norway in 2
 
 Anchored Artifacts: A-3220.1
 Mentions: N-2, N-582
-Related Nodes: N-11165
+Related Nodes: N-11081
 Supports: C-6848
 Tags: relevance:context
 Investigative Direction: Identify the source and date of the interview and check the Black Sea Rotational Force relocation date.
@@ -1794,7 +1781,7 @@ Transcript Snippet: our contact who was at the base in Constanța is no longer t
 
 Anchored Artifacts: A-3220.1
 Mentions: N-2, N-582
-Related Nodes: N-11165, N-10534
+Related Nodes: N-11081, N-10489
 Qualifies: C-6997
 Tags: relevance:context
 Investigative Direction: Obtain the full interview audio and transcript to settle who 'the people who are there' refers to and whether children are discussed.
@@ -1811,7 +1798,7 @@ Transcript Snippet: She's been involved with this orphanage for over a decade. T
 
 Anchored Artifacts: 
 Mentions: N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Tags: relevance:context
 Investigative Direction: Check United Hands Romania registration, annual reports and press for Crossman's start date and role.
 
@@ -1827,7 +1814,7 @@ Transcript Snippet: It was founded by evangelist David Berg, born in California 
 
 Anchored Artifacts: A-1839.1
 Mentions: N-583
-Related Nodes: N-10534
+Related Nodes: N-10489
 Tags: relevance:context
 Investigative Direction: Compare against standard histories of Children of God and Berg's biography.
 
@@ -1843,7 +1830,7 @@ Transcript Snippet: Berg claimed that he maintained relationships with the entir
 
 Anchored Artifacts: A-1839.1
 Mentions: N-583
-Related Nodes: N-10534
+Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Locate the original Romanian article and Berg's own writings on the claimed relationships.
 
@@ -1859,7 +1846,7 @@ Transcript Snippet: In 1976, David Berg introduced flirty fishing, which encoura
 
 Anchored Artifacts: A-1840.1
 Mentions: N-583, N-46
-Related Nodes: N-10534
+Related Nodes: N-10489
 Tags: relevance:context
 Investigative Direction: Locate the 2018 Megyn Kelly segment and check the flirty fishing date against historical sources.
 
@@ -1875,7 +1862,7 @@ Transcript Snippet: Renee Crossman, Erika's partner on Romanian Angels, who the 
 
 Anchored Artifacts: 
 Mentions: N-582, N-2
-Related Nodes: N-10534, N-11165
+Related Nodes: N-10489, N-11081
 Tags: relevance:context
 Investigative Direction: Find Crossman's own statements about cult membership and confirm no public accusation of misconduct exists.
 
@@ -1891,7 +1878,7 @@ Transcript Snippet: No, the US Marines that she partnered with were going to be 
 
 Anchored Artifacts: 
 Mentions: N-582
-Related Nodes: N-11165
+Related Nodes: N-11081
 Supports: C-6843
 Tags: relevance:context
 Investigative Direction: Identify the accusation, the unit and the base involved, and any charging or investigative record.
@@ -1908,7 +1895,7 @@ Transcript Snippet: she says you she defends the cult, cult which was subsequent
 
 Anchored Artifacts: A-1839.1
 Mentions: N-582
-Related Nodes: N-10534
+Related Nodes: N-10489
 Tags: relevance:context
 Investigative Direction: Find public statements by Crossman defending the group and the article passage on dispersal into nonprofits.
 
@@ -1983,7 +1970,7 @@ Claim: The host says the Turning Point side told a story about how they had so m
 Transcript Snippet: they had told us the story about how they had so much gauze, and so much and all this stuff.
 
 Anchored Artifacts: A-1841.2
-Related Nodes: N-10536
+Related Nodes: N-10491
 Tags: relevance:core
 Investigative Direction: Find the TPUSA or witness account of the gauze and supplies used in the transport vehicle.
 
@@ -1998,7 +1985,7 @@ Claim: The host says an object in a van photo that looks like a UPS ticket is ac
 Transcript Snippet: that kind of looks like a UPS ticket. Um like a UPS, yeah, I guess you could say a UPS package ticket. What that is is actually Instaclot.
 
 Anchored Artifacts: A-1841.3
-Related Nodes: N-10536
+Related Nodes: N-10491
 Tags: relevance:core
 Investigative Direction: Have the photo compared against Instaclot packaging and obtain the original image with metadata.
 
@@ -2013,7 +2000,7 @@ Claim: The host says there is only one Instaclot package visible on the floor, w
 Transcript Snippet: So, unless he opened one, and then put the rest of the packaging in his bag, which would be unusual, there's only one on the floor there that we could see.
 
 Anchored Artifacts: A-1841.3
-Related Nodes: N-10536
+Related Nodes: N-10491
 Tags: relevance:core
 Investigative Direction: Obtain all vehicle interior photos and the inventory of medical supplies used on September 10.
 
@@ -2029,7 +2016,7 @@ Transcript Snippet: just excuse after excuse, and I didn't understand why there 
 
 Anchored Artifacts: 
 Mentions: N-261
-Related Nodes: N-10346, N-10812
+Related Nodes: N-10324, N-10736
 Supports: C-4567
 Tags: relevance:core
 Investigative Direction: Obtain the call record or the host's notes of the call and Farnsworth's own account of file handling.
@@ -2046,7 +2033,7 @@ Transcript Snippet: Now, I've learned about his dad, and uh his his uncles, and 
 
 Anchored Artifacts: 
 Mentions: N-261, N-489
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Identify the relationship and any business records linking the Farnsworth family and Lori Frantzve from 2013.
 
@@ -2062,7 +2049,7 @@ Transcript Snippet: And by the way, I think at some point they said they didn't 
 
 Anchored Artifacts: 
 Mentions: N-261
-Related Nodes: N-10812, N-11211
+Related Nodes: N-10736, N-11127
 Tags: relevance:core
 Investigative Direction: Find the TPUSA statement that it lacked the footage and compare with Farnsworth's account of what he held and shared.
 
@@ -2078,7 +2065,7 @@ Transcript Snippet: didn't even cause any sort of a mess. His perfectly white T-
 
 Anchored Artifacts: A-1842.4
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Tags: relevance:core
 Investigative Direction: Obtain the unedited footage and have a forensic video analyst examine the shirt frame by frame.
 
@@ -2094,7 +2081,7 @@ Transcript Snippet: the bullet didn't go through. Not only did not go through, d
 
 Anchored Artifacts: A-1842.4
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Tags: relevance:core
 Investigative Direction: Compare with the autopsy report and any official statement on entry and exit wounds.
 
@@ -2110,7 +2097,7 @@ Transcript Snippet: Frank tells the story about how he came out to get his backp
 
 Anchored Artifacts: 
 Mentions: N-7, N-1
-Related Nodes: N-10537
+Related Nodes: N-10492
 Supports: C-4213
 Tags: relevance:core
 Investigative Direction: Locate Frank Turek's original telling and compare it with the earlier necklace account.
@@ -2127,7 +2114,7 @@ Transcript Snippet: And the feds said, "We were looking for that necklace." Real
 
 Anchored Artifacts: 
 Mentions: N-7, N-1
-Related Nodes: N-10537
+Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Request FBI evidence logs for the vehicle search and any item list that includes the necklace.
 
@@ -2143,7 +2130,7 @@ Transcript Snippet: Erika, of course, has told several stories about the necklac
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10537
+Related Nodes: N-10492
 Supports: C-5407
 Tags: relevance:core
 Investigative Direction: Collect each public Erika account of the necklace and its return and compare them.
@@ -2160,7 +2147,7 @@ Transcript Snippet: everything you saw was blood that came because an artery got
 
 Anchored Artifacts: A-1842.2
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Supports: C-7031
 Tags: relevance:core
 Investigative Direction: Ask a forensic pathologist to review the footage and the autopsy for the direction of blood travel.
@@ -2177,7 +2164,7 @@ Transcript Snippet: Jon Bray explained to me that uh the magnet clasp would have
 
 Anchored Artifacts: A-1842.4
 Mentions: N-681
-Related Nodes: N-10987, N-10537
+Related Nodes: N-10907, N-10492
 Tags: relevance:core
 Investigative Direction: Obtain Bray's written analysis of the clasp and what was attached behind it.
 
@@ -2193,7 +2180,7 @@ Transcript Snippet: the Rode microphone is what was shattered in the back seat o
 
 Anchored Artifacts: A-1841.1
 Mentions: N-681
-Related Nodes: N-10705, N-10987
+Related Nodes: N-10641, N-10907
 Tags: relevance:core
 Investigative Direction: Compare the van interior photos with the Rode microphone model and identify the glass fragments.
 
@@ -2209,7 +2196,7 @@ Transcript Snippet: Only, as you can see, on his hand, because blood went forwar
 
 Anchored Artifacts: A-1842.2
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Tags: relevance:core
 Investigative Direction: Have analysts enhance the footage for any blood on the table, clothing or microphone.
 
@@ -2225,7 +2212,7 @@ Transcript Snippet: There's a book. It looks like maybe Charlie had a notebook.
 
 Anchored Artifacts: A-1842.3
 Mentions: N-1
-Related Nodes: N-10535
+Related Nodes: N-10490
 Tags: relevance:context
 Investigative Direction: Examine the table contents in the footage against event photos of Charlie's table.
 
@@ -2240,7 +2227,7 @@ Claim: The host says occult worship comes up under different names, including Fr
 Transcript Snippet: It's Frankism. It's a Sabbatianism. It's child of God. Uh but really, what is manifesting is the same ideology sort of redressing itself as something else.
 
 Anchored Artifacts: 
-Related Nodes: N-11192
+Related Nodes: N-11108
 Tags: relevance:tangential
 Investigative Direction: Ask for scholarly sources equating these movements and for any case link to the Kirk investigation.
 
@@ -2256,7 +2243,7 @@ Transcript Snippet: Turning Point Action which is run by Tyler Bowyer and which 
 
 Anchored Artifacts: 
 Mentions: N-11, N-2, N-489
-Related Nodes: N-10922
+Related Nodes: N-10843
 Tags: relevance:core
 Investigative Direction: Pull Turning Point Action FEC disbursements to Superfeed and Superfeed's ownership records.
 
@@ -2287,7 +2274,7 @@ Transcript Snippet: And they're shouting out Thomas Massie as being a rhino beca
 
 Anchored Artifacts: A-1844.1
 Mentions: N-579
-Related Nodes: N-10538
+Related Nodes: N-10493
 Tags: relevance:context
 Investigative Direction: Compare Massie's votes on Ukraine and Israel funding with Turning Point Action's stated reasons.
 
@@ -2333,7 +2320,7 @@ Transcript Snippet: students all over the country are revolting in protest of Tu
 
 Anchored Artifacts: A-3221.2
 Mentions: N-2
-Related Nodes: N-10897, N-10533
+Related Nodes: N-10818, N-10488
 Tags: relevance:context
 Investigative Direction: Collect news reports of student protests against Turning Point chapters or visits.
 
@@ -2349,7 +2336,7 @@ Transcript Snippet: I did see they were protesting that in Arkansas. Good. Okay,
 
 Anchored Artifacts: A-3221.2
 Mentions: N-580
-Related Nodes: N-10533
+Related Nodes: N-10488
 Tags: relevance:context
 Investigative Direction: Find local Arkansas coverage or social posts of the protests and the proclamation text.
 
@@ -2393,7 +2380,7 @@ Claim: A comment read by the host reports that four drones were stolen from Fort
 Transcript Snippet: four drones were stolen from Fort Campbell, first reported 20 hours ago.
 
 Anchored Artifacts: A-3221.5
-Related Nodes: N-11342
+Related Nodes: N-11258
 Tags: relevance:tangential
 Investigative Direction: Search Army and local news for the Fort Campbell drone theft report and its date.
 
@@ -2408,7 +2395,7 @@ Claim: The host says the four drones were not stolen from a military base but we
 Transcript Snippet: The four drones were not stolen from a military base. They were given um, to someone from somebody on the military base and it's probably Israel.
 
 Anchored Artifacts: A-3221.5
-Related Nodes: N-11342
+Related Nodes: N-11258
 Tags: relevance:tangential
 Investigative Direction: Wait for any Army CID or base statement on the theft and recovery; no evidence is offered for the host's guess.
 
@@ -2424,7 +2411,7 @@ Transcript Snippet: I am on Ben's side when it comes to Jeremy Boreing. They don
 
 Anchored Artifacts: 
 Mentions: N-366, N-97
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:tangential
 Investigative Direction: Look for reporting or statements on a rift between Shapiro and Boreing.
 
@@ -2440,7 +2427,7 @@ Transcript Snippet: I mean just the other day he did like five interviews about 
 
 Anchored Artifacts: 
 Mentions: N-366, N-3
-Related Nodes: N-10385
+Related Nodes: N-10358
 Tags: relevance:tangential
 Investigative Direction: Collect Boreing's recent interviews and his X reply for dates and wording.
 
@@ -2516,7 +2503,7 @@ Transcript Snippet: Jon Bray who's looking into the microphone theory and why th
 
 Anchored Artifacts: 
 Mentions: N-681
-Related Nodes: N-10986, N-10768
+Related Nodes: N-10906, N-10697
 Tags: relevance:core
 Investigative Direction: Obtain Bray's published work on the explosion and the microphone theory.
 
@@ -2532,7 +2519,7 @@ Transcript Snippet: you should probably look into uh, Nelda Buckman's family. I'
 
 Anchored Artifacts: 
 Mentions: N-460, N-681, N-2
-Related Nodes: N-10421
+Related Nodes: N-10394
 Supports: C-5184, C-5186
 Tags: relevance:context
 Investigative Direction: Check the Buckman family's donations to TPUSA and to Erika Kirk and the charities Buckman chairs or funds.
@@ -2549,7 +2536,7 @@ Transcript Snippet: I saw her give an interview where she said that it was becau
 
 Anchored Artifacts: 
 Mentions: N-460
-Related Nodes: N-10421
+Related Nodes: N-10394
 Tags: relevance:tangential
 Investigative Direction: Locate the interview in which Buckman describes her motivation.
 
@@ -2565,7 +2552,7 @@ Transcript Snippet: the Buckman family with factories, not that specific one tha
 
 Anchored Artifacts: 
 Mentions: N-460
-Related Nodes: N-10986
+Related Nodes: N-10906
 Tags: relevance:context
 Investigative Direction: Check Tennessee business records for Buckman family industrial sites and their locations relative to the explosion site.
 
@@ -2596,7 +2583,7 @@ Transcript Snippet: we want to hear directly from the models. Um, more tips at c
 
 Anchored Artifacts: A-3222.2
 Mentions: N-3, N-2
-Related Nodes: N-10532, N-10519
+Related Nodes: N-10478
 Tags: relevance:core, dia
 Investigative Direction: Check whether any model or employee responses are aired in later episodes and whether they corroborate the property-management claim.
 
@@ -2627,7 +2614,7 @@ Transcript Snippet: Another sitting president is suing a podcaster for speaking 
 
 Anchored Artifacts: 
 Mentions: N-377, N-3
-Related Nodes: N-10270
+Related Nodes: N-10254
 Supports: C-3311
 Tags: relevance:context
 Investigative Direction: Check the Delaware Macron v. Owens docket for the plaintiffs and the claims pleaded.
@@ -2644,7 +2631,7 @@ Transcript Snippet: France, by the way, I have told you guys this repeatedly, wa
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10316, N-10290
+Related Nodes: N-10297, N-10272
 Supports: C-4266
 Tags: relevance:core
 Investigative Direction: Request any White House or State Department statement on French personnel in the United States on September 10, 2025.

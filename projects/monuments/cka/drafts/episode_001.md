@@ -14,9 +14,9 @@
 - **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-929, N-11364, N-11365
+  - Tip-minted Nodes (supplement_2026-10g): N-929, N-11280, N-11281
   - Hole-minted Nodes (reintro-ep001): N-82, N-10026
-  - Tip-minted Nodes (reintro-ep001): N-11322
+  - Tip-minted Nodes (reintro-ep001): N-11238
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1–C-56
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
@@ -406,7 +406,7 @@ The host says she and Charlie travelled there, and that her position on Israel d
 
 ---
 
-**N-11322** Blexit
+**N-11238** Blexit
 
 The movement the host says she started with Charlie by her side.
 
@@ -422,7 +422,7 @@ Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 
 
 ---
 
-**N-11364** TPUSA Staff Departures Over Me Too Controversy
+**N-11280** TPUSA Staff Departures Over Me Too Controversy
 
 Node Type: Topic
 The host says young women at Turning Point threatened to quit, and some quit, over her 2018 Me Too comments.
@@ -431,7 +431,7 @@ The host says young women at Turning Point threatened to quit, and some quit, ov
 
 ---
 
-**N-11365** Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk
+**N-11281** Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk
 
 Node Type: Topic
 The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her.
@@ -974,7 +974,7 @@ Transcript Snippet: We're talking about rape. And I remember he had young women 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-11364
+Related Nodes: N-10000, N-11280
 Tags: relevance:context
 Investigative Direction: TPUSA staff from 2018 could confirm the reaction in the office.
 
@@ -990,7 +990,7 @@ Transcript Snippet: How could she not support me too women who young women who d
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-11364
+Related Nodes: N-10000, N-11280
 Tags: relevance:context
 Investigative Direction: Departures from TPUSA in 2018 would identify the staff who quit and their stated reasons.
 
@@ -1071,7 +1071,7 @@ Transcript Snippet: Charlie was right by my side when I started Blexit obviously
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11322
+Related Nodes: N-11238
 Tags: relevance:context
 Investigative Direction: Blexit launch coverage from 2018 would show whether and how Charlie Kirk appeared.
 
@@ -1180,7 +1180,7 @@ Transcript Snippet: Of course, people guessed it correctly when they said, "Oh, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5, N-82
-Related Nodes: N-11365
+Related Nodes: N-11281
 Tags: relevance:context
 Investigative Direction: The host's phone logs and messages with Charlie around the Trump call would date it; Trump-side accounts would confirm or refute the call.
 
@@ -1196,7 +1196,7 @@ Transcript Snippet: They would never send anybody else to call me with anything 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11365
+Related Nodes: N-11281
 Tags: relevance:context
 Investigative Direction: Her call records and the identities of those who used Charlie as a channel would test the claim.
 

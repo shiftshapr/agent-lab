@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq162
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-948, N-949, N-950, N-11412, N-11413, N-11414, N-11415, N-11416, N-11417, N-11418
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-8, N-11, N-14, N-17, N-30, N-40, N-46, N-60, N-97, N-130, N-159, N-223, N-224, N-259, N-266, N-270, N-271, N-351, N-352, N-614, N-709, N-750, N-10000, N-10012, N-10340, N-10356, N-10681, N-10839, N-10862, N-10864, N-10880, N-10881, N-10882, N-10883, N-10886, N-10887, N-10889, N-10891, N-10899, N-11087, N-11091, N-11215, N-11359
+  - Tip-minted Nodes (catchup-2026-10-19): N-948, N-949, N-950, N-11328, N-11329, N-11330, N-11331, N-11332, N-11333, N-11334
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-8, N-11, N-14, N-17, N-30, N-40, N-46, N-60, N-97, N-130, N-159, N-223, N-224, N-259, N-266, N-270, N-271, N-351, N-352, N-614, N-709, N-750, N-10000, N-10012, N-10318, N-10256, N-10619, N-10762, N-10783, N-10785, N-10801, N-10802, N-10803, N-10804, N-10807, N-10808, N-10810, N-10812, N-10820, N-11005, N-11009, N-11131, N-11275
   - Claim Range: C-13967–C-14055
   - (see registers)
 
@@ -43,7 +43,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13968, C-13969, C-13970, C-13971, N-1, N-2, N-3, N-159, N-11412*
+*Related: C-13968, C-13969, C-13970, C-13971, N-1, N-2, N-3, N-159, N-11328*
 
 **A-3359.2** Continuation of the X space audio in which another participant says Neff meant "marrying"
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:04:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13972, C-13973, N-1, N-2, N-159, N-11412*
+*Related: C-13972, C-13973, N-1, N-2, N-159, N-11328*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:06:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13977, N-11091, N-11412*
+*Related: C-13977, N-11009, N-11328*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13986, C-13987, N-10880, N-11413*
+*Related: C-13986, C-13987, N-10801, N-11329*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:16:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13993, C-13994, N-10880, N-351, N-11414*
+*Related: C-13993, C-13994, N-10801, N-351, N-11330*
 
 **A-3363.3** Image of the house at the registered agent's address
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:16:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13995, N-11414, N-11415*
+*Related: C-13995, N-11330, N-11331*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:19:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14002, C-14003, C-14004, N-949, N-950, N-11415*
+*Related: C-14002, C-14003, C-14004, N-949, N-950, N-11331*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:28:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14013, C-14014, C-14015, N-224, N-266, N-271, N-10356, N-10681*
+*Related: C-14013, C-14014, C-14015, N-224, N-266, N-271, N-10256, N-10619*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:31:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14020, C-14021, N-14, N-271, N-11087*
+*Related: C-14020, C-14021, N-14, N-271, N-11005*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:35:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14029, C-14030, C-14031, N-1, N-8, N-750, N-10839, N-11215*
+*Related: C-14029, C-14030, C-14031, N-1, N-8, N-750, N-10762, N-11131*
 
 **A-3367.2** Independent review passage (page 73, per the host) on Robin Ebmeyer's absence on September 10
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:35:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14032, N-750, N-10839*
+*Related: C-14032, N-750, N-10762*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:40:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14037, C-14038, C-14039, N-130, N-614, N-10899*
+*Related: C-14037, C-14038, C-14039, N-130, N-614, N-10820*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:47:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14050, N-14, N-46, N-11412*
+*Related: C-14050, N-14, N-46, N-11328*
 
 **A-3370.2** Viewer comment (Zammit) on a "grieving widow" trademark
 
@@ -279,7 +279,7 @@ Video Timestamp: 00:45:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14045, N-10880, N-351*
+*Related: C-14045, N-10801, N-351*
 
 ---
 
@@ -471,168 +471,168 @@ Site of the resignations the host reports.
 
 *Related: C-14010, C-14027, C-14034*
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Host says the official account is that Erika did not know about threats the night before.
 
 *Related: C-14018*
 
-**N-10356** Brian Harpole Dan Flood Text Misattribution
+**N-10256** Harpole–Flood Text Attribution Discrepancy
 
 Host says Harpole presented the Flood text as his own.
 
 *Related: C-14012, C-14016, C-14017, A-3365.1*
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Harpole's Shawn Ryan clip replayed in this episode.
 
 *Related: C-14013, C-14014, C-14015, A-3365.1*
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 Review the host cites on Harpole, Crofts and Ebmeyer.
 
 *Related: C-14011, C-14016, C-14025, C-14029, C-14030, C-14031, C-14032, A-3367.2, A-3367.1*
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Host says the review confirmed Harpole misrepresented things.
 
 *Related: C-14016*
 
-**N-10880** Monster Lab / Clippet
+**N-10801** Monster Lab / Clippet
 
 Clipping site the host says is now blocked in the U.S.; Clip It LLC is its Wyoming filing per the host.
 
 *Related: C-13967, C-13986, C-13987, C-13989, C-13993, C-14007, C-14008, C-14044, C-14045, A-3362.1, A-3363.2, A-3371.1*
 
-**N-10881** Elephant Clipping Campaign
+**N-10802** Elephant Clipping Campaign
 
 Campaign the host says became a go-to for Shapiro and Crowder.
 
 *Related: C-13980, C-14009, C-14046*
 
-**N-10882** Enclave and Key
+**N-10803** Enclave and Key
 
 Blake Wynn's firm; Atlantic reporting on drive deletions recalled.
 
 *Related: C-13979, C-13985*
 
-**N-10883** Anti-Candace Paid Clipping Campaign
+**N-10804** Anti-Candace Paid Clipping Campaign
 
 Host says the operator pays people to harass her; contrasts her own organic clips.
 
 *Related: C-13967, C-14042*
 
-**N-10886** Latvia
+**N-10807** Latvia
 
 Operator's home country per the host.
 
 *Related: C-13967, C-13988, C-13990*
 
-**N-10887** Las Vegas
+**N-10808** Las Vegas
 
 Location of Wynn's firm and the TPUSA office the host recalls.
 
 *Related: C-13979, C-14048*
 
-**N-10889** Atlantic Elephant Clipping Expose
+**N-10810** Atlantic Elephant Clipping Expose
 
 Atlantic article the host cites on drive deletions and the September 15 start.
 
 *Related: C-13985, C-14046*
 
-**N-10891** Erika Kirk September 15 2025 Google Drive Clip Seed
+**N-10812** Erika Kirk September 15 2025 Google Drive Clip Seed
 
 Host says per the Atlantic the campaign began September 15.
 
 *Related: C-13981, C-14008, C-14046, C-14047*
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Gary Melton's account in the Ian Carroll exchange.
 
 *Related: C-14037, C-14038, C-14039, A-3369.1*
 
-**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
+**N-10785** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 Host cites it as saying the sun revolved around Charlie at TPUSA.
 
 *Related: C-14040*
 
-**N-11087** TPUSA Notice of Intent to Sue UVU
+**N-11005** TPUSA Notice of Intent to Sue UVU
 
 Host says Kolvet blamed Long after the Kirk family filed intent to sue.
 
 *Related: C-14020, A-3366.1*
 
-**N-11091** Wear Forbidden
+**N-11009** Wear Forbidden
 
 Account whose parody video the host plays.
 
 *Related: C-13977, A-3360.1*
 
-**N-11215** UVU Security Team Conduct and Ticket-Count Communication
+**N-11131** UVU Security Team Conduct and Ticket-Count Communication
 
 Host says TPUSA controlled tickets and told Long 600 people.
 
 *Related: C-14024, C-14030, A-3367.1*
 
-**N-11359** Chabad Lubavitch
+**N-11275** Chabad Lubavitch
 
 Host ties Kolomoisky to Chabad-Lubavitch.
 
 *Related: C-14005*
 
-**N-11412** Blake Neff "Murdering Charlie" Slip
+**N-11328** Blake Neff "Murdering Charlie" Slip
 
 Node Type: Topic
 Blake Neff's X space remark that the host would "hate Erika for murdering Charlie", which another participant said meant "marrying"; framed by the host as a Freudian slip alongside Kolvet's "processing their guilt".
 
 *Related: C-13970, C-13972, C-13973, C-13976, C-13977, C-14050, A-3359.2, A-3359.1, A-3360.1, A-3370.1, N-159*
 
-**N-11413** Monster Lab U.S. Access Block
+**N-11329** Monster Lab U.S. Access Block
 
 Node Type: Topic
 The host's report that the Monster Lab site shows "Not available in your region" from the United States after her prior episode, while remaining visible via VPN from Latvia and other countries.
 
-*Related: C-13986, C-13987, C-14043, A-3362.1, N-10880*
+*Related: C-13986, C-13987, C-14043, A-3362.1, N-10801*
 
-**N-11414** Clip It LLC Wyoming Filing and Registered Agent
+**N-11330** Clip It LLC Wyoming Filing and Registered Agent
 
 Node Type: Topic
 The Clip It LLC Wyoming filing (May 28, 2025 per the host), connected by the host to Matiss Tabuns, and its registered agent address, which the host says belongs to an agent running nearly 3,000 businesses.
 
 *Related: C-13993, C-13994, C-13995, C-13996, C-14001, A-3363.2, A-3363.3, N-351, N-949*
 
-**N-11415** Pandora Papers
+**N-11331** Pandora Papers
 
 Node Type: Topic
 The 2021 ICIJ leak of about 12 million offshore financial records; the host links the Clip It LLC registered agent to Pandora Papers reporting on Wyoming registered agents.
 
-*Related: C-13995, C-13996, C-13997, C-13998, C-13999, C-14000, C-14001, C-14002, C-14003, C-14004, A-3363.3, A-3364.1, N-11416*
+*Related: C-13995, C-13996, C-13997, C-13998, C-13999, C-14000, C-14001, C-14002, C-14003, C-14004, A-3363.3, A-3364.1, N-11332*
 
-**N-11416** International Consortium of Investigative Journalists
+**N-11332** International Consortium of Investigative Journalists
 
 Node Type: Organization
 Journalism consortium the host says obtained the Pandora Papers records and estimated offshore holdings.
 
-*Related: C-13998, C-13999, C-14000, N-11415*
+*Related: C-13998, C-13999, C-14000, N-11331*
 
-**N-11417** UVU Post-Review Resignations
+**N-11333** UVU Post-Review Resignations
 
 Node Type: Topic
 The host's reports, from UVU sources, that Police Chief Jeff Long has resigned and that emergency management director Robin Ebmeyer is resigning or has resigned after the independent review, with circumstances unknown.
 
 *Related: C-14010, C-14023, C-14027, C-14033, C-14034, N-271, N-750*
 
-**N-11418** TPUSA Las Vegas Office Opening
+**N-11334** TPUSA Las Vegas Office Opening
 
 Node Type: Topic
 The host's recollection that TPUSA, with Erika Kirk, opened an office in Las Vegas, possibly in March.
 
-*Related: C-14048, N-10887*
+*Related: C-14048, N-10808*
 
 ---
 
@@ -648,7 +648,7 @@ Transcript Snippet: I think it might be because this Latvian nerd pays people to
 
 Anchored Artifacts:
 Mentions: N-3, N-159
-Related Nodes: N-10880, N-10883, N-10886
+Related Nodes: N-10801, N-10804, N-10807
 Tags: relevance:context
 Investigative Direction: Monster Lab campaign listings and payout records naming the host as a target.
 
@@ -696,7 +696,7 @@ Transcript Snippet: So, of course she's going to hate Erika for murdering Charli
 
 Anchored Artifacts: A-3359.1
 Mentions: N-159, N-2, N-1
-Related Nodes: N-11412
+Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: Full X Space recording to confirm the exact wording.
 
@@ -728,7 +728,7 @@ Transcript Snippet: Blake just accidentally said that uh uh Candace hated Erika 
 
 Anchored Artifacts: A-3359.2
 Mentions: N-159, N-2, N-1
-Related Nodes: N-11412
+Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: Identify the X Space participant who raised the slip; full recording.
 
@@ -744,7 +744,7 @@ Transcript Snippet: pretty sure I said I'm pretty sure I said marrying Charlie.
 
 Anchored Artifacts: A-3359.2
 Mentions: N-159
-Related Nodes: N-11412
+Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: Compare the recorded word in the X Space audio with Neff's recollection.
 
@@ -792,7 +792,7 @@ Transcript Snippet: I think actually it was Andrew Kolvet who said very early on
 
 Anchored Artifacts:
 Mentions: N-14, N-46
-Related Nodes: N-11412
+Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: The Megyn Kelly Show episode with Kolvet in September 2025.
 
@@ -808,7 +808,7 @@ Transcript Snippet: The amazing Wear Forbidden account already has a video out d
 
 Anchored Artifacts: A-3360.1
 Mentions:
-Related Nodes: N-11091, N-11412
+Related Nodes: N-11009, N-11328
 Tags: relevance:tangential
 Investigative Direction: Wear Forbidden post and its date.
 
@@ -840,7 +840,7 @@ Transcript Snippet: the files for clipping Erika Kirk and Turning Point USA were
 
 Anchored Artifacts:
 Mentions: N-2, N-352
-Related Nodes: N-10882, N-10887, N-10000
+Related Nodes: N-10803, N-10808, N-10000
 Supports: C-13931
 Tags: relevance:core
 Investigative Direction: Enclave and Key corporate filings in the U.S. and Romania; Google Drive links in Monster Lab campaigns.
@@ -857,7 +857,7 @@ Transcript Snippet: Who in their right mind would pay a million dollars a month 
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10881, N-10000
+Related Nodes: N-10802, N-10000
 Supports: C-13898
 Tags: relevance:context
 Investigative Direction: Monster Lab campaign budgets and payout records.
@@ -874,7 +874,7 @@ Transcript Snippet: my non-Christian friend is apparently directing his employee
 
 Anchored Artifacts:
 Mentions: N-2, N-352
-Related Nodes: N-10891
+Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: Atlantic reporting and campaign drive timestamps for September 15, 2025.
 
@@ -938,7 +938,7 @@ Transcript Snippet: Uh the Atlantic article informed us that they moved to delet
 
 Anchored Artifacts:
 Mentions: N-352
-Related Nodes: N-10882, N-10889
+Related Nodes: N-10803, N-10810
 Supports: C-13923
 Tags: relevance:context
 Investigative Direction: The Atlantic article text; Google Drive access logs.
@@ -955,7 +955,7 @@ Transcript Snippet: we regret to inform you that if you are in the United States
 
 Anchored Artifacts: A-3362.1
 Mentions:
-Related Nodes: N-10880, N-11413
+Related Nodes: N-10801, N-11329
 Tags: relevance:context
 Investigative Direction: Check the site from U.S. and non-U.S. addresses; geoblock settings and dates.
 
@@ -971,7 +971,7 @@ Transcript Snippet: And we tried it in other countries, and we could see the web
 
 Anchored Artifacts: A-3362.1
 Mentions:
-Related Nodes: N-10880, N-11413
+Related Nodes: N-10801, N-11329
 Tags: relevance:context
 Investigative Direction: Independent access tests from multiple regions.
 
@@ -987,7 +987,7 @@ Transcript Snippet: We told you yesterday his name was Mat Servius. We were wron
 
 Anchored Artifacts:
 Mentions: N-351
-Related Nodes: N-10886
+Related Nodes: N-10807
 Revises: C-13901
 Tags: relevance:context
 Investigative Direction: Atlantic article and Discord handles used by the operator.
@@ -1004,7 +1004,7 @@ Transcript Snippet: His real name, the person running this, is Matiss Tabuns
 
 Anchored Artifacts:
 Mentions: N-351
-Related Nodes: N-10880
+Related Nodes: N-10801
 Tags: relevance:context
 Investigative Direction: Latvian business registry and Clip It LLC records listing an organizer or owner.
 
@@ -1020,7 +1020,7 @@ Transcript Snippet: He's from a small town there known as Talsi, where he allege
 
 Anchored Artifacts:
 Mentions: N-351
-Related Nodes: N-10886
+Related Nodes: N-10807
 Tags: relevance:tangential
 Investigative Direction: Talsi school records; statements from the Latvian sources.
 
@@ -1068,7 +1068,7 @@ Transcript Snippet: Clip It LLC um was filed for on May 28th of 2025.
 
 Anchored Artifacts: A-3363.2
 Mentions: N-351
-Related Nodes: N-10880, N-11414
+Related Nodes: N-10801, N-11330
 Tags: relevance:context
 Investigative Direction: Wyoming Secretary of State filing for Clip It LLC.
 
@@ -1084,7 +1084,7 @@ Transcript Snippet: It was filed for in Wyoming.
 
 Anchored Artifacts: A-3363.2
 Mentions: N-351
-Related Nodes: N-11414
+Related Nodes: N-11330
 Tags: relevance:context
 Investigative Direction: Wyoming Secretary of State business search.
 
@@ -1100,7 +1100,7 @@ Transcript Snippet: a registered agent who's apparently running nearly 3,000 bus
 
 Anchored Artifacts: A-3363.3
 Mentions:
-Related Nodes: N-11414, N-11415
+Related Nodes: N-11330, N-11331
 Tags: relevance:context
 Investigative Direction: Wyoming registry count of entities using that agent and address.
 
@@ -1116,7 +1116,7 @@ Transcript Snippet: We also discovered this is an 82-year-old woman who is actua
 
 Anchored Artifacts:
 Mentions: N-949, N-351
-Related Nodes: N-11414, N-11415
+Related Nodes: N-11330, N-11331
 Tags: relevance:context
 Investigative Direction: Clip It LLC registered agent of record; ICIJ Pandora Papers database.
 
@@ -1132,7 +1132,7 @@ Transcript Snippet: politicians, prime ministers had to resigned uh had to resig
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11415
+Related Nodes: N-11331
 Tags: relevance:tangential
 Investigative Direction: ICIJ reporting on resignations following the Pandora Papers.
 
@@ -1148,7 +1148,7 @@ Transcript Snippet: there was essentially a massive leak of approximately 12 mil
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11415, N-11416
+Related Nodes: N-11331, N-11332
 Tags: relevance:tangential
 Investigative Direction: ICIJ Pandora Papers project page.
 
@@ -1164,7 +1164,7 @@ Transcript Snippet: 35 current at the time and former world leaders were implica
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11415, N-11416
+Related Nodes: N-11331, N-11332
 Tags: relevance:tangential
 Investigative Direction: ICIJ Pandora Papers summary figures.
 
@@ -1180,7 +1180,7 @@ Transcript Snippet: was anywhere between 6 and 32 trillion dollars.
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11415, N-11416
+Related Nodes: N-11331, N-11332
 Tags: relevance:tangential
 Investigative Direction: ICIJ published estimate of offshore holdings.
 
@@ -1196,7 +1196,7 @@ Transcript Snippet: one woman who was named for helping to set up these virtuall
 
 Anchored Artifacts:
 Mentions: N-949, N-351
-Related Nodes: N-11414, N-11415
+Related Nodes: N-11330, N-11331
 Tags: relevance:context
 Investigative Direction: Clip It LLC Wyoming filing showing the registered agent name.
 
@@ -1212,7 +1212,7 @@ Transcript Snippet: The gatekeepers who help open America to oligarchs and scamm
 
 Anchored Artifacts: A-3364.1
 Mentions: N-949
-Related Nodes: N-11415
+Related Nodes: N-11331
 Tags: relevance:context
 Investigative Direction: The ICIJ / partner article with that headline.
 
@@ -1228,7 +1228,7 @@ Transcript Snippet: year-old Cindy Jackson is the official gatekeeper for more t
 
 Anchored Artifacts: A-3364.1
 Mentions: N-949
-Related Nodes: N-11415
+Related Nodes: N-11331
 Tags: relevance:context
 Investigative Direction: Article text; compare with the host's "nearly 3,000 businesses" figure.
 
@@ -1244,7 +1244,7 @@ Transcript Snippet: In 2016, Jackson became the registered agent for Ferrous LLC
 
 Anchored Artifacts: A-3364.1
 Mentions: N-949, N-950
-Related Nodes: N-11415
+Related Nodes: N-11331
 Tags: relevance:tangential
 Investigative Direction: Wyoming filings for Ferrous LLC; article sourcing.
 
@@ -1260,7 +1260,7 @@ Transcript Snippet: Just like an Israeli-Ukrainian billionaire ties to the Chaba
 
 Anchored Artifacts:
 Mentions: N-950
-Related Nodes: N-11359
+Related Nodes: N-11275
 Tags: relevance:tangential
 Investigative Direction: Kolomoisky citizenship and community affiliations in public reporting.
 
@@ -1292,7 +1292,7 @@ Transcript Snippet: And um according to him, he says it's been up for 1 year.
 
 Anchored Artifacts:
 Mentions: N-351
-Related Nodes: N-10880
+Related Nodes: N-10801
 Supports: C-13912
 Tags: relevance:context
 Investigative Direction: Domain registration and archive history of the site.
@@ -1309,7 +1309,7 @@ Transcript Snippet: one of his first clients on this monster website is going to
 
 Anchored Artifacts:
 Mentions: N-2, N-352
-Related Nodes: N-10880, N-10891
+Related Nodes: N-10801, N-10812
 Supports: C-13937
 Tags: relevance:core
 Investigative Direction: Monster Lab client list and campaign start dates.
@@ -1326,7 +1326,7 @@ Transcript Snippet: Elephant Clipping is going to become the go-to for people li
 
 Anchored Artifacts:
 Mentions: N-97, N-259, N-40
-Related Nodes: N-10881
+Related Nodes: N-10802
 Tags: relevance:context
 Investigative Direction: Monster Lab campaign listings naming Shapiro or Crowder.
 
@@ -1342,7 +1342,7 @@ Transcript Snippet: I received a flurry of emails last night from people who wor
 
 Anchored Artifacts:
 Mentions: N-271
-Related Nodes: N-10012, N-11417
+Related Nodes: N-10012, N-11333
 Tags: relevance:core
 Investigative Direction: UVU announcement or personnel records on Long's departure.
 
@@ -1358,7 +1358,7 @@ Transcript Snippet: learned about how effectively Turning Point USA and their af
 
 Anchored Artifacts:
 Mentions: N-271
-Related Nodes: N-10000, N-10839
+Related Nodes: N-10000, N-10762
 Supports: C-13866
 Tags: relevance:core
 Investigative Direction: TPUSA public statements on Long compared with the independent review.
@@ -1375,7 +1375,7 @@ Transcript Snippet: making the public believe that the message was sent to Brian
 
 Anchored Artifacts:
 Mentions: N-266, N-224, N-271
-Related Nodes: N-10356
+Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Original text thread between Dan Flood and Chief Long.
 
@@ -1391,7 +1391,7 @@ Transcript Snippet: We have some correspondence with the chief of the school uh 
 
 Anchored Artifacts: A-3365.1
 Mentions: N-266, N-224, N-271
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Full Shawn Ryan Show episode and text timestamps.
 
@@ -1407,7 +1407,7 @@ Transcript Snippet: there is a student roof access pretty close to where CK will
 
 Anchored Artifacts: A-3365.1
 Mentions: N-266, N-271
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Original text message and building layout.
 
@@ -1423,7 +1423,7 @@ Transcript Snippet: He comes back and his last correspondence was, "I got you co
 
 Anchored Artifacts: A-3365.1
 Mentions: N-266, N-271
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:core
 Investigative Direction: Text thread showing the reply and its sender and recipient.
 
@@ -1439,7 +1439,7 @@ Transcript Snippet: Now that we have the UVU independent review and it confirmed
 
 Anchored Artifacts:
 Mentions: N-266
-Related Nodes: N-10839, N-10862, N-10356
+Related Nodes: N-10762, N-10783, N-10256
 Tags: relevance:core
 Investigative Direction: Independent review passages on the text exchange.
 
@@ -1455,7 +1455,7 @@ Transcript Snippet: Why would Dan Flood give him this message and be okay, seemi
 
 Anchored Artifacts:
 Mentions: N-270, N-266
-Related Nodes: N-10356
+Related Nodes: N-10256
 Tags: relevance:core
 Investigative Direction: Any public statement by Dan Flood.
 
@@ -1471,7 +1471,7 @@ Transcript Snippet: That's That's the message that we've been told. She didn't k
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Erika Kirk's statements on prior threats; TPUSA internal review.
 
@@ -1503,7 +1503,7 @@ Transcript Snippet: Andrew Kolvet still on his platform threw dirt on Jeff Long'
 
 Anchored Artifacts: A-3366.1
 Mentions: N-14, N-271
-Related Nodes: N-11087
+Related Nodes: N-11005
 Tags: relevance:core
 Investigative Direction: Date of the Kolvet segment versus the notice of intent filing date.
 
@@ -1551,7 +1551,7 @@ Transcript Snippet: And Jeff Long was harassed for this. So, the question is is 
 
 Anchored Artifacts:
 Mentions: N-271, N-3
-Related Nodes: N-11417
+Related Nodes: N-11333
 Tags: relevance:core
 Investigative Direction: Any legal filing by Long.
 
@@ -1567,7 +1567,7 @@ Transcript Snippet: we were controlling the tickets, and we told him there was g
 
 Anchored Artifacts:
 Mentions: N-271
-Related Nodes: N-10000, N-11215
+Related Nodes: N-10000, N-11131
 Supports: C-13871
 Tags: relevance:core
 Investigative Direction: Independent review on ticket counts and staffing changes on September 10.
@@ -1584,7 +1584,7 @@ Transcript Snippet: Jeff Long is the one person who did a lot to try to correct 
 
 Anchored Artifacts:
 Mentions: N-271
-Related Nodes: N-10839
+Related Nodes: N-10762
 Tags: relevance:core
 Investigative Direction: Independent review on UVU PD staffing adjustments.
 
@@ -1616,7 +1616,7 @@ Transcript Snippet: A second person who I've learned is resigning or has resigne
 
 Anchored Artifacts:
 Mentions: N-750
-Related Nodes: N-10012, N-11417
+Related Nodes: N-10012, N-11333
 Tags: relevance:core
 Investigative Direction: UVU personnel records or announcement.
 
@@ -1648,7 +1648,7 @@ Transcript Snippet: The independent review informed us that Robin uh was present
 
 Anchored Artifacts: A-3367.1
 Mentions: N-750, N-8
-Related Nodes: N-10839
+Related Nodes: N-10762
 Tags: relevance:core
 Investigative Direction: Independent review section on the major events committee meeting.
 
@@ -1664,7 +1664,7 @@ Transcript Snippet: Crofts insisted on the use of the fountain courtyard locatio
 
 Anchored Artifacts: A-3367.1
 Mentions: N-8, N-1
-Related Nodes: N-10839, N-11215
+Related Nodes: N-10762, N-11131
 Tags: relevance:core
 Investigative Direction: Independent review text and meeting minutes.
 
@@ -1680,7 +1680,7 @@ Transcript Snippet: some of the MEAC members continued to express reservations i
 
 Anchored Artifacts: A-3367.1
 Mentions: N-750
-Related Nodes: N-10839
+Related Nodes: N-10762
 Tags: relevance:core
 Investigative Direction: Independent review text.
 
@@ -1696,7 +1696,7 @@ Transcript Snippet: Robin Ebmeyer was actually absent from the university on Sep
 
 Anchored Artifacts: A-3367.2
 Mentions: N-750
-Related Nodes: N-10839
+Related Nodes: N-10762
 Tags: relevance:core
 Investigative Direction: Independent review page 73.
 
@@ -1712,7 +1712,7 @@ Transcript Snippet: Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Ro
 
 Anchored Artifacts:
 Mentions: N-750
-Related Nodes: N-11417
+Related Nodes: N-11333
 Tags: relevance:core
 Investigative Direction: UVU personnel records on the nature of the departures.
 
@@ -1728,7 +1728,7 @@ Transcript Snippet: according to my UVU sources, is that both of these individua
 
 Anchored Artifacts:
 Mentions: N-271, N-750
-Related Nodes: N-10012, N-11417
+Related Nodes: N-10012, N-11333
 Tags: relevance:core
 Investigative Direction: Interviews with UVU staff.
 
@@ -1776,7 +1776,7 @@ Transcript Snippet: Gary Melton replies, "You follow Ian Carroll. Says all I nee
 
 Anchored Artifacts: A-3369.1
 Mentions: N-614, N-130
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:tangential
 Investigative Direction: The X thread.
 
@@ -1792,7 +1792,7 @@ Transcript Snippet: Ian comes back with, "Gary, you follow me, bro."
 
 Anchored Artifacts: A-3369.1
 Mentions: N-130, N-614
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:tangential
 Investigative Direction: The X thread and follow lists.
 
@@ -1808,7 +1808,7 @@ Transcript Snippet: I have your phone number, too. Doesn't mean I'd use it.
 
 Anchored Artifacts: A-3369.1
 Mentions: N-614, N-130
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:tangential
 Investigative Direction: The X thread.
 
@@ -1824,7 +1824,7 @@ Transcript Snippet: The as the Vanity Fair article pointed out, the sun sort of 
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10864
+Related Nodes: N-10785
 Tags: relevance:context
 Investigative Direction: Vanity Fair profile text.
 
@@ -1856,7 +1856,7 @@ Transcript Snippet: We don't use people and clippers in foreign countries to try
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10883
+Related Nodes: N-10804
 Supports: C-13932
 Tags: relevance:context
 Investigative Direction: Show marketing spend; clipping campaign listings naming the host's show.
@@ -1873,7 +1873,7 @@ Transcript Snippet: When web starts start websites start being taken down or rat
 
 Anchored Artifacts:
 Mentions: N-159
-Related Nodes: N-11413
+Related Nodes: N-11329
 Tags: relevance:context
 Investigative Direction: Timing of the U.S. block relative to the prior episode.
 
@@ -1889,7 +1889,7 @@ Transcript Snippet: I think there's something else going on and I think that he 
 
 Anchored Artifacts:
 Mentions: N-351
-Related Nodes: N-10880
+Related Nodes: N-10801
 Tags: relevance:context
 Investigative Direction: Clip It LLC beneficial ownership and funding sources.
 
@@ -1905,7 +1905,7 @@ Transcript Snippet: So I will say if you uh know anything more about Matiss, ple
 
 Anchored Artifacts: A-3371.1
 Mentions: N-351
-Related Nodes: N-10880
+Related Nodes: N-10801
 Tags: relevance:context
 Investigative Direction: Tips received about Tabuns and Clip It LLC.
 
@@ -1921,7 +1921,7 @@ Transcript Snippet: we can confirm that campaign um did begin according to The A
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10889, N-10891, N-10881
+Related Nodes: N-10810, N-10812, N-10802
 Supports: C-13915
 Tags: relevance:core
 Investigative Direction: The Atlantic article and drive upload timestamps.
@@ -1938,7 +1938,7 @@ Transcript Snippet: giving their kids to Rob McCoy's wife as they make calls to 
 
 Anchored Artifacts:
 Mentions: N-2, N-17
-Related Nodes: N-10891
+Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: Accounts of Erika Kirk's activities in the days after September 10, 2025.
 
@@ -1954,7 +1954,7 @@ Transcript Snippet: I think it was in March. They had Erika opening their Vegas 
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10000, N-10887, N-11418
+Related Nodes: N-10000, N-10808, N-11334
 Tags: relevance:context
 Investigative Direction: TPUSA announcements of a Las Vegas office and its date.
 
@@ -1986,7 +1986,7 @@ Transcript Snippet: This Blake slip reminds me of September 18th, 2025 when Andr
 
 Anchored Artifacts: A-3370.1
 Mentions: N-14, N-46
-Related Nodes: N-11412
+Related Nodes: N-11328
 Tags: relevance:core
 Investigative Direction: The Megyn Kelly Show episode from September 18, 2025.
 

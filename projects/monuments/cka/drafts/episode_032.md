@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-870, N-871, N-872, N-873, N-874, N-11275, N-11276
-  - Hole-minted Nodes (reintro-ep032): N-226, N-10311
+  - Tip-minted Nodes (supplement_2026-10e): N-870, N-871, N-872, N-873, N-874, N-11191, N-11192
+  - Hole-minted Nodes (reintro-ep032): N-226, N-10293
   - Tip-minted Nodes (reintro-ep032): N-737, N-751, N-866
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2816–C-2890
@@ -33,8 +33,8 @@
 - **Analysis date:** 2026-03-11
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
-  - New Nodes Introduced: N-250, N-251, N-252, N-253, N-254, N-255, N-256, N-257, N-258, N-10249, N-10250
-  - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-247, N-377, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223, N-359, N-11117
+  - New Nodes Introduced: N-250, N-251, N-252, N-253, N-254, N-255, N-256, N-257, N-258, N-10235, N-10236
+  - Reused Nodes Appearing: N-10237, N-10238, N-10234, N-9, N-27, N-47, N-82, N-247, N-377, N-10000, N-10001, N-10090, N-10112, N-10132, N-10100, N-10172, N-10232, N-10233, N-10434, N-11139, N-359, N-11035
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -143,7 +143,7 @@ Video Timestamp: 00:14:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-source, redacted, unverified)
 
-*Related: C-2835, N-250, N-251, N-10248*
+*Related: C-2835, N-250, N-251, N-10234*
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:28:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source; host claims to have in writing)
 
-*Related: C-2842, C-2844, C-2852, C-2853, N-253, N-256, N-10248, N-10249*
+*Related: C-2842, C-2844, C-2852, C-2853, N-253, N-256, N-10234, N-10235*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2867, N-10250*
+*Related: C-2867, N-10236*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:44:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2872, C-2873, N-258, N-10250*
+*Related: C-2872, C-2873, N-258, N-10236*
 
 ---
 
@@ -272,7 +272,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-2863, N-10251*
+*Related: C-2863, N-10237*
 
 ---
 
@@ -349,7 +349,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-2827, C-2828, C-2829, C-2830, C-2831, C-2832, C-2834, C-2835, C-2853, C-2850, N-251, N-252, N-10248*
+*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-2827, C-2828, C-2829, C-2830, C-2831, C-2832, C-2834, C-2835, C-2853, C-2850, N-251, N-252, N-10234*
 
 ---
 
@@ -401,7 +401,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1402.1, A-1406.1, C-2832, C-2842, C-2844, C-2852, N-10249*
+*Related: A-1402.1, A-1406.1, C-2832, C-2842, C-2844, C-2852, N-10235*
 
 ---
 
@@ -440,7 +440,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1405.1, N-250, N-10248*
+*Related: A-1405.1, N-250, N-10234*
 
 ---
 
@@ -479,7 +479,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1410.1, C-2872, C-2873, N-10250*
+*Related: A-1410.1, C-2872, C-2873, N-10236*
 
 ---
 
@@ -524,7 +524,7 @@ Investigative Pressure: Medium
 
 ### Investigation Targets
 
-**N-10248** Calvary Chapel Network Infiltration Question
+**N-10234** Calvary Chapel Network Infiltration Question
 
 Persistent investigation into whether multiple Calvary Chapel congregations and their leadership are participating in coordinated financial exploitation, tithing redirection, and intelligence-linked activity. Triggered by Brett Cooper segment, viewer email, and Courtney Love text messages.
 
@@ -537,7 +537,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10249** "Mormon Mafia" Allegation
+**N-10235** "Mormon Mafia" Allegation
 
 Investigative target: alleged coordinating entity above Hollywood and "Zionist Jews" identified in Courtney Love text messages of January 2025. Single-source, unverified.
 
@@ -550,7 +550,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10250** Charlie Kirk Event – Maroon Shirt Individual Identification
+**N-10236** Charlie Kirk Event – Maroon Shirt Individual Identification
 
 Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact.
 
@@ -563,7 +563,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10251** TPUSA Faith-Angle Investigation
+**N-10237** TPUSA Faith-Angle Investigation
 
 Persistent investigation target: pattern in which TPUSA-associated reporting/disputes focus on matters of religious affiliation (Catholicism, Calvary Chapel, faith-based leadership).
 
@@ -576,7 +576,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10252** Potter's Field Hostile Takeover Allegation
+**N-10238** Potter's Field Hostile Takeover Allegation
 
 Allegation from a former insider that the Potter's Field scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented).
 
@@ -585,7 +585,7 @@ Claim Count: 0 (claim deferred pending evidence presentation)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1405.1 (peripheral), N-10248*
+*Related: A-1405.1 (peripheral), N-10234*
 
 ---
 
@@ -629,7 +629,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10116** MK Ultra Continuity Theory
+**N-10112** MK Ultra Continuity Theory
 
 Existing node reused for new claims in this episode.
 
@@ -645,7 +645,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11275** Hostile Takeover Methods Theory
+**N-11191** Hostile Takeover Methods Theory
 
 Node Type: Topic
 The host's relay of Courtney Love's thesis that powerful people and companies are controlled through psychosis, lawfare, reputational attacks and untimely deaths, applied by the host to several celebrities and to Charlie Kirk.
@@ -662,7 +662,7 @@ First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservator
 
 ---
 
-**N-11276** Britney Spears Conservatorship Lou Taylor Role
+**N-11192** Britney Spears Conservatorship Lou Taylor Role
 
 Node Type: Topic
 The host's and Brett Cooper's account of Lou Taylor's role in setting up the 2008 Britney Spears conservatorship, the loans, fees and church tithing around it.
@@ -687,7 +687,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10247** Potter's Field Ministries Financial Fraud Allegations
+**N-10233** Potter's Field Ministries Financial Fraud Allegations
 
 Existing node reused for new claims in this episode.
 
@@ -719,7 +719,7 @@ First named at 00:15:42 in episode 32 in an email read by the host. Former UK pr
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Existing node reused for new claims in this episode.
 
@@ -727,7 +727,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11117** Kanye Condemnation Pressure and Contract Cut
+**N-11035** Kanye Condemnation Pressure and Contract Cut
 
 Existing node reused for new claims in this episode.
 
@@ -775,7 +775,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 Existing node reused for new claims in this episode.
 
@@ -783,7 +783,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10465** Calvary Chapel Church CIA Connection Question
+**N-10434** Calvary Chapel Church CIA Connection Question
 
 Existing node reused for new claims in this episode.
 
@@ -807,7 +807,7 @@ First named by the host at 00:35:52 in episode 32. Reality-TV figure the host pr
 
 ---
 
-**N-10137** Suspicious Bush Theory (Range Day Bro)
+**N-10132** Suspicious Bush Theory (Range Day Bro)
 
 Existing node reused for new claims in this episode.
 
@@ -815,7 +815,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Existing node reused for new claims in this episode.
 
@@ -823,7 +823,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Existing node reused for new claims in this episode.
 
@@ -831,7 +831,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
+**N-10100** Catholic Conversion Rumor
 
 Existing node reused for new claims in this episode.
 
@@ -847,7 +847,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11223** Sackler Family and Purdue Pharma
+**N-11139** Sackler Family and Purdue Pharma
 
 Existing node reused for new claims in this episode.
 
@@ -894,7 +894,7 @@ Claim: In a clip the host plays, Brett Cooper reads that Mr. Spears at times gav
 Anchored Artifacts: A-1399.2, A-1403.1
 Mentions: N-252, N-221
 
-Related Nodes: N-10248
+Related Nodes: N-10234
 
 Investigative Direction: Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.
 
@@ -965,7 +965,7 @@ Claim: Per a partially redacted email the host reads, the sender says Rob and Lo
 Anchored Artifacts: A-1405.1
 Mentions: N-250, N-251
 
-Related Nodes: N-10248
+Related Nodes: N-10234
 
 Investigative Direction: Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.
 
@@ -980,7 +980,7 @@ Claim: The host says Courtney Love told her in messages (January and February 20
 Anchored Artifacts: A-1406.1
 Mentions: N-253
 
-Related Nodes: N-10249
+Related Nodes: N-10235
 
 Investigative Direction: Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.
 
@@ -1009,7 +1009,7 @@ Claim: Per Courtney Love text messages (January and February 2025), she alleges 
 Anchored Artifacts: A-1406.1
 Mentions: N-253
 
-Related Nodes: N-10248, N-10249
+Related Nodes: N-10234, N-10235
 
 Investigative Direction: Single-source; corroboration required before inscription as fact.
 
@@ -1024,7 +1024,7 @@ Claim: Per Courtney Love text messages (January and February 2025), she names Lo
 Anchored Artifacts: A-1406.1
 Mentions: N-250, N-359, N-866, N-253
 
-Related Nodes: N-10248
+Related Nodes: N-10234
 
 Investigative Direction: Review corporate filings of the named "church home" entity; cross-reference any disclosed business relationships.
 
@@ -1067,7 +1067,7 @@ Claim: The host describes an individual in a maroon shirt who was partially in t
 Anchored Artifacts: A-1409.1, A-1409.2, A-1411.1
 Mentions: N-1
 
-Related Nodes: N-10250
+Related Nodes: N-10236
 
 Investigative Direction: Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.
 
@@ -1082,7 +1082,7 @@ Claim: Per host, "Samir" publicly posted a photo alongside the maroon shirt indi
 Anchored Artifacts: A-1410.1
 Mentions: N-258
 
-Related Nodes: N-10250
+Related Nodes: N-10236
 
 Investigative Direction: Identify the second individual in the Samir photo; confirm BYU attendance.
 
@@ -1153,7 +1153,7 @@ Claim: Per replayed audio clip, Charlie Kirk stated that one wants friends who t
 Anchored Artifacts: A-1414.1
 Mentions: N-1
 
-Related Nodes: N-10251
+Related Nodes: N-10237
 
 Investigative Direction: Verify timestamp/date of original recording; confirm via original footage.
 
@@ -1185,7 +1185,7 @@ Transcript Snippet: They put him on a psych 5150 hold which is one of their stra
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-10001, N-10116
+Related Nodes: N-10001, N-10112
 Tags: relevance:tangential
 Investigative Direction: Obtain hospital or legal records of any 2016 or later involuntary hold on Kanye West, or his own public account.
 
@@ -1201,7 +1201,7 @@ Transcript Snippet: It was very weird that they took out Harvey Weinstein. That 
 
 Anchored Artifacts: 
 Mentions: N-3, N-226
-Related Nodes: N-11275
+Related Nodes: N-11191
 Tags: relevance:tangential
 Investigative Direction: Trace ownership changes at Miramax and The Weinstein Company after the 2017 allegations.
 
@@ -1217,7 +1217,7 @@ Transcript Snippet: telling me to stay the course because the Calvary Chapel was
 
 Anchored Artifacts: 
 Mentions: N-3, N-870
-Related Nodes: N-11276, N-10248
+Related Nodes: N-11192, N-10234
 Tags: relevance:context
 Investigative Direction: Obtain the viewer emails and conservatorship filings showing any Calvary Chapel role.
 
@@ -1233,7 +1233,7 @@ Transcript Snippet: Lou Taylor uh apparently was very much involved. That is wha
 
 Anchored Artifacts: 
 Mentions: N-3, N-250, N-870
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Check Britney Spears's court statements and the 2021 LA Times emails for Lou Taylor's role.
 
@@ -1249,7 +1249,7 @@ Transcript Snippet: Lou Taylor became involved with Britney Spears in 2007 after
 
 Anchored Artifacts: A-1399.1
 Mentions: N-221, N-250, N-870, N-871
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Check 2007 to 2008 press coverage and the Spears family accounts for when Lou Taylor was hired.
 
@@ -1265,7 +1265,7 @@ Transcript Snippet: her mom stated in her memoir, Through the Storm, that Lou an
 
 Anchored Artifacts: A-1399.1
 Mentions: N-221, N-250, N-252, N-870
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Check the passage in Lynn Spears's memoir Through the Storm.
 
@@ -1281,7 +1281,7 @@ Transcript Snippet: Jaime Senior had around this time allegedly filed for bankru
 
 Anchored Artifacts: A-1399.1
 Mentions: N-221, N-250, N-252
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Look for bankruptcy filings and loan records for Jamie Spears and Lou Taylor's firm around 2007 and 2008.
 
@@ -1297,7 +1297,7 @@ Transcript Snippet: Tristar, that is L. Taylor's company, was hired to serve as 
 
 Anchored Artifacts: A-1399.1
 Mentions: N-221, N-250, N-252, N-870
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Check conservatorship accountings for Circus tour gross and Tri Star fees.
 
@@ -1313,7 +1313,7 @@ Transcript Snippet: Rob McCoy steps in as the CFO and there's articles about it 
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
-Related Nodes: N-10247
+Related Nodes: N-10233
 Supports: C-2770
 Tags: relevance:context
 Investigative Direction: Locate the press articles and Montana filings on Potter's Field leadership and dissolution.
@@ -1330,7 +1330,7 @@ Transcript Snippet: until Rob McCoy got involved and then he intentionally scand
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
-Related Nodes: N-10252, N-10247
+Related Nodes: N-10238, N-10233
 Tags: relevance:context
 Investigative Direction: Review the source's emails and backup and Potter's Field board minutes and financial filings.
 
@@ -1346,7 +1346,7 @@ Transcript Snippet: two other people reached out to me who worked with Lou Taylo
 
 Anchored Artifacts: 
 Mentions: N-3, N-250
-Related Nodes: N-11276, N-10248
+Related Nodes: N-11192, N-10234
 Tags: relevance:context
 Investigative Direction: Interview the two sources and obtain client agreements or payment records showing tithing and undisclosed investments.
 
@@ -1362,7 +1362,7 @@ Transcript Snippet: I've also heard that Lou has connections and ties to Glen Ma
 
 Anchored Artifacts: A-1405.1
 Mentions: N-3, N-250, N-47, N-9
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Ask the email's author for the basis; search Epstein and Maxwell records for Lou Taylor.
 
@@ -1378,7 +1378,7 @@ Transcript Snippet: they told me that the house that Britney was being held out 
 
 Anchored Artifacts: A-1405.1
 Mentions: N-3, N-870, N-872, N-9
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Identify the reporter and the property and check ownership records.
 
@@ -1394,7 +1394,7 @@ Transcript Snippet: I know Lou Taylor built a house there and would find it very
 
 Anchored Artifacts: A-1405.1
 Mentions: N-3, N-250, N-17
-Related Nodes: N-10248
+Related Nodes: N-10234
 Tags: relevance:context
 Investigative Direction: Check Ventura County property records and any McCoy and Taylor connection.
 
@@ -1410,7 +1410,7 @@ Transcript Snippet: they lived in Fort Lauderdale, Florida and attended a very l
 
 Anchored Artifacts: A-1405.1
 Mentions: N-3, N-250, N-251, N-756
-Related Nodes: N-10248, N-10246
+Related Nodes: N-10234, N-10232
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Fort Lauderdale and Brentwood church histories for the Taylors and Coy.
 
@@ -1426,7 +1426,7 @@ Transcript Snippet: he's been pastoring that church up until July of this year f
 
 Anchored Artifacts: 
 Mentions: N-3, N-17, N-250
-Related Nodes: N-10248
+Related Nodes: N-10234
 Tags: relevance:context
 Investigative Direction: Verify the date McCoy left Calvary Chapel Thousand Oaks and who succeeded him.
 
@@ -1442,7 +1442,7 @@ Transcript Snippet: Adidas was cancelling him and Gap was cancelling him. He was
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11117
+Related Nodes: N-11035
 Tags: relevance:context
 Investigative Direction: Ask Kanye West or others present to corroborate; compare with the host's earlier accounts of that visit.
 
@@ -1458,7 +1458,7 @@ Transcript Snippet: when companies or individuals get too big and become too pow
 
 Anchored Artifacts: A-1406.1
 Mentions: N-3, N-253
-Related Nodes: N-11275
+Related Nodes: N-11191
 Tags: relevance:context
 Investigative Direction: Obtain the Courtney Love messages and ask Love to confirm what she meant.
 
@@ -1474,7 +1474,7 @@ Transcript Snippet: Britney's been put on a psych 5150 hold. Kanye, he said he w
 
 Anchored Artifacts: 
 Mentions: N-3, N-870, N-27, N-359
-Related Nodes: N-11275, N-10116
+Related Nodes: N-11191, N-10112
 Supports: C-2817
 Tags: relevance:tangential
 Investigative Direction: Obtain hospital or court records, or statements from Kardashian or West on the 2016 hospitalization.
@@ -1491,7 +1491,7 @@ Transcript Snippet: another way that they accomplish this is via lawfare, they w
 
 Anchored Artifacts: 
 Mentions: N-3, N-247
-Related Nodes: N-11275
+Related Nodes: N-11191
 Tags: relevance:context
 Investigative Direction: Review the legal actions against Elijah Schaffer and their funding.
 
@@ -1507,7 +1507,7 @@ Transcript Snippet: Michael Jackson, despite the fact that he was beating Sony, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-737
-Related Nodes: N-11275
+Related Nodes: N-11191
 Tags: relevance:tangential
 Investigative Direction: Review the history of the Sony/ATV catalog and Michael Jackson's finances at death.
 
@@ -1538,7 +1538,7 @@ Transcript Snippet: the last way that they can hostly take over your company is 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-737, N-257
-Related Nodes: N-11275
+Related Nodes: N-11191
 Tags: relevance:core
 Investigative Direction: Treat as a theory: check who gained control of TPUSA, and of the other listed estates, after each death.
 
@@ -1554,7 +1554,7 @@ Transcript Snippet: It looks like she owns or sat on the bar board of church hom
 
 Anchored Artifacts: A-1406.1
 Mentions: N-3, N-250, N-253, N-866
-Related Nodes: N-11276
+Related Nodes: N-11192
 Tags: relevance:context
 Investigative Direction: Check Church Home's incorporation and board records for Lou Taylor.
 
@@ -1570,7 +1570,7 @@ Transcript Snippet: Christian, non-denominational, but she's LDS, born and raise
 
 Anchored Artifacts: A-1406.1
 Mentions: N-3, N-253, N-250
-Related Nodes: N-10249, N-10094
+Related Nodes: N-10235, N-10090
 Tags: relevance:tangential
 Investigative Direction: Confirm Lou Taylor's religious background from public interviews or records.
 
@@ -1586,7 +1586,7 @@ Transcript Snippet: he had to then go be one of the 12 apostle apostles to the n
 
 Anchored Artifacts: A-1406.1
 Mentions: N-3, N-253, N-256
-Related Nodes: N-10249, N-10094
+Related Nodes: N-10235, N-10090
 Tags: relevance:tangential
 Investigative Direction: Check LDS Church leadership rosters for any R. Todd Nielsen or Nielson.
 
@@ -1602,7 +1602,7 @@ Transcript Snippet: now of course we learn that this church that Lou Taylor's hu
 
 Anchored Artifacts: 
 Mentions: N-3, N-250, N-251
-Related Nodes: N-10465, N-10248
+Related Nodes: N-10434, N-10234
 Tags: relevance:context
 Investigative Direction: Document the claimed CIA link of Calvary Chapel's origins with named sources.
 
@@ -1618,7 +1618,7 @@ Transcript Snippet: Well, the hippie movement was not organic. It was not real. 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10465, N-10001
+Related Nodes: N-10434, N-10001
 Tags: relevance:tangential
 Investigative Direction: Cite historical sources on CIA involvement in the 1960s counterculture.
 
@@ -1634,7 +1634,7 @@ Transcript Snippet: a lot of these people that are heading these churches have m
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10248, N-10465
+Related Nodes: N-10234, N-10434
 Tags: relevance:context
 Investigative Direction: Identify which Calvary Chapel leaders the host means and document their family military service.
 
@@ -1650,7 +1650,7 @@ Transcript Snippet: Rob McCoy's up here uh trying to I I guess you could say lik
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Identify the person and any public statements by McCoy supporting them.
 
@@ -1666,7 +1666,7 @@ Transcript Snippet: it was just so strange that everything was about faith. But 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10251, N-10000
+Related Nodes: N-10237, N-10000
 Tags: relevance:core
 Investigative Direction: Compare TPUSA mission statements and programming over time, and identify the memorial speaker.
 
@@ -1712,7 +1712,7 @@ Transcript Snippet: We see him near the bush by himself. We have no evidence to 
 
 Anchored Artifacts: 
 Mentions: N-3, N-246
-Related Nodes: N-10137
+Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Identify the eyewitnesses and match their accounts to video of Butch Hibbs at the bush.
 
@@ -1728,7 +1728,7 @@ Transcript Snippet: I have tried to discern through private means who this indiv
 
 Anchored Artifacts: A-3109.2
 Mentions: N-3
-Related Nodes: N-10250
+Related Nodes: N-10236
 Tags: relevance:core
 Investigative Direction: Match the clip's face and clothing to event attendee lists and viewer tips.
 
@@ -1744,7 +1744,7 @@ Transcript Snippet: many of you guys emailed us and pointed to the fact that whe
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10137
+Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Review multi-angle video of the seconds after the shot for who directed the crowd.
 
@@ -1760,7 +1760,7 @@ Transcript Snippet: see right there on the side, you got people on the side ther
 
 Anchored Artifacts: A-3109.1
 Mentions: N-3
-Related Nodes: N-10137
+Related Nodes: N-10132
 Tags: relevance:core
 Investigative Direction: Identify the people in the clip and the clip's source and timecode.
 
@@ -1776,7 +1776,7 @@ Transcript Snippet: I know that the police were looking for someone in a maroon 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10250, N-10311
+Related Nodes: N-10236, N-10293
 Tags: relevance:core
 Investigative Direction: Obtain UVU police dispatch or BOLO records mentioning a maroon shirt.
 
@@ -1792,7 +1792,7 @@ Transcript Snippet: he was not a Charlie Kirk fan. He somehow has a lot of foota
 
 Anchored Artifacts: 
 Mentions: N-3, N-258
-Related Nodes: N-10250
+Related Nodes: N-10236
 Tags: relevance:core
 Investigative Direction: Check Samir's public posts and the first outlets that aired his footage.
 
@@ -1808,7 +1808,7 @@ Transcript Snippet: he might know if there was some activity in that bush, pleas
 
 Anchored Artifacts: A-3108.1
 Mentions: N-3
-Related Nodes: N-10250
+Related Nodes: N-10236
 Tags: relevance:core,dia
 Investigative Direction: Review incoming tips and any identification of the man in the maroon shirt.
 
@@ -1824,7 +1824,7 @@ Transcript Snippet: More tips at candacewowens. com. Okay, moving on from the pe
 
 Anchored Artifacts: A-3108.2
 Mentions: N-3
-Related Nodes: N-10250
+Related Nodes: N-10236
 Tags: relevance:core,dia
 Investigative Direction: Check the tip inbox volume and outcome for the maroon-shirt appeal.
 
@@ -1840,7 +1840,7 @@ Transcript Snippet: But he wasn't the only person, by the way, who was in that b
 
 Anchored Artifacts: A-1409.2
 Mentions: N-3, N-246
-Related Nodes: N-10137, N-10250
+Related Nodes: N-10132, N-10236
 Tags: relevance:core
 Investigative Direction: Identify the second man in the photo and its time and source.
 
@@ -1856,7 +1856,7 @@ Transcript Snippet: we got a flurry of videos of him after this shooting takes p
 
 Anchored Artifacts: 
 Mentions: N-3, N-246
-Related Nodes: N-10137
+Related Nodes: N-10132
 Supports: C-2774
 Tags: relevance:core
 Investigative Direction: Compile the post-shooting videos with timestamps and ask UVU police who authorized entry.
@@ -1873,7 +1873,7 @@ Transcript Snippet: It sounded like a higher caliber, like a 9 millimeter. It di
 
 Anchored Artifacts: A-1411.1
 Mentions: N-3, N-246
-Related Nodes: N-10180
+Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Identify the interviewee and the outlet; compare with acoustic analysis of the recorded shot.
 
@@ -1889,7 +1889,7 @@ Transcript Snippet: Did you see that there are seven Calvary Chapel churches nea
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10248
+Related Nodes: N-10234
 Tags: relevance:tangential
 Investigative Direction: Verify the number and locations of Calvary Chapel churches near Huntington Beach.
 
@@ -1920,7 +1920,7 @@ Transcript Snippet: has been because of Mormons that have been willing to go on 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10094
+Related Nodes: N-10090
 Tags: relevance:context
 Investigative Direction: Not independently checkable without the host's sources.
 
@@ -1936,7 +1936,7 @@ Transcript Snippet: someone sent us an email and said because I discussed Calvar
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10246
+Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Not independently checkable without the email.
 
@@ -1952,7 +1952,7 @@ Transcript Snippet: so many of them surround the topic of faith, which is very s
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10251, N-10164, N-10000
+Related Nodes: N-10237, N-10100, N-10000
 Tags: relevance:core
 Investigative Direction: List the specific TPUSA statements about Kirk's Catholic interest and compare with evidence.
 
@@ -1968,7 +1968,7 @@ Transcript Snippet: I recognized that as a clue, and that's what told me that I 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10251, N-10000
+Related Nodes: N-10237, N-10000
 Tags: relevance:core
 Investigative Direction: Catalog the TPUSA statements the host calls lies and her debunking of each.
 
@@ -1999,7 +1999,7 @@ Transcript Snippet: our boys were guarding the poppy fields and them in Afghanis
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11223
+Related Nodes: N-11139
 Tags: relevance:tangential
 Investigative Direction: Review Afghan opium production data and Purdue and Sackler settlement findings.
 
@@ -2166,7 +2166,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-250 onward)
-- [x] Non-person investigation targets use the 1000 series (N-10248 onward)
+- [x] Non-person investigation targets use the 1000 series (N-10234 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent with protocol

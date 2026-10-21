@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: efd9d1189c9e94d15188046d5b61410818dcf70df332d7e474fb3cf762180098
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-918, N-11352, N-11353, N-11354, N-11355
-  - Tip-minted Nodes (reintro-ep099): N-11300, N-11304
+  - Tip-minted Nodes (supplement_2026-10f): N-918, N-11268, N-11269, N-11270, N-11271
+  - Tip-minted Nodes (reintro-ep099): N-11216, N-11220
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8819–C-8920
   - (see registers)
@@ -32,10 +32,10 @@
 - **Analysis date:** 2026-05-05
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
-  - New Nodes Introduced: N-10657, N-10658, N-10659
-  - Reused Nodes Appearing: N-375, N-10662, N-130, N-10661, N-374, N-373, N-430, N-5, N-15, N-22, N-31, N-40, N-46, N-159, N-226, N-253, N-261, N-266, N-270, N-486, N-707, N-891, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
+  - New Nodes Introduced: N-10599, N-10600, N-10601
+  - Reused Nodes Appearing: N-375, N-10604, N-130, N-10603, N-374, N-373, N-430, N-5, N-15, N-22, N-31, N-40, N-46, N-159, N-226, N-253, N-261, N-266, N-270, N-486, N-707, N-891, N-10027, N-10106, N-10143, N-10162, N-10179, N-10190, N-10282, N-10287, N-10318, N-10320, N-10379, N-10388, N-10389, N-10425, N-10458, N-10593, N-10595, N-10821, N-10831, N-10835, N-11039, N-11137, N-11174, N-10602, N-10605, N-10657, N-11267
   - Hole-minted Nodes (wave2): N-376
-  - Tip-minted Nodes (wave2): N-10901
+  - Tip-minted Nodes (wave2): N-10822
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 
 ---
@@ -100,7 +100,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8836, C-8837, N-10901*
+*Related: C-8836, C-8837, N-10822*
 
 **A-2048.2** Church list contained within FARA filing
 
@@ -122,7 +122,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-8838, C-8841, C-8842, C-8843, N-10901*
+*Related: C-8838, C-8841, C-8842, C-8843, N-10822*
 
 **A-2049.2** Salem Radio Media Network listing within Clock Tower X FARA filing
 
@@ -322,7 +322,7 @@ Video Timestamp: 00:19:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8845, N-5, N-1, N-11352*
+*Related: C-8845, N-5, N-1, N-11268*
 
 ---
 
@@ -335,7 +335,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8852, N-55, N-3, N-10187*
+*Related: C-8852, N-55, N-3, N-10179*
 
 ---
 
@@ -348,7 +348,7 @@ Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8891, N-485, N-10661*
+*Related: C-8891, N-485, N-10603*
 
 ---
 
@@ -439,7 +439,7 @@ Investigative Pressure: Medium
 
 ### Organizations (New)
 
-**N-10901** Havas Media
+**N-10822** Havas Media
 
 Node Type: Organization
 Organization Kind: company
@@ -457,7 +457,7 @@ Investigative Pressure: Medium
 
 ### Investigation Targets (New)
 
-**N-10657** Salem Media Foreign Agent Registration Status
+**N-10599** Salem Media Foreign Agent Registration Status
 
 Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.
 
@@ -466,11 +466,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2049.1, A-2049.2, A-2051.1, C-8838, C-8841, C-8842, C-8843, C-8865, N-10662 (2025 FARA Timeline Convergence)*
+*Related: A-2049.1, A-2049.2, A-2051.1, C-8838, C-8841, C-8842, C-8843, C-8865, N-10604 (2025 FARA Timeline Convergence)*
 
 ---
 
-**N-10658** Josh Hammer Show Audience Anomaly
+**N-10600** Josh Hammer Show Audience Anomaly
 
 Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.
 
@@ -479,11 +479,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2050.1, C-8854, N-55 (Josh Hammer), N-10657 (Salem Foreign Agent Status)*
+*Related: A-2050.1, C-8854, N-55 (Josh Hammer), N-10599 (Salem Foreign Agent Status)*
 
 ---
 
-**N-10659** Pam Bondi Foreign Influence Task Force Disbanding
+**N-10601** Pam Bondi Foreign Influence Task Force Disbanding
 
 February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.
 
@@ -492,11 +492,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2052.1, A-2053.1, C-8867, C-8868, N-85 (Pam Bondi), N-10662 (2025 FARA Timeline Convergence)*
+*Related: A-2052.1, A-2053.1, C-8867, C-8868, N-85 (Pam Bondi), N-10604 (2025 FARA Timeline Convergence)*
 
 ---
 
-**N-10660** Hospital "No Neck Left" Narrative Discrepancy
+**N-10602** Hospital "No Neck Left" Narrative Discrepancy
 
 Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had "no neck left," and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.
 
@@ -509,7 +509,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.
 
@@ -522,7 +522,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10662** 2025 FARA Propaganda Timeline Convergence
+**N-10604** 2025 FARA Propaganda Timeline Convergence
 
 Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.
 
@@ -531,11 +531,11 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-8836, C-8838, C-8843, C-8867, C-8871, C-8872, C-8851, C-8876, N-85 (Pam Bondi), N-33 (Donald Trump Jr.), N-10657 (Salem Foreign Agent Status), N-10659 (Bondi FARA Disbanding)*
+*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-8836, C-8838, C-8843, C-8867, C-8871, C-8872, C-8851, C-8876, N-85 (Pam Bondi), N-33 (Donald Trump Jr.), N-10599 (Salem Foreign Agent Status), N-10601 (Bondi FARA Disbanding)*
 
 ---
 
-**N-10663** Mikey McCoy Witness Reliability Question
+**N-10605** Mikey McCoy Witness Reliability Question
 
 Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible "weak link" among Kirk's inner circle.
 
@@ -564,7 +564,7 @@ Baron Coleman; the host plays his audio clip and cites his Spotify rank.
 
 ---
 
-**N-10722** Clock Tower X / Israeli Influence Operation
+**N-10657** Clock Tower X / Israeli Influence Operation
 
 Clock Tower X / Israeli Influence Operation; existing topic reused.
 
@@ -580,7 +580,7 @@ Subject of the assassination; the host reports his night-before texts, his show 
 
 ---
 
-**N-10415** Charlie Kirk Premonition Pattern
+**N-10388** Charlie Kirk Premonition Pattern
 
 Existing topic reused for Kirk premonition pattern.
 
@@ -604,7 +604,7 @@ Dan Flood; recipient of Kirk's night-before text.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for the night-before texts to Kolvet and Flood.
 
@@ -620,7 +620,7 @@ Brian Harpole; the host hopes his lawsuit will show who Kirk meant by the night-
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Existing topic reused for the Harpole lawsuit.
 
@@ -628,7 +628,7 @@ Existing topic reused for the Harpole lawsuit.
 
 ---
 
-**N-11258** Harpole Lawsuit Subpoena and Discovery Opportunity
+**N-11174** Harpole Lawsuit Subpoena and Discovery Opportunity
 
 Existing topic reused for Harpole discovery.
 
@@ -636,7 +636,7 @@ Existing topic reused for Harpole discovery.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for Kirk's Israel position claims.
 
@@ -660,7 +660,7 @@ Donald Trump; the host cites his post of Kirk with an Israeli flag and says Tuck
 
 ---
 
-**N-11351** Salem Media Group
+**N-11267** Salem Media Group
 
 Node Type: Organization
 Media company that distributes the Charlie Kirk Show and, per the host, the Josh Hammer show; the host links it to Clock Tower X's FARA filing, Brad Parscale's role, the Trump Jr. deal and its alleged financial difficulties.
@@ -669,7 +669,7 @@ Media company that distributes the Charlie Kirk Show and, per the host, the Josh
 
 ---
 
-**N-11300** Charlie Kirk Show LLC
+**N-11216** Charlie Kirk Show LLC
 
 Charlie Kirk Show LLC; organization reused for ownership and building claims.
 
@@ -701,7 +701,7 @@ Greta Van Susteren; the tip says Netanyahu's office asked her team to pose the q
 
 ---
 
-**N-10914** Show Faith by Works LLC
+**N-10835** Show Faith by Works LLC
 
 Show Faith by Works LLC; organization reused.
 
@@ -709,7 +709,7 @@ Show Faith by Works LLC; organization reused.
 
 ---
 
-**N-10653** Turning Point Geofencing / Show Faith by Works Link
+**N-10595** Turning Point Geofencing / Show Faith by Works Link
 
 Existing topic reused for the geofencing link.
 
@@ -725,7 +725,7 @@ John F. Kennedy; the host's LBJ remark.
 
 ---
 
-**N-11352** Trump Post of Kirk With Israeli Flag
+**N-11268** Trump Post of Kirk With Israeli Flag
 
 Node Type: Topic
 The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hugging an Israeli and an American flag when Kirk died.
@@ -750,7 +750,7 @@ Tyler Robinson; the host says she does not think he did it.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for the attacks on Megyn Kelly.
 
@@ -766,7 +766,7 @@ Josh Hammer; the host says he denied Kirk's message, was on the group chat and g
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Existing topic reused for Hammer's text messages.
 
@@ -774,7 +774,7 @@ Existing topic reused for Hammer's text messages.
 
 ---
 
-**N-11353** Charlie Kirk Show Equity Stakes Question
+**N-11269** Charlie Kirk Show Equity Stakes Question
 
 Node Type: Topic
 The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew Kolvet held stakes in the Charlie Kirk Show and that Kolvet allegedly lost millions when Kirk refused Netanyahu.
@@ -807,7 +807,7 @@ The Hamptons; place of the alleged Kirk refusal of Netanyahu.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing topic reused for Kirk's refusal of Netanyahu.
 
@@ -815,7 +815,7 @@ Existing topic reused for Kirk's refusal of Netanyahu.
 
 ---
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
 Existing topic reused for the Hamptons dinner allegation.
 
@@ -823,7 +823,7 @@ Existing topic reused for the Hamptons dinner allegation.
 
 ---
 
-**N-10305** Andrew Kolvet "Lost Millions" Tip Verification
+**N-10287** Andrew Kolvet "Lost Millions" Tip Verification
 
 Existing topic reused for the Kolvet lost-millions tip.
 
@@ -831,7 +831,7 @@ Existing topic reused for the Kolvet lost-millions tip.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for the Netanyahu TPUSA funding offer.
 
@@ -855,7 +855,7 @@ Pam Bondi; the host reads the DOJ order on the FARA Unit.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing topic reused for the Hammer pre-death Zoom call.
 
@@ -863,7 +863,7 @@ Existing topic reused for the Hammer pre-death Zoom call.
 
 ---
 
-**N-11221** Newsweek
+**N-11137** Newsweek
 
 Newsweek; distribution partner for the Hammer show.
 
@@ -871,7 +871,7 @@ Newsweek; distribution partner for the Hammer show.
 
 ---
 
-**N-10910** Dhillon Law Group
+**N-10831** Dhillon Law Group
 
 Dhillon Law Group; organization reused.
 
@@ -895,7 +895,7 @@ Courtney Love; the host cites her claim of a Hollywood gang taking publishing ri
 
 ---
 
-**N-11121** Hollywood Gang Claim
+**N-11039** Hollywood Gang Claim
 
 Existing topic reused for the Hollywood gang claim.
 
@@ -943,7 +943,7 @@ Taylor Swift; the host says Lively lost her friendship.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Daily Wire; organization reused for the court-system and Crain & Co claims.
 
@@ -951,7 +951,7 @@ Daily Wire; organization reused for the court-system and Crain & Co claims.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for the Daily Wire pattern against the host.
 
@@ -967,7 +967,7 @@ Justin Streiff; the host says he spoke to her husband on the day and told her he
 
 ---
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Existing topic reused for Justin Streiff's post-assassination phone call.
 
@@ -991,7 +991,7 @@ Mikey McCoy; the host says he was a mess at the hospital and that TPUSA's flew-i
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Existing topic reused for Mikey McCoy's behavior on September 10.
 
@@ -999,7 +999,7 @@ Existing topic reused for Mikey McCoy's behavior on September 10.
 
 ---
 
-**N-11354** Israeli Bot Campaign Claim
+**N-11270** Israeli Bot Campaign Claim
 
 Node Type: Topic
 The host's claim that Israel's propaganda spending includes bot armies, fake accounts and mass emails used to flood comment sections and event hosts.
@@ -1008,7 +1008,7 @@ The host's claim that Israel's propaganda spending includes bot armies, fake acc
 
 ---
 
-**N-11304** Erika Kirk Memorial Forgiveness Statement
+**N-11220** Erika Kirk Memorial Forgiveness Statement
 
 Existing topic reused for Erika's forgiveness statement.
 
@@ -1016,7 +1016,7 @@ Existing topic reused for Erika's forgiveness statement.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Tyler Robinson Evidence Gaps; existing topic reused.
 
@@ -1024,7 +1024,7 @@ Tyler Robinson Evidence Gaps; existing topic reused.
 
 ---
 
-**N-11355** Charlie Kirk Faked Death Theory
+**N-11271** Charlie Kirk Faked Death Theory
 
 Node Type: Topic
 The viewer theory that Charlie Kirk faked his death, which the host rejects based on one source and the amount of blood in the car.
@@ -1116,7 +1116,7 @@ Claim: The host says that on September 18th the Israeli Foreign Ministry of Affa
 
 Anchored Artifacts: A-2048.1, A-2054.1
 
-Related Nodes: N-10662, N-10901
+Related Nodes: N-10604, N-10822
 
 Investigative Direction: Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties.
 
@@ -1130,7 +1130,7 @@ Claim: The host says Show Faith by Works LLC is going to geofence phones on beha
 
 Anchored Artifacts: A-2048.1, A-2048.2
 
-Related Nodes: N-10662
+Related Nodes: N-10604
 
 Investigative Direction: Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings.
 
@@ -1144,7 +1144,7 @@ Claim: The host says that on September 18th Havas Media, on behalf of the Israel
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
-Related Nodes: N-10657, N-10662, N-10901
+Related Nodes: N-10599, N-10604, N-10822
 
 Investigative Direction: Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope.
 
@@ -1159,7 +1159,7 @@ Claim: According to the FARA filing and the host, Clock Tower X LLC is run by Br
 Anchored Artifacts: A-2049.1
 Mentions: N-430
 
-Related Nodes: N-10657
+Related Nodes: N-10599
 
 Investigative Direction: Verify corporate registration records for Clock Tower X LLC.
 
@@ -1173,7 +1173,7 @@ Claim: Per the Clock Tower X LLC FARA filing the host shows, Salem Radio Media N
 
 Anchored Artifacts: A-2049.2
 
-Related Nodes: N-10657
+Related Nodes: N-10599
 
 Investigative Direction: Obtain full filing exhibit; verify exact quoted language and listed platforms.
 
@@ -1188,7 +1188,7 @@ Claim: The host says Brad Parscale became Chief Strategy Officer of Salem Media 
 Anchored Artifacts: A-2049.1, A-2054.1
 Mentions: N-430
 
-Related Nodes: N-10657
+Related Nodes: N-10599
 
 Investigative Direction: Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.
 
@@ -1203,7 +1203,7 @@ Claim: The host shows Newsweek view counts for the Josh Hammer show of 399, 386 
 Anchored Artifacts: A-2050.1
 Mentions: N-55
 
-Related Nodes: N-10658
+Related Nodes: N-10600
 
 Investigative Direction: Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.
 
@@ -1218,7 +1218,7 @@ Claim: Per a Salem announcement article the host reads, Salem Media Group announ
 Anchored Artifacts: A-2051.1
 Mentions: N-33, N-374
 
-Related Nodes: N-10657
+Related Nodes: N-10599
 
 Investigative Direction: Obtain Salem's official press release and SEC / corporate disclosures.
 
@@ -1233,7 +1233,7 @@ Claim: Per the Salem announcement article the host reads, pursuant to the April 
 Anchored Artifacts: A-2051.1
 Mentions: N-33
 
-Related Nodes: N-10657
+Related Nodes: N-10599
 
 Investigative Direction: Verify MxM News corporate filings; confirm 30% acquisition price and structure.
 
@@ -1248,7 +1248,7 @@ Claim: The host says Pam Bondi, on her first day as Attorney General, disbanded 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
 Mentions: N-85, N-130
 
-Related Nodes: N-10659, N-10662
+Related Nodes: N-10601, N-10604
 
 Investigative Direction: Obtain DOJ memorandum directly; confirm effective date and operative language.
 
@@ -1263,7 +1263,7 @@ Claim: Per the DOJ memo language Ian Carroll reads in a clip the host plays, rec
 Anchored Artifacts: A-2053.1
 Mentions: N-85, N-130
 
-Related Nodes: N-10659
+Related Nodes: N-10601
 
 Investigative Direction: Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions.
 
@@ -1278,7 +1278,7 @@ Claim: Per a timeline the host shows, Harmeet Dhillon was sworn in on April 7, 2
 Anchored Artifacts: A-2054.1
 Mentions: N-373
 
-Related Nodes: N-10662
+Related Nodes: N-10604
 
 Investigative Direction: Confirm via DOJ announcement and Senate confirmation records.
 
@@ -1292,7 +1292,7 @@ Claim: According to the host's timeline, on August 27, 2025, Dhillon Law Group b
 
 Anchored Artifacts: A-2054.1
 
-Related Nodes: N-10657, N-10662, N-10901
+Related Nodes: N-10599, N-10604, N-10822
 
 Investigative Direction: Verify via FARA filing registrant of record and any disclosed outside counsel.
 
@@ -1321,7 +1321,7 @@ Claim: Per the host's timeline, on September 21st Charlie Kirk's memorial was ge
 Anchored Artifacts: A-2054.1
 Mentions: N-1
 
-Related Nodes: N-10657, N-10662
+Related Nodes: N-10599, N-10604
 
 Investigative Direction: Cross-check with FARA activity reports; obtain any device-level data on geofence delivery.
 
@@ -1335,7 +1335,7 @@ Claim: The host says Project 545 refers to a $545 million State of Israel Minist
 
 Anchored Artifacts: A-2055.1
 
-Related Nodes: N-10662
+Related Nodes: N-10604
 
 Investigative Direction: Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures.
 
@@ -1350,7 +1350,7 @@ Claim: The host says that on April 2, a judge dismissed 10 of 13 claims Blake Li
 Anchored Artifacts: A-2056.1
 Mentions: N-484, N-485
 
-Related Nodes: N-10661
+Related Nodes: N-10603
 
 Investigative Direction: Obtain the actual April 2 court order; verify which claims survived and on what grounds.
 
@@ -1365,7 +1365,7 @@ Claim: Per a statement from Blake Lively that the host reads, issued after the A
 Anchored Artifacts: A-2056.1
 Mentions: N-484
 
-Related Nodes: N-10661
+Related Nodes: N-10603
 
 Investigative Direction: Verify against Lively's official public statement archive.
 
@@ -1380,7 +1380,7 @@ Claim: The host says Community Notes appended to Blake Lively's statement said s
 Anchored Artifacts: A-2057.1
 Mentions: N-484
 
-Related Nodes: N-10661
+Related Nodes: N-10603
 
 Investigative Direction: Obtain screenshot of the Community Notes annotation; capture timestamp and full text.
 
@@ -1440,7 +1440,7 @@ Claim: The host says some people call Mikey McCoy the good guy for getting one m
 Anchored Artifacts: A-2061.1
 Mentions: N-190, N-14
 
-Related Nodes: N-10663
+Related Nodes: N-10605
 
 Investigative Direction: Obtain the original McCoy message screenshot; verify the exact language and date.
 
@@ -1471,7 +1471,7 @@ Transcript Snippet: They are going to be upping their spend on American propagan
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10722
+Related Nodes: N-10657
 Tags: relevance:context
 Investigative Direction: Find the primary reporting or budget document behind the figure (the episode chapter title says $730 million, which is not spoken in the transcript) and compare it to Israeli Ministry of Foreign Affairs and FARA disclosures.
 
@@ -1487,7 +1487,7 @@ Transcript Snippet: the terrifying overwhelming feeling I had in the week leadin
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10415
+Related Nodes: N-10388
 Tags: relevance:context
 Investigative Direction: Look for a contemporaneous message, post or witness from the week of September 3 to 10, 2025 that records the host acting on the feeling; this is self-reported.
 
@@ -1503,7 +1503,7 @@ Transcript Snippet: He texted Andrew Kolvet, he texted Dan Flood, and he said, "
 
 Anchored Artifacts: A-3232.1
 Mentions: N-1, N-14, N-270, N-3
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-3895
 Tags: relevance:core
 Investigative Direction: Obtain the text thread from Kolvet's and Flood's phones (or the Harpole lawsuit discovery) and confirm date, time and exact wording.
@@ -1520,7 +1520,7 @@ Transcript Snippet: they want us to believe that he meant a trans person. Okay. 
 
 Anchored Artifacts: A-3232.1
 Mentions: N-266, N-1, N-3
-Related Nodes: N-10340, N-10651, N-11258
+Related Nodes: N-10318, N-10593, N-11174
 Tags: relevance:core
 Investigative Direction: Review TPUSA's public explanation of the text and the Harpole case docket for any production of the thread.
 
@@ -1536,7 +1536,7 @@ Transcript Snippet: He recognized the side he had been supporting was demonic an
 
 Anchored Artifacts: A-2046.1
 Mentions: N-330, N-1
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:context
 Investigative Direction: Compare with Kirk's own written statements about leaving the pro-Israel cause; Coleman did not know Kirk and states a belief, not evidence.
 
@@ -1582,7 +1582,7 @@ Transcript Snippet: So, you should know that the Charlie Kirk show is hosted It'
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11351, N-11300
+Related Nodes: N-11267, N-11216
 Tags: relevance:context
 Investigative Direction: Confirm the distribution agreement between the Charlie Kirk Show and Salem Media Group from Salem's SEC filings and the show's own announcements.
 
@@ -1598,7 +1598,7 @@ Transcript Snippet: He adored Rush Limbaugh. He listened to Rush Limbaugh on the
 
 Anchored Artifacts: 
 Mentions: N-1, N-31, N-3
-Related Nodes: N-11351
+Related Nodes: N-11267
 Tags: relevance:tangential
 Investigative Direction: Check Kirk's public interviews for statements about Limbaugh's influence; the private conversation is host testimony.
 
@@ -1629,7 +1629,7 @@ Transcript Snippet: they're going to give you pro-Israel and anti-Palestinian me
 
 Anchored Artifacts: A-2048.1, A-2048.2
 Mentions: 
-Related Nodes: N-10914, N-10653
+Related Nodes: N-10835, N-10595
 Supports: C-8837
 Tags: relevance:context
 Investigative Direction: Read the Show Faith by Works FARA exhibit to confirm the scope of messaging and the October 7th event component.
@@ -1661,7 +1661,7 @@ Transcript Snippet: I actually met him for the first time with Charlie, over lun
 
 Anchored Artifacts: 
 Mentions: N-430, N-1, N-3
-Related Nodes: N-10722
+Related Nodes: N-10657
 Tags: relevance:context
 Investigative Direction: No document needed; host recollection of a private lunch.
 
@@ -1677,7 +1677,7 @@ Transcript Snippet: these documents show you that they have a financial relation
 
 Anchored Artifacts: A-2049.1, A-2049.2
 Mentions: 
-Related Nodes: N-10657, N-11351, N-10722
+Related Nodes: N-10599, N-11267, N-10657
 Tags: relevance:context
 Investigative Direction: Read the Clock Tower X FARA exhibits for any contract naming Salem and compare Salem's own statements on whether it is a party or a platform.
 
@@ -1693,7 +1693,7 @@ Transcript Snippet: He instead when Charlie died decided to tweet out a photo of
 
 Anchored Artifacts: A-3233.1
 Mentions: N-5, N-1
-Related Nodes: N-11352
+Related Nodes: N-11268
 Supports: C-71
 Tags: relevance:core
 Investigative Direction: Pull Trump's September 10, 2025 post and its image from Truth Social or X archives.
@@ -1710,7 +1710,7 @@ Transcript Snippet: the fact, and it is a fact, that Charlie changed his mind on
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-1138
 Tags: relevance:core
 Investigative Direction: Compare the group text of September 9 and other witness accounts of Kirk's stated position.
@@ -1727,7 +1727,7 @@ Transcript Snippet: Megyn Kelly was like, "Tyler Robinson on a rooftop, this loo
 
 Anchored Artifacts: 
 Mentions: N-46, N-40, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Check Kelly's broadcast and social posts from September 2025 for these positions.
 
@@ -1743,7 +1743,7 @@ Transcript Snippet: She told the truth about Charlie's shifting viewpoints on Is
 
 Anchored Artifacts: 
 Mentions: N-46, N-1, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Compare the timing of attacks on Kelly with her statements about Kirk's views; the motive is the host's inference.
 
@@ -1759,7 +1759,7 @@ Transcript Snippet: I had effectively two people that were willing to back me up
 
 Anchored Artifacts: 
 Mentions: N-22, N-46, N-1, N-3
-Related Nodes: N-10148
+Related Nodes: N-10143
 Supports: C-1354
 Tags: relevance:core
 Investigative Direction: Compare Carlson's and Kelly's own on-air statements describing conversations with Kirk.
@@ -1776,7 +1776,7 @@ Transcript Snippet: vociferously denied in the days that followed Charlie's deat
 
 Anchored Artifacts: 
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Tags: relevance:core
 Investigative Direction: Collect Hammer's posts and interviews from September 10 to 20, 2025 and compare with the group text.
 
@@ -1792,7 +1792,7 @@ Transcript Snippet: which both both Josh Hammer and an Israeli-based rabbi were 
 
 Anchored Artifacts: A-3234.1
 Mentions: N-55, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the group chat participant list from the screenshots the host published and compare with Hammer's public denials.
@@ -1809,7 +1809,7 @@ Transcript Snippet: And somehow on October 15th, he's given a a a show on the Sa
 
 Anchored Artifacts: 
 Mentions: N-55
-Related Nodes: N-11351, N-10658
+Related Nodes: N-11267, N-10600
 Tags: relevance:context
 Investigative Direction: Find the Salem or Newsweek announcement of the Hammer show and its date.
 
@@ -1825,7 +1825,7 @@ Transcript Snippet: I remember learning that that Salem was struggling financial
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11351
+Related Nodes: N-11267
 Tags: relevance:context
 Investigative Direction: Review Salem Media Group's SEC filings and press coverage of its finances and any sale process.
 
@@ -1841,7 +1841,7 @@ Transcript Snippet: He was going to be a part owner uh of He was going to own hi
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11351, N-11300, N-11353
+Related Nodes: N-11267, N-11216, N-11269
 Tags: relevance:context
 Investigative Direction: Obtain the Charlie Kirk Show LLC ownership records and the Salem distribution agreement.
 
@@ -1857,7 +1857,7 @@ Transcript Snippet: he also told me, and maybe this was once upon a time, that h
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11351, N-11300
+Related Nodes: N-11267, N-11216
 Tags: relevance:context
 Investigative Direction: Compare with Salem's segment financials; the host herself says the statement may be dated.
 
@@ -1873,7 +1873,7 @@ Transcript Snippet: Andrew Kolvet, Charlie told me specifically, owned a stake i
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-11300, N-11353
+Related Nodes: N-11216, N-11269
 Tags: relevance:core
 Investigative Direction: Obtain Charlie Kirk Show LLC ownership or profit-interest records and ask Kolvet whether he holds a stake.
 
@@ -1889,7 +1889,7 @@ Transcript Snippet: Blake Neff, Andrew Kolvet, they are paid, at least in part, 
 
 Anchored Artifacts: 
 Mentions: N-159, N-14, N-3
-Related Nodes: N-11300, N-11353
+Related Nodes: N-11216, N-11269
 Tags: relevance:core
 Investigative Direction: Find Neff's statement about who pays him and payroll or contractor records for the show.
 
@@ -1905,7 +1905,7 @@ Transcript Snippet: They even have their own separate building on the property o
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11300
+Related Nodes: N-11216
 Tags: relevance:context
 Investigative Direction: Check property records and campus descriptions for the show's studio building.
 
@@ -1921,7 +1921,7 @@ Transcript Snippet: I think Erika Kirk took an office in that building before uh
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-11300
+Related Nodes: N-11216
 Tags: relevance:core
 Investigative Direction: Ask TPUSA when Erika first used an office in the building; the host hedges with 'if I remember correctly'.
 
@@ -1937,7 +1937,7 @@ Transcript Snippet: Andrew Kolvet, according to a family source of his, so this 
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-36, N-3
-Related Nodes: N-10027, N-10456, N-10495
+Related Nodes: N-10027, N-10425, N-10458
 Tags: relevance:core
 Investigative Direction: Identify the family source; compare the date with the Hamptons retreat dates in earlier episodes and TPUSA's itinerary.
 
@@ -1953,7 +1953,7 @@ Transcript Snippet: Andrew told allegedly, I'll say allegedly here, told his clo
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-36, N-3
-Related Nodes: N-10305, N-10342, N-11353
+Related Nodes: N-10287, N-10320, N-11269
 Supports: C-5370, C-4500
 Tags: relevance:core
 Investigative Direction: Identify the family and friends who heard it; compare with earlier tips and with any documents on Kolvet's income or equity.
@@ -1985,7 +1985,7 @@ Transcript Snippet: ensuring that the Knesset's 2018 plan to skirt FARA could pr
 
 Anchored Artifacts: A-2052.1
 Mentions: N-130
-Related Nodes: N-10659
+Related Nodes: N-10601
 Tags: relevance:context
 Investigative Direction: Identify the Knesset 2018 plan Carroll refers to (and any published source) and compare with FARA enforcement data after February 2025.
 
@@ -2001,7 +2001,7 @@ Transcript Snippet: the Counterintelligence and Export Control Section, includin
 
 Anchored Artifacts: A-2053.1
 Mentions: N-85
-Related Nodes: N-10659
+Related Nodes: N-10601
 Tags: relevance:context
 Investigative Direction: Pull the February 5, 2025 Attorney General memorandum and verify this sentence.
 
@@ -2017,7 +2017,7 @@ Transcript Snippet: Afterward, he has a Zoom call with Josh Hammer and a rabbi f
 
 Anchored Artifacts: A-2054.1
 Mentions: N-1, N-55
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1511
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's account of the call, the Zoom invitation and calendar records, and Rabbi Wolicki's statements (compare episodes 16 and 17).
@@ -2034,7 +2034,7 @@ Transcript Snippet: Sometime later that evening, couple hours later, he's going 
 
 Anchored Artifacts: A-2054.1
 Mentions: N-1
-Related Nodes: N-10340, N-10169
+Related Nodes: N-10318, N-10162
 Supports: C-1559, C-3895
 Tags: relevance:core
 Investigative Direction: Obtain message timestamps from the recipients' phones to fix the interval between the Zoom call and the texts.
@@ -2051,7 +2051,7 @@ Transcript Snippet: And on October 23rd, the Josh Hammer Show joins the Salem Po
 
 Anchored Artifacts: A-2054.1
 Mentions: N-55
-Related Nodes: N-11351, N-11221, N-10658
+Related Nodes: N-11267, N-11137, N-10600
 Tags: relevance:context
 Investigative Direction: Compare the Salem and Newsweek press releases for the announcement date (October 15) and the launch date (October 23).
 
@@ -2067,7 +2067,7 @@ Transcript Snippet: the Dhillon Law Group firm, uh which has been privately suin
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10910
+Related Nodes: N-10831
 Tags: relevance:context
 Investigative Direction: Search federal and state dockets for matters against the host where Dhillon Law Group appears as counsel, and compare with the firm's FARA filings.
 
@@ -2083,7 +2083,7 @@ Transcript Snippet: Show Faith by Works LLC is going to target the churches, the
 
 Anchored Artifacts: A-2055.1
 Mentions: 
-Related Nodes: N-10914
+Related Nodes: N-10835
 Tags: relevance:context
 Investigative Direction: Read the Show Faith by Works filing scope for any reference to schools.
 
@@ -2099,7 +2099,7 @@ Transcript Snippet: she even brought in a PR crisis firm that had a former CIA a
 
 Anchored Artifacts: 
 Mentions: N-484, N-3
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Identify which firm and which person the host means (the sentence is ambiguous about who hired the firm) and check public court filings and press reports.
 
@@ -2115,7 +2115,7 @@ Transcript Snippet: what Courtney Love told me that there is like a gang operati
 
 Anchored Artifacts: 
 Mentions: N-253, N-3
-Related Nodes: N-11121
+Related Nodes: N-11039
 Tags: relevance:tangential
 Investigative Direction: Compare with Love's public statements and the host's earlier episode with her.
 
@@ -2131,7 +2131,7 @@ Transcript Snippet: I think could have had something to do with publishing right
 
 Anchored Artifacts: 
 Mentions: N-226, N-3
-Related Nodes: N-11121
+Related Nodes: N-11039
 Tags: relevance:tangential
 Investigative Direction: Check the 2018 sale of the Weinstein Company and the host's earlier coverage; the publishing-rights motive is the host's inference.
 
@@ -2147,7 +2147,7 @@ Transcript Snippet: this like civil rights employee type filing that she initial
 
 Anchored Artifacts: 
 Mentions: N-484, N-3
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Obtain the California Civil Rights Department complaint and its filing date.
 
@@ -2163,7 +2163,7 @@ Transcript Snippet: Bryan Freedman, the lawyer did the greatest thing you could 
 
 Anchored Artifacts: 
 Mentions: N-891, N-485, N-3
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Locate Freedman's response filing and the associated website.
 
@@ -2179,7 +2179,7 @@ Transcript Snippet: Although Judge Liman did not state Miss Lively was an indepe
 
 Anchored Artifacts: A-2057.1
 Mentions: N-484, N-918
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Read Judge Liman's April 2 opinion on the Title VII and independent-contractor questions.
 
@@ -2195,7 +2195,7 @@ Transcript Snippet: he continues to state that the conduct was not so far beyond
 
 Anchored Artifacts: A-2057.1
 Mentions: N-484, N-918
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Read the relevant passage of the April 2 order and compare it with the note's paraphrase.
 
@@ -2211,7 +2211,7 @@ Transcript Snippet: Even in the featured artwork for the book that they created 
 
 Anchored Artifacts: A-3235.1
 Mentions: N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Obtain the artwork and the passage text from the film's tie-in book.
 
@@ -2227,7 +2227,7 @@ Transcript Snippet: Ryan then jumped into Blake Lively and Justin Baldoni's movi
 
 Anchored Artifacts: 
 Mentions: N-375, N-376, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Find the promotional video and review its content.
 
@@ -2243,7 +2243,7 @@ Transcript Snippet: Blake Lively at that moment was saying she couldn't even be 
 
 Anchored Artifacts: A-2059.1
 Mentions: N-484, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Check premiere reporting and the lawsuit record for seating arrangements and who requested separation.
 
@@ -2259,7 +2259,7 @@ Transcript Snippet: I think he did it he did actually end up in the hospital fro
 
 Anchored Artifacts: 
 Mentions: N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Supports: C-5478
 Tags: relevance:tangential
 Investigative Direction: Look for a statement from Baldoni or his representatives; the host hedges with 'I think'.
@@ -2276,7 +2276,7 @@ Transcript Snippet: Just two weeks before the scheduled trial dates, they legal 
 
 Anchored Artifacts: 
 Mentions: N-484, N-485, N-486
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Check the docket for the settlement notice date against the scheduled trial date.
 
@@ -2292,7 +2292,7 @@ Transcript Snippet: the harassment that I have gone through privately with the D
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900, N-10416
+Related Nodes: N-10821, N-10389
 Tags: relevance:context
 Investigative Direction: Identify the arbitration and court proceedings between the host and the Daily Wire and which filings are public.
 
@@ -2308,7 +2308,7 @@ Transcript Snippet: He spoke to Justin Streiff. I was speaking to Andrew Kolvet.
 
 Anchored Artifacts: 
 Mentions: N-15, N-14, N-22, N-3
-Related Nodes: N-10300
+Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Compare call logs for the host, her husband, Streiff, Kolvet and Carlson on September 10, 2025.
 
@@ -2324,7 +2324,7 @@ Transcript Snippet: we were told when Charlie was in the hospital that he had no
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10660
+Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Establish who told her and her husband, and when, from call logs and messages; ask Carlson what he was told.
 
@@ -2340,7 +2340,7 @@ Transcript Snippet: He basically only had um that entry point um in the front an
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10660
+Related Nodes: N-10602
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Compare with the autopsy summary and the Utah medical examiner's findings.
@@ -2357,7 +2357,7 @@ Transcript Snippet: his neck was completely fine. That's why it was it was open 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10660
+Related Nodes: N-10602
 Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Confirm open-casket viewing from memorial attendees and compare to the no-neck account.
@@ -2374,7 +2374,7 @@ Transcript Snippet: they were prepared to give and I feel like it's because they
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10660
+Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Ask the people who relayed the account where it came from; the intent attribution is the host's inference.
 
@@ -2390,7 +2390,7 @@ Transcript Snippet: nobody would have known any different had it not been for fo
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10660
+Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Review Farnsworth's statements and camera footage disclosures; the host does not say which lie she means.
 
@@ -2406,7 +2406,7 @@ Transcript Snippet: Mikey was amazing. Erika said that in her first speech.
 
 Anchored Artifacts: 
 Mentions: N-190, N-2, N-3
-Related Nodes: N-10663
+Related Nodes: N-10605
 Tags: relevance:context
 Investigative Direction: Find the transcript of Erika Kirk's first public speech and the exact words about McCoy.
 
@@ -2422,7 +2422,7 @@ Transcript Snippet: They lied when they said Mikey flew into action and did all 
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-10198, N-10663
+Related Nodes: N-10190, N-10605
 Contradicts: C-2372
 Tags: relevance:core
 Investigative Direction: Compare Blake Neff's and TPUSA's accounts of McCoy's actions with hospital and call records.
@@ -2439,7 +2439,7 @@ Transcript Snippet: According to my sources, Mikey was a mess at the hospital.
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-10198, N-10663
+Related Nodes: N-10190, N-10605
 Tags: relevance:core
 Investigative Direction: Identify hospital witnesses and compare with other accounts of McCoy's condition.
 
@@ -2471,7 +2471,7 @@ Transcript Snippet: I have, you know, it on good notice that you're talking abou
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-10663
+Related Nodes: N-10605
 Tags: relevance:core
 Investigative Direction: Identify the source; check property transactions involving McCoy.
 
@@ -2487,7 +2487,7 @@ Transcript Snippet: They are in fact using bot campaigns. They use fake accounts
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11354, N-10722
+Related Nodes: N-11270, N-10657
 Supports: C-1996
 Tags: relevance:context
 Investigative Direction: Find reporting or contracts documenting bot spending (for example FARA disclosures or journalistic investigations) and compare with the host's 'Israeli bot armies' claim.
@@ -2504,7 +2504,7 @@ Transcript Snippet: I observed this in Megyn Kelly's comment section on Instagra
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
-Related Nodes: N-11354, N-10900
+Related Nodes: N-11270, N-10821
 Tags: relevance:context
 Investigative Direction: Ask the host for the analysis that identified the accounts as bots and as Israeli.
 
@@ -2520,7 +2520,7 @@ Transcript Snippet: They can also send uh 3,000 emails on a dime if you have an 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11354
+Related Nodes: N-11270
 Tags: relevance:tangential
 Investigative Direction: Collect examples of identical email campaigns against events and trace sender infrastructure.
 
@@ -2536,7 +2536,7 @@ Transcript Snippet: Crain & Co actually opted to to leave on their own and now t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Check Crain & Company's own announcement of its departure from the Daily Wire.
 
@@ -2567,7 +2567,7 @@ Transcript Snippet: and they wanted this story to end on September 21st with an 
 
 Anchored Artifacts: 
 Mentions: N-1, N-40
-Related Nodes: N-11304
+Related Nodes: N-11220
 Tags: relevance:core
 Investigative Direction: Compare with the memorial's content and TPUSA's communications plans.
 
@@ -2583,7 +2583,7 @@ Transcript Snippet: I could probably get to forgiving Tyler Robinson, too, cuz I
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the evidence gaps tracked on the Robinson node; this is the host's opinion stated as belief.
 
@@ -2599,7 +2599,7 @@ Transcript Snippet: I just literally know it's not true because of one of my sou
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11355
+Related Nodes: N-11271
 Tags: relevance:core
 Investigative Direction: The source is unnamed; confirm against medical and funeral records.
 
@@ -2615,7 +2615,7 @@ Transcript Snippet: but not with the car and the even even the amount of blood t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11355
+Related Nodes: N-11271
 Tags: relevance:core
 Investigative Direction: Review any photographs or reports of the vehicle; the host does not say how she knows the amount of blood.
 
@@ -2732,7 +2732,7 @@ Confidence: high
 - **Name uncertainty:** Transcript uses both "Andrew Kolvet" (29:32, 30:23) and "Andrew Kolvet" (28:36, 57:03) – **Andrew Kolvet** is the correct name per prior episodes.
 - **Name uncertainty:** Transcript uses "Erika Kirk" once (07:55); **Erika Kirk** is the canonical name.
 - **Artifact verbally referenced but not shown:** A-2060.1 (Charlie Kirk Sept 9 group text) and A-2061.1 (Mikey McCoy message) are referenced by the host but not displayed in this episode.
-- **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10660) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Streiff organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
+- **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10602) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Streiff organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
 - **Timestamp uncertainty (internal inconsistency):** Host first states Josh Hammer show was announced on Salem "October 15th" (24:03) but later the timeline reads "October 23rd" as the join date (37:55). Both dates preserved as host stated.
 - **Possible transcription error:** "Crain & Co" (1:03:14) appears to refer to **Crain & Company** (sports talent agency) referenced in prior episode.
 - **Interpretive commentary, not inscribed:** Host's broader thesis that Israel "killed" or orchestrated Charlie Kirk's assassination is a framing premise, not an artifact-anchored claim in this episode. C-8826 records Coleman's stated view; C-8832 records Netanyahu's denial; neither proves the underlying assertion.
@@ -2748,9 +2748,9 @@ Claim Range: C-8822–C-8906
 
 New Nodes Introduced (People): N-373, N-374, N-130, N-375, N-376
 
-New Nodes Introduced (Investigation Targets): N-10657, N-10658, N-10659, N-10660, N-10661, N-10662, N-10663
+New Nodes Introduced (Investigation Targets): N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605
 
-New Nodes Introduced (Organizations): N-10901
+New Nodes Introduced (Organizations): N-10822
 
 Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Terryl Farnsworth, Justin Streiff
 

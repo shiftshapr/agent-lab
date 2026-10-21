@@ -226,9 +226,9 @@
             "C-13384"
           ],
           "related_nodes": [
-            "N-10847",
-            "N-10848",
-            "N-10850"
+            "N-10770",
+            "N-10771",
+            "N-10773"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,8 +263,8 @@
             "C-13371"
           ],
           "related_nodes": [
-            "N-10847",
-            "N-10850"
+            "N-10770",
+            "N-10773"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,7 +291,7 @@
             "C-13401"
           ],
           "related_nodes": [
-            "N-10848"
+            "N-10771"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -317,7 +317,7 @@
             "C-13401"
           ],
           "related_nodes": [
-            "N-10848"
+            "N-10771"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -467,7 +467,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10849"
+            "N-10772"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -481,8 +481,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10847",
-      "ref": "N-10847",
+      "@id": "N-10770",
+      "ref": "N-10770",
       "name": "\"Waluigi\" Unknown Driver",
       "type": "investigation_target",
       "description": "Code name assigned by the host to the unidentified operator of the second grey Dodge Challenger observed in the UVU admin/admissions lot; distinguished from the \"Maroon Boy.\" Height and clothing shape stated as identifying traits; identity not established.",
@@ -501,13 +501,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10848",
-      "ref": "N-10848",
+      "@id": "N-10771",
+      "ref": "N-10771",
       "name": "Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
       "type": "investigation_target",
       "description": "Persistent inconsistency between the Sept 15 search warrant narrative (Robinson visits wooded area 8:28–9:24 AM; visits parking-garage top first) and Agent Hull's preliminary-hearing testimony (omits top-of-structure stop; rearranges on-campus activity order).",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10849",
-      "ref": "N-10849",
+      "@id": "N-10772",
+      "ref": "N-10772",
       "name": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
       "type": "investigation_target",
       "description": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shelaine and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.",
@@ -542,8 +542,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10850",
-      "ref": "N-10850",
+      "@id": "N-10773",
+      "ref": "N-10773",
       "name": "Two Grey Dodge Challengers Discrepancy",
       "type": "investigation_target",
       "description": "Persistent question concerning the simultaneous presence of two grey Dodge Challengers on UVU campus within ~20 minutes of one another on Sept 10, with the host assigning separate code names to the operators (\"Maroon Boy\" / \"Waluigi\") and stating no unified prosecution narrative accounts for both vehicles.",
@@ -562,7 +562,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10847"
+        "N-10770"
       ]
     },
     {
@@ -1140,8 +1140,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10040",
-      "ref": "N-10040",
+      "@id": "N-10038",
+      "ref": "N-10038",
       "name": "Robinson On-Campus Linger Timeline",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1160,8 +1160,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1178,8 +1178,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10168",
-      "ref": "N-10168",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1195,8 +1195,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1213,8 +1213,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1232,8 +1232,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1249,8 +1249,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10974",
-      "ref": "N-10974",
+      "@id": "N-10895",
+      "ref": "N-10895",
       "name": "PETN Explosive",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1288,8 +1288,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@id": "N-11065",
+      "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1305,8 +1305,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11168",
-      "ref": "N-11168",
+      "@id": "N-11084",
+      "ref": "N-11084",
       "name": "Saprea",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11315",
-      "ref": "N-11315",
+      "@id": "N-11231",
+      "ref": "N-11231",
       "name": "Pre-Event Morning Meeting at UVU Hypothesis",
       "type": "topic",
       "description": "The host's suggestion that a morning meeting may have taken place at UVU ahead of the September 10 event.",
@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11316",
-      "ref": "N-11316",
+      "@id": "N-11232",
+      "ref": "N-11232",
       "name": "2026 Midterm Outlook and Conservative Infighting Commentary",
       "type": "topic",
       "description": "The host's commentary on prediction-market odds, X posts and critics of the party in the run-up to the 2026 midterms.",
@@ -1641,8 +1641,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-10847",
-        "N-10850"
+        "N-10770",
+        "N-10773"
       ],
       "tags": [],
       "claim_timestamp": "00:01:52–00:05:41",
@@ -1658,8 +1658,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-10847",
-        "N-10850"
+        "N-10770",
+        "N-10773"
       ],
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:41",
@@ -1675,8 +1675,8 @@
         "A-2413.1"
       ],
       "related_nodes": [
-        "N-10847",
-        "N-10850"
+        "N-10770",
+        "N-10773"
       ],
       "tags": [],
       "claim_timestamp": "00:11:33–00:13:00",
@@ -1709,7 +1709,7 @@
         "A-2414.1"
       ],
       "related_nodes": [
-        "N-10848"
+        "N-10771"
       ],
       "tags": [],
       "claim_timestamp": "00:18:34–00:19:42",
@@ -1730,7 +1730,7 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-10848"
+        "N-10771"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42–00:21:12",
@@ -1747,7 +1747,7 @@
       "claim": "The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45",
@@ -1826,7 +1826,7 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -1849,8 +1849,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-10847",
-        "N-10850"
+        "N-10770",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -1872,8 +1872,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-10847",
-        "N-10850"
+        "N-10770",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -1896,8 +1896,8 @@
       "claim": "The host says that she and her team have no idea what either Maroon Boy or Waluigi did during roughly an hour and a half on campus, and that no narrative has been provided for that time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850",
-        "N-10040"
+        "N-10773",
+        "N-10038"
       ],
       "tags": [
         "relevance:core"
@@ -1917,8 +1917,8 @@
       "claim": "The host says that from the preliminary hearing the only thing known about Maroon Boy is that he parked, went up to a Turning Point USA employee and asked whether this was where the event would be held.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10040",
-        "N-11149"
+        "N-10038",
+        "N-11065"
       ],
       "tags": [
         "relevance:core"
@@ -1941,7 +1941,7 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-10848"
+        "N-10771"
       ],
       "tags": [
         "relevance:core"
@@ -1964,8 +1964,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-10847",
-        "N-10850"
+        "N-10770",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -1990,7 +1990,7 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2012,7 +2012,7 @@
       "claim": "The host says the prosecution has presented no photos or videos of an identifiable Dodge Challenger parked off campus, so linking the garage car to the person who later returned in a black shirt is assumption.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2032,7 +2032,7 @@
       "claim": "The host says that the Dodge Challenger which \"we were told\" returned after midnight and pulled up to Officer Goforth for a conversation was not accompanied by any indication from them that Goforth had body cam footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2055,7 +2055,7 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-10848"
+        "N-10771"
       ],
       "tags": [
         "relevance:core"
@@ -2078,8 +2078,8 @@
         "A-2413.1"
       ],
       "related_nodes": [
-        "N-10850",
-        "N-10040"
+        "N-10773",
+        "N-10038"
       ],
       "tags": [
         "relevance:core"
@@ -2102,7 +2102,7 @@
       ],
       "related_nodes": [
         "N-10011",
-        "N-10040"
+        "N-10038"
       ],
       "tags": [
         "relevance:core"
@@ -2129,7 +2129,7 @@
       ],
       "related_nodes": [
         "N-10032",
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2153,7 +2153,7 @@
       ],
       "related_nodes": [
         "N-10032",
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2173,7 +2173,7 @@
       "claim": "The host says her show broke the story that Tyler Robinson was seen at a Dairy Queen and that he was reportedly throwing out clothes in a nearby cemetery, a story she says has never been formally addressed or denied.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core"
@@ -2219,7 +2219,7 @@
         "A-3171.1"
       ],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [
         "relevance:core",
@@ -2240,7 +2240,7 @@
       "claim": "The host says she believes Robinson's car was used around campus, possibly driven by his boyfriend Lance, and that she does not buy the story that Lance slept through the entire day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10168"
+        "N-10161"
       ],
       "tags": [
         "relevance:core"
@@ -2263,7 +2263,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10019",
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2305,7 +2305,7 @@
       "claim": "The host says it is plausible that a morning meeting took place at UVU ahead of what she calls a very carefully planned assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11315",
+        "N-11231",
         "N-10012"
       ],
       "tags": [
@@ -2326,7 +2326,7 @@
       "claim": "The host says she thinks Miss Noble and her husband were telling the truth when they said they saw a bald man and two other people in a Dodge Challenger early on September 11.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2350,7 +2350,7 @@
       "claim": "The host says she suspects the people in that Dodge Challenger were driving a rental car, and that her best evidence is that no one, least of all the feds, can keep a story straight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10850"
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2371,7 +2371,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10019",
-        "N-10343"
+        "N-10321"
       ],
       "tags": [
         "relevance:core"
@@ -2394,7 +2394,7 @@
         "A-2414.1"
       ],
       "related_nodes": [
-        "N-10848",
+        "N-10771",
         "N-10019"
       ],
       "tags": [
@@ -2418,7 +2418,7 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-10848"
+        "N-10771"
       ],
       "tags": [
         "relevance:core"
@@ -2445,7 +2445,7 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-10848"
+        "N-10771"
       ],
       "tags": [
         "relevance:core"
@@ -2473,7 +2473,7 @@
       ],
       "related_nodes": [
         "N-10019",
-        "N-10848"
+        "N-10771"
       ],
       "tags": [
         "relevance:core"
@@ -2494,8 +2494,8 @@
       "claim": "The host says that after Miss Noble called in, the time the Dodge Challenger was in front of her house was adjusted three times across three different warrants despite being on surveillance.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10848",
-        "N-10850"
+        "N-10771",
+        "N-10773"
       ],
       "tags": [
         "relevance:core"
@@ -2516,8 +2516,8 @@
       "claim": "The host says Charlie Kirk did not have a neck of steel, that a .300 round would have passed through it, that he simply was not shot by a .300 and potentially was not shot at all, and that she thinks an explosive is much more likely.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447",
-        "N-10974"
+        "N-10416",
+        "N-10895"
       ],
       "tags": [
         "relevance:core"
@@ -2540,7 +2540,7 @@
         "A-3173.1"
       ],
       "related_nodes": [
-        "N-10849",
+        "N-10772",
         "N-10012"
       ],
       "tags": [
@@ -2563,7 +2563,7 @@
         "A-3173.1"
       ],
       "related_nodes": [
-        "N-10849"
+        "N-10772"
       ],
       "tags": [
         "relevance:core"
@@ -2585,8 +2585,8 @@
         "A-3173.1"
       ],
       "related_nodes": [
-        "N-11168",
-        "N-10849"
+        "N-11084",
+        "N-10772"
       ],
       "tags": [
         "relevance:core"
@@ -2613,7 +2613,7 @@
         "A-3173.1"
       ],
       "related_nodes": [
-        "N-10849",
+        "N-10772",
         "N-10012"
       ],
       "tags": [
@@ -2641,7 +2641,7 @@
         "A-3173.1"
       ],
       "related_nodes": [
-        "N-10849",
+        "N-10772",
         "N-10012"
       ],
       "tags": [
@@ -2666,7 +2666,7 @@
         "A-3173.1"
       ],
       "related_nodes": [
-        "N-10849",
+        "N-10772",
         "N-10012"
       ],
       "tags": [
@@ -2694,7 +2694,7 @@
         "A-3172.1"
       ],
       "related_nodes": [
-        "N-10849"
+        "N-10772"
       ],
       "tags": [
         "relevance:core",
@@ -2715,8 +2715,8 @@
       "claim": "The host says that whatever topic she covers, Jeremy Boreing then hosts someone to discuss it and takes the opposite position, and that his show's thumbnails are largely about her and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10416",
-        "N-10900"
+        "N-10389",
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2740,7 +2740,7 @@
         "A-2408.1"
       ],
       "related_nodes": [
-        "N-10416"
+        "N-10389"
       ],
       "tags": [
         "relevance:tangential"
@@ -2788,7 +2788,7 @@
         "A-2406.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2811,7 +2811,7 @@
         "A-2406.1"
       ],
       "related_nodes": [
-        "N-10416"
+        "N-10389"
       ],
       "tags": [
         "relevance:tangential"
@@ -2857,7 +2857,7 @@
       "claim": "The host says that she is the employee Boreing fired but that he cannot let go, and that she occupies his every thought.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2922,7 +2922,7 @@
       "claim": "The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on and talks about how she should be sued.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2945,7 +2945,7 @@
         "A-3170.1"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2971,7 +2971,7 @@
         "A-3170.2"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2993,7 +2993,7 @@
         "A-2411.1"
       ],
       "related_nodes": [
-        "N-11316"
+        "N-11232"
       ],
       "tags": [
         "relevance:tangential"
@@ -3016,7 +3016,7 @@
       "claim": "The host says speech censorship is being platformed and demanded by people such as Mark Levin and a person she names as Andrew Type, and that they want the state involved in lawsuits.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11316"
+        "N-11232"
       ],
       "tags": [
         "relevance:tangential"
@@ -3037,7 +3037,7 @@
       "claim": "The host says GOP figures attacked Thomas Massie and got him out of there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11316"
+        "N-11232"
       ],
       "tags": [
         "relevance:tangential"
@@ -3058,7 +3058,7 @@
       "claim": "The host says Laura Loomer referred to her as a ghetto black followed by an expletive, and questions what that would do for black voter turnout.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11316"
+        "N-11232"
       ],
       "tags": [
         "relevance:context"

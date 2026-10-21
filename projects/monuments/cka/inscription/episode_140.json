@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10791"
+            "N-10715"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
             "C-12032"
           ],
           "related_nodes": [
-            "N-10793"
+            "N-10717"
           ],
           "tags": [],
           "video_timestamp": "00:10:05",
@@ -67,7 +67,7 @@
             "C-12035"
           ],
           "related_nodes": [
-            "N-10791"
+            "N-10715"
           ],
           "tags": [],
           "video_timestamp": "00:11:53",
@@ -83,7 +83,7 @@
             "C-12036"
           ],
           "related_nodes": [
-            "N-10791"
+            "N-10715"
           ],
           "tags": [],
           "video_timestamp": "00:13:22",
@@ -205,7 +205,7 @@
             "C-12059"
           ],
           "related_nodes": [
-            "N-10792"
+            "N-10716"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
             "C-12059"
           ],
           "related_nodes": [
-            "N-10792"
+            "N-10716"
           ],
           "tags": [],
           "video_timestamp": "00:27:34",
@@ -255,7 +255,7 @@
             "C-12070"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "video_timestamp": "00:32:20",
@@ -271,7 +271,7 @@
             "C-12070"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
             "C-12073"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -393,7 +393,7 @@
             "C-12108"
           ],
           "related_nodes": [
-            "N-10793"
+            "N-10717"
           ],
           "tags": [],
           "video_timestamp": "00:52:51",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10791",
-      "ref": "N-10791",
+      "@id": "N-10715",
+      "ref": "N-10715",
       "name": "Parking-Garage Subject Identity Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).",
@@ -699,8 +699,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10792",
-      "ref": "N-10792",
+      "@id": "N-10716",
+      "ref": "N-10716",
       "name": "George Zinn Device Identification",
       "type": "investigation_target",
       "description": "Open investigative target: identify the walkie-talkie / iPhone-like device visible during George Zinn's arrest footage.",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10793",
-      "ref": "N-10793",
+      "@id": "N-10717",
+      "ref": "N-10717",
       "name": "Tyler Robinson Handedness Verification",
       "type": "investigation_target",
       "description": "Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twiggs's apparent handedness.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the Dairy Queen sighting claims.",
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10052",
-      "ref": "N-10052",
+      "@id": "N-10049",
+      "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
       "type": "investigation_target",
       "description": "Existing topic reused for the doorbell footage in the return-home timeline.",
@@ -1174,8 +1174,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10062",
-      "ref": "N-10062",
+      "@id": "N-10059",
+      "ref": "N-10059",
       "name": "Orem, Utah",
       "type": "investigation_target",
       "description": "Place the host says Robinson left and returned to.",
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
       "type": "investigation_target",
       "description": "Existing topic reused for the alleged confession message.",
@@ -1209,8 +1209,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@id": "N-10093",
+      "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
       "type": "investigation_target",
       "description": "Existing topic reused for the Zinn arrest claims.",
@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Existing topic reused for the pastors complaining about the host.",
@@ -1243,8 +1243,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for the McCoy statements.",
@@ -1260,8 +1260,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Existing topic reused for the McCoy call-sequence claims.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the Panguitch steak house claim.",
@@ -1297,8 +1297,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for Weidner's alleged targeting.",
@@ -1314,8 +1314,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10780",
-      "ref": "N-10780",
+      "@id": "N-10705",
+      "ref": "N-10705",
       "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the 92-member group-chat claims.",
@@ -1339,8 +1339,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10787",
-      "ref": "N-10787",
+      "@id": "N-10711",
+      "ref": "N-10711",
       "name": "Lance Twiggs Handedness Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the Lance fingerprint claim.",
@@ -1356,8 +1356,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Gary Melton's channel; the host says its account was virtually the only male in the group.",
@@ -1373,8 +1373,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Organization; the host links the super fan accounts and her own pregnancy photos to it.",
@@ -1393,8 +1393,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11066",
-      "ref": "N-11066",
+      "@id": "N-10984",
+      "ref": "N-10984",
       "name": "Wilson Debate Crucible Team Anonymity",
       "type": "investigation_target",
       "description": "Existing topic reused for the Wilson team negotiations.",
@@ -1412,8 +1412,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11067",
-      "ref": "N-11067",
+      "@id": "N-10985",
+      "ref": "N-10985",
       "name": "Wilson Debate Studio Access Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for the smoking and studio rules dispute.",
@@ -1437,8 +1437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@id": "N-11098",
+      "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
       "type": "investigation_target",
       "description": "Existing topic reused for the PR agent claim.",
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11259",
-      "ref": "N-11259",
+      "@id": "N-11175",
+      "ref": "N-11175",
       "name": "Wilson Debate Moderator Selection",
       "type": "topic",
       "description": "The host's account that a moderator, Andrew Wilson's second pick after Michael Knowles declined, has been secured for the Friday debate.",
@@ -1544,8 +1544,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11260",
-      "ref": "N-11260",
+      "@id": "N-11176",
+      "ref": "N-11176",
       "name": "Media Maroon-Shirt Seeding Claim",
       "type": "topic",
       "description": "The host's claim that media outlets selectively released maroon-shirt photos of Tyler Robinson to seed the idea that he loves maroon.",
@@ -1561,8 +1561,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11261",
-      "ref": "N-11261",
+      "@id": "N-11177",
+      "ref": "N-11177",
       "name": "Robinson September 10 Day Timeline Plausibility",
       "type": "topic",
       "description": "The host's step-by-step recount of the official account of Robinson's movements on September 10 and her argument that the drives, clothing changes and awake time are implausible.",
@@ -1595,8 +1595,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11262",
-      "ref": "N-11262",
+      "@id": "N-11178",
+      "ref": "N-11178",
       "name": "Andrew Wilson TPUSA Debate Training Engagement",
       "type": "topic",
       "description": "The host's claim that Turning Point USA brought in and paid Andrew Wilson to teach students to debate.",
@@ -1623,8 +1623,8 @@
         "A-2267.2"
       ],
       "related_nodes": [
-        "N-10791",
-        "N-10793"
+        "N-10715",
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:10:05",
@@ -1640,7 +1640,7 @@
         "A-2267.3"
       ],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [],
       "claim_timestamp": "00:11:53",
@@ -1656,7 +1656,7 @@
         "A-2267.4"
       ],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [],
       "claim_timestamp": "00:13:22",
@@ -1707,7 +1707,7 @@
         "A-2269.1"
       ],
       "related_nodes": [
-        "N-10793"
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
@@ -1746,7 +1746,7 @@
         "A-2272.1"
       ],
       "related_nodes": [
-        "N-10792"
+        "N-10716"
       ],
       "tags": [],
       "claim_timestamp": "00:27:34",
@@ -1890,7 +1890,7 @@
       "claim": "The host states that it is in the documents that Tyler Robinson is right-handed and that in 'the court thing' he is taking notes with his right hand; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10793"
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:52:51",
@@ -1909,7 +1909,7 @@
         "A-2276.1"
       ],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [],
       "claim_timestamp": "00:04:18",
@@ -1923,8 +1923,8 @@
       "claim": "The host says that in weekend negotiations Andrew Wilson's team voiced paranoia that her team might mute them, lower their volume, steal the funds and then cancel the debate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11066",
-        "N-11067"
+        "N-10984",
+        "N-10985"
       ],
       "tags": [
         "relevance:context"
@@ -1945,7 +1945,7 @@
       "claim": "The host says a moderator has been secured for this Friday's debate with Andrew Wilson and is already helping to get it over the finish line, but she is not naming the moderator because they may want to announce it themselves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11259"
+        "N-11175"
       ],
       "tags": [
         "relevance:context"
@@ -1966,7 +1966,7 @@
       "claim": "The host says the X handle No Soup for Knowles was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -2009,7 +2009,7 @@
         "A-3078.1"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -2048,8 +2048,8 @@
       "claim": "The host says that if Tyler Robinson is the patsy, the outfit of the person caught on neighborhood cameras and in the stairwell was pre-selected as maroon, so the public was told at once that Tyler loves maroon.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11260",
-        "N-10791"
+        "N-11176",
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -2072,8 +2072,8 @@
       "claim": "The host says that in last week's episode she showed that the blurry images of the person coming down the stairs have him putting his phone in his left hand.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10791",
-        "N-10793"
+        "N-10715",
+        "N-10717"
       ],
       "tags": [
         "relevance:core"
@@ -2096,7 +2096,7 @@
       "claim": "The host says the new stills come from 4K footage that was shown in the courtroom to influencers, and that the compressed, blurry version the public saw hides the subject's apparent left-handedness.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -2115,7 +2115,7 @@
         "A-2267.1"
       ],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -2137,7 +2137,7 @@
         "A-2267.1"
       ],
       "related_nodes": [
-        "N-10791"
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -2155,8 +2155,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10011",
-        "N-11261",
-        "N-10052"
+        "N-11177",
+        "N-10049"
       ],
       "tags": [
         "relevance:core"
@@ -2180,7 +2180,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2201,7 +2201,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2221,7 +2221,7 @@
       "claim": "The host recounts the official account that after leaving campus Robinson parked off campus, changed outfits, and put on a long-sleeve black shirt and blue jeans before returning to commit the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2241,7 +2241,7 @@
       "claim": "The host says that at 11:28 Robinson sent his Wordle score to his friends and that the word of the day was pouty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2261,7 +2261,7 @@
       "claim": "The host recounts the official account that Robinson shoved a broken-down German 98 Mauser into his pants and limped back onto campus with a new hat and new backpack.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2281,8 +2281,8 @@
       "claim": "The host recounts that after the shooting Robinson changed back into his maroon shirt while keeping the jeans on and was then spotted at Dairy Queen.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051",
-        "N-11261"
+        "N-10048",
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2302,9 +2302,9 @@
       "claim": "The host recounts that Robinson left Orem, drove three hours to the Cowboy Steak House in Panguitch, sat at the bar and ordered a steak combo with a soft drink and no alcohol.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381",
-        "N-10062",
-        "N-11261"
+        "N-10354",
+        "N-10059",
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2324,8 +2324,8 @@
       "claim": "The host recounts that after the steak Robinson drove back up to Orem, another three hours, to retrieve his rifle during the largest federal manhunt, returning to the scene of the crime.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10062",
-        "N-11261"
+        "N-10059",
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2347,7 +2347,7 @@
         "A-2270.1"
       ],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2373,7 +2373,7 @@
         "A-2270.1"
       ],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2395,7 +2395,7 @@
         "A-2270.1"
       ],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2415,8 +2415,8 @@
       "claim": "The host says Robinson gave up on retrieving the rifle, left Orem around 1:35 a.m. and drove four hours back to St. George, arriving at the earliest at 5:00 a.m., based on his text messages to Lance and other doorbell footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10052",
-        "N-11261"
+        "N-10049",
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2437,7 +2437,7 @@
       "claim": "The host calculates that, on the official account, Robinson had been awake for 25 hours straight and had driven about 13 hours and 20 minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2457,7 +2457,7 @@
       "claim": "The host recounts that after an hour at home Robinson drove about an hour to Cedar City, where he was captured on gas station footage filling his tank, and that no answer has been given for why he bought gas that far away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2477,7 +2477,7 @@
       "claim": "The host says that according to Lance's expected testimony, Lance sees Robinson face to face in their apartment when he wakes up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2498,7 +2498,7 @@
       "claim": "The host says Robinson had not changed his shirt after returning home because he was going to be wearing the same shirt when he was arrested.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11261"
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2518,9 +2518,9 @@
       "claim": "The host says the Feds do not want to address or respond to Robinson being at Dairy Queen or at the steak house, and calls the testimonies weak.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051",
-        "N-10381",
-        "N-11261"
+        "N-10048",
+        "N-10354",
+        "N-11177"
       ],
       "tags": [
         "relevance:core"
@@ -2540,7 +2540,7 @@
       "claim": "The host says a young woman who has helped her research reached out and told her to look at what was falling out of George Zinn's pants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10792"
+        "N-10716"
       ],
       "tags": [
         "relevance:core"
@@ -2563,7 +2563,7 @@
       "claim": "The host says George Zinn, whom she calls decoy boy number one, said \"I did it. I did it.\" before coming down, and that she admits she did not pay enough attention to his arrest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [
         "relevance:core"
@@ -2585,7 +2585,7 @@
         "A-3079.1"
       ],
       "related_nodes": [
-        "N-10792"
+        "N-10716"
       ],
       "tags": [
         "dia",
@@ -2610,7 +2610,7 @@
       "claim": "The host says one of the 92 members spoke to her, said she participated, apologised, and explained she left because the group became toxic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:context"
@@ -2633,7 +2633,7 @@
       "claim": "The host says people in the group legitimately thought she and her husband were purchasing a house for their eight nannies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:tangential"
@@ -2653,7 +2653,7 @@
       "claim": "The host says a previous group chat of only 26 members, which she calls a Jewish group chat, radicalised a member who started plotting her assassination, leading to FBI involvement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:context"
@@ -2692,7 +2692,7 @@
       "claim": "The host says her team discovered that a Jewish woman put the group together and that she had been involved in pro-Israel causes long before Charlie Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:context"
@@ -2712,7 +2712,7 @@
       "claim": "The host says that because the member who left described the group as becoming dangerous, her team will be filing something and has found out more information about other group members.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:context"
@@ -2732,7 +2732,7 @@
       "claim": "The host says the Daily Wire had a bizarre super fan community and that the then-CEO flew these people out to the Daily Wire to meet the super fans.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2752,8 +2752,8 @@
       "claim": "The host says Britta, a Daily Wire super fan, attacked her with the Crisis King material, and says she knew the Daily Wire's PR agent and Jeremy Boreing were working through her, because Boreing likes to find people who will do whatever for him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-11182"
+        "N-10821",
+        "N-11098"
       ],
       "tags": [
         "relevance:context"
@@ -2775,8 +2775,8 @@
       "claim": "The host says Britta Weidner went after her family and husband and was part of the people perpetuating the lies about her husband back in April, and is also in the group of 92.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780",
-        "N-10416"
+        "N-10705",
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -2819,7 +2819,7 @@
         "A-3080.1"
       ],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:context",
@@ -2843,7 +2843,7 @@
       "claim": "The host says her team has just learned that a conservative corporation has top people at the company involved in the group chat, and calls this the beginning of the story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10780"
+        "N-10705"
       ],
       "tags": [
         "relevance:context"
@@ -2863,8 +2863,8 @@
       "claim": "The host says the account she calls Paramount Not Tactical was virtually the only male in the Protect Mrs. Erika Kirk group chat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10780"
+        "N-10820",
+        "N-10705"
       ],
       "tags": [
         "relevance:context"
@@ -2884,8 +2884,8 @@
       "claim": "The host says she has had no new demands from Andrew Wilson since the in-public negotiation that he insisted on, although his team has proposed various other ideas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11066",
-        "N-11067"
+        "N-10984",
+        "N-10985"
       ],
       "tags": [
         "relevance:context"
@@ -2906,7 +2906,7 @@
       "claim": "The host says the person who has stepped up to moderate was Andrew Wilson's second pick, because Michael Knowles respectfully declined.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11259"
+        "N-11175"
       ],
       "tags": [
         "relevance:context"
@@ -2927,8 +2927,8 @@
       "claim": "The host says Andrew Wilson tried to negotiate a clause under which he automatically wins if there are any ad hominem attacks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11066",
-        "N-11067"
+        "N-10984",
+        "N-10985"
       ],
       "tags": [
         "relevance:context"
@@ -2949,7 +2949,7 @@
       "claim": "The host says the dispute with Wilson's side came down to her telling them that he cannot smoke cigarettes in her home, which his wife Rachel Wilson reacted strongly against.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [
         "relevance:context"
@@ -2973,7 +2973,7 @@
         "A-3081.1"
       ],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [
         "relevance:tangential"
@@ -2996,7 +2996,7 @@
         "A-3081.2"
       ],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [
         "relevance:tangential"
@@ -3019,7 +3019,7 @@
         "A-3081.3"
       ],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -3148,7 +3148,7 @@
       "claim": "The host says she herself suggested that Andrew Wilson's wife should shut up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [
         "relevance:tangential"
@@ -3189,7 +3189,7 @@
       "claim": "The host says Andrew Wilson himself did not try to negotiate being able to smoke cigarettes, only his wife objected.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [
         "relevance:tangential"
@@ -3230,7 +3230,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -3268,7 +3268,7 @@
       "claim": "The host says TPUSA initially told the public that Mikey McCoy instantly called Erika, then it emerged that he did not call Erika but called his wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3292,7 +3292,7 @@
       "claim": "The host says there were three-way calls and that in her opinion the call with Erika was way too short.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3316,7 +3316,7 @@
       "claim": "The host says McCoy was on the phone with Danny Philip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -3337,7 +3337,7 @@
       "claim": "The host says that TPUSA figures are on record lying about what happened with McCoy's behaviour, and that she thinks everyone involved should have said nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -3360,7 +3360,7 @@
       "claim": "The host says there are pastors complaining that their church members are getting caught in the cult of Candace.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:tangential"
@@ -3466,7 +3466,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11262"
+        "N-11178"
       ],
       "tags": [
         "relevance:context"
@@ -3486,8 +3486,8 @@
       "claim": "The host says Robinson is right-handed, as the documents show, and that the person she believes was coming down the steps made a mistake because you cannot rewire your brain for a morning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10793",
-        "N-10791"
+        "N-10717",
+        "N-10715"
       ],
       "tags": [
         "relevance:core"
@@ -3510,7 +3510,7 @@
       "claim": "The host says the evidence includes Lance's fingerprints everywhere the prosecution says Tyler's are, and that it does not make sense to her that Lance would suddenly get federal immunity even for a short period.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10787"
+        "N-10711"
       ],
       "tags": [
         "relevance:core"
@@ -3531,7 +3531,7 @@
       "claim": "The host says she is not going to put up any boundaries at all about Rachel Wilson attending, though she thinks the wife is toxic and obnoxious.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11067"
+        "N-10985"
       ],
       "tags": [
         "relevance:context"

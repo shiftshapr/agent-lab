@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq111
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-649, N-650, N-651, N-652, N-653, N-654, N-655, N-656, N-657, N-658, N-10948, N-10949, N-10950, N-10951, N-10952
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-159, N-244, N-341, N-450, N-451, N-550, N-579, N-624, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-648, N-647
+  - Tip-minted Nodes (skeleton): N-649, N-650, N-651, N-652, N-653, N-654, N-655, N-656, N-657, N-658, N-10869, N-10870, N-10871, N-10872, N-10873
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-159, N-244, N-341, N-450, N-451, N-550, N-579, N-624, N-10000, N-10008, N-10026, N-10053, N-10067, N-10186, N-10328, N-10349, N-10374, N-10384, N-10406, N-10420, N-10493, N-10606, N-10582, N-10637, N-10809, N-10844, N-10875, N-10874, N-648, N-647
   - Claim Range: C-9706–C-9768
   - (see registers)
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:04:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9710, N-3, N-647, N-624, N-10948*
+*Related: C-9710, N-3, N-647, N-624, N-10869*
 
 **A-2618.2** Laura Loomer post alleging a Dugin meeting and calling for FARA registration and FinCEN flags (shown and read aloud)
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:06:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9711, C-9713, N-60, N-3, N-30, N-647, N-648, N-10949*
+*Related: C-9711, C-9713, N-60, N-3, N-30, N-647, N-648, N-10870*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:20:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9721, C-9722, N-649, N-650, N-10951*
+*Related: C-9721, C-9722, N-649, N-650, N-10872*
 
 **A-2620.2** New York Times article "The Riddle of Armand Hammer" (quoted aloud)
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:27:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9727, N-3, N-649, N-10952*
+*Related: C-9727, N-3, N-649, N-10873*
 
 **A-2621.2** Host's photos from the Russia trip (grocery stores, Christian icons, an old Bible)
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:53:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9745, C-9746, N-658, N-10954*
+*Related: C-9745, C-9746, N-658, N-10875*
 
 ---
 
@@ -264,7 +264,7 @@ Video Timestamp: 01:05:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9757, C-9758, N-1, N-2, N-10664*
+*Related: C-9757, C-9758, N-1, N-2, N-10606*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 01:19:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9767, N-2, N-10700*
+*Related: C-9767, N-2, N-10637*
 
 ---
 
@@ -542,152 +542,140 @@ Subject of the reported US military merger headline.
 
 *Related: C-9719, A-2619.1*
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 The host restates that Charlie Kirk was changing his mind about Israel.
 
 *Related: C-9741*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Reporters were shown the appointment video exclusively, per the host.
 
 *Related: C-9752*
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Erika Kirk's November 2025 Megyn Kelly interview introduced the appointment video.
 
 *Related: C-9747*
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 The host restates that Charlie attended Catholic mass, sometimes daily.
 
 *Related: C-9741*
 
-**N-10376** AmFest Tent Recreation Approval Chain
+**N-10349** AmFest Tent Recreation Approval Chain
 
 The host cites the recreated tent for selfies alongside the displayed microphone.
 
 *Related: C-9750*
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Context for the allegation the heckler referenced about Erika Kirk's past.
 
 *Related: C-9732*
 
-**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 The host says the church Erika Kirk partnered with is being sued and the lawsuit is ongoing.
 
 *Related: C-9732*
 
-**N-10437** Aspen Donor Recall Verification
+**N-10406** Aspen Donor Recall Verification
 
 Donors and Erika fans present say the appointment never happened; the host has contacted the donors.
 
 *Related: C-9753, C-9754, C-9766*
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 Thomas Massie's announced honor for survivors; the host's Phil Tourney interview.
 
 *Related: C-9720*
 
-**N-10538** Turning Point Action / Thomas Massie Disavowal Incident
+**N-10493** Turning Point Action / Thomas Massie Disavowal Incident
 
 Kolvet's earlier statement that an intern runs the TPUSA X account.
 
 *Related: C-9761*
 
-**N-10583** Aspen Donor Audio Integrity Question
-
-Attendees believe the clip was spliced from different points of the event.
-
-*Related: C-9754, C-9758*
-
-**N-10584** Aspen Donor Event Memory Discrepancy
-
-Donors recall "the board would figure it out," not an appointment.
-
-*Related: C-9753*
-
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 The host's narrowed FOIA asks for emails on Erika Kirk and the correspondents' dinner shooting.
 
 *Related: C-9767*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 The host says definitively she believes the appointment clip is doctored; TPUSA's X account says it is real.
 
 *Related: C-9747, C-9749, C-9752, C-9755, C-9757, C-9758, C-9762, C-9763, C-9764, A-2625.2*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The White House asked the host to narrow her Erika Kirk FOIA request.
 
 *Related: C-9767, C-9768, A-2627.1*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 The host says it appears to have been involved in the White House emails about Erika Kirk.
 
 *Related: C-9768*
 
-**N-10948** St. Petersburg International Economic Forum (SPIEF)
+**N-10869** St. Petersburg International Economic Forum (SPIEF)
 
 Node Type: Organization
 Annual economic forum in St. Petersburg, described by the host as the "Davos of the East," where she spoke on a family panel. She says a Trump administration delegation also attended. Critics claimed Putin invited her and that she appeared alongside Dugin.
 
 *Related: C-9708, C-9709, C-9710, C-9712, A-2618.1*
 
-**N-10949** Alexander Dugin–George Farmer Italy Meeting Allegation
+**N-10870** Alexander Dugin–George Farmer Italy Meeting Allegation
 
 Node Type: Topic
 Investigation target: Laura Loomer's source-based claim that Alexander Dugin met the host's husband George Farmer in a secret meeting in Italy about a month before the Russia trip, used to call for FARA registration and FinCEN flags. The host denies ever meeting Dugin.
 
 *Related: C-9711, C-9712, C-9713, A-2618.2*
 
-**N-10950** US Department of Veterans Affairs (VA)
+**N-10871** US Department of Veterans Affairs (VA)
 
 Node Type: Organization
 The host says her security staffer tried for years to get a VA appointment before suffering a stroke in Russia, and that members of his platoon died by suicide after failing to get appointments.
 
 *Related: C-9716, C-9717*
 
-**N-10951** People's Will
+**N-10872** People's Will
 
 Node Type: Organization
 Russian revolutionary group (Narodnaya Volya) that, per the host, plotted the 1881 assassination of Tsar Alexander II; the host reads Deborah Hertz's figures on its membership.
 
 *Related: C-9721, C-9722, A-2620.1*
 
-**N-10952** Church of the Savior on Spilled Blood
+**N-10873** Church of the Savior on Spilled Blood
 
 Node Type: Place
 Church in St. Petersburg built on the spot where Alexander II's carriage was bombed; the host shows her own video from it.
 
 *Related: C-9727, A-2621.1*
 
-**N-10953** Paleo Valley
+**N-10874** Paleo Valley
 
 Node Type: Organization
 Sponsor of the host's show; the host says Alex Clark made private calls demanding it drop the show.
 
 *Related: C-9742*
 
-**N-10954** Alliance Defending Freedom
+**N-10875** Alliance Defending Freedom
 
 Node Type: Organization
 Christian legal organization (ADF) where Alex Clark's fiancé Vance Voetberg says he works.
 
 *Related: C-9746, A-2623.5*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. In this episode the host says her report was true, that Erika Kirk is considered an "emotional asset," and that the Department of War appears to have been involved; her narrowed FOIA request seeks these emails.
@@ -734,7 +722,7 @@ Transcript Snippet: Trump administration sent an entire delegation to this same 
 
 Anchored Artifacts:
 Mentions: N-5
-Related Nodes: N-10948
+Related Nodes: N-10869
 Investigative Direction: Check SPIEF 2026 participant lists and State Department or administration records for an official US delegation.
 
 ---
@@ -749,7 +737,7 @@ Transcript Snippet: Who's pay Who's paying for We're paying for it cuz it's a fa
 
 Anchored Artifacts:
 Mentions: N-3, N-30
-Related Nodes: N-10948
+Related Nodes: N-10869
 Investigative Direction: Review the host's travel bookings and payments and the SPIEF panel invitation correspondence.
 
 ---
@@ -764,7 +752,7 @@ Transcript Snippet: So, the latest is Putin himself has just asked Can- Candace 
 
 Anchored Artifacts: A-2618.1
 Mentions: N-3, N-624, N-647
-Related Nodes: N-10948
+Related Nodes: N-10869
 Investigative Direction: Obtain the SPIEF program and the organizers' record of who invited the host to the family panel.
 
 ---
@@ -779,7 +767,7 @@ Transcript Snippet: Laura Loomer who said that sources told her that Alexander D
 
 Anchored Artifacts: A-2618.2
 Mentions: N-60, N-647, N-30, N-3
-Related Nodes: N-10949
+Related Nodes: N-10870
 Investigative Direction: Ask Loomer for her source and compare Dugin's and George Farmer's travel records for Italy in that period.
 
 ---
@@ -794,7 +782,7 @@ Transcript Snippet: Because I've never met Alexander Dugin. We still don't know 
 
 Anchored Artifacts:
 Mentions: N-3, N-647
-Related Nodes: N-10948, N-10949
+Related Nodes: N-10869, N-10870
 Contradicts: C-9711
 Investigative Direction: Review SPIEF session rosters and any photographic record of the host and Dugin together.
 
@@ -810,7 +798,7 @@ Transcript Snippet: Candace should be forced to register with FARA. And her bank
 
 Anchored Artifacts: A-2618.2
 Mentions: N-60, N-3, N-30, N-648
-Related Nodes: N-10949
+Related Nodes: N-10870
 Investigative Direction: Archive the original Loomer post with its timestamp and tags.
 
 ---
@@ -853,7 +841,7 @@ Transcript Snippet: He knew something was wrong and he had been trying to get an
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10950
+Related Nodes: N-10871
 Investigative Direction: Obtain the veteran's VA appointment-request history (with consent).
 
 ---
@@ -868,7 +856,7 @@ Transcript Snippet: His wife then explained to me that multiple people that were
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10950
+Related Nodes: N-10871
 Investigative Direction: Identify the unit and incident and check VA records and casualty reports for the platoon.
 
 ---
@@ -912,7 +900,7 @@ Transcript Snippet: Then we have at the same time Thomas Massie announcing that 
 
 Anchored Artifacts:
 Mentions: N-579, N-498, N-3
-Related Nodes: N-10451
+Related Nodes: N-10420
 Investigative Direction: Locate Massie's announcement (resolution, bill or event) and its date.
 
 ---
@@ -927,7 +915,7 @@ Transcript Snippet: Um we could can start with the assassination of Tsar Alexand
 
 Anchored Artifacts: A-2620.1
 Mentions: N-649
-Related Nodes: N-10951
+Related Nodes: N-10872
 Investigative Direction: Consult historical scholarship on the membership of Narodnaya Volya and the 1881 assassination.
 
 ---
@@ -942,7 +930,7 @@ Transcript Snippet: Among these 2,000, some radicals were 95 Jewish women who re
 
 Anchored Artifacts: A-2620.1
 Mentions: N-650
-Related Nodes: N-10951
+Related Nodes: N-10872
 Investigative Direction: Locate the Hertz article and check the figures against its cited membership data.
 
 ---
@@ -1014,7 +1002,7 @@ Transcript Snippet: The the church is called appropriately called the Church of 
 
 Anchored Artifacts: A-2621.1
 Mentions: N-649, N-3
-Related Nodes: N-10952
+Related Nodes: N-10873
 Investigative Direction: Consult the church's construction history.
 
 ---
@@ -1086,7 +1074,7 @@ Transcript Snippet: you would partner with a church that is quite literally bein
 
 Anchored Artifacts:
 Mentions: N-2, N-450, N-451
-Related Nodes: N-10411, N-10401
+Related Nodes: N-10384, N-10374
 Supports: C-5042
 Investigative Direction: Pull the docket of the Harvest Christian Fellowship Romania lawsuits and the Erika Kirk–Harvest tour schedule.
 
@@ -1219,7 +1207,7 @@ Transcript Snippet: About the fact that Charlie was attending at Catholic mass s
 
 Anchored Artifacts:
 Mentions: N-1, N-99, N-3
-Related Nodes: N-10350, N-10056
+Related Nodes: N-10328, N-10053
 Investigative Direction: Interview parish clergy and Charlie Kirk's associates about his mass attendance and views on Israel in 2025.
 
 ---
@@ -1234,7 +1222,7 @@ Transcript Snippet: She made private phone calls demanding that we get dropped b
 
 Anchored Artifacts:
 Mentions: N-99, N-3
-Related Nodes: N-10953
+Related Nodes: N-10874
 Investigative Direction: Ask Paleo Valley about any contact from Alex Clark or TPUSA.
 
 ---
@@ -1291,7 +1279,7 @@ Transcript Snippet: My name is Vance. I live in Scottsdale, Arizona. Um I'm here
 
 Anchored Artifacts: A-2623.5
 Mentions: N-658
-Related Nodes: N-10954
+Related Nodes: N-10875
 Investigative Direction: Check ADF staff listings and the Running on Butter site.
 
 ---
@@ -1306,7 +1294,7 @@ Transcript Snippet: Erika introduced this video to the public conscience herself
 
 Anchored Artifacts:
 Mentions: N-2, N-46, N-1
-Related Nodes: N-10194, N-10664
+Related Nodes: N-10186, N-10606
 Supports: C-7880
 Investigative Direction: Retrieve the Megyn Kelly interview and the Aspen event date.
 
@@ -1336,7 +1324,7 @@ Transcript Snippet: they at first said that they didn't want to release the vide
 
 Anchored Artifacts:
 Mentions: N-159
-Related Nodes: N-10000, N-10664
+Related Nodes: N-10000, N-10606
 Investigative Direction: Locate the original TPUSA statement and its author.
 
 ---
@@ -1351,7 +1339,7 @@ Transcript Snippet: they put the actual bloody microphone that he was holding wh
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10000, N-10376
+Related Nodes: N-10000, N-10349
 Investigative Direction: Event photos from the Mar-a-Lago fundraiser and AmFest, and the chain of custody of the microphone.
 
 ---
@@ -1381,7 +1369,7 @@ Transcript Snippet: They decided to exclusively show it to some reporters over a
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10070, N-10000, N-10664
+Related Nodes: N-10067, N-10000, N-10606
 Investigative Direction: Retrieve the Daily Mail article and the reporters' description of what they were shown.
 
 ---
@@ -1396,7 +1384,7 @@ Transcript Snippet: But they remember Charlie answering and saying that the boar
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10584, N-10437
+Related Nodes: N-10406
 Supports: C-8029, C-9050
 Investigative Direction: On-record interviews with the Aspen attendees and the full event recording.
 
@@ -1412,7 +1400,7 @@ Transcript Snippet: They believe that this clip has been doctored from different
 
 Anchored Artifacts:
 Mentions: N-2, N-3
-Related Nodes: N-10437, N-10583
+Related Nodes: N-10406, N-10606
 Investigative Direction: Forensic comparison of the released clip with the full Aspen footage.
 
 ---
@@ -1427,7 +1415,7 @@ Transcript Snippet: And throughout the entire presentation there was only one me
 
 Anchored Artifacts: A-2625.1
 Mentions: N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Full Aspen presentation recording and attendance record.
 
 ---
@@ -1456,7 +1444,7 @@ Transcript Snippet: I appoint my wife to run Turning Point USA if something happ
 
 Anchored Artifacts: A-2625.2
 Mentions: N-1, N-2
-Related Nodes: N-10664, N-10008
+Related Nodes: N-10606, N-10008
 Supports: C-9053
 Investigative Direction: Obtain the original unedited footage.
 
@@ -1472,7 +1460,7 @@ Transcript Snippet: So, I will say definitively that I believe that this clip is
 
 Anchored Artifacts: A-2625.2
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10664, N-10583
+Related Nodes: N-10606
 Investigative Direction: Forensic video analysis of the clip and the full Aspen recording.
 
 ---
@@ -1517,7 +1505,7 @@ Transcript Snippet: Andrew Kolvet made a phone call and said, "Oh, we don't run 
 
 Anchored Artifacts:
 Mentions: N-14, N-579
-Related Nodes: N-10538, N-10000
+Related Nodes: N-10493, N-10000
 Investigative Direction: Locate the Massie–TPUSA exchange and Kolvet's statement about it.
 
 ---
@@ -1532,7 +1520,7 @@ Transcript Snippet: Hey, Candace. The video was real as you apparently have know
 
 Anchored Artifacts: A-2626.2
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-10664
+Related Nodes: N-10000, N-10606
 Contradicts: C-9758
 Investigative Direction: Archive the post and ask TPUSA whether it is an official spokesperson statement.
 
@@ -1548,7 +1536,7 @@ Transcript Snippet: we're waiting for them to respond that it's okay for us to p
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10664
+Related Nodes: N-10606
 Investigative Direction: Follow whether the full video is released.
 
 ---
@@ -1563,7 +1551,7 @@ Transcript Snippet: I do think it's very strange that they entered into relation
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10000, N-10664
+Related Nodes: N-10000, N-10606
 Investigative Direction: Identify TPUSA's AI vendor contracts and announcements after September 2025.
 
 ---
@@ -1592,7 +1580,7 @@ Transcript Snippet: I'm going to tell you guys who the donors are and I want to 
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10437
+Related Nodes: N-10406
 Investigative Direction: Donor responses, if any are published.
 
 ---
@@ -1607,7 +1595,7 @@ Transcript Snippet: Speaking of Erika Kirk, the White House has gotten back to u
 
 Anchored Artifacts: A-2627.1
 Mentions: N-2, N-3
-Related Nodes: N-10700, N-10637
+Related Nodes: N-10637, N-10582
 Investigative Direction: The FOIA request numbers and agency correspondence.
 
 ---
@@ -1622,7 +1610,7 @@ Transcript Snippet: Obviously, I told you guys the truth, that was real. Uh she'
 
 Anchored Artifacts: A-2627.1
 Mentions: N-2, N-3
-Related Nodes: N-10923, N-10888, N-10700
+Related Nodes: N-10844, N-10809, N-10637
 Investigative Direction: FOIA production of White House Military Office and White House Communications Agency email from the night of the shooting.
 
 ---
@@ -1862,7 +1850,7 @@ Confidence: high
 - **DIA scan**: no real DIA beat. The only hits are "candaceowens. com" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that "someone emailed me" about Victor Marx and Greg Laurie (00:40:20, C-9733) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-9766). No M-12 or M-14 occurrences are added.
 - **Artifacts verbally referenced but not clearly shown**: A-2619.1 (the "Congress discreetly moves to merge US military" headline; the host says "you guys saw the headlines") and A-2627.1 (the White House FOIA response, a verbal reference only). The Daily Mail article on the video, the Megyn Kelly interview, Erika Kirk's fundraising email with Charlie's letter, and Trump's posts about the host are mentioned but not shown, so they are not inscribed as artifacts.
 - **Name matching**: "Dana Loesch" (41:37) is minted as N-657 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Havsgaard" is mapped to N-451 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-550 Aubrey Laitsch with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolvet at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolvet"/"Andrew Kolvet" are mapped to N-14. "Justin Streiff" is mapped to N-15. "Megyn Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-647 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-648 Marco Rubio from the host's reading of Loomer's tags.
-- **Topic reuse**: N-10923 reuses the exact title "White House Military Office Erika Kirk Amplification Email" from staging episode 105. M-95 reuses the title "Emotional Response Asset" from staging episode 105, although here the host says only "emotional asset."
+- **Topic reuse**: N-10844 reuses the exact title "White House Military Office Erika Kirk Amplification Email" from staging episode 105. M-95 reuses the title "Emotional Response Asset" from staging episode 105, although here the host says only "emotional asset."
 - **Transcription ambiguities**: "Dangerously Asens" and "Zarist Russia" in the Hertz article title are kept as transcribed. "Candace Tovia Moscowins" is a joke name. "WLS" in the email is the Women's Leadership Summit. "Conrad" in the TPUSA reply is likely "comrade." "Maxwell class" (01:11:42) probably means "Maxwell clan."
 - **Possible cross-episode links considered**: C-9757 Supports C-9053 (ep 102) and could also link C-8028 (ep 90, same audio line). C-9753 Supports C-8029 and C-9050. C-9747 Supports C-7880. C-9732 Supports C-5042. The host's mention of the clip as Erika's "walk out music" could link C-7883 (ep 88), but the summit setting differs from AmFest, so it is left out. C-9749 might relate to C-7889 (ep 88, Blake Neff refused to release the video) but is not the same proposition.
 - **Not inscribed as claims (admission test)**:

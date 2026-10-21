@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11331, N-11332, N-11333, N-11334
-  - Hole-minted Nodes (reintro-ep033): N-472, N-10488
-  - Tip-minted Nodes (reintro-ep033): N-10925
+  - Tip-minted Nodes (supplement_2026-10f): N-11247, N-11248, N-11249, N-11250
+  - Hole-minted Nodes (reintro-ep033): N-472, N-10453
+  - Tip-minted Nodes (reintro-ep033): N-10846
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2891–C-2980
-  - New Nodes Introduced: N-259, N-260, N-263, N-264, N-10254, N-10255, N-10256, N-10257, N-10258
-  - Reused Nodes Appearing: N-10253, N-261, N-5, N-11, N-36, N-55, N-97, N-99, N-224, N-10000, N-10012, N-10026, N-10061, N-10074, N-10100, N-10132, N-10139, N-10162, N-10167, N-10208, N-10237, N-10299, N-10434, N-10451, N-10810
-  - Tip-minted Nodes (wave2): N-10896
+  - New Nodes Introduced: N-259, N-260, N-263, N-264, N-10240, N-10241, N-10242, N-10243, N-10244
+  - Reused Nodes Appearing: N-10239, N-261, N-5, N-11, N-36, N-55, N-97, N-99, N-224, N-10000, N-10012, N-10026, N-10058, N-10071, N-10096, N-10127, N-10134, N-10156, N-10160, N-10200, N-10224, N-10281, N-10404, N-10420, N-10734
+  - Tip-minted Nodes (wave2): N-10817
   N-41
 
 ---
@@ -42,7 +42,7 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-2892 – C-2927, C-2909
-- **New Nodes Introduced:** N-259, N-260, N-261, N-263, N-264, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
+- **New Nodes Introduced:** N-259, N-260, N-261, N-263, N-264, N-10239, N-10240, N-10241, N-10242, N-10243, N-10244
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk – preserved as Erika per transcript), N-3 (Candace Owens), N-22 (Tucker Carlson), N-41 (Governor Cox)
 
 ---
@@ -111,7 +111,7 @@ Video Timestamp: 00:19:57–00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2924, N-1, N-2, N-67, N-10253*
+*Related: C-2924, N-1, N-2, N-67, N-10239*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:17:49–00:18:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relies on underlying ADSB/Hex data interpretation)
 
-*Related: C-2917, C-2918, C-2919, C-2921, N-1, N-2, N-10253*
+*Related: C-2917, C-2918, C-2919, C-2921, N-1, N-2, N-10239*
 
 **A-1419.2** "Mommy sleuth" email asserting that the planes tracked Erika rather than Charlie (referenced verbally; original email not displayed)
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:14:51–00:16:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2917, C-2918, N-2, N-10253*
+*Related: C-2917, C-2918, N-2, N-10239*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:34:07–00:35:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (third-party YouTube documentary analysis)
 
-*Related: C-2947, C-2949, C-2965, C-2963, N-1, N-2, N-10254*
+*Related: C-2947, C-2949, C-2965, C-2963, N-1, N-2, N-10240*
 
 **A-1420.2** "Wolves and Finance" video clip discussing Schedule I showing $8,560,625 transferred from Turning Point USA to America's Turning Point in FY2024, prior-year contributions chart, and shell-company analysis
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:37:29–00:40:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2955, C-2965, N-2, N-10254, N-41*
+*Related: C-2955, C-2965, N-2, N-10240, N-41*
 
 **A-1420.3** "Wolves and Finance" video clip discussing Baker Tilly audit opinion letter covering Turning Point USA and affiliates
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:41:11–00:42:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2949, N-41, N-10896, N-10254*
+*Related: C-2949, N-41, N-10817, N-10240*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-stated; requires verification against rental records)
 
-*Related: C-2939, C-2940, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10242*
 
 **A-1421.2** Arizona license plate CWN N872 – white 2025 Toyota Camry rented at Duncan Aviation FBO
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2939, C-2940, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10242*
 
 **A-1421.3** Utah license plate TN12KM – white 2023 Toyota RAV4 rented at Duncan Aviation FBO
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2939, C-2940, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10242*
 
 **A-1421.4** Utah license plate Z923DA – black 2025 Toyota 4Runner rented at Duncan Aviation FBO
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2939, C-2940, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10242*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:26:19–00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2937, N-10255*
+*Related: C-2937, N-10241*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:52:35–00:54:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party tip; producer-asserted camera locations)
 
-*Related: C-2973, N-263, N-10257*
+*Related: C-2973, N-263, N-10243*
 
 ---
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:13:12–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbal reference; no displayed artifact)
 
-*Related: C-2909, N-1, N-264, N-10253*
+*Related: C-2909, N-1, N-264, N-10239*
 
 ---
 
@@ -280,7 +280,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-2938, N-3, N-10255*
+*Related: C-2938, N-3, N-10241*
 
 ---
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:28:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-2941, N-3, N-10256*
+*Related: C-2941, N-3, N-10242*
 
 ---
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-2976, N-3, N-10256*
+*Related: C-2976, N-3, N-10242*
 
 ---
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:46:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-2968, N-3, N-11334*
+*Related: C-2968, N-3, N-11250*
 
 ---
 
@@ -336,7 +336,7 @@ Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-2978, N-10896*
+*Related: C-2978, N-10817*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, C-2924, C-2927, N-10253*
+*Related: A-1418.1, C-2924, C-2927, N-10239*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-2924, C-2939, C-2940, N-10256*
+*Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-2924, C-2939, C-2940, N-10242*
 
 ---
 
@@ -422,7 +422,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10896** Baker Tilly
+**N-10817** Baker Tilly
 
 Node Type: Organization
 Organization Kind: company
@@ -434,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1420.3, C-2949, N-10254*
+*Related: A-1420.3, C-2949, N-10240*
 
 ---
 
@@ -447,7 +447,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1419.2, C-2917, C-2918, N-2, N-10253*
+*Related: A-1419.2, C-2917, C-2918, N-2, N-10239*
 
 ---
 
@@ -466,7 +466,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Persistent investigative target tracking allegations that Egyptian military aircraft SUBND and SUBTT conducted sustained surveillance of Erika Kirk (and sometimes Charlie Kirk) from 2022 through September 2025, with concentrated activity on the day of the assassination.
 
@@ -479,7 +479,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10254** TPUSA Financial Filing Anomaly Investigation
+**N-10240** TPUSA Financial Filing Anomaly Investigation
 
 Investigation target tracking missing IRS Form 990 filings for three of four TPUSA-related entities for FY2024, the $8.56M transfer to America's Turning Point, and the timing of audit requests relative to Charlie Kirk's death.
 
@@ -488,11 +488,11 @@ Claim Count: 4
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1420.1, A-1420.2, A-1420.3, C-2947, C-2955, C-2949, C-2965, C-2963, N-2, N-41, N-10896*
+*Related: A-1420.1, A-1420.2, A-1420.3, C-2947, C-2955, C-2949, C-2965, C-2963, N-2, N-41, N-10817*
 
 ---
 
-**N-10255** N560TW Flight Pattern Investigation
+**N-10241** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 
 Investigation target tracking the September 10 Scottsdale–Provo–Santa Barbara–Scottsdale round trip of tail N560TW, flagged by host as warranting public tip submissions.
 
@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10256** Duncan Aviation Rental Vehicle Investigation
+**N-10242** Duncan Aviation Rental Vehicle Investigation
 
 Investigation target tracking four rental vehicles with documented plates rented from the Duncan Aviation FBO prior to the assassination, with public tip requests issued.
 
@@ -518,7 +518,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10257** Flock LPR FOIA Investigation
+**N-10243** Flock LPR FOIA Investigation
 
 Investigation target tracking the potential use of FOIA-accessible Flock automated license plate reader data to cross-reference rental vehicles and UVU-area camera footage.
 
@@ -531,7 +531,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10258** Andrew Kolvet Hospital Threat Disclosure Question
+**N-10244** Andrew Kolvet Hospital Threat Disclosure Question
 
 Investigation target tracking host's verbal claim that Andrew Kolvet disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.
 
@@ -544,7 +544,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11331** Turning Point Endowment
+**N-11247** Turning Point Endowment
 
 Node Type: Organization
 Turning Point USA affiliate described in the Wolves and Finance video as an endowment that received millions of dollars of transfers from TPUSA until 2021, held $61 million in assets as of fiscal year 2023, and whose fiscal year 2024 Form 990 is described as missing.
@@ -553,7 +553,7 @@ Turning Point USA affiliate described in the Wolves and Finance video as an endo
 
 ---
 
-**N-11332** America's Turning Point
+**N-11248** America's Turning Point
 
 Node Type: Organization
 Turning Point USA affiliate that the Wolves and Finance video says received $8,560,625 from TPUSA in fiscal year 2024, reports zero employees and has no fiscal year 2024 Form 990 posted.
@@ -562,7 +562,7 @@ Turning Point USA affiliate that the Wolves and Finance video says received $8,5
 
 ---
 
-**N-11333** Charlie Kirk Salt Lake City Diversion Question
+**N-11249** Charlie Kirk Salt Lake City Diversion Question
 
 Node Type: Topic
 Persistent question raised by the host about why Charlie Kirk flew into Salt Lake City at 9:23 a.m. on September 10 rather than the closer Provo airport, and who arranged the interview that she says explained the detour.
@@ -571,7 +571,7 @@ Persistent question raised by the host about why Charlie Kirk flew into Salt Lak
 
 ---
 
-**N-11334** SUBND Transponder Time Zone Offset Question
+**N-11250** SUBND Transponder Time Zone Offset Question
 
 Node Type: Topic
 Dispute over whether the SUBND transponder windows on September 10 should be converted from UTC with minus 7 hours (as presented on air) or minus 6 hours (Mountain Daylight Time), and whether the host's first October 11 plane post had a time-zone error.
@@ -708,7 +708,7 @@ Place named in the host's claims about threats, legislation and the USS Liberty.
 
 ---
 
-**N-10061** CIA Operation Mockingbird
+**N-10058** CIA Operation Mockingbird
 
 Program the host invokes in her opening history.
 
@@ -716,7 +716,7 @@ Program the host invokes in her opening history.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Airport and city where the Egyptian planes and Kolvet's tarmac arrival are located.
 
@@ -724,7 +724,7 @@ Airport and city where the Egyptian planes and Kolvet's tarmac arrival are locat
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Topic on which the Farnsworth SD card claims bear.
 
@@ -732,7 +732,7 @@ Topic on which the Farnsworth SD card claims bear.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Topic for the internal DOGE audit discussed with the Wolves video.
 
@@ -740,7 +740,7 @@ Topic for the internal DOGE audit discussed with the Wolves video.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Host's framing of the McCoy clip as an influence operation.
 
@@ -748,7 +748,7 @@ Host's framing of the McCoy clip as an influence operation.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Topic on which the Farnsworth SD card claims bear.
 
@@ -756,7 +756,7 @@ Topic on which the Farnsworth SD card claims bear.
 
 ---
 
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Topic for Bowyer's X posts pointing to the annual audit.
 
@@ -764,7 +764,7 @@ Topic for Bowyer's X posts pointing to the annual audit.
 
 ---
 
-**N-10208** SUBND (Egyptian military aircraft) Flight Tracking Question
+**N-10200** SUBND (Egyptian military aircraft) Flight Tracking Question
 
 Aircraft whose September 10 behaviour is described.
 
@@ -772,7 +772,7 @@ Aircraft whose September 10 behaviour is described.
 
 ---
 
-**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Topic for the dispute over what Shapiro attributed to the host.
 
@@ -780,7 +780,7 @@ Topic for the dispute over what Shapiro attributed to the host.
 
 ---
 
-**N-10299** TPUSA Egyptian Plane Story Suppression Attempt
+**N-10281** TPUSA Egyptian Plane Story Suppression Attempt
 
 Topic on TPUSA's silence about the planes.
 
@@ -788,7 +788,7 @@ Topic on TPUSA's silence about the planes.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Topic for the claim that Charlie wanted to establish a DOGE a week before his death.
 
@@ -796,7 +796,7 @@ Topic for the claim that Charlie wanted to establish a DOGE a week before his de
 
 ---
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 Topic the host invokes by analogy.
 
@@ -804,7 +804,7 @@ Topic the host invokes by analogy.
 
 ---
 
-**N-10488** Egyptian Plane Communication Investigation
+**N-10453** Egyptian Plane Communication Investigation
 
 Topic for the encrypted communications hypothesis.
 
@@ -812,7 +812,7 @@ Topic for the encrypted communications hypothesis.
 
 ---
 
-**N-10810** SD Card Chain-of-Custody Investigation
+**N-10734** SD Card Chain-of-Custody Investigation
 
 Topic on which the Farnsworth SD card claims bear.
 
@@ -820,7 +820,7 @@ Topic on which the Farnsworth SD card claims bear.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 TPUSA affiliate named among the entities audited by Baker Tilly.
 
@@ -881,7 +881,7 @@ Claim: Mark, the show's director, says ADSB Exchange data he displays shows tail
 Anchored Artifacts: A-1418.1
 Mentions: N-3, N-67, N-260
 
-Related Nodes: N-10253
+Related Nodes: N-10239
 
 Investigative Direction: Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time).
 
@@ -896,7 +896,7 @@ Claim: A spreadsheet the host shows, built on research by a viewer she calls a "
 Anchored Artifacts: A-1419.1, A-1419.2
 Mentions: N-1, N-2, N-263
 
-Related Nodes: N-10253
+Related Nodes: N-10239
 
 Investigative Direction: Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk.
 
@@ -911,7 +911,7 @@ Claim: The host says that, of the overlap instances documented in the spreadshee
 Anchored Artifacts: A-1419.1
 Mentions: N-1
 
-Related Nodes: N-10253
+Related Nodes: N-10239
 
 Investigative Direction: Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk.
 
@@ -926,7 +926,7 @@ Claim: The host claims the documented overlap flights cluster primarily within K
 Anchored Artifacts: A-1419.1
 Mentions: 
 
-Related Nodes: N-10253
+Related Nodes: N-10239
 
 Investigative Direction: Independently geocode the overlap instances and verify the state-level distribution.
 
@@ -941,7 +941,7 @@ Claim: The host states that under random distribution models, the probability of
 Anchored Artifacts: A-1419.1
 Mentions: N-2
 
-Related Nodes: N-10253
+Related Nodes: N-10239
 
 Investigative Direction: Request the host's underlying statistical model and assumptions; replicate the calculation independently.
 
@@ -955,7 +955,7 @@ Claim: Host states that Andrew Kolvet, while in the hospital on September 10, to
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
 Mentions: N-3, N-14, N-22
-Related Nodes: N-10258
+Related Nodes: N-10244
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
 
@@ -969,7 +969,7 @@ Claim: Host reports that tail N560TW departed Scottsdale, Arizona on September 1
 
 Anchored Artifacts: A-1422.1
 
-Related Nodes: N-10255
+Related Nodes: N-10241
 
 Investigative Direction: Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.
 
@@ -984,7 +984,7 @@ Claim: Host states that Duncan Aviation's FBO in Provo sourced rental cars for a
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
 Mentions: N-260
 
-Related Nodes: N-10256
+Related Nodes: N-10242
 
 Investigative Direction: Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.
 
@@ -999,7 +999,7 @@ Claim: Host reads four specific license plates associated with the rental vehicl
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
 Mentions: 
 
-Related Nodes: N-10256
+Related Nodes: N-10242
 
 Investigative Direction: Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.
 
@@ -1014,7 +1014,7 @@ Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the
 Anchored Artifacts: A-1420.1
 Mentions: N-472
 
-Related Nodes: N-10254
+Related Nodes: N-10240
 
 Investigative Direction: Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.
 
@@ -1029,7 +1029,7 @@ Claim: In the "Wolves and Finance" video clip the host plays, the presenter says
 Anchored Artifacts: A-1420.2
 Mentions: N-472
 
-Related Nodes: N-10254
+Related Nodes: N-10240
 
 Investigative Direction: Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.
 
@@ -1044,7 +1044,7 @@ Claim: The "Wolves and Finance" video the host plays asserts that the decision n
 Anchored Artifacts: A-1420.1, A-1420.3
 Mentions: N-1, N-472
 
-Related Nodes: N-10254
+Related Nodes: N-10240
 
 Investigative Direction: Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.
 
@@ -1059,7 +1059,7 @@ Claim: The host says the "Wolves and Finance" video, which she did not show, sta
 Anchored Artifacts: A-1420.2
 Mentions: N-472
 
-Related Nodes: N-10254
+Related Nodes: N-10240
 
 Investigative Direction: Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.
 
@@ -1074,7 +1074,7 @@ Claim: In the "Wolves and Finance" video the host plays, the presenter says Erik
 Anchored Artifacts: A-1420.1
 Mentions: N-1, N-2, N-472
 
-Related Nodes: N-10254
+Related Nodes: N-10240
 
 Investigative Direction: Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.
 
@@ -1088,7 +1088,7 @@ Claim: A producer on the show says Flock automated license plate reader cameras 
 
 Anchored Artifacts: A-1423.1
 
-Related Nodes: N-10257
+Related Nodes: N-10243
 
 Investigative Direction: Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data.
 
@@ -1103,7 +1103,7 @@ Claim: Mark, the show's director, says ADSB data shows SUBND transponder windows
 Anchored Artifacts: A-1418.1
 Mentions: N-67
 
-Related Nodes: N-10253
+Related Nodes: N-10239
 
 Investigative Direction: Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.
 
@@ -1159,7 +1159,7 @@ Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smi
 
 Anchored Artifacts: A-1424.2
 Mentions: N-1, N-264
-Related Nodes: N-10253
+Related Nodes: N-10239
 Confidence: low
 
 Investigative Direction: Locate the Andrew K. Smith interview recording and its scheduling; confirm Charlie Kirk's September 10 flight arrival airport.
@@ -1176,7 +1176,7 @@ Transcript Snippet: It was after the public execution of sitting president JFK i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10061
+Related Nodes: N-10058
 Tags: relevance:tangential
 Investigative Direction: Check declassified CIA records and the 1975-76 Church Committee findings on press relationships to test the host's account of Operation Mockingbird.
 
@@ -1192,7 +1192,7 @@ Transcript Snippet: he's the spawn of naval psychological intelligence, psycholo
 
 Anchored Artifacts: A-1415.1
 Mentions: N-17, N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Ask the host what 'spawn of' means here (personal service, family service or ministry) and check McCoy's published biography for any naval or psychological-operations role.
 
@@ -1208,7 +1208,7 @@ Transcript Snippet: And my gut started to tell me that they suddenly began panic
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253, N-10299
+Related Nodes: N-10239, N-10281
 Tags: relevance:context
 Investigative Direction: Compare the date of the host's first plane post with the dates of the first Crowder, Shapiro and other attack videos to test whether the reaction followed the plane discovery.
 
@@ -1224,7 +1224,7 @@ Transcript Snippet: On October 11th when I infamously tweeted about the Egyptian
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10253, N-10074, N-11334
+Related Nodes: N-10239, N-10071, N-11250
 Tags: relevance:core
 Investigative Direction: Retrieve the host's October 11 post and its edit history, and compare the stated departure time with ADS-B Exchange records for the plane.
 
@@ -1240,7 +1240,7 @@ Transcript Snippet: Next thing you know, it was trending and uh they pretended i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253, N-11334
+Related Nodes: N-10239, N-11250
 Tags: relevance:context
 Investigative Direction: Identify the account that posted the time-zone correction (creation date, follower history) and the trending record on X for that day.
 
@@ -1332,7 +1332,7 @@ Transcript Snippet: they sent mother mocking bird out, Ben Shapiro, to make the 
 
 Anchored Artifacts: 
 Mentions: N-97, N-2, N-3
-Related Nodes: N-10237
+Related Nodes: N-10224
 Tags: relevance:context
 Investigative Direction: Locate Shapiro's on-stage remarks and check whether he named Erika Kirk or attributed an accusation to the host; compare with the host's book club audio.
 
@@ -1348,7 +1348,7 @@ Transcript Snippet: I discovered that the planes had been tracking Charlie. We s
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Retrieve the earlier plane document the host refers to and compare its stated basis for 'tracking Charlie' with the later claim that the planes tracked Erika.
 
@@ -1364,7 +1364,7 @@ Transcript Snippet: Terryl does not do college campus events. He doesn't do that
 
 Anchored Artifacts: A-1424.1
 Mentions: N-261, N-3
-Related Nodes: N-10100, N-10162
+Related Nodes: N-10096, N-10156
 Tags: relevance:core
 Investigative Direction: Compare Farnsworth's event assignments across other 2025 campus tour stops using TPUSA event staffing records, photos and travel records.
 
@@ -1380,7 +1380,7 @@ Transcript Snippet: he told me they were trying something new that day and it mu
 
 Anchored Artifacts: A-1424.1
 Mentions: N-261, N-1, N-3
-Related Nodes: N-10100
+Related Nodes: N-10096
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth or TPUSA for the staffing roster of the first events after September 10 to test whether he was absent.
 
@@ -1396,7 +1396,7 @@ Transcript Snippet: So, he just out of the blue was at this event and then he wa
 
 Anchored Artifacts: A-1424.1
 Mentions: N-261, N-3
-Related Nodes: N-10100, N-10162, N-10810
+Related Nodes: N-10096, N-10156, N-10734
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's chain-of-custody record for the SD cards and the names of anyone who handled them on September 10.
 
@@ -1412,7 +1412,7 @@ Transcript Snippet: Otherwise, for the sake of a podcast, people travel to Charl
 
 Anchored Artifacts: A-1424.2
 Mentions: N-1, N-3
-Related Nodes: N-11333, N-10253
+Related Nodes: N-11249, N-10239
 Supports: C-2909
 Tags: relevance:core
 Investigative Direction: Obtain Charlie's September 10 itinerary and the scheduling emails for the Andrew K. Smith interview to see who requested the Salt Lake City stop and why.
@@ -1429,7 +1429,7 @@ Transcript Snippet: Something else you should know about Charlie is Charlie was 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:context
 Investigative Direction: Seek corroboration of Charlie's interest in aircraft from staff, pilots and his own broadcasts.
 
@@ -1460,7 +1460,7 @@ Transcript Snippet: So, you have to remember that Charlie landed into Salt Lake 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11333
+Related Nodes: N-11249
 Tags: relevance:core
 Investigative Direction: Check FAA/ADS-B records for the Kirk charter's arrival time and airport, and compare with TPUSA's published itinerary.
 
@@ -1476,7 +1476,7 @@ Transcript Snippet: she had done an additional 15 hours of research and was able
 
 Anchored Artifacts: A-1419.2
 Mentions: N-263, N-2, N-1, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Review the sleuth's email and method (kept anonymous by the host) and test the overlaps against independent flight and location records.
 
@@ -1492,7 +1492,7 @@ Transcript Snippet: Nobody at Turning Point ever just steps to clarify that I'm 
 
 Anchored Artifacts: 
 Mentions: N-55, N-99, N-3
-Related Nodes: N-10000, N-10299
+Related Nodes: N-10000, N-10281
 Tags: relevance:context
 Investigative Direction: Survey TPUSA statements on the Egyptian planes since October 2025 to confirm whether it ever addressed them.
 
@@ -1508,7 +1508,7 @@ Transcript Snippet: Like I said, this plane was not just with her in America. It
 
 Anchored Artifacts: A-1419.1
 Mentions: N-2, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:core
 Investigative Direction: Ask the host for the non-US rows of the spreadsheet and verify each against foreign flight records and Erika Kirk's published travel.
 
@@ -1524,7 +1524,7 @@ Transcript Snippet: On the day of Charlie's assassination, we know the yellow pl
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10253, N-10208
+Related Nodes: N-10239, N-10200
 Tags: relevance:core
 Investigative Direction: Compare ADS-B Exchange and FlightAware departures for SU-BTT and SU-BND on September 10, 2025.
 
@@ -1540,7 +1540,7 @@ Transcript Snippet: all the flight radar websites only show when the plane is ac
 
 Anchored Artifacts: A-1418.1
 Mentions: N-67
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:context
 Investigative Direction: Reproduce the lookup on ADS-B Exchange for SU-BND on September 10 and check what other aggregators record for ground transponder activity.
 
@@ -1556,7 +1556,7 @@ Transcript Snippet: The transponder was turned back on just 17 minutes after Cha
 
 Anchored Artifacts: A-1418.1
 Mentions: N-1, N-3
-Related Nodes: N-10253, N-11334
+Related Nodes: N-10239, N-11250
 Tags: relevance:core
 Investigative Direction: Resolve the UTC-to-local conversion (see the daylight-saving correction later in the episode) and compare with the official time of the shot, about 12:23 p.m. local.
 
@@ -1572,7 +1572,7 @@ Transcript Snippet: Duncan Aviation does offer maintenance repairs. It's therefo
 
 Anchored Artifacts: A-1418.1
 Mentions: N-260, N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:context
 Investigative Direction: Ask Duncan Aviation Provo whether it holds a work order for SU-BND on September 10, 2025.
 
@@ -1588,7 +1588,7 @@ Transcript Snippet: a military jet, particularly one from a foreign country, wou
 
 Anchored Artifacts: A-1418.1
 Mentions: N-3
-Related Nodes: N-10488, N-10253
+Related Nodes: N-10453, N-10239
 Tags: relevance:context
 Investigative Direction: Consult aviation-communications experts on the Gulfstream IV avionics fit used by Egyptian government aircraft; the host frames this as a possibility, not a finding.
 
@@ -1604,7 +1604,7 @@ Transcript Snippet: my point is that these planes were known to Turning Point US
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10299, N-10253
+Related Nodes: N-10000, N-10281, N-10239
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to state whether anyone in the organization knew of or dealt with the Egyptian aircraft, and identify the basis for the host's statement.
 
@@ -1620,7 +1620,7 @@ Transcript Snippet: Because there is something very specific, Andrew, that you t
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's later public accounts of arriving at Provo with what the host says he told her that day.
 
@@ -1636,7 +1636,7 @@ Transcript Snippet: You told me that me and Tucker Carlson were on a list and th
 
 Anchored Artifacts: 
 Mentions: N-14, N-22, N-3
-Related Nodes: N-10258
+Related Nodes: N-10244
 Supports: C-2931
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Tucker Carlson to confirm the conversation, and request call logs for the host and Kolvet on September 10.
@@ -1653,7 +1653,7 @@ Transcript Snippet: I ended our phone call and I immediately called Tucker Carls
 
 Anchored Artifacts: 
 Mentions: N-22, N-14, N-3
-Related Nodes: N-10258
+Related Nodes: N-10244
 Tags: relevance:core
 Investigative Direction: Ask Tucker Carlson to confirm the call and its timing; phone records for September 10 would fix the sequence.
 
@@ -1669,7 +1669,7 @@ Transcript Snippet: it is now really living inside me that you did not tell me w
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10258
+Related Nodes: N-10244
 Supports: C-2931
 Tags: relevance:core
 Investigative Direction: Ask Kolvet which agency or person passed on the warning; request any FBI or Utah DPS threat notification related to the host or Tucker Carlson.
@@ -1702,7 +1702,7 @@ Transcript Snippet: somebody saw something and I'm asking you to email us more t
 
 Anchored Artifacts: A-3202.1
 Mentions: N-3
-Related Nodes: N-10255
+Related Nodes: N-10241
 Tags: relevance:core
 Investigative Direction: Decentralized Intelligence Agency tip call: review the tip inbox for submissions about N560TW and corroborate any named witnesses before publication.
 
@@ -1718,7 +1718,7 @@ Transcript Snippet: And of course, the email address to send it to is more tips@
 
 Anchored Artifacts: A-3202.2
 Mentions: N-3
-Related Nodes: N-10256, N-10012
+Related Nodes: N-10242, N-10012
 Tags: relevance:core
 Investigative Direction: Decentralized Intelligence Agency tip call: collect and authenticate any photos or footage showing the four plates near UVU on or before September 10.
 
@@ -1766,7 +1766,7 @@ Transcript Snippet: You know, the last time that narrative ran was probably the 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10451, N-10026
+Related Nodes: N-10420, N-10026
 Tags: relevance:tangential
 Investigative Direction: Historical question: the 1967 USS Liberty inquiries and declassified NSA and Navy records; this has no direct bearing on the September 10 evidence.
 
@@ -1782,7 +1782,7 @@ Transcript Snippet: an organization of that size that misses their deadline, the
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10254
+Related Nodes: N-10000, N-10240
 Tags: relevance:context
 Investigative Direction: Check IRS Tax Exempt Organization Search for Form 990 filing dates for TPUSA and affiliates in prior years.
 
@@ -1798,7 +1798,7 @@ Transcript Snippet: not just they filed for an extension and then miss the exten
 
 Anchored Artifacts: A-1420.1
 Mentions: N-3
-Related Nodes: N-10000, N-10254
+Related Nodes: N-10000, N-10240
 Tags: relevance:context
 Investigative Direction: Obtain Form 8868 extension filings and the IRS filing status for the three missing returns.
 
@@ -1814,7 +1814,7 @@ Transcript Snippet: So Tyler Bowyer is being snarky on X. com and telling people
 
 Anchored Artifacts: A-1420.1
 Mentions: N-11, N-472
-Related Nodes: N-10254, N-10167
+Related Nodes: N-10240, N-10160
 Tags: relevance:context
 Investigative Direction: Locate Bowyer's X posts about the annual audit and compare them with the IRS record of filed returns (the video appears to conflate the audit with Form 990 filings).
 
@@ -1830,7 +1830,7 @@ Transcript Snippet: it was unusual that seven days before Charlie died, he said 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10434, N-10132
+Related Nodes: N-10404, N-10127
 Tags: relevance:core
 Investigative Direction: Locate the source of Charlie's statement about a TPUSA DOGE and its date, and compare with the September 2, 2025 internal memo.
 
@@ -1846,7 +1846,7 @@ Transcript Snippet: Tyler came out and lied and he said, "This is just totally r
 
 Anchored Artifacts: 
 Mentions: N-11, N-99, N-3
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-1385
 Tags: relevance:context
 Investigative Direction: Retrieve the Bowyer and Clark statements and check whether they addressed the new DOGE audit or only TPUSA's routine annual audit.
@@ -1863,7 +1863,7 @@ Transcript Snippet: he was not just concerned about where the money was going. H
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10132, N-10434
+Related Nodes: N-10127, N-10404
 Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Identify the host's basis (conversations with Charlie, messages) and any written evidence that Charlie asked for tracing of donor funds.
@@ -1880,7 +1880,7 @@ Transcript Snippet: I think that was October 15th was a tax extension deadline. 
 
 Anchored Artifacts: A-1420.1
 Mentions: N-3
-Related Nodes: N-10000, N-10254
+Related Nodes: N-10000, N-10240
 Tags: relevance:context
 Investigative Direction: Confirm TPUSA's fiscal year end and the corresponding Form 990 and extended due dates, and whether the returns were filed after the episode (November 17, 2025).
 
@@ -1896,7 +1896,7 @@ Transcript Snippet: If you go back and you look at Turning Point USA's filings b
 
 Anchored Artifacts: A-1420.1
 Mentions: N-3
-Related Nodes: N-10000, N-10254
+Related Nodes: N-10000, N-10240
 Tags: relevance:context
 Investigative Direction: Compare IRS filing dates for TPUSA, Action, Endowment and America's Turning Point across several prior years.
 
@@ -1912,7 +1912,7 @@ Transcript Snippet: They are sending it to their own shell company. Now, this is
 
 Anchored Artifacts: A-1420.2
 Mentions: N-472
-Related Nodes: N-11332, N-10000, N-10254
+Related Nodes: N-11248, N-10000, N-10240
 Tags: relevance:context
 Investigative Direction: Check state and IRS records for America's Turning Point (entity type, officers, exempt status) to test the 'shell company' description.
 
@@ -1928,7 +1928,7 @@ Transcript Snippet: This stopped in 2021 and they started ramping up sending mon
 
 Anchored Artifacts: A-1420.2
 Mentions: N-472
-Related Nodes: N-11331, N-11332, N-10254
+Related Nodes: N-11247, N-11248, N-10240
 Tags: relevance:context
 Investigative Direction: Check Schedule I of TPUSA's Forms 990 for 2019 through 2024 and compare the grant recipients year by year.
 
@@ -1944,7 +1944,7 @@ Transcript Snippet: As of fiscal year 2023, they had $61 million of assets in th
 
 Anchored Artifacts: A-1420.2
 Mentions: N-472
-Related Nodes: N-11331, N-10254
+Related Nodes: N-11247, N-10240
 Tags: relevance:context
 Investigative Direction: Verify the figures on the Turning Point Endowment Form 990 for fiscal year 2023.
 
@@ -1960,7 +1960,7 @@ Transcript Snippet: If we look at the prior year, the majority of the money was 
 
 Anchored Artifacts: A-1420.2
 Mentions: N-472
-Related Nodes: N-11332, N-10254
+Related Nodes: N-11248, N-10240
 Tags: relevance:context
 Investigative Direction: Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.
 
@@ -1976,7 +1976,7 @@ Transcript Snippet: I think there are fake people on the payroll.
 
 Anchored Artifacts: A-1420.2
 Mentions: N-472
-Related Nodes: N-11332, N-10254
+Related Nodes: N-11248, N-10240
 Tags: relevance:context
 Investigative Direction: No evidence is presented for this speculation; only audited payroll records or an enforcement finding could confirm or refute it.
 
@@ -1992,7 +1992,7 @@ Transcript Snippet: they audited Turning Point USA, Turning Point Action, Turnin
 
 Anchored Artifacts: A-1420.3
 Mentions: N-472
-Related Nodes: N-10896, N-10925, N-11331, N-11332
+Related Nodes: N-10817, N-10846, N-11247, N-11248
 Tags: relevance:context
 Investigative Direction: Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.
 
@@ -2008,7 +2008,7 @@ Transcript Snippet: Baker Tilly's audit opinion letter is signed after Turning P
 
 Anchored Artifacts: A-1420.3
 Mentions: N-472
-Related Nodes: N-10896, N-10254
+Related Nodes: N-10817, N-10240
 Tags: relevance:context
 Investigative Direction: Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.
 
@@ -2024,7 +2024,7 @@ Transcript Snippet: it is possible that when they used that outside auditor, tha
 
 Anchored Artifacts: A-1420.3
 Mentions: N-3
-Related Nodes: N-10896, N-10254
+Related Nodes: N-10817, N-10240
 Tags: relevance:context
 Investigative Direction: Ask Baker Tilly and TPUSA for the engagement timeline and the date financial statements were delivered.
 
@@ -2057,7 +2057,7 @@ Transcript Snippet: who are now learning how this organization functions by rout
 
 Anchored Artifacts: A-1420.2
 Mentions: N-3
-Related Nodes: N-11331, N-10000
+Related Nodes: N-11247, N-10000
 Tags: relevance:context
 Investigative Direction: Tabulate annual transfers to Turning Point Endowment on TPUSA's Forms 990 as a share of contributions.
 
@@ -2073,7 +2073,7 @@ Transcript Snippet: it was UTC minus 6, not minus 7. So, for those times, you're
 
 Anchored Artifacts: A-3203.1
 Mentions: N-3
-Related Nodes: N-11334, N-10253
+Related Nodes: N-11250, N-10239
 Contradicts: C-2927, C-2924
 Tags: relevance:core
 Investigative Direction: Utah was on Mountain Daylight Time on September 10, 2025 (UTC minus 6); recompute the SUBND windows from the raw UTC values and re-test the '17 minutes after the shot' statement.
@@ -2134,7 +2134,7 @@ Claim: A viewer comment read on air says anyone can use FOIA to obtain all Flock
 Transcript Snippet: I was today today years old when I learned that anyone can FOIA all flock license plate cameras, locations, and data points.
 
 Anchored Artifacts: A-1423.1
-Related Nodes: N-10257
+Related Nodes: N-10243
 Tags: relevance:context
 Investigative Direction: Check state public-records law and Flock's contract terms; FOIA access to Flock data varies by agency and state and may be restricted.
 
@@ -2149,7 +2149,7 @@ Claim: An off-camera voice on the show says Flock is a company running a network
 Transcript Snippet: There's a a network run by a company called Flock of Automated license plate readers that are dotted throughout pretty much every town in the United States.
 
 Anchored Artifacts: A-1423.1
-Related Nodes: N-10257
+Related Nodes: N-10243
 Tags: relevance:context
 Investigative Direction: Review Flock's published coverage figures and the transparency portals of Utah County agencies.
 
@@ -2165,7 +2165,7 @@ Transcript Snippet: More tips at canowens. com. We have to be faster than them, 
 
 Anchored Artifacts: A-3202.3
 Mentions: N-3
-Related Nodes: N-10256, N-10257
+Related Nodes: N-10242, N-10243
 Tags: relevance:core
 Investigative Direction: Decentralized Intelligence Agency tip call: log submissions that reference the four plates and corroborate through Flock or other records before any publication.
 
@@ -2195,7 +2195,7 @@ Claim: A viewer who says she runs operations for a nonprofit comments that Baker
 Transcript Snippet: Baker Tilly also is the company that files their 990s per the first page. Their audits are not considered valid. a separate company has to do an independent audit.
 
 Anchored Artifacts: A-3204.1
-Related Nodes: N-10896
+Related Nodes: N-10817
 Tags: relevance:context
 Investigative Direction: Check the preparer block on TPUSA's filed Form 990; separately check independence rules for a firm that both prepares returns and audits.
 
@@ -2211,7 +2211,7 @@ Transcript Snippet: that video went deeper into some lawsuits that Baker Tilly w
 
 Anchored Artifacts: 
 Mentions: N-472, N-3
-Related Nodes: N-10896
+Related Nodes: N-10817
 Tags: relevance:context
 Investigative Direction: Search court dockets for suits naming Baker Tilly US, LLP over audit quality and confirm which suits the video cites.
 

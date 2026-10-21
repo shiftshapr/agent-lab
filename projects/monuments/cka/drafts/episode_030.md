@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-848, N-11232, N-11233, N-11234, N-11235
-  - Hole-minted Nodes (reintro-ep030): N-261, N-10248, N-10770, N-10817, N-10870
-  - Tip-minted Nodes (reintro-ep030): N-11080, N-11121
+  - Tip-minted Nodes (supplement_2026-10d): N-848, N-11148, N-11149, N-11150, N-11151
+  - Hole-minted Nodes (reintro-ep030): N-261, N-10234, N-10740, N-10791
+  - Tip-minted Nodes (reintro-ep030): N-10998, N-11039
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2640–C-2722
-  - New Nodes Introduced: N-246, N-247, N-248, N-10244, N-10245
-  - Reused Nodes Appearing: N-3, N-1, N-190, N-17, N-99, N-14, N-55, N-10243, N-11, N-20, N-38, N-117, N-120, N-178, N-227, N-325, N-10004, N-10012, N-10015, N-10023, N-10026, N-10027, N-10047, N-10063, N-10100, N-10131, N-10132, N-10162, N-10193, N-10196, N-10198, N-10237, N-10345, N-10434, N-10436, N-11064, N-11167, N-11171, N-10346, N-11084
+  - New Nodes Introduced: N-246, N-247, N-248, N-10230, N-10231
+  - Reused Nodes Appearing: N-3, N-1, N-190, N-17, N-99, N-14, N-55, N-10229, N-11, N-20, N-38, N-117, N-120, N-178, N-227, N-325, N-10004, N-10012, N-10015, N-10023, N-10026, N-10027, N-10044, N-10060, N-10096, N-10126, N-10127, N-10156, N-10185, N-10188, N-10190, N-10224, N-10323, N-10404, N-10405, N-10982, N-11083, N-11087, N-10324, N-11002
   - (see registers)
 
 ## 2. Executive Summary
@@ -120,7 +120,7 @@ Video Timestamp: 00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2690, N-208, N-10244*
+*Related: C-2690, N-208, N-10230*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:19:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2668, N-10243*
+*Related: C-2668, N-10229*
 
 ---
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:45:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10243 (referenced), N-2 (inferential only)*
+*Related: N-10229 (referenced), N-2 (inferential only)*
 
 ---
 
@@ -361,7 +361,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1383.1, A-1383.2, A-1384.1, C-2690, C-2695, C-2691, N-10244*
+*Related: A-1383.1, A-1383.2, A-1384.1, C-2690, C-2695, C-2691, N-10230*
 
 ---
 
@@ -387,7 +387,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.3, A-1386.1, C-2701, C-2703, C-2699, N-10245*
+*Related: A-1385.1, A-1385.3, A-1386.1, C-2701, C-2703, C-2699, N-10231*
 
 ---
 
@@ -430,7 +430,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10243** UVU Outdoor Venue Selection Discrepancy
+**N-10229** UVU Outdoor Venue Selection Discrepancy
 
 Persistent investigative target concerning the late (July 18) UVU Turning Point chapter request, the rapid dispatch of scouts in early August, and Turning Point USA's decision to override UVU's safety-based recommendation against the outdoor amphitheater.
 
@@ -443,7 +443,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10244** Pre-Event Old Man Near Bush Anomaly
+**N-10230** Pre-Event Old Man Near Bush Anomaly
 
 Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turek.
 
@@ -456,7 +456,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10245** Alexis Wilkins Honeypot Allegation Lawsuit
+**N-10231** Alexis Wilkins Honeypot Allegation Lawsuit
 
 Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaffer and other content creators over "honeypot" allegations, including the Hen Mazzig X post and Schaefer photograph cited within the complaint.
 
@@ -533,7 +533,7 @@ Place of the retreat the host discusses.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Reused for the donor items.
 
@@ -541,7 +541,7 @@ Reused for the donor items.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Reused for the host's casino remark.
 
@@ -549,7 +549,7 @@ Reused for the host's casino remark.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Reused for the camera and SD card lies.
 
@@ -557,7 +557,7 @@ Reused for the camera and SD card lies.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Reused for the Streit introductions and Wilkins remark.
 
@@ -565,7 +565,7 @@ Reused for the Streit introductions and Wilkins remark.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Reused for lie nine.
 
@@ -573,7 +573,7 @@ Reused for lie nine.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Reused for the hats explanation.
 
@@ -581,7 +581,7 @@ Reused for the hats explanation.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Reused for the call-first and 911 items.
 
@@ -589,7 +589,7 @@ Reused for the call-first and 911 items.
 
 ---
 
-**N-10196** UVU Hospital Charlie Kirk Medical File Access Question
+**N-10188** UVU Hospital Charlie Kirk Medical File Access Question
 
 Reused for the hospital items.
 
@@ -597,7 +597,7 @@ Reused for the hospital items.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Reused for the lie list.
 
@@ -605,7 +605,7 @@ Reused for the lie list.
 
 ---
 
-**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Reused for Shapiro and Kelly items.
 
@@ -613,7 +613,7 @@ Reused for Shapiro and Kelly items.
 
 ---
 
-**N-10248** Calvary Chapel Network Infiltration Question
+**N-10234** Calvary Chapel Network Infiltration Question
 
 Reused for Hibbs and the academy purchase.
 
@@ -621,7 +621,7 @@ Reused for Hibbs and the academy purchase.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Reused for the Hamptons items.
 
@@ -629,7 +629,7 @@ Reused for the Hamptons items.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Reused for the police instruction lie.
 
@@ -637,7 +637,7 @@ Reused for the police instruction lie.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Reused for lie nine.
 
@@ -645,7 +645,7 @@ Reused for lie nine.
 
 ---
 
-**N-10436** TPUSA Faith Military Infiltration Claim
+**N-10405** TPUSA Faith Military Infiltration Claim
 
 Reused for the Hibbs military-family item.
 
@@ -653,15 +653,7 @@ Reused for the Hibbs military-family item.
 
 ---
 
-**N-10770** Utah Valley Hospital File Anomaly
-
-Reused for the hospital system items.
-
-*Related: C-2685, C-2686, C-2687*
-
----
-
-**N-10817** Butch Hibbs UVU Recording Behavior
+**N-10740** Butch Hibbs UVU Recording Behavior
 
 Reused for his arrival with Kirk.
 
@@ -669,7 +661,7 @@ Reused for his arrival with Kirk.
 
 ---
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Possible match for the sponsor transcribed 'Rei'.
 
@@ -685,7 +677,7 @@ The host names him as the source of the police camera-removal account.
 
 ---
 
-**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative
+**N-10982** Ben Shapiro and Charlie Kirk Friendship Narrative
 
 Reused for the bad-blood lie.
 
@@ -693,7 +685,7 @@ Reused for the bad-blood lie.
 
 ---
 
-**N-11080** Student Action Summit July 2025 (Tampa)
+**N-10998** Student Action Summit July 2025 (Tampa)
 
 Setting of the backstage exchange.
 
@@ -701,7 +693,7 @@ Setting of the backstage exchange.
 
 ---
 
-**N-11084** TPUSA Leak Hunt and Employee Firings
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 Reused for the leak items.
 
@@ -709,7 +701,7 @@ Reused for the leak items.
 
 ---
 
-**N-11121** Hollywood Gang Claim
+**N-11039** Hollywood Gang Claim
 
 Reused for the Kanye Hollywood remark.
 
@@ -717,14 +709,14 @@ Reused for the Kanye Hollywood remark.
 
 ---
 
-**N-11167** Operation Underground Railroad
+**N-11083** Operation Underground Railroad
 Ballard's organization.
 
 *Related: C-2698*
 
 ---
 
-**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+**N-11087** Kirk "Internet DOGE" Money-Tracing Effort
 
 Reused for lie nine.
 
@@ -869,7 +861,7 @@ Aliases: Austin Erickson
 
 ---
 
-**N-11232** TPUSA Email Fingerprinting Software Claim
+**N-11148** TPUSA Email Fingerprinting Software Claim
 
 Node Type: Topic
 Persistent target: the host's report that tech people found TPUSA may use software that varies the wording of each employee's copy of an email to trace leaks.
@@ -878,7 +870,7 @@ Persistent target: the host's report that tech people found TPUSA may use softwa
 
 ---
 
-**N-11233** Mikey McCoy Identity and Family Ties Inquiry
+**N-11149** Mikey McCoy Identity and Family Ties Inquiry
 
 Node Type: Topic
 Persistent target: the host's questions about Mikey McCoy's legal first name, local recognition of him, and his wife's role as a TPUSA events director.
@@ -887,7 +879,7 @@ Persistent target: the host's questions about Mikey McCoy's legal first name, lo
 
 ---
 
-**N-11234** Rob McCoy Christian Academy Ownership and Teacher Lawsuit
+**N-11150** Rob McCoy Christian Academy Ownership and Teacher Lawsuit
 
 Node Type: Topic
 Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it, the 2009 Calvary Chapel purchase and the teacher firing lawsuit.
@@ -896,7 +888,7 @@ Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it,
 
 ---
 
-**N-11235** Female Jewish Donor Confrontation of Kirk After Tucker Speech
+**N-11151** Female Jewish Donor Confrontation of Kirk After Tucker Speech
 
 Node Type: Topic
 Persistent target: the host's unnamed female donor who allegedly yelled at Charlie Kirk after Tucker Carlson's July speech.
@@ -986,7 +978,7 @@ Claim: The host says the previously anonymous older man seen near a bush at the 
 Anchored Artifacts: A-1383.1, A-1384.1
 Mentions: N-7, N-246, N-1, N-208
 
-Related Nodes: N-10244
+Related Nodes: N-10230
 
 Investigative Direction: Obtain the full Frank Turek interview, including any prior segments establishing his presence at the event.
 
@@ -1029,7 +1021,7 @@ Claim: According to local Utah news cited by the host, the UVU Turning Point cha
 Anchored Artifacts: A-1387.1
 Mentions: N-1
 
-Related Nodes: N-10243
+Related Nodes: N-10229
 
 Investigative Direction: Obtain the underlying local Utah news article and any UVU/Turning Point USA correspondence regarding the request date.
 
@@ -1043,7 +1035,7 @@ Claim: The host says she learned that UVU communicated to Turning Point USA that
 
 Anchored Artifacts: A-1387.1
 
-Related Nodes: N-10243
+Related Nodes: N-10229
 
 Investigative Direction: Obtain UVU event-services correspondence and any internal Turning Point USA event-planning records reflecting the recommendation and override.
 
@@ -1058,7 +1050,7 @@ Claim: The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Sc
 Anchored Artifacts: A-1385.1
 Mentions: N-69, N-212, N-247
 
-Related Nodes: N-10245
+Related Nodes: N-10231
 
 Investigative Direction: Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.
 
@@ -1145,7 +1137,7 @@ Transcript Snippet: because in the days following it, he didn't recant. He did n
 
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-3, N-2
-Related Nodes: N-10237
+Related Nodes: N-10224
 Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Review Shapiro's posts, shows and statements from the days after the tour stop for any correction or retraction.
@@ -1162,7 +1154,7 @@ Transcript Snippet: Asked again like, "Are you sure she said that?" And he says,
 
 Anchored Artifacts: 
 Mentions: N-46, N-97, N-3
-Related Nodes: N-10237
+Related Nodes: N-10224
 Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Obtain the full tour recording of the Shapiro stop to confirm the exchange and wording.
@@ -1179,7 +1171,7 @@ Transcript Snippet: which I had not heard and I was taken back because that seem
 
 Anchored Artifacts: A-1379.1
 Mentions: N-46, N-97, N-3, N-2, N-1
-Related Nodes: N-10237
+Related Nodes: N-10224
 Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's wording.
@@ -1196,7 +1188,7 @@ Transcript Snippet: if you read her comments, she's under pressure to make comme
 
 Anchored Artifacts: A-1379.1
 Mentions: N-46, N-3, N-2
-Related Nodes: N-10237
+Related Nodes: N-10224
 Supports: C-2644
 Tags: relevance:core
 Investigative Direction: Review Owens's public statements about Erika Kirk up to the date of the Kelly Q&A to test Kelly's characterization.
@@ -1259,7 +1251,7 @@ Transcript Snippet: And he was feeling a lot of peer pressure in the weeks leadi
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-46, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Supports: C-254
 Tags: relevance:core
 Investigative Direction: Collect Kirk's own statements, texts and donor communications from July to September 2025 describing the pressure.
@@ -1276,7 +1268,7 @@ Transcript Snippet: I'll never forget it, and said, "Go all the way. Do it. Go a
 
 Anchored Artifacts: A-1381.1
 Mentions: N-22, N-1, N-9
-Related Nodes: N-11080, N-10047
+Related Nodes: N-10998, N-10044
 Supports: C-2651
 Tags: relevance:core
 Investigative Direction: Obtain Tucker's full unedited remarks and any witness or recording from backstage at the July Student Action Summit.
@@ -1309,7 +1301,7 @@ Transcript Snippet: Turning Point captured that and they could have easily relea
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-1
-Related Nodes: N-10000, N-11080
+Related Nodes: N-10000, N-10998
 Tags: relevance:core
 Investigative Direction: Request TPUSA's July 2025 Student Action Summit audio and video archive and ask whether it holds the backstage exchange.
 
@@ -1341,7 +1333,7 @@ Transcript Snippet: which donor was waiting for him once Tucker got off stage an
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
-Related Nodes: N-11235, N-10047, N-11080
+Related Nodes: N-11151, N-10044, N-10998
 Tags: relevance:core
 Investigative Direction: Identify the donor and any witnesses from the host's source; the host has not named her.
 
@@ -1388,7 +1380,7 @@ Transcript Snippet: Lie number five, the magnificent Mikey McCoy called his dad 
 
 Anchored Artifacts: 
 Mentions: N-190, N-17, N-3
-Related Nodes: N-10193, N-10198
+Related Nodes: N-10185, N-10190
 Tags: relevance:core
 Investigative Direction: Compare Rob McCoy's account with Mikey McCoy's phone call log for September 10, 2025.
 
@@ -1404,7 +1396,7 @@ Transcript Snippet: Terryl, the AV guy, uh, was told to remove the cameras by po
 
 Anchored Artifacts: 
 Mentions: N-261, N-11, N-3
-Related Nodes: N-10346, N-10100
+Related Nodes: N-10324, N-10096
 Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Obtain police body-camera or CAD records showing whether any officer gave a camera or SD card instruction.
@@ -1421,7 +1413,7 @@ Transcript Snippet: Terryl moved the SD cards because people were stealing hats.
 
 Anchored Artifacts: 
 Mentions: N-261, N-14
-Related Nodes: N-10100, N-10162
+Related Nodes: N-10096, N-10156
 Contradicts: C-1358
 Tags: relevance:core
 Investigative Direction: Obtain the original Kolvet statement and any report of hat or equipment theft at the event.
@@ -1438,7 +1430,7 @@ Transcript Snippet: Ben Shapiro and Charlie Kirk never had any bad blood between
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-99
-Related Nodes: N-11064
+Related Nodes: N-10982
 Tags: relevance:core
 Investigative Direction: Review the Alex Clark episode featuring Shapiro and documented Shapiro-Kirk disagreements.
 
@@ -1454,7 +1446,7 @@ Transcript Snippet: Charlie established Doge and that wasn't unusual. Turning Po
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10132, N-10434, N-11171
+Related Nodes: N-10127, N-10404, N-11087
 Supports: C-1387
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA audited financial statements and Form 990s for 2012 to 2024 and any internal DOGE memos.
@@ -1471,7 +1463,7 @@ Transcript Snippet: to be a hero, you can't just make quick phone calls. I don't
 
 Anchored Artifacts: 
 Mentions: N-190
-Related Nodes: N-10193, N-10198
+Related Nodes: N-10185, N-10190
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log and the 911 call records for September 10, 2025.
 
@@ -1503,7 +1495,7 @@ Transcript Snippet: That is very late in the day for a request. They're usually 
 
 Anchored Artifacts: A-1387.1
 Mentions: N-1, N-3
-Related Nodes: N-10243
+Related Nodes: N-10229
 Supports: C-2668
 Tags: relevance:core
 Investigative Direction: Compare lead times of past TPUSA campus events using ticketing and promotion dates.
@@ -1520,7 +1512,7 @@ Transcript Snippet: Within two weeks, they had boots on the ground and they were
 
 Anchored Artifacts: A-1387.1
 Mentions: N-1
-Related Nodes: N-10243, N-10000
+Related Nodes: N-10229, N-10000
 Supports: C-2668
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA travel and expense records and UVU campus-visit logs for early August 2025.
@@ -1537,7 +1529,7 @@ Transcript Snippet: after UVU showed them multiple options inside and outside, U
 
 Anchored Artifacts: A-1387.1
 Mentions: 
-Related Nodes: N-10243, N-10012
+Related Nodes: N-10229, N-10012
 Supports: C-2669
 Tags: relevance:core
 Investigative Direction: Obtain UVU event-services emails and site-visit notes listing the venues offered.
@@ -1554,7 +1546,7 @@ Transcript Snippet: please send us an email to more tips at candacewowens. com.
 
 Anchored Artifacts: A-3027.1
 Mentions: N-3
-Related Nodes: N-10243, N-10000
+Related Nodes: N-10229, N-10000
 Tags: relevance:core
 Investigative Direction: Receive tips and identify the TPUSA events staff who scouted UVU in August 2025.
 
@@ -1570,7 +1562,7 @@ Transcript Snippet: I know, by the way, that Mikey McCoy's wife is one of the ev
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-11233, N-10000, N-10243
+Related Nodes: N-11149, N-10000, N-10229
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings and obtain the events department org chart for 2025.
 
@@ -1586,7 +1578,7 @@ Transcript Snippet: some of us have been speaking and we had never heard of a Mi
 
 Anchored Artifacts: 
 Mentions: N-17, N-190, N-3
-Related Nodes: N-11233
+Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Interview Thousand Oaks church members and check school and church records for Rob McCoy's children.
 
@@ -1602,7 +1594,7 @@ Transcript Snippet: somebody on the inside of Turning Point told me that Mikey o
 
 Anchored Artifacts: 
 Mentions: N-190, N-3
-Related Nodes: N-11233
+Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Check birth, school and licensing records for the legal name of Rob McCoy's son.
 
@@ -1618,7 +1610,7 @@ Transcript Snippet: So, if you have that information, please email more tips@can
 
 Anchored Artifacts: A-3027.2
 Mentions: N-190, N-3
-Related Nodes: N-11233
+Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Receive tips on Mikey McCoy's legal name.
 
@@ -1650,7 +1642,7 @@ Transcript Snippet: your involvement with bringing that sponsor on. Things got a
 
 Anchored Artifacts: 
 Mentions: N-20, N-848, N-1
-Related Nodes: N-10870, N-10000
+Related Nodes: N-10791, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Yrefy.
 
@@ -1666,7 +1658,7 @@ Transcript Snippet: the lie, the alibi lie for the Hampton's retreat with Seth D
 
 Anchored Artifacts: 
 Mentions: N-20, N-848, N-38, N-3
-Related Nodes: N-10027, N-10345
+Related Nodes: N-10027, N-10323
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Compare the Ericksons' public statements about the Hamptons retreat with calendars, flight and attendee records.
@@ -1683,7 +1675,7 @@ Transcript Snippet: Seth Dillon did press Charlie. Charlie himself described the
 
 Anchored Artifacts: 
 Mentions: N-38, N-1, N-3
-Related Nodes: N-10027, N-10345
+Related Nodes: N-10027, N-10323
 Supports: C-79
 Supports: C-239
 Tags: relevance:core
@@ -1701,7 +1693,7 @@ Transcript Snippet: I know a lot of you guys are leaking to different people.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11084
+Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Not independently testable beyond the host's sources; look for corroborating reporting by other outlets.
 
@@ -1717,7 +1709,7 @@ Transcript Snippet: it looks like TurningPoint has implemented a software to tra
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11232, N-10000, N-11084
+Related Nodes: N-11148, N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Have a technical expert compare leaked TPUSA emails for per-recipient wording differences.
 
@@ -1748,7 +1740,7 @@ Transcript Snippet: Utah Valley Hospital is owned by IHC and they run on a syste
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10770, N-10196
+Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Confirm ownership and electronic health record systems of both hospitals from public records; the transcribed 'VDI' needs checking.
 
@@ -1764,7 +1756,7 @@ Transcript Snippet: These two hospitals do not speak to each other.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10770, N-10196
+Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Ask both hospital systems or a health-records expert whether any records exchange existed in September 2025.
 
@@ -1780,7 +1772,7 @@ Transcript Snippet: We don't know why this anomaly occurred where Charlie Kirk h
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10770, N-10196
+Related Nodes: N-10188
 Tags: relevance:core
 Investigative Direction: Obtain the Utah Valley Hospital access-audit log for the file and the nurse notification.
 
@@ -1796,7 +1788,7 @@ Transcript Snippet: some students on the ground described witnessing an old man 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10244
+Related Nodes: N-10230
 Tags: relevance:core
 Investigative Direction: Interview the students and review set-up footage for the bush area.
 
@@ -1812,7 +1804,7 @@ Transcript Snippet: We absolutely cannot definitively confirm from this video th
 
 Anchored Artifacts: A-1384.1
 Mentions: N-3
-Related Nodes: N-10244
+Related Nodes: N-10230
 Supports: C-2690
 Tags: relevance:core
 Investigative Direction: Obtain the original video file with metadata and the source's account of when and where it was filmed.
@@ -1829,7 +1821,7 @@ Transcript Snippet: Butch Hibbs is also his brother who's involved in a Calvary 
 
 Anchored Artifacts: A-1383.1
 Mentions: N-208, N-246
-Related Nodes: N-10248
+Related Nodes: N-10234
 Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Identify Butch Hibbs's church and role from Calvary Chapel directories.
@@ -1846,7 +1838,7 @@ Transcript Snippet: he's behind Charlie when he gets out of the car. Like Charli
 
 Anchored Artifacts: 
 Mentions: N-246, N-1, N-190
-Related Nodes: N-10817, N-10244
+Related Nodes: N-10740, N-10230
 Tags: relevance:core
 Investigative Direction: Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.
 
@@ -1877,7 +1869,7 @@ Transcript Snippet: Hibs are from a military family. Okay. Uh Butch senior was i
 
 Anchored Artifacts: 
 Mentions: N-246, N-208
-Related Nodes: N-10436
+Related Nodes: N-10405
 Tags: relevance:core
 Investigative Direction: Search military service records for any Hibbs family members.
 
@@ -1893,7 +1885,7 @@ Transcript Snippet: Jack Hibbs was somebody that Marissa Flag for me that she wa
 
 Anchored Artifacts: 
 Mentions: N-208, N-117, N-3
-Related Nodes: N-10131
+Related Nodes: N-10126
 Tags: relevance:context
 Investigative Direction: Ask the host for the original communication from PragerU about Hibbs.
 
@@ -1909,7 +1901,7 @@ Transcript Snippet: also was introduced to me by Visha Stray.
 
 Anchored Artifacts: 
 Mentions: N-325, N-117, N-3
-Related Nodes: N-11167, N-10131
+Related Nodes: N-11083, N-10126
 Tags: relevance:context
 Investigative Direction: Confirm the introduction timeline between PragerU, Streit and Ballard from the host's records.
 
@@ -1925,7 +1917,7 @@ Transcript Snippet: Like you left your wife, you've been with this girl for like
 
 Anchored Artifacts: A-1386.1
 Mentions: N-69, N-212
-Related Nodes: N-10245
+Related Nodes: N-10231
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on Patel's marital status and the start of the relationship.
 
@@ -1941,7 +1933,7 @@ Transcript Snippet: Ever since Kash Patel was appointed as director of the FBI i
 
 Anchored Artifacts: A-1385.1
 Mentions: N-212, N-69
-Related Nodes: N-10245, N-10015
+Related Nodes: N-10231, N-10015
 Supports: C-2701
 Tags: relevance:context
 Investigative Direction: Obtain the filed complaint and verify the quoted paragraph and filing date.
@@ -1958,7 +1950,7 @@ Transcript Snippet: they didn't even explicitly call her a honeypot. They just p
 
 Anchored Artifacts: A-1385.3
 Mentions: N-247, N-212
-Related Nodes: N-10245
+Related Nodes: N-10231
 Supports: C-2703
 Tags: relevance:context
 Investigative Direction: Compare each defendant's alleged conduct in the complaint with the original posts.
@@ -1975,7 +1967,7 @@ Transcript Snippet: means that she did this with the blessing of her quote unquo
 
 Anchored Artifacts: A-1385.1
 Mentions: N-212, N-69
-Related Nodes: N-10245
+Related Nodes: N-10231
 Tags: relevance:context
 Investigative Direction: Seek any Patel statement on whether he knew of or approved the filing; the host offers this as an inference.
 
@@ -1991,7 +1983,7 @@ Transcript Snippet: I don't know. I've never made that claim.
 
 Anchored Artifacts: 
 Mentions: N-212, N-3
-Related Nodes: N-10245
+Related Nodes: N-10231
 Tags: relevance:context
 Investigative Direction: Review the host's earlier remarks about Wilkins for any statement that conflicts with this disclaimer.
 
@@ -2007,7 +1999,7 @@ Transcript Snippet: people saying she works for Marissa Streit Prageru who uh yo
 
 Anchored Artifacts: 
 Mentions: N-212, N-117
-Related Nodes: N-10131, N-10245
+Related Nodes: N-10126, N-10231
 Tags: relevance:context
 Investigative Direction: Check Wilkins's employment history and Streit's biography for any PragerU role or IDF service.
 
@@ -2023,7 +2015,7 @@ Transcript Snippet: It looks like Mikey McCoy went to Oaks Christian in Thousand
 
 Anchored Artifacts: A-3028.1
 Mentions: N-190
-Related Nodes: N-11234
+Related Nodes: N-11150
 Tags: relevance:context
 Investigative Direction: Verify through Oaks Christian alumni listings or yearbooks.
 
@@ -2039,7 +2031,7 @@ Transcript Snippet: Rob McCoy ran that school. He ran Little Oaks. It's like a b
 
 Anchored Artifacts: A-3028.1
 Mentions: N-17
-Related Nodes: N-11234
+Related Nodes: N-11150
 Tags: relevance:context
 Investigative Direction: Check school leadership records for Rob McCoy and the school's actual name and type.
 
@@ -2055,7 +2047,7 @@ Transcript Snippet: Outright purchased uh the Christian Academy in 2009, I belie
 
 Anchored Artifacts: A-1388.1
 Mentions: 
-Related Nodes: N-11234, N-10248
+Related Nodes: N-11150, N-10234
 Tags: relevance:context
 Investigative Direction: Locate the news article and county or corporate records of the purchase.
 
@@ -2071,7 +2063,7 @@ Transcript Snippet: the teachers were suing Rob because he fired them and then R
 
 Anchored Artifacts: A-1388.1
 Mentions: N-17
-Related Nodes: N-11234
+Related Nodes: N-11150
 Tags: relevance:context
 Investigative Direction: Search federal docket records for the teachers' case against the Christian Academy of Thousand Oaks and its outcome.
 
@@ -2103,7 +2095,7 @@ Transcript Snippet: who have intimately let me know the things that the Erickson
 
 Anchored Artifacts: 
 Mentions: N-20, N-848, N-3, N-1
-Related Nodes: N-10000, N-11084
+Related Nodes: N-10000, N-11002
 Tags: relevance:core
 Investigative Direction: Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.
 
@@ -2136,7 +2128,7 @@ Transcript Snippet: I think he was talking about some Zionists in Hollywood and 
 
 Anchored Artifacts: A-1389.1
 Mentions: N-27, N-3
-Related Nodes: N-10004, N-11121
+Related Nodes: N-10004, N-11039
 Tags: relevance:tangential
 Investigative Direction: Review Kanye's contemporaneous statements about who he was referring to.
 
@@ -2199,7 +2191,7 @@ Transcript Snippet: Trump needs a casino, right? Uh Jared's doing deals. They wa
 
 Anchored Artifacts: 
 Mentions: N-178, N-3
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:tangential
 Investigative Direction: Review reporting on Gaza redevelopment proposals and Kushner's business interests.
 

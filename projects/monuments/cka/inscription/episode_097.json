@@ -99,7 +99,7 @@
             "C-8655"
           ],
           "related_nodes": [
-            "N-10644"
+            "N-10588"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10643"
+            "N-10347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
             "C-8674"
           ],
           "related_nodes": [
-            "N-10646"
+            "N-10590"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,7 +330,7 @@
             "C-8674"
           ],
           "related_nodes": [
-            "N-10646"
+            "N-10590"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -562,7 +562,7 @@
             "C-8650"
           ],
           "related_nodes": [
-            "N-10645"
+            "N-10589"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -586,7 +586,7 @@
           "description": "Selected comments including Michael Jester's note about malicious-prosecution exposure for SLAPP suits and Jen Common's note on UVU drone authorization form",
           "related_claims": [],
           "related_nodes": [
-            "N-10645"
+            "N-10589"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -675,14 +675,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-3",
-        "N-10650"
+        "N-10592"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10643",
-      "ref": "N-10643",
-      "name": "Harpole Fort Huachuca Alibi Question",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Persistence of unresolved alibi question for Brian Harpole's whereabouts on the morning of September 9, 2025; Snow's testimony places him at a Fort Huachuca meeting that concluded at 7:30 a.m.; afternoon Dallas flights cited.",
       "related_artifacts": [
@@ -693,7 +693,17 @@
       "related_claims": [
         "C-8669",
         "C-8671",
-        "C-8678"
+        "C-8678",
+        "C-8664",
+        "C-8665",
+        "C-8675",
+        "C-8676",
+        "C-8677",
+        "C-8680",
+        "C-8723",
+        "C-8724",
+        "C-8725",
+        "C-8726"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -703,8 +713,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10644",
-      "ref": "N-10644",
+      "@id": "N-10588",
+      "ref": "N-10588",
       "name": "Harpole Limited-Purpose Public Figure Status",
       "type": "investigation_target",
       "description": "Whether Harpole qualifies as a limited-purpose public figure for defamation actual-malice standard, hinging on his November 17, 2025 Shawn Ryan appearance.",
@@ -725,8 +735,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10645",
-      "ref": "N-10645",
+      "@id": "N-10589",
+      "ref": "N-10589",
       "name": "UVU Drone Authorization Records",
       "type": "investigation_target",
       "description": "Question of whether Brian Harpole submitted and was denied a UVU drone authorization form (per Jen Common viewer comment); relevant to the lawsuit's drone grievance.",
@@ -746,8 +756,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10646",
-      "ref": "N-10646",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
       "type": "investigation_target",
       "description": "Whether security was responsible for securing Sorensen Center rooftop access and whether Chief Long's \"I got you covered\" reply addressed that access; conflict between Harpole's Shawn Ryan presentation and the lawsuit's later admission.",
@@ -761,8 +771,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10647",
-      "ref": "N-10647",
+      "@id": "N-10587",
+      "ref": "N-10587",
       "name": "Erika Kirk Murder Allegation Accuracy",
       "type": "investigation_target",
       "description": "Whether Erika Kirk correctly stated that Candace accused her of murdering Charlie Kirk.",
@@ -785,8 +795,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10648",
-      "ref": "N-10648",
+      "@id": "N-10591",
+      "ref": "N-10591",
       "name": "House Resolution Characterization Accuracy",
       "type": "investigation_target",
       "description": "Whether the Lawler-Gottheimer resolution accurately characterizes Candace's prior statements about Israel, satanic pedophiles, Josef Mengele, and Christian children.",
@@ -813,8 +823,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10649",
-      "ref": "N-10649",
+      "@id": "N-11295",
+      "ref": "N-11295",
       "name": "Candace-Erika December 15 Private Meeting Revelations",
       "type": "investigation_target",
       "description": "Private meeting in which Candace claims to have revealed to Erika Kirk that Mikey McCoy urged Candace to investigate Andrew Kolvet.",
@@ -833,8 +843,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10650",
-      "ref": "N-10650",
+      "@id": "N-10592",
+      "ref": "N-10592",
       "name": "Charlie Kirk September 9 Pre-Event Threat Text",
       "type": "investigation_target",
       "description": "Claimed text from Charlie Kirk to security the night before the September 10 event stating \"I think I'm going to be killed\" – referenced by Candace in arguing Harpole's incompetence claim.",
@@ -1568,8 +1578,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
       "type": "investigation_target",
       "description": "AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.",
@@ -1585,8 +1595,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10272",
-      "ref": "N-10272",
+      "@id": "N-10256",
+      "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1602,8 +1612,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1619,8 +1629,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10358",
-      "ref": "N-10358",
+      "@id": "N-10334",
+      "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1637,34 +1647,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
-      "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8664",
-        "C-8665",
-        "C-8675",
-        "C-8676",
-        "C-8677",
-        "C-8680",
-        "C-8723",
-        "C-8724",
-        "C-8725",
-        "C-8726"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 10,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10437",
-      "ref": "N-10437",
+      "@id": "N-10406",
+      "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1680,8 +1664,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10546",
-      "ref": "N-10546",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1697,8 +1681,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10552",
-      "ref": "N-10552",
+      "@id": "N-10506",
+      "ref": "N-10506",
       "name": "Aubrey Termination Circumstances",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1714,8 +1698,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10641",
-      "ref": "N-10641",
+      "@id": "N-10586",
+      "ref": "N-10586",
       "name": "Andrew Kolvet Text Message Full Context Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1733,8 +1717,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1756,8 +1740,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1774,8 +1758,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1791,8 +1775,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10695",
-      "ref": "N-10695",
+      "@id": "N-10633",
+      "ref": "N-10633",
       "name": "Brian Harpole Medical Dressing Amount Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1808,8 +1792,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10812",
-      "ref": "N-10812",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1826,8 +1810,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1843,8 +1827,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1860,8 +1844,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Paramount Tactical, Gary Melton's channel; the host says it relayed the warning about Harpole suing.",
@@ -1877,8 +1861,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Daily Wire; the host says Harpole's lawyer is the one it used against her in arbitration.",
@@ -1894,8 +1878,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11001",
-      "ref": "N-11001",
+      "@id": "N-10921",
+      "ref": "N-10921",
       "name": "Valhalla VFT",
       "type": "investigation_target",
       "description": "Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a relay of the lawsuit warning.",
@@ -1911,8 +1895,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11013",
-      "ref": "N-11013",
+      "@id": "N-10933",
+      "ref": "N-10933",
       "name": "Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1928,8 +1912,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11137",
-      "ref": "N-11137",
+      "@id": "N-11055",
+      "ref": "N-11055",
       "name": "Harpole Team Medical Response Competence Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1962,8 +1946,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11258",
-      "ref": "N-11258",
+      "@id": "N-11174",
+      "ref": "N-11174",
       "name": "Harpole Lawsuit Subpoena and Discovery Opportunity",
       "type": "topic",
       "description": "The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terryl Farnsworth's footage, text messages and testimony from Erika Kirk.",
@@ -2026,7 +2010,7 @@
         "A-2015.2"
       ],
       "related_nodes": [
-        "N-10650"
+        "N-10592"
       ],
       "tags": [],
       "claim_timestamp": "00:03:20",
@@ -2066,7 +2050,7 @@
         "A-2015.4"
       ],
       "related_nodes": [
-        "N-10645"
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:09:16",
@@ -2086,7 +2070,7 @@
         "A-2015.5"
       ],
       "related_nodes": [
-        "N-10644"
+        "N-10588"
       ],
       "tags": [],
       "claim_timestamp": "00:14:11",
@@ -2106,7 +2090,7 @@
         "A-2015.6"
       ],
       "related_nodes": [
-        "N-10644"
+        "N-10588"
       ],
       "tags": [],
       "claim_timestamp": "00:16:29",
@@ -2128,7 +2112,7 @@
         "A-2018.1"
       ],
       "related_nodes": [
-        "N-10644"
+        "N-10588"
       ],
       "tags": [],
       "claim_timestamp": "00:16:46",
@@ -2152,7 +2136,7 @@
         "A-2017.3"
       ],
       "related_nodes": [
-        "N-10643"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:22:23",
@@ -2213,7 +2197,7 @@
         "A-2019.2"
       ],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [],
       "claim_timestamp": "00:27:53",
@@ -2236,7 +2220,7 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-10643"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
@@ -2277,7 +2261,7 @@
         "A-2028.1"
       ],
       "related_nodes": [
-        "N-10645"
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:10:08",
@@ -2298,7 +2282,7 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
@@ -2320,7 +2304,7 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:44:39",
@@ -2341,7 +2325,7 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:43:04",
@@ -2364,7 +2348,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [],
       "claim_timestamp": "00:50:32",
@@ -2385,7 +2369,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [],
       "claim_timestamp": "00:52:10",
@@ -2404,7 +2388,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [],
       "claim_timestamp": "00:52:50",
@@ -2423,7 +2407,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [],
       "claim_timestamp": "00:53:42",
@@ -2443,7 +2427,7 @@
         "A-2022.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [],
       "claim_timestamp": "00:55:26",
@@ -2478,7 +2462,7 @@
       "claim": "The host says Erika Kirk 'put a target on my back' by wrongly asserting that the host accused her of murdering her husband.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10647"
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -2504,7 +2488,7 @@
         "A-2015.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -2528,8 +2512,8 @@
       "claim": "The host says Harpole is using the same lawyer the Daily Wire used to sue her in arbitration for two years, and that the lawyer is publicly tweeting and has a YouTube channel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10651"
+        "N-10821",
+        "N-10593"
       ],
       "tags": [
         "relevance:context"
@@ -2552,8 +2536,8 @@
         "A-2015.2"
       ],
       "related_nodes": [
-        "N-10840",
-        "N-11137"
+        "N-10763",
+        "N-11055"
       ],
       "tags": [
         "relevance:core"
@@ -2576,8 +2560,8 @@
         "A-2015.2"
       ],
       "related_nodes": [
-        "N-10650",
-        "N-11013"
+        "N-10592",
+        "N-10933"
       ],
       "tags": [
         "relevance:core"
@@ -2647,7 +2631,7 @@
         "A-2015.3"
       ],
       "related_nodes": [
-        "N-10812"
+        "N-10736"
       ],
       "tags": [
         "relevance:core"
@@ -2692,7 +2676,7 @@
         "A-2015.4"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10633"
       ],
       "tags": [
         "relevance:core"
@@ -2716,7 +2700,7 @@
         "A-2028.1"
       ],
       "related_nodes": [
-        "N-10645"
+        "N-10589"
       ],
       "tags": [
         "relevance:core"
@@ -2742,7 +2726,7 @@
         "A-2028.1"
       ],
       "related_nodes": [
-        "N-10645"
+        "N-10589"
       ],
       "tags": [
         "relevance:core"
@@ -2809,7 +2793,7 @@
         "A-2015.5"
       ],
       "related_nodes": [
-        "N-10644"
+        "N-10588"
       ],
       "tags": [
         "relevance:context"
@@ -2907,8 +2891,8 @@
       "claim": "The host says it was Harpole's behavior and what he said on the Shawn Ryan show, which she found unconvincing, that made her take a second look, and that she did not come in guns blazing against TPUSA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10862",
-        "N-10681"
+        "N-10783",
+        "N-10619"
       ],
       "tags": [
         "relevance:core"
@@ -2930,7 +2914,7 @@
       "claim": "The host says that on November 8 she first mentioned that someone thought they saw Brian Harpole at Fort Huachuca, that she examined the person's documents and found him credible about where he said he was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -2952,7 +2936,7 @@
       "claim": "The host says the solo episode on the Fort Huachuca sighting aired on December 9 and caused mass panic, before she could interview Mitch Snow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -2973,9 +2957,9 @@
       "claim": "The host says she was effectively threatened behind the scenes through Paramount Tactical and the Valhalla guy, who said Mitch was a fraud never in the military and that Harpole would sue if she interviewed him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-11001",
-        "N-10651"
+        "N-10820",
+        "N-10921",
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -2997,7 +2981,7 @@
       "claim": "The host says that before she did the interview, Brian Harpole was telling people to say he would sue her if she interviewed Mitch Snow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -3093,7 +3077,7 @@
         "A-2019.1"
       ],
       "related_nodes": [
-        "N-10272"
+        "N-10256"
       ],
       "tags": [
         "relevance:core"
@@ -3122,7 +3106,7 @@
         "A-2015.9"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3149,7 +3133,7 @@
         "A-3076.1"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3175,7 +3159,7 @@
         "A-3076.1"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3198,7 +3182,7 @@
         "A-2020.1"
       ],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3261,7 +3245,7 @@
       "claim": "The host says the lawyer has full access to her lawyers in Tennessee, has been in communication with them for two years, and never raised a single issue until the end of April.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -3283,7 +3267,7 @@
         "A-2015.1"
       ],
       "related_nodes": [
-        "N-11258"
+        "N-11174"
       ],
       "tags": [
         "relevance:context"
@@ -3304,8 +3288,8 @@
       "claim": "The host says Terryl Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11258",
-        "N-10812"
+        "N-11174",
+        "N-10736"
       ],
       "tags": [
         "relevance:core"
@@ -3329,8 +3313,8 @@
         "A-2021.1"
       ],
       "related_nodes": [
-        "N-10641",
-        "N-10647"
+        "N-10586",
+        "N-10587"
       ],
       "tags": [
         "relevance:core"
@@ -3352,7 +3336,7 @@
       "claim": "The host says Erika Kirk showed no interest in exploring other options or foreign influence, and that her team is attacking Joe Kent for asking that question.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10546"
+        "N-10501"
       ],
       "tags": [
         "relevance:core"
@@ -3374,7 +3358,7 @@
       "claim": "The host says Erika Kirk lied about Dr. Lee Trotter's words, which she calls significant.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10358"
+        "N-10334"
       ],
       "tags": [
         "relevance:core"
@@ -3399,8 +3383,8 @@
       "claim": "The host says Erika Kirk colluded with Andrew Kolvet on the 'man of steel' statement and then flatly denied to the host's face that she did.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10358"
+        "N-10319",
+        "N-10334"
       ],
       "tags": [
         "relevance:core"
@@ -3422,8 +3406,8 @@
       "claim": "The host says donors told her that Erika Kirk is lying about the audio clip presented at AmFest, in which Charlie names her, and that it never went down.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
-        "N-10437"
+        "N-10606",
+        "N-10406"
       ],
       "tags": [
         "relevance:core"
@@ -3448,7 +3432,7 @@
       "claim": "The host says TPUSA has not released the video that would answer the donors' claims, and calls on them to release the video of Charlie naming Erika CEO.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [
         "relevance:core"
@@ -3470,7 +3454,7 @@
       "claim": "The host says Kolvet is pretending that a private correspondence in which they mocked Bari Weiss's insinuations counted as the host making a statement.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [
         "relevance:core"
@@ -3492,7 +3476,7 @@
       "claim": "The host says she gives full permission for Kolvet to release the entire chat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10641"
+        "N-10586"
       ],
       "tags": [
         "relevance:core"
@@ -3513,7 +3497,7 @@
       "claim": "The host says Kolvet is insinuating she entered her December 15 conversation with Erika already convinced of her guilt, which she calls untrue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3535,7 +3519,7 @@
       "claim": "The host says she told Erika Kirk that someone at Turning Point USA got a message to her saying she should look further into Andrew Kolvet.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3557,7 +3541,7 @@
       "claim": "The host says the message urging her to look more into Andrew Kolvet came from Mikey McCoy via a third-party person, and not from Aubrey as Kolvet insinuates.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-11295"
       ],
       "tags": [
         "relevance:core"
@@ -3580,7 +3564,7 @@
       "claim": "The host says Kolvet cannot produce the information he claims Aubrey Laitsch gave her, and that Kolvet was her number one source in the beginning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10552"
+        "N-10506"
       ],
       "tags": [
         "relevance:core"
@@ -3604,8 +3588,8 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10083",
-        "N-10648"
+        "N-10070",
+        "N-10591"
       ],
       "tags": [
         "relevance:context"
@@ -3629,7 +3613,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [
         "relevance:context"
@@ -3653,7 +3637,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [
         "relevance:context"
@@ -3717,7 +3701,7 @@
         "A-2024.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10591"
       ],
       "tags": [
         "relevance:context"
@@ -3862,7 +3846,7 @@
       "claim": "The host says Harpole's attorney, Matt Sarelson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:core"
@@ -3884,7 +3868,7 @@
       "claim": "The host says Donald Trump was signaling to Erika Kirk that she should sue people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [
         "relevance:context"
@@ -3906,7 +3890,7 @@
       "claim": "The host says her husband will tell her that these lawsuits cost hundreds of thousands of dollars to reach the discovery phase.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11258"
+        "N-11174"
       ],
       "tags": [
         "relevance:context"
@@ -3929,7 +3913,7 @@
         "A-2029.1"
       ],
       "related_nodes": [
-        "N-10645",
+        "N-10589",
         "N-10012"
       ],
       "tags": [
@@ -3950,8 +3934,7 @@
       "claim": "The host says she has so far not been given an alibi for the morning of September 9 despite the lawsuit asserting one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10643",
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3974,8 +3957,7 @@
         "A-3077.1"
       ],
       "related_nodes": [
-        "N-10643",
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -3998,8 +3980,7 @@
         "A-3077.1"
       ],
       "related_nodes": [
-        "N-10643",
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"
@@ -4020,7 +4001,7 @@
       "claim": "The host says she was sympathetic to Harpole and was deeply wrong about him, and that she shouldn't have defended him immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373"
+        "N-10347"
       ],
       "tags": [
         "relevance:core"

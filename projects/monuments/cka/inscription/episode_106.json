@@ -101,7 +101,7 @@
             "N-2",
             "N-46",
             "N-1",
-            "N-10936"
+            "N-10857"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -129,8 +129,8 @@
           ],
           "related_nodes": [
             "N-633",
-            "N-10070",
-            "N-10936"
+            "N-10067",
+            "N-10857"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -147,7 +147,7 @@
             "C-9327"
           ],
           "related_nodes": [
-            "N-10070",
+            "N-10067",
             "N-2",
             "N-1"
           ],
@@ -166,8 +166,8 @@
             "C-9330"
           ],
           "related_nodes": [
-            "N-10070",
-            "N-10936"
+            "N-10067",
+            "N-10857"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -184,9 +184,9 @@
             "C-9331"
           ],
           "related_nodes": [
-            "N-10070",
+            "N-10067",
             "N-10000",
-            "N-10936"
+            "N-10857"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -275,8 +275,8 @@
           ],
           "related_nodes": [
             "N-634",
-            "N-10940",
-            "N-10941"
+            "N-10861",
+            "N-10862"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -297,7 +297,7 @@
             "N-606",
             "N-14",
             "N-159",
-            "N-10940"
+            "N-10861"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -314,8 +314,8 @@
             "C-9344"
           ],
           "related_nodes": [
-            "N-10941",
-            "N-10075"
+            "N-10862",
+            "N-10072"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -338,7 +338,7 @@
             "N-625",
             "N-620",
             "N-2",
-            "N-10923"
+            "N-10844"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -364,10 +364,10 @@
             "C-9353"
           ],
           "related_nodes": [
-            "N-10899",
+            "N-10820",
             "N-614",
-            "N-10888",
-            "N-10937"
+            "N-10809",
+            "N-10858"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -986,8 +986,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Published Charlie Spiering's article on its exclusive screening of the Aspen video.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
       "type": "investigation_target",
       "description": "Recipient of the host's inquiries about the WHCD email; gave the same denial in four and a half minutes and has not answered her follow-up.",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10577",
-      "ref": "N-10577",
+      "@id": "N-10528",
+      "ref": "N-10528",
       "name": "Built Inc. Federal Contracting Pattern",
       "type": "investigation_target",
       "description": "The host recalls that the father of \"decoy boy number two\" received a large DoD contract through the Built app.",
@@ -1055,8 +1055,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10578",
-      "ref": "N-10578",
+      "@id": "N-10529",
+      "ref": "N-10529",
       "name": "Decoy Subject Investigation (Qureshi)",
       "type": "investigation_target",
       "description": "The host refers to \"decoy boy number two\" and his father's DoD contract.",
@@ -1072,8 +1072,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "The shooting at the White House Correspondents' Dinner used as the reference point for the email's timing.",
@@ -1089,9 +1089,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10643",
-      "ref": "N-10643",
-      "name": "Harpole Fort Huachuca Alibi Question",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "The host says the alibi photo passed to Paramount Tactical shows children who are not Erika Kirk's.",
       "related_artifacts": [],
@@ -1107,8 +1107,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "The host's sources say Charlie did not name Erika CEO in Aspen; she argues this implies AI alteration.",
@@ -1125,8 +1125,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Referred to as the Department of Defense; source of the September 2025 payments to Paramount Tactical and of the Built contract.",
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Referred to as \"Paramount Tactical\" and \"Paramount, not so tactical\"; the host calls it TPUSA's leading online defender of Erika Kirk and a recipient of DoD payments.",
@@ -1171,8 +1171,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10936",
-      "ref": "N-10936",
+      "@id": "N-10857",
+      "ref": "N-10857",
       "name": "Aspen CEO-Appointment Video Non-Release",
       "type": "topic",
       "description": "Investigation target: the video of Charlie Kirk at the Aspen donor event that Erika Kirk says shows him naming her CEO and chairman. TPUSA released only the audio, used it as her AmFest walkout music and, per the host, screened the full video privately for the Daily Mail while citing donor privacy as its reason for not releasing it. The host says her sources dispute that Charlie said the line and argues it may have been added with AI.",
@@ -1205,13 +1205,13 @@
       "related_nodes": [
         "N-2",
         "N-1",
-        "N-10664"
+        "N-10606"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10937",
-      "ref": "N-10937",
+      "@id": "N-10858",
+      "ref": "N-10858",
       "name": "Paramount Tactical September 2025 DoD Payments",
       "type": "topic",
       "description": "Investigation target: two Department of Defense payments the host says Paramount Tactical received – $39,000 for individual equipment on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025 – and why the DoD would buy from a reseller that does not make its own gear.",
@@ -1229,15 +1229,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10899",
+        "N-10820",
         "N-614",
-        "N-10888"
+        "N-10809"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10938",
-      "ref": "N-10938",
+      "@id": "N-10859",
+      "ref": "N-10859",
       "name": "Erika Kirk Corporate Will and Inheritance Question",
       "type": "topic",
       "description": "Investigation target: whether Charlie Kirk's corporate will or estate planning named Erika Kirk as TPUSA's successor, and the host's insider report that she inherited about $10 million.",
@@ -1259,8 +1259,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10939",
-      "ref": "N-10939",
+      "@id": "N-10860",
+      "ref": "N-10860",
       "name": "TPUSA Hollywood AI Company Meeting",
       "type": "topic",
       "description": "Investigation target: the host's report that TPUSA met with a Hollywood AI company that makes posthumous videos, read alongside Erika Kirk's statement that there are 10 years of unseen footage of Charlie.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
       "type": "topic",
       "description": "Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's \"I want to go home\" clip be boosted through White House surrogates and called her an \"emotional asset,\" and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smale and Ryan Rippeon copied.",
@@ -1307,13 +1307,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10940",
-      "ref": "N-10940",
+      "@id": "N-10861",
+      "ref": "N-10861",
       "name": "Axios",
       "type": "organization",
       "description": "News outlet whose reporter Marc Caputo posted the White House Military Office denial of the WHCD email.",
@@ -1336,8 +1336,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10941",
-      "ref": "N-10941",
+      "@id": "N-10862",
+      "ref": "N-10862",
       "name": "White House Military Office",
       "type": "organization",
       "description": "White House office that, per the statement given to Axios and to the host's producer, had no knowledge of the alleged communications; the host concedes it may not have sent the email.",
@@ -1356,7 +1356,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10075"
+        "N-10072"
       ]
     }
   ],
@@ -1525,7 +1525,7 @@
         "A-2592.1"
       ],
       "related_nodes": [
-        "N-10936",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1549,8 +1549,8 @@
       "claim": "The host says people with direct knowledge told her that a succession question was asked in Aspen, but Charlie Kirk answered only that he trusted his lieutenants at the company to figure things out in his absence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936",
-        "N-10664"
+        "N-10857",
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:13:55",
@@ -1571,8 +1571,8 @@
       "claim": "The host argues that her sources' account would imply Turning Point USA used AI tools to add a sentence Charlie Kirk never said handing the company to his wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
-        "N-10936",
+        "N-10606",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1595,7 +1595,7 @@
       "claim": "The host says it was Turning Point USA that told the Aspen story and released the audio of Charlie Kirk, so releasing the video as well is a small ask.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1614,7 +1614,7 @@
       "claim": "The host says she has been asking Turning Point USA, and Blake Neff specifically, for 46 days to release the Aspen footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1636,8 +1636,8 @@
         "A-2593.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10936",
+        "N-10067",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1659,8 +1659,8 @@
         "A-2593.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10936"
+        "N-10067",
+        "N-10857"
       ],
       "tags": [],
       "claim_timestamp": "00:15:03",
@@ -1677,8 +1677,8 @@
         "A-2593.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10936"
+        "N-10067",
+        "N-10857"
       ],
       "tags": [],
       "claim_timestamp": "00:16:03",
@@ -1695,9 +1695,9 @@
         "A-2593.2"
       ],
       "related_nodes": [
-        "N-10070",
+        "N-10067",
         "N-10000",
-        "N-10938"
+        "N-10859"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -1716,7 +1716,7 @@
       "claim": "The host says Turning Point USA had a corporate will, and argues that Charlie Kirk did not use it to name Erika Kirk as his successor as CEO.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10938",
+        "N-10859",
         "N-10000"
       ],
       "tags": [],
@@ -1736,7 +1736,7 @@
       "claim": "The host says an insider told her early on that Erika Kirk was named in the will and inherited about $10 million, while noting that \"may or may not be correct.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10938"
+        "N-10859"
       ],
       "tags": [],
       "claim_timestamp": "00:18:18",
@@ -1757,8 +1757,8 @@
         "A-2593.3"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10936",
+        "N-10067",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1776,9 +1776,9 @@
         "A-2593.4"
       ],
       "related_nodes": [
-        "N-10936",
+        "N-10857",
         "N-10000",
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:19:13",
@@ -1793,7 +1793,7 @@
       "claim": "The host says Turning Point USA rolled out the Aspen story to Megyn Kelly and then used the audio as Erika Kirk's walkout music when she took Charlie Kirk's role at AmFest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10936",
+        "N-10857",
         "N-10000"
       ],
       "tags": [],
@@ -1816,7 +1816,7 @@
       "claim": "The host says people inside and outside the organization told her Turning Point USA was meeting with a Hollywood AI company that makes posthumous videos.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10939",
+        "N-10860",
         "N-10000"
       ],
       "tags": [],
@@ -1832,7 +1832,7 @@
       "claim": "The host says that on her first appearance on the Charlie Kirk radio show, Erika Kirk said they had 10 years of footage, including speeches, that nobody had seen.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10939"
+        "N-10860"
       ],
       "tags": [],
       "claim_timestamp": "00:20:47",
@@ -1853,7 +1853,7 @@
         "A-2594.1"
       ],
       "related_nodes": [
-        "N-10936"
+        "N-10857"
       ],
       "tags": [],
       "claim_timestamp": "00:23:36",
@@ -1874,7 +1874,7 @@
         "A-2594.2"
       ],
       "related_nodes": [
-        "N-10936"
+        "N-10857"
       ],
       "tags": [],
       "claim_timestamp": "00:24:18",
@@ -1896,7 +1896,7 @@
         "A-2594.2"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:25:11",
@@ -1934,9 +1934,9 @@
       "claim": "The host says she reported the previous week that about an hour after the \"quote-unquote\" shooting at the White House Correspondents' Dinner, an email went out asking that Erika Kirk's \"I want to go home\" video be boosted through White House surrogates so it would be number one overnight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10637",
-        "N-10075"
+        "N-10844",
+        "N-10582",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07",
@@ -1955,7 +1955,7 @@
       "claim": "The host says the email referred to Erika Kirk as an \"emotional asset.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07",
@@ -1975,10 +1975,10 @@
         "A-2595.1"
       ],
       "related_nodes": [
-        "N-10940",
-        "N-10941",
-        "N-10923",
-        "N-10075"
+        "N-10861",
+        "N-10862",
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:29:57",
@@ -1998,9 +1998,9 @@
         "A-2595.2"
       ],
       "related_nodes": [
-        "N-10940",
-        "N-10923",
-        "N-10899"
+        "N-10861",
+        "N-10844",
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:30:43",
@@ -2022,7 +2022,7 @@
         "A-2595.2"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:32:23",
@@ -2043,9 +2043,9 @@
         "A-2595.3"
       ],
       "related_nodes": [
-        "N-10941",
-        "N-10923",
-        "N-10075"
+        "N-10862",
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:33:08",
@@ -2063,8 +2063,8 @@
       "claim": "The host says that because the email came via a distribution list, it is entirely plausible the White House Military Office did not send it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10941",
-        "N-10923"
+        "N-10862",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
@@ -2084,8 +2084,8 @@
         "A-2595.4"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10075"
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
@@ -2109,8 +2109,8 @@
         "A-2595.4"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10075"
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
@@ -2128,7 +2128,7 @@
       "claim": "The host says that, whoever on the distribution list sent it, she knows the email was sent and received and that the parties she named were correct.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:36:27",
@@ -2148,8 +2148,8 @@
         "A-2595.4"
       ],
       "related_nodes": [
-        "N-10923",
-        "N-10075"
+        "N-10844",
+        "N-10072"
       ],
       "tags": [],
       "claim_timestamp": "00:36:27",
@@ -2171,9 +2171,9 @@
         "A-2596.1"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10888",
-        "N-10937"
+        "N-10820",
+        "N-10809",
+        "N-10858"
       ],
       "tags": [],
       "claim_timestamp": "00:37:55",
@@ -2192,9 +2192,9 @@
       "claim": "The host says it was odd that Brian Harpole chose this \"obscure YouTuber\" for an interview, and that Turning Point USA then platformed Paramount Tactical and supplied him with alibis.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
+        "N-10820",
         "N-10000",
-        "N-10643"
+        "N-10347"
       ],
       "tags": [],
       "claim_timestamp": "00:37:55",
@@ -2213,8 +2213,8 @@
       "claim": "The host says Turning Point USA passed Paramount Tactical a photo with children who are not Erika Kirk's, which she says undermines it as an alibi.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10643",
-        "N-10899",
+        "N-10347",
+        "N-10820",
         "N-10000"
       ],
       "tags": [],
@@ -2239,9 +2239,9 @@
         "A-2596.1"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10888",
-        "N-10937"
+        "N-10820",
+        "N-10809",
+        "N-10858"
       ],
       "tags": [],
       "claim_timestamp": "00:38:39",
@@ -2259,9 +2259,9 @@
       "claim": "The host says Paramount Tactical's website shows it does not make its own gear, and argues the DoD would normally buy night vision equipment from the manufacturer rather than from a third-party seller run by Gary Melton.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
-        "N-10888",
-        "N-10937"
+        "N-10820",
+        "N-10809",
+        "N-10858"
       ],
       "tags": [],
       "claim_timestamp": "00:38:39",
@@ -2279,9 +2279,9 @@
       "claim": "The host says the father of the person she calls \"decoy boy number two\" received a massive Department of Defense contract shortly before Charlie Kirk's death, mentioning the Built app.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10577",
-        "N-10578",
-        "N-10888"
+        "N-10528",
+        "N-10529",
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:39:34",

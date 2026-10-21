@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-908, N-11335
-  - Tip-minted Nodes (reintro-ep042): N-11057
+  - Tip-minted Nodes (supplement_2026-10f): N-908, N-11251
+  - Tip-minted Nodes (reintro-ep042): N-10975
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3652–C-3734
   - (see registers)
@@ -37,8 +37,8 @@
 Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
-  - New Nodes Introduced: N-308, N-309, N-311, N-10312, N-10313
-  - Reused Nodes Appearing: N-2, N-10311, N-310, N-10315, N-307, N-10314, N-11, N-22, N-30, N-61, N-69, N-75, N-278, N-282, N-10000, N-10275, N-10307
+  - New Nodes Introduced: N-308, N-309, N-311, N-10294
+  - Reused Nodes Appearing: N-2, N-10293, N-310, N-10296, N-307, N-10295, N-11, N-22, N-30, N-61, N-69, N-75, N-278, N-282, N-10000, N-10289
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -65,7 +65,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3655, C-3660, N-311, N-159, N-2, N-10313*
+*Related: C-3655, C-3660, N-311, N-159, N-2, N-10289*
 
 **A-1501.2** Segment: Blake Neff response – Erika Kirk direction and in-person rationale
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:05:37–00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3655, C-3660, C-3668, N-159, N-2, N-10313*
+*Related: C-3655, C-3660, C-3668, N-159, N-2, N-10289*
 
 **A-1502** TPUSA Phoenix Live Stream Announcement Bundle
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:11:14–00:11:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3707, N-159, N-10313, N-2*
+*Related: C-3707, N-159, N-10289, N-2*
 
 **A-1503** The Game Song Bundle
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:18:45–00:19:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10311*
+*Related: N-10293*
 
 **A-1505** UVU September 10 Footage Bundle
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:20:45–00:21:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3679, C-3704, N-10311, N-307, N-308*
+*Related: C-3679, C-3704, N-10293, N-307, N-308*
 
 **A-1505.2** Footage segment: Jacob Kasparian not ducking after shot
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:24:00–00:24:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3689, C-3691, N-307, N-10311*
+*Related: C-3689, C-3691, N-307, N-10293*
 
 **A-1505.3** Footage segment: Jacob Kasparian recording (grainy superimposition)
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:25:00–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3691, N-307, N-10311*
+*Related: C-3691, N-307, N-10293*
 
 **A-1505.4** Jacob Kasparian earlier-day social media post (dyed blue shirt)
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:24:50–00:25:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3690, N-307, N-10311*
+*Related: C-3690, N-307, N-10293*
 
 **A-1505.5** Adam Bartholomew live-stream footage (full event)
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:26:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3695, C-3696, C-3698, N-308, N-309, N-10311*
+*Related: C-3695, C-3696, C-3698, N-308, N-309, N-10293*
 
 **A-1505.6** Video segment: a person holding a maroon shirt
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:21:40–00:21:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3704, N-10311*
+*Related: C-3704, N-10293*
 
 **A-1506** Blake Neff X Post Bundle
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:46:13–00:46:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3700, N-159, N-10313*
+*Related: C-3700, N-159, N-10289*
 
 **A-1507** Charlie Kirk Show Apple Podcasts Ranking Bundle
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:02:41–00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3681, N-10312*
+*Related: C-3681, N-10294*
 
 **A-1508** PBS Emmanuel Bierer Interview Bundle
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:32:42–00:33:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3713, N-310, N-10315*
+*Related: C-3713, N-310, N-10296*
 
 **A-1509** Roof Shooter Video Follow-up Bundle
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:44:21–00:45:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3714, C-3719, C-3715, N-10314*
+*Related: C-3714, C-3719, C-3715, N-10295*
 
 **A-1510** Anonymous Military Maroon Email Bundle
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:22:10–00:23:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3659, N-10311*
+*Related: C-3659, N-10293*
 
 **A-1511** Carrie Bartholomew X Post Bundle
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:27:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3696, N-309, N-308, N-10311*
+*Related: C-3696, N-309, N-308, N-10293*
 
 **A-1512** Audience Comment Bundle
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:01:32–00:02:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10313*
+*Related: N-10289*
 
 ---
 
@@ -366,7 +366,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.2, A-1502.1, A-1506.1, C-3655, C-3660, C-3668, C-3707, C-3700, N-10313*
+*Related: A-1501.2, A-1502.1, A-1506.1, C-3655, C-3660, C-3668, C-3707, C-3700, N-10289*
 
 **N-14** Andrew Kolvet
 
@@ -377,7 +377,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.1, A-1501.2, N-159, N-10313*
+*Related: A-1501.1, A-1501.2, N-159, N-10289*
 
 **N-304** The Game
 
@@ -399,7 +399,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.2, A-1505.3, A-1505.4, C-3689, C-3691, C-3690, N-10311*
+*Related: A-1505.2, A-1505.3, A-1505.4, C-3689, C-3691, C-3690, N-10293*
 
 **N-308** Adam Bartholomew
 
@@ -410,7 +410,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.5, C-3695, C-3698, N-309, N-10311*
+*Related: A-1505.5, C-3695, C-3698, N-309, N-10293*
 
 **N-309** Carrie Bartholomew
 
@@ -421,7 +421,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1511.1, C-3696, N-308, N-10311*
+*Related: A-1511.1, C-3696, N-308, N-10293*
 
 **N-310** Emmanuel Bierer
 
@@ -432,7 +432,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-3713, N-10315*
+*Related: A-1508.1, C-3713, N-10296*
 
 **N-311** "Gina" (Charlie Kirk Show caller)
 
@@ -443,9 +443,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1501.1, N-159, N-10313*
+*Related: A-1501.1, N-159, N-10289*
 
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.
 
@@ -456,7 +456,7 @@ Investigative Pressure: Medium
 
 *Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-3679, C-3704, C-3689, C-3691, C-3690, C-3695, C-3696, C-3698, C-3700, C-3659, N-307, N-308, N-309*
 
-**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
+**N-10294** Charlie Kirk Show Apple Podcasts Ranking Decline
 
 Persistent target tracking reported drop to #94 from prior top-10 status.
 
@@ -467,18 +467,7 @@ Investigative Pressure: Medium
 
 *Related: A-1507.1, C-3681, N-1*
 
-**N-10313** TPUSA December 15 Live Stream Event Verification
-
-Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-3655, C-3660, C-3668, C-3707, C-3700, C-3663, N-159, N-14, N-311, N-2*
-
-**N-10314** Roof Shooter Video Witness Follow-up
+**N-10295** Roof Shooter Video Witness Follow-up
 
 Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.
 
@@ -489,7 +478,7 @@ Investigative Pressure: High
 
 *Related: A-1509.1, C-3714, C-3719, C-3715*
 
-**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
+**N-10296** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
 Persistent target tracking why Emmanuel Bierer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.
 
@@ -598,15 +587,7 @@ Organization at the center of the invitation dispute.
 
 ---
 
-**N-10275** Maroon Shirt Coordination Theory
-
-The host's theory that the maroon men were coordinated.
-
-*Related: C-3693, C-3699, C-3701*
-
----
-
-**N-10307** TPUSA Phoenix Livestream Verification Question
+**N-10289** TPUSA Phoenix Livestream Verification Question
 
 The Phoenix studio setting of the live stream.
 
@@ -614,7 +595,7 @@ The Phoenix studio setting of the live stream.
 
 ---
 
-**N-11057** Blake Neff Employment History Account
+**N-10975** Blake Neff Employment History Account
 
 The claims about his work for Tucker Carlson.
 
@@ -622,7 +603,7 @@ The claims about his work for Tucker Carlson.
 
 ---
 
-**N-11335** FBI Footage Deletion Request Claim (TikTok User)
+**N-11251** FBI Footage Deletion Request Claim (TikTok User)
 
 Node Type: Topic
 The host reports that a TikTok user claimed that, after he submitted videos shot by a family member to the FBI, the FBI asked him to delete the footage. The host says she does not know whether it is true and that the same individual later sent her footage.
@@ -650,7 +631,7 @@ Claim: On the Charlie Kirk Show, Blake Neff stated that the invitation-response 
 Anchored Artifacts: A-1501.2
 Mentions: N-2, N-159
 
-Related Nodes: N-10313
+Related Nodes: N-10289
 
 Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.
 
@@ -665,7 +646,7 @@ Claim: On the Charlie Kirk Show, Blake Neff stated, "I think it's pretty intuiti
 Anchored Artifacts: A-1501.2
 Mentions: N-159
 
-Related Nodes: N-10313
+Related Nodes: N-10289
 
 Investigative Direction: Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.
 
@@ -680,7 +661,7 @@ Claim: In his earlier invitation statement, which the host reads aloud, Blake Ne
 Anchored Artifacts: A-1502.1
 Mentions: N-159, N-3
 
-Related Nodes: N-10313
+Related Nodes: N-10289
 
 Investigative Direction: Obtain the original December 3 (approx.) Blake Neff statement text and any follow-up communication that added an in-person condition.
 
@@ -708,7 +689,7 @@ Claim: The host says that when she asked someone at UVU whether the school color
 
 Anchored Artifacts: A-1505.1 (verbal confirmation referenced alongside footage)
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Verify UVU official branding (athletics department, university communications) to confirm stated school colors.
 
@@ -723,7 +704,7 @@ Claim: The host says footage from UVU on September 10 shows multiple young men a
 Anchored Artifacts: A-1505.1, A-1505.6
 Mentions: 
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles.
 
@@ -738,7 +719,7 @@ Claim: Blake Neff posted on X that the invitation was "not how you book a guest,
 Anchored Artifacts: A-1506.1
 Mentions: N-159, N-3
 
-Related Nodes: N-10313
+Related Nodes: N-10289
 
 Investigative Direction: Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.
 
@@ -753,7 +734,7 @@ Claim: Per a tweet the host reads, The Charlie Kirk Show has fallen to #94 on Ap
 Anchored Artifacts: A-1507.1
 Mentions: N-1
 
-Related Nodes: N-10312
+Related Nodes: N-10294
 
 Investigative Direction: Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern.
 
@@ -768,7 +749,7 @@ Claim: The host says PBS and other networks featured Emmanuel Bierer as an eyewi
 Anchored Artifacts: A-1508.1
 Mentions: N-310
 
-Related Nodes: N-10315
+Related Nodes: N-10296
 
 Investigative Direction: Obtain the original PBS segment, identify the producer/assignment editor, and verify how Bierer was identified as a witness.
 
@@ -783,7 +764,7 @@ Claim: The host says UVU footage shows Jacob Kasparian remaining upright and not
 Anchored Artifacts: A-1505.2
 Mentions: N-307
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.
 
@@ -798,7 +779,7 @@ Claim: The host says footage and a grainy superimposed image she shows depict Ja
 Anchored Artifacts: A-1505.3
 Mentions: N-307
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.
 
@@ -813,7 +794,7 @@ Claim: The host says Jacob Kasparian posted himself earlier on September 10 wear
 Anchored Artifacts: A-1505.4
 Mentions: N-307
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.
 
@@ -828,7 +809,7 @@ Claim: The host says Adam Bartholomew live-streamed the entire UVU event on Sept
 Anchored Artifacts: A-1505.5
 Mentions: N-308
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.
 
@@ -843,7 +824,7 @@ Claim: The host says Carrie Bartholomew posted a photo and a tweet confirming wh
 Anchored Artifacts: A-1511.1, A-1505.5
 Mentions: N-309
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.
 
@@ -858,7 +839,7 @@ Claim: The host says that in his livestream footage Adam Bartholomew did not int
 Anchored Artifacts: A-1505.5
 Mentions: N-308, N-309
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location.
 
@@ -873,7 +854,7 @@ Claim: The host says Tyler Robinson, the alleged shooter, notoriously was wearin
 Anchored Artifacts: A-1505.1 (referenced as background fact)
 Mentions: N-40
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10.
 
@@ -887,7 +868,7 @@ Claim: In emails the host reads from people she says are past or present militar
 
 Anchored Artifacts: A-1510.1
 
-Related Nodes: N-10311
+Related Nodes: N-10293
 
 Investigative Direction: Cross-reference the email assertions against publicly available military uniform/identifier doctrine for airborne, QRF, and undercover units.
 
@@ -901,7 +882,7 @@ Claim: Per host recollection, there are only two videos showing the alleged shoo
 
 Anchored Artifacts: A-1509.1
 
-Related Nodes: N-10314
+Related Nodes: N-10295
 
 Investigative Direction: Catalog all publicly known September 10 roof footage and confirm whether additional footage exists in government holdings.
 
@@ -915,7 +896,7 @@ Claim: The host says the individual who shot one of the two roof videos told her
 
 Anchored Artifacts: A-1509.1
 
-Related Nodes: N-10314
+Related Nodes: N-10295
 
 Investigative Direction: Obtain a sworn statement from the roof video caller and any forensic review of the footage.
 
@@ -930,7 +911,7 @@ Claim: The host says the roof video caller told her that Tyler Robinson's defens
 Anchored Artifacts: A-1509.1
 Mentions: N-40
 
-Related Nodes: N-10314
+Related Nodes: N-10295
 
 Investigative Direction: Verify via court subpoena records and FBI/subpoena logs whether the caller was contacted by either party.
 
@@ -944,7 +925,7 @@ Claim: The host says the roof video caller has experience with guns and teaches 
 
 Anchored Artifacts: A-1509.1
 
-Related Nodes: N-10314
+Related Nodes: N-10295
 
 Investigative Direction: Verify the caller's stated qualifications via credentialing records or instructors' registry.
 
@@ -959,7 +940,7 @@ Claim: In a clip the host plays, Blake Neff says Erika Kirk 'heads this'.
 Anchored Artifacts: A-1501.2
 Mentions: N-2, N-159
 
-Related Nodes: N-10313
+Related Nodes: N-10289
 
 Investigative Direction: Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.
 
@@ -974,7 +955,7 @@ Claim: In a clip of The Charlie Kirk Show that the host plays, Blake Neff says a
 Anchored Artifacts: A-1501.2
 Mentions: N-159
 
-Related Nodes: N-10313
+Related Nodes: N-10289
 
 Investigative Direction: Monitor TPUSA channels for confirmation and document the actual event for artifact capture.
 
@@ -990,7 +971,7 @@ Transcript Snippet: TPUSA takes them three months to respond. Also TPUSA, you ha
 
 Anchored Artifacts: A-3205.1
 Mentions: N-3
-Related Nodes: N-10313, N-10000
+Related Nodes: N-10289, N-10000
 Tags: relevance:context
 Investigative Direction: Establish from TPUSA's December 3 to 5 posts and the date it first said it would respond whether a 24-hour deadline was ever stated to the host.
 
@@ -1006,7 +987,7 @@ Transcript Snippet: it was issued Blake I think at 12 on a tweet that you had bu
 
 Anchored Artifacts: A-1501.1
 Mentions: N-311, N-159, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Supports: C-3610
 Tags: relevance:core
 Investigative Direction: Pull the timestamp of Neff's invitation post on X and compare it with when the host first responded publicly.
@@ -1023,7 +1004,7 @@ Transcript Snippet: we initially just thought no one would believe a lot of what
 
 Anchored Artifacts: A-1501.2
 Mentions: N-159, N-1, N-3
-Related Nodes: N-10313, N-10000
+Related Nodes: N-10289, N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's earlier statements and staff messages about whether and when it chose not to respond.
 
@@ -1039,7 +1020,7 @@ Transcript Snippet: We actually hadn't agreed on it at the time I read the state
 
 Anchored Artifacts: A-1501.2
 Mentions: N-159
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Obtain the Wednesday show audio and any internal scheduling messages showing when December 15 was chosen.
 
@@ -1055,7 +1036,7 @@ Transcript Snippet: once we announce it Candace is free to attend in person.
 
 Anchored Artifacts: A-1501.2
 Mentions: N-159, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Compare with the text of the original Wednesday statement to see whether in-person attendance was stated then.
 
@@ -1071,7 +1052,7 @@ Transcript Snippet: Candace for her part had said you name the time, you name th
 
 Anchored Artifacts: A-1501.2
 Mentions: N-159, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Find the host's earlier public statement or message using the phrase and compare it with the December announcement.
 
@@ -1087,7 +1068,7 @@ Transcript Snippet: I don't think she had any difficulty in finding out what our
 
 Anchored Artifacts: A-1501.2
 Mentions: N-159, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Check whether TPUSA sent the host or her team any direct notice before the public post.
 
@@ -1103,7 +1084,7 @@ Transcript Snippet: He's like, "It's not authentic unless it's it's a person is 
 
 Anchored Artifacts: A-1501.2
 Mentions: N-14, N-159
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Watch the December 5 Charlie Kirk Show video to confirm whether Kolvet appeared remotely.
 
@@ -1119,7 +1100,7 @@ Transcript Snippet: My most contentious and my most viral debates have never bee
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:context
 Investigative Direction: List the host's past debates and their formats to confirm which were remote.
 
@@ -1135,7 +1116,7 @@ Transcript Snippet: They never made in person a point of their demands. Um they 
 
 Anchored Artifacts: A-1502.1
 Mentions: N-3
-Related Nodes: N-10313, N-10000
+Related Nodes: N-10289, N-10000
 Supports: C-3668
 Tags: relevance:core
 Investigative Direction: Compare the original December 3 statement and TPUSA posts for any mention of an in-person condition or a deadline.
@@ -1152,7 +1133,7 @@ Transcript Snippet: my husband instantly said, "No, you cannot do this Monday."
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:context
 Investigative Direction: This rests on the host's own account; confirm only through the host.
 
@@ -1168,7 +1149,7 @@ Transcript Snippet: If Candace is available, we would sincerely welcome her part
 
 Anchored Artifacts: A-1502.1
 Mentions: N-159, N-3
-Related Nodes: N-10313, N-10307
+Related Nodes: N-10289
 Supports: C-3668
 Tags: relevance:core
 Investigative Direction: Obtain the original statement text and video to verify the wording.
@@ -1185,7 +1166,7 @@ Transcript Snippet: she approved the statement that went out referring to people
 
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-159
-Related Nodes: N-10313
+Related Nodes: N-10289
 Supports: C-3655
 Tags: relevance:core
 Investigative Direction: Obtain the statement text and check whether it used the word Antifa for the host's audience.
@@ -1202,7 +1183,7 @@ Transcript Snippet: I would especially like to make this work if you are saying 
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Ask TPUSA whether Erika Kirk was to appear at the December 15 live stream.
 
@@ -1218,7 +1199,7 @@ Transcript Snippet: Andrew Kolvet who seems to be on the road and isn't course c
 
 Anchored Artifacts: 
 Mentions: N-14, N-11
-Related Nodes: N-10313, N-10000
+Related Nodes: N-10289, N-10000
 Tags: relevance:context
 Investigative Direction: Check Kolvet's public travel and Bowyer's posts around December 3 to 5.
 
@@ -1234,7 +1215,7 @@ Transcript Snippet: There's no way in hell um that George can make the 15th work
 
 Anchored Artifacts: 
 Mentions: N-30, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:context
 Investigative Direction: This rests on the host's account; ask TPUSA what flexibility it offered on dates.
 
@@ -1311,7 +1292,7 @@ Transcript Snippet: Show you another person here sitting there under the tree af
 
 Anchored Artifacts: A-1505.1
 Mentions: N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Catalog each frame the host showed and match the people to named attendees.
 
@@ -1327,7 +1308,7 @@ Transcript Snippet: when he submitted them to the FBI, the FBI had asked him to 
 
 Anchored Artifacts: A-3206.1
 Mentions: N-3
-Related Nodes: N-11335, N-10311
+Related Nodes: N-11251, N-10293
 Tags: relevance:core
 Investigative Direction: Identify the TikTok user and preserve his submission record to the FBI; confirm with him whether a deletion request was made.
 
@@ -1343,7 +1324,7 @@ Transcript Snippet: when I got in touch with this individual and he sent me the 
 
 Anchored Artifacts: A-3206.1
 Mentions: N-3, N-307
-Related Nodes: N-11335, N-10311
+Related Nodes: N-11251, N-10293
 Tags: relevance:core
 Investigative Direction: Obtain the original footage and its metadata from the individual.
 
@@ -1359,7 +1340,7 @@ Transcript Snippet: especially in coordinated violent scenes, uh, making sure th
 
 Anchored Artifacts: A-1510.1
 Mentions: N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Supports: C-3681
 Tags: relevance:context
 Investigative Direction: Ask military color-marking experts whether identifier colors are used this way; the emailer is unnamed.
@@ -1376,7 +1357,7 @@ Transcript Snippet: I do not think he shot Harley Charlie Kirk
 
 Anchored Artifacts: A-1505.2
 Mentions: N-307, N-1, N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Compare with the host's later statements about Kasparian.
 
@@ -1392,7 +1373,7 @@ Transcript Snippet: it's unusual that he attended the event alone.
 
 Anchored Artifacts: A-1505.2
 Mentions: N-307
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Review crowd footage for companions of Kasparian.
 
@@ -1408,7 +1389,7 @@ Transcript Snippet: he had posted himself earlier that day at either 8:42 a. m. 
 
 Anchored Artifacts: A-1505.4
 Mentions: N-307
-Related Nodes: N-10311
+Related Nodes: N-10293
 Qualifies: C-3690
 Tags: relevance:core
 Investigative Direction: Retrieve the original post with metadata to settle which time applies and the time zone.
@@ -1425,7 +1406,7 @@ Transcript Snippet: He's up high. Um and then he's at the lower rung 2 minutes b
 
 Anchored Artifacts: A-1505.3
 Mentions: N-307, N-1
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Track Kasparian's position through crowd footage in the two minutes before 12:23.
 
@@ -1441,7 +1422,7 @@ Transcript Snippet: None of his family members posted anything about Charlie's a
 
 Anchored Artifacts: 
 Mentions: N-307, N-1, N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Supports: C-3293
 Tags: relevance:context
 Investigative Direction: Social media audit; absence of posts is weak evidence about a private family.
@@ -1458,7 +1439,7 @@ Transcript Snippet: I am beginning to suspect that our maroon boys in general we
 
 Anchored Artifacts: A-1505.1
 Mentions: N-3
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Identify each maroon-shirted attendee and test whether their footage coincides with key angles.
 
@@ -1474,7 +1455,7 @@ Transcript Snippet: I have never ever said anything about Adam Bartholomew. I ha
 
 Anchored Artifacts: A-1505.5
 Mentions: N-308, N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Tags: relevance:context
 Investigative Direction: Check the host's earlier episodes for any mention of Bartholomew.
 
@@ -1490,7 +1471,7 @@ Transcript Snippet: his wife Carrie was there and she was standing by the bush a
 
 Anchored Artifacts: A-1511.1
 Mentions: N-309, N-308, N-307
-Related Nodes: N-10311
+Related Nodes: N-10293
 Supports: C-3696
 Tags: relevance:core
 Investigative Direction: Locate both people in the same frame of the footage and photo.
@@ -1507,7 +1488,7 @@ Transcript Snippet: I think all of our footage has come from Maroon Boys and a l
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Supports: C-3693
 Tags: relevance:core
 Investigative Direction: Map the earliest uploads of the main videos to the accounts of the people in maroon.
@@ -1524,7 +1505,7 @@ Transcript Snippet: if you recognize these individuals in particular, more tips 
 
 Anchored Artifacts: A-3207.1
 Mentions: N-3
-Related Nodes: N-10311, N-10275
+Related Nodes: N-10293
 Tags: dia, relevance:core
 Investigative Direction: Reconcile tips received with the host's later identifications.
 
@@ -1540,7 +1521,7 @@ Transcript Snippet: he's a former employee of Oracle. He's in engineering. Uh, I
 
 Anchored Artifacts: 
 Mentions: N-310, N-3
-Related Nodes: N-10315
+Related Nodes: N-10296
 Tags: relevance:core
 Investigative Direction: Check public professional profiles for Bierer's employer history and location.
 
@@ -1556,7 +1537,7 @@ Transcript Snippet: he attended the event but somehow I don't see any photos of 
 
 Anchored Artifacts: 
 Mentions: N-310, N-3
-Related Nodes: N-10315
+Related Nodes: N-10296
 Supports: C-3704
 Tags: relevance:core
 Investigative Direction: Request footage from attendees who recognize Bierer.
@@ -1573,7 +1554,7 @@ Transcript Snippet: Oh, I was friends with uh, you know, Phil Lyman and that's t
 
 Anchored Artifacts: 
 Mentions: N-75, N-61, N-3
-Related Nodes: N-10315
+Related Nodes: N-10296
 Supports: C-669
 Tags: relevance:context
 Investigative Direction: Verify the name in the HappyScribe transcript and the Barker interview source.
@@ -1590,7 +1571,7 @@ Transcript Snippet: I hear this loud sound and I'm like, "That wasn't what I tho
 
 Anchored Artifacts: A-1508.1
 Mentions: N-310
-Related Nodes: N-10315
+Related Nodes: N-10296
 Tags: relevance:core
 Investigative Direction: Obtain the full PBS segment and the date it aired.
 
@@ -1682,7 +1663,7 @@ Transcript Snippet: because literally he's recording him at 12:23, right?
 
 Anchored Artifacts: A-1509.1
 Mentions: N-3
-Related Nodes: N-10314
+Related Nodes: N-10295
 Tags: relevance:core
 Investigative Direction: Obtain the video with metadata; the host does not say whether 12:23 is a clock or video time.
 
@@ -1698,7 +1679,7 @@ Transcript Snippet: he told us early on, "That's not the person that I saw. I sa
 
 Anchored Artifacts: A-1509.1
 Mentions: N-3
-Related Nodes: N-10314
+Related Nodes: N-10295
 Tags: relevance:core
 Investigative Direction: Compare with earlier episodes where an eyewitness described tactical gear and confirm whether it is the same person.
 
@@ -1714,7 +1695,7 @@ Transcript Snippet: I've seen so many people uh debating whether or not he put t
 
 Anchored Artifacts: A-1509.1
 Mentions: N-3
-Related Nodes: N-10314
+Related Nodes: N-10295
 Tags: relevance:core
 Investigative Direction: Ask the filmer directly what his video does and does not show.
 
@@ -1730,7 +1711,7 @@ Transcript Snippet: There's only two people that have cameras of this person on 
 
 Anchored Artifacts: A-1509.1
 Mentions: N-40, N-3
-Related Nodes: N-10314
+Related Nodes: N-10295
 Qualifies: C-3719
 Tags: relevance:core
 Investigative Direction: Check the Robinson docket and witness lists for the filmer.
@@ -1747,7 +1728,7 @@ Transcript Snippet: is a guy who was fired by Tucker Carlson for racist remarks.
 
 Anchored Artifacts: A-3205.3
 Mentions: N-159, N-22
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:context
 Investigative Direction: Check contemporaneous reporting on the circumstances of Neff's departure from Fox News; the host did not endorse the claim.
 
@@ -1763,7 +1744,7 @@ Transcript Snippet: I actually didn't know that Blake Neff used to work for Tuck
 
 Anchored Artifacts: A-3205.3
 Mentions: N-3, N-159, N-22
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:context
 Investigative Direction: Ask Carlson or his office about Neff's tenure on his program.
 
@@ -1779,7 +1760,7 @@ Transcript Snippet: I never declined an offer to join your live stream.
 
 Anchored Artifacts: A-1506.1
 Mentions: N-3, N-159
-Related Nodes: N-10313
+Related Nodes: N-10289
 Contradicts: C-3723
 Tags: relevance:core
 Investigative Direction: Review the host's replies and any direct messages from December 3 to 5 for any refusal.
@@ -1842,7 +1823,7 @@ Transcript Snippet: we can confirm that we are going to live stream their live s
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:context
 Investigative Direction: Check that a live response aired on December 15.
 
@@ -1858,7 +1839,7 @@ Transcript Snippet: their entire introduction to this live stream was him speaki
 
 Anchored Artifacts: 
 Mentions: N-159, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Tags: relevance:core
 Investigative Direction: Time the Wednesday segment to test the ten-minute claim.
 
@@ -1874,7 +1855,7 @@ Transcript Snippet: I don't love the fact that he heavily implies that Erika san
 
 Anchored Artifacts: 
 Mentions: N-159, N-2, N-3
-Related Nodes: N-10313
+Related Nodes: N-10289
 Supports: C-3655
 Tags: relevance:core
 Investigative Direction: Ask TPUSA who drafted and who approved the statement.
@@ -1938,7 +1919,7 @@ Transcript Snippet: he said December 15th absolutely does not work.
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-10313
+Related Nodes: N-10289
 Supports: C-3673
 Tags: relevance:context
 Investigative Direction: Rests on the host's account.

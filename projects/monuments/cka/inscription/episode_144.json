@@ -31,7 +31,7 @@
             "C-12357"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-12357"
           ],
           "related_nodes": [
-            "N-10141"
+            "N-10136"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "C-12381"
           ],
           "related_nodes": [
-            "N-10811"
+            "N-10735"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -118,7 +118,7 @@
             "C-12383"
           ],
           "related_nodes": [
-            "N-10810"
+            "N-10734"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -135,8 +135,8 @@
             "C-12384"
           ],
           "related_nodes": [
-            "N-10810",
-            "N-10811"
+            "N-10734",
+            "N-10735"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,7 +162,7 @@
             "C-12385"
           ],
           "related_nodes": [
-            "N-10811"
+            "N-10735"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
             "C-12385"
           ],
           "related_nodes": [
-            "N-10811"
+            "N-10735"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -504,8 +504,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10810",
-      "ref": "N-10810",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.",
@@ -526,8 +526,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10811",
-      "ref": "N-10811",
+      "@id": "N-10735",
+      "ref": "N-10735",
       "name": "Aspect-Ratio Modification Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning who decreased the aspect ratio of the 20-minute sizzle reel presented at the preliminary hearing, and why.",
@@ -550,8 +550,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10812",
-      "ref": "N-10812",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Persistent target concerning Terryl's stated intent, sequence of actions, and consultation with Philip Goldsberry in the immediate aftermath of the shooting.",
@@ -568,13 +568,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10141"
+        "N-10136"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10813",
-      "ref": "N-10813",
+      "@id": "N-10737",
+      "ref": "N-10737",
       "name": "Foreign / Israeli Angle Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning the BB Netanyahu letter, Charlie Kirk's alleged pull-back from pro-Israel stance, and Andrew Kolvet's contemporaneous briefings to Candace.",
@@ -1179,8 +1179,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10043",
-      "ref": "N-10043",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Two-Person Theory (Maroon vs Stairs)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1196,8 +1196,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10051",
-      "ref": "N-10051",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1213,8 +1213,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1230,8 +1230,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1251,8 +1251,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10250",
-      "ref": "N-10250",
+      "@id": "N-10236",
+      "ref": "N-10236",
       "name": "Charlie Kirk Event – Maroon Shirt Individual Identification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1288,8 +1288,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1305,8 +1305,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1323,8 +1323,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1344,8 +1344,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1367,8 +1367,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1384,8 +1384,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1401,8 +1401,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10774",
-      "ref": "N-10774",
+      "@id": "N-10700",
+      "ref": "N-10700",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1452,8 +1452,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11070",
-      "ref": "N-11070",
+      "@id": "N-10988",
+      "ref": "N-10988",
       "name": "Terryl Selfie Video Metadata Timeline",
       "type": "topic",
       "description": "Host's use of the metadata on Terryl Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.",
@@ -1471,8 +1471,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11071",
-      "ref": "N-11071",
+      "@id": "N-10989",
+      "ref": "N-10989",
       "name": "Hitler Remark Clip Dispute",
       "type": "topic",
       "description": "Dispute over what the host said about nationalism and Hitler in a 2018 appearance, how Kolvet characterized it, and Andrew Wilson's on-air pushback.",
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11072",
-      "ref": "N-11072",
+      "@id": "N-10990",
+      "ref": "N-10990",
       "name": "Cancelled TPUSA Event and Kanye France Trip",
       "type": "topic",
       "description": "Kolvet's account that the host cancelled a TPUSA event the day before to go to France with Kanye West, and the host's account that it was the only cancellation, in late 2022, with Charlie's approval.",
@@ -1511,8 +1511,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11073",
-      "ref": "N-11073",
+      "@id": "N-10991",
+      "ref": "N-10991",
       "name": "Kolvet Burn-Down Conversation Account",
       "type": "topic",
       "description": "Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's version about wrong people taking over TPUSA and the host's version about foreign involvement.",
@@ -1543,8 +1543,8 @@
         "A-2301.2"
       ],
       "related_nodes": [
-        "N-10810",
-        "N-10812"
+        "N-10734",
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
@@ -1564,7 +1564,7 @@
         "A-2301.2"
       ],
       "related_nodes": [
-        "N-10812"
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
@@ -1586,7 +1586,7 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:04:20–00:04:50",
@@ -1606,7 +1606,7 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
@@ -1625,8 +1625,8 @@
         "A-2304.2"
       ],
       "related_nodes": [
-        "N-10810",
-        "N-10811"
+        "N-10734",
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
@@ -1646,7 +1646,7 @@
         "A-2305.2"
       ],
       "related_nodes": [
-        "N-10811"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:17:30",
@@ -1663,7 +1663,7 @@
         "A-2303.1"
       ],
       "related_nodes": [
-        "N-10811"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:17:30–00:18:30",
@@ -1681,7 +1681,7 @@
         "A-2305.1"
       ],
       "related_nodes": [
-        "N-10811"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:19:30–00:20:30",
@@ -1752,7 +1752,7 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:50:35",
@@ -1776,7 +1776,7 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
@@ -1802,7 +1802,7 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:53:15",
@@ -1856,7 +1856,7 @@
       "claim": "The host says Andrew Kolvet told the audience that Terryl Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:03:22",
@@ -1881,7 +1881,7 @@
         "A-2302.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:04:07",
@@ -1900,7 +1900,7 @@
       "claim": "The host says the Utah code defines tampering with evidence as altering, destroying, concealing or removing an item with the purpose of impairing its veracity or availability in a proceeding or investigation, and that this could be charged as a felony in Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:05:06",
@@ -1918,7 +1918,7 @@
       "claim": "The host says Erika Kirk's prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:06:06",
@@ -1937,7 +1937,7 @@
       "claim": "The host says it is not in dispute that Terryl Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [],
       "claim_timestamp": "00:06:06",
@@ -1956,7 +1956,7 @@
       "claim": "The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says she does not know whether he zoomed in the camera footage and sent a Google link to the SBI.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11",
@@ -1980,7 +1980,7 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-10810"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11",
@@ -1999,7 +1999,7 @@
       "claim": "The host says Terryl Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:08:11",
@@ -2024,7 +2024,7 @@
         "A-2797.1"
       ],
       "related_nodes": [
-        "N-11070"
+        "N-10988"
       ],
       "tags": [],
       "claim_timestamp": "00:09:47",
@@ -2046,7 +2046,7 @@
         "A-2797.1"
       ],
       "related_nodes": [
-        "N-11070"
+        "N-10988"
       ],
       "tags": [],
       "claim_timestamp": "00:09:47",
@@ -2067,8 +2067,8 @@
         "A-2797.1"
       ],
       "related_nodes": [
-        "N-11070",
-        "N-10162"
+        "N-10988",
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:09:47",
@@ -2090,7 +2090,7 @@
       "claim": "The host says Allan Robertson can be ruled out as the one who told Terryl to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terryl was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [],
       "claim_timestamp": "00:11:04",
@@ -2113,7 +2113,7 @@
       "claim": "The host says she was told, allegedly, that Terryl Farnsworth was told to do the exact opposite and not disturb the crime scene.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:11:23",
@@ -2135,7 +2135,7 @@
       "claim": "The host says Terryl Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10162"
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
@@ -2158,7 +2158,7 @@
       "claim": "The host says the only person Terryl Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
@@ -2181,7 +2181,7 @@
       "claim": "The host says her understanding was that Terryl Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
@@ -2202,8 +2202,8 @@
       "claim": "The host says Tyler Bowyer said police told Terryl, Terryl said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10162",
-        "N-10346"
+        "N-10156",
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:12:37",
@@ -2227,8 +2227,8 @@
         "A-2798.1"
       ],
       "related_nodes": [
-        "N-10250",
-        "N-10811"
+        "N-10236",
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:14:18",
@@ -2249,7 +2249,7 @@
         "A-2798.2"
       ],
       "related_nodes": [
-        "N-10811"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:16:00",
@@ -2269,7 +2269,7 @@
         "A-2305.1"
       ],
       "related_nodes": [
-        "N-10811"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:16:28",
@@ -2293,7 +2293,7 @@
         "A-2305.2"
       ],
       "related_nodes": [
-        "N-10811"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:14:18",
@@ -2313,8 +2313,8 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-10810",
-        "N-10811"
+        "N-10734",
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:18:29",
@@ -2336,7 +2336,7 @@
         "A-2799.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:28:04",
@@ -2361,7 +2361,7 @@
         "A-2799.1"
       ],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:29:09",
@@ -2380,7 +2380,7 @@
       "claim": "The host says the FBI is aware of the steakhouse receipt and took a statement from the restaurant owner (transcribed as 'Odor').",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:29:58",
@@ -2398,7 +2398,7 @@
       "claim": "The host says she spoke to the owner of the restaurant and that this undercuts claims that the receipt story is fabricated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:29:58",
@@ -2416,7 +2416,7 @@
       "claim": "The host says the server has given an interview and that there is a receipt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
@@ -2434,7 +2434,7 @@
       "claim": "The host says that at the April hearing the defense kept saying it had not been granted discovery and wanted an extension on the preliminary hearing to go through material.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
@@ -2452,7 +2452,7 @@
       "claim": "The host says the receipt was found by podcasters who stumbled on it while investigating, and that the FBI was contacted.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
@@ -2470,7 +2470,7 @@
       "claim": "The host says the restaurant owner pulled the receipt, that it shows what the person ate, and that it was paid for on a debit card.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10381"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:31:25",
@@ -2493,7 +2493,7 @@
         "A-2306.2"
       ],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [],
       "claim_timestamp": "00:33:06",
@@ -2550,7 +2550,7 @@
         "A-2306.2"
       ],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [],
       "claim_timestamp": "00:34:40",
@@ -2571,7 +2571,7 @@
       "claim": "The host says her nationalism remarks were made in 2018 on stage with Charlie Kirk with journalists in the room and no objection, and that BuzzFeed pulled the clip months later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11071"
+        "N-10989"
       ],
       "tags": [],
       "claim_timestamp": "00:35:40",
@@ -2834,7 +2834,7 @@
         "A-2800.1"
       ],
       "related_nodes": [
-        "N-11072"
+        "N-10990"
       ],
       "tags": [],
       "claim_timestamp": "00:45:14",
@@ -2856,7 +2856,7 @@
         "A-2800.1"
       ],
       "related_nodes": [
-        "N-11072"
+        "N-10990"
       ],
       "tags": [],
       "claim_timestamp": "00:45:57",
@@ -2877,7 +2877,7 @@
       "claim": "The host says she went to France and wore the White Lives Matter shirt on a trip she says was not planned.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11072"
+        "N-10990"
       ],
       "tags": [],
       "claim_timestamp": "00:45:57",
@@ -2911,7 +2911,7 @@
       "claim": "The host says Charlie Kirk told her of course she had to go to France and to get a substitute speaker.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11072"
+        "N-10990"
       ],
       "tags": [],
       "claim_timestamp": "00:47:33",
@@ -2930,7 +2930,7 @@
       "claim": "The host says she called Michael Knowles and asked him to substitute for her at the cancelled TPUSA event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11072"
+        "N-10990"
       ],
       "tags": [],
       "claim_timestamp": "00:47:33",
@@ -2951,7 +2951,7 @@
         "A-2306.4"
       ],
       "related_nodes": [
-        "N-11073"
+        "N-10991"
       ],
       "tags": [],
       "claim_timestamp": "00:48:35",
@@ -2992,7 +2992,7 @@
         "A-2306.4"
       ],
       "related_nodes": [
-        "N-11073"
+        "N-10991"
       ],
       "tags": [],
       "claim_timestamp": "00:49:26",
@@ -3013,7 +3013,7 @@
       "claim": "The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, that this is on record, and that she now has a different opinion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10386"
+        "N-10359"
       ],
       "tags": [],
       "claim_timestamp": "00:49:26",
@@ -3034,7 +3034,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
@@ -3056,7 +3056,7 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
@@ -3077,7 +3077,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
@@ -3105,7 +3105,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
@@ -3131,7 +3131,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [],
       "claim_timestamp": "00:51:24",
@@ -3152,8 +3152,8 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10456",
-        "N-10813"
+        "N-10425",
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:51:24",
@@ -3179,7 +3179,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:52:23",
@@ -3200,7 +3200,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:52:23",
@@ -3223,8 +3223,8 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-11073",
-        "N-10813"
+        "N-10991",
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:52:23",
@@ -3248,7 +3248,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:52:23",
@@ -3270,7 +3270,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-10813"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:53:40",
@@ -3307,7 +3307,7 @@
         "A-2308.1"
       ],
       "related_nodes": [
-        "N-11073"
+        "N-10991"
       ],
       "tags": [],
       "claim_timestamp": "01:00:02",
@@ -3327,7 +3327,7 @@
       "claim": "The host says she thought everything was great when Erika took over but now thinks it is not great.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11073"
+        "N-10991"
       ],
       "tags": [],
       "claim_timestamp": "00:59:40",
@@ -3349,7 +3349,7 @@
       "claim": "The host says her show revealed the Dairy Queen photo, so they know Tyler Robinson was around campus that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10051"
+        "N-10048"
       ],
       "tags": [],
       "claim_timestamp": "01:01:02",
@@ -3371,7 +3371,7 @@
       "claim": "The host says the story she got was that Tyler Robinson was dumping clothes in a cemetery.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "01:01:02",
@@ -3390,7 +3390,7 @@
       "claim": "The host says she is open to thinking that multiple people were wearing maroon shirts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10043"
+        "N-10040"
       ],
       "tags": [],
       "claim_timestamp": "01:01:02",
@@ -3408,7 +3408,7 @@
       "claim": "The host says she is at 0 percent that Tyler Robinson shot and killed Charlie Kirk from the Losee Center rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "01:01:56",
@@ -3428,7 +3428,7 @@
       "claim": "The host says she does not know whether a shot was fired and does not believe a shot was fired from the Losee Center.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "01:01:56",
@@ -3449,7 +3449,7 @@
         "A-2309.1"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "01:03:27",

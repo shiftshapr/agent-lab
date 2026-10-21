@@ -136,8 +136,8 @@
             "C-9885"
           ],
           "related_nodes": [
-            "N-10968",
-            "N-10969",
+            "N-10889",
+            "N-10890",
             "N-5",
             "N-1",
             "N-22",
@@ -206,8 +206,8 @@
           "related_nodes": [
             "N-2",
             "N-665",
-            "N-10264",
-            "N-10970"
+            "N-10248",
+            "N-10891"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -225,7 +225,7 @@
           ],
           "related_nodes": [
             "N-665",
-            "N-10131"
+            "N-10126"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -283,8 +283,8 @@
           ],
           "related_nodes": [
             "N-433",
-            "N-10671",
-            "N-10384"
+            "N-10611",
+            "N-10357"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -313,9 +313,9 @@
           ],
           "related_nodes": [
             "N-433",
-            "N-10700",
-            "N-10671",
-            "N-10888"
+            "N-10637",
+            "N-10611",
+            "N-10809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10111",
-      "ref": "N-10111",
+      "@id": "N-10107",
+      "ref": "N-10107",
       "name": "Crooks Federal-Radar Question",
       "type": "investigation_target",
       "description": "Carlson's account of Crooks's undisclosed social media posts.",
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Hosts James Kaddis's \"Egyptian pastor who supports Israel\" video.",
@@ -1292,8 +1292,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
       "type": "investigation_target",
       "description": "Erika Kirk's July 14 speech at Calvary Chapel after a pro-Israel introduction.",
@@ -1312,8 +1312,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "A viewer says Tucker Carlson was not invited this year; the host says Carlson and Megyn Kelly were pushed out.",
@@ -1329,8 +1329,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "The New York Times piece on the White House reaction to the Epstein files.",
@@ -1347,8 +1347,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "The host restates that Netanyahu offered to take Turning Point to the next level and Charlie Kirk declined.",
@@ -1364,8 +1364,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10367",
-      "ref": "N-10367",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
       "description": "Mitch Snow's encounter is restated as context for Hansell's trip.",
@@ -1382,8 +1382,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "The host says she still cannot definitively state that Snow saw Harpole.",
@@ -1399,8 +1399,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10384",
-      "ref": "N-10384",
+      "@id": "N-10357",
+      "ref": "N-10357",
       "name": "Davis-Monthan AFB September 9 Attendee Verification",
       "type": "investigation_target",
       "description": "Hansell's stop at Davis-Monthan in Tucson before Fort Huachuca.",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "The host says James Kaddis runs Turning Point USA Faith.",
@@ -1435,8 +1435,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@id": "N-10390",
+      "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Mitch Snow's belief that he saw Erika Kirk leaving a hotel at Fort Huachuca on September 8.",
@@ -1452,8 +1452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10505",
-      "ref": "N-10505",
+      "@id": "N-10466",
+      "ref": "N-10466",
       "name": "Erika Kirk Post-Assassination Conduct Composite",
       "type": "investigation_target",
       "description": "The host's account of Erika Kirk's return to the office and her public demeanour.",
@@ -1470,8 +1470,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10571",
-      "ref": "N-10571",
+      "@id": "N-10522",
+      "ref": "N-10522",
       "name": "July 14, 2025 Long Beach Flight",
       "type": "investigation_target",
       "description": "Erika Kirk's private flight to Long Beach with Locastro, Niekerk and Barcelo.",
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10588",
-      "ref": "N-10588",
+      "@id": "N-10536",
+      "ref": "N-10536",
       "name": "Butler PA Investigation Closure Verification",
       "type": "investigation_target",
       "description": "Carlson's claim that Trump shut down the investigation, against Bongino's \"pending inactive\" article.",
@@ -1509,9 +1509,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10594",
-      "ref": "N-10594",
-      "name": "Aspen Donor Inconsistency",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
       "description": "The host says Erika Kirk went to the August 15 Aspen retreat but not the meeting itself.",
       "related_artifacts": [],
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "The host says reaching out to Harpole produced a lawsuit.",
@@ -1543,8 +1543,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10671",
-      "ref": "N-10671",
+      "@id": "N-10611",
+      "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
       "type": "investigation_target",
       "description": "The passenger list for Hansell's SAM702 legs, especially Tucson to Fort Huachuca, sought by FOIA.",
@@ -1567,9 +1567,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10673",
-      "ref": "N-10673",
-      "name": "Hamptons August 5–7 Intervention Event",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Hamptons Weekend Retreat",
       "type": "investigation_target",
       "description": "The host revisits the Hamptons retreat that Charlie Kirk called an intervention.",
       "related_artifacts": [],
@@ -1584,8 +1584,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10675",
-      "ref": "N-10675",
+      "@id": "N-10614",
+      "ref": "N-10614",
       "name": "Turning Point UVU Event Submission Chain",
       "type": "investigation_target",
       "description": "The host says it is still unknown who submitted the July 18 UVU request.",
@@ -1601,8 +1601,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
       "type": "investigation_target",
       "description": "The SAM702 travel-log request now in a complex processing queue.",
@@ -1622,8 +1622,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10724",
-      "ref": "N-10724",
+      "@id": "N-10659",
+      "ref": "N-10659",
       "name": "Butler Shooting Insider Involvement Claim",
       "type": "investigation_target",
       "description": "The host's theory that Butler was a real attempt not carried out by the person blamed, serving as a warning.",
@@ -1639,8 +1639,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10863",
-      "ref": "N-10863",
+      "@id": "N-10784",
+      "ref": "N-10784",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
       "type": "investigation_target",
       "description": "The UVU request came days after the SAS donor pressure and the Trump call.",
@@ -1656,8 +1656,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
       "description": "The host says Yrefy became the fall tour's number one sponsor through a contract addendum.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Hansell's department; its FOIA office invoked unusual circumstances.",
@@ -1692,8 +1692,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "organization",
       "description": "Newspaper that published the piece on the White House reaction to the Epstein files, reporting that Trump called Charlie Kirk and scolded him on July 12, 2025. The host says the piece was well sourced and believes Dan Bongino was one of its sources.",
@@ -1711,8 +1711,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10969",
-      "ref": "N-10969",
+      "@id": "N-10890",
+      "ref": "N-10890",
       "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
       "type": "topic",
       "description": "Investigation target: the New York Times report that Donald Trump called Charlie Kirk on July 12, 2025, the day after Tucker Carlson's Student Action Summit speech, and scolded him over the event becoming \"an Epstein grievance fest.\" The host asks who prompted the call and places it on her pre-assassination timeline.",
@@ -1732,9 +1732,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10970",
-      "ref": "N-10970",
-      "name": "Erika Kirk July 2025 Israel Stance Discrepancy",
+      "@id": "N-10891",
+      "ref": "N-10891",
+      "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
       "type": "topic",
       "description": "Investigation target: the contrast between Erika Kirk's pro-Israel July 14, 2025 Calvary Chapel speech and Tucker Carlson's account to the host, days later in Maine, that Erika had been \"hardcore on the anti-Israel train\" at dinner, and her later pro-Israel public positions.",
       "related_artifacts": [
@@ -1764,7 +1764,7 @@
         "A-2646.1"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:01:26",
@@ -1788,7 +1788,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10111"
+        "N-10107"
       ],
       "tags": [],
       "claim_timestamp": "00:01:26",
@@ -1810,7 +1810,7 @@
         "A-2646.1"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:03:24",
@@ -1852,7 +1852,7 @@
         "A-2647.1"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:07:15",
@@ -1898,7 +1898,7 @@
         "A-2647.2"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:07:15",
@@ -1920,7 +1920,7 @@
         "A-2647.3"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:09:41",
@@ -1942,7 +1942,7 @@
         "A-2647.3"
       ],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:10:28",
@@ -1961,7 +1961,7 @@
       "claim": "The host says Trump did not fire the Secret Service agents who failed to protect him at Butler and said he was satisfied with the investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10588"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:10:28",
@@ -1979,7 +1979,7 @@
       "claim": "The host says she is inclined to believe Butler was a real assassination attempt that had nothing to do with the person it was blamed on and served as a \"gangster\" warning to Trump, rather than a staged event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10724"
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:12:03",
@@ -2017,8 +2017,8 @@
         "A-2648.1"
       ],
       "related_nodes": [
-        "N-10968",
-        "N-10324"
+        "N-10889",
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:14:37",
@@ -2057,7 +2057,7 @@
       "claim": "The host alleges that, according to her timeline, things changed after Tucker Carlson took the stage at the Student Action Summit and instructions went out to kill Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10969"
+        "N-10890"
       ],
       "tags": [],
       "claim_timestamp": "00:16:11",
@@ -2078,7 +2078,7 @@
         "A-2648.1"
       ],
       "related_nodes": [
-        "N-10969"
+        "N-10890"
       ],
       "tags": [],
       "claim_timestamp": "00:16:11",
@@ -2100,8 +2100,8 @@
         "A-2648.1"
       ],
       "related_nodes": [
-        "N-10968",
-        "N-10324"
+        "N-10889",
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:16:11",
@@ -2123,7 +2123,7 @@
         "A-2648.1"
       ],
       "related_nodes": [
-        "N-10968"
+        "N-10889"
       ],
       "tags": [],
       "claim_timestamp": "00:16:11",
@@ -2146,9 +2146,9 @@
         "A-2648.1"
       ],
       "related_nodes": [
-        "N-10969",
+        "N-10890",
         "N-10000",
-        "N-10968"
+        "N-10889"
       ],
       "tags": [],
       "claim_timestamp": "00:16:11",
@@ -2247,7 +2247,7 @@
         "A-2649.1"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10522"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42",
@@ -2270,8 +2270,8 @@
       "claim": "The host says James Kaddis is \"that icky guy who is Egyptian\" and runs Turning Point USA Faith, and that he is radically pro-Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10264",
+        "N-10371",
+        "N-10248",
         "N-10000"
       ],
       "tags": [],
@@ -2308,8 +2308,8 @@
         "A-2650.1"
       ],
       "related_nodes": [
-        "N-10970",
-        "N-10264"
+        "N-10891",
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:20:49",
@@ -2330,7 +2330,7 @@
         "A-2650.2"
       ],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [],
       "claim_timestamp": "00:21:49",
@@ -2350,9 +2350,9 @@
         "A-2649.1"
       ],
       "related_nodes": [
-        "N-10675",
+        "N-10614",
         "N-10012",
-        "N-10863"
+        "N-10784"
       ],
       "tags": [],
       "claim_timestamp": "00:23:28",
@@ -2396,7 +2396,7 @@
         "A-2649.1"
       ],
       "related_nodes": [
-        "N-10870"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:23:28",
@@ -2455,7 +2455,7 @@
       "claim": "The host says that after her interview, Tucker Carlson told her he had just had dinner with Charlie and Erika Kirk, who had just been there in Maine.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10970"
+        "N-10891"
       ],
       "tags": [],
       "claim_timestamp": "00:27:15",
@@ -2476,7 +2476,7 @@
       "claim": "The host recalls Tucker Carlson saying that Erika Kirk was \"hardcore on the anti-Israel train\" and had gone in on the subject at dinner.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10970"
+        "N-10891"
       ],
       "tags": [],
       "claim_timestamp": "00:28:29",
@@ -2496,7 +2496,7 @@
       "claim": "The host says that soon after Charlie Kirk's death Erika Kirk was on stage with Bari Weiss saying anyone who does not support Israel has \"brain rot.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10970"
+        "N-10891"
       ],
       "tags": [],
       "claim_timestamp": "00:28:47",
@@ -2537,7 +2537,7 @@
         "A-2649.1"
       ],
       "related_nodes": [
-        "N-10673"
+        "N-10129"
       ],
       "tags": [],
       "claim_timestamp": "00:33:05",
@@ -2562,7 +2562,7 @@
         "A-2649.1"
       ],
       "related_nodes": [
-        "N-10342"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:33:05",
@@ -2584,7 +2584,7 @@
         "A-2649.1"
       ],
       "related_nodes": [
-        "N-10594"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:33:45",
@@ -2603,7 +2603,7 @@
       "claim": "The host says Erika Kirk was back in the office within two days, bringing her children there, and joined a Zoom call about six days after the shooting; she cites Elizabeth Lane's analysis of Erika's demeanour.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [],
       "claim_timestamp": "00:38:10",
@@ -2680,9 +2680,9 @@
       "claim": "The host says she cannot yet definitively state that Mitch Snow saw Brian Harpole, that she has seen no contrary evidence despite reaching out to Harpole, and that what she got was a lawsuit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10373",
-        "N-10651",
-        "N-10367"
+        "N-10347",
+        "N-10593",
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
@@ -2704,8 +2704,8 @@
         "A-2652.1"
       ],
       "related_nodes": [
-        "N-10671",
-        "N-10384"
+        "N-10611",
+        "N-10357"
       ],
       "tags": [],
       "claim_timestamp": "00:42:15",
@@ -2725,7 +2725,7 @@
         "A-2652.1"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:43:16",
@@ -2745,7 +2745,7 @@
         "A-2652.1"
       ],
       "related_nodes": [
-        "N-10671"
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:43:16",
@@ -2763,8 +2763,8 @@
       "claim": "The host says September 8 is the day Mitch Snow is convinced he saw Erika Kirk leaving a hotel at Fort Huachuca, and asks which hotel Hansell stayed at.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10417",
-        "N-10367"
+        "N-10390",
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -2786,8 +2786,8 @@
         "A-2653.1"
       ],
       "related_nodes": [
-        "N-10700",
-        "N-10671"
+        "N-10637",
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -2808,8 +2808,8 @@
         "A-2653.1"
       ],
       "related_nodes": [
-        "N-10700",
-        "N-10671"
+        "N-10637",
+        "N-10611"
       ],
       "tags": [],
       "claim_timestamp": "00:45:15",
@@ -2826,7 +2826,7 @@
         "A-2653.1"
       ],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:46:37",
@@ -2846,7 +2846,7 @@
         "A-2653.1"
       ],
       "related_nodes": [
-        "N-10700"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:47:32",
@@ -2882,7 +2882,7 @@
         "A-2655.1"
       ],
       "related_nodes": [
-        "N-10505"
+        "N-10466"
       ],
       "tags": [],
       "claim_timestamp": "00:53:58",
@@ -2902,7 +2902,7 @@
         "A-2656.1"
       ],
       "related_nodes": [
-        "N-10268",
+        "N-10252",
         "N-10000"
       ],
       "tags": [],

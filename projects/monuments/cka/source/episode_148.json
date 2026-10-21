@@ -97,7 +97,7 @@
     "",
     "- Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350",
     "  - New Nodes Introduced: none",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10055, N-10058, N-10059, N-10162, N-10193, N-10320, N-10599, N-10604, N-10651, N-10729, N-10809, N-10821, N-10826, N-10835, N-10889, N-10979",
     "  - Hole-minted Nodes (wave1): N-350",
     "- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-159 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-329 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.",
     "",
@@ -1879,7 +1879,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-12826, C-12827, C-12828, N-430, N-10657*"
+     "raw": "*Related: C-12826, C-12827, C-12828, N-430, N-10599*"
     },
     {
      "raw": ""
@@ -2739,8 +2739,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10058",
-   "header": "**N-10058** BBC",
+   "id": "N-10055",
+   "header": "**N-10055** BBC",
    "label": "BBC",
    "lines": [
     {
@@ -2768,8 +2768,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10061",
-   "header": "**N-10061** CIA Operation Mockingbird",
+   "id": "N-10058",
+   "header": "**N-10058** CIA Operation Mockingbird",
    "label": "CIA Operation Mockingbird",
    "lines": [
     {
@@ -2797,8 +2797,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10062",
-   "header": "**N-10062** Orem, Utah",
+   "id": "N-10059",
+   "header": "**N-10059** Orem, Utah",
    "label": "Orem, Utah",
    "lines": [
     {
@@ -2826,8 +2826,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10169",
-   "header": "**N-10169** Josh Hammer Pre-Death Zoom Call Verification",
+   "id": "N-10162",
+   "header": "**N-10162** Josh Hammer Pre-Death Zoom Call Verification",
    "label": "Josh Hammer Pre-Death Zoom Call Verification",
    "lines": [
     {
@@ -2855,8 +2855,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10201",
-   "header": "**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy",
+   "id": "N-10193",
+   "header": "**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "label": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "lines": [
     {
@@ -2884,8 +2884,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10342",
-   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "id": "N-10320",
+   "header": "**N-10320** Bibi Netanyahu TPUSA Funding Offer",
    "label": "Bibi Netanyahu TPUSA Funding Offer",
    "lines": [
     {
@@ -2913,8 +2913,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10657",
-   "header": "**N-10657** Salem Media Foreign Agent Registration Status",
+   "id": "N-10599",
+   "header": "**N-10599** Salem Media Foreign Agent Registration Status",
    "label": "Salem Media Foreign Agent Registration Status",
    "lines": [
     {
@@ -2942,8 +2942,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10662",
-   "header": "**N-10662** 2025 FARA Propaganda Timeline Convergence",
+   "id": "N-10604",
+   "header": "**N-10604** 2025 FARA Propaganda Timeline Convergence",
    "label": "2025 FARA Propaganda Timeline Convergence",
    "lines": [
     {
@@ -2971,8 +2971,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10715",
-   "header": "**N-10715** Blake Neff September 10th Movement Discrepancy",
+   "id": "N-10651",
+   "header": "**N-10651** Blake Neff September 10th Movement Discrepancy",
    "label": "Blake Neff September 10th Movement Discrepancy",
    "lines": [
     {
@@ -3000,8 +3000,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10805",
-   "header": "**N-10805** Debate Israel Focus",
+   "id": "N-10729",
+   "header": "**N-10729** Debate Israel Focus",
    "label": "Debate Israel Focus",
    "lines": [
     {
@@ -3029,8 +3029,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10888",
-   "header": "**N-10888** Department of War",
+   "id": "N-10809",
+   "header": "**N-10809** Department of War",
    "label": "Department of War",
    "lines": [
     {
@@ -3058,8 +3058,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -3087,8 +3087,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10905",
-   "header": "**N-10905** New York Times Erika Kirk Interview Account Discrepancies",
+   "id": "N-10826",
+   "header": "**N-10826** New York Times Erika Kirk Interview Account Discrepancies",
    "label": "New York Times Erika Kirk Interview Account Discrepancies",
    "lines": [
     {
@@ -3116,8 +3116,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10914",
-   "header": "**N-10914** Show Faith by Works LLC",
+   "id": "N-10835",
+   "header": "**N-10835** Show Faith by Works LLC",
    "label": "Show Faith by Works LLC",
    "lines": [
     {
@@ -3145,8 +3145,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10968",
-   "header": "**N-10968** The New York Times",
+   "id": "N-10889",
+   "header": "**N-10889** The New York Times",
    "label": "The New York Times",
    "lines": [
     {
@@ -3174,8 +3174,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11061",
-   "header": "**N-11061** Restaurantology Event Green Room Attendance Question",
+   "id": "N-10979",
+   "header": "**N-10979** Restaurantology Event Green Room Attendance Question",
    "label": "Restaurantology Event Green Room Attendance Question",
    "lines": [
     {
@@ -4073,7 +4073,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4134,7 +4134,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4480,7 +4480,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10058"
+     "v": "N-10055"
     },
     {
      "k": "Tags",
@@ -4598,7 +4598,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10888"
+     "v": "N-10809"
     },
     {
      "k": "Tags",
@@ -4716,7 +4716,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Supports",
@@ -4781,7 +4781,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -4842,7 +4842,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -4960,7 +4960,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10342, N-10000"
+     "v": "N-10320, N-10000"
     },
     {
      "k": "Supports",
@@ -5025,7 +5025,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10342"
+     "v": "N-10320"
     },
     {
      "k": "Supports",
@@ -5147,7 +5147,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -5379,7 +5379,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10888"
+     "v": "N-10809"
     },
     {
      "k": "Tags",
@@ -5676,7 +5676,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10715"
+     "v": "N-10651"
     },
     {
      "k": "Supports",
@@ -5741,7 +5741,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11061, N-10715"
+     "v": "N-10979, N-10651"
     },
     {
      "k": "Tags",
@@ -5802,7 +5802,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10715"
+     "v": "N-10651"
     },
     {
      "k": "Supports",
@@ -6107,7 +6107,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10062"
+     "v": "N-10059"
     },
     {
      "k": "Supports",
@@ -6294,7 +6294,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10062"
+     "v": "N-10059"
     },
     {
      "k": "Tags",
@@ -6355,7 +6355,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10715"
+     "v": "N-10651"
     },
     {
      "k": "Tags",
@@ -6595,7 +6595,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968"
+     "v": "N-10889"
     },
     {
      "k": "Supports",
@@ -6660,7 +6660,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905, N-10968"
+     "v": "N-10826, N-10889"
     },
     {
      "k": "Tags",
@@ -6721,7 +6721,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968"
+     "v": "N-10889"
     },
     {
      "k": "Tags",
@@ -6782,7 +6782,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968"
+     "v": "N-10889"
     },
     {
      "k": "Supports",
@@ -6847,7 +6847,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10888, N-10000"
+     "v": "N-10809, N-10000"
     },
     {
      "k": "Tags",
@@ -7445,7 +7445,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10061, N-10968"
+     "v": "N-10058, N-10889"
     },
     {
      "k": "Tags",
@@ -7628,7 +7628,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -7693,7 +7693,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -7754,7 +7754,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -7819,7 +7819,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Supports",
@@ -7941,7 +7941,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -8177,7 +8177,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10805, N-10169"
+     "v": "N-10729, N-10162"
     },
     {
      "k": "Tags",
@@ -8238,7 +8238,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -8299,7 +8299,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10169"
+     "v": "N-10162"
     },
     {
      "k": "Tags",
@@ -8360,7 +8360,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -8421,7 +8421,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Supports",
@@ -8543,7 +8543,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10657"
+     "v": "N-10599"
     },
     {
      "k": "Supports",
@@ -8604,7 +8604,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10657"
+     "v": "N-10599"
     },
     {
      "k": "Tags",
@@ -8661,7 +8661,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10657, N-10662, N-10914"
+     "v": "N-10599, N-10604, N-10835"
     },
     {
      "k": "Supports",
@@ -8722,7 +8722,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10662, N-10657"
+     "v": "N-10604, N-10599"
     },
     {
      "k": "Tags",
@@ -8783,7 +8783,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10657"
+     "v": "N-10599"
     },
     {
      "k": "Supports",
@@ -8844,7 +8844,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10914, N-10657"
+     "v": "N-10835, N-10599"
     },
     {
      "k": "Tags",

@@ -12,13 +12,13 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-810, N-811
-  - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
+  - Hole-minted Nodes (reintro-ep090): N-10617, N-10639
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8020–C-8102
-  - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597
+  - New Nodes Introduced: N-10541, N-10542, N-10543, N-10544
   - Hole-minted Nodes (wave3): N-420, N-421
   - Tip-minted Nodes (skeleton-caleb): N-603
-  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-133, N-5, N-38, N-46, N-60, N-97, N-125, N-159, N-163, N-204, N-244, N-272, N-361, N-364, N-366, N-378, N-772, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598
+  - Reused Nodes Appearing: N-10162, N-3, N-40, N-41, N-69, N-133, N-5, N-38, N-46, N-60, N-97, N-125, N-159, N-163, N-204, N-244, N-272, N-361, N-364, N-366, N-378, N-772, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10255, N-10346, N-10389, N-10401, N-10519, N-10406, N-10574, N-10606, N-10821, N-10857, N-10922, N-11047, N-10875, N-10545
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -45,7 +45,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-04-13
 Confidence Level: High
 
-*Related: C-8059, C-8060, C-8084, N-40, N-10593*
+*Related: C-8059, C-8060, C-8084, N-40, N-10541*
 
 **A-1948.2** State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:47:08–00:48:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8084, N-40, N-10595*
+*Related: C-8084, N-40, N-10542*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:12:25–00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio-only; video withheld)
 
-*Related: C-8028, C-8050, N-1, N-2, N-10594*
+*Related: C-8028, C-8050, N-1, N-2, N-10406*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:13:17–00:14:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-8031, C-8048, N-10597*
+*Related: C-8031, C-8048, N-10544*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:21:42–00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-8048, N-2, N-3, N-10596*
+*Related: C-8048, N-2, N-3, N-10543*
 
 **A-1951.2** ADF internal board presentation slide – Caleb Robinson board seat
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced, partial)
 
-*Related: C-8050, N-10596*
+*Related: C-8050, N-10543*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:42:44–00:43:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8076, N-40, N-10598*
+*Related: C-8076, N-40, N-10545*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:40:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only)
 
-*Related: C-8073, N-40, N-10593*
+*Related: C-8073, N-40, N-10541*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:09:44–00:16:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only – no recording displayed)
 
-*Related: C-8029, N-1, N-2, N-10594*
+*Related: C-8029, N-1, N-2, N-10406*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:20:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8047, C-8054, N-3, N-97, N-2, N-38, N-10954*
+*Related: C-8047, C-8054, N-3, N-97, N-2, N-38, N-10875*
 
 ---
 
@@ -302,7 +302,7 @@ First named by the host at 00:33:31 in episode 90.
 *Related: C-8059, C-8060*
 
 
-**N-10593** Tyler Robinson Filing Timeline Discrepancy
+**N-10541** Tyler Robinson Filing Timeline Discrepancy
 
 Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.
 
@@ -315,20 +315,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10594** Aspen Donor Inconsistency
-
-Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy.
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1949.1, A-1957.1, C-8028, C-8029, N-1, N-2*
-
----
-
-**N-10595** Forensic Extraction Evidence Presentation Question
+**N-10542** Forensic Extraction Evidence Presentation Question
 
 State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing.
 
@@ -341,7 +328,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10596** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom
+**N-10543** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom
 
 Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk.
 
@@ -354,7 +341,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10597** Charlie GPT Pitch Question
+**N-10544** Charlie GPT Pitch Question
 
 Admitted pre-death pitches for AI "Charlie GPT" product and host's open question about whether a pitch was accepted.
 
@@ -367,7 +354,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship.
 
@@ -620,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -628,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10372** Cabot Phillips Fort Huachuca Presence Verification
+**N-10346** Cabot Phillips Fort Huachuca Presence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -636,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -644,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10431** Aspen Donor Retreat "What Happens When You Die" Question
+**N-10401** Aspen Donor Retreat "What Happens When You Die" Question
 
 Existing topic reused for new claims in this episode.
 
@@ -652,7 +639,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10568** Athanor Lodge / French Freemason Murder Trial
+**N-10519** Athanor Lodge / French Freemason Murder Trial
 
 Existing topic reused for new claims in this episode.
 
@@ -660,7 +647,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10584** Aspen Donor Event Memory Discrepancy
+**N-10406** Aspen Donor Recall Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -668,7 +655,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Existing topic reused for new claims in this episode.
 
@@ -676,7 +663,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Existing topic reused for new claims in this episode.
 
@@ -684,7 +671,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing topic reused for new claims in this episode.
 
@@ -692,7 +679,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
+**N-10639** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
 Existing topic reused for new claims in this episode.
 
@@ -700,7 +687,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Existing organization reused for new claims in this episode.
 
@@ -708,7 +695,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-10936** Aspen CEO-Appointment Video Non-Release
+**N-10857** Aspen CEO-Appointment Video Non-Release
 
 Existing topic reused for new claims in this episode.
 
@@ -716,7 +703,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10954** Alliance Defending Freedom
+**N-10875** Alliance Defending Freedom
 
 Existing organization reused for new claims in this episode.
 
@@ -724,7 +711,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-11002** Warner Valley, Utah
+**N-10922** Warner Valley, Utah
 
 Existing place reused for new claims in this episode.
 
@@ -732,7 +719,7 @@ Existing place reused for new claims in this episode.
 
 ---
 
-**N-11129** Freemasonry
+**N-11047** Freemasonry
 
 Existing topic reused for new claims in this episode.
 
@@ -767,7 +754,7 @@ Claim: The defense Motion to Exclude Still Photography records a Miranda advisem
 Anchored Artifacts: A-1948.1
 Mentions: N-40
 
-Related Nodes: N-10593
+Related Nodes: N-10541
 
 Investigative Direction: Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.
 
@@ -797,7 +784,7 @@ Claim: In a state filing on preliminary-hearing evidence the host reads, the pro
 Anchored Artifacts: A-1948.2
 Mentions: N-40
 
-Related Nodes: N-10595
+Related Nodes: N-10542
 
 Investigative Direction: Obtain the underlying filing directly and confirm language; assess chain-of-custody implications.
 
@@ -812,7 +799,7 @@ Claim: An audio recording played in the episode contains the phrase "I appoint m
 Anchored Artifacts: A-1949.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10594
+Related Nodes: N-10406
 
 Investigative Direction: Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA.
 
@@ -827,7 +814,7 @@ Claim: In a recorded interview clip, Andrew Kolvet says he feels he has 'a Charl
 Anchored Artifacts: A-1950.1
 Mentions: N-14
 
-Related Nodes: N-10597
+Related Nodes: N-10544
 
 Investigative Direction: Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.
 
@@ -842,7 +829,7 @@ Claim: The host says an internal Alliance Defending Freedom video of its CEO sho
 Anchored Artifacts: A-1951.1
 Mentions: N-2, N-3
 
-Related Nodes: N-10596
+Related Nodes: N-10543
 
 Investigative Direction: Authenticate the internal video; obtain the underlying ADF board materials.
 
@@ -857,7 +844,7 @@ Claim: The host says ADF insiders informed her, and showed her an internal prese
 Anchored Artifacts: A-1951.2
 Mentions: N-603
 
-Related Nodes: N-10596
+Related Nodes: N-10543
 
 Investigative Direction: Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.
 
@@ -917,7 +904,7 @@ Claim: In a Discord statement published in The Hill on September 12, 2025, which
 Anchored Artifacts: A-1955.1
 Mentions: N-40
 
-Related Nodes: N-10598
+Related Nodes: N-10545
 
 Investigative Direction: Retrieve the original Discord statement and The Hill article for exact text.
 
@@ -932,7 +919,7 @@ Claim: Host references a search warrant indicating Tyler Robinson arrived at the
 Anchored Artifacts: A-1956.1
 Mentions: N-40
 
-Related Nodes: N-10593
+Related Nodes: N-10541
 
 Investigative Direction: Obtain the search warrant docket entry and verify exact time/date stamps.
 
@@ -947,7 +934,7 @@ Claim: Host testifies that two TPUSA donors who attended the Aspen investor retr
 Anchored Artifacts: A-1957.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10594
+Related Nodes: N-10406
 
 Investigative Direction: Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists.
 
@@ -962,7 +949,7 @@ Claim: Per the filing excerpt read aloud, the state intends to offer two exhibit
 Anchored Artifacts: A-1948.2
 Mentions: N-40, N-54
 
-Related Nodes: N-10595, N-10598
+Related Nodes: N-10542, N-10545
 
 Investigative Direction: Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.
 
@@ -992,7 +979,7 @@ Claim: Host asserts (based on the Discord statement and subsequent federal chara
 Anchored Artifacts: A-1955.1
 Mentions: N-40
 
-Related Nodes: N-10598
+Related Nodes: N-10545
 
 Investigative Direction: Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.
 
@@ -1023,7 +1010,7 @@ Transcript Snippet: Erika's ex-boyfriend, one of the many, uh current Daily Wire
 
 Anchored Artifacts: 
 Mentions: N-3, N-364, N-2, N-361
-Related Nodes: N-10900, N-10372
+Related Nodes: N-10821, N-10346
 Tags: relevance:core
 Investigative Direction: Obtain Phillips's employment record and any statement from him or from the witness Mitch confirming or denying that the description matched him.
 
@@ -1039,7 +1026,7 @@ Transcript Snippet: You will recall that I texted Cabot Phillips before we menti
 
 Anchored Artifacts: 
 Mentions: N-3, N-364
-Related Nodes: N-10372
+Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Obtain the host's text thread with Phillips and any later statement from Phillips about his whereabouts in September 2025.
 
@@ -1087,7 +1074,7 @@ Transcript Snippet: took the stage in Aspen um at this investor retreat where he
 
 Anchored Artifacts: A-1957.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10000, N-10431, N-10664
+Related Nodes: N-10000, N-10401, N-10606
 Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Obtain the retreat date, attendee list and program to establish when and where the remark was said to be made.
@@ -1104,7 +1091,7 @@ Transcript Snippet: When pushed, Turning Point declined to show the video. Inste
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10936
+Related Nodes: N-10000, N-10857
 Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Ask Turning Point whether video exists and obtain the original recording with metadata.
@@ -1121,7 +1108,7 @@ Transcript Snippet: He said that I was a psychopathic subway killer that was wie
 
 Anchored Artifacts: 
 Mentions: N-3, N-159
-Related Nodes: N-10000, N-10936
+Related Nodes: N-10000, N-10857
 Tags: relevance:core
 Investigative Direction: Locate the Neff statements (posts or messages) the host is paraphrasing and confirm the wording.
 
@@ -1137,7 +1124,7 @@ Transcript Snippet: I guess I hadn't appreciated that we had never said that tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10027, N-10431
+Related Nodes: N-10027, N-10401
 Tags: relevance:core
 Investigative Direction: Compare earlier TPUSA and Erika Kirk statements for the claimed venue of the remark.
 
@@ -1153,7 +1140,7 @@ Transcript Snippet: they were not aware that Turning Point was making the claim 
 
 Anchored Artifacts: A-1957.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10000, N-10594, N-10584
+Related Nodes: N-10000, N-10406
 Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Identify the donors through the host and compare their account with the AmFest remarks and the claimed venue.
@@ -1170,7 +1157,7 @@ Transcript Snippet: A term, by the way, that you should know was first uttered, 
 
 Anchored Artifacts: A-1950.1
 Mentions: N-3, N-14, N-1
-Related Nodes: N-10597
+Related Nodes: N-10544
 Supports: C-8031
 Tags: relevance:core
 Investigative Direction: Retrieve the Kolvet interview and search earlier public uses of the term Charlie GPT.
@@ -1187,7 +1174,7 @@ Transcript Snippet: I've certainly been in places where they've pitched me on li
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10597
+Related Nodes: N-10544
 Tags: relevance:context
 Investigative Direction: The host would need to identify who pitched her; no external check beyond her records.
 
@@ -1203,7 +1190,7 @@ Transcript Snippet: My question is, did they take someone up on their offer to c
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-10597, N-10664
+Related Nodes: N-10000, N-10544, N-10606
 Supports: C-8031
 Tags: relevance:core
 Investigative Direction: Ask Turning Point and its vendors whether any Charlie voice or AI product was commissioned, and request contracts or invoices.
@@ -1220,7 +1207,7 @@ Transcript Snippet: Apparently Erika was up in Aspen, but was not at this exact 
 
 Anchored Artifacts: A-1957.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10594, N-10584
+Related Nodes: N-10406
 Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Obtain the dinner guest list and the schedule of Erika Kirk's movements in Aspen from attendees.
@@ -1237,7 +1224,7 @@ Transcript Snippet: It would be very easy for them to drop this video, and they 
 
 Anchored Artifacts: A-1957.1
 Mentions: N-3
-Related Nodes: N-10000, N-10936
+Related Nodes: N-10000, N-10857
 Tags: relevance:core
 Investigative Direction: Request the Aspen video from Turning Point and corroboration from additional attendees.
 
@@ -1253,7 +1240,7 @@ Transcript Snippet: If true, that they used an AI program, which Blake Neff's re
 
 Anchored Artifacts: 
 Mentions: N-3, N-159
-Related Nodes: N-10000, N-10664, N-10597
+Related Nodes: N-10000, N-10606, N-10544
 Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Forensic audio analysis of the Aspen clip; request the original device recording and chain of custody.
@@ -1270,7 +1257,7 @@ Transcript Snippet: Because the notion signifies that there that there was a plo
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10000, N-10664, N-10597
+Related Nodes: N-10000, N-10606, N-10544
 Tags: relevance:core
 Investigative Direction: This is the host's inference; the test is authentication of the audio and its origin.
 
@@ -1334,7 +1321,7 @@ Transcript Snippet: Ben then set to work behind the scenes getting like the Jewi
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Supports: C-4366
 Tags: relevance:context
 Investigative Direction: Identify donors or writers who pressed Charlie in 2024 and obtain any contemporaneous messages.
@@ -1367,7 +1354,7 @@ Transcript Snippet: they wanted to have only Matt Walsh on the show, and Caleb s
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-603, N-163, N-14, N-1
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Obtain the booking communications between Daily Wire and the Charlie Kirk Show for the Walsh and Shapiro appearances.
 
@@ -1383,7 +1370,7 @@ Transcript Snippet: He went on his show and he demanded that Erika sue me for dr
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-2
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Locate the Shapiro show segment and quote his statement on Erika suing.
 
@@ -1399,7 +1386,7 @@ Transcript Snippet: This is after he's been suing me for 2 years, okay? In arbit
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Arbitration is generally non-public; confirm existence of the proceeding through the parties or any court filings to compel or confirm arbitration.
 
@@ -1415,7 +1402,7 @@ Transcript Snippet: you know, Ben is working with Erika on ways to sue you. He's
 
 Anchored Artifacts: A-2956.1
 Mentions: N-3, N-97, N-2, N-38
-Related Nodes: N-10954, N-10596
+Related Nodes: N-10875, N-10543
 Supports: C-8048
 Tags: relevance:core
 Investigative Direction: Obtain the emails and identify the senders; ask ADF to confirm or deny any coordination with Shapiro or Erika Kirk.
@@ -1432,7 +1419,7 @@ Transcript Snippet: they informed me that the public is not aware, but that they
 
 Anchored Artifacts: A-1951.2
 Mentions: N-3
-Related Nodes: N-10954, N-10900, N-10596
+Related Nodes: N-10875, N-10821, N-10543
 Supports: C-8050
 Tags: relevance:core
 Investigative Direction: Compare ADF's published board list and Form 990 with the internal slide.
@@ -1449,7 +1436,7 @@ Transcript Snippet: And they said that Ben was driving the bus um gunning for me
 
 Anchored Artifacts: A-1951.2
 Mentions: N-3, N-97, N-603
-Related Nodes: N-10954, N-10596
+Related Nodes: N-10875, N-10543
 Supports: C-8050
 Tags: relevance:core
 Investigative Direction: Identify the ADF sources and obtain board minutes or communications on any litigation involving the host.
@@ -1466,7 +1453,7 @@ Transcript Snippet: trying to stop speeches, trying to get people to say things 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900, N-10416
+Related Nodes: N-10821, N-10389
 Tags: relevance:context
 Investigative Direction: Document specific cancelled speeches and advertiser contacts and any evidence linking them to Daily Wire.
 
@@ -1498,7 +1485,7 @@ Transcript Snippet: one of them mentioned Seth Dillon. The other three people at
 
 Anchored Artifacts: A-2956.1
 Mentions: N-3, N-38, N-97
-Related Nodes: N-10954, N-10596
+Related Nodes: N-10875, N-10543
 Tags: relevance:core
 Investigative Direction: Identify and independently interview the four ADF sources.
 
@@ -1514,7 +1501,7 @@ Transcript Snippet: it was known to the police that Tyler Robinson was the their
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10593, N-10024
+Related Nodes: N-10541, N-10024
 Supports: C-8066
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and text records from September 11 for Washington County law enforcement.
@@ -1531,7 +1518,7 @@ Transcript Snippet: Governor Cox and uh uh the police, they were lying about the
 
 Anchored Artifacts: 
 Mentions: N-3, N-41, N-40
-Related Nodes: N-10593
+Related Nodes: N-10541
 Tags: relevance:core
 Investigative Direction: Compare booking photographs and property inventory with Cox's and police statements about clothing.
 
@@ -1547,7 +1534,7 @@ Transcript Snippet: that he was buying a gun, that Tyler Robinson had been buyin
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11002, N-10593
+Related Nodes: N-10922, N-10541
 Tags: relevance:core
 Investigative Direction: Check firearms retailers or private sales in the Warner Valley area for September 10 to 11, 2025, and any ATF trace records.
 
@@ -1563,7 +1550,7 @@ Transcript Snippet: But then suddenly there was some sea change and they learned
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11002, N-10593
+Related Nodes: N-10922, N-10541
 Tags: relevance:core
 Investigative Direction: Reconstruct the sequence of calls between the Robinson family, the family friend and law enforcement on the evening of September 11.
 
@@ -1627,7 +1614,7 @@ Transcript Snippet: in order for that interview to start, we should assume he ar
 
 Anchored Artifacts: A-2957.1
 Mentions: N-3, N-40
-Related Nodes: N-10593, N-10024
+Related Nodes: N-10541, N-10024
 Supports: C-8059
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit video and its metadata cited in the motion to establish the actual time of the interview.
@@ -1644,7 +1631,7 @@ Transcript Snippet: I can't fathom that they would be referring to the next day 
 
 Anchored Artifacts: A-1948.1
 Mentions: N-3, N-40
-Related Nodes: N-10593
+Related Nodes: N-10541
 Supports: C-8059
 Tags: relevance:core
 Investigative Direction: Ask the defense or the court to clarify the date of the video exhibit; check the booking record for the date and time.
@@ -1661,7 +1648,7 @@ Transcript Snippet: then we have uh Sheriff Broxby, which we will get from a a l
 
 Anchored Artifacts: 
 Mentions: N-3, N-272, N-125, N-40
-Related Nodes: N-10029, N-10593
+Related Nodes: N-10029, N-10541
 Tags: relevance:core
 Investigative Direction: Obtain the press conference transcript and the sheriff's office phone records for the call.
 
@@ -1693,7 +1680,7 @@ Transcript Snippet: They tell us that 9:00 that Tyler arrives at the police stat
 
 Anchored Artifacts: 
 Mentions: N-3, N-272, N-40, N-69
-Related Nodes: N-10029, N-10593, N-10031
+Related Nodes: N-10029, N-10541, N-10031
 Tags: relevance:core
 Investigative Direction: Compare the press conference transcript with the 10:26 p.m. search warrant time and booking records.
 
@@ -1709,7 +1696,7 @@ Transcript Snippet: Kash Patel will later say that. They're all saying in the 33
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-40
-Related Nodes: N-10031, N-11129
+Related Nodes: N-10031, N-11047
 Supports: C-162
 Tags: relevance:core
 Investigative Direction: Retrieve Patel's statement on the 33rd hour and compute the interval from the shooting to booking.
@@ -1726,7 +1713,7 @@ Transcript Snippet: France, assassin squads tied to Freemasonry. So, we can stop
 
 Anchored Artifacts: 
 Mentions: N-3, N-159
-Related Nodes: N-11129, N-10568, N-10031
+Related Nodes: N-11047, N-10519, N-10031
 Tags: relevance:tangential
 Investigative Direction: Review the French Athanor Lodge trial reporting and Neff's statement on 33 symbolism.
 
@@ -1742,7 +1729,7 @@ Transcript Snippet: by the way the tape is apparently lost of when he arrived.
 
 Anchored Artifacts: A-1956.1
 Mentions: N-3, N-40
-Related Nodes: N-10029, N-10271, N-10593
+Related Nodes: N-10029, N-10255, N-10541
 Supports: C-8073
 Tags: relevance:core
 Investigative Direction: File a records request for the sheriff's office lobby and sally-port footage for September 11 and ask for the retention log.
@@ -1759,7 +1746,7 @@ Transcript Snippet: He opened it and showed several messages to investigators an
 
 Anchored Artifacts: A-2958.1
 Mentions: N-3, N-41, N-40, N-54
-Related Nodes: N-10013, N-10598
+Related Nodes: N-10013, N-10545
 Tags: relevance:core
 Investigative Direction: Obtain the full search warrant affidavit and the photographs of the roommate's screen.
 
@@ -1807,7 +1794,7 @@ Transcript Snippet: They're in discovery. They're not getting what they're askin
 
 Anchored Artifacts: A-1948.2
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10595, N-10679
+Related Nodes: N-10542, N-10617
 Supports: C-8084
 Tags: relevance:core
 Investigative Direction: Review defense discovery motions and rulings in the Robinson docket.
@@ -1824,7 +1811,7 @@ Transcript Snippet: Lance to me is very obviously a federal informant. He's work
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
-Related Nodes: N-10598, N-10703
+Related Nodes: N-10545, N-10639
 Tags: relevance:core
 Investigative Direction: This is the host's inference; a records request for any informant or cooperation agreement with Twiggs, or a court filing disclosing one, would test it.
 
@@ -1840,7 +1827,7 @@ Transcript Snippet: They said to me it was completely insane that Lance was not 
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10598
+Related Nodes: N-10545
 Supports: C-352
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records, or sheriff's statements on Twiggs's detention.
@@ -1857,7 +1844,7 @@ Transcript Snippet: They own the house that Tyler Robinson and Lance live in and
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
-Related Nodes: N-10598
+Related Nodes: N-10545
 Supports: C-217
 Tags: relevance:core
 Investigative Direction: Interview family members on the record and review property records for the townhome.
@@ -1874,7 +1861,7 @@ Transcript Snippet: Now their number one claim to we have evidence is Lance Twig
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10598, N-10679
+Related Nodes: N-10545, N-10617
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing witness lists and public dockets for any testimony or statements from Twiggs.
 
@@ -1890,7 +1877,7 @@ Transcript Snippet: With the exception of a photograph of a burnt note which was
 
 Anchored Artifacts: A-1948.2, A-2959.1
 Mentions: N-3, N-40
-Related Nodes: N-10595
+Related Nodes: N-10542
 Tags: relevance:core
 Investigative Direction: Obtain the filing and check each listed item's disclosure date against the discovery log.
 
@@ -1906,7 +1893,7 @@ Transcript Snippet: Most of the evidence to be presented at the preliminary hear
 
 Anchored Artifacts: A-1948.2, A-2959.1
 Mentions: N-3, N-40
-Related Nodes: N-10595
+Related Nodes: N-10542
 Tags: relevance:core
 Investigative Direction: Obtain the filing and the discovery log to confirm the October 2025 production date.
 
@@ -1922,7 +1909,7 @@ Transcript Snippet: Laura Loomer who have has been forcibly placed on site 5150 
 
 Anchored Artifacts: 
 Mentions: N-3, N-60, N-5, N-772
-Related Nodes: N-10628
+Related Nodes: N-10574
 Tags: relevance:tangential
 Investigative Direction: Check public court and medical-hold records, if any, and Loomer's own statements on the matter.
 
@@ -2054,7 +2041,7 @@ Transcript Snippet: I will get to the bottom of that. I know who was at that eve
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10431, N-10664
+Related Nodes: N-10401, N-10606
 Tags: relevance:core
 Investigative Direction: The host would need to publish the attendee list or identify the person who asked the question; an Aspen retreat guest list is the confirming record.
 

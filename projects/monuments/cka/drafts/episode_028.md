@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11231
-  - Hole-minted Nodes (reintro-ep028): N-374, N-10451
-  - Tip-minted Nodes (reintro-ep028): N-11159
+  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11147
+  - Hole-minted Nodes (reintro-ep028): N-374, N-10420
+  - Tip-minted Nodes (reintro-ep028): N-11075
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2491–C-2557
   - Tip-minted Nodes (reintro-ep028): N-710
@@ -140,8 +140,8 @@ Confidence: high
 ### Episode 28 Ledger Summary
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
-  - New Nodes Introduced: N-234, N-235, N-10237, N-10238
-  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-659, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
+  - New Nodes Introduced: N-234, N-235, N-10224, N-10225
+  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-659, N-10000, N-10016, N-10025, N-10026, N-10053, N-10060, N-10078, N-10102, N-10323, N-10379, N-10821, N-11014, N-10223, N-10397
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
 
 ---
@@ -255,7 +255,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:27–00:17:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by named participant)
-*Related: C-2515, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10237*
+*Related: C-2515, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10224*
 
 **A-1360.2** Read-aloud headline: "Ben Shapiro's YAF launches smear campaign against Charlie Kirk and Candace Owens"
 
@@ -395,7 +395,7 @@ Flag: Name uncertainty.
 
 ### Investigation Targets
 
-**N-10236** Megyn Kelly Tour Attendee Authenticity Question
+**N-10223** Megyn Kelly Tour Attendee Authenticity Question
 
 Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals).
 
@@ -408,7 +408,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.
 
@@ -421,7 +421,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10238** Daily Wire Intern Covert Recording Operation
+**N-10225** Daily Wire Intern Covert Recording Operation
 
 Persistent target: the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova.
 
@@ -602,7 +602,7 @@ Existing place node reused for the host's remarks on Israel's response.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Existing topic reused for the host's remarks on Israel's immediate denial.
 
@@ -610,7 +610,7 @@ Existing topic reused for the host's remarks on Israel's immediate denial.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Existing place node reused for the Kushner remarks.
 
@@ -618,7 +618,7 @@ Existing place node reused for the Kushner remarks.
 
 ---
 
-**N-10081** Israel Influence on US Politics
+**N-10078** Israel Influence on US Politics
 
 Existing topic reused for the campus speech remark.
 
@@ -626,7 +626,7 @@ Existing topic reused for the campus speech remark.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Existing topic reused for the moral blackmail claim.
 
@@ -634,7 +634,7 @@ Existing topic reused for the moral blackmail claim.
 
 ---
 
-**N-10345** Hampton Retreat Seth Dillon Confrontation
+**N-10323** Hampton Retreat Seth Dillon Confrontation
 
 Existing topic reused for Dillon's Hamptons conduct.
 
@@ -642,7 +642,7 @@ Existing topic reused for Dillon's Hamptons conduct.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for Kelly's reaction to pressure.
 
@@ -650,7 +650,7 @@ Existing topic reused for Kelly's reaction to pressure.
 
 ---
 
-**N-10424** Nick Fuentes Federal Informant Allegation
+**N-10397** Nick Fuentes Federal Informant Allegation
 
 Existing topic reused for the host's op remark.
 
@@ -658,7 +658,7 @@ Existing topic reused for the host's op remark.
 
 ---
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 Existing topic reused for the student's USS Liberty remark.
 
@@ -666,7 +666,7 @@ Existing topic reused for the student's USS Liberty remark.
 
 ---
 
-**N-11096** TikTok Israel Moderation Claim
+**N-11014** TikTok Israel Moderation Claim
 
 Existing topic reused for the TikTok remark.
 
@@ -674,7 +674,7 @@ Existing topic reused for the TikTok remark.
 
 ---
 
-**N-11159** Candace Owens CNN Interview and Interview Statements
+**N-11075** Candace Owens CNN Interview and Interview Statements
 
 Existing topic reused for the CNN clips.
 
@@ -690,7 +690,7 @@ First named by the host at 00:12:33 in episode 28. Host of the X Space where Bor
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Node Type: Organization
 Media company the host left; its CEO, staff agreements and intern operation are discussed.
@@ -699,7 +699,7 @@ Media company the host left; its CEO, staff agreements and intern operation are 
 
 ---
 
-**N-11231** Young America's Foundation
+**N-11147** Young America's Foundation
 
 Node Type: Organization
 Referred to by the host as YAF; she alleges its people were sent against her and Kirk and may attend Kelly's events.
@@ -748,7 +748,7 @@ Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is a
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-1, N-46, N-97, N-2
 
-Related Nodes: N-10237
+Related Nodes: N-10224
 
 Investigative Direction: Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative.
 
@@ -763,7 +763,7 @@ Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is a
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-1, N-46, N-97, N-38
 
-Related Nodes: N-10237
+Related Nodes: N-10224
 
 Investigative Direction: Identify the specific Owens episodes in which she discusses Seth Dillon and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.
 
@@ -808,7 +808,7 @@ Claim: In text messages the host reads between herself and Charlie Kirk, Kirk te
 Anchored Artifacts: A-1360.1, A-1360.2
 Mentions: N-3, N-1, N-97
 
-Related Nodes: N-10237
+Related Nodes: N-10224
 
 Investigative Direction: Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited.
 
@@ -823,7 +823,7 @@ Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern na
 Anchored Artifacts: A-1361.1
 Mentions: N-235, N-3
 
-Related Nodes: N-10238
+Related Nodes: N-10225
 
 Investigative Direction: Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.
 
@@ -955,7 +955,7 @@ Transcript Snippet: I'm going to peer pressure Megyn Kelly myself. I'm going to 
 
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46, N-3, N-22
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said.
 
@@ -971,7 +971,7 @@ Transcript Snippet: you saw this narrative circulating amongst people who were j
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-97
-Related Nodes: N-10237
+Related Nodes: N-10224
 Tags: relevance:core
 Investigative Direction: Trace the earliest accounts and posts pushing the 'Candace attacked Erika' framing and test the host's assertion of coordination with account-level and timing data.
 
@@ -987,7 +987,7 @@ Transcript Snippet: people at the Daily Wire when they're leaving the Daily Wire
 
 Anchored Artifacts: 
 Mentions: N-22
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Obtain a Daily Wire separation agreement or a former employee's account confirming a six-month restriction on working for Carlson's outlet.
 
@@ -1066,7 +1066,7 @@ Transcript Snippet: but my my position is it's really none of my business.
 
 Anchored Artifacts: A-1356.1
 Mentions: N-46, N-97, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:core
 Investigative Direction: Compare with Kelly's later public statements on the Owens investigation, including those around the same tour stop.
 
@@ -1082,7 +1082,7 @@ Transcript Snippet: I never once accused Seth Dillon of murdering Charlie Kirk.
 
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-38, N-1
-Related Nodes: N-10237
+Related Nodes: N-10224
 Contradicts: C-2504
 Tags: relevance:core
 Investigative Direction: Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims.
@@ -1099,7 +1099,7 @@ Transcript Snippet: Seth Dillon, I told the truth that Seth Dillon lied about th
 
 Anchored Artifacts: 
 Mentions: N-3, N-38, N-1
-Related Nodes: N-10345, N-10016
+Related Nodes: N-10323, N-10016
 Supports: C-239
 Tags: relevance:core
 Investigative Direction: Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat.
@@ -1132,7 +1132,7 @@ Transcript Snippet: I distinctly remember the week that I was gloriously fired f
 
 Anchored Artifacts: A-1359.1
 Mentions: N-3, N-366, N-847
-Related Nodes: N-10900
+Related Nodes: N-10821
 Supports: C-2510
 Tags: relevance:context
 Investigative Direction: Check the date of the X Space (HuffPost cites March 25) against the date of the host's Daily Wire exit.
@@ -1149,7 +1149,7 @@ Transcript Snippet: when the Daily Wire position in 2024 was that their CEO coul
 
 Anchored Artifacts: A-1358.1, A-1359.1
 Mentions: N-366, N-201
-Related Nodes: N-10900
+Related Nodes: N-10821
 Qualifies: C-2510
 Tags: relevance:context
 Investigative Direction: Confirm the year of the X Space; the existing claim C-2510 gives March 25, 2025, which the transcript does not state.
@@ -1196,7 +1196,7 @@ Transcript Snippet: I have literal hundreds of them pertaining to Ben sending hi
 
 Anchored Artifacts: A-1360.1, A-1360.2
 Mentions: N-3, N-97, N-1
-Related Nodes: N-11231
+Related Nodes: N-11147
 Supports: C-2515
 Tags: relevance:context
 Investigative Direction: Examine the message archive and the cited YAF-linked articles for authorship and timing.
@@ -1244,7 +1244,7 @@ Transcript Snippet: Megan who was actually a very good friend to Charlie. Charli
 
 Anchored Artifacts: 
 Mentions: N-46, N-1
-Related Nodes: N-10406
+Related Nodes: N-10379
 Supports: C-254
 Tags: relevance:context
 Investigative Direction: Review Kelly's public statements about Kirk's last weeks and what he told her.
@@ -1352,7 +1352,7 @@ Transcript Snippet: That is exactly the moral blackmail that Charlie was speakin
 
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46, N-1
-Related Nodes: N-10106
+Related Nodes: N-10102
 Supports: C-847
 Tags: relevance:core
 Investigative Direction: Find Kirk's own statements using the phrase moral blackmail and the context in which he used it.
@@ -1369,7 +1369,7 @@ Transcript Snippet: It is pre-planned. It is not organic. The supporters are not
 
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46
-Related Nodes: N-10236
+Related Nodes: N-10223
 Tags: relevance:context
 Investigative Direction: Obtain the ticketing, seating and attendee data for the Kelly tour stop to test whether the audience reaction was coordinated.
 
@@ -1385,7 +1385,7 @@ Transcript Snippet: they were going to pass around a clip, but they were going t
 
 Anchored Artifacts: A-1361.1
 Mentions: N-3, N-235
-Related Nodes: N-10238
+Related Nodes: N-10225
 Supports: C-2528
 Tags: relevance:context
 Investigative Direction: Identify the original tipster at the Daily Wire and any message showing the plan to circulate the clip.
@@ -1402,7 +1402,7 @@ Transcript Snippet: apparently she got an email at 10 p. m., hopped on a plane, 
 
 Anchored Artifacts: A-1361.1
 Mentions: N-3, N-235
-Related Nodes: N-10238
+Related Nodes: N-10225
 Supports: C-2528
 Tags: relevance:context
 Investigative Direction: Seek the intern's identity, flight and email records, or attendee-list evidence from the event.
@@ -1435,7 +1435,7 @@ Transcript Snippet: That was orchestrated by Alyssa Cordova now that she's not a
 
 Anchored Artifacts: A-1361.1
 Mentions: N-229, N-3
-Related Nodes: N-10238, N-10900
+Related Nodes: N-10225, N-10821
 Tags: relevance:context
 Investigative Direction: Ask Cordova or former Daily Wire staff about the intern assignment and confirm Cordova's departure date.
 
@@ -1451,7 +1451,7 @@ Transcript Snippet: That is not organic. Okay? That is pro-Israel people that ar
 
 Anchored Artifacts: 
 Mentions: N-46, N-22
-Related Nodes: N-10236
+Related Nodes: N-10223
 Tags: relevance:context
 Investigative Direction: Obtain the audience-question sources and any payment or organizational links for the people who asked questions.
 
@@ -1467,7 +1467,7 @@ Transcript Snippet: I will find the people from they will be from YAF. They will
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
-Related Nodes: N-10236, N-11231
+Related Nodes: N-10223, N-11147
 Tags: relevance:context
 Investigative Direction: Compare any available ticket-holder list for the tour stop with YAF membership and staff rosters.
 
@@ -1500,7 +1500,7 @@ Transcript Snippet: it was a couple of days after Charlie was killed. First inte
 
 Anchored Artifacts: A-1362.1
 Mentions: N-3, N-1
-Related Nodes: N-11159
+Related Nodes: N-11075
 Supports: C-2538
 Tags: relevance:context
 Investigative Direction: Check CNN and the host's team for booking emails and the interview date.
@@ -1517,7 +1517,7 @@ Transcript Snippet: Anyways, she's the one passing around this clip because she 
 
 Anchored Artifacts: A-1362.1
 Mentions: N-234, N-3
-Related Nodes: N-11159
+Related Nodes: N-11075
 Tags: relevance:context
 Investigative Direction: Check Reeve's and CNN's social accounts for who first posted the clip.
 
@@ -1533,7 +1533,7 @@ Transcript Snippet: Who is they? And it's like >> because it sounds like you're 
 
 Anchored Artifacts: A-3025.1
 Mentions: N-234, N-3
-Related Nodes: N-11159
+Related Nodes: N-11075
 Tags: relevance:context
 Investigative Direction: Review the full CNN interview for the exact exchange on 'they'.
 
@@ -1549,7 +1549,7 @@ Transcript Snippet: When I say Zionists run the media, I mean Zionists run the m
 
 Anchored Artifacts: A-3025.1
 Mentions: N-3
-Related Nodes: N-11159
+Related Nodes: N-11075
 Tags: relevance:context
 Investigative Direction: Compare with the host's other statements on media ownership and the full CNN transcript.
 
@@ -1595,7 +1595,7 @@ Transcript Snippet: Israel has not been a great ally to the US all the way since
 
 Anchored Artifacts: A-1363.1
 Mentions: 
-Related Nodes: N-10451
+Related Nodes: N-10420
 Tags: relevance:tangential
 Investigative Direction: The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.
 
@@ -1641,7 +1641,7 @@ Transcript Snippet: they know about Jared uh and his deals with Ivanka and the M
 
 Anchored Artifacts: 
 Mentions: N-178, N-659
-Related Nodes: N-10063
+Related Nodes: N-10060
 Tags: relevance:context
 Investigative Direction: Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.
 
@@ -1657,7 +1657,7 @@ Transcript Snippet: we get to get lectured and told that we're not even allowed 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10081
+Related Nodes: N-10078
 Tags: relevance:context
 Investigative Direction: Identify specific campus arrests or state anti-semitism laws the host may be referring to.
 
@@ -1673,7 +1673,7 @@ Transcript Snippet: you thought that this generation was going to get behind it 
 
 Anchored Artifacts: 
 Mentions: N-36, N-34, N-374
-Related Nodes: N-11096
+Related Nodes: N-11014
 Tags: relevance:tangential
 Investigative Direction: Verify what the host means; check reporting on the TikTok US ownership deal and any Netanyahu statement about TikTok.
 
@@ -1705,7 +1705,7 @@ Transcript Snippet: We didn't do it immediately. It wasn't us. Oh, that's kind o
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10026, N-10056
+Related Nodes: N-10026, N-10053
 Tags: relevance:core
 Investigative Direction: Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements.
 
@@ -1736,7 +1736,7 @@ Transcript Snippet: the sense that I got with how he reacted and lied about how 
 
 Anchored Artifacts: A-3026.2
 Mentions: N-201, N-3
-Related Nodes: N-10424
+Related Nodes: N-10397
 Tags: relevance:context
 Investigative Direction: Compare the host's account of the interview planning with Fuentes's own account and any messages between their teams.
 
@@ -1776,7 +1776,7 @@ Investigative Direction: Identify the debate and the guest the host means and an
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger range (N-234+)
-- [x] Non-person investigation targets use the 1000 series (N-10236+)
+- [x] Non-person investigation targets use the 1000 series (N-10223+)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent

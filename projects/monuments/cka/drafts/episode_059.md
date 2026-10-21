@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-11387, N-11388
-  - Hole-minted Nodes (reintro-ep059): N-10694
-  - Tip-minted Nodes (reintro-ep059): N-11038, N-11122
+  - Tip-minted Nodes (supplement_2026-10g): N-11303, N-11304
+  - Hole-minted Nodes (reintro-ep059): N-10632
+  - Tip-minted Nodes (reintro-ep059): N-10956, N-11040
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5243–C-5333
-  - New Nodes Introduced: N-470, N-471, N-473, N-474, N-475, N-10425, N-10426, N-10429
-  - Reused Nodes Appearing: N-10427, N-10428, N-472, N-82, N-217, N-224, N-330, N-361, N-487, N-707, N-10000, N-10012, N-10367, N-10401, N-10421, N-10422, N-10899, N-11166
+  - New Nodes Introduced: N-470, N-471, N-473, N-474, N-475, N-10398, N-10399
+  - Reused Nodes Appearing: N-10251, N-10392, N-472, N-82, N-217, N-224, N-330, N-361, N-487, N-707, N-10000, N-10012, N-10342, N-10374, N-10394, N-10395, N-10820, N-11082
   - (see registers)
 
 ---
@@ -45,7 +45,7 @@ Claim Range: C-5249–C-5262
 
 New Nodes Introduced (people):  N-470, N-471, N-472, N-473, N-474, N-475
 
-New Nodes Introduced (investigation targets): N-10425, N-10426, N-10427, N-10428, N-10429
+New Nodes Introduced (investigation targets): N-10398, N-10399, N-10251, N-10392, N-10134
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:06:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5249, C-5250, C-5251, C-5264, N-470, N-10425*
+*Related: C-5249, C-5250, C-5251, C-5264, N-470, N-10398*
 
 **A-1643.2** LinkedIn profile page of Robert Eugene Flood displayed and scrolled through live, showing Marine staff sergeant service, Franklin Park Illinois employment, Army Reserve lieutenant colonel rank, FBI National Academy attendance, Texas master peace officer certification, and FBIAA membership
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:07:23–00:10:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (live-scrolled, partial capture)
 
-*Related: C-5252, C-5253, C-5254, C-5258, C-5261, N-470, N-10425*
+*Related: C-5252, C-5253, C-5254, C-5258, C-5261, N-470, N-10398*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:13:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5277, C-5275, C-5278, N-270, N-10425, N-10426*
+*Related: C-5277, C-5275, C-5278, N-270, N-10398, N-10399*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:15:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5283, C-5285, C-5286, C-5287, N-471, N-10425*
+*Related: C-5283, C-5285, C-5286, C-5287, N-471, N-10398*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:04:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10425*
+*Related: N-10398*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5292, C-5304, N-472, N-10427*
+*Related: C-5292, C-5304, N-472, N-10251*
 
 **A-1648.2** Zach De Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:20:34–00:22:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5292, N-472, N-10427*
+*Related: C-5292, N-472, N-10251*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:25:08–00:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5304, N-14, N-10427*
+*Related: C-5304, N-14, N-10251*
 
 **A-1649.2** Wide-angle shot image displayed on screen, presented by Andrew Kolvet as the photo Frank Turek mistook for drone footage (described as "a walkway or a bridge elevated" second-floor view)
 
@@ -189,7 +189,7 @@ Video Timestamp: 00:26:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5304, N-10427*
+*Related: C-5304, N-10251*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:31:02–00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5307, N-2, N-10428*
+*Related: C-5307, N-2, N-10392*
 
 **A-1650.2** Paraphrased TPUSA official response (received via email by host), stating that Erika Kirk "never lived" in China and "simply visited for 2 weeks"
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (not displayed; paraphrased)
 
-*Related: C-5310, N-2, N-10428*
+*Related: C-5310, N-2, N-10392*
 
 **A-1650.3** Charlie Kirk debate clip with Ben Carollo played on air, in which Charlie states "Unlike you, my wife lived in China for 6 months"
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:32:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5312, N-1, N-2, N-10428*
+*Related: C-5312, N-1, N-2, N-10392*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:34:31–00:35:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-5316, N-17, N-473, N-474, N-10429*
+*Related: C-5316, N-17, N-473, N-474, N-10134*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-10426*
+*Related: N-10399*
 
 **A-1653.4** "Jenny" comment read aloud, stating "I was in the gates program. We spoke about that. They were big mad when we suggested that the military was working on kids in these programs."
 
@@ -325,7 +325,7 @@ Video Timestamp: 00:46:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-2, N-10428*
+*Related: N-2, N-10392*
 
 **A-1653.8** "Candy Catty" comment read aloud, requesting video clips be shown on screen
 
@@ -441,7 +441,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1644.1, A-1653.1, C-5264, C-5277, C-5275, C-5278, C-5323, N-470, N-10425, N-10426*
+*Related: A-1643.1, A-1644.1, A-1653.1, C-5264, C-5277, C-5275, C-5278, C-5323, N-470, N-10398, N-10399*
 
 **N-470** Robert Eugene Flood
 
@@ -452,7 +452,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1643.2, A-1647.1, C-5249, C-5250, C-5251, C-5252, C-5253, C-5254, C-5258, C-5261, C-5264, C-5262, N-270, N-10425*
+*Related: A-1643.1, A-1643.2, A-1647.1, C-5249, C-5250, C-5251, C-5252, C-5253, C-5254, C-5258, C-5261, C-5264, C-5262, N-270, N-10398*
 
 **N-266** Brian Harpole
 
@@ -463,7 +463,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-471, N-10425, N-10426*
+*Related: N-471, N-10398, N-10399*
 
 **N-471** Bobby Harpole
 
@@ -474,7 +474,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1645.1, C-5283, C-5285, C-5286, C-5287, N-266, N-10425*
+*Related: A-1645.1, C-5283, C-5285, C-5286, C-5287, N-266, N-10398*
 
 **N-332** Greg Shaffer
 
@@ -485,7 +485,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-270, N-10425*
+*Related: N-270, N-10398*
 
 **N-456** Bill Montgomery
 
@@ -496,7 +496,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1, N-270, N-10425*
+*Related: N-1, N-270, N-10398*
 
 **N-472** Zach De Gregorio (Wolves and Finance)
 
@@ -518,7 +518,7 @@ Claim Count: 0 (own statements, not independent claims)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1649.1, N-10427*
+*Related: A-1649.1, N-10251*
 
 **N-7** Frank Turek
 
@@ -529,7 +529,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10427*
+*Related: N-10251*
 
 **N-460** Nelda Buckman
 
@@ -540,7 +540,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-461, N-10426*
+*Related: N-461, N-10399*
 
 **N-461** Karl Buckman
 
@@ -551,7 +551,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-460, N-10426*
+*Related: N-460, N-10399*
 
 **N-17** Rob McCoy
 
@@ -562,7 +562,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-5316, N-10429*
+*Related: A-1651.1, C-5316, N-10134*
 
 **N-473** Gary Hamrick
 
@@ -573,7 +573,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-5316, N-10429*
+*Related: A-1651.1, C-5316, N-10134*
 
 **N-474** Samuel Smadja
 
@@ -584,7 +584,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-5316, N-10429*
+*Related: A-1651.1, C-5316, N-10134*
 
 **N-475** Ben Carollo
 
@@ -599,7 +599,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10425** Dan Flood Family Law Enforcement Network
+**N-10398** Dan Flood Family Law Enforcement Network
 
 Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.
 
@@ -610,7 +610,7 @@ Investigative Pressure: Medium
 
 *Related: A-1643.1, A-1643.2, A-1644.1, A-1645.1, A-1646.1, C-5249–C-5287, C-5262, N-270, N-470, N-266, N-471, N-332*
 
-**N-10426** New Braunfels Texas Security Personnel Cluster
+**N-10399** New Braunfels Texas Security Personnel Cluster
 
 Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.
 
@@ -621,7 +621,7 @@ Investigative Pressure: Medium
 
 *Related: A-1644.1, A-1653.3, C-5275, N-270, N-460, N-461*
 
-**N-10427** TPUSA Drone Story Discrepancy
+**N-10251** TPUSA Drone Disclosure Discrepancy
 
 Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turek (drone footage with Charlie), Andrew Kolvet (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).
 
@@ -632,7 +632,7 @@ Investigative Pressure: High
 
 *Related: A-1648.1, A-1649.1, A-1649.2, C-5304, N-14, N-7*
 
-**N-10428** Erika Kirk China Timeline Discrepancy
+**N-10392** Erika Kirk China Timeline Discrepancy
 
 Persistent target reconciling three artifact-anchored statements about Erika Kirk's China residence: her own "living in China" claim (A-1650.1), Charlie's "6 months" claim (A-1650.3), and TPUSA's "2 weeks" official response (A-1650.2).
 
@@ -643,7 +643,7 @@ Investigative Pressure: High
 
 *Related: A-1650.1, A-1650.2, A-1650.3, C-5310, C-5312, C-5307, N-2*
 
-**N-10429** Operation Mocking Pastor / Cornerstone Chapel Event
+**N-10134** Operation Mocking Pastor
 
 Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.
 
@@ -768,7 +768,7 @@ Utah Valley University; the host of the event whose drone rules are disputed.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Fort Huachuca September 8-9, 2025 Eyewitness Encounter; the topic behind Mitch Snow's account.
 
@@ -776,7 +776,7 @@ Fort Huachuca September 8-9, 2025 Eyewitness Encounter; the topic behind Mitch S
 
 ---
 
-**N-10401** Romania / Eastern Europe Trafficking Cluster
+**N-10374** Romania / Eastern Europe Trafficking Cluster
 
 Romania / Eastern Europe Trafficking Cluster; related to Erika's Romanian orphanage work and the host's trafficking theme.
 
@@ -784,7 +784,7 @@ Romania / Eastern Europe Trafficking Cluster; related to Erika's Romanian orphan
 
 ---
 
-**N-10421** Buckman–TPUSA Donor Relationship Investigation
+**N-10394** Buckman–TPUSA Donor Relationship Investigation
 
 Buckman-TPUSA Donor Relationship Investigation; covers the top donors and the $10 million gift.
 
@@ -792,7 +792,7 @@ Buckman-TPUSA Donor Relationship Investigation; covers the top donors and the $1
 
 ---
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 GATE / Gifted Education Program Investigation; reused for the commenters' memory reports.
 
@@ -800,7 +800,7 @@ GATE / Gifted Education Program Investigation; reused for the commenters' memory
 
 ---
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Dan Flood Role and Behavior Assessment; reused for Flood's reported security presence at the event.
 
@@ -808,7 +808,7 @@ Dan Flood Role and Behavior Assessment; reused for Flood's reported security pre
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Paramount Tactical; the host says it told them the shot Frank Turek saw was only the wide shot.
 
@@ -816,7 +816,7 @@ Paramount Tactical; the host says it told them the shot Frank Turek saw was only
 
 ---
 
-**N-11038** Shaffer Security
+**N-10956** Shaffer Security
 
 Shaffer Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).
 
@@ -824,7 +824,7 @@ Shaffer Security; the security firm that the Shaffer Security hiring claim appea
 
 ---
 
-**N-11122** Creative Children's Academy / Quest Academy
+**N-11040** Creative Children's Academy / Quest Academy
 
 Creative Children's Academy / Quest Academy; the school the host calls the X-Men school.
 
@@ -832,7 +832,7 @@ Creative Children's Academy / Quest Academy; the school the host calls the X-Men
 
 ---
 
-**N-11166** Everyday Heroes Foundation
+**N-11082** Everyday Heroes Foundation
 
 Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China work.
 
@@ -840,7 +840,7 @@ Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China 
 
 ---
 
-**N-11387** Cattle Baron's Ball / Cattleman's Ball
+**N-11303** Cattle Baron's Ball / Cattleman's Ball
 
 Node Type: Organization
 The Dallas-founded American Cancer Society single-night fundraiser and a separate 501c3 Cattleman's Ball benefiting the Fred and Pamela Buffett Cancer Center, as described by the host; the emailer alleges the events launder money to buy off US police, which the host cannot confirm.
@@ -849,7 +849,7 @@ The Dallas-founded American Cancer Society single-night fundraiser and a separat
 
 ---
 
-**N-11388** Anonymous Emailer Cattleman's Ball and Flood Family Claims
+**N-11304** Anonymous Emailer Cattleman's Ball and Flood Family Claims
 
 Node Type: Topic
 Allegations the host relays from an anonymous emailer: JFK and Kirk assassination links, a Cattleman's Ball money laundering scheme and a connection of Dan Flood and his father to both; the host stresses she cannot verify them.
@@ -869,7 +869,7 @@ Claim: Per the profile of Robert Eugene Flood that the host shows, he is Chief D
 Anchored Artifacts: A-1643.1
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through Texas A&M University Police Department public records or alumni directories.
 
@@ -884,7 +884,7 @@ Claim: The displayed profile caption states Robert Flood retired after 35 years 
 Anchored Artifacts: A-1643.1
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through official retirement records and state police licensing databases.
 
@@ -899,7 +899,7 @@ Claim: The displayed profile states Robert Flood's final assignment was with the
 Anchored Artifacts: A-1643.1
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through Bosque County Sheriff's Office public records.
 
@@ -914,7 +914,7 @@ Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he g
 Anchored Artifacts: A-1643.2
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through FBI National Academy alumni records.
 
@@ -929,7 +929,7 @@ Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he s
 Anchored Artifacts: A-1643.2
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through military service records.
 
@@ -944,7 +944,7 @@ Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he w
 Anchored Artifacts: A-1643.2
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.
 
@@ -959,7 +959,7 @@ Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he a
 Anchored Artifacts: A-1643.2
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through Army Reserve official records.
 
@@ -974,7 +974,7 @@ Claim: Per Robert Flood's LinkedIn profile, which the host shows on screen, he i
 Anchored Artifacts: A-1643.2
 Mentions: N-470
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through FBIA membership rolls.
 
@@ -989,7 +989,7 @@ Claim: Host states that both of Dan Flood's mother and father are from Illinois,
 Anchored Artifacts: A-1643.1
 Mentions: N-270, N-470, N-1
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.
 
@@ -1004,7 +1004,7 @@ Claim: A social media post the host reads, from a self-described childhood frien
 Anchored Artifacts: A-1644.1
 Mentions: N-270
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through Allen Independent School District alumni records and the social media poster's identity.
 
@@ -1019,7 +1019,7 @@ Claim: Host states it as a confirmable fact that Dan Flood lives in New Braunfel
 Anchored Artifacts: A-1644.1
 Mentions: N-270
 
-Related Nodes: N-10426
+Related Nodes: N-10399
 
 Investigative Direction: Verify through address records, property records, or voter registration.
 
@@ -1034,7 +1034,7 @@ Claim: The childhood friend's social media post states he last saw Dan Flood "do
 Anchored Artifacts: A-1644.1
 Mentions: N-270
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Identify the billionaire referenced and verify through security firm records or event vendor lists.
 
@@ -1049,7 +1049,7 @@ Claim: Bobby Harpole states in his 2018 interview, "I was born in Denton, Texas.
 Anchored Artifacts: A-1645.1
 Mentions: N-471
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through public records.
 
@@ -1064,7 +1064,7 @@ Claim: Bobby Harpole states he began his law enforcement career in 1968 with the
 Anchored Artifacts: A-1645.1
 Mentions: N-471
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through TDPS historical employment records.
 
@@ -1079,7 +1079,7 @@ Claim: Bobby Harpole states he retired from TDPS as a sergeant in highway patrol
 Anchored Artifacts: A-1645.1
 Mentions: N-471
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through TDPS records.
 
@@ -1094,7 +1094,7 @@ Claim: Bobby Harpole states he served 12 years at the Erath County Sheriff's Off
 Anchored Artifacts: A-1645.1
 Mentions: N-471
 
-Related Nodes: N-10425
+Related Nodes: N-10398
 
 Investigative Direction: Verify through Erath County Sheriff's Office records.
 
@@ -1122,7 +1122,7 @@ Claim: The cease-and-desist letter states UVU prohibited TPUSA from flying drone
 
 Anchored Artifacts: A-1648.1
 
-Related Nodes: N-10427
+Related Nodes: N-10251
 
 Investigative Direction: Reconcile this letter content with Andrew Kolvet's earlier statement (A-1649.1) and Frank Turek's earlier statement regarding drone footage viewed with Charlie Kirk.
 
@@ -1139,7 +1139,7 @@ Claim: Per host's paraphrase of an official TPUSA response, Erika Kirk never liv
 Anchored Artifacts: A-1650.2
 Mentions: N-2
 
-Related Nodes: N-10428
+Related Nodes: N-10392
 
 Investigative Direction: Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-5312 and C-5307.
 
@@ -1154,7 +1154,7 @@ Claim: In the debate clip with Ben Carollo, Charlie Kirk states "Unlike you, my 
 Anchored Artifacts: A-1650.3
 Mentions: N-1, N-2, N-475
 
-Related Nodes: N-10428
+Related Nodes: N-10392
 
 Investigative Direction: Verify against the full debate transcript/recording.
 
@@ -1169,7 +1169,7 @@ Claim: In the on-air clip, Erika Kirk states she was "living in China and doing 
 Anchored Artifacts: A-1650.1
 Mentions: N-2
 
-Related Nodes: N-10428
+Related Nodes: N-10392
 
 Investigative Direction: Identify the specific China-based charity and verify scope and duration of her work.
 
@@ -1184,7 +1184,7 @@ Claim: A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a
 Anchored Artifacts: A-1651.1
 Mentions: N-17, N-473, N-474, N-22, N-3
 
-Related Nodes: N-10429
+Related Nodes: N-10134
 
 Investigative Direction: Verify the event actually occurred and document any public response.
 
@@ -1255,7 +1255,7 @@ Transcript Snippet: But he said that those same families were also involved in t
 
 Anchored Artifacts: A-3303.1
 Mentions: N-1, N-3, N-707
-Related Nodes: N-11388
+Related Nodes: N-11304
 Tags: relevance:context
 Investigative Direction: Only the emailer can substantiate this; the host presents it as unverified and no records are cited.
 
@@ -1271,7 +1271,7 @@ Transcript Snippet: which he claims is just one big massive money laundering ope
 
 Anchored Artifacts: A-3303.1
 Mentions: N-3
-Related Nodes: N-11387, N-11388
+Related Nodes: N-11303, N-11304
 Tags: relevance:tangential
 Investigative Direction: Obtain the emailer's evidence; review Cattle Baron's Ball and Cattleman's Ball IRS Form 990 filings for beneficiaries and expenditures.
 
@@ -1302,7 +1302,7 @@ Transcript Snippet: It's a single night fundraiser for the American Cancer Socie
 
 Anchored Artifacts: A-1646.1
 Mentions: N-3
-Related Nodes: N-11387
+Related Nodes: N-11303
 Tags: relevance:context
 Investigative Direction: Check the American Cancer Society's Cattle Baron's Ball pages for founding date, host cities and totals raised.
 
@@ -1318,7 +1318,7 @@ Transcript Snippet: which is the same exact idea but it benefits a different can
 
 Anchored Artifacts: A-1646.1
 Mentions: N-3
-Related Nodes: N-11387
+Related Nodes: N-11303
 Tags: relevance:context
 Investigative Direction: Look up the Cattleman's Ball nonprofit's registration and Form 990 and its relationship to the Buffett Cancer Center.
 
@@ -1334,7 +1334,7 @@ Transcript Snippet: Dan Flood is connected to both. You think it was an inside j
 
 Anchored Artifacts: A-3303.1
 Mentions: N-270, N-3
-Related Nodes: N-11388, N-10425
+Related Nodes: N-11304, N-10398
 Tags: relevance:context
 Investigative Direction: Test through public records on Dan Flood's security employers; the emailer's identity and evidence are unknown.
 
@@ -1350,7 +1350,7 @@ Transcript Snippet: That's right on the basically a couple of streets over from 
 
 Anchored Artifacts: A-1643.2
 Mentions: N-470, N-1
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Map Franklin Park against Kirk's documented childhood addresses; Franklin Park and Kirk's hometown are different suburbs, so distance should be measured.
 
@@ -1366,7 +1366,7 @@ Transcript Snippet: I then tried to find a single trace of his name mentioned in
 
 Anchored Artifacts: A-1643.2
 Mentions: N-470, N-3
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Search Franklin Park Police Department records, local newspaper archives and court filings for Robert Flood.
 
@@ -1382,7 +1382,7 @@ Transcript Snippet: Then this random electro rent corporation, which runs from T
 
 Anchored Artifacts: A-1643.2
 Mentions: N-470, N-3
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Capture the LinkedIn entry and confirm Electro Rent Corporation's role and dates.
 
@@ -1398,7 +1398,7 @@ Transcript Snippet: He was then the captain of police. And some of this is concu
 
 Anchored Artifacts: A-1643.2
 Mentions: N-470
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Verify with University Park Police Department and Texas peace officer licensing records.
 
@@ -1414,7 +1414,7 @@ Transcript Snippet: Okay, this guy, no question, is and was a fed.
 
 Anchored Artifacts: A-1643.2
 Mentions: N-470, N-3
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Her inference rests on a LinkedIn profile; confirm any federal service through FBI National Academy rosters and employment records.
 
@@ -1446,7 +1446,7 @@ Transcript Snippet: I would be willing to bet that Mr. Flood Dan's father Robert
 
 Anchored Artifacts: 
 Mentions: N-470, N-456, N-1, N-3
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Ask Montgomery or Robert Flood about any acquaintance; she offers it explicitly as a bet, not a finding.
 
@@ -1478,7 +1478,7 @@ Transcript Snippet: That school is Quest Academy in Palatine, Illinois. It was f
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:context
 Investigative Direction: Confirm Kirk's attendance and the school's former name through school and Illinois corporate records.
 
@@ -1494,7 +1494,7 @@ Transcript Snippet: the X-Men school that Charlie went to after they wanted to d
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:context
 Investigative Direction: Source is not given; look for Kirk or family accounts of the school and any medication recommendation.
 
@@ -1541,7 +1541,7 @@ Transcript Snippet: Bill Montgomery chose to hire Shaffer Security, which was ru
 
 Anchored Artifacts: 
 Mentions: N-456, N-332, N-270, N-266
-Related Nodes: N-11038, N-10425
+Related Nodes: N-10956, N-10398
 Tags: relevance:core
 Investigative Direction: Obtain the firm's Texas private security registration and staff lists; compare spelling with the Shaffer Security the host discusses in later episodes.
 
@@ -1557,7 +1557,7 @@ Transcript Snippet: He also is from Dallas, Texas, working for the FBI on the el
 
 Anchored Artifacts: 
 Mentions: N-332
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:core
 Investigative Direction: Verify through FBI career records, FOIA or Schaefer's own biography.
 
@@ -1573,7 +1573,7 @@ Transcript Snippet: Greg was at least stationed in Budapest.
 
 Anchored Artifacts: 
 Mentions: N-332
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Verify through FBI legal attache records or Schaefer's biography.
 
@@ -1589,7 +1589,7 @@ Transcript Snippet: Turning Point's number one donor who last year in June cut a
 
 Anchored Artifacts: 
 Mentions: N-460, N-461
-Related Nodes: N-10421
+Related Nodes: N-10394
 Supports: C-5184
 Tags: relevance:context
 Investigative Direction: Confirm the gift date and amount through TPUSA announcements and Florida headquarters naming records.
@@ -1606,7 +1606,7 @@ Transcript Snippet: The couple Nelda and Karl Buckman, they live there.
 
 Anchored Artifacts: 
 Mentions: N-460, N-461, N-2
-Related Nodes: N-10426, N-10421
+Related Nodes: N-10399, N-10394
 Supports: C-5182
 Tags: relevance:core
 Investigative Direction: Check property records in Comal County; compare dates with Erika Kirk's plane arrivals at New Braunfels.
@@ -1623,7 +1623,7 @@ Transcript Snippet: Yeah, this dude has been in private security for at least 20
 
 Anchored Artifacts: A-1644.1
 Mentions: N-270
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Identify the poster and confirm Flood's private security employers and licensing history.
 
@@ -1639,7 +1639,7 @@ Transcript Snippet: We've not noted that oddly all of Charlie's security that da
 
 Anchored Artifacts: 
 Mentions: N-487, N-270, N-266, N-1
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:core
 Investigative Direction: Compile the home states and prior employers of each member of the September 10 security team.
 
@@ -1655,7 +1655,7 @@ Transcript Snippet: Brian Harpole, you should know, was also born in Dallas, Tex
 
 Anchored Artifacts: 
 Mentions: N-266
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:core
 Investigative Direction: Verify through public records; note that Bobby Harpole's interview says he himself was born in Denton.
 
@@ -1671,7 +1671,7 @@ Transcript Snippet: back in 2018 when he was running for county sheriff in Erath
 
 Anchored Artifacts: A-1645.1
 Mentions: N-471
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Check Erath County 2018 election results and candidate filings.
 
@@ -1687,7 +1687,7 @@ Transcript Snippet: I was born in Denton, Texas, and grew up a quote unquote mil
 
 Anchored Artifacts: A-1645.1
 Mentions: N-471
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Locate the original 2018 interview and confirm the wording and publication.
 
@@ -1703,7 +1703,7 @@ Transcript Snippet: In fact, now his dad is working at a funeral home
 
 Anchored Artifacts: 
 Mentions: N-471, N-266
-Related Nodes: N-10425
+Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Verify current employment through public sources.
 
@@ -1719,7 +1719,7 @@ Transcript Snippet: This is this corruption goes back to Dallas in the 60s.
 
 Anchored Artifacts: A-3303.1
 Mentions: N-3
-Related Nodes: N-11388
+Related Nodes: N-11304
 Tags: relevance:context
 Investigative Direction: The emailer's evidence is unknown; the host presents it as a point he made, not as proven.
 
@@ -1797,7 +1797,7 @@ Transcript Snippet: First, Frank Turek came out and he said that while they were
 
 Anchored Artifacts: A-3308.1
 Mentions: N-7, N-1
-Related Nodes: N-10427
+Related Nodes: N-10251
 Supports: C-3110
 Tags: relevance:core
 Investigative Direction: Locate Turek's original interview and compare it with UVU drone authorization records.
@@ -1814,7 +1814,7 @@ Transcript Snippet: he moved to tell Shawn Ryan that actually there were no dron
 
 Anchored Artifacts: A-3308.2
 Mentions: N-266, N-224
-Related Nodes: N-10427, N-10012
+Related Nodes: N-10251, N-10012
 Supports: C-3106
 Tags: relevance:core
 Investigative Direction: Compare Harpole's Shawn Ryan interview with UVU's drone authorization records and TPUSA's request.
@@ -1831,7 +1831,7 @@ Transcript Snippet: my drone pilot had already made all the necessary steps with
 
 Anchored Artifacts: A-1649.1
 Mentions: 
-Related Nodes: N-10427
+Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Request the FAA authorization or waiver and flight log for the survey drone.
 
@@ -1847,7 +1847,7 @@ Transcript Snippet: Immediately we were um law enforcement came up and said,
 
 Anchored Artifacts: A-1649.1
 Mentions: 
-Related Nodes: N-10427, N-10012
+Related Nodes: N-10251, N-10012
 Tags: relevance:core
 Investigative Direction: Identify the officer and agency; request body camera footage and incident logs from UVU police.
 
@@ -1863,7 +1863,7 @@ Transcript Snippet: what we ended up having to do was leave campus. We flew the 
 
 Anchored Artifacts: A-1649.1
 Mentions: N-266
-Related Nodes: N-10427
+Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Obtain the drone pilot's flight log, locations and timestamps for the survey.
 
@@ -1879,7 +1879,7 @@ Transcript Snippet: It is a wide angle shot of the crowd from second floor.
 
 Anchored Artifacts: A-1649.1, A-1649.2
 Mentions: N-14
-Related Nodes: N-10427
+Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Request the original image file with metadata and the events team member who took it.
 
@@ -1895,7 +1895,7 @@ Transcript Snippet: They went up there to as they always did to show Charlie the
 
 Anchored Artifacts: A-1649.1, A-1649.2
 Mentions: N-14, N-1
-Related Nodes: N-10427
+Related Nodes: N-10251
 Tags: relevance:context
 Investigative Direction: Ask the events team about the routine and request the photographs with metadata.
 
@@ -1911,7 +1911,7 @@ Transcript Snippet: in the letter to Wolves and Finance he says no there were dr
 
 Anchored Artifacts: A-1648.1
 Mentions: N-14
-Related Nodes: N-10899, N-10427
+Related Nodes: N-10820, N-10251
 Supports: C-5304
 Tags: relevance:core
 Investigative Direction: Read the letter text and compare it with Kolvet's account and UVU's drone records.
@@ -1928,7 +1928,7 @@ Transcript Snippet: On December 7th I posted a video called Top 10 Clowns of the
 
 Anchored Artifacts: A-3305.1
 Mentions: N-472, N-7
-Related Nodes: N-10427
+Related Nodes: N-10251
 Tags: relevance:context
 Investigative Direction: Find the December 7 video on the Wolves and Finance channel.
 
@@ -1944,7 +1944,7 @@ Transcript Snippet: We were just told by Paramount Tactical and Andrew that was 
 
 Anchored Artifacts: 
 Mentions: N-14, N-7, N-3
-Related Nodes: N-10899, N-10427
+Related Nodes: N-10820, N-10251
 Tags: relevance:core
 Investigative Direction: Identify where and when Paramount Tactical made this statement.
 
@@ -1960,7 +1960,7 @@ Transcript Snippet: the theme of sex trafficking, it's coming up too much. Child
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10401
+Related Nodes: N-10374
 Supports: C-4720
 Tags: relevance:context
 Investigative Direction: List each source on the show that connected TPUSA to trafficking, and test each independently.
@@ -1977,7 +1977,7 @@ Transcript Snippet: I decided to create something called Everyday Heroes Like Yo
 
 Anchored Artifacts: A-1650.1
 Mentions: N-2
-Related Nodes: N-11166, N-10428
+Related Nodes: N-11082, N-10392
 Supports: C-5179
 Tags: relevance:core
 Investigative Direction: Obtain the charity's registration, Form 990 filings and grant recipients; confirm whether this is the same as Everyday Heroes Foundation.
@@ -1994,7 +1994,7 @@ Transcript Snippet: and then began to um phase that into working with the Marine
 
 Anchored Artifacts: A-1650.1
 Mentions: N-2
-Related Nodes: N-10401, N-10428
+Related Nodes: N-10374, N-10392
 Tags: relevance:core
 Investigative Direction: Identify the specific military units and the Romanian orphanage, and confirm dates and funds delivered.
 
@@ -2010,7 +2010,7 @@ Transcript Snippet: When you go to China, let me just tell you, you'll drive dow
 
 Anchored Artifacts: A-1650.3
 Mentions: N-1, N-475
-Related Nodes: N-10428
+Related Nodes: N-10392
 Tags: relevance:context
 Investigative Direction: Locate the full debate to confirm the date, setting and context of Kirk's China remarks.
 
@@ -2026,7 +2026,7 @@ Transcript Snippet: my wife lived in China for 6 months and she'll show you the 
 
 Anchored Artifacts: A-1650.3
 Mentions: N-1, N-2
-Related Nodes: N-10428
+Related Nodes: N-10392
 Supports: C-5312
 Tags: relevance:core
 Investigative Direction: Ask TPUSA or Erika Kirk for the videos and images from China, which would also date the stay.
@@ -2043,7 +2043,7 @@ Transcript Snippet: after doing a little bit of digging I saw on a real estate p
 
 Anchored Artifacts: A-3306.1
 Mentions: N-2, N-3
-Related Nodes: N-11166, N-10428
+Related Nodes: N-11082, N-10392
 Tags: relevance:core
 Investigative Direction: Capture the real estate profile and its date; the host does not name the listing.
 
@@ -2059,7 +2059,7 @@ Transcript Snippet: More tips at candace Owens. com. Like I said, I'm working on
 
 Anchored Artifacts: A-3304.1
 Mentions: N-2, N-3
-Related Nodes: N-10428
+Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: DIA beat; compare any viewer tips with Erika Kirk's own interview and TPUSA's two-week visit statement.
 
@@ -2075,7 +2075,7 @@ Transcript Snippet: Remember that was the church where we had the pastor get on 
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-10429
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Find the earlier Cornerstone service video; the transcript wording is garbled and the church name may differ from Cornerstone Chapel.
 
@@ -2091,7 +2091,7 @@ Transcript Snippet: somebody could ask him a question about why he's trying to r
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10429
+Related Nodes: N-10134
 Supports: C-2861
 Tags: relevance:context
 Investigative Direction: Compare with the earlier McCoy interview with a man who went to prison and was given access to children.
@@ -2154,7 +2154,7 @@ Transcript Snippet: Dan Flood was there, too. He was still providing security, w
 
 Anchored Artifacts: A-1653.1
 Mentions: N-270, N-69
-Related Nodes: N-10694
+Related Nodes: N-10632
 Supports: C-5323
 Tags: relevance:core
 Investigative Direction: Identify the event and date; request security staffing records and attendance confirmations.
@@ -2171,7 +2171,7 @@ Transcript Snippet: One person said to me that it was an intel base. I couldn't 
 
 Anchored Artifacts: A-1653.3
 Mentions: N-3
-Related Nodes: N-10426
+Related Nodes: N-10399
 Tags: relevance:context
 Investigative Direction: Search for military or intelligence facilities in Comal County; the host did not verify it.
 
@@ -2203,7 +2203,7 @@ Transcript Snippet: A lot of people in the gate program said this that they just
 
 Anchored Artifacts: A-1653.4
 Mentions: N-3
-Related Nodes: N-10422
+Related Nodes: N-10395
 Supports: C-5228
 Tags: relevance:context
 Investigative Direction: Collect first-person accounts and consider whether they match other gifted-program memory reports before drawing conclusions.
@@ -2235,7 +2235,7 @@ Transcript Snippet: speaking about Brigitte Macron and the weird child stuff tha
 
 Anchored Artifacts: A-1653.6
 Mentions: N-3, N-82
-Related Nodes: N-10401
+Related Nodes: N-10374
 Supports: C-4720
 Tags: relevance:context
 Investigative Direction: Separate the evidence for each thread; the host links them by theme rather than documents.
@@ -2252,7 +2252,7 @@ Transcript Snippet: You know you were there for six months and you should just t
 
 Anchored Artifacts: A-1653.7
 Mentions: N-2, N-3
-Related Nodes: N-10428
+Related Nodes: N-10392
 Supports: C-5312
 Contradicts: C-5310, C-5180
 Tags: relevance:core
@@ -2270,7 +2270,7 @@ Transcript Snippet: she was doing the whole Mitch Snow abused women 20 years ago
 
 Anchored Artifacts: 
 Mentions: N-361, N-330, N-3
-Related Nodes: N-10367
+Related Nodes: N-10342
 Tags: relevance:context
 Investigative Direction: Treat the allegation as unverified and attributed only to the commenter; check court records before any use.
 
@@ -2398,10 +2398,10 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-270+)
-- [x] Non-person investigation targets use the 1000 series (N-10425+)
+- [x] Non-person investigation targets use the 1000 series (N-10398+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly as spoken; uncertainties flagged
 - [x] Formatting consistent across registers
 - [x] Claim admission test applied; failures routed to Optional Flags
 - [x] Artifact-anchored contradictions flagged
-- [x] Global ID continuation rule followed (no reuse of A-1000–A-1642, C-1000–C-2123 (pre-2026-10-20 claim ids), N-1–N-263, N-10141–N-10424)
+- [x] Global ID continuation rule followed (no reuse of A-1000–A-1642, C-1000–C-2123 (pre-2026-10-20 claim ids), N-1–N-263, N-10136–N-10397)

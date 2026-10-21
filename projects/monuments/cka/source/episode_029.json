@@ -19,12 +19,12 @@
     "",
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (supplement_2026-10c): N-795, N-796, N-797",
-    "  - Hole-minted Nodes (reintro-ep029): N-225, N-451, N-10251, N-10401, N-10573, N-10576, N-10887",
-    "  - Tip-minted Nodes (reintro-ep029): N-11064, N-11147",
+    "  - Hole-minted Nodes (reintro-ep029): N-225, N-451, N-10237, N-10374, N-10524, N-10527, N-10808",
+    "  - Tip-minted Nodes (reintro-ep029): N-10982, N-11064",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-2558–C-2639",
-    "  - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10239, N-10240, N-10241",
-    "  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171, N-237, N-10242, N-10436, N-10447, N-11158, N-10434",
+    "  - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10226, N-10227, N-10228",
+    "  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10060, N-10075, N-10106, N-10127, N-10144, N-10188, N-10201, N-10202, N-10211, N-10218, N-10224, N-10239, N-10300, N-10371, N-10379, N-10763, N-11017, N-11075, N-11087, N-237, N-10405, N-10416, N-11074, N-10404",
     "  - (see registers)",
     "",
     "# Episode 29 Analysis – Bride of Charlie / Monument Ep 29",
@@ -46,7 +46,7 @@
     "**Episode 29 Ledger Summary**",
     "- Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)",
     "- New Person Nodes: N-236, N-237, N-238, N-239, N-240, N-7, N-38, N-241, N-242, N-227, N-243, N-244, N-22, N-245 (14 people)",
-    "- New Investigation Target Nodes: N-10239, N-10240, N-10241, N-10242 (4 targets)",
+    "- New Investigation Target Nodes: N-10226, N-10227, N-10228, N-10202 (4 targets)",
     "- Existing Nodes Reused: N-1 (Charlie Kirk)",
     "",
     "---",
@@ -262,7 +262,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-2567, N-236, N-237, N-238, N-10241*"
+     "raw": "*Related: C-2567, N-236, N-237, N-238, N-10228*"
     },
     {
      "raw": ""
@@ -313,7 +313,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-2570, N-238, N-239, N-10241*"
+     "raw": "*Related: C-2570, N-238, N-239, N-10228*"
     },
     {
      "raw": ""
@@ -772,7 +772,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-2595, N-10240*"
+     "raw": "*Related: C-2595, N-10227*"
     },
     {
      "raw": ""
@@ -823,7 +823,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-2559, N-10239*"
+     "raw": "*Related: C-2559, N-10226*"
     },
     {
      "raw": ""
@@ -1518,8 +1518,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10063",
-   "header": "**N-10063** Gaza",
+   "id": "N-10060",
+   "header": "**N-10060** Gaza",
    "label": "Gaza",
    "lines": [
     {
@@ -1547,8 +1547,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10078",
-   "header": "**N-10078** TPUSA Financial Apparatus Investigation",
+   "id": "N-10075",
+   "header": "**N-10075** TPUSA Financial Apparatus Investigation",
    "label": "TPUSA Financial Apparatus Investigation",
    "lines": [
     {
@@ -1576,8 +1576,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10110",
-   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "id": "N-10106",
+   "header": "**N-10106** Tyler Robinson Evidence Gaps",
    "label": "Tyler Robinson Evidence Gaps",
    "lines": [
     {
@@ -1605,8 +1605,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10132",
-   "header": "**N-10132** TPUSA DOGE Department / Financial Audit",
+   "id": "N-10127",
+   "header": "**N-10127** TPUSA DOGE Department / Financial Audit",
    "label": "TPUSA DOGE Department / Financial Audit",
    "lines": [
     {
@@ -1634,8 +1634,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10149",
-   "header": "**N-10149** Hospital Routing Discrepancy",
+   "id": "N-10144",
+   "header": "**N-10144** Hospital Routing Discrepancy",
    "label": "Hospital Routing Discrepancy",
    "lines": [
     {
@@ -1663,8 +1663,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10196",
-   "header": "**N-10196** UVU Hospital Charlie Kirk Medical File Access Question",
+   "id": "N-10188",
+   "header": "**N-10188** UVU Hospital Charlie Kirk Medical File Access Question",
    "label": "UVU Hospital Charlie Kirk Medical File Access Question",
    "lines": [
     {
@@ -1692,8 +1692,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10209",
-   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "id": "N-10201",
+   "header": "**N-10201** TPUSA Faith / Christian Zionist Infiltration Question",
    "label": "TPUSA Faith / Christian Zionist Infiltration Question",
    "lines": [
     {
@@ -1721,8 +1721,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10210",
-   "header": "**N-10210** NAR (New Apostolic Reformation) Infiltration Question",
+   "id": "N-10202",
+   "header": "**N-10202** NAR (New Apostolic Reformation) Infiltration Question",
    "label": "NAR (New Apostolic Reformation) Infiltration Question",
    "lines": [
     {
@@ -1750,8 +1750,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10224",
-   "header": "**N-10224** UVU Event Approval Timeline Anomaly",
+   "id": "N-10211",
+   "header": "**N-10211** UVU Event Approval Timeline Anomaly",
    "label": "UVU Event Approval Timeline Anomaly",
    "lines": [
     {
@@ -1779,8 +1779,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10231",
-   "header": "**N-10231** TPUSA / Candace Owens NDA and Blexit Question",
+   "id": "N-10218",
+   "header": "**N-10218** TPUSA / Candace Owens NDA and Blexit Question",
    "label": "TPUSA / Candace Owens NDA and Blexit Question",
    "lines": [
     {
@@ -1808,8 +1808,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10237",
-   "header": "**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations",
+   "id": "N-10224",
+   "header": "**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations",
    "label": "Shapiro Statement Accuracy Re: Owens' Accusations",
    "lines": [
     {
@@ -1837,8 +1837,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10251",
-   "header": "**N-10251** TPUSA Faith-Angle Investigation",
+   "id": "N-10237",
+   "header": "**N-10237** TPUSA Faith-Angle Investigation",
    "label": "TPUSA Faith-Angle Investigation",
    "lines": [
     {
@@ -1866,8 +1866,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10253",
-   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "id": "N-10239",
+   "header": "**N-10239** Egyptian Military Plane Tracking Investigation",
    "label": "Egyptian Military Plane Tracking Investigation",
    "lines": [
     {
@@ -1895,8 +1895,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10319",
-   "header": "**N-10319** .30-06 Forensic Narrative Validity",
+   "id": "N-10300",
+   "header": "**N-10300** .30-06 Forensic Narrative Validity",
    "label": ".30-06 Forensic Narrative Validity",
    "lines": [
     {
@@ -1924,8 +1924,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10398",
-   "header": "**N-10398** Turning Point USA Faith Structure",
+   "id": "N-10371",
+   "header": "**N-10371** Turning Point USA Faith Structure",
    "label": "Turning Point USA Faith Structure",
    "lines": [
     {
@@ -1953,8 +1953,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10401",
-   "header": "**N-10401** Romania / Eastern Europe Trafficking Cluster",
+   "id": "N-10374",
+   "header": "**N-10374** Romania / Eastern Europe Trafficking Cluster",
    "label": "Romania / Eastern Europe Trafficking Cluster",
    "lines": [
     {
@@ -1982,8 +1982,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10406",
-   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "id": "N-10379",
+   "header": "**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "lines": [
     {
@@ -2011,8 +2011,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10434",
-   "header": "**N-10434** Charlie Kirk DOGE Pre-Death Establishment",
+   "id": "N-10404",
+   "header": "**N-10404** Charlie Kirk DOGE Pre-Death Establishment",
    "label": "Charlie Kirk DOGE Pre-Death Establishment",
    "lines": [
     {
@@ -2040,8 +2040,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10436",
-   "header": "**N-10436** TPUSA Faith Military Infiltration Claim",
+   "id": "N-10405",
+   "header": "**N-10405** TPUSA Faith Military Infiltration Claim",
    "label": "TPUSA Faith Military Infiltration Claim",
    "lines": [
     {
@@ -2069,8 +2069,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10447",
-   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "id": "N-10416",
+   "header": "**N-10416** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "lines": [
     {
@@ -2098,8 +2098,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10573",
-   "header": "**N-10573** Timpanogos Hospital Evidence Question",
+   "id": "N-10524",
+   "header": "**N-10524** Timpanogos Hospital Evidence Question",
    "label": "Timpanogos Hospital Evidence Question",
    "lines": [
     {
@@ -2127,8 +2127,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10576",
-   "header": "**N-10576** Timpanogos Hospital Records / Chain of Custody",
+   "id": "N-10527",
+   "header": "**N-10527** Timpanogos Hospital Records / Chain of Custody",
    "label": "Timpanogos Hospital Records / Chain of Custody",
    "lines": [
     {
@@ -2156,8 +2156,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10840",
-   "header": "**N-10840** UVU Ambulance Denial Discrepancy",
+   "id": "N-10763",
+   "header": "**N-10763** UVU Ambulance Denial Discrepancy",
    "label": "UVU Ambulance Denial Discrepancy",
    "lines": [
     {
@@ -2185,8 +2185,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10887",
-   "header": "**N-10887** Las Vegas",
+   "id": "N-10808",
+   "header": "**N-10808** Las Vegas",
    "label": "Las Vegas",
    "lines": [
     {
@@ -2214,8 +2214,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11064",
-   "header": "**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative",
+   "id": "N-10982",
+   "header": "**N-10982** Ben Shapiro and Charlie Kirk Friendship Narrative",
    "label": "Ben Shapiro and Charlie Kirk Friendship Narrative",
    "lines": [
     {
@@ -2243,8 +2243,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11099",
-   "header": "**N-11099** Candace Owens Australia Visa Review",
+   "id": "N-11017",
+   "header": "**N-11017** Candace Owens Australia Visa Review",
    "label": "Candace Owens Australia Visa Review",
    "lines": [
     {
@@ -2272,8 +2272,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11147",
-   "header": "**N-11147** January 6 Federal Coordination Claim",
+   "id": "N-11064",
+   "header": "**N-11064** January 6 Federal Coordination Claim",
    "label": "January 6 Federal Coordination Claim",
    "lines": [
     {
@@ -2390,8 +2390,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11158",
-   "header": "**N-11158** Cult Accusation Against Candace Owens Audience",
+   "id": "N-11074",
+   "header": "**N-11074** Cult Accusation Against Candace Owens Audience",
    "label": "Cult Accusation Against Candace Owens Audience",
    "lines": [
     {
@@ -2423,8 +2423,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11159",
-   "header": "**N-11159** Candace Owens CNN Interview and Interview Statements",
+   "id": "N-11075",
+   "header": "**N-11075** Candace Owens CNN Interview and Interview Statements",
    "label": "Candace Owens CNN Interview and Interview Statements",
    "lines": [
     {
@@ -2580,7 +2580,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-10241*"
+     "raw": "*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-10228*"
     },
     {
      "raw": ""
@@ -2664,7 +2664,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-10242*"
+     "raw": "*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-10202*"
     },
     {
      "raw": ""
@@ -3058,8 +3058,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10239",
-   "header": "**N-10239** Timpanogos Hospital Footage Seizure Verification",
+   "id": "N-10226",
+   "header": "**N-10226** Timpanogos Hospital Footage Seizure Verification",
    "label": "Timpanogos Hospital Footage Seizure Verification",
    "lines": [
     {
@@ -3100,8 +3100,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10240",
-   "header": "**N-10240** Borderline Bar Las Vegas Survivor Pattern",
+   "id": "N-10227",
+   "header": "**N-10227** Borderline Bar Las Vegas Survivor Pattern",
    "label": "Borderline Bar Las Vegas Survivor Pattern",
    "lines": [
     {
@@ -3142,8 +3142,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10241",
-   "header": "**N-10241** Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
+   "id": "N-10228",
+   "header": "**N-10228** Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
    "label": "Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
    "lines": [
     {
@@ -3184,56 +3184,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10242",
-   "header": "**N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith",
-   "label": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader \"faith-military constellation\" with infiltration doctrine."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "k": "Evidence Count",
-     "v": "2"
-    },
-    {
-     "k": "Claim Count",
-     "v": "2"
-    },
-    {
-     "k": "Episode Count",
-     "v": "1"
-    },
-    {
-     "k": "Investigative Pressure",
-     "v": "Medium"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-240*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-11171",
-   "header": "**N-11171** Kirk \"Internet DOGE\" Money-Tracing Effort",
+   "id": "N-11087",
+   "header": "**N-11087** Kirk \"Internet DOGE\" Money-Tracing Effort",
    "label": "Kirk \"Internet DOGE\" Money-Tracing Effort",
    "lines": [
     {
@@ -3302,7 +3254,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10242"
+     "v": "N-10202"
     },
     {
      "raw": ""
@@ -3352,7 +3304,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10242"
+     "v": "N-10202"
     },
     {
      "raw": ""
@@ -3448,7 +3400,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10241"
+     "v": "N-10228"
     },
     {
      "raw": ""
@@ -3498,7 +3450,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10241"
+     "v": "N-10228"
     },
     {
      "raw": ""
@@ -3912,7 +3864,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10240"
+     "v": "N-10227"
     },
     {
      "raw": ""
@@ -3962,7 +3914,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10239"
+     "v": "N-10226"
     },
     {
      "raw": ""
@@ -4079,7 +4031,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10149, N-10239"
+     "v": "N-10144, N-10226"
     },
     {
      "k": "Tags",
@@ -4140,7 +4092,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10149, N-10196"
+     "v": "N-10144, N-10188"
     },
     {
      "k": "Tags",
@@ -4201,7 +4153,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10573"
+     "v": "N-10524"
     },
     {
      "k": "Tags",
@@ -4262,7 +4214,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10024, N-10573"
+     "v": "N-10024, N-10524"
     },
     {
      "k": "Tags",
@@ -4323,7 +4275,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10239, N-10576"
+     "v": "N-10226, N-10527"
     },
     {
      "k": "Supports",
@@ -4388,7 +4340,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10573, N-10239"
+     "v": "N-10524, N-10226"
     },
     {
      "k": "Tags",
@@ -4449,7 +4401,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11147"
+     "v": "N-11064"
     },
     {
      "k": "Tags",
@@ -4510,7 +4462,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10241"
+     "v": "N-10228"
     },
     {
      "k": "Supports",
@@ -4575,7 +4527,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11147"
+     "v": "N-11064"
     },
     {
      "k": "Tags",
@@ -4636,7 +4588,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10241"
+     "v": "N-10228"
     },
     {
      "k": "Tags",
@@ -4697,7 +4649,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11147, N-10210"
+     "v": "N-11064, N-10202"
     },
     {
      "k": "Tags",
@@ -4758,7 +4710,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10210, N-11147"
+     "v": "N-10202, N-11064"
     },
     {
      "k": "Tags",
@@ -4819,7 +4771,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10210, N-11147"
+     "v": "N-10202, N-11064"
     },
     {
      "k": "Tags",
@@ -4880,7 +4832,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10242"
+     "v": "N-10202"
     },
     {
      "k": "Tags",
@@ -4941,7 +4893,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10242"
+     "v": "N-10202"
     },
     {
      "k": "Supports",
@@ -5006,7 +4958,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10398, N-10251"
+     "v": "N-10371, N-10237"
     },
     {
      "k": "Tags",
@@ -5067,7 +5019,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10436"
+     "v": "N-10405"
     },
     {
      "k": "Supports",
@@ -5132,7 +5084,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10436"
+     "v": "N-10405"
     },
     {
      "k": "Tags",
@@ -5193,7 +5145,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10436"
+     "v": "N-10405"
     },
     {
      "k": "Tags",
@@ -5254,7 +5206,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10210, N-10209"
+     "v": "N-10202, N-10201"
     },
     {
      "k": "Tags",
@@ -5315,7 +5267,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10398, N-10000"
+     "v": "N-10371, N-10000"
     },
     {
      "k": "Tags",
@@ -5376,7 +5328,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10242, N-10398, N-10000"
+     "v": "N-10202, N-10371, N-10000"
     },
     {
      "k": "Tags",
@@ -5437,7 +5389,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10398"
+     "v": "N-10371"
     },
     {
      "k": "Tags",
@@ -5498,7 +5450,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10436"
+     "v": "N-10405"
     },
     {
      "k": "Tags",
@@ -5559,7 +5511,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10887"
+     "v": "N-10808"
     },
     {
      "k": "Tags",
@@ -5620,7 +5572,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10887"
+     "v": "N-10808"
     },
     {
      "k": "Tags",
@@ -5681,7 +5633,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10240, N-10887"
+     "v": "N-10227, N-10808"
     },
     {
      "k": "Tags",
@@ -5742,7 +5694,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10240"
+     "v": "N-10227"
     },
     {
      "k": "Tags",
@@ -5803,7 +5755,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10240"
+     "v": "N-10227"
     },
     {
      "k": "Tags",
@@ -5864,7 +5816,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10240"
+     "v": "N-10227"
     },
     {
      "k": "Tags",
@@ -5925,7 +5877,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10240"
+     "v": "N-10227"
     },
     {
      "k": "Tags",
@@ -5986,7 +5938,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10401"
+     "v": "N-10374"
     },
     {
      "k": "Tags",
@@ -6047,7 +5999,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10401"
+     "v": "N-10374"
     },
     {
      "k": "Supports",
@@ -6173,7 +6125,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11099"
+     "v": "N-11017"
     },
     {
      "k": "Tags",
@@ -6234,7 +6186,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10063"
+     "v": "N-10060"
     },
     {
      "k": "Tags",
@@ -6295,7 +6247,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10237, N-10406"
+     "v": "N-10224, N-10379"
     },
     {
      "k": "Tags",
@@ -6356,7 +6308,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11064"
+     "v": "N-10982"
     },
     {
      "k": "Supports",
@@ -6539,7 +6491,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10231"
+     "v": "N-10218"
     },
     {
      "k": "Tags",
@@ -6722,7 +6674,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10319, N-10447"
+     "v": "N-10300, N-10416"
     },
     {
      "k": "Tags",
@@ -6783,7 +6735,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10840, N-10000"
+     "v": "N-10763, N-10000"
     },
     {
      "k": "Supports",
@@ -6848,7 +6800,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10224"
+     "v": "N-10000, N-10211"
     },
     {
      "k": "Tags",
@@ -6970,7 +6922,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10253"
+     "v": "N-10239"
     },
     {
      "k": "Tags",
@@ -7271,7 +7223,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11158"
+     "v": "N-11074"
     },
     {
      "k": "Tags",
@@ -7332,7 +7284,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11158"
+     "v": "N-11074"
     },
     {
      "k": "Tags",
@@ -7393,7 +7345,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11158"
+     "v": "N-11074"
     },
     {
      "k": "Tags",
@@ -7454,7 +7406,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11158"
+     "v": "N-11074"
     },
     {
      "k": "Tags",
@@ -7572,7 +7524,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10319"
+     "v": "N-10300"
     },
     {
      "k": "Supports",
@@ -7637,7 +7589,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -7698,7 +7650,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10434, N-10132, N-10000, N-11171"
+     "v": "N-10404, N-10127, N-10000, N-11087"
     },
     {
      "k": "Supports",
@@ -7763,7 +7715,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10078, N-10000"
+     "v": "N-10075, N-10000"
     },
     {
      "k": "Supports",
@@ -7828,7 +7780,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10242, N-10398"
+     "v": "N-10202, N-10371"
     },
     {
      "k": "Supports",
@@ -7893,7 +7845,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10078, N-10000"
+     "v": "N-10075, N-10000"
     },
     {
      "k": "Tags",
@@ -7954,7 +7906,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Supports",
@@ -8019,7 +7971,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Tags",
@@ -8080,7 +8032,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11159"
+     "v": "N-11075"
     },
     {
      "k": "Tags",
@@ -8800,7 +8752,7 @@
    "lines": [
     "## VI. Optional Flags",
     "",
-    "- **Name uncertainty (N-238 / N-10241):** The episode alternates between \"Shauni Rae Kerkhoff\" (Steve Baker / Glenn Beck audio) and \"Shauni Kerkhoff\" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.",
+    "- **Name uncertainty (N-238 / N-10228):** The episode alternates between \"Shauni Rae Kerkhoff\" (Steve Baker / Glenn Beck audio) and \"Shauni Kerkhoff\" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.",
     "- **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-2559) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.",
     "- **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.",
     "- **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother \"storms\" the Borderline Bar (host-corrected herself mid-sentence to \"that Marine's mother\"); (f) the claim that Charlie Kirk had established \"DOAJ\"; (g) the claim that Kash Patel \"injected himself\" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.",
@@ -8814,7 +8766,7 @@
     "",
     "- Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378",
     "- New Person Nodes: N-236 – N-245",
-    "- New Investigation Target Nodes: N-10239 – N-10242",
+    "- New Investigation Target Nodes: N-10226 – N-10202",
     "- Existing Nodes Reused: N-1 (Charlie Kirk)"
    ]
   }

@@ -12,14 +12,14 @@
 - **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-11218
-  - Hole-minted Nodes (reintro-ep012): N-134, N-325, N-10156, N-10180, N-10192, N-10840
-  - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
+  - Tip-minted Nodes (supplement_2026-10d): N-11134
+  - Hole-minted Nodes (reintro-ep012): N-134, N-325, N-10172, N-10184, N-10763
+  - Tip-minted Nodes (reintro-ep012): N-10829, N-11083
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1072–C-1152
   - Tip-minted Nodes (reintro-ep012): N-783
-  - New Nodes Introduced: N-132, N-133, N-10149, N-10150, N-10151
-  - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-126, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144, N-10148, N-10146, N-11217, N-10147
+  - New Nodes Introduced: N-132, N-133, N-10144, N-10145, N-10146
+  - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-126, N-10000, N-10006, N-10012, N-10025, N-10032, N-10044, N-10045, N-10053, N-10073, N-10081, N-10082, N-10090, N-10099, N-10102, N-10111, N-10136, N-10139, N-10143, N-10141, N-11133, N-10142
 
 ## 3. Artifact Register
 
@@ -32,7 +32,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:16–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1094, N-61, N-10146*
+*Related: C-1094, N-61, N-10141*
 
 ---
 
@@ -45,7 +45,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:45–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1099, N-61, N-10146*
+*Related: C-1099, N-61, N-10141*
 
 ---
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:16:43–00:18:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1100, C-1101, N-61, N-10146*
+*Related: C-1100, C-1101, N-61, N-10141*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:19:58–00:20:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1104, N-10147*
+*Related: C-1104, N-10142*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:30:55–00:32:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1121, C-1125, N-133, N-69, N-10150*
+*Related: C-1121, C-1125, N-133, N-69, N-10145*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:21:52–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1108, N-125, N-10151*
+*Related: C-1108, N-125, N-10146*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:34:37–00:35:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1133, N-36, N-10148*
+*Related: C-1133, N-36, N-10143*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:19:14–00:19:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1104, N-10147*
+*Related: C-1104, N-10142*
 
 ---
 
@@ -299,7 +299,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1192.1, A-1192.2, C-1081, N-61, N-132, N-10147*
+*Related: A-1192.1, A-1192.2, C-1081, N-61, N-132, N-10142*
 
 ---
 
@@ -325,7 +325,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1191.1, C-1133, N-10148*
+*Related: A-1191.1, C-1133, N-10143*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1121, C-1125, N-69, N-10150*
+*Related: A-1189.1, C-1121, C-1125, N-69, N-10145*
 
 ---
 
@@ -351,7 +351,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1190.1, C-1108, N-10151*
+*Related: A-1190.1, C-1108, N-10146*
 
 ---
 
@@ -364,13 +364,13 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1121, N-133, N-10150*
+*Related: A-1189.1, C-1121, N-133, N-10145*
 
 ---
 
 ### Investigation Targets
 
-**N-10146** Phil Lyman Location Discrepancy
+**N-10141** Phil Lyman Location Discrepancy
 
 Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorensen Center building walking out calmly.
 
@@ -383,7 +383,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10147** Unidentified Goth Person in Broderick Companion Photo
+**N-10142** Unidentified Goth Person in Broderick Companion Photo
 
 The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site "Buzzards and Bees." Remains unidentified by name as of this episode.
 
@@ -396,7 +396,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Host assertion that approximately 48 hours before his death Charlie Kirk informed Turning Point USA staff, Jewish donors, and a rabbi that he was abandoning the pro-Israel cause, and that he intended to bring Candace Owens back. Currently host-testimony only with no displayed artifact in this episode; TPUSA has been publicly challenged to deny. Verification target.
 
@@ -409,7 +409,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10149** Hospital Routing Discrepancy
+**N-10144** Hospital Routing Discrepancy
 
 Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.
 
@@ -422,7 +422,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10150** Utah FBI Personnel Replacement
+**N-10145** Utah FBI Personnel Replacement
 
 Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bohls in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.
 
@@ -435,7 +435,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10151** Mike Mitchell Undercover Role Verification
+**N-10146** Mike Mitchell Undercover Role Verification
 
 Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.
 
@@ -575,7 +575,7 @@ Topic covering George Zinn's role as the decoy boy.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Topic covering donor pressure on Kirk about Israel.
 
@@ -583,7 +583,7 @@ Topic covering donor pressure on Kirk about Israel.
 
 ---
 
-**N-10048** Charlie Kirk Assassination Investigation
+**N-10045** Charlie Kirk Assassination Investigation
 
 Topic covering the assassination investigation as a whole.
 
@@ -591,7 +591,7 @@ Topic covering the assassination investigation as a whole.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Topic covering the dispute over Kirk's position on Israel and the letter.
 
@@ -599,7 +599,7 @@ Topic covering the dispute over Kirk's position on Israel and the letter.
 
 ---
 
-**N-10076** Cameragate Investigation
+**N-10073** Cameragate Investigation
 
 Topic covering the removal of cameras after the shooting.
 
@@ -607,7 +607,7 @@ Topic covering the removal of cameras after the shooting.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Topic covering the wound location and trajectory.
 
@@ -615,7 +615,7 @@ Topic covering the wound location and trajectory.
 
 ---
 
-**N-10086** Transponder / Plane Anomaly Investigation
+**N-10082** Transponder / Plane Anomaly Investigation
 
 Topic covering the plane transponder anomaly.
 
@@ -623,7 +623,7 @@ Topic covering the plane transponder anomaly.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 Church in which the host says Mike Mitchell is a Boy Scout leader.
 
@@ -631,7 +631,7 @@ Church in which the host says Mike Mitchell is a Boy Scout leader.
 
 ---
 
-**N-10103** Bulletproof Vest Absence
+**N-10099** Bulletproof Vest Absence
 
 Topic covering whether Kirk wore a bulletproof vest.
 
@@ -639,7 +639,7 @@ Topic covering whether Kirk wore a bulletproof vest.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Topic covering alleged donor leverage over Kirk.
 
@@ -647,7 +647,7 @@ Topic covering alleged donor leverage over Kirk.
 
 ---
 
-**N-10115** Soviet Education Infiltration
+**N-10111** Soviet Education Infiltration
 
 Topic cited for the host's claim of a communist underground targeting children.
 
@@ -655,7 +655,7 @@ Topic cited for the host's claim of a communist underground targeting children.
 
 ---
 
-**N-10141** Mike Mitchell Public Record Anomaly
+**N-10136** Mike Mitchell Public Record Anomaly
 
 Topic covering the thin public record on Mike Mitchell.
 
@@ -663,7 +663,7 @@ Topic covering the thin public record on Mike Mitchell.
 
 ---
 
-**N-10144** Phil Lyman Proximity and Behavior Investigation
+**N-10139** Phil Lyman Proximity and Behavior Investigation
 
 Topic covering Phil Lyman's proximity to and behavior in the investigation.
 
@@ -671,15 +671,7 @@ Topic covering Phil Lyman's proximity to and behavior in the investigation.
 
 ---
 
-**N-10156** Hospital Routing Anomaly
-
-Topic covering the hospital routing question.
-
-*Related: C-1120*
-
----
-
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Topic covering bullet trajectory and caliber questions.
 
@@ -687,7 +679,7 @@ Topic covering bullet trajectory and caliber questions.
 
 ---
 
-**N-10192** Camera Operator Behavior Pattern
+**N-10184** Camera Operator Behavior Pattern
 
 Topic covering the camera operator's behavior.
 
@@ -695,7 +687,7 @@ Topic covering the camera operator's behavior.
 
 ---
 
-**N-10840** UVU Ambulance Denial Discrepancy
+**N-10763** UVU Ambulance Denial Discrepancy
 
 Topic covering whether an ambulance stood by at the event.
 
@@ -703,7 +695,7 @@ Topic covering whether an ambulance stood by at the event.
 
 ---
 
-**N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
+**N-10829** Back-Camera and Platform Setup Introduction (2025 Tour)
 
 Topic covering the new back-camera and platform setup on the 2025 tour.
 
@@ -711,7 +703,7 @@ Topic covering the new back-camera and platform setup on the 2025 tour.
 
 ---
 
-**N-11167** Operation Underground Railroad
+**N-11083** Operation Underground Railroad
 Node Type: Organization
 Organization. Anti-trafficking charity formerly led by Tim Ballard; the host recalls its shirts on the owners of the transponder plane and a Lyman meeting with Ballard.
 
@@ -719,7 +711,7 @@ Organization. Anti-trafficking charity formerly led by Tim Ballard; the host rec
 
 ---
 
-**N-11217** Utah State University
+**N-11133** Utah State University
 
 Node Type: Organization
 Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after the UVU event.
@@ -728,7 +720,7 @@ Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after t
 
 ---
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 Node Type: Organization
 Organization. Hospital to which Kirk was taken; the host raises routing, trauma-level and leadership-change questions.
@@ -748,7 +740,7 @@ Claim: In a clip the host plays of his Alex Jones appearance, Phil Lyman says he
 Anchored Artifacts: A-1183.1
 Mentions: N-61, N-93
 
-Related Nodes: N-10146
+Related Nodes: N-10141
 
 Investigative Direction: Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1099) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.
 
@@ -763,7 +755,7 @@ Claim: In a NewsNation clip the host plays, Phil Lyman says he was walking into 
 Anchored Artifacts: A-1184.1
 Mentions: N-61
 
-Related Nodes: N-10146
+Related Nodes: N-10141
 
 Investigative Direction: Cross-reference timestamp of "ran out" with the 12:23 video metadata (A-1185.1) to determine whether Phil was inside or approaching at the moment of the shot.
 
@@ -778,7 +770,7 @@ Claim: The host says that, according to the metadata of the footage Phil Lyman s
 Anchored Artifacts: A-1185.1
 Mentions: N-61
 
-Related Nodes: N-10146
+Related Nodes: N-10141
 
 Investigative Direction: Obtain original file with full EXIF metadata; forensically confirm capture time, device, and chain of custody.
 
@@ -793,7 +785,7 @@ Claim: The host says Phil Lyman's aftermath video shows two individuals simply w
 Anchored Artifacts: A-1185.1
 Mentions: N-61, N-93
 
-Related Nodes: N-10146
+Related Nodes: N-10141
 
 Investigative Direction: Compare visible individuals in A-1185.1 with the two companions in the Broderick photo (A-1192.1); determine whether they are the same individuals.
 
@@ -808,7 +800,7 @@ Claim: The host says her team identified one of the two companions in the photo 
 Anchored Artifacts: A-1186.1
 Mentions: N-132, N-128
 
-Related Nodes: N-10147
+Related Nodes: N-10142
 
 Investigative Direction: Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Ohner's employment dates.
 
@@ -836,7 +828,7 @@ Claim: A viewer in Belfast, Northern Ireland, emailed the host that an internet-
 
 Anchored Artifacts: A-1194.1, A-1188.1
 
-Related Nodes: N-10147
+Related Nodes: N-10142
 
 Investigative Direction: Replicate the facial search; identify the named subject on the Buzzards and Bees page; determine whether the person is Austrian or otherwise foreign.
 
@@ -865,7 +857,7 @@ Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of
 Anchored Artifacts: A-1189.1
 Mentions: N-69, N-133, N-1
 
-Related Nodes: N-10150
+Related Nodes: N-10145
 
 Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bohls's transfer and the names of all removed personnel.
 
@@ -880,7 +872,7 @@ Claim: Per a November 1999 article the host shows, a Mike Mitchell, a detective 
 Anchored Artifacts: A-1190.1
 Mentions: N-125
 
-Related Nodes: N-10151
+Related Nodes: N-10146
 
 Investigative Direction: Confirm continuity between the 1999 Salt Lake County Sheriff's Office Mitchell and the Mike Mitchell referenced in the Charlie Kirk investigation; obtain his full service record.
 
@@ -895,7 +887,7 @@ Claim: The host says the New York Post and Israeli Post shared a May letter to N
 Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1
 
-Related Nodes: N-10148
+Related Nodes: N-10143
 
 Investigative Direction: Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim.
 
@@ -939,7 +931,7 @@ Claim: The host says she thinks Robert Bohls was in his first week at the Utah F
 Anchored Artifacts: A-1189.1
 Mentions: N-133, N-1
 
-Related Nodes: N-10150
+Related Nodes: N-10145
 
 Investigative Direction: Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10.
 
@@ -967,7 +959,7 @@ Transcript Snippet: the very people who were threatening him reputationally and 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056, N-10047
+Related Nodes: N-10053, N-10044
 Tags: relevance:context
 Investigative Direction: Identify the specific people and statements the host means and compare their pre-September 10 conduct toward Kirk with their post-assassination tributes.
 
@@ -983,7 +975,7 @@ Transcript Snippet: yesterday we asked for the public's help in identifying two 
 
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-128
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain Shaner Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.
 
@@ -999,7 +991,7 @@ Transcript Snippet: It took him a little over 2 weeks but now BB Netanyahu, with
 
 Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1
-Related Nodes: N-10000, N-10056
+Related Nodes: N-10000, N-10053
 Supports: C-1133
 Tags: relevance:context
 Investigative Direction: Establish who supplied the letter to the Prime Minister's office and to the press, and whether anyone at Turning Point USA coordinated its release.
@@ -1016,7 +1008,7 @@ Transcript Snippet: 20 minutes before I pulled into the driveway, my aunt's hous
 
 Anchored Artifacts: 
 Mentions: N-61
-Related Nodes: N-10006, N-10144
+Related Nodes: N-10006, N-10139
 Supports: C-1014
 Tags: relevance:core
 Investigative Direction: Locate the Fox News interview and compare Lyman's stated arrival time with the doorbell-camera footage of his vehicle.
@@ -1033,7 +1025,7 @@ Transcript Snippet: Shaner even created a map where exactly the killer walked an
 
 Anchored Artifacts: 
 Mentions: N-128
-Related Nodes: N-10144
+Related Nodes: N-10139
 Tags: relevance:core
 Investigative Direction: Identify which outlets published Broderick's map and how he determined the route.
 
@@ -1049,7 +1041,7 @@ Transcript Snippet: Phil would like me to clarify that Nick never worked on his 
 
 Anchored Artifacts: A-2999.1
 Mentions: N-3, N-61, N-126
-Related Nodes: N-10144
+Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the text exchange between the host and Lyman, and ask Nick how he described his relationship to the campaign.
 
@@ -1065,7 +1057,7 @@ Transcript Snippet: Nick was particularly asking him to determine who owned a wh
 
 Anchored Artifacts: A-2999.1
 Mentions: N-3, N-61, N-126
-Related Nodes: N-10144
+Related Nodes: N-10139
 Supports: C-1038
 Tags: relevance:core
 Investigative Direction: Ask Nick and Lyman what, if anything, Lyman learned about the white vehicle and why that was a reason to visit on that Saturday.
@@ -1082,7 +1074,7 @@ Transcript Snippet: I am told according to a very strong source that what Phil L
 
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-325
-Related Nodes: N-11167
+Related Nodes: N-11083
 Tags: relevance:context
 Investigative Direction: Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.
 
@@ -1098,7 +1090,7 @@ Transcript Snippet: the individuals that owned that plane were wearing an Operat
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11167, N-10086
+Related Nodes: N-11083, N-10082
 Tags: relevance:core
 Investigative Direction: Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.
 
@@ -1114,7 +1106,7 @@ Transcript Snippet: Actually maybe Shaner's confused.
 
 Anchored Artifacts: A-2999.1
 Mentions: N-61, N-128, N-3
-Related Nodes: N-10144
+Related Nodes: N-10139
 Contradicts: C-1081
 Tags: relevance:core
 Investigative Direction: Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.
@@ -1146,7 +1138,7 @@ Transcript Snippet: He's also completely wiped his Facebook page entirely. And r
 
 Anchored Artifacts: 
 Mentions: N-128, N-3
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.
 
@@ -1162,7 +1154,7 @@ Transcript Snippet: I asked Phil Lyman three times via text whether or not he co
 
 Anchored Artifacts: A-2999.1
 Mentions: N-3, N-61, N-128
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the text thread showing each request and Lyman's replies.
 
@@ -1178,7 +1170,7 @@ Transcript Snippet: And then finally he said that he had no idea who those two i
 
 Anchored Artifacts: A-2999.1
 Mentions: N-61, N-3
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the text thread with Lyman and ask Broderick who the two companions were.
 
@@ -1194,7 +1186,7 @@ Transcript Snippet: no one emailed us to say that they knew either of those two 
 
 Anchored Artifacts: 
 Mentions: N-3, N-128
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.
 
@@ -1210,7 +1202,7 @@ Transcript Snippet: He kind of resembles certainly more so than Tyler Robinson d
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Compare the blue-hat man's height and build with the blurred stairs frame and with Robinson using a calibrated photogrammetric comparison.
 
@@ -1226,7 +1218,7 @@ Transcript Snippet: We were able to identify one of those individuals in the pho
 
 Anchored Artifacts: A-1187.1
 Mentions: N-3, N-132
-Related Nodes: N-10147
+Related Nodes: N-10142
 Supports: C-1091
 Tags: relevance:core
 Investigative Direction: Verify Gernot Ohner's nationality and Utah residency through public records and his employer.
@@ -1243,7 +1235,7 @@ Transcript Snippet: suggesting that {quote} {unquote} gothic girls might have be
 
 Anchored Artifacts: A-1183.1
 Mentions: N-3, N-61
-Related Nodes: N-10146
+Related Nodes: N-10141
 Supports: C-1022
 Tags: relevance:core
 Investigative Direction: Review the Alex Jones segment to determine whether Lyman himself drew that implication.
@@ -1260,7 +1252,7 @@ Transcript Snippet: gratefully, Phil Lyman did send us footage of him after the 
 
 Anchored Artifacts: A-1185.1
 Mentions: N-3, N-61
-Related Nodes: N-10146
+Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Run audio analysis on the original file to count discrete shots and compare with the shot count in other recordings.
 
@@ -1276,7 +1268,7 @@ Transcript Snippet: Well, that's not the story that came was that he that he esc
 
 Anchored Artifacts: A-1183.1
 Mentions: N-61, N-93
-Related Nodes: N-10146
+Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Obtain the full Alex Jones interview and ask Lyman who told him about the video and which route he meant.
 
@@ -1292,7 +1284,7 @@ Transcript Snippet: I do not believe that that.30-06 that they showed recovered 
 
 Anchored Artifacts: A-1183.1
 Mentions: N-61, N-93, N-40
-Related Nodes: N-10146, N-10180
+Related Nodes: N-10141, N-10172
 Tags: relevance:core
 Investigative Direction: Compare Lyman's statement with the official account of where the rifle was recovered and with the evidence logs.
 
@@ -1308,7 +1300,7 @@ Transcript Snippet: in hindsight, I think it was probably above me on the roof.
 
 Anchored Artifacts: A-1184.1
 Mentions: N-61
-Related Nodes: N-10146
+Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Obtain the NewsNation segment and compare with Lyman's Alex Jones account of where the shot came from.
 
@@ -1324,7 +1316,7 @@ Transcript Snippet: When he hears them say something about FU, it's before he ha
 
 Anchored Artifacts: A-1185.1
 Mentions: N-61
-Related Nodes: N-10146
+Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: Review the original video with clean audio to establish the order of the remark and the conversation.
 
@@ -1340,7 +1332,7 @@ Transcript Snippet: So he says, "Did you see where that came from?" It seems lik
 
 Anchored Artifacts: A-1185.1
 Mentions: N-61
-Related Nodes: N-10146
+Related Nodes: N-10141
 Supports: C-1101
 Tags: relevance:core
 Investigative Direction: Obtain enhanced audio of the exchange and, if possible, identify the two people to ask what they heard.
@@ -1357,7 +1349,7 @@ Transcript Snippet: I am certain can't say 100%, okay? Because we need to find t
 
 Anchored Artifacts: A-1188.1
 Mentions: N-3
-Related Nodes: N-10147
+Related Nodes: N-10142
 Supports: C-1104
 Tags: relevance:core
 Investigative Direction: Have an independent facial examiner compare the two images and identify the person named on the Buzzards and Bees page.
@@ -1374,7 +1366,7 @@ Transcript Snippet: he's a Boy Scout leader uh in the LDS church
 
 Anchored Artifacts: 
 Mentions: N-125, N-3
-Related Nodes: N-10094, N-10141
+Related Nodes: N-10090, N-10136
 Tags: relevance:context
 Investigative Direction: Verify with LDS Church and Scouting records whether the Mike Mitchell involved in the case holds a Scout leadership role.
 
@@ -1390,7 +1382,7 @@ Transcript Snippet: he was on the force for 25 years. This individual began his 
 
 Anchored Artifacts: 
 Mentions: N-125, N-3
-Related Nodes: N-10141, N-10151
+Related Nodes: N-10136, N-10146
 Supports: C-1002
 Tags: relevance:core
 Investigative Direction: Obtain Mitchell's service record to reconcile a 1999 start with a 1999 article saying he had already worked internet cases for about a year.
@@ -1407,7 +1399,7 @@ Transcript Snippet: Just because he's creating messages online first and foremos
 
 Anchored Artifacts: 
 Mentions: N-125, N-3
-Related Nodes: N-10151, N-10032
+Related Nodes: N-10146, N-10032
 Qualifies: C-1108
 Tags: relevance:core
 Investigative Direction: Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.
@@ -1457,7 +1449,7 @@ Transcript Snippet: I would I would venture a guess that he is not from Utah bec
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzards and Bees page history.
 
@@ -1473,7 +1465,7 @@ Transcript Snippet: that's what I want you to focus your attention on, tips@cand
 
 Anchored Artifacts: A-2998.1
 Mentions: N-3
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:context
 Investigative Direction: Review the tip-line inbox for submissions naming the goth person, and log any that can be verified independently.
 
@@ -1489,7 +1481,7 @@ Transcript Snippet: I'm starting to think that the assassination of Charlie Kirk
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10048
+Related Nodes: N-10045
 Tags: relevance:core
 Investigative Direction: Identify the specific advisers and decisions she suggests were part of a betrayal, and the documents that would show them.
 
@@ -1505,7 +1497,7 @@ Transcript Snippet: even though I don't think he was actually wearing a bullet v
 
 Anchored Artifacts: A-1195.1
 Mentions: N-1, N-3
-Related Nodes: N-10103
+Related Nodes: N-10099
 Supports: C-1115
 Tags: relevance:core
 Investigative Direction: Check autopsy and clothing evidence for any body armor, and the footage of Charlie before the event.
@@ -1522,7 +1514,7 @@ Transcript Snippet: why Charlie was set to do two events in Utah a mere 20 days 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10012, N-11217, N-10000
+Related Nodes: N-10012, N-11133, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates.
 
@@ -1570,7 +1562,7 @@ Transcript Snippet: the hospital that Charlie was taken to is not the closest ho
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11218, N-10149, N-10156
+Related Nodes: N-11134, N-10144
 Tags: relevance:core
 Investigative Direction: Obtain trauma-center designations and drive-time data from the campus to the candidate hospitals, plus the EMS run sheet.
 
@@ -1586,7 +1578,7 @@ Transcript Snippet: that hospital had just announced that they had a a brand new
 
 Anchored Artifacts: 
 Mentions: N-134, N-3
-Related Nodes: N-11218, N-10149
+Related Nodes: N-11134, N-10144
 Tags: relevance:core
 Investigative Direction: Confirm the date and press release of the CEO announcement and his appointment dates.
 
@@ -1602,7 +1594,7 @@ Transcript Snippet: that there wouldn't have been an ambulance on standby.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10840
+Related Nodes: N-10763
 Tags: relevance:core
 Investigative Direction: Check Utah event-safety rules and the event permit for medical-standby requirements, and ask UVU whether an ambulance was present.
 
@@ -1618,7 +1610,7 @@ Transcript Snippet: that was also the day that they announced Charlie's tour. Th
 
 Anchored Artifacts: 
 Mentions: N-134, N-1, N-3
-Related Nodes: N-11218, N-10000
+Related Nodes: N-11134, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the hospital's press release date with the tour announcement date.
 
@@ -1634,7 +1626,7 @@ Transcript Snippet: the individual who I told you guys that I recognized had tak
 
 Anchored Artifacts: A-3001.1
 Mentions: N-3
-Related Nodes: N-10076, N-10192
+Related Nodes: N-10073, N-10184
 Supports: C-376
 Tags: relevance:core
 Investigative Direction: Compare the camera-removal timing with the video timeline and obtain the footage showing it.
@@ -1651,7 +1643,7 @@ Transcript Snippet: I thought it was weird that he was there in general, actuall
 
 Anchored Artifacts: A-3001.1
 Mentions: N-1, N-3
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Establish the man's assigned role at the event and review stage footage of his position.
 
@@ -1667,7 +1659,7 @@ Transcript Snippet: the mysterious phone call that he was seen making in like mi
 
 Anchored Artifacts: A-3001.1
 Mentions: N-3
-Related Nodes: N-10192
+Related Nodes: N-10184
 Tags: relevance:core
 Investigative Direction: Obtain the footage of the call and, through lawful process, the call record to identify the recipient.
 
@@ -1683,7 +1675,7 @@ Transcript Snippet: Charlie's super ambitious and on the AVs thing, they were tr
 
 Anchored Artifacts: A-3001.1
 Mentions: N-3
-Related Nodes: N-10908, N-10076
+Related Nodes: N-10829, N-10073
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what the new AV setup was, where the feed went, and whether the feed was recorded.
 
@@ -1699,7 +1691,7 @@ Transcript Snippet: Charlie Kirk's perspective on Israel was not starting to shi
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056, N-10148
+Related Nodes: N-10053, N-10143
 Tags: relevance:core
 Investigative Direction: Gather Kirk's private messages, donor communications and on-air statements from 2025 showing his position.
 
@@ -1715,7 +1707,7 @@ Transcript Snippet: Israel knew that. Turning Point USA knew that because Charli
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10056
+Related Nodes: N-10000, N-10053
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff who heard Kirk state his position and whether any statements were recorded.
 
@@ -1731,7 +1723,7 @@ Transcript Snippet: Netanyahu said they were close, but in the letter, Charlie p
 
 Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1, N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Supports: C-1133
 Tags: relevance:core
 Investigative Direction: Obtain the letter and compare the number given with Kirk's known numbers and with Netanyahu's contact records.
@@ -1748,7 +1740,7 @@ Transcript Snippet: Can somebody clarify, was that an email they were sharing or
 
 Anchored Artifacts: A-1191.1
 Mentions: N-3
-Related Nodes: N-10056
+Related Nodes: N-10053
 Tags: relevance:core
 Investigative Direction: Request the original message with headers or the postal record from the Prime Minister's office or TPUSA.
 
@@ -1764,7 +1756,7 @@ Transcript Snippet: I think the same people that were pressuring Charlie are pre
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10047
+Related Nodes: N-10000, N-10044
 Tags: relevance:core
 Investigative Direction: Ask the host for the basis of her knowledge and cross-check with TPUSA donor and board correspondence.
 
@@ -1780,7 +1772,7 @@ Transcript Snippet: I'm going to challenge Turning Point USA executives to issue
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10148
+Related Nodes: N-10000, N-10143
 Tags: relevance:context
 Investigative Direction: Monitor TPUSA statements for any explicit denial or confirmation.
 
@@ -1796,7 +1788,7 @@ Transcript Snippet: About 48 hours before Charlie Kirk died, Charlie informed pe
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10148, N-10000
+Related Nodes: N-10143, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the staff, donors and rabbi present and obtain contemporaneous notes, messages or testimony.
 
@@ -1812,7 +1804,7 @@ Transcript Snippet: He said it explicitly that he refused to be bullied anymore 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10047, N-10106
+Related Nodes: N-10044, N-10102
 Tags: relevance:core
 Investigative Direction: Seek witnesses and recordings of the statement and compare with Kirk's earlier remarks on donor pressure.
 
@@ -1828,7 +1820,7 @@ Transcript Snippet: just 48 hours later, conveniently catch a bullet to the thro
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Obtain any scheduling or communications between Kirk and the host about a joint appearance.
 
@@ -1860,7 +1852,7 @@ Transcript Snippet: In fact, the friends of Israel were pressuring him really ba
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10056, N-10047
+Related Nodes: N-10053, N-10044
 Tags: relevance:core
 Investigative Direction: Gather Kirk's statements and communications from the weeks before his death showing the pressure described.
 
@@ -1922,7 +1914,7 @@ Transcript Snippet: There is a real underground. It is a communist underground.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10115
+Related Nodes: N-10111
 Tags: relevance:tangential
 Investigative Direction: No concrete record is cited; ask the host for the organizations and documents she means.
 
@@ -1953,7 +1945,7 @@ Transcript Snippet: Keyholing is if the bullet is too slow and tumbles and has e
 
 Anchored Artifacts: A-3000.1
 Mentions: N-3
-Related Nodes: N-10180
+Related Nodes: N-10172
 Supports: C-1059
 Tags: relevance:context
 Investigative Direction: Have a forensic ballistics expert review the wound and autopsy record to say whether keyholing or internal deflection is consistent.
@@ -1970,7 +1962,7 @@ Transcript Snippet: the idea that Charlie was paralyzed when he died ends today.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and medical records and compare with the paralysis narrative.
 
@@ -1986,7 +1978,7 @@ Transcript Snippet: We are still working to identify our goth suspect. It is not
 
 Anchored Artifacts: 
 Mentions: N-3, N-128
-Related Nodes: N-10147
+Related Nodes: N-10142
 Supports: C-1104
 Tags: relevance:core
 Investigative Direction: Identify the person via the Buzzards and Bees prom organizers and attendee lists.
@@ -2003,7 +1995,7 @@ Transcript Snippet: If you know something, please send us tips@candaceowens. com
 
 Anchored Artifacts: A-2998.2
 Mentions: N-3
-Related Nodes: N-10147
+Related Nodes: N-10142
 Tags: relevance:context
 Investigative Direction: Review incoming tips for any naming the person pictured in the Buzzards and Bees prom page.
 
@@ -2019,7 +2011,7 @@ Transcript Snippet: Some other stuff that I've been holding close to my chest ab
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Await the follow-up episode and compare with the autopsy and medical records.
 

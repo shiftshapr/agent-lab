@@ -30,7 +30,7 @@
             "C-10310"
           ],
           "related_nodes": [
-            "N-10682"
+            "N-10620"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,7 +56,7 @@
             "C-10313"
           ],
           "related_nodes": [
-            "N-10683"
+            "N-10621"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
             "C-10324"
           ],
           "related_nodes": [
-            "N-10686"
+            "N-10624"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -95,7 +95,7 @@
             "C-10326"
           ],
           "related_nodes": [
-            "N-10695"
+            "N-10633"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -113,7 +113,7 @@
             "C-10330"
           ],
           "related_nodes": [
-            "N-10695"
+            "N-10633"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
             "C-10349"
           ],
           "related_nodes": [
-            "N-10688"
+            "N-10626"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -166,7 +166,7 @@
             "C-10330"
           ],
           "related_nodes": [
-            "N-10685"
+            "N-10623"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
             "C-10339"
           ],
           "related_nodes": [
-            "N-10685"
+            "N-10623"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,7 +202,7 @@
             "C-10340"
           ],
           "related_nodes": [
-            "N-10685"
+            "N-10623"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,7 +220,7 @@
             "C-10310"
           ],
           "related_nodes": [
-            "N-10682"
+            "N-10620"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -246,7 +246,7 @@
             "C-10330"
           ],
           "related_nodes": [
-            "N-10695"
+            "N-10633"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
             "C-10363"
           ],
           "related_nodes": [
-            "N-10689"
+            "N-10627"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -339,7 +339,7 @@
             "C-10369"
           ],
           "related_nodes": [
-            "N-10689"
+            "N-10627"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -357,7 +357,7 @@
             "C-10375"
           ],
           "related_nodes": [
-            "N-10689"
+            "N-10627"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -383,7 +383,7 @@
             "C-10355"
           ],
           "related_nodes": [
-            "N-10690"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -409,7 +409,7 @@
             "C-10378"
           ],
           "related_nodes": [
-            "N-10683"
+            "N-10621"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -427,7 +427,7 @@
             "C-10382"
           ],
           "related_nodes": [
-            "N-10683"
+            "N-10621"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -445,7 +445,7 @@
             "C-10380"
           ],
           "related_nodes": [
-            "N-10691"
+            "N-10629"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -531,7 +531,7 @@
           "description": "Comment re: police car observation (someone appearing to jump out)",
           "related_claims": [],
           "related_nodes": [
-            "N-10686"
+            "N-10624"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -547,7 +547,7 @@
           "description": "Palladian comment disputing DID theory",
           "related_claims": [],
           "related_nodes": [
-            "N-10690"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -573,7 +573,7 @@
             "C-10335"
           ],
           "related_nodes": [
-            "N-10685"
+            "N-10623"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -695,8 +695,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10682",
-      "ref": "N-10682",
+      "@id": "N-10620",
+      "ref": "N-10620",
       "name": "USB Logo on Glass Shard Identification",
       "type": "investigation_target",
       "description": "Persistent question of whether the white on shattered glass shards in the SUV matches the Rode Rode mic USB icon.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10683",
-      "ref": "N-10683",
+      "@id": "N-10621",
+      "ref": "N-10621",
       "name": "Brian Harpole ER Story Plausibility",
       "type": "investigation_target",
       "description": "Persistent question of whether Brian Harpole's account of cutting Charlie's shirt in the ER matches actual ER protocol and physical reality.",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10684",
-      "ref": "N-10684",
+      "@id": "N-10622",
+      "ref": "N-10622",
       "name": "Brian Harpole Shirt Removal Event Timing",
       "type": "investigation_target",
       "description": "Question of whether Charlie's shirt was removed in the car vs. in the ER.",
@@ -759,8 +759,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10685",
-      "ref": "N-10685",
+      "@id": "N-10623",
+      "ref": "N-10623",
       "name": "Car Interior Shards and Blood Evidence Pattern",
       "type": "investigation_target",
       "description": "Question of what the patterns of shards and blood evidence in the SUV actually indicate about events.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10686",
-      "ref": "N-10686",
+      "@id": "N-10624",
+      "ref": "N-10624",
       "name": "Hospital Transport Sequence Discrepancy",
       "type": "investigation_target",
       "description": "Question of conflicting accounts (Brian Harpole, Frank Turek) regarding what happened during the SUV ride.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
       "type": "investigation_target",
       "description": "Question of whether Frank Turek actually attempted CPR on Charlie in the car.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
       "type": "investigation_target",
       "description": "Question of what happened to Frank Turek's clothes after the incident and why.",
@@ -845,8 +845,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10689",
-      "ref": "N-10689",
+      "@id": "N-10627",
+      "ref": "N-10627",
       "name": "Daily Wire Financial Status and IPO Effort",
       "type": "investigation_target",
       "description": "Question of Daily Wire's $100M strategic investment, IPO target, $50M Pendragon spend, and overall financial decline.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10690",
-      "ref": "N-10690",
+      "@id": "N-10628",
+      "ref": "N-10628",
       "name": "Erika Kirk Dissociative Identity Disorder Assessment",
       "type": "investigation_target",
       "description": "Persistent question of whether Erika Kirk displays symptoms consistent with DID.",
@@ -892,8 +892,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10691",
-      "ref": "N-10691",
+      "@id": "N-10629",
+      "ref": "N-10629",
       "name": "District Attorney Release Authorization Investigation",
       "type": "investigation_target",
       "description": "Question of how Erika Kirk received artifacts (cross, microphone, other personal items) without a DA-signed release.",
@@ -911,8 +911,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10692",
-      "ref": "N-10692",
+      "@id": "N-10630",
+      "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
       "type": "investigation_target",
       "description": "Question of who in the SUV placed the 911 call during transport.",
@@ -926,8 +926,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10693",
-      "ref": "N-10693",
+      "@id": "N-10631",
+      "ref": "N-10631",
       "name": "Erika Kirk Pastor Identity Verification",
       "type": "investigation_target",
       "description": "Question of who Erika Kirk's pastor was during her two-year Bible study period.",
@@ -939,13 +939,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
       "type": "investigation_target",
       "description": "Question of Dan Flood's role, behavior, and refusal of a promotion from Erika.",
@@ -957,13 +957,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10695",
-      "ref": "N-10695",
+      "@id": "N-10633",
+      "ref": "N-10633",
       "name": "Brian Harpole Medical Dressing Amount Claim",
       "type": "investigation_target",
       "description": "Question of whether 36 ft of dressing could plausibly have been applied during a 6-minute car ride.",
@@ -1151,8 +1151,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11357",
-      "ref": "N-11357",
+      "@id": "N-11273",
+      "ref": "N-11273",
       "name": "Jubilee",
       "type": "organization",
       "description": "Jubilee, the debate show on which Dave Rubin appeared and on which the host says she, Charlie Kirk and Ben Shapiro have also appeared.",
@@ -1168,8 +1168,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11358",
-      "ref": "N-11358",
+      "@id": "N-11274",
+      "ref": "N-11274",
       "name": "Highmount Capital",
       "type": "organization",
       "description": "Capital firm the host says the Daily Wire is turning to in order to raise money.",
@@ -1477,8 +1477,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10116",
-      "ref": "N-10116",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1494,8 +1494,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1511,8 +1511,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1545,25 +1545,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10519",
-      "ref": "N-10519",
-      "name": "Erika Kirk Next Model Management Involvement",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10395"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1579,9 +1562,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10676",
-      "ref": "N-10676",
-      "name": "Charlie Kirk Shirt Disposal Verification",
+      "@id": "N-10643",
+      "ref": "N-10643",
+      "name": "Missing Charlie's Shirt Investigation Target",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1596,8 +1579,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10677",
-      "ref": "N-10677",
+      "@id": "N-10615",
+      "ref": "N-10615",
       "name": "Sara Tewell Witness Statement Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1614,8 +1597,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10678",
-      "ref": "N-10678",
+      "@id": "N-10616",
+      "ref": "N-10616",
       "name": "SUV Floorboard Shard Mic Identification",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1631,8 +1614,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1648,8 +1631,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1669,8 +1652,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10705",
-      "ref": "N-10705",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1688,8 +1671,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1705,26 +1688,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
-      "name": "CPR Narrative Contradiction (Turek / Harpole)",
-      "type": "investigation_target",
-      "description": "Existing node reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10332",
-        "C-10333"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1742,8 +1707,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1760,8 +1725,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1786,8 +1751,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10977",
-      "ref": "N-10977",
+      "@id": "N-10898",
+      "ref": "N-10898",
       "name": "September 2024 Lebanon Pager Attack",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1803,8 +1768,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10983",
-      "ref": "N-10983",
+      "@id": "N-10891",
+      "ref": "N-10891",
       "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1820,8 +1785,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11033",
-      "ref": "N-11033",
+      "@id": "N-10952",
+      "ref": "N-10952",
       "name": "Project Monarch",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1838,8 +1803,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11054",
-      "ref": "N-11054",
+      "@id": "N-10972",
+      "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1855,8 +1820,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1872,8 +1837,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11244",
-      "ref": "N-11244",
+      "@id": "N-11160",
+      "ref": "N-11160",
       "name": "Brett Cooper Departure Dispute with Daily Wire",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
@@ -1900,7 +1865,7 @@
         "A-2096.4"
       ],
       "related_nodes": [
-        "N-10682"
+        "N-10620"
       ],
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:48",
@@ -1917,8 +1882,8 @@
         "A-2094.1"
       ],
       "related_nodes": [
-        "N-10683",
-        "N-10684"
+        "N-10621",
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:06:20–00:07:24",
@@ -1937,7 +1902,7 @@
         "A-2094.2"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
@@ -1957,7 +1922,7 @@
         "A-2094.2"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
@@ -1977,7 +1942,7 @@
         "A-2094.4"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10633"
       ],
       "tags": [],
       "claim_timestamp": "00:13:09–00:13:30",
@@ -1996,8 +1961,8 @@
         "A-2094.2"
       ],
       "related_nodes": [
-        "N-10686",
-        "N-10687"
+        "N-10624",
+        "N-10625"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
@@ -2017,7 +1982,7 @@
         "A-2094.2"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31–00:12:26",
@@ -2037,7 +2002,7 @@
         "A-2095.1"
       ],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [],
       "claim_timestamp": "00:28:14–00:29:18",
@@ -2057,7 +2022,7 @@
         "A-2095.1"
       ],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [],
       "claim_timestamp": "00:28:14–00:29:18",
@@ -2076,7 +2041,7 @@
         "A-2103.1"
       ],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [],
       "claim_timestamp": "00:19:32–00:20:25",
@@ -2096,7 +2061,7 @@
         "A-2096.2"
       ],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [],
       "claim_timestamp": "00:22:17–00:23:11",
@@ -2115,7 +2080,7 @@
         "A-2096.3"
       ],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [],
       "claim_timestamp": "00:22:50–00:23:11",
@@ -2134,8 +2099,8 @@
         "A-2097.1"
       ],
       "related_nodes": [
-        "N-10685",
-        "N-10695"
+        "N-10623",
+        "N-10633"
       ],
       "tags": [],
       "claim_timestamp": "00:16:18–00:16:50",
@@ -2154,7 +2119,7 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10689"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:41:49–00:42:51",
@@ -2171,7 +2136,7 @@
         "A-2098.1"
       ],
       "related_nodes": [
-        "N-10689"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:41:04–00:41:49",
@@ -2190,7 +2155,7 @@
         "A-2100.2"
       ],
       "related_nodes": [
-        "N-10689"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:46:09",
@@ -2241,7 +2206,7 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10689"
+        "N-10627"
       ],
       "tags": [],
       "claim_timestamp": "00:42:55",
@@ -2260,7 +2225,7 @@
         "A-2102.1"
       ],
       "related_nodes": [
-        "N-10683"
+        "N-10621"
       ],
       "tags": [],
       "claim_timestamp": "00:51:15–00:51:45",
@@ -2279,7 +2244,7 @@
         "A-2102.2"
       ],
       "related_nodes": [
-        "N-10683"
+        "N-10621"
       ],
       "tags": [],
       "claim_timestamp": "00:53:05",
@@ -2298,7 +2263,7 @@
         "A-2101.1"
       ],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:34:26–00:35:29",
@@ -2315,7 +2280,7 @@
         "A-2102.3"
       ],
       "related_nodes": [
-        "N-10691"
+        "N-10629"
       ],
       "tags": [],
       "claim_timestamp": "00:52:00–00:52:30",
@@ -2334,7 +2299,7 @@
         "A-2094.3"
       ],
       "related_nodes": [
-        "N-10687"
+        "N-10625"
       ],
       "tags": [],
       "claim_timestamp": "00:13:09–00:14:33",
@@ -2373,8 +2338,8 @@
       "claim": "The host says Brian Harpole and Frank Turek have conflicting stories about what happened on the way to the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10686",
-        "N-10699"
+        "N-10624",
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2395,8 +2360,8 @@
       "claim": "The host says opticians emailed her that the shards on the SUV floor could not be sunglasses, because eyewear lenses are made not to shatter into glass.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10678",
-        "N-10705"
+        "N-10616",
+        "N-10641"
       ],
       "tags": [
         "relevance:context"
@@ -2418,8 +2383,8 @@
         "A-2096.4"
       ],
       "related_nodes": [
-        "N-10705",
-        "N-10768"
+        "N-10641",
+        "N-10697"
       ],
       "tags": [
         "relevance:core"
@@ -2442,8 +2407,8 @@
         "A-2094.1"
       ],
       "related_nodes": [
-        "N-10683",
-        "N-10684"
+        "N-10621",
+        "N-10622"
       ],
       "tags": [
         "relevance:core"
@@ -2464,9 +2429,9 @@
       "claim": "The host says that under her rigged-microphone theory, the shirt was the biggest piece of explosive residue evidence, and Brian Harpole's account has him removing it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10684",
-        "N-10768",
-        "N-10676"
+        "N-10622",
+        "N-10697",
+        "N-10643"
       ],
       "tags": [
         "relevance:core"
@@ -2487,7 +2452,7 @@
       "claim": "The host says that, since she does not accept the ER story, she has to logically consider that Brian Harpole removed the shirt somewhere else, with the car on the way to the hospital the only other option.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10684"
+        "N-10622"
       ],
       "tags": [
         "relevance:core"
@@ -2508,7 +2473,7 @@
       "claim": "The host says the photos of the SUV interior were never supposed to see the light of day or be in her possession.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [
         "relevance:core"
@@ -2530,7 +2495,7 @@
         "A-3243.1"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2555,7 +2520,7 @@
       "claim": "The host says Google Maps puts the hospital about 8 minutes away at the speed limit and, because Harpole says they travelled 60 to 100 mph, she estimates the ride took about 6 minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2577,7 +2542,7 @@
         "A-3246.1"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2602,7 +2567,7 @@
         "A-2094.2"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -2626,8 +2591,8 @@
         "A-2094.4"
       ],
       "related_nodes": [
-        "N-10899",
-        "N-10695"
+        "N-10820",
+        "N-10633"
       ],
       "tags": [
         "relevance:core"
@@ -2652,8 +2617,8 @@
         "A-2094.4"
       ],
       "related_nodes": [
-        "N-10695",
-        "N-10899"
+        "N-10633",
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -2675,7 +2640,7 @@
         "A-2097.1"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10633"
       ],
       "tags": [
         "relevance:core"
@@ -2695,8 +2660,7 @@
       "claim": "The host says Frank Turek's claim of attempting CPR is, according to Brian Harpole, a lie and that Turek is likely the one lying, because Charlie lay across two captain chairs with his midsection unsupported and CPR requires a flat surface.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699",
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2723,8 +2687,7 @@
         "A-3243.2"
       ],
       "related_nodes": [
-        "N-10699",
-        "N-10737"
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2747,8 +2710,8 @@
       "claim": "The host offers as her opinion that the CPR story was invented because Frank Turek needed an excuse for changing into hospital scrubs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10688",
-        "N-10699"
+        "N-10626",
+        "N-10636"
       ],
       "tags": [
         "relevance:core"
@@ -2774,7 +2737,7 @@
         "A-2103.1"
       ],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [
         "relevance:core"
@@ -2798,7 +2761,7 @@
       "claim": "The host says there is no team element to chest compressions, as one person delivers them, while others may count or give breaths.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10699"
+        "N-10636"
       ],
       "tags": [
         "relevance:context"
@@ -2817,7 +2780,7 @@
         "A-2103.1"
       ],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [
         "relevance:core"
@@ -2841,7 +2804,7 @@
       "claim": "The host theorizes that Brian Harpole cut the shirt off in the car with about 5 to 6 minutes left, while Rick Cutler held him and Frank Turek leaned over to pull the fabric taut.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10684"
+        "N-10622"
       ],
       "tags": [
         "relevance:core"
@@ -2866,8 +2829,8 @@
         "A-2096.1"
       ],
       "related_nodes": [
-        "N-10705",
-        "N-10685"
+        "N-10641",
+        "N-10623"
       ],
       "tags": [
         "relevance:core"
@@ -2889,7 +2852,7 @@
         "A-2096.1"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10633"
       ],
       "tags": [
         "relevance:core"
@@ -2910,7 +2873,7 @@
       "claim": "The host suggests that Charlie was not put in an ambulance because the shirt needed to be removed and they did not want questions about microphone bits on his body.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [
         "relevance:core"
@@ -2930,7 +2893,7 @@
       "claim": "The host says Kash Patel's FBI team moved to seize the hospital's cameras expeditiously and suggests this may be because Charlie arrived shirtless.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [
         "relevance:core"
@@ -2954,7 +2917,7 @@
       "claim": "The host says explosive residue is extremely contagious, passing by even casual contact, so anyone touching a victim killed by an explosive would have to discard their clothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [
         "relevance:context"
@@ -2971,7 +2934,7 @@
       "claim": "The host says a bomb dog would have smelled explosive residue on the clothing within about three seconds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054"
+        "N-10972"
       ],
       "tags": [
         "relevance:context"
@@ -2990,7 +2953,7 @@
         "A-2095.1"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -3013,7 +2976,7 @@
         "A-2095.1"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -3035,7 +2998,7 @@
       "claim": "The host says Terryl Farnsworth told her he took the cameras out because he did not want Erika to relive Charlie dying, and that she asked why specifically the back cameras given the footage is online.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [
         "relevance:core"
@@ -3061,7 +3024,7 @@
       "claim": "The host says many people who have or had dissociative identity disorder wrote after her signature segment, describing childhood trauma and an ability to dissociate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [
         "relevance:context"
@@ -3081,7 +3044,7 @@
       "claim": "The host says a viewer told her that what she says fits Erika perfectly, citing the holier-than-thou presentation as Charlie's wife versus the anger seen elsewhere.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [
         "relevance:core"
@@ -3102,9 +3065,9 @@
       "claim": "The host says the history of dissociation research goes back to Project Monarch, which she says the government and CIA used to train people to dissociate intentionally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11033",
+        "N-10952",
         "N-10001",
-        "N-10116"
+        "N-10112"
       ],
       "tags": [
         "relevance:tangential"
@@ -3114,7 +3077,7 @@
       "transcript_snippet": "the history of that does go back to Project Monarch. This was intentional. Our government did a lot of experiments with that.",
       "mentions_person_refs": [
         "N-10001",
-        "N-10116"
+        "N-10112"
       ]
     },
     {
@@ -3125,7 +3088,7 @@
       "claim": "The host says that when the CIA creates abused people who switch personalities, a handler holds the key to switch them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11033",
+        "N-10952",
         "N-10001"
       ],
       "tags": [
@@ -3146,8 +3109,8 @@
       "claim": "The host says people with the disorder describe memory gaps, which she says she sees in Erika, who she says says something totally opposite and becomes a different person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10690",
-        "N-10983"
+        "N-10628",
+        "N-10891"
       ],
       "tags": [
         "relevance:core"
@@ -3167,7 +3130,7 @@
       "claim": "The host says she, Charlie Kirk and Ben Shapiro have each appeared on the debate show Jubilee, where one debates about 20 progressive participants.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11357"
+        "N-11273"
       ],
       "tags": [
         "relevance:context"
@@ -3209,9 +3172,9 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10689",
-        "N-11358"
+        "N-10821",
+        "N-10627",
+        "N-11274"
       ],
       "tags": [
         "relevance:tangential"
@@ -3220,8 +3183,8 @@
       "investigative_direction": "Read the Semafor article for what it says about High Mount, the earlier firm and the valuation.",
       "transcript_snippet": "they are now turning to Highmount Capital to try to help them raise money at a valuation that is so absurd",
       "mentions_person_refs": [
-        "N-10689",
-        "N-11358"
+        "N-10627",
+        "N-11274"
       ]
     },
     {
@@ -3232,7 +3195,7 @@
       "claim": "The host says the Daily Wire spent two years trying to bankrupt her family over her view that genocide is wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -3254,8 +3217,8 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:tangential"
@@ -3277,8 +3240,8 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:tangential"
@@ -3300,8 +3263,8 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:tangential"
@@ -3321,8 +3284,8 @@
       "claim": "The host says the Daily Wire was under financial pressure and needed to remove people it paid, so it fired her publicly; she says Jordan Peterson was not removed and that the move backfired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:tangential"
@@ -3343,8 +3306,8 @@
       "claim": "The host says Brett Cooper left the Daily Wire later the same year, also because of Jeremy Boreing and his mania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11244",
-        "N-10900"
+        "N-11160",
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -3365,8 +3328,8 @@
       "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free, a lifetime subscription, and no payment until 2029.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:tangential"
@@ -3375,7 +3338,7 @@
       "investigative_direction": "Look for dated Daily Wire promotions and any subscriber numbers announced afterward.",
       "transcript_snippet": "they were sort of like fake pumping their subscription numbers.",
       "mentions_person_refs": [
-        "N-10689"
+        "N-10627"
       ]
     },
     {
@@ -3404,8 +3367,8 @@
       "claim": "The host says the Daily Wire's editor-in-chief, whose name she cannot recall, spends time on Twitter calling 19-year-olds Hitler and anti-Semites for discussing the USS Liberty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10451"
+        "N-10821",
+        "N-10420"
       ],
       "tags": [
         "relevance:tangential"
@@ -3414,7 +3377,7 @@
       "investigative_direction": "Identify the editor-in-chief and locate the posts she describes.",
       "transcript_snippet": "He spends his time just throwing insults on Twitter aimed at 19-year-olds calling them Hitler and anti-Semites if they discuss something like the USS Liberty.",
       "mentions_person_refs": [
-        "N-10451"
+        "N-10420"
       ]
     },
     {
@@ -3427,8 +3390,8 @@
         "A-2100.1"
       ],
       "related_nodes": [
-        "N-10900",
-        "N-10689"
+        "N-10821",
+        "N-10627"
       ],
       "tags": [
         "relevance:tangential"
@@ -3437,7 +3400,7 @@
       "investigative_direction": "Check the Semafor article for the figure and the company's stated add-backs.",
       "transcript_snippet": "We had 48 million in adjusted EBITDA.",
       "mentions_person_refs": [
-        "N-10689"
+        "N-10627"
       ]
     },
     {
@@ -3448,7 +3411,7 @@
       "claim": "The host says Sara Tewell, a witness, changed her story three times and that she will cover it next episode.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [
         "relevance:core"
@@ -3473,7 +3436,7 @@
       "claim": "The host says Sara Tewell was smiling the whole time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [
         "relevance:core"
@@ -3493,7 +3456,7 @@
       "claim": "The host suggests Harpole's defibrillator mention may be a pre-emptive explanation for chest marks in the autopsy report.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10683"
+        "N-10621"
       ],
       "tags": [
         "relevance:core"
@@ -3514,7 +3477,7 @@
       "claim": "The host says she was banned from Australia because the Zionist lobby of Australia banded together and called her a danger, in the middle of a tour about motherhood and feminism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:tangential"
@@ -3555,7 +3518,7 @@
       "claim": "The host says she does not think Erika's Fox News line Shabbat Shalom, daddy's home, refers to the Mossad pager attack and that she accidentally rhymed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10977",
+        "N-10898",
         "N-10006"
       ],
       "tags": [
@@ -3617,7 +3580,7 @@
         "A-2102.9"
       ],
       "related_nodes": [
-        "N-10686"
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -3637,8 +3600,8 @@
       "claim": "The host says Brian Harpole briefly discussed in the Shawn Ryan interview that a police car tailed them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10681",
-        "N-10686"
+        "N-10619",
+        "N-10624"
       ],
       "tags": [
         "relevance:core"
@@ -3658,8 +3621,8 @@
       "claim": "The host says she has not found the 911 call, that no one in the car has said they made it, and that she assumes it was Dan Flood.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10692",
-        "N-10729"
+        "N-10630",
+        "N-10663"
       ],
       "tags": [
         "relevance:core"
@@ -3679,7 +3642,7 @@
       "claim": "The host says Dan Flood declined Erika's offer of a promotion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [
         "relevance:core"
@@ -3703,7 +3666,7 @@
       "claim": "The host says Erika said she took two years off to study the Bible and that nobody saw her except her pastor and his wife, and asks whether the pastor was James Kaddis.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10693"
+        "N-10631"
       ],
       "tags": [
         "relevance:core"
@@ -3744,8 +3707,7 @@
       "claim": "The host says she is particularly interested in the Epstein thread about Erika and Next Model Management, wants former models who recall Erika running the Eastern European department, and has promising leads and calls to make.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10519",
-        "N-10532"
+        "N-10478"
       ],
       "tags": [
         "relevance:core"

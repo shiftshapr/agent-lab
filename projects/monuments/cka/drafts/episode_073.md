@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 8f80e2001a9824772c29ee4b15829f4b6f2f155a2e3a272ffadb38688bd0e842
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-802, N-11187
-  - Hole-minted Nodes (reintro-ep073): N-10512
-  - Tip-minted Nodes (reintro-ep073): N-11086
+  - Tip-minted Nodes (supplement_2026-10c): N-802, N-11103
+  - Hole-minted Nodes (reintro-ep073): 
+  - Tip-minted Nodes (reintro-ep073): N-11004
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6510–C-6595
   - (see registers)
@@ -38,8 +38,8 @@
 - Analysis Date: 2026-02-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
-  - New Nodes Introduced: N-561, N-562, N-10506, N-10507, N-10508, N-10509
-  - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-159, N-186, N-190, N-220, N-270, N-330, N-10000, N-10006, N-10011, N-10012, N-10110, N-10268, N-10320, N-10340, N-10396, N-10417, N-10465, N-10470, N-10499, N-10905, N-10968, N-10510, N-10554, N-11188, N-803, N-804
+  - New Nodes Introduced: N-561, N-562, N-10467, N-10468, N-10469
+  - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-159, N-186, N-190, N-220, N-270, N-330, N-10000, N-10006, N-10011, N-10012, N-10106, N-10252, N-10318, N-10369, N-10390, N-10434, N-10439, N-10470, N-10826, N-10889, N-10507, N-11104, N-803, N-804
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
@@ -175,7 +175,7 @@ Video Timestamp: 00:03:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6514, C-6520, N-1, N-2, N-10506*
+*Related: C-6514, C-6520, N-1, N-2, N-10467*
 
 ---
 
@@ -189,7 +189,7 @@ Video Timestamp: 00:04:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6520, C-6521, N-2, N-237, N-10506*
+*Related: C-6520, C-6521, N-2, N-237, N-10467*
 
 **A-1774.2** Segment: Erika Kirk denying Charlie sent messages that "they're going to get me"; asserting she possesses his cell phone
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6548, C-6549, N-2, N-237, N-10507*
+*Related: C-6548, C-6549, N-2, N-237, N-10468*
 
 ---
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:10:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6530, N-2, N-211, N-10509*
+*Related: C-6530, N-2, N-211, N-10469*
 
 **A-1775.2** Segment: Jesse Watters asking "Tell me about the day before the shooting"; Erika's edited response mentioning priest/dinner, death threats, Erika's mother in Phoenix, Charlie saying "Home needs you"
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:16:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6530, N-2, N-211, N-10509*
+*Related: C-6530, N-2, N-211, N-10469*
 
 ---
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:37:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6570, C-6575, C-6573, C-6571, N-2, N-562, N-10510*
+*Related: C-6570, C-6575, C-6573, C-6571, N-2, N-562, N-10470*
 
 ---
 
@@ -291,7 +291,7 @@ Video Timestamp: 00:42:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6582, N-10510*
+*Related: C-6582, N-10470*
 
 ---
 
@@ -376,7 +376,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10506** Wedding Photo Disappearance Discrepancy
+**N-10467** Wedding Photo Disappearance Discrepancy
 
 Persistent investigation target: a wedding photo of Charlie and Erika Kirk was visible in the background of Charlie's home studio during the September 8, 2025 broadcast, but absent from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Three competing explanations are advanced in the episode: (A) Andrew Kolvet moved it; (B) Erika moved it; (C) Charlie himself moved it on September 9, 2025.
 
@@ -389,7 +389,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10507** Charlie Kirk Phone Access Question
+**N-10468** Charlie Kirk Phone Access Question
 
 Investigation target: Charlie Kirk's cell phone has not been publicly seized by law enforcement; Erika Kirk publicly claims to possess it. The episode asserts she used it as a prop during the Glenn Beck interview ("And I have his cell phone") to deny that Charlie sent pre-death messages.
 
@@ -402,20 +402,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10508** Tyler Robinson Evidence Sufficiency Question
-
-Investigation target: Candace Owens' standing claim, restated in this episode, that no public evidence has been produced tying Tyler Robinson to the assassination, and that the case serves as the "final thing" before broader institutional collapse concerns crystallize. (Inscribed only as a target; the claim itself is interpretive commentary and is not inscribed as a C-claim.)
-
-Evidence Count: 0 (no artifact anchor in this episode)
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: (no artifact anchors in this episode)*
-
----
-
-**N-10509** September 9, 2025 Night Activity Reconstruction Question
+**N-10469** September 9, 2025 Night Activity Reconstruction Question
 
 Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.
 
@@ -428,7 +415,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10510** TPUSA All-American Halftime Show Authenticity Question
+**N-10470** TPUSA All-American Halftime Show Authenticity Question
 
 Investigation target: questions raised in this episode about whether the TPUSA All-American Halftime Show functioned as a genuine live event versus a staged production using camera tricks, audience placement, multiple takes, and modest stipends; whether Erika Kirk's absence from filming is meaningful; and the counter-evidence that Trump was watching the official Bad Bunny halftime show at Mar-a-Lago.
 
@@ -601,7 +588,7 @@ Site of the September 10 event; the host says she has done a UVU event with Char
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Existing topic reused for new claims in this episode.
 
@@ -609,7 +596,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -617,15 +604,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-6511, C-6543, C-6546, C-6552, C-6568*
-
----
-
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -633,7 +612,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10396** Charis Bible College Security Coordination (Post-Assassination)
+**N-10369** Charis Bible College Security Coordination (Post-Assassination)
 
 Existing topic reused for new claims in this episode.
 
@@ -641,7 +620,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -649,7 +628,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10465** Calvary Chapel Church CIA Connection Question
+**N-10434** Calvary Chapel Church CIA Connection Question
 
 Existing topic reused for new claims in this episode.
 
@@ -657,7 +636,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10470** Dan Flood Message Format Discrepancy
+**N-10439** Dan Flood Message Format Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -665,23 +644,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10499** TPUSA Halftime Viewership Authenticity
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-6574, C-6581*
-
----
-
-**N-10512** Wedding Photo Movement Discrepancy
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-6529*
-
----
-
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Existing topic reused for new claims in this episode.
 
@@ -689,7 +652,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing topic reused for new claims in this episode.
 
@@ -697,7 +660,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Outlet whose apartment interview with Erika Kirk the host cites.
 
@@ -705,7 +668,7 @@ Outlet whose apartment interview with Erika Kirk the host cites.
 
 ---
 
-**N-11086** Priest Report of Marital Issues
+**N-11004** Priest Report of Marital Issues
 
 Existing topic reused for new claims in this episode.
 
@@ -739,7 +702,7 @@ First named by the host at 00:39:40 in episode 73. Performer of the official Sup
 
 ---
 
-**N-11187** Guthrie Mother Abduction Coverage
+**N-11103** Guthrie Mother Abduction Coverage
 
 Node Type: Topic
 The reported abduction of Savannah Guthrie's mother and the host's remarks that the TMZ tape, FBI travel and Pima County angle do not smell right and may distract from other stories.
@@ -748,7 +711,7 @@ The reported abduction of Savannah Guthrie's mother and the host's remarks that 
 
 ---
 
-**N-11188** White House Religious Liberty Commission
+**N-11104** White House Religious Liberty Commission
 
 Node Type: Organization
 Presidential commission whose hearing on anti-Semitism led to Carrie Prejean Boller's removal, announced by Dan Patrick on X.
@@ -768,7 +731,7 @@ Claim: The host says a wedding photo of Charlie and Erika Kirk was visible in th
 Anchored Artifacts: A-1773.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10506
+Related Nodes: N-10467
 
 Investigative Direction: Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture.
 
@@ -783,7 +746,7 @@ Claim: The host says the wedding photo was absent from the background during Eri
 Anchored Artifacts: A-1774.1, A-1773.1
 Mentions: N-2, N-237, N-1
 
-Related Nodes: N-10506
+Related Nodes: N-10467
 
 Investigative Direction: Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.
 
@@ -812,7 +775,7 @@ Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated she 
 Anchored Artifacts: A-1774.1
 Mentions: N-2, N-237
 
-Related Nodes: N-10506
+Related Nodes: N-10467
 
 Investigative Direction: Compare Erika's "first time back" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.
 
@@ -827,7 +790,7 @@ Claim: In a Fox News interview the host plays, Erika Kirk says Charlie Kirk came
 Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
 
-Related Nodes: N-10509
+Related Nodes: N-10469
 
 Investigative Direction: Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.
 
@@ -842,7 +805,7 @@ Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that
 Anchored Artifacts: A-1774.2
 Mentions: N-2, N-237, N-1
 
-Related Nodes: N-10507
+Related Nodes: N-10468
 
 Investigative Direction: Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.
 
@@ -884,7 +847,7 @@ Claim: The host says, relaying accounts from informants who told her they were p
 
 Anchored Artifacts: A-1778.1
 
-Related Nodes: N-10510
+Related Nodes: N-10470
 
 Investigative Direction: Confirm production location and dates through venue records; compare against TPUSA's own promotional claims about the event.
 
@@ -898,7 +861,7 @@ Claim: The host says, relaying accounts from informants who told her they were p
 
 Anchored Artifacts: A-1778.1
 
-Related Nodes: N-10510
+Related Nodes: N-10470
 
 Investigative Direction: Cross-reference any 1099 or payment records; compare to industry-standard compensation for halftime show performers.
 
@@ -913,7 +876,7 @@ Claim: The host says, relaying accounts from informants who told her they were p
 Anchored Artifacts: A-1778.1
 Mentions: N-2
 
-Related Nodes: N-10510
+Related Nodes: N-10470
 
 Investigative Direction: Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming.
 
@@ -928,7 +891,7 @@ Claim: The host says a photograph shows Donald Trump at Mar-a-Lago during the Su
 Anchored Artifacts: A-1779.1
 Mentions: N-5
 
-Related Nodes: N-10510
+Related Nodes: N-10470
 
 Investigative Direction: Confirm photograph provenance and timestamp; cross-reference with Trump's public schedule for the evening.
 
@@ -942,7 +905,7 @@ Claim: The host says, relaying accounts from informants who told her they were p
 
 Anchored Artifacts: A-1778.1
 
-Related Nodes: N-10510
+Related Nodes: N-10470
 
 Investigative Direction: Corroborate with any production logs, call sheets, or additional witness testimony.
 
@@ -957,7 +920,7 @@ Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated "And
 Anchored Artifacts: A-1774.2
 Mentions: N-2, N-237, N-1
 
-Related Nodes: N-10507
+Related Nodes: N-10468
 
 Investigative Direction: Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.
 
@@ -973,7 +936,7 @@ Transcript Snippet: On September 9th, he went into the office and by September 1
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Reconstruct Charlie Kirk's September 9 schedule from calendar entries, badge records and staff accounts.
 
@@ -989,7 +952,7 @@ Transcript Snippet: we don't have access to Charlie's phone, Erika's phone, Dan 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2, N-270, N-190, N-7
-Related Nodes: N-10320
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Identify which of these phones or phone logs were seized, imaged or returned, through search warrants, court dockets or law enforcement statements.
 
@@ -1005,7 +968,7 @@ Transcript Snippet: despite having just arrived uh on a flight back from Tokyo, 
 
 Anchored Artifacts: A-1773.1
 Mentions: N-3, N-1
-Related Nodes: N-10506
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Compare the September 8 broadcast time with the Tokyo return flight arrival time and the show's published episode listing.
 
@@ -1021,7 +984,7 @@ Transcript Snippet: This is the date that I believe Erika was actually at Fort H
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain Fort Huachuca visitor logs and the SAM702 passenger manifest for September 8 to 9, 2025 to confirm or refute Erika Kirk's presence.
 
@@ -1037,7 +1000,7 @@ Transcript Snippet: And I also think that that's available on both of their Inst
 
 Anchored Artifacts: A-1773.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10506
+Related Nodes: N-10467
 Tags: relevance:context
 Investigative Direction: Check both accounts for the wedding photograph and compare it with the framed image visible in the studio frame.
 
@@ -1053,7 +1016,7 @@ Transcript Snippet: Erika could not even or didn't want to move any of his items
 
 Anchored Artifacts: A-2935.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10968, N-10905
+Related Nodes: N-10889, N-10826
 Tags: relevance:core
 Investigative Direction: Obtain the New York Times article and compare Erika Kirk's quoted statement about leaving Charlie's belongings untouched with later accounts.
 
@@ -1069,7 +1032,7 @@ Transcript Snippet: she conducted her very first interview from Charlie's home o
 
 Anchored Artifacts: A-1774.1
 Mentions: N-3, N-2, N-237
-Related Nodes: N-10506
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Confirm whether any earlier interview or video by Erika Kirk was recorded in the home office before December 12, 2025.
 
@@ -1085,7 +1048,7 @@ Transcript Snippet: Sorry, I'm looking down. I'm just looking at you all of thes
 
 Anchored Artifacts: A-1774.1
 Mentions: N-3, N-2, N-237
-Related Nodes: N-10506
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Review the full Beck interview to see which items on the desk Erika handles and whether she describes sorting them.
 
@@ -1116,7 +1079,7 @@ Transcript Snippet: he would sit here on Sundays writing, using his journal, lik
 
 Anchored Artifacts: A-1774.1
 Mentions: N-2, N-237, N-1
-Related Nodes: N-10506
+Related Nodes: N-10467
 Tags: relevance:context
 Investigative Direction: Ask whether the journals and notepad left on the desk have been preserved and whether any were examined by investigators.
 
@@ -1132,7 +1095,7 @@ Transcript Snippet: I definitively do not believe that that is what happened bec
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10506, N-10000
+Related Nodes: N-10467, N-10000
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA fundraising emails and speech transcripts using 'my Charlie' to test the host's account of a coordinated messaging strategy.
 
@@ -1196,7 +1159,7 @@ Transcript Snippet: it would be much more likely that Stacy Sheridan would have 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-186
-Related Nodes: N-10506
+Related Nodes: N-10467
 Tags: relevance:context
 Investigative Direction: Ask the production staff for the Beck interview who set up the home office and whether any items were added or removed.
 
@@ -1212,7 +1175,7 @@ Transcript Snippet: that option would be that Charlie himself moved the frame an
 
 Anchored Artifacts: A-1773.1, A-1774.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10506, N-10512
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Look for any footage, photos or staff accounts of the home office between September 8 and December 12, 2025 that show when the frame left the shelf.
 
@@ -1228,7 +1191,7 @@ Transcript Snippet: he got up around 2:45, 3ish to go into the kitchen to grab a
 
 Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Seek any corroboration of the 2:45 a.m. waking, such as smart-home, phone or device activity logs.
 
@@ -1244,7 +1207,7 @@ Transcript Snippet: I said, "I want you to have a good night's sleep. go ahead a
 
 Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Ask whether any witness or record places Charlie in the daughter's room that night.
 
@@ -1260,7 +1223,7 @@ Transcript Snippet: he came into our bedroom into the bathroom cuz that's where 
 
 Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Check the personal effects inventory from the hospital or medical examiner to see whether the ring and necklace were on Charlie.
 
@@ -1292,7 +1255,7 @@ Transcript Snippet: Charlie is then gonna he has a flight scheduled to leave at 
 
 Anchored Artifacts: A-1775.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10509, N-10554
+Related Nodes: N-10469, N-10507
 Tags: relevance:core
 Investigative Direction: Compare the 6:30 a.m. departure with the flight plan and manifest for the September 10 trip to Utah.
 
@@ -1308,7 +1271,7 @@ Transcript Snippet: Maybe there was an argument. That would make more sense to m
 
 Anchored Artifacts: A-1775.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:context
 Investigative Direction: Seek witnesses, neighbors or security staff who were near the Kirk residence in the early hours of September 10.
 
@@ -1340,7 +1303,7 @@ Transcript Snippet: we were going to meet for dinner beforehand with a dear frie
 
 Anchored Artifacts: A-1775.2
 Mentions: N-2, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Identify the friend, the dinner location and time, and any receipts or witnesses.
 
@@ -1371,7 +1334,7 @@ Transcript Snippet: Erika's mom was dealing with a medical issue, so she stayed 
 
 Anchored Artifacts: A-1775.2
 Mentions: N-2, N-1
-Related Nodes: N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Verify Erika Kirk's whereabouts on September 8 to 10 against the Phoenix account, and the Colorado State event listing.
 
@@ -1402,7 +1365,7 @@ Transcript Snippet: A priest that came over to pray over Charlie and Erika's mar
 
 Anchored Artifacts: A-1775.2
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10509, N-11086
+Related Nodes: N-10469, N-11004
 Tags: relevance:core
 Investigative Direction: Identify the priest and obtain his account of the visit, including who was present and what was discussed.
 
@@ -1418,7 +1381,7 @@ Transcript Snippet: him communicating to people that he was over it, that he did
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10268, N-10320
+Related Nodes: N-10252, N-10318
 Tags: relevance:core
 Investigative Direction: Identify the recipients of these communications and obtain the messages or call records from September 9, 2025.
 
@@ -1434,7 +1397,7 @@ Transcript Snippet: the picture that is starting to emerge is that Charlie's las
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Seek participants in the September 9 conversations and compare accounts with phone logs and calendar entries.
 
@@ -1450,7 +1413,7 @@ Transcript Snippet: they have not been honest in their portrayal about what the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-11086
+Related Nodes: N-11004
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's public statements on the marriage with accounts from friends, staff and the priest.
 
@@ -1466,7 +1429,7 @@ Transcript Snippet: Charlie messaged multiple people saying that he thought they
 
 Anchored Artifacts: A-1774.2
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10320, N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the messages themselves with sender and recipient metadata, and identify each recipient.
 
@@ -1482,7 +1445,7 @@ Transcript Snippet: I know you two had met with your priest uh the night before
 
 Anchored Artifacts: A-1774.2
 Mentions: N-237, N-2, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Ask Beck's team where the priest meeting detail came from and whether Erika's staff briefed it.
 
@@ -1513,7 +1476,7 @@ Transcript Snippet: that night before we did what we usually did before tours, w
 
 Anchored Artifacts: A-1774.2
 Mentions: N-2, N-237, N-1
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:context
 Investigative Direction: Compare with the priest's account of whether the prayer was a standard pre-tour practice.
 
@@ -1529,7 +1492,7 @@ Transcript Snippet: Not true. Dan Flood messaged on iMessage. So who deleted it?
 
 Anchored Artifacts: A-1774.2
 Mentions: N-3, N-270
-Related Nodes: N-10470, N-10320
+Related Nodes: N-10439, N-10318
 Tags: relevance:core
 Investigative Direction: Obtain the carrier and iCloud records for Dan Flood's iMessage thread with Charlie Kirk.
 
@@ -1545,7 +1508,7 @@ Transcript Snippet: I think it it's very strange that she was even allowed to ha
 
 Anchored Artifacts: A-1774.2
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10507
+Related Nodes: N-10468
 Tags: relevance:core
 Investigative Direction: File a records request for the chain of custody of Charlie Kirk's phone.
 
@@ -1576,7 +1539,7 @@ Transcript Snippet: This is unacceptable. This hearing is unacceptable.
 
 Anchored Artifacts: A-1776.1
 Mentions: N-3, N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Obtain the full hearing recording and transcript to see how the exchange began.
 
@@ -1592,7 +1555,7 @@ Transcript Snippet: while not taking that same stand to the 28 Muslim countries 
 
 Anchored Artifacts: A-1776.1
 Mentions: 
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Identify the rabbi and the panel and obtain the hearing transcript, and verify the figures cited.
 
@@ -1608,7 +1571,7 @@ Transcript Snippet: So, is are all Catholics anti-semites according to you?
 
 Anchored Artifacts: A-1776.2
 Mentions: N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Obtain the full hearing recording to confirm the question and the answer given.
 
@@ -1654,7 +1617,7 @@ Transcript Snippet: it was announced on X after Zionists demanded she be removed
 
 Anchored Artifacts: A-1777.1
 Mentions: N-3, N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Identify who, if anyone, publicly called for her removal before Dan Patrick's announcement.
 
@@ -1670,7 +1633,7 @@ Transcript Snippet: like the Calvary Capital Church started by the CIA and find 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10465
+Related Nodes: N-10434
 Tags: relevance:context
 Investigative Direction: Document the founding history of Calvary Chapel and any documented intelligence ties; the host offers no source on air.
 
@@ -1686,7 +1649,7 @@ Transcript Snippet: No member of the commission has the right to hijack a hearin
 
 Anchored Artifacts: A-1777.1
 Mentions: N-561
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Capture the original post and compare the full text with the host's reading.
 
@@ -1702,7 +1665,7 @@ Transcript Snippet: This is clearly without question what happened on Monday in 
 
 Anchored Artifacts: A-1777.1
 Mentions: N-561, N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Identify the hearing date and confirm whether the White House or Patrick formally made the removal.
 
@@ -1718,7 +1681,7 @@ Transcript Snippet: Yeah. I know you're taking a ton of money from Zionist.
 
 Anchored Artifacts: A-1777.1
 Mentions: N-3, N-561
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Review Texas Ethics Commission and FEC contribution records for Dan Patrick; the host cites no source on air.
 
@@ -1734,7 +1697,7 @@ Transcript Snippet: The commission has done outstanding work through five hearin
 
 Anchored Artifacts: A-1777.1
 Mentions: N-561
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Check the commission's published hearing schedule for the five held and two scheduled sessions.
 
@@ -1750,7 +1713,7 @@ Transcript Snippet: We started talking about the Catholic faith, the issues with
 
 Anchored Artifacts: A-2937.1
 Mentions: N-3, N-1
-Related Nodes: N-10320
+Related Nodes: N-10318
 Supports: C-1341
 Tags: relevance:core
 Investigative Direction: Publish or authenticate the text messages with Charlie Kirk dating the pivot.
@@ -1767,7 +1730,7 @@ Transcript Snippet: a few people reached out to me that were a part of the Super
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3
-Related Nodes: N-10510, N-10000
+Related Nodes: N-10470, N-10000
 Tags: relevance:context
 Investigative Direction: Establish how many informants spoke to the host, and whether any can be named or documented as present at filming.
 
@@ -1783,7 +1746,7 @@ Transcript Snippet: They had no idea what they were signing up for. The majority
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Obtain the audience recruitment emails or releases to see how the event was described to attendees.
 
@@ -1799,7 +1762,7 @@ Transcript Snippet: a lot of them were fans of Bad Bunny and they were certain i
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3, N-804
-Related Nodes: N-10510, N-10499
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Compare the TPUSA broadcast viewership figures with the Bad Bunny halftime show audience.
 
@@ -1815,7 +1778,7 @@ Transcript Snippet: They told me they were very tired because it was they were t
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Request call sheets and wrap times for the two filming days.
 
@@ -1831,7 +1794,7 @@ Transcript Snippet: They ran out of food on the first day. The food that was pro
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Request catering invoices for the two filming days.
 
@@ -1847,7 +1810,7 @@ Transcript Snippet: there was a holding room in between the takes and they felt 
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Seek attendee accounts or production logs that record delays and performer arrival times.
 
@@ -1863,7 +1826,7 @@ Transcript Snippet: They waited the longest for Kid Rock.
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3, N-803
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Request artist call times from the production.
 
@@ -1879,7 +1842,7 @@ Transcript Snippet: There's a little birdie that told us that Trump is going to 
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3, N-5, N-562
-Related Nodes: N-562, N-10510
+Related Nodes: N-562, N-10470
 Tags: relevance:context
 Investigative Direction: Identify the producer Matt and ask TPUSA what basis there was for the statement about Trump watching.
 
@@ -1895,7 +1858,7 @@ Transcript Snippet: he also said to them that this is going to get more views th
 
 Anchored Artifacts: A-1778.1, A-1779.1
 Mentions: N-3, N-562, N-804
-Related Nodes: N-562, N-10499, N-10510
+Related Nodes: N-562, N-10470
 Tags: relevance:context
 Investigative Direction: Compare official viewership numbers for both programs when they are published.
 
@@ -1911,7 +1874,7 @@ Transcript Snippet: Turning Point did cover their hotel rooms, but they were pla
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3, N-803
-Related Nodes: N-10000, N-10510
+Related Nodes: N-10000, N-10470
 Tags: relevance:context
 Investigative Direction: Request hotel block records for the event from TPUSA or the hotel.
 
@@ -1927,7 +1890,7 @@ Transcript Snippet: They signed an NDA, but that NDA expired 1 hour after the sh
 
 Anchored Artifacts: A-1778.1
 Mentions: N-3
-Related Nodes: N-10510
+Related Nodes: N-10470
 Tags: relevance:context
 Investigative Direction: Obtain a copy of the NDA from an attendee to confirm its term.
 
@@ -1973,7 +1936,7 @@ Transcript Snippet: I'm referring to that same uh, storyline of TMZ somehow gets
 
 Anchored Artifacts: A-2934.1
 Mentions: N-3, N-802, N-69
-Related Nodes: N-11187, N-10011
+Related Nodes: N-11103, N-10011
 Tags: relevance:context
 Investigative Direction: Establish how the tape reached TMZ and what the FBI director's travel to Arizona was for.
 
@@ -1989,7 +1952,7 @@ Transcript Snippet: I would check out those Native American reservations because
 
 Anchored Artifacts: A-2934.1
 Mentions: N-3, N-802, N-9
-Related Nodes: N-11187
+Related Nodes: N-11103
 Tags: relevance:tangential
 Investigative Direction: No source is cited on air; the host says 'don't quote me on that' about the reservation boundary.
 
@@ -2005,7 +1968,7 @@ Transcript Snippet: And I do think that part of it was to distract us.
 
 Anchored Artifacts: A-2934.1
 Mentions: N-3, N-802
-Related Nodes: N-11187
+Related Nodes: N-11103
 Tags: relevance:tangential
 Investigative Direction: Compare coverage volume of the Guthrie case with coverage of the Kirk case during the same period.
 
@@ -2051,7 +2014,7 @@ Transcript Snippet: Yeah, they literally did. And then she got fired, but they'r
 
 Anchored Artifacts: A-2934.4, A-1776.2
 Mentions: N-3, N-553
-Related Nodes: N-11188
+Related Nodes: N-11104
 Tags: relevance:context
 Investigative Direction: Review the hearing video to confirm the booing and its timing.
 
@@ -2067,7 +2030,7 @@ Transcript Snippet: it was in the state of Colorado and at the Caris Bible Colle
 
 Anchored Artifacts: A-2934.3
 Mentions: N-3
-Related Nodes: N-10396
+Related Nodes: N-10369
 Tags: relevance:core
 Investigative Direction: Obtain the Charis Bible College event contract, security plan and communications with TPUSA.
 
@@ -2083,7 +2046,7 @@ Transcript Snippet: not a shred of evidence have they produced to tie this to Ty
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare against the exhibits and testimony from the preliminary hearing and the charging documents.
 
@@ -2099,7 +2062,7 @@ Transcript Snippet: I told you when I sat down with Erika, they didn't have anyt
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier account of her private interview with Erika.
 
@@ -2111,7 +2074,7 @@ Investigative Direction: Compare with the host's earlier account of her private 
 - A-1773.1 (Sept 8, 2025 home studio broadcast) shows the wedding photo present.
 - A-1774.1 (Dec 12, 2025 Glenn Beck interview, same office) shows the wedding photo absent.
 - A-1774.1 also captures Erika's claim of not having been in the office for a long time.
-- C-6514, C-6520, C-6521 all reference N-10506.
+- C-6514, C-6520, C-6521 all reference N-10467.
 
 This is the central inscribed contradiction of the episode: an artifact-backed before/after paired with a verbal claim that is difficult to reconcile with the visible change in the same physical space.
 
@@ -2285,6 +2248,6 @@ Confidence: high
 
 - **Claim failed admission test (not inscribed):** Candace Owens' speculation that "Charlie and Erika were arguing that night" over Israel pivot is interpretive commentary drawing on the artifacts but not directly supported by any artifact in this episode; not inscribed.
 
-- **Claim failed admission test (not inscribed):** Candace Owens' claim that Tyler Robinson's case has produced no evidence tying him to the assassination is interpretive commentary; not inscribed as a C-claim, but tracked as investigation target N-10508.
+- **Claim failed admission test (not inscribed):** Candace Owens' claim that Tyler Robinson's case has produced no evidence tying him to the assassination is interpretive commentary; not inscribed as a C-claim, but tracked as investigation target N-10106.
 
 ---

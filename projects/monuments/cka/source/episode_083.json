@@ -18,8 +18,8 @@
     "- **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11344, N-11345",
-    "  - Tip-minted Nodes (reintro-ep083): N-597, N-624, N-647, N-11208",
+    "  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11260, N-11261",
+    "  - Tip-minted Nodes (reintro-ep083): N-597, N-624, N-647, N-11124",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-7418–C-7506",
     "  - (see registers)",
@@ -39,8 +39,8 @@
     "## Episode 83 Ledger Summary",
     "",
     "- Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902",
-    "  - New Nodes Introduced: N-10562, N-10563, N-10564, N-10565",
-    "  - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-579, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218",
+    "  - New Nodes Introduced: N-10514, N-10515, N-10516, N-10517",
+    "  - Reused Nodes Appearing: N-11, N-10502, N-10513, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-579, N-10000, N-10015, N-10071, N-10106, N-10182, N-10185, N-10190, N-10194, N-10231, N-10289, N-10303, N-10332, N-10338, N-10449, N-10501, N-10505, N-10507, N-10508, N-10787, N-10846, N-10877, N-11134",
     "- Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacy Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)",
     "",
     "## 6. Meme Register",
@@ -410,7 +410,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7423, N-2, N-10560*"
+     "raw": "*Related: C-7423, N-2, N-10502*"
     },
     {
      "raw": ""
@@ -461,7 +461,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7478, C-7484, C-7480, C-7483, C-7485, C-7487, N-3, N-10563*"
+     "raw": "*Related: C-7478, C-7484, C-7480, C-7483, C-7485, C-7487, N-3, N-10515*"
     },
     {
      "raw": ""
@@ -501,7 +501,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7492, N-10563*"
+     "raw": "*Related: C-7492, N-10515*"
     },
     {
      "raw": ""
@@ -552,7 +552,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7493, N-10564*"
+     "raw": "*Related: C-7493, N-10516*"
     },
     {
      "raw": ""
@@ -654,7 +654,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7463, N-10562*"
+     "raw": "*Related: C-7463, N-10514*"
     },
     {
      "raw": ""
@@ -705,7 +705,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7497, N-10564*"
+     "raw": "*Related: C-7497, N-10516*"
     },
     {
      "raw": ""
@@ -745,7 +745,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7498, N-10564*"
+     "raw": "*Related: C-7498, N-10516*"
     },
     {
      "raw": ""
@@ -785,7 +785,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7499, N-10564*"
+     "raw": "*Related: C-7499, N-10516*"
     },
     {
      "raw": ""
@@ -836,7 +836,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7496, N-10564*"
+     "raw": "*Related: C-7496, N-10516*"
     },
     {
      "raw": ""
@@ -887,7 +887,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7432, C-7439, C-7440, C-7441, N-10561, N-10565*"
+     "raw": "*Related: C-7432, C-7439, C-7440, C-7441, N-10513, N-10517*"
     },
     {
      "raw": ""
@@ -927,7 +927,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-7454, N-10561*"
+     "raw": "*Related: C-7454, N-10513*"
     },
     {
      "raw": ""
@@ -1182,51 +1182,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10560",
-   "header": "**N-10560** Tarmac Hug Timeline Reconciliation Question",
-   "label": "Tarmac Hug Timeline Reconciliation Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "k": "Persistent investigative target",
-     "v": "Frank Turek estimates Erica at hospital around 4:00 p.m.; the plane allegedly carrying Andrew Kolvet landed approximately 4:40 p.m.; transit to hospital is at minimum 20 minutes. The host's reconciliation hypothesis: Erica arrived on an earlier flight; Andrew landed aboard Charlie's plane at 3:31 p.m. Utah time."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "k": "Evidence Count",
-     "v": "2"
-    },
-    {
-     "k": "Claim Count",
-     "v": "2"
-    },
-    {
-     "k": "Episode Count",
-     "v": "1"
-    },
-    {
-     "k": "Investigative Pressure",
-     "v": "High"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: A-1895.1, C-7423, C-7429, N-2, N-10565*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10561",
-   "header": "**N-10561** Stacy Sheridan September 10 Location Verification",
+   "id": "N-10513",
+   "header": "**N-10513** Stacy Sheridan September 10 Location Verification",
    "label": "Stacy Sheridan September 10 Location Verification",
    "lines": [
     {
@@ -1267,8 +1224,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10562",
-   "header": "**N-10562** Hopkinson Aircraft Erica Sighting Confirmation",
+   "id": "N-10514",
+   "header": "**N-10514** Hopkinson Aircraft Erica Sighting Confirmation",
    "label": "Hopkinson Aircraft Erica Sighting Confirmation",
    "lines": [
     {
@@ -1309,8 +1266,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10563",
-   "header": "**N-10563** Alexis Wilkins 13-Part Thread Analysis",
+   "id": "N-10515",
+   "header": "**N-10515** Alexis Wilkins 13-Part Thread Analysis",
    "label": "Alexis Wilkins 13-Part Thread Analysis",
    "lines": [
     {
@@ -1351,8 +1308,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10564",
-   "header": "**N-10564** Catholic Church Growth Discourse",
+   "id": "N-10516",
+   "header": "**N-10516** Catholic Church Growth Discourse",
    "label": "Catholic Church Growth Discourse",
    "lines": [
     {
@@ -1393,8 +1350,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10565",
-   "header": "**N-10565** Erika Kirk Arizona Activity Verification Gap",
+   "id": "N-10517",
+   "header": "**N-10517** Erika Kirk Arizona Activity Verification Gap",
    "label": "Erika Kirk Arizona Activity Verification Gap",
    "lines": [
     {
@@ -1427,7 +1384,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1899.1, A-1902.1, C-7463, C-7441, N-10560, N-10561, N-10562*"
+     "raw": "*Related: A-1899.1, A-1902.1, C-7463, C-7441, N-10502, N-10513, N-10514*"
     },
     {
      "raw": ""
@@ -2200,8 +2157,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -2229,8 +2186,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10110",
-   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "id": "N-10106",
+   "header": "**N-10106** Tyler Robinson Evidence Gaps",
    "label": "Tyler Robinson Evidence Gaps",
    "lines": [
     {
@@ -2258,8 +2215,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10190",
-   "header": "**N-10190** Signature FBO / Million Air FBO (entity cluster)",
+   "id": "N-10182",
+   "header": "**N-10182** Signature FBO / Million Air FBO (entity cluster)",
    "label": "Signature FBO / Million Air FBO (entity cluster)",
    "lines": [
     {
@@ -2287,8 +2244,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10193",
-   "header": "**N-10193** Mikey McCoy Call Log Verification",
+   "id": "N-10185",
+   "header": "**N-10185** Mikey McCoy Call Log Verification",
    "label": "Mikey McCoy Call Log Verification",
    "lines": [
     {
@@ -2316,8 +2273,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10198",
-   "header": "**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "id": "N-10190",
+   "header": "**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
    "label": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
    "lines": [
     {
@@ -2345,8 +2302,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10202",
-   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "id": "N-10194",
+   "header": "**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)",
    "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
    "lines": [
     {
@@ -2374,8 +2331,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10245",
-   "header": "**N-10245** Alexis Wilkins Honeypot Allegation Lawsuit",
+   "id": "N-10231",
+   "header": "**N-10231** Alexis Wilkins Honeypot Allegation Lawsuit",
    "label": "Alexis Wilkins Honeypot Allegation Lawsuit",
    "lines": [
     {
@@ -2403,8 +2360,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10307",
-   "header": "**N-10307** TPUSA Phoenix Livestream Verification Question",
+   "id": "N-10289",
+   "header": "**N-10289** TPUSA Phoenix Livestream Verification Question",
    "label": "TPUSA Phoenix Livestream Verification Question",
    "lines": [
     {
@@ -2432,8 +2389,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10324",
-   "header": "**N-10324** Epstein Files Release Status",
+   "id": "N-10303",
+   "header": "**N-10303** Epstein Files Release Status",
    "label": "Epstein Files Release Status",
    "lines": [
     {
@@ -2461,8 +2418,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10355",
-   "header": "**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "id": "N-10332",
+   "header": "**N-10332** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
    "label": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
    "lines": [
     {
@@ -2490,8 +2447,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10362",
-   "header": "**N-10362** Vehicle Disposition Question",
+   "id": "N-10338",
+   "header": "**N-10338** Vehicle Disposition Question",
    "label": "Vehicle Disposition Question",
    "lines": [
     {
@@ -2519,8 +2476,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10483",
-   "header": "**N-10483** Erika's Mother Medical Narrative",
+   "id": "N-10449",
+   "header": "**N-10449** Erika's Mother Medical Narrative",
    "label": "Erika's Mother Medical Narrative",
    "lines": [
     {
@@ -2548,8 +2505,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10546",
-   "header": "**N-10546** Joe Kent Resignation Aftermath Pattern",
+   "id": "N-10501",
+   "header": "**N-10501** Joe Kent Resignation Aftermath Pattern",
    "label": "Joe Kent Resignation Aftermath Pattern",
    "lines": [
     {
@@ -2577,8 +2534,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10548",
-   "header": "**N-10548** Tarmac Hug Account Discrepancy",
+   "id": "N-10502",
+   "header": "**N-10502** Tarmac Hug Account Discrepancy",
    "label": "Tarmac Hug Account Discrepancy",
    "lines": [
     {
@@ -2606,8 +2563,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10551",
-   "header": "**N-10551** Joe Kent Leak Accusation Chain",
+   "id": "N-10505",
+   "header": "**N-10505** Joe Kent Leak Accusation Chain",
    "label": "Joe Kent Leak Accusation Chain",
    "lines": [
     {
@@ -2635,8 +2592,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10554",
-   "header": "**N-10554** Andrew Kolvet 9/10 Flight Itinerary",
+   "id": "N-10507",
+   "header": "**N-10507** Andrew Kolvet 9/10 Flight Itinerary",
    "label": "Andrew Kolvet 9/10 Flight Itinerary",
    "lines": [
     {
@@ -2664,8 +2621,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10555",
-   "header": "**N-10555** Hopkinson Aircrafts Business Verification",
+   "id": "N-10508",
+   "header": "**N-10508** Hopkinson Aircrafts Business Verification",
    "label": "Hopkinson Aircrafts Business Verification",
    "lines": [
     {
@@ -2693,8 +2650,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10866",
-   "header": "**N-10866** Night-of Assassination Aloe Yoga Outfit Directive",
+   "id": "N-10787",
+   "header": "**N-10787** Night-of Assassination Aloe Yoga Outfit Directive",
    "label": "Night-of Assassination Aloe Yoga Outfit Directive",
    "lines": [
     {
@@ -2722,8 +2679,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10925",
-   "header": "**N-10925** Turning Point Action",
+   "id": "N-10846",
+   "header": "**N-10846** Turning Point Action",
    "label": "Turning Point Action",
    "lines": [
     {
@@ -2751,8 +2708,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10956",
-   "header": "**N-10956** Catholics for Catholics",
+   "id": "N-10877",
+   "header": "**N-10877** Catholics for Catholics",
    "label": "Catholics for Catholics",
    "lines": [
     {
@@ -2780,8 +2737,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11208",
-   "header": "**N-11208** Timpanogos Hospital Group Arrival Question",
+   "id": "N-11124",
+   "header": "**N-11124** Timpanogos Hospital Group Arrival Question",
    "label": "Timpanogos Hospital Group Arrival Question",
    "lines": [
     {
@@ -2809,8 +2766,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11218",
-   "header": "**N-11218** Timpanogos Regional Hospital",
+   "id": "N-11134",
+   "header": "**N-11134** Timpanogos Regional Hospital",
    "label": "Timpanogos Regional Hospital",
    "lines": [
     {
@@ -2898,8 +2855,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11344",
-   "header": "**N-11344** Erika Kirk Death-Notification Account Discrepancy",
+   "id": "N-11260",
+   "header": "**N-11260** Erika Kirk Death-Notification Account Discrepancy",
    "label": "Erika Kirk Death-Notification Account Discrepancy",
    "lines": [
     {
@@ -2931,8 +2888,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11345",
-   "header": "**N-11345** Katherine LoCastro Vehicle Retrieval and Overnight Items Question",
+   "id": "N-11261",
+   "header": "**N-11261** Katherine LoCastro Vehicle Retrieval and Overnight Items Question",
    "label": "Katherine LoCastro Vehicle Retrieval and Overnight Items Question",
    "lines": [
     {
@@ -3005,7 +2962,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560"
+     "v": "N-10502"
     },
     {
      "raw": ""
@@ -3106,7 +3063,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10565"
+     "v": "N-10517"
     },
     {
      "raw": ""
@@ -3258,7 +3215,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10561, N-10565"
+     "v": "N-10513, N-10517"
     },
     {
      "raw": ""
@@ -3359,7 +3316,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10562, N-10565"
+     "v": "N-10514, N-10517"
     },
     {
      "raw": ""
@@ -3409,7 +3366,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3459,7 +3416,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3509,7 +3466,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3559,7 +3516,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3609,7 +3566,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3659,7 +3616,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3709,7 +3666,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "raw": ""
@@ -3755,7 +3712,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "raw": ""
@@ -3801,7 +3758,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "raw": ""
@@ -3847,7 +3804,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "raw": ""
@@ -3893,7 +3850,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "raw": ""
@@ -3943,7 +3900,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "raw": ""
@@ -3993,7 +3950,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560"
+     "v": "N-10502"
     },
     {
      "raw": ""
@@ -4053,7 +4010,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560, N-10548"
+     "v": "N-10502"
     },
     {
      "k": "Supports",
@@ -4118,7 +4075,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10307"
+     "v": "N-10507, N-10289"
     },
     {
      "k": "Tags",
@@ -4179,7 +4136,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554, N-10307"
+     "v": "N-10507, N-10289"
     },
     {
      "k": "Tags",
@@ -4301,7 +4258,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560, N-10548, N-10554"
+     "v": "N-10502, N-10507"
     },
     {
      "k": "Tags",
@@ -4362,7 +4319,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10074, N-11218, N-10560"
+     "v": "N-10071, N-11134, N-10502"
     },
     {
      "k": "Tags",
@@ -4423,7 +4380,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560, N-11218"
+     "v": "N-10502, N-11134"
     },
     {
      "k": "Supports",
@@ -4488,7 +4445,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560"
+     "v": "N-10502"
     },
     {
      "k": "Supports",
@@ -4553,7 +4510,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548"
+     "v": "N-10502"
     },
     {
      "k": "Supports",
@@ -4618,7 +4575,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548"
+     "v": "N-10502"
     },
     {
      "k": "Tags",
@@ -4679,7 +4636,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548"
+     "v": "N-10502"
     },
     {
      "k": "Tags",
@@ -4797,7 +4754,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10565"
+     "v": "N-10000, N-10517"
     },
     {
      "k": "Supports",
@@ -4862,7 +4819,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10193, N-10198"
+     "v": "N-10185, N-10190"
     },
     {
      "k": "Supports",
@@ -4984,7 +4941,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10565"
+     "v": "N-10000, N-10517"
     },
     {
      "k": "Supports",
@@ -5049,7 +5006,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10925"
+     "v": "N-10846"
     },
     {
      "k": "Tags",
@@ -5110,7 +5067,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10561"
+     "v": "N-10513"
     },
     {
      "k": "Tags",
@@ -5171,7 +5128,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10560, N-10565"
+     "v": "N-10502, N-10517"
     },
     {
      "k": "Tags",
@@ -5232,7 +5189,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10565"
+     "v": "N-10517"
     },
     {
      "k": "Tags",
@@ -5293,7 +5250,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10565"
+     "v": "N-10517"
     },
     {
      "k": "Tags",
@@ -5354,7 +5311,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10565, N-10190"
+     "v": "N-10517, N-10182"
     },
     {
      "k": "Tags",
@@ -5415,7 +5372,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10483, N-10565"
+     "v": "N-10449, N-10517"
     },
     {
      "k": "Supports",
@@ -5480,7 +5437,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10561, N-10565"
+     "v": "N-10513, N-10517"
     },
     {
      "k": "Supports",
@@ -5545,7 +5502,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11344, N-10190, N-10565"
+     "v": "N-11260, N-10182, N-10517"
     },
     {
      "k": "Contradicts",
@@ -5610,7 +5567,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11344, N-10565"
+     "v": "N-11260, N-10517"
     },
     {
      "k": "Tags",
@@ -5671,7 +5628,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11208, N-10565"
+     "v": "N-11124, N-10517"
     },
     {
      "k": "Tags",
@@ -5732,7 +5689,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11208"
+     "v": "N-11124"
     },
     {
      "k": "Supports",
@@ -5797,7 +5754,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11208, N-10548"
+     "v": "N-11124, N-10502"
     },
     {
      "k": "Contradicts",
@@ -5862,7 +5819,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11345, N-10362"
+     "v": "N-11261, N-10338"
     },
     {
      "k": "Tags",
@@ -5923,7 +5880,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10866, N-11345"
+     "v": "N-10787, N-11261"
     },
     {
      "k": "Tags",
@@ -5984,7 +5941,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11345, N-10362"
+     "v": "N-11261, N-10338"
     },
     {
      "k": "Tags",
@@ -6045,7 +6002,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11345"
+     "v": "N-11261"
     },
     {
      "k": "Tags",
@@ -6106,7 +6063,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10555, N-10562"
+     "v": "N-10508, N-10514"
     },
     {
      "k": "Tags",
@@ -6167,7 +6124,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10555, N-10562, N-10565"
+     "v": "N-10508, N-10514, N-10517"
     },
     {
      "k": "Tags",
@@ -6228,7 +6185,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10555"
+     "v": "N-10508"
     },
     {
      "k": "Tags",
@@ -6289,7 +6246,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10562, N-10565"
+     "v": "N-10514, N-10517"
     },
     {
      "k": "Tags",
@@ -6350,7 +6307,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10562, N-10565"
+     "v": "N-10514, N-10517"
     },
     {
      "k": "Supports",
@@ -6415,7 +6372,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -6476,7 +6433,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -6537,7 +6494,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -6598,7 +6555,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10546, N-10355"
+     "v": "N-10501, N-10332"
     },
     {
      "k": "Tags",
@@ -6659,7 +6616,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -6720,7 +6677,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10110"
+     "v": "N-10106"
     },
     {
      "k": "Tags",
@@ -6781,7 +6738,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563, N-10202"
+     "v": "N-10515, N-10194"
     },
     {
      "k": "Tags",
@@ -6842,7 +6799,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "k": "Supports",
@@ -6907,7 +6864,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "k": "Tags",
@@ -6968,7 +6925,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10245"
+     "v": "N-10231"
     },
     {
      "k": "Supports",
@@ -7094,7 +7051,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563, N-10245"
+     "v": "N-10515, N-10231"
     },
     {
      "k": "Tags",
@@ -7155,7 +7112,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563, N-10956"
+     "v": "N-10515, N-10877"
     },
     {
      "k": "Supports",
@@ -7220,7 +7177,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563, N-10015, N-10245"
+     "v": "N-10515, N-10015, N-10231"
     },
     {
      "k": "Tags",
@@ -7281,7 +7238,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10956"
+     "v": "N-10877"
     },
     {
      "k": "Tags",
@@ -7342,7 +7299,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10956, N-10563"
+     "v": "N-10877, N-10515"
     },
     {
      "k": "Tags",
@@ -7403,7 +7360,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "k": "Contradicts",
@@ -7468,7 +7425,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10956, N-10546"
+     "v": "N-10877, N-10501"
     },
     {
      "k": "Tags",
@@ -7529,7 +7486,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563, N-10546"
+     "v": "N-10515, N-10501"
     },
     {
      "k": "Tags",
@@ -7590,7 +7547,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10324"
+     "v": "N-10303"
     },
     {
      "k": "Tags",
@@ -7651,7 +7608,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "k": "Tags",
@@ -7712,7 +7669,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "k": "Tags",
@@ -7773,7 +7730,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "k": "Tags",
@@ -7834,7 +7791,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10564"
+     "v": "N-10516"
     },
     {
      "k": "Tags",
@@ -7895,7 +7852,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10551"
+     "v": "N-10505"
     },
     {
      "k": "Supports",
@@ -7960,7 +7917,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10551"
+     "v": "N-10505"
     },
     {
      "k": "Tags",
@@ -8021,7 +7978,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "k": "Tags",
@@ -8082,7 +8039,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10563"
+     "v": "N-10515"
     },
     {
      "k": "Tags",
@@ -8143,7 +8100,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10561"
+     "v": "N-10513"
     },
     {
      "k": "Supports",
@@ -8208,7 +8165,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10483, N-10565"
+     "v": "N-10449, N-10517"
     },
     {
      "k": "Supports",

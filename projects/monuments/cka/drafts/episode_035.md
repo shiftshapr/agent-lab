@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-11160, N-11161
-  - Hole-minted Nodes (reintro-ep035): N-10289, N-10316, N-10530, N-10672, N-10699, N-10862
-  - Tip-minted Nodes (reintro-ep035): N-10911, N-11061
+  - Tip-minted Nodes (supplement_2026-10c): N-11076, N-11077
+  - Hole-minted Nodes (reintro-ep035): N-10271, N-10297, N-10486, N-10612, N-10636, N-10783
+  - Tip-minted Nodes (reintro-ep035): N-10832, N-10979
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3050–C-3151
-  - New Nodes Introduced: N-265, N-10265, N-10269
-  - Reused Nodes Appearing: N-2, N-266, N-267, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-186, N-190, N-217, N-277, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-268, N-10341, N-10266
+  - New Nodes Introduced: N-265, N-10249, N-10253
+  - Reused Nodes Appearing: N-2, N-266, N-267, N-10251, N-10252, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-186, N-190, N-217, N-277, N-10000, N-10001, N-10002, N-10014, N-10044, N-10071, N-10081, N-10109, N-10112, N-10127, N-10150, N-10172, N-10194, N-10216, N-10234, N-10239, N-10241, N-10254, N-10303, N-10214, N-10404, N-10931, N-268, N-10319, N-10250
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268
@@ -125,7 +125,7 @@ Video Timestamp: 00:05:32–00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read with stated redactions; source identity withheld)
 
-*Related: C-3052, C-3056, C-3087, C-3067, C-3068, N-10265, N-10266*
+*Related: C-3052, C-3056, C-3087, C-3067, C-3068, N-10249, N-10250*
 
 **A-1436** Flight Pattern Timeline Bundle
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:02:32–00:05:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3052, C-3056, N-10266*
+*Related: C-3052, C-3056, N-10250*
 
 **A-1436.2** Host-compiled timeline of "green planes" (planes that scrambled after the shooting) including Cessna Citation Scottsdale-Provo-Santa Barbara-Scottsdale; Beachcraft Scottsdale departure; 15–16-passenger flight (Charlie's plane) routing Salt Lake City–Provo–Scottsdale; Santa Barbara departure 2:19 PM local
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:19:00–00:20:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3087, N-10266*
+*Related: C-3087, N-10250*
 
 **A-1437** DOJ 1997 Directory Reference
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:10:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-asserted verification)
 
-*Related: C-3067, N-10265*
+*Related: C-3067, N-10249*
 
 **A-1438** SATYS Wilmington Hangar Bundle
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:12:23–00:13:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3068, C-3073, N-10269*
+*Related: C-3068, C-3073, N-10253*
 
 **A-1439** DRBA January 2024 Resolution
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:13:22–00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3073, N-10269*
+*Related: C-3073, N-10253*
 
 **A-1440** FBI December 5, 2024 Press Release
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:17:46–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3075, N-265, N-10265*
+*Related: C-3075, N-265, N-10249*
 
 **A-1441** Frank Turek Interview Bundle
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:31:42–00:32:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3082, N-7, N-10267*
+*Related: C-3082, N-7, N-10251*
 
 **A-1442** Brian Harpole Interview Bundle
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:30:52–00:31:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3110, N-266, N-10267*
+*Related: C-3110, N-266, N-10251*
 
 **A-1442.2** Brian Harpole on Shawn Ryan repeating the "3,000 lbs of energy" / "C6 vertebra" bullet-trajectory description
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:44:03–00:44:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3133, N-267, N-10268*
+*Related: C-3133, N-267, N-10252*
 
 ---
 
@@ -419,7 +419,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1442.1, A-1442.2, C-3110, C-3106, N-10267*
+*Related: A-1442.1, A-1442.2, C-3110, C-3106, N-10251*
 
 **N-7** Frank Turek
 
@@ -430,7 +430,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1441.1, C-3082, N-10267*
+*Related: A-1441.1, C-3082, N-10251*
 
 **N-267** Tim Pool
 
@@ -465,7 +465,7 @@ Investigative Pressure: Low
 
 *Related: A-1443.1, C-3115*
 
-**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
+**N-10249** 920 North King Street / 1 Rodney Square Federal Facility
 
 Insider-claimed joint FBI/DEA/Secret Service site tied to SUBTT Wilmington visits; identified via 1997 DOJ directory (A-1437.1) and December 2024 FBI press release (A-1440.1).
 
@@ -476,7 +476,7 @@ Investigative Pressure: High
 
 *Related: A-1435.1, A-1437.1, A-1440.1, C-3067, C-3068, C-3075*
 
-**N-10266** SUBTT Wilmington Visit Pattern
+**N-10250** SUBTT Wilmington Visit Pattern
 
 Persistence of SUBTT (Egyptian military Falcon 7X) visits to Wilmington, Delaware before/after assassination; basis of insider email (A-1435.1) and host flight timeline (A-1436.1, A-1436.3).
 
@@ -487,7 +487,7 @@ Investigative Pressure: High
 
 *Related: A-1435.1, A-1436.1, A-1436.3, C-3052, C-3056, C-3087*
 
-**N-10267** TPUSA Drone Disclosure Discrepancy
+**N-10251** TPUSA Drone Disclosure Discrepancy
 
 Contradiction between Frank Turek (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.
 
@@ -498,7 +498,7 @@ Investigative Pressure: Medium
 
 *Related: A-1441.1, A-1442.1, C-3082, C-3110*
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Tim Pool (A-1444.2) and host both describe being disinvited from TPUSA's AmFest.
 
@@ -509,7 +509,7 @@ Investigative Pressure: Low
 
 *Related: A-1444.2, C-3133*
 
-**N-10269** Wilmington Airport Hangar Federal Connection
+**N-10253** Wilmington Airport Hangar Federal Connection
 
 SATYS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.
 
@@ -538,7 +538,7 @@ Widow and TPUSA CEO; named as a passenger the host lists and as next of kin for 
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -546,7 +546,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10672** Egyptian Military Aircraft Shuttle Pattern
+**N-10612** Egyptian Military Aircraft Shuttle Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -554,7 +554,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing topic reused for new claims in this episode.
 
@@ -562,7 +562,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11160** SUBTT Wilmington Maintenance Alibi Question
+**N-11076** SUBTT Wilmington Maintenance Alibi Question
 
 Node Type: Topic
 The dispute over whether SUBTT's Wilmington stops were routine maintenance, including X users citing a Falcon maintenance arrangement dating to 1999 and the email's rebuttal based on the Dassault center closure and the SATYS timeline.
@@ -579,7 +579,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-11161** Wilmington Federal Vehicle Handoff Claim
+**N-11077** Wilmington Federal Vehicle Handoff Claim
 
 Node Type: Topic
 The insider email's claim that federal or local-plated vehicles tied to 920 North King Street met SUBTT at Wilmington airport and moved people or assets under diplomatic cover.
@@ -588,7 +588,7 @@ The insider email's claim that federal or local-plated vehicles tied to 920 Nort
 
 ---
 
-**N-10911** Department of Homeland Security
+**N-10832** Department of Homeland Security
 
 Existing topic reused for new claims in this episode.
 
@@ -596,7 +596,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10289** Rodney Square / 500 Delaware Avenue Federal Cluster
+**N-10271** Rodney Square / 500 Delaware Avenue Federal Cluster
 
 Existing topic reused for new claims in this episode.
 
@@ -612,7 +612,7 @@ FBI Director; the host says she knows why he is out.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for new claims in this episode.
 
@@ -628,7 +628,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10180** Bullet Trajectory and Caliber Verification
+**N-10172** Bullet Trajectory and Caliber Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -636,7 +636,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -644,7 +644,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
+**N-10241** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 
 Existing topic reused for new claims in this episode.
 
@@ -660,7 +660,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-11061** Restaurantology Event Green Room Attendance Question
+**N-10979** Restaurantology Event Green Room Attendance Question
 
 Existing topic reused for new claims in this episode.
 
@@ -676,7 +676,7 @@ The host assumes he coordinated Charlie's plane and says he probably called Eliz
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing topic reused for new claims in this episode.
 
@@ -716,7 +716,7 @@ Named in the host's list of passengers who came from Arizona.
 
 ---
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Existing topic reused for new claims in this episode.
 
@@ -732,15 +732,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10427** TPUSA Drone Story Discrepancy
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-3113*
-
----
-
-**N-10155** Autopsy Record – Utah Privacy Statute Application
+**N-10150** Autopsy Record – Utah Privacy Statute Application
 
 Existing topic reused for new claims in this episode.
 
@@ -748,7 +740,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10229** Autopsy Report and Evidence Access Asymmetry
+**N-10216** Autopsy Report and Evidence Access Asymmetry
 
 Existing topic reused for new claims in this episode.
 
@@ -764,7 +756,7 @@ Interviewer of Brian Harpole in the clip.
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Existing topic reused for new claims in this episode.
 
@@ -772,7 +764,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -788,7 +780,7 @@ Named in the Rogan and Von clip and the host's remark on protection of Epstein.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused for new claims in this episode.
 
@@ -804,7 +796,7 @@ Subject of the Macron story discussed with the Rogan and Von clip.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused for new claims in this episode.
 
@@ -812,7 +804,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -820,7 +812,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Existing topic reused for new claims in this episode.
 
@@ -828,7 +820,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10113** Beehive Code / School Underground Premonition
+**N-10109** Beehive Code / School Underground Premonition
 
 Existing topic reused for new claims in this episode.
 
@@ -844,7 +836,7 @@ Cited by the host on psychopathy.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims in this episode.
 
@@ -852,7 +844,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10248** Calvary Chapel Network Infiltration Question
+**N-10234** Calvary Chapel Network Infiltration Question
 
 Existing topic reused for new claims in this episode.
 
@@ -868,7 +860,7 @@ Comedian whose clip the host showed, which drew a copyright claim.
 
 ---
 
-**N-10530** TPUSA Super Feed Copyright / Data Routing Question
+**N-10486** TPUSA Super Feed Copyright / Data Routing Question
 
 Existing topic reused for new claims in this episode.
 
@@ -876,7 +868,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10116** MK Ultra Continuity Theory
+**N-10112** MK Ultra Continuity Theory
 
 Existing topic reused for new claims in this episode.
 
@@ -892,7 +884,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Existing topic reused for new claims in this episode.
 
@@ -900,7 +892,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Existing topic reused for new claims in this episode.
 
@@ -918,7 +910,7 @@ Claim: The host says the yellow Egyptian government jet (tail number SUBTT) depa
 
 Anchored Artifacts: A-1435.1, A-1436.1
 
-Related Nodes: N-10266
+Related Nodes: N-10250
 
 Investigative Direction: Cross-reference host's timeline against independent ADS-B / FlightAware historical data for September 10, 2025.
 
@@ -932,7 +924,7 @@ Claim: The host says the Egyptian plane remained in Wilmington, Delaware overnig
 
 Anchored Artifacts: A-1435.1, A-1436.1
 
-Related Nodes: N-10266
+Related Nodes: N-10250
 
 Investigative Direction: Verify overnight ground time via independent flight tracking and Wilmington airport records.
 
@@ -946,7 +938,7 @@ Claim: Per an anonymous email the host reads, SUBTT flew Cairo–Paris–Wichita
 
 Anchored Artifacts: A-1435.1, A-1436.3
 
-Related Nodes: N-10266
+Related Nodes: N-10250
 
 Investigative Direction: Verify against independent historical ADS-B / FAA records for tail number SUBTT in November 2022.
 
@@ -960,7 +952,7 @@ Claim: Per an anonymous email the host reads, and which the host says her team c
 
 Anchored Artifacts: A-1437.1
 
-Related Nodes: N-10265
+Related Nodes: N-10249
 
 Investigative Direction: Obtain the cited DOJ directory and confirm page 675 directly; compare against current DOJ directory listings.
 
@@ -974,7 +966,7 @@ Claim: Per the anonymous email the host reads, current public directories show t
 
 Anchored Artifacts: A-1435.1, A-1437.1
 
-Related Nodes: N-10265
+Related Nodes: N-10249
 
 Investigative Direction: Verify via direct lookups of each agency's published Wilmington field office directory entries; cross-check Google business listings.
 
@@ -988,7 +980,7 @@ Claim: Per the anonymous email the host reads, a French aircraft finishing compa
 
 Anchored Artifacts: A-1438.1
 
-Related Nodes: N-10269
+Related Nodes: N-10253
 
 Investigative Direction: Locate SATYS press release and Delaware outlet coverage; confirm date and dollar figure.
 
@@ -1002,7 +994,7 @@ Claim: Per an email the host reads, which quotes a Delaware River and Bay Author
 
 Anchored Artifacts: A-1439.1
 
-Related Nodes: N-10269
+Related Nodes: N-10253
 
 Investigative Direction: Obtain the DRBA resolution document directly from DRBA public records.
 
@@ -1017,7 +1009,7 @@ Claim: Per the anonymous email the host reads, which quotes an FBI press release
 Anchored Artifacts: A-1440.1
 Mentions: N-265
 
-Related Nodes: N-10265
+Related Nodes: N-10249
 
 Investigative Direction: Locate and review the FBI press release directly; verify quoted phrases and date.
 
@@ -1032,7 +1024,7 @@ Claim: Frank Turek, on the Megyn Kelly Show, stated that on the day of the event
 Anchored Artifacts: A-1441.1
 Mentions: N-7, N-46, N-1
 
-Related Nodes: N-10267
+Related Nodes: N-10251
 
 Investigative Direction: Obtain the full Megyn Kelly / Frank Turek interview clip and timestamp; confirm exact wording.
 
@@ -1047,7 +1039,7 @@ Claim: The host says Brian Harpole, in his Shawn Ryan interview, basically said 
 Anchored Artifacts: A-1442.1
 Mentions: N-266, N-224
 
-Related Nodes: N-10267
+Related Nodes: N-10251
 
 Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.
 
@@ -1090,7 +1082,7 @@ Claim: Tim Pool stated in a video that he had been told he couldn't come to AmFe
 Anchored Artifacts: A-1444.2
 Mentions: N-267
 
-Related Nodes: N-10268
+Related Nodes: N-10252
 
 Investigative Direction: Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.
 
@@ -1120,7 +1112,7 @@ Transcript Snippet: this individual who works with or for government sent it bef
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10253, N-10266
+Related Nodes: N-10239, N-10250
 Tags: relevance:core
 Investigative Direction: Obtain the original email with its received date and compare it with the first episode in which the host tied the Egyptian planes to Erika Kirk and Charlie Kirk.
 
@@ -1136,7 +1128,7 @@ Transcript Snippet: the yellow jet tail number SUBTT which kept overlaying somet
 
 Anchored Artifacts: A-1436.1
 Mentions: N-3
-Related Nodes: N-10266, N-10672
+Related Nodes: N-10250, N-10612
 Tags: relevance:core
 Investigative Direction: Pull the full SUBTT flight history from independent ADS-B and FAA sources and count Wilmington stops and ground times.
 
@@ -1152,7 +1144,7 @@ Transcript Snippet: the plane that had initially carried over the 12 or 14 quote
 
 Anchored Artifacts: A-1436.1
 Mentions: N-3
-Related Nodes: N-10266, N-10074
+Related Nodes: N-10250, N-10071
 Supports: C-2139
 Tags: relevance:core
 Investigative Direction: Compare the September 4 Provo arrival record for SUBTT with the September 10 departure record to confirm it is the same airframe and passenger count.
@@ -1169,7 +1161,7 @@ Transcript Snippet: Charlie's going to get shot at 12:23. This plane has landed 
 
 Anchored Artifacts: A-1436.1
 Mentions: N-1, N-3
-Related Nodes: N-10266
+Related Nodes: N-10250
 Supports: C-3052
 Tags: relevance:core
 Investigative Direction: Check the SUBTT wheels-down time at Wilmington against the shooting time established in the official timeline.
@@ -1186,7 +1178,7 @@ Transcript Snippet: people that were working in federal agencies and people that
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10265
+Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the agencies and offices consulted, or have independent sources with access to the same agencies test the email's premises.
 
@@ -1202,7 +1194,7 @@ Transcript Snippet: We vetted it across multiple government agencies and to real
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10265
+Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Request the names, roles or agencies of the vetting sources, or independent corroboration of the email's central claims.
 
@@ -1218,7 +1210,7 @@ Transcript Snippet: Some people may tell you that SUBTT stopped at Wilmington be
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10266, N-11160, N-10014
+Related Nodes: N-10250, N-11076, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain Wilmington airport and hangar service records for SUBTT and compare with the flight timeline.
 
@@ -1234,7 +1226,7 @@ Transcript Snippet: I tried to pull non-public movement data and it came up empt
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10266
+Related Nodes: N-10250
 Tags: relevance:core
 Investigative Direction: Ask CBP, FAA and Wilmington airport authorities how diplomatic arrivals are logged and whether SUBTT's September 10 arrival appears.
 
@@ -1250,7 +1242,7 @@ Transcript Snippet: I can confirm that blank uses vehicles which often leave and
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-11161
+Related Nodes: N-11077
 Tags: relevance:core
 Investigative Direction: Identify the redacted entity from the original email and seek airport gate logs or vehicle access records.
 
@@ -1266,7 +1258,7 @@ Transcript Snippet: Government vehicles either pick up, monitor, or escort every
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-11161
+Related Nodes: N-11077
 Tags: relevance:core
 Investigative Direction: Obtain Wilmington airport security and tenant rules on gate access for foreign government aircraft.
 
@@ -1282,7 +1274,7 @@ Transcript Snippet: I can guarantee you that the vehicles affiliated with this w
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-11161, N-10265
+Related Nodes: N-11077, N-10249
 Tags: relevance:core
 Investigative Direction: Seek airport gate logs, camera footage or witness statements for vehicle movements at SUBTT's Wilmington arrival on September 10, 2025.
 
@@ -1298,7 +1290,7 @@ Transcript Snippet: Nearly every federal vehicle that visits the airport will pa
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10265, N-11161
+Related Nodes: N-10249, N-11077
 Tags: relevance:context
 Investigative Direction: Check the fleet and parking arrangements at 920 North King Street through public records and building tenant information.
 
@@ -1314,7 +1306,7 @@ Transcript Snippet: they most likely immediately swapped the plates for local, b
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-11161
+Related Nodes: N-11077
 Tags: relevance:core
 Investigative Direction: Seek Delaware DMV or toll-camera plate records for vehicles at the airport on September 10, 2025.
 
@@ -1330,7 +1322,7 @@ Transcript Snippet: a meeting that's not in a car. That is what I am telling you
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10266, N-10265
+Related Nodes: N-10250, N-10249
 Tags: relevance:core
 Investigative Direction: Look for any record of where SUBTT passengers went after landing, such as hotel, ground transport or building access logs.
 
@@ -1346,7 +1338,7 @@ Transcript Snippet: this is known among insiders. And if you want confirmation, 
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10265
+Related Nodes: N-10249
 Tags: relevance:core
 Investigative Direction: Seek on-record or documentary confirmation from any insider named in the email chain; treat the claim as unverified until then.
 
@@ -1362,7 +1354,7 @@ Transcript Snippet: In the Secret Service case, the AY's own 2025 field office l
 
 Anchored Artifacts: A-1437.1
 Mentions: N-3
-Related Nodes: N-10265, N-10911
+Related Nodes: N-10249, N-10832
 Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Retrieve the Secret Service 2025 field office list and the DEA directory entry for Wilmington and compare addresses and suite numbers.
@@ -1379,7 +1371,7 @@ Transcript Snippet: That means the suites that the Department of Justice owned i
 
 Anchored Artifacts: A-1437.1
 Mentions: N-3
-Related Nodes: N-10265
+Related Nodes: N-10249
 Supports: C-3067
 Tags: relevance:core
 Investigative Direction: Review GSA lease and building tenant records for 920 North King Street from 1997 to date.
@@ -1396,7 +1388,7 @@ Transcript Snippet: It looks exactly like a mini version of the thing. The only 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10265
+Related Nodes: N-10249
 Tags: relevance:tangential
 Investigative Direction: Compare photographs of both buildings; the resemblance has no bearing on tenancy.
 
@@ -1412,7 +1404,7 @@ Transcript Snippet: SUBTT has an alibi because it quote unquote aligns with a lo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11160, N-10266
+Related Nodes: N-11076, N-10250
 Tags: relevance:context
 Investigative Direction: Locate the original X posts and any documentation of a Falcon maintenance arrangement at Wilmington.
 
@@ -1428,7 +1420,7 @@ Transcript Snippet: Wilmington used to have a Dissult Falcon authorized center b
 
 Anchored Artifacts: A-1438.1
 Mentions: N-3
-Related Nodes: N-10269, N-11160
+Related Nodes: N-10253, N-11076
 Supports: C-3073
 Tags: relevance:core
 Investigative Direction: Confirm the closure date through Dassault Falcon service-center listings and Wilmington airport tenant records.
@@ -1445,7 +1437,7 @@ Transcript Snippet: The chain here that would report from the people who control
 
 Anchored Artifacts: A-1439.1
 Mentions: N-3
-Related Nodes: N-10269
+Related Nodes: N-10253
 Supports: C-3075
 Tags: relevance:context
 Investigative Direction: Review DRBA's enabling compact and federal oversight to test whether its airport lease decisions fall under any federal chain of authority.
@@ -1462,7 +1454,7 @@ Transcript Snippet: your own timeline shows how they traveled to France before t
 
 Anchored Artifacts: A-1438.1, A-1439.1
 Mentions: N-3
-Related Nodes: N-10269, N-11160, N-10266
+Related Nodes: N-10253, N-11076, N-10250
 Tags: relevance:core
 Investigative Direction: Line up SUBTT's France stops and Wilmington stops against the January 2024 DRBA resolution and December 2024 SATYS announcement.
 
@@ -1478,7 +1470,7 @@ Transcript Snippet: you will likely get 920 North King Street with the label Fed
 
 Anchored Artifacts: A-1437.1
 Mentions: N-3
-Related Nodes: N-10265, N-10289, N-10014
+Related Nodes: N-10249, N-10271, N-10014
 Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Archive current and historical Google Business and FBI field office listings for both Wilmington addresses.
@@ -1495,7 +1487,7 @@ Transcript Snippet: this actually seems to be a joint DOJ DHS site which verifia
 
 Anchored Artifacts: A-1437.1
 Mentions: N-3
-Related Nodes: N-10265, N-10911, N-10014
+Related Nodes: N-10249, N-10832, N-10014
 Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Survey federal multi-agency leased suites through GSA and agency directories to test whether the arrangement is unusual.
@@ -1512,7 +1504,7 @@ Transcript Snippet: Multiple agents of multiple different agencies in one suite 
 
 Anchored Artifacts: A-1437.1
 Mentions: N-3
-Related Nodes: N-10265
+Related Nodes: N-10249
 Tags: relevance:context
 Investigative Direction: Ask former federal law enforcement officials and GSA staff whether such co-location is routine.
 
@@ -1528,7 +1520,7 @@ Transcript Snippet: They chose to mention partners. They didn't say that he met 
 
 Anchored Artifacts: A-1440.1
 Mentions: N-265, N-3
-Related Nodes: N-10265, N-10014
+Related Nodes: N-10249, N-10014
 Supports: C-3082
 Tags: relevance:context
 Investigative Direction: Read the December 5, 2024 FBI release in full to see where Wray met the partners and whom the release names.
@@ -1545,7 +1537,7 @@ Transcript Snippet: We have an entire generation of law enforcement and the priv
 
 Anchored Artifacts: A-1440.1
 Mentions: N-265, N-3
-Related Nodes: N-10014, N-10265
+Related Nodes: N-10014, N-10249
 Supports: C-3082
 Tags: relevance:context
 Investigative Direction: Locate the FBI release and confirm the exact wording and location context of Wray's remarks.
@@ -1562,7 +1554,7 @@ Transcript Snippet: Within an hour, federal SUVs move from that airport to 920 N
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-11161, N-10265, N-10266
+Related Nodes: N-11077, N-10249, N-10250
 Tags: relevance:core
 Investigative Direction: Seek camera, toll or witness evidence of vehicle movements between the airport and 920 North King Street on September 10, 2025.
 
@@ -1578,7 +1570,7 @@ Transcript Snippet: The FBI also publicly talks about key partners in Wilmington
 
 Anchored Artifacts: A-1440.1, A-1438.1
 Mentions: N-3
-Related Nodes: N-10014, N-10269
+Related Nodes: N-10014, N-10253
 Supports: C-3082
 Tags: relevance:context
 Investigative Direction: Confirm that the December 2024 FBI release concerns Wilmington and check the hangar reactivation date.
@@ -1595,7 +1587,7 @@ Transcript Snippet: Omaha, Lincoln, Willist, May not and Provo. None of these ar
 
 Anchored Artifacts: A-1436.3
 Mentions: N-3
-Related Nodes: N-10672, N-10074, N-10266
+Related Nodes: N-10612, N-10071, N-10250
 Tags: relevance:core
 Investigative Direction: Compile the dated SUBTT stops in each listed city from independent flight data and check for Egyptian diplomatic or business presence there.
 
@@ -1611,7 +1603,7 @@ Transcript Snippet: Wilmington is undeniably a terminal point and the only logic
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10265, N-10266
+Related Nodes: N-10249, N-10250
 Tags: relevance:core
 Investigative Direction: Test alternative explanations such as maintenance, fueling or crew rest against flight and ground-time data.
 
@@ -1627,7 +1619,7 @@ Transcript Snippet: I think we know why Kash Patel is out, right? I mean, I read
 
 Anchored Artifacts: A-1435.1
 Mentions: N-69, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Establish what the host means by out, with the dated FBI personnel record, and what link she draws to the Wilmington site.
 
@@ -1659,7 +1651,7 @@ Transcript Snippet: Secret Service, the FBI, the DEA being involved, why this pl
 
 Anchored Artifacts: A-1435.1
 Mentions: N-3
-Related Nodes: N-10265, N-10266, N-10014, N-10911
+Related Nodes: N-10249, N-10250, N-10014, N-10832
 Tags: relevance:core
 Investigative Direction: Demand documentary proof tying SUBTT's passengers to the tenants at 920 North King Street.
 
@@ -1675,7 +1667,7 @@ Transcript Snippet: are we just going to keep spending hundreds of millions of d
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10180
+Related Nodes: N-10172
 Tags: relevance:core
 Investigative Direction: Request any contracts, grants or budget lines the host believes fund such an operation; none is cited.
 
@@ -1691,7 +1683,7 @@ Transcript Snippet: Charlie found something out and it cost him his life. That's
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10002, N-10047
+Related Nodes: N-10002, N-10044
 Tags: relevance:core
 Investigative Direction: Identify what Charlie Kirk is alleged to have learned, using his messages, meetings and the donor-pressure record.
 
@@ -1707,7 +1699,7 @@ Transcript Snippet: That's the one that departed from Scottsdale at 8 o'clock a.
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3
-Related Nodes: N-10263, N-10074
+Related Nodes: N-10241, N-10071
 Supports: C-2937, C-3009
 Tags: relevance:core
 Investigative Direction: Match the tail number and manifest of this flight, which the host later ties to T.W. Lewis, with FAA and FlightAware history.
@@ -1724,7 +1716,7 @@ Transcript Snippet: Landed into Santa Barbara and immediately departed for Scott
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-1
-Related Nodes: N-10263
+Related Nodes: N-10241
 Supports: C-2937
 Tags: relevance:core
 Investigative Direction: Check the Santa Barbara turnaround time and passengers using airport and FBO records.
@@ -1741,7 +1733,7 @@ Transcript Snippet: Turning Point USA is featured on T.W. Lewis's foundation web
 
 Anchored Artifacts: A-2915.1
 Mentions: N-3
-Related Nodes: N-10263, N-10000
+Related Nodes: N-10241, N-10000
 Tags: relevance:core
 Investigative Direction: Archive the foundation website and check Form 990 filings for grants to Turning Point USA.
 
@@ -1757,7 +1749,7 @@ Transcript Snippet: The next flight uh is a Beachcraft that departed Scottsdale 
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3
-Related Nodes: N-10263
+Related Nodes: N-10241
 Tags: relevance:core
 Investigative Direction: Identify the tail number, operator and passengers for the Beechcraft departure.
 
@@ -1773,7 +1765,7 @@ Transcript Snippet: That was Charlie's plane that day. First took him to Salt La
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-1
-Related Nodes: N-11061
+Related Nodes: N-10979
 Supports: C-2144
 Tags: relevance:core
 Investigative Direction: Compare with the N102DZ flight records and the Restaurantology interview schedule.
@@ -1790,7 +1782,7 @@ Transcript Snippet: I'm assuming this might have been what Mikey McCoy coordinat
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-190
-Related Nodes: N-10338, N-10263
+Related Nodes: N-10214, N-10241
 Supports: C-2145
 Tags: relevance:core
 Investigative Direction: Obtain the charter or ownership record, the passenger manifest and any records of who arranged the post-shooting routing.
@@ -1807,7 +1799,7 @@ Transcript Snippet: And then they land into Provo at 3:31 p. m.
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:context
 Investigative Direction: Identify which aircraft landed in Provo at 3:31 p.m. and check its origin; the host's phrasing is ambiguous.
 
@@ -1823,7 +1815,7 @@ Transcript Snippet: The last plane that we have here is one that departed Santa 
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-1
-Related Nodes: N-10263
+Related Nodes: N-10241
 Supports: C-2937
 Tags: relevance:core
 Investigative Direction: Identify the aircraft and passengers on the 2:19 p.m. Santa Barbara departure.
@@ -1840,7 +1832,7 @@ Transcript Snippet: Here are the passengers that we know came from Arizona and u
 
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-14, N-186, N-217, N-11, N-2
-Related Nodes: N-10263
+Related Nodes: N-10241
 Tags: relevance:core
 Investigative Direction: Match each named person to a specific flight with manifests or credible travel accounts; the host does not say which plane carried whom.
 
@@ -1856,7 +1848,7 @@ Transcript Snippet: Elizabeth McCoy screamed. She grabbed her phone. She ran out
 
 Anchored Artifacts: 
 Mentions: N-3, N-217
-Related Nodes: N-10338, N-10000
+Related Nodes: N-10214, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the source and timing of the account and compare with Mikey McCoy's post-shooting call log.
 
@@ -1872,7 +1864,7 @@ Transcript Snippet: Mikey probably called her. That would make sense. And that's
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-217
-Related Nodes: N-10338, N-10000
+Related Nodes: N-10214, N-10000
 Tags: relevance:core
 Investigative Direction: Compare phone records with the 12:23 shooting time and map the HQ-to-airport drive time.
 
@@ -1904,7 +1896,7 @@ Transcript Snippet: Frank Turek, who was with Charlie on the day that he died wi
 
 Anchored Artifacts: A-1441.1
 Mentions: N-7, N-1, N-3
-Related Nodes: N-10699
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare Turek's accounts of the SUV and hospital with other eyewitness statements.
 
@@ -1920,7 +1912,7 @@ Transcript Snippet: A lot of people, a lot of you emailed us and said that was a
 
 Anchored Artifacts: A-1442.1
 Mentions: N-266, N-3
-Related Nodes: N-10267
+Related Nodes: N-10251
 Supports: C-3106
 Tags: relevance:context
 Investigative Direction: Review the viewer emails and early TPUSA interviews they cite.
@@ -1937,7 +1929,7 @@ Transcript Snippet: this is the first event I've gone to a college campus with C
 
 Anchored Artifacts: A-1441.1
 Mentions: N-7, N-46, N-1
-Related Nodes: N-10267
+Related Nodes: N-10251
 Tags: relevance:context
 Investigative Direction: Obtain the full Megyn Kelly interview clip to confirm context.
 
@@ -1953,7 +1945,7 @@ Transcript Snippet: and there's thousands of people there an hour before the the
 
 Anchored Artifacts: A-1441.1
 Mentions: N-7
-Related Nodes: N-10267
+Related Nodes: N-10251
 Tags: relevance:context
 Investigative Direction: Compare with crowd estimates from official and independent sources.
 
@@ -1969,7 +1961,7 @@ Transcript Snippet: I said, "Charlie, I don't like this place. There's too many 
 
 Anchored Artifacts: A-1441.1
 Mentions: N-7, N-1
-Related Nodes: N-10267
+Related Nodes: N-10251
 Tags: relevance:core
 Investigative Direction: Obtain the full clip and ask Turek whether he raised the concern with security staff.
 
@@ -1985,7 +1977,7 @@ Transcript Snippet: His team had drones. They were texting him footage when he w
 
 Anchored Artifacts: A-1441.1, A-1442.1
 Mentions: N-266, N-7, N-3, N-1
-Related Nodes: N-10267, N-10427
+Related Nodes: N-10251
 Supports: C-3110
 Contradicts: C-3106
 Tags: relevance:core
@@ -2003,7 +1995,7 @@ Transcript Snippet: we can add that to our list now of verifiable turning point 
 
 Anchored Artifacts: A-2914.1
 Mentions: N-3
-Related Nodes: N-10000, N-10267
+Related Nodes: N-10000, N-10251
 Tags: relevance:core
 Investigative Direction: Publish the list with each item's source so every entry can be checked independently.
 
@@ -2019,7 +2011,7 @@ Transcript Snippet: the only person that can actually release his autopsy report
 
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-1
-Related Nodes: N-10155, N-10229
+Related Nodes: N-10150, N-10216
 Supports: C-1162
 Tags: relevance:core
 Investigative Direction: Review the Utah statute on autopsy report release and any waiver or request Erika Kirk has filed.
@@ -2036,7 +2028,7 @@ Transcript Snippet: The reason they're sending you out to do it is because they 
 
 Anchored Artifacts: A-1442.2
 Mentions: N-266, N-3
-Related Nodes: N-10862
+Related Nodes: N-10783
 Tags: relevance:context
 Investigative Direction: Identify which lies the host attributes to the feds and who directed Harpole's interview appearance.
 
@@ -2052,7 +2044,7 @@ Transcript Snippet: If what he is saying is true, Charlie wasn't shot by a 300 6
 
 Anchored Artifacts: A-1442.2
 Mentions: N-3, N-266, N-1
-Related Nodes: N-10180, N-10085
+Related Nodes: N-10172, N-10081
 Supports: C-3115
 Tags: relevance:core
 Investigative Direction: Compare the autopsy findings, recovered bullet and ATF analysis with the caliber alleged.
@@ -2069,7 +2061,7 @@ Transcript Snippet: that bullet came out from 150 yards, 3,000 lbs of energy, an
 
 Anchored Artifacts: A-1442.2
 Mentions: N-3, N-266, N-1
-Related Nodes: N-10180, N-10085
+Related Nodes: N-10172, N-10081
 Supports: C-3115
 Tags: relevance:core
 Investigative Direction: Obtain the wound path from the autopsy, shot distance data and ballistic energy calculations for the alleged rifle and cartridge.
@@ -2102,7 +2094,7 @@ Transcript Snippet: It's like the Jeffrey Epstein files. Like they're out there 
 
 Anchored Artifacts: A-1443.1
 Mentions: N-9, N-268, N-146
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Identify the speaker and episode; the claim is rhetorical characterization of Epstein file secrecy.
 
@@ -2118,7 +2110,7 @@ Transcript Snippet: That's why there's been so much protection over Jeffrey Epst
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Treat as an opinion about Epstein; no sourcing is given on air.
 
@@ -2134,7 +2126,7 @@ Transcript Snippet: any person who actually watched the Brigitte Macron story kn
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:tangential
 Investigative Direction: Treat as the host's characterization; no new Macron evidence is presented here.
 
@@ -2150,7 +2142,7 @@ Transcript Snippet: I think they're at least threatening a lawsuit. It's like fo
 
 Anchored Artifacts: A-1443.1
 Mentions: N-268, N-146, N-3, N-82, N-377
-Related Nodes: N-11011, N-10270
+Related Nodes: N-10931, N-10254
 Tags: relevance:context
 Investigative Direction: Compare with the Macron complaint filed in Delaware and its claimed damages.
 
@@ -2166,7 +2158,7 @@ Transcript Snippet: Or when the he was like 40 and the kid was 15 >> or she was 
 
 Anchored Artifacts: A-1443.1
 Mentions: N-377, N-82
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:tangential
 Investigative Direction: Public records on the Macrons' ages; the remark is comedic commentary.
 
@@ -2182,7 +2174,7 @@ Transcript Snippet: I told the truth about the Brigitte Macron story, right?
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11011, N-10270
+Related Nodes: N-10931, N-10254
 Tags: relevance:context
 Investigative Direction: Review the Macron defamation filing and the host's evidence for her statements.
 
@@ -2230,7 +2222,7 @@ Transcript Snippet: donors were getting very angry with Charlie.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Tags: relevance:core
 Investigative Direction: Identify the donors and dated communications showing anger or pressure, as in the host's earlier episodes.
 
@@ -2246,7 +2238,7 @@ Transcript Snippet: Tim P, who is always invited to speak at Turning Point USA's
 
 Anchored Artifacts: A-1444.2
 Mentions: N-267, N-3
-Related Nodes: N-10268, N-10000
+Related Nodes: N-10252, N-10000
 Supports: C-3133
 Tags: relevance:context
 Investigative Direction: Ask TPUSA for its AmFest speaker decisions and Pool's account of the invitation.
@@ -2279,7 +2271,7 @@ Transcript Snippet: Not like funny that you didn't get invited. It happened to m
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10268, N-10000
+Related Nodes: N-10252, N-10000
 Tags: relevance:context
 Investigative Direction: Compare with the host's earlier account that donors demanded she not speak at AmFest.
 
@@ -2295,7 +2287,7 @@ Transcript Snippet: you get put on a list, threat, financial threats are made an
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Supports: C-386
 Tags: relevance:core
 Investigative Direction: Seek the donor communications and dated threats that the host's sources describe.
@@ -2312,7 +2304,7 @@ Transcript Snippet: I know what I saw in that vision that I told you guys I had 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10113
+Related Nodes: N-10109
 Tags: relevance:context
 Investigative Direction: Locate the episode where the host first described the vision and its date.
 
@@ -2358,7 +2350,7 @@ Transcript Snippet: Up until Andrew Kolvet told us that we had to believe in Mir
 
 Anchored Artifacts: A-2917.1
 Mentions: N-14, N-3
-Related Nodes: N-10341, N-10000
+Related Nodes: N-10319, N-10000
 Tags: relevance:context
 Investigative Direction: Locate Kolvet's on-air statements about the vertebra injury and the commenter's dated donation record.
 
@@ -2374,7 +2366,7 @@ Transcript Snippet: Calvary Global Network branched off from Calvary Chapel Asso
 
 Anchored Artifacts: A-2917.2
 Mentions: N-3
-Related Nodes: N-10248
+Related Nodes: N-10234
 Tags: relevance:context
 Investigative Direction: Verify the Calvary Global Network founding date from its own materials and public records.
 
@@ -2390,7 +2382,7 @@ Transcript Snippet: Thousand Oaks is a part of Calvary Global Network.
 
 Anchored Artifacts: A-2917.2
 Mentions: N-3
-Related Nodes: N-10248
+Related Nodes: N-10234
 Tags: relevance:context
 Investigative Direction: Verify church affiliations in Thousand Oaks with Calvary Global Network membership lists.
 
@@ -2421,7 +2413,7 @@ Transcript Snippet: I think that he equated more dollars with more success and d
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Tags: relevance:core
 Investigative Direction: Compare with donor correspondence and TPUSA fundraising records.
 
@@ -2452,7 +2444,7 @@ Transcript Snippet: A copyright claim for her sensational music. And so, we migh
 
 Anchored Artifacts: A-2916.1
 Mentions: N-3, N-277, N-69
-Related Nodes: N-10530
+Related Nodes: N-10486
 Tags: relevance:tangential
 Investigative Direction: Obtain the copyright claim notice and identify the clip and rights holder.
 
@@ -2468,7 +2460,7 @@ Transcript Snippet: a lot of people wrote that instantly that they did this inte
 
 Anchored Artifacts: A-2917.3
 Mentions: N-3, N-82
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:context
 Investigative Direction: Treat as viewer speculation; look for any documentary link between the Macron story and the killing.
 
@@ -2484,7 +2476,7 @@ Transcript Snippet: that MK Ultra experiment that happened that I believe it it 
 
 Anchored Artifacts: A-2917.3
 Mentions: N-3
-Related Nodes: N-10116, N-10001
+Related Nodes: N-10112, N-10001
 Tags: relevance:tangential
 Investigative Direction: Locate the earlier episode on prisoner 2093 and clarify the person named.
 
@@ -2500,7 +2492,7 @@ Transcript Snippet: But this French angle is weird. I will say that this like no
 
 Anchored Artifacts: A-1438.1
 Mentions: N-3
-Related Nodes: N-10269, N-10316
+Related Nodes: N-10253, N-10297
 Supports: C-3073
 Tags: relevance:core
 Investigative Direction: Trace SATYS ownership and any ties to French state entities, and compare the deal dates with SUBTT's France trips.
@@ -2517,7 +2509,7 @@ Transcript Snippet: I think we have enough evidence to suggest that this was mul
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10316, N-10253
+Related Nodes: N-10297, N-10239
 Tags: relevance:core
 Investigative Direction: Ask the host to list the evidence supporting an international operation and test each piece independently.
 
@@ -2533,7 +2525,7 @@ Transcript Snippet: What was Charlie's plan after the Doge investigation? There 
 
 Anchored Artifacts: A-2917.4
 Mentions: N-3, N-1
-Related Nodes: N-10434, N-10132
+Related Nodes: N-10404, N-10127
 Tags: relevance:core
 Investigative Direction: Review Charlie Kirk's DOGE department plans and its audit scope.
 

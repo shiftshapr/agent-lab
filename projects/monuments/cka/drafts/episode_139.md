@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 8478e4fc7004488cce084c823d9f80149d81fd59cf33314345ba5d116e3a955e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-924, N-925, N-926, N-11361, N-11362
-  - Hole-minted Nodes (reintro-ep139): N-202, N-10791, N-10793
-  - Tip-minted Nodes (reintro-ep139): N-11262
+  - Tip-minted Nodes (supplement_2026-10f): N-924, N-925, N-926, N-11277, N-11278
+  - Hole-minted Nodes (reintro-ep139): N-202, N-10715, N-10717
+  - Tip-minted Nodes (reintro-ep139): N-11178
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11908–C-12018
   - (see registers)
@@ -33,8 +33,8 @@
 - Analysis date: 2026-08-07
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
-  - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789
-  - Reused Nodes Appearing: N-40, N-18, N-10790, N-7, N-14, N-82, N-97, N-241, N-270, N-775, N-10000, N-10011, N-10013, N-10014, N-10022, N-10034, N-10041, N-10043, N-10044, N-10063, N-10085, N-10112, N-10143, N-10168, N-10183, N-10253, N-10294, N-10369, N-10537, N-10598, N-10634, N-10660, N-10670, N-10679, N-10692, N-10711, N-10729, N-10740, N-10750, N-10780, N-10899, N-11053, N-11065, N-11149, N-11308
+  - New Nodes Introduced: N-10710, N-10711, N-10712, N-10713
+  - Reused Nodes Appearing: N-40, N-18, N-10714, N-7, N-14, N-82, N-97, N-241, N-270, N-775, N-10000, N-10011, N-10013, N-10014, N-10022, N-10033, N-10039, N-10040, N-10041, N-10060, N-10081, N-10108, N-10138, N-10161, N-10175, N-10239, N-10276, N-10344, N-10492, N-10545, N-10580, N-10602, N-10610, N-10617, N-10630, N-10647, N-10663, N-10672, N-10680, N-10705, N-10820, N-10971, N-10983, N-11065, N-11224
   - Existing Nodes Reused: N-1, N-2
 
 ---
@@ -57,7 +57,7 @@ Video Timestamp: 00:00:02–00:00:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-11908, C-11910, N-10786, N-1*
+*Related: C-11908, C-11910, N-10710, N-1*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:28:00–00:30:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single photo)
 
-*Related: C-11981, N-10787*
+*Related: C-11981, N-10711*
 
 **A-2259.2** Gas-pump photo (Texas) – subject fueling with left hand
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-11982, N-10787*
+*Related: C-11982, N-10711*
 
 **A-2259.3** Selfie photos – taken with left hand
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-11982, N-10787*
+*Related: C-11982, N-10711*
 
 **A-2259.4** Childhood piano recital video ("My name is Lance Twiggs…") – watch on right hand; left hand turns page
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:30:09–00:30:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (visible details)
 
-*Related: C-11984, N-10787*
+*Related: C-11984, N-10711*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:26:49–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (blurry, but referenced as shown publicly)
 
-*Related: C-11975, N-10788, N-1*
+*Related: C-11975, N-10712, N-1*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11992, N-10789*
+*Related: C-11992, N-10713*
 
 **A-2262.2** Joel Berry X post – "$20 burritos for family of eight"
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11994, N-10789*
+*Related: C-11994, N-10713*
 
 **A-2262.3** Joel Berry 2024 X post – "I'd like to go back to when I could afford groceries"
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:41:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11998, N-10789*
+*Related: C-11998, N-10713*
 
 **A-2262.4** Matt Walsh reply to Joel Berry
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:38:00–00:39:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11996, N-10789*
+*Related: C-11996, N-10713*
 
 **A-2262.5** Dan Crenshaw X post – "eat ramen"
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11997, N-10789*
+*Related: C-11997, N-10713*
 
 **A-2262.6** Blake Neff X post – WEF chart claiming US spends least on food
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:42:30–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12000, N-10789*
+*Related: C-12000, N-10713*
 
 ---
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:44:21–00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12002, N-10789*
+*Related: C-12002, N-10713*
 
 **A-2263.2** Daily Wire trailer audio
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:45:02–00:47:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12002, N-10789*
+*Related: C-12002, N-10713*
 
 ---
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:22:01–00:23:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-11963, C-11969, N-10790*
+*Related: C-11963, C-11969, N-10714*
 
 ---
 
@@ -335,7 +335,7 @@ Video Timestamp: 00:25:03–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (live Wikipedia – may have changed)
 
-*Related: C-11970, N-10790*
+*Related: C-11970, N-10714*
 
 ---
 
@@ -350,7 +350,7 @@ Video Timestamp: 00:00:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11909, N-3, N-40, N-10786*
+*Related: C-11909, N-3, N-40, N-10710*
 
 ---
 
@@ -363,7 +363,7 @@ Video Timestamp: 00:19:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11958, N-3, N-40, N-10791*
+*Related: C-11958, N-3, N-40, N-10715*
 
 ---
 
@@ -395,7 +395,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-10786** French Translation Hypothesis (Tyler Robinson Texts)
+**N-10710** French Translation Hypothesis (Tyler Robinson Texts)
 
 Investigative target: persistent theory that the alleged Tyler Robinson text messages were authored by a non-native English speaker using French phrasing (specifically "sniffer pooch" as calque of French "chien renifleur" / "reneneur"). Supported in this episode by viewer tip email.
 
@@ -408,7 +408,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10787** Lance Twiggs Handedness Verification
+**N-10711** Lance Twiggs Handedness Verification
 
 Investigative target: persistent question of whether Lance Twiggs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.
 
@@ -421,7 +421,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10788** Maroon Shirt Person Identity (UVU Campus)
+**N-10712** Maroon Shirt Person Identity (UVU Campus)
 
 Investigative target: persistent host claim that the maroon-shirt figure on the UVU staircase is not Tyler Robinson, with new visual evidence in this episode (left-hand phone use) being added to that claim.
 
@@ -434,7 +434,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10789** Grocery Affordability Public Debate (2026-08)
+**N-10713** Grocery Affordability Public Debate (2026-08)
 
 Investigative target: cluster of X posts by Matt Walsh, Joel Berry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.
 
@@ -447,7 +447,7 @@ Investigative Pressure: Low (tangential to Kirk case)
 
 ---
 
-**N-10790** Luna / Helluva Boss Cultural Connection
+**N-10714** Luna / Helluva Boss Cultural Connection
 
 Investigative target: persistent host theory linking the "Luna" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twiggs, and connecting the IMP "assassination company in hell" premise to the Charlie Kirk case.
 
@@ -645,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10034** Lance Twiggs Family Allegations
+**N-10033** Lance Twiggs Family Allegations
 
 Existing topic reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10041** Note Under Keyboard Disposal
+**N-10039** Note Under Keyboard Disposal
 
 Existing topic reused for new claims in this episode.
 
@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10043** Two-Person Theory (Maroon vs Stairs)
+**N-10040** Two-Person Theory (Maroon vs Stairs)
 
 Existing topic reused for new claims in this episode.
 
@@ -669,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10044** Lance Twiggs Protection Allegation
+**N-10041** Lance Twiggs Protection Allegation
 
 Existing topic reused for new claims in this episode.
 
@@ -677,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10063** Gaza
+**N-10060** Gaza
 
 Existing topic reused for new claims in this episode.
 
@@ -685,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+**N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -693,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10112** Lone-Shooter Narrative Critique
+**N-10108** Lone-Shooter Narrative Critique
 
 Existing topic reused for new claims in this episode.
 
@@ -701,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10143** Robinson Apartment Staging Allegation
+**N-10138** Robinson Apartment Staging Allegation
 
 Existing topic reused for new claims in this episode.
 
@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
+**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
 Existing topic reused for new claims in this episode.
 
@@ -717,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10183** Medical Examiner Inquiry – Weiss Amaro
+**N-10175** Medical Examiner Inquiry – Weiss Amaro
 
 Existing topic reused for new claims in this episode.
 
@@ -725,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -733,7 +733,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10294** Brigitte Macron Schedule Gap September 4–10, 2025
+**N-10276** Brigitte Macron Schedule Gap September 4–10, 2025
 
 Existing topic reused for new claims in this episode.
 
@@ -741,7 +741,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10369** Charlie Kirk SUV Interior Black Plastic Fragmentation
+**N-10344** Charlie Kirk SUV Interior Black Plastic Fragmentation
 
 Existing topic reused for new claims in this episode.
 
@@ -749,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
+**N-10492** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Existing topic reused for new claims in this episode.
 
@@ -757,7 +757,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing topic reused for new claims in this episode.
 
@@ -765,7 +765,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10634** Tyler Robinson Roommate Question
+**N-10580** Tyler Robinson Roommate Question
 
 Existing topic reused for new claims in this episode.
 
@@ -773,7 +773,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10660** Hospital "No Neck Left" Narrative Discrepancy
+**N-10602** Hospital "No Neck Left" Narrative Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -781,7 +781,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+**N-10610** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
 Existing topic reused for new claims in this episode.
 
@@ -789,7 +789,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing topic reused for new claims in this episode.
 
@@ -797,7 +797,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10692** 911 Call Origin in Hospital Transport Vehicle
+**N-10630** 911 Call Origin in Hospital Transport Vehicle
 
 Existing topic reused for new claims in this episode.
 
@@ -805,7 +805,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10711** Tyler Robinson DNA Most Degraded Anomaly
+**N-10647** Tyler Robinson DNA Most Degraded Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -813,7 +813,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10729** 911 Call Identification Gap
+**N-10663** 911 Call Identification Gap
 
 Existing topic reused for new claims in this episode.
 
@@ -821,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10740** SUV Interior Anomaly
+**N-10672** SUV Interior Anomaly
 
 Existing topic reused for new claims in this episode.
 
@@ -829,7 +829,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10750** 911 Call Content Discrepancy
+**N-10680** 911 Call Content Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -837,7 +837,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10780** "Protecting Mrs. Kirk" Group Chat Investigation
+**N-10705** "Protecting Mrs. Kirk" Group Chat Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -845,7 +845,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10791** Parking-Garage Subject Identity Discrepancy
+**N-10715** Parking-Garage Subject Identity Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -853,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10793** Tyler Robinson Handedness Verification
+**N-10717** Tyler Robinson Handedness Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -861,7 +861,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Paramount Tactical; the host says he is one of the only men in the influencer chat.
 
@@ -869,7 +869,7 @@ Paramount Tactical; the host says he is one of the only men in the influencer ch
 
 ---
 
-**N-11053** Charlie Kirk Handheld Microphone Custody
+**N-10971** Charlie Kirk Handheld Microphone Custody
 
 Existing topic reused for new claims in this episode.
 
@@ -877,7 +877,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
 Existing topic reused for new claims in this episode.
 
@@ -885,7 +885,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss
+**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
 Existing topic reused for new claims in this episode.
 
@@ -893,7 +893,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11262** Andrew Wilson TPUSA Debate Training Engagement
+**N-11178** Andrew Wilson TPUSA Debate Training Engagement
 
 Existing topic reused for new claims in this episode.
 
@@ -901,7 +901,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11308** TPUSA 4K Video Claim Dispute
+**N-11224** TPUSA 4K Video Claim Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -936,7 +936,7 @@ Rabbi shown in a street confrontation video in Iceland; the host criticizes him.
 
 ---
 
-**N-11361** Wilson Debate Offer and Counter-Terms
+**N-11277** Wilson Debate Offer and Counter-Terms
 
 Node Type: Topic
 The sequence of debate offers from Andrew Wilson and the Whatever podcast (50K, about 150K, 300K) and the host's counter-terms (500K, TPUSA on record, no smoking, live debate in her location).
@@ -945,7 +945,7 @@ The sequence of debate offers from Andrew Wilson and the Whatever podcast (50K, 
 
 ---
 
-**N-11362** Lance Twiggs DNA and Dremel Claims
+**N-11278** Lance Twiggs DNA and Dremel Claims
 
 Node Type: Topic
 Host claims that Lance Twiggs's DNA is on the towel and rifle, is less degraded than Tyler Robinson's, and that the Dremel used on the bullets was his.
@@ -965,7 +965,7 @@ Claim: A viewer email to Candace's tip line argues that the phrase "pooch" with 
 Anchored Artifacts: A-2254.1
 Mentions: N-40
 
-Related Nodes: N-10786
+Related Nodes: N-10710
 
 Investigative Direction: Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis.
 
@@ -980,7 +980,7 @@ Claim: Host concurs with the tip-line hypothesis that the texts were translated 
 Anchored Artifacts: A-2254.1
 Mentions: N-40
 
-Related Nodes: N-10786
+Related Nodes: N-10710
 
 Investigative Direction: Compare full text-message corpus for additional French calques; identify likely French-speaker demographics.
 
@@ -1085,7 +1085,7 @@ Claim: The host says a snowboarding clip she displays shows Lance Twiggs falling
 Anchored Artifacts: A-2259.1
 Mentions: N-54
 
-Related Nodes: N-10787
+Related Nodes: N-10711
 
 Investigative Direction: Obtain additional Lance Twiggs photos/videos showing hand dominance across varied activities.
 
@@ -1100,7 +1100,7 @@ Claim: The host says a photo she displays shows Lance Twiggs fueling a vehicle w
 Anchored Artifacts: A-2259.2
 Mentions: N-54
 
-Related Nodes: N-10787
+Related Nodes: N-10711
 
 Investigative Direction: Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively.
 
@@ -1115,7 +1115,7 @@ Claim: The host says a childhood piano recital video of Lance Twiggs ("My name i
 Anchored Artifacts: A-2259.4
 Mentions: N-54
 
-Related Nodes: N-10787
+Related Nodes: N-10711
 
 Investigative Direction: Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training.
 
@@ -1145,7 +1145,7 @@ Claim: The host says blurry UVU staircase footage shows the maroon-shirt person 
 Anchored Artifacts: A-2261.1
 Mentions: 
 
-Related Nodes: N-10787, N-10788
+Related Nodes: N-10711, N-10712
 
 Investigative Direction: Obtain the "4K" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.
 
@@ -1160,7 +1160,7 @@ Claim: Matt Walsh posted on X that grocery prices are insane and still rising, c
 Anchored Artifacts: A-2262.1
 Mentions: N-163
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Cross-reference BLS food-at-home CPI data for verification.
 
@@ -1175,7 +1175,7 @@ Claim: Joel Berry posted on X that his wife's homemade burritos for a family of 
 Anchored Artifacts: A-2262.2
 Mentions: N-241
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Request itemized receipt or recipe cost breakdown.
 
@@ -1190,7 +1190,7 @@ Claim: Joel Berry tweeted in 2024, in reply to Kamala Harris, that he would like
 Anchored Artifacts: A-2262.3
 Mentions: N-241
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Verify original tweet date and context.
 
@@ -1205,7 +1205,7 @@ Claim: Per a post the host reads, Matt Walsh replied to Joel Berry noting that v
 Anchored Artifacts: A-2262.4
 Mentions: N-163, N-241
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026.
 
@@ -1220,7 +1220,7 @@ Claim: Dan Crenshaw posted on X telling critics of grocery prices to "stop whini
 Anchored Artifacts: A-2262.5
 Mentions: N-925
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Verify post and current ramen retail prices for college affordability comparison.
 
@@ -1235,7 +1235,7 @@ Claim: Per a post on X the host reads, Blake Neff shared a World Economic Forum 
 Anchored Artifacts: A-2262.6
 Mentions: N-159
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison.
 
@@ -1250,7 +1250,7 @@ Claim: Per a post on X the host reads, Ben Shapiro introduced a Daily Wire film 
 Anchored Artifacts: A-2263.1, A-2263.2
 Mentions: N-97
 
-Related Nodes: N-10789
+Related Nodes: N-10713
 
 Investigative Direction: Verify release date, distribution, and producer credits.
 
@@ -1279,7 +1279,7 @@ Claim: A viewer email to the tip line describes "Luna" from the animated series 
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-10790
+Related Nodes: N-10714
 
 Investigative Direction: Cross-reference Helluva Boss character profile and Luna's first appearance date.
 
@@ -1293,7 +1293,7 @@ Claim: The host says that, on looking further into Luna, she learned the 'demon 
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-10790
+Related Nodes: N-10714
 
 Investigative Direction: Obtain canonical Helluva Boss images showing Luna's necklace design.
 
@@ -1307,7 +1307,7 @@ Claim: Per the Wikipedia page the host reads, the Helluva Boss animated series f
 
 Anchored Artifacts: A-2266.1
 
-Related Nodes: N-10790
+Related Nodes: N-10714
 
 Investigative Direction: Verify Wikipedia entry at time of access; check edit history.
 
@@ -1323,7 +1323,7 @@ Transcript Snippet: we received a tip on our tip line regarding my insistence th
 
 Anchored Artifacts: A-3252.1
 Mentions: N-40, N-3
-Related Nodes: N-10786
+Related Nodes: N-10710
 Tags: relevance:context, DIA, tip-line
 Investigative Direction: Review the tip-line email and the forensic-linguistics basis for the non-native-speaker hypothesis about the disputed texts.
 
@@ -1339,7 +1339,7 @@ Transcript Snippet: the way that they describe a canine, a detective dog, would 
 
 Anchored Artifacts: A-2254.1
 Mentions: N-3
-Related Nodes: N-10786
+Related Nodes: N-10710
 Supports: C-11908
 Tags: relevance:context
 Investigative Direction: Check a French dictionary for the term the host means (rendered as "herl" in the transcript; see Doubts) and test whether it maps to "sniffer pooch".
@@ -1356,7 +1356,7 @@ Transcript Snippet: you're still missing those days. Days the Egyptian planes we
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
-Related Nodes: N-10294, N-10253
+Related Nodes: N-10276, N-10239
 Tags: relevance:tangential
 Investigative Direction: Treat as a recap of the host's earlier Macron schedule-gap research; verify against the Brigitte Macron September 4-10, 2025 schedule record and the Egyptian aircraft tracking data.
 
@@ -1372,7 +1372,7 @@ Transcript Snippet: we came across some very interesting information about him a
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-11308
+Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Identify which influencers saw the 4K footage and obtain their accounts of what it showed.
 
@@ -1388,7 +1388,7 @@ Transcript Snippet: a guy named Brian Atlas, reached out to my PR guy, Mitchell,
 
 Anchored Artifacts: 
 Mentions: N-924, N-18, N-3
-Related Nodes: N-11361, N-11262
+Related Nodes: N-11277, N-11178
 Tags: relevance:context
 Investigative Direction: Obtain the offer messages between Atlas and the host's PR representative and ask Atlas who proposed and who funded the amounts.
 
@@ -1404,7 +1404,7 @@ Transcript Snippet: I immediately dismissed it. I I genuinely had never heard of
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11361
+Related Nodes: N-11277
 Tags: relevance:context
 Investigative Direction: Compare with Wilson's account on the Rogan show of how the offer was made and whether the host responded.
 
@@ -1452,7 +1452,7 @@ Transcript Snippet: he is sort of affiliated with Turning Point USA. another per
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11262, N-10000
+Related Nodes: N-11178, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA's description of Wilson's role and any payment or contract records for the debate training.
 
@@ -1483,7 +1483,7 @@ Transcript Snippet: Andrew Wilson apparently had a presence in the manosphere uh
 
 Anchored Artifacts: A-2258.1
 Mentions: N-18, N-3
-Related Nodes: N-11262
+Related Nodes: N-11178
 Tags: relevance:context
 Investigative Direction: Review Wilson's Whatever podcast appearances and his debate record.
 
@@ -1559,7 +1559,7 @@ Transcript Snippet: Uh he says 300K. Let's make it 500K, right?
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11361
+Related Nodes: N-11277
 Tags: relevance:context
 Investigative Direction: Record whether Wilson or TPUSA responds to the 500K counter-offer.
 
@@ -1575,7 +1575,7 @@ Transcript Snippet: I just have the hunch, this feeling, gut instinct that you'r
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-10000, N-11361, N-11262
+Related Nodes: N-10000, N-11277, N-11178
 Tags: relevance:context
 Investigative Direction: Ask Wilson and TPUSA who funds the 300K offer and obtain any payment records between TPUSA and Wilson.
 
@@ -1591,7 +1591,7 @@ Transcript Snippet: Turning Point USA has raised $40 million in one night off of
 
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10000, N-11053
+Related Nodes: N-10000, N-10971
 Tags: relevance:core
 Investigative Direction: Identify the fundraiser, obtain event footage showing the encased microphone and TPUSA's reported total.
 
@@ -1607,7 +1607,7 @@ Transcript Snippet: I'm seven months pregnant. So, if you fancy a debate face to
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11361
+Related Nodes: N-11277
 Tags: relevance:context
 Investigative Direction: None needed beyond the host's own announced terms; record the venue if a debate is ever scheduled.
 
@@ -1623,7 +1623,7 @@ Transcript Snippet: No time limit in the debates, don't worry. It will be live. 
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11361
+Related Nodes: N-11277
 Tags: relevance:context
 Investigative Direction: Record the final agreed format if a debate is arranged.
 
@@ -1639,7 +1639,7 @@ Transcript Snippet: you're not going to be chain smoking around me, tough guy.
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11361
+Related Nodes: N-11277
 Tags: relevance:tangential
 Investigative Direction: None; stated debate condition.
 
@@ -1655,7 +1655,7 @@ Transcript Snippet: Either Blake Neff or Andrew Kolvet or Erika Kirk must public
 
 Anchored Artifacts: 
 Mentions: N-159, N-14, N-2, N-18, N-3
-Related Nodes: N-11361, N-11262
+Related Nodes: N-11277, N-11178
 Tags: relevance:context
 Investigative Direction: Watch for public statements from Neff, Kolvet or Erika Kirk claiming or disavowing Wilson.
 
@@ -1671,7 +1671,7 @@ Transcript Snippet: He's not quote unquote being paid, but seeing how much they 
 
 Anchored Artifacts: A-2256.1
 Mentions: N-14, N-18, N-3
-Related Nodes: N-11262
+Related Nodes: N-11178
 Supports: C-11936
 Tags: relevance:context
 Investigative Direction: Capture the original post with its date and check for any follow-up from Kolvet or TPUSA.
@@ -1688,7 +1688,7 @@ Transcript Snippet: I want um Turning Point USA on record, just to recap, saying
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-10000, N-11361
+Related Nodes: N-10000, N-11277
 Tags: relevance:context
 Investigative Direction: Watch for a TPUSA statement on Wilson's role.
 
@@ -1704,7 +1704,7 @@ Transcript Snippet: I do not believe that Charlie Kirk was killed by a lone gunm
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10112
+Related Nodes: N-10108
 Tags: relevance:core
 Investigative Direction: Compare the host's reading with the prosecution's ballistic and trajectory evidence presented at the preliminary hearing.
 
@@ -1720,7 +1720,7 @@ Transcript Snippet: The odd trajectory of his shirt which is the first to move. 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the highest-quality footage of the moment of impact, ideally the 4K version.
 
@@ -1736,7 +1736,7 @@ Transcript Snippet: The immediate breaking of his necklace before Charlie is imp
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10537
+Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the necklace in the footage and the physical condition of the necklace as recovered.
 
@@ -1752,7 +1752,7 @@ Transcript Snippet: the frankly unacceptable idea that Charlie got hit from the 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10085
+Related Nodes: N-10081
 Tags: relevance:core
 Investigative Direction: Consult independent ballistics experts on the 30-06 round's expected effect and compare with the recorded movement.
 
@@ -1783,7 +1783,7 @@ Transcript Snippet: that bullet also didn't even go through. It didn't almost de
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10085, N-10660
+Related Nodes: N-10081, N-10602
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and ballistic findings on wound track and exit.
 
@@ -1799,7 +1799,7 @@ Transcript Snippet: Then there are the black shards all over the floor of the SU
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10369, N-10740
+Related Nodes: N-10344, N-10672
 Tags: relevance:core
 Investigative Direction: Obtain photographs, inventory and lab analysis of the shards, and the SUV's chain of custody.
 
@@ -1815,7 +1815,7 @@ Transcript Snippet: followed by the FBI's unusual rush to have that SUV immediat
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10014, N-10740
+Related Nodes: N-10014, N-10672
 Tags: relevance:core
 Investigative Direction: Obtain the SUV's title, sale and cleaning records and any FBI evidence-release paperwork.
 
@@ -1831,7 +1831,7 @@ Transcript Snippet: the mysteriously purged 911 call where someone is allegedly 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10692, N-10750, N-10729
+Related Nodes: N-10630, N-10680, N-10663
 Tags: relevance:core
 Investigative Direction: File a records request for the 911 call log and audio retention records and identify who made the call.
 
@@ -1847,7 +1847,7 @@ Transcript Snippet: Benny Johnson, one of the courtroom influencers who Erika pe
 
 Anchored Artifacts: 
 Mentions: N-89, N-2, N-3
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Confirm the invitation with Erika Kirk's office, Johnson, or the court's attendee records.
 
@@ -1878,7 +1878,7 @@ Transcript Snippet: We've not seen anything from his parents.
 
 Anchored Artifacts: A-2260.1
 Mentions: N-89, N-40, N-3
-Related Nodes: N-11149
+Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing transcript for any mention of statements from Tyler Robinson's parents.
 
@@ -1894,7 +1894,7 @@ Transcript Snippet: I've made it clear that I believe the person who is walking 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10043, N-10168, N-10011
+Related Nodes: N-10040, N-10161, N-10011
 Supports: C-348
 Tags: relevance:core
 Investigative Direction: Compare the maroon-shirt person against verified images of Tyler Robinson and obtain the TMZ original footage.
@@ -1911,7 +1911,7 @@ Transcript Snippet: I still believe what I reported back in October of last year
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10043
+Related Nodes: N-10040
 Supports: C-4026, C-2004
 Tags: relevance:core
 Investigative Direction: Obtain campus access, parking and vehicle records and verified imagery placing Tyler Robinson on campus on September 10, 2025.
@@ -1928,7 +1928,7 @@ Transcript Snippet: I learned that he was around campus on that day. I don't kno
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10043
+Related Nodes: N-10040
 Qualifies: C-11954
 Tags: relevance:core
 Investigative Direction: Identify the host's source for Robinson's presence near campus and any vehicle or phone-location records.
@@ -1945,7 +1945,7 @@ Transcript Snippet: I believe those are two different people that we're seeing. 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10043
+Related Nodes: N-10040
 Supports: C-348
 Tags: relevance:core
 Investigative Direction: Side-by-side comparison of the two staircase figures' build, gait and clothing from the best available footage.
@@ -1962,7 +1962,7 @@ Transcript Snippet: the UVU students have confirmed to me that there are no came
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10791
+Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Obtain UVU's camera placement map and ask the students for a written or recorded account.
 
@@ -1978,7 +1978,7 @@ Transcript Snippet: If he had just walked outside of the garage and went around,
 
 Anchored Artifacts: A-3253.1
 Mentions: N-40, N-3
-Related Nodes: N-10791
+Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Overlay UVU's camera locations on the campus map and measure whether an alternate route avoided all cameras.
 
@@ -1994,7 +1994,7 @@ Transcript Snippet: Lance Twiggs has his DNA on the towel. Lance Twiggs has his 
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-11362
+Related Nodes: N-11278
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports and preliminary hearing testimony on DNA found on the towel and the rifle.
 
@@ -2010,7 +2010,7 @@ Transcript Snippet: Lance Twiggs's DNA was not as degraded as Tyler Robinson's D
 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
-Related Nodes: N-11362, N-10711
+Related Nodes: N-11278, N-10647
 Tags: relevance:core
 Investigative Direction: Obtain the DNA lab report quantifying degradation and contributor proportions for each profile.
 
@@ -2026,7 +2026,7 @@ Transcript Snippet: We learned that the Dremel that was used to carve the bullet
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-11362
+Related Nodes: N-11278
 Tags: relevance:core
 Investigative Direction: Obtain the search-warrant inventory and any purchase or ownership records for the Dremel.
 
@@ -2042,7 +2042,7 @@ Transcript Snippet: He dealt with a multitude of anger and behavioral issues in 
 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Supports: C-217
 Tags: relevance:tangential, personal-background
 Investigative Direction: Seek on-record confirmation from family members; this is personal background about a private individual.
@@ -2059,7 +2059,7 @@ Transcript Snippet: When your own family members are describing you as into dark
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Supports: C-218
 Tags: relevance:tangential, personal-background
 Investigative Direction: Seek on-record confirmation; this is personal and medical background about a private individual.
@@ -2076,7 +2076,7 @@ Transcript Snippet: Lance is the one that was submerged in the furry culture. Re
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10790
+Related Nodes: N-10714
 Tags: relevance:tangential, personal-background
 Investigative Direction: Identify the source of the persona claim; this is personal material about a private individual.
 
@@ -2092,7 +2092,7 @@ Transcript Snippet: Matt Robinson uh when he went back to the apartment that Tyl
 
 Anchored Artifacts: 
 Mentions: N-775, N-40, N-54, N-3
-Related Nodes: N-10143
+Related Nodes: N-10138
 Tags: relevance:core
 Investigative Direction: Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.
 
@@ -2108,7 +2108,7 @@ Transcript Snippet: it would make more sense that this would be Lance's bed, Lan
 
 Anchored Artifacts: 
 Mentions: N-54, N-775, N-3
-Related Nodes: N-10143, N-10790
+Related Nodes: N-10138, N-10714
 Tags: relevance:context
 Investigative Direction: Compare the dog bed's location and any room photographs with the apartment layout; interview Matt Robinson.
 
@@ -2140,7 +2140,7 @@ Transcript Snippet: you have people like the medical examiner's wife who is enco
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10013, N-10183
+Related Nodes: N-10013, N-10175
 Tags: relevance:tangential, personal-background
 Investigative Direction: Verify the source for the claim; this concerns a private individual's online activity.
 
@@ -2156,7 +2156,7 @@ Transcript Snippet: Lance Twiggs's alibi, just to remind you, for September 10th
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Obtain Lance's statements to investigators and any phone, camera or location records for September 10.
 
@@ -2172,7 +2172,7 @@ Transcript Snippet: Has anyone prodded that narrative? The feds prod that narrat
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Ask investigators or the court record whether Lance's phone, location and camera data were reviewed.
 
@@ -2188,7 +2188,7 @@ Transcript Snippet: the note that was handwritten, which Lance claims he found u
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10041
+Related Nodes: N-10039
 Supports: C-303
 Tags: relevance:core
 Investigative Direction: Obtain Lance's statement about the note and the chain of custody of the photograph.
@@ -2205,7 +2205,7 @@ Transcript Snippet: he's holding his phone in his left hand before he slips his 
 
 Anchored Artifacts: A-2261.1
 Mentions: N-3
-Related Nodes: N-11308, N-10787
+Related Nodes: N-11224, N-10711
 Tags: relevance:core
 Investigative Direction: Obtain the 4K version from the influencers or the prosecution and review hand and pocket use.
 
@@ -2221,7 +2221,7 @@ Transcript Snippet: That's what they were shown in 4K and they didn't mention th
 
 Anchored Artifacts: A-2261.1
 Mentions: N-3
-Related Nodes: N-11308
+Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Ask the influencers who viewed the 4K footage what the maroon-shirt figure was doing with his phone.
 
@@ -2237,7 +2237,7 @@ Transcript Snippet: Tyler Robinson is definitively not left-handed. It is actual
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10793
+Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Find the specific legal filing that states Tyler Robinson's handedness.
 
@@ -2253,7 +2253,7 @@ Transcript Snippet: all of the many social media photos uh that are posted by hi
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10793
+Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Collect the public Facebook photos and catalog hand use.
 
@@ -2269,7 +2269,7 @@ Transcript Snippet: Across various public photos of Lance, he appears to be left
 
 Anchored Artifacts: A-2259.1, A-2259.2, A-2259.3
 Mentions: N-54, N-3
-Related Nodes: N-10787
+Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Catalog a larger set of dated photos of Lance for hand use.
 
@@ -2285,7 +2285,7 @@ Transcript Snippet: Uh there's also selfie photos of him on the internet. He is 
 
 Anchored Artifacts: A-2259.3
 Mentions: N-54, N-3
-Related Nodes: N-10787
+Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Locate the selfies and confirm that the images are not mirrored.
 
@@ -2301,7 +2301,7 @@ Transcript Snippet: That little phone pocket thing which the feds wanted to blur
 
 Anchored Artifacts: A-2261.1
 Mentions: N-3
-Related Nodes: N-11308, N-10014
+Related Nodes: N-11224, N-10014
 Tags: relevance:core
 Investigative Direction: Compare the public clip with the 4K original and identify who processed the public version.
 
@@ -2317,7 +2317,7 @@ Transcript Snippet: they offered him a ride back home. That's a fact. He was the
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10044
+Related Nodes: N-10041
 Supports: C-338
 Tags: relevance:core
 Investigative Direction: Obtain police transport logs and Lance's statements on the night he was questioned.
@@ -2334,7 +2334,7 @@ Transcript Snippet: The feds then moved him and his father into a safe house. Th
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10044, N-10014
+Related Nodes: N-10041, N-10014
 Tags: relevance:core
 Investigative Direction: Seek confirmation from the FBI, Lance's family or court filings about relocation costs.
 
@@ -2350,7 +2350,7 @@ Transcript Snippet: Lance moved in to that apartment which is owned by his famil
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10634
+Related Nodes: N-10580
 Supports: C-216
 Tags: relevance:context
 Investigative Direction: Obtain lease and property records for the apartment.
@@ -2367,7 +2367,7 @@ Transcript Snippet: in 2023, Tyler Robinson took Caleb's place. So, in August of
 
 Anchored Artifacts: 
 Mentions: N-40, N-54, N-3
-Related Nodes: N-10634
+Related Nodes: N-10580
 Tags: relevance:context
 Investigative Direction: Obtain lease records and roommate statements for 2022 to 2025.
 
@@ -2383,7 +2383,7 @@ Transcript Snippet: So, at the end of 2024, Bradley, the military guy, moved out
 
 Anchored Artifacts: 
 Mentions: N-40, N-54, N-3
-Related Nodes: N-10634
+Related Nodes: N-10580
 Tags: relevance:context
 Investigative Direction: Verify the roommate's move-out date and military obligation from lease or unit records.
 
@@ -2399,7 +2399,7 @@ Transcript Snippet: I have always suspected and even more so after the prelimina
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10598, N-10679
+Related Nodes: N-10545, N-10617
 Tags: relevance:core
 Investigative Direction: Seek any court, FOIA or source documentation of a relationship between Lance and a federal agency.
 
@@ -2415,7 +2415,7 @@ Transcript Snippet: end the stupid foreign wars and focus on this issue. It's on
 
 Anchored Artifacts: A-2262.1
 Mentions: N-163
-Related Nodes: N-10789
+Related Nodes: N-10713
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
 
@@ -2431,7 +2431,7 @@ Transcript Snippet: I'm beginning to think the affordability crisis is really an
 
 Anchored Artifacts: A-2262.2
 Mentions: N-241
-Related Nodes: N-10789
+Related Nodes: N-10713
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
 
@@ -2447,7 +2447,7 @@ Transcript Snippet: The market doesn't care what you think. Something should cos
 
 Anchored Artifacts: A-2262.5
 Mentions: N-925
-Related Nodes: N-10789
+Related Nodes: N-10713
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
 
@@ -2463,7 +2463,7 @@ Transcript Snippet: A linked article uses pre20 data showing the US the lowest f
 
 Anchored Artifacts: A-2262.6
 Mentions: N-159, N-3
-Related Nodes: N-10789
+Related Nodes: N-10713
 Tags: relevance:tangential
 Investigative Direction: Capture the community note and the chart's underlying data and date.
 
@@ -2479,7 +2479,7 @@ Transcript Snippet: Now we're saying the thing with the biggest, most audacious,
 
 Anchored Artifacts: A-2263.1
 Mentions: N-97
-Related Nodes: N-10789
+Related Nodes: N-10713
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and the film's release details.
 
@@ -2525,7 +2525,7 @@ Transcript Snippet: play hunger games with their lives as the Gaza Humanitarian 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10670, N-10063
+Related Nodes: N-10610, N-10060
 Tags: relevance:tangential
 Investigative Direction: Consult reporting and UN or NGO records on the Gaza Humanitarian Foundation distribution sites.
 
@@ -2602,7 +2602,7 @@ Transcript Snippet: Many of them in that chat of 92 influencers, the defenders o
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10780, N-10000
+Related Nodes: N-10705, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the chat's membership list and screenshots from the host's source.
 
@@ -2618,7 +2618,7 @@ Transcript Snippet: Also was hilarious that Paramount Notso Tactical is like one
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10899, N-10780
+Related Nodes: N-10820, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain the chat's membership list and screenshots from the host's source.
 
@@ -2634,7 +2634,7 @@ Transcript Snippet: Well, it's a trap I'm willing to walk into.
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11361
+Related Nodes: N-11277
 Tags: relevance:context
 Investigative Direction: Record whether Wilson responds to the host's counter-terms.
 
@@ -2650,7 +2650,7 @@ Transcript Snippet: Oh, because one is supposed to be for the public and it's su
 
 Anchored Artifacts: A-2261.1
 Mentions: N-3
-Related Nodes: N-11308
+Related Nodes: N-11224
 Tags: relevance:core
 Investigative Direction: Compare resolution and provenance of the public footage with the 4K version shown to influencers.
 
@@ -2697,7 +2697,7 @@ Transcript Snippet: given this group chat that we have landed upon that is toget
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10780
+Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain screenshots of the chat and identify the participants.
 
@@ -2940,5 +2940,5 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265, A-2266
 - **Claim Range:** C-11908–C-11970
-- **New Nodes Introduced:** N-10786, N-10787, N-10788, N-10789, N-10790
+- **New Nodes Introduced:** N-10710, N-10711, N-10712, N-10713, N-10714
 - **Existing Nodes Reused:** N-1, N-2, N-40

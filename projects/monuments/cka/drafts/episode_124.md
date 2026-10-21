@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-773, N-774, N-11136
-  - Hole-minted Nodes (reintro-ep124): N-10748
-  - Tip-minted Nodes (reintro-ep124): N-11065
+  - Tip-minted Nodes (supplement_2026-10b): N-773, N-774, N-11054
+  - Hole-minted Nodes (reintro-ep124): N-10678
+  - Tip-minted Nodes (reintro-ep124): N-10983
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10598–C-10694
-  - New Nodes Introduced: N-10709, N-10712
-  - Reused Nodes Appearing: N-487, N-3, N-267, N-366, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-159, N-163, N-266, N-270, N-278, N-365, N-606, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-775, N-11137, N-58, N-492, N-10713
+  - New Nodes Introduced: N-10645, N-10648
+  - Reused Nodes Appearing: N-487, N-3, N-267, N-366, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-159, N-163, N-266, N-270, N-278, N-365, N-606, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10048, N-10074, N-10354, N-10359, N-10362, N-10458, N-10523, N-10545, N-10617, N-10630, N-10639, N-10663, N-10821, N-10896, N-10937, N-10646, N-10647, N-11053, N-775, N-11055, N-58, N-492, N-10649
   - (see registers)
 
 # Meta-Data
@@ -35,7 +35,7 @@
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-10600 – C-10629, C-10677, C-10678, C-10603
-New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
+New Nodes Introduced: N-10645, N-10646, N-10647, N-10648, N-10649
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlin Oliver, Samantha Karner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
 
 ## 6. Meme Register
@@ -388,7 +388,7 @@ Video Timestamp: 00:19:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10621, N-10709*
+*Related: C-10621, N-10645*
 
 **A-2120.2** Still image of Tyler Robinson's actual Dodge Challenger (post-tow), featuring a singular exhaust pipe.
 
@@ -398,7 +398,7 @@ Video Timestamp: 00:19:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10621, N-10709*
+*Related: C-10621, N-10645*
 
 ---
 
@@ -484,7 +484,7 @@ Video Timestamp: 00:35:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10642, N-10711*
+*Related: C-10642, N-10647*
 
 ---
 
@@ -498,7 +498,7 @@ Video Timestamp: 00:40:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10647, N-10710*
+*Related: C-10647, N-10646*
 
 ---
 
@@ -526,7 +526,7 @@ Video Timestamp: 01:01:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10667, N-10712, N-1*
+*Related: C-10667, N-10648, N-1*
 
 **A-2127.2** Host's on-air $10,000 bounty for who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot, with tips to candaceowens.com (verbal reference; no displayed artifact)
 
@@ -536,7 +536,7 @@ Video Timestamp: 01:07:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10678, N-3, N-97, N-10712*
+*Related: C-10678, N-3, N-97, N-10648*
 
 ---
 
@@ -613,7 +613,7 @@ First named by the host at 01:03:20 in episode 124.
 
 *Related: C-10667*
 
-**N-10709** Car Exhaust Pipe Discrepancy
+**N-10645** Parking Garage Challenger Vehicle Exhaust Discrepancy
 
 The discrepancy between the dual-exhaust Dodge Challenger shown in preliminary hearing footage (A-2120.1) and Tyler Robinson's known single-exhaust Dodge Challenger (A-2120.2).
 
@@ -626,7 +626,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10710** Bullet Jacket Fragment Diameter Discrepancy
+**N-10646** Bullet Jacket Fragment Diameter Discrepancy
 
 The discrepancy between the 6A bullet jacket fragment diameter range (286–301 thousandths of an inch, per A-2125.1) and the minimum cartridge diameter (.308) for a .30-06 rifle.
 
@@ -639,7 +639,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10711** Tyler Robinson DNA Most Degraded Anomaly
+**N-10647** Tyler Robinson DNA Most Degraded Anomaly
 
 The anomaly that Tyler Robinson's DNA sample on the firearm was the most degraded of all contributors identified, despite the prosecution's theory that Robinson handled the gun immediately prior to disposal.
 
@@ -652,7 +652,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10712** Ben Shapiro Car Ride Live Updates
+**N-10648** Ben Shapiro Car Ride Live Updates
 
 The discrepancy that Ben Shapiro's security team received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital, while the vehicle occupants have publicly given accounts that do not readily identify who could have made such calls.
 
@@ -665,7 +665,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10713** Tyler-Lance Text Message Extraction Source
+**N-10649** Tyler-Lance Text Message Extraction Source
 
 The investigative question of which Tel Aviv-based company extracted the Tyler-Lance text messages introduced at the preliminary hearing.
 
@@ -734,7 +734,7 @@ Campus where Robinson's movements and the Loy Center are placed.
 
 ---
 
-**N-10051** Dairy Queen 6:38 Photo Verification
+**N-10048** Dairy Queen 6:38 Photo Verification
 
 Existing topic reused for the host's belief Robinson was at the Dairy Queen.
 
@@ -742,7 +742,7 @@ Existing topic reused for the host's belief Robinson was at the Dairy Queen.
 
 ---
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 Existing topic reused for the Tyler-Lance texts.
 
@@ -750,7 +750,7 @@ Existing topic reused for the Tyler-Lance texts.
 
 ---
 
-**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10354** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for the Panguitch steak claim.
 
@@ -758,7 +758,7 @@ Existing topic reused for the Panguitch steak claim.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing topic reused for the Charlie-Shapiro relationship.
 
@@ -766,7 +766,7 @@ Existing topic reused for the Charlie-Shapiro relationship.
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Existing topic reused for the dreams.
 
@@ -774,7 +774,7 @@ Existing topic reused for the dreams.
 
 ---
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
 Existing topic reused for the Netanyahu call allegation.
 
@@ -782,7 +782,7 @@ Existing topic reused for the Netanyahu call allegation.
 
 ---
 
-**N-10572** ATF Bullet-to-Gun Inconclusive Finding
+**N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
 Existing topic reused for the gun and bullet linkage.
 
@@ -790,7 +790,7 @@ Existing topic reused for the gun and bullet linkage.
 
 ---
 
-**N-10598** Lance Twiggs Federal Asset Question
+**N-10545** Lance Twiggs Federal Asset Question
 
 Existing topic reused for the federal asset claim about Lance.
 
@@ -798,7 +798,7 @@ Existing topic reused for the federal asset claim about Lance.
 
 ---
 
-**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
+**N-10617** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 Existing topic reused for limits on Lance's testimony and cross-examination.
 
@@ -806,7 +806,7 @@ Existing topic reused for limits on Lance's testimony and cross-examination.
 
 ---
 
-**N-10692** 911 Call Origin in Hospital Transport Vehicle
+**N-10630** 911 Call Origin in Hospital Transport Vehicle
 
 Existing topic reused for 911 and transport vehicle events.
 
@@ -814,7 +814,7 @@ Existing topic reused for 911 and transport vehicle events.
 
 ---
 
-**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
+**N-10639** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
 Existing topic reused for the set-up theory.
 
@@ -822,7 +822,7 @@ Existing topic reused for the set-up theory.
 
 ---
 
-**N-10729** 911 Call Identification Gap
+**N-10663** 911 Call Identification Gap
 
 Existing topic reused for who called 911.
 
@@ -830,7 +830,7 @@ Existing topic reused for who called 911.
 
 ---
 
-**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
+**N-10678** Ben Shapiro 9/10 Lunch Meeting Identification
 
 Existing topic reused for who Shapiro was with at lunch.
 
@@ -838,7 +838,7 @@ Existing topic reused for who Shapiro was with at lunch.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Daily Wire; Shapiro's company, discussed in the lawsuit and donation claims.
 
@@ -846,7 +846,7 @@ Daily Wire; Shapiro's company, discussed in the lawsuit and donation claims.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 ATF; the source of the DNA and ballistics testimony.
 
@@ -854,7 +854,7 @@ ATF; the source of the DNA and ballistics testimony.
 
 ---
 
-**N-11017** TPUSA Influencer Payment Campaign Allegation
+**N-10937** TPUSA Influencer Payment Campaign Allegation
 
 Existing topic reused for the host's pay allegation about influencers.
 
@@ -862,7 +862,7 @@ Existing topic reused for the host's pay allegation about influencers.
 
 ---
 
-**N-11065** Preliminary Hearing Influencer Invitation Question
+**N-10983** Preliminary Hearing Influencer Invitation Question
 
 Existing topic reused for the invitation of influencers to the hearing.
 
@@ -1054,7 +1054,7 @@ First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, who
 
 ---
 
-**N-11135** Bullet Fragment Chain-of-Custody Question
+**N-11053** Bullet Fragment Chain-of-Custody Question
 
 Node Type: Topic
 The host's point that seven fragments were reportedly taken from Charlie's body, but the ATF examiner testified she received four, found three unusable and examined one, labeled 6A.
@@ -1063,7 +1063,7 @@ The host's point that seven fragments were reportedly taken from Charlie's body,
 
 ---
 
-**N-11136** Transport Car Cardboard-Like Piece Tip
+**N-11054** Transport Car Cardboard-Like Piece Tip
 
 Node Type: Topic
 A tip the host says she received about a piece that looked like cardboard in the back of the transport vehicle.
@@ -1072,7 +1072,7 @@ A tip the host says she received about a piece that looked like cardboard in the
 
 ---
 
-**N-11137** Harpole Team Medical Response Competence Dispute
+**N-11055** Harpole Team Medical Response Competence Dispute
 
 Node Type: Topic
 The dispute over whether the first aid given in the transport vehicle, including CPR, neck stabilization and Harpole's EMT credential, was competent, which underlies the lawsuit against the host.
@@ -1180,7 +1180,7 @@ Claim: The host says the Dodge Challenger shown in preliminary hearing footage h
 Anchored Artifacts: A-2120.1, A-2120.2
 Mentions: N-40
 
-Related Nodes: N-10709
+Related Nodes: N-10645
 
 Investigative Direction: Obtain vehicle registration and VIN data for Tyler Robinson's Challenger to verify exhaust configuration.
 
@@ -1238,7 +1238,7 @@ Claim: ATF forensic biologist Caitlin Oliver testified that characterizing media
 Anchored Artifacts: A-2124.1
 Mentions: N-40, N-773
 
-Related Nodes: N-10711
+Related Nodes: N-10647
 
 Investigative Direction: Compare Caitlin Oliver's testimony against ATF report language and media headlines for accuracy of characterization.
 
@@ -1253,7 +1253,7 @@ Claim: Caitlin Oliver testified that DNA samples from the trigger and trigger gu
 Anchored Artifacts: A-2124.2
 Mentions: N-773
 
-Related Nodes: N-10711
+Related Nodes: N-10647
 
 Investigative Direction: Obtain the full DNA report to verify contributor counts and threshold interpretations.
 
@@ -1268,7 +1268,7 @@ Claim: The host says that Caitlin Oliver confirmed, in testimony the host plays,
 Anchored Artifacts: A-2124.3
 Mentions: N-40, N-773
 
-Related Nodes: N-10711
+Related Nodes: N-10647
 
 Investigative Direction: Cross-reference degradation findings with handling/timeline assumptions in the prosecution's theory.
 
@@ -1283,7 +1283,7 @@ Claim: ATF ballistics expert Samantha Karner testified that the 6A bullet jacket
 Anchored Artifacts: A-2125.1
 Mentions: N-774
 
-Related Nodes: N-10710
+Related Nodes: N-10646
 
 Investigative Direction: Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle.
 
@@ -1313,7 +1313,7 @@ Claim: In a clip the host plays, Ben Shapiro says his security was on the phone 
 Anchored Artifacts: A-2127.1
 Mentions: N-1, N-97
 
-Related Nodes: N-10712
+Related Nodes: N-10648
 
 Investigative Direction: Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turek, Dan Flood, and Justin Davis.
 
@@ -1330,7 +1330,7 @@ Mentions: N-40, N-54
 
 Related Nodes:
 
-Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-10713).
+Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-10649).
 
 ---
 
@@ -1344,7 +1344,7 @@ Transcript Snippet: Tim Pool is lying through his teeth. He did not receive upda
 
 Anchored Artifacts: 
 Mentions: N-3, N-267, N-366, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Investigative Direction: Identify who in the car was in contact with outside security teams and when.
 
 ---
@@ -1359,7 +1359,7 @@ Transcript Snippet: I will put up $10,000 bounty on that piece of information.
 
 Anchored Artifacts: A-2127.2
 Mentions: N-3, N-97
-Related Nodes: N-10712
+Related Nodes: N-10648
 Investigative Direction: Collect tip-line submissions on the lunch; corroborate any named attendee against location data or witnesses.
 
 ---
@@ -1391,7 +1391,7 @@ Transcript Snippet: did not choose to invite to Charlie's private funeral mass, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-89, N-606, N-58, N-1
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Obtain the hearing attendance and seating list and any invitation messages from Erika Kirk's office to the named influencers.
 
@@ -1407,7 +1407,7 @@ Transcript Snippet: Benny Johnson came right out of the gate and said, "Erika as
 
 Anchored Artifacts: 
 Mentions: N-3, N-89, N-2
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Locate Benny Johnson's original post or video stating that Erika Kirk asked him to attend.
 
@@ -1487,7 +1487,7 @@ Transcript Snippet: Now, we were also told that Tyler's fingerprints and his DNA
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10711
+Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Compare earlier official and media statements about prints and DNA with the ATF laboratory reports.
 
@@ -1553,7 +1553,7 @@ Transcript Snippet: I have never denied that the gun found was indeed Tyler Robi
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10572
+Related Nodes: N-10523
 Tags: relevance:core
 Investigative Direction: Obtain ATF test-fire and bullet comparison reports and the chain of custody for the rifle.
 
@@ -1585,7 +1585,7 @@ Transcript Snippet: I also have suggested heavily from the beginning that Lance 
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
-Related Nodes: N-10598, N-10703
+Related Nodes: N-10545, N-10639
 Tags: relevance:core
 Investigative Direction: Look for court filings or records on any agreement with Lance Twiggs and on the alleged dark web activity; no document has been shown on air.
 
@@ -1601,7 +1601,7 @@ Transcript Snippet: who for some reason was immediately granted immunity by the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10679, N-10598
+Related Nodes: N-10617, N-10545
 Tags: relevance:core
 Investigative Direction: Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twiggs.
 
@@ -1714,7 +1714,7 @@ Transcript Snippet: because we broke the story that Tyler was eating a steak dow
 
 Anchored Artifacts: A-2864.1
 Mentions: N-3, N-40
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.
@@ -1731,7 +1731,7 @@ Transcript Snippet: He could not have been doing what he said he was doing, text
 
 Anchored Artifacts: A-2123.1
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10077, N-10381
+Related Nodes: N-10074, N-10354
 Tags: relevance:core
 Investigative Direction: Obtain the full carrier and device records for both phones to establish where each handset was when each message was sent.
 
@@ -1747,7 +1747,7 @@ Transcript Snippet: The messages are problematic, and that's why they're not tim
 
 Anchored Artifacts: A-2123.1
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Supports: C-193, C-301
 Tags: relevance:core
 Investigative Direction: Obtain the extraction report and native message database showing time fields for each message.
@@ -1764,7 +1764,7 @@ Transcript Snippet: the messages were apparently extracted uh by a company based
 
 Anchored Artifacts: A-2123.1
 Mentions: N-3, N-54
-Related Nodes: N-10713, N-10077
+Related Nodes: N-10649, N-10074
 Tags: relevance:core
 Investigative Direction: Identify the extraction vendor and the examiner named in the forensic report; the host names no company.
 
@@ -1780,7 +1780,7 @@ Transcript Snippet: He shouldn't have said old age because um the fed narrative 
 
 Anchored Artifacts: A-2123.1
 Mentions: N-3, N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Compare the message text with other statements about Robinson's state of mind from family and the roommate.
 
@@ -1796,7 +1796,7 @@ Transcript Snippet: this feels to me like a person who is not native to speaking
 
 Anchored Artifacts: A-2123.1
 Mentions: N-3, N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Have independent linguists compare the messages with Robinson's known writing; obtain the authentic original message database.
 
@@ -1812,7 +1812,7 @@ Transcript Snippet: if you have information related to when the kines were broug
 
 Anchored Artifacts: A-2863.1
 Mentions: N-3, N-40
-Related Nodes: N-10077
+Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Collect tip-line submissions and agency records on the K9 deployment time at the scene for comparison with message content.
 
@@ -1845,7 +1845,7 @@ Transcript Snippet: there was plenty of testimony regarding how Lance Twiggs's p
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Obtain the latent print and DNA reports itemizing the items on which Lance Twiggs's prints or DNA were found.
 
@@ -1861,7 +1861,7 @@ Transcript Snippet: Lance claims that he slept in until 100 p. m.
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-1
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Check the roommate's phone, building access and other records for activity before 1 p.m. that day.
 
@@ -1877,7 +1877,7 @@ Transcript Snippet: I believe that the reason they did it, the reason why they w
 
 Anchored Artifacts: A-2124.1
 Mentions: N-3, N-773, N-40
-Related Nodes: N-10975
+Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.
 
@@ -1893,7 +1893,7 @@ Transcript Snippet: since 1996 they actually don't rely on mixed samples for tha
 
 Anchored Artifacts: A-2124.2
 Mentions: N-3, N-40
-Related Nodes: N-10975
+Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.
 
@@ -1909,7 +1909,7 @@ Transcript Snippet: which of course included Lance Twiggs. Uh it also included M
 
 Anchored Artifacts: A-2124.2
 Mentions: N-3, N-773, N-54, N-775, N-40
-Related Nodes: N-10975
+Related Nodes: N-10896
 Tags: relevance:core
 Investigative Direction: Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.
 
@@ -1925,7 +1925,7 @@ Transcript Snippet: So, they were swabbed together. So, I wouldn't be able to sa
 
 Anchored Artifacts: A-2124.3
 Mentions: N-773, N-40
-Related Nodes: N-10975, N-10711
+Related Nodes: N-10896, N-10647
 Tags: relevance:core
 Investigative Direction: Obtain the evidence photographs, collection notes and the identity of who performed the swabs.
 
@@ -1941,7 +1941,7 @@ Transcript Snippet: because they kept saying that his DNA was on the trigger. An
 
 Anchored Artifacts: A-2124.3
 Mentions: N-3, N-773, N-40
-Related Nodes: N-10711
+Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.
 
@@ -1957,7 +1957,7 @@ Transcript Snippet: It does not seem to me that DNA would suddenly degrade immed
 
 Anchored Artifacts: A-2124.3
 Mentions: N-3, N-54, N-40
-Related Nodes: N-10711, N-10703
+Related Nodes: N-10647, N-10639
 Supports: C-10642
 Tags: relevance:core
 Investigative Direction: Ask independent forensic DNA experts to review the degradation finding and storage and handling conditions of the rifle.
@@ -1974,7 +1974,7 @@ Transcript Snippet: it was weird off the bat that they said they took seven bull
 
 Anchored Artifacts: A-2125.1
 Mentions: N-3, N-774, N-1
-Related Nodes: N-11135, N-10975, N-10710
+Related Nodes: N-11053, N-10896, N-10646
 Tags: relevance:core
 Investigative Direction: Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.
 
@@ -1990,7 +1990,7 @@ Transcript Snippet: The reason why that matters is because it's too small for Ty
 
 Anchored Artifacts: A-2125.1
 Mentions: N-3, N-774, N-40
-Related Nodes: N-10710, N-10572
+Related Nodes: N-10646, N-10523
 Supports: C-10647
 Tags: relevance:core
 Investigative Direction: Check SAAMI specifications and Carner's report on whether fragment diameter ranges permit a .30-06 bullet.
@@ -2024,7 +2024,7 @@ Transcript Snippet: And the judge ruled that you can't see the highdefin quality
 
 Anchored Artifacts: A-2126.1
 Mentions: N-89, N-40, N-1
-Related Nodes: N-11065
+Related Nodes: N-10983
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Obtain the court order on public release of the video and the hearing record of what was shown in the gallery.
@@ -2074,7 +2074,7 @@ Transcript Snippet: Please pray. Erika Kirk asked us to do this.
 
 Anchored Artifacts: A-2126.1
 Mentions: N-89, N-2
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Find any message or statement from Erika Kirk's team requesting the influencers' public messaging.
 
@@ -2090,7 +2090,7 @@ Transcript Snippet: being like oh no it doesn't actually show him gets shot but 
 
 Anchored Artifacts: A-2126.1
 Mentions: N-3, N-89, N-40
-Related Nodes: N-11065
+Related Nodes: N-10983
 Tags: relevance:core
 Investigative Direction: Collect the later statements by Benny Johnson and others describing the footage and compare with their first posts.
 
@@ -2106,7 +2106,7 @@ Transcript Snippet: Everyone else was spending nine hours a day watching every d
 
 Anchored Artifacts: 
 Mentions: N-3, N-89
-Related Nodes: N-11065
+Related Nodes: N-10983
 Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Determine who attended the day five viewing and whether the footage shown in the gallery matches any filed exhibit.
@@ -2123,7 +2123,7 @@ Transcript Snippet: And now I get why they had to file for FAR, right? Like I me
 
 Anchored Artifacts: 
 Mentions: N-3, N-89
-Related Nodes: N-11017
+Related Nodes: N-10937
 Tags: relevance:core
 Investigative Direction: Search FARA registrations and payment records for the influencers named; no document is cited on air.
 
@@ -2139,7 +2139,7 @@ Transcript Snippet: Somebody's going to have to explain why Lance Twiggs is not 
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
-Related Nodes: N-10598, N-10679
+Related Nodes: N-10545, N-10617
 Tags: relevance:core
 Investigative Direction: Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twiggs's status.
 
@@ -2155,7 +2155,7 @@ Transcript Snippet: Anybody who knows Charlie Kirk knows that he did not like Be
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97, N-14
-Related Nodes: N-10386
+Related Nodes: N-10359
 Tags: relevance:core
 Investigative Direction: Collect statements from Kirk's associates and past exchanges between Kirk and Shapiro to test the relationship claim.
 
@@ -2187,7 +2187,7 @@ Transcript Snippet: He races to give a million dollars. The com his company is s
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-2, N-1
-Related Nodes: N-10000, N-10900
+Related Nodes: N-10000, N-10821
 Tags: relevance:core
 Investigative Direction: Look for TPUSA donor records or announcements of a Shapiro or Daily Wire gift and its date.
 
@@ -2203,7 +2203,7 @@ Transcript Snippet: Then there was this really strange phone call that I had wit
 
 Anchored Artifacts: 
 Mentions: N-3, N-163, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:core
 Investigative Direction: Establish Shapiro's whereabouts and Walsh's call timing for the date; the host defers details to another episode.
 
@@ -2219,7 +2219,7 @@ Transcript Snippet: which Brian Harpole is suing me over and using Ben Shapiro's
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Supports: C-8731, C-8636
 Tags: relevance:core
 Investigative Direction: Review the complaint's signature block for counsel of record and their relationship to Shapiro.
@@ -2236,7 +2236,7 @@ Transcript Snippet: Ben Shapiro lawyers, who have been suing me and my family fo
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Pull the dockets for the Daily Wire and Owens litigation and identify counsel and plaintiffs.
 
@@ -2252,7 +2252,7 @@ Transcript Snippet: I was in Los Angeles. I had sort of a breakfast slunch meeti
 
 Anchored Artifacts: A-2127.1
 Mentions: N-97, N-1
-Related Nodes: N-10748, N-10712
+Related Nodes: N-10678, N-10648
 Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Establish where Shapiro was and with whom at the time; compare with his schedule and the host's bounty request.
@@ -2269,7 +2269,7 @@ Transcript Snippet: Brian Harpole stipulates that it couldn't have been him that
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Compare Harpole's account of treatment with his lawsuit filing, interviews and any photographs or video from the vehicle.
 
@@ -2285,7 +2285,7 @@ Transcript Snippet: And it couldn't have been Rick Cutler because Rick Cutler ha
 
 Anchored Artifacts: 
 Mentions: N-3, N-487, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Interview Cutler and review vehicle video or photographs to confirm his position and use of his phone.
 
@@ -2301,7 +2301,7 @@ Transcript Snippet: Frank says that he started CPR, but Brian Harpell says no su
 
 Anchored Artifacts: 
 Mentions: N-3, N-7, N-266, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Compare Frank Turek's and Brian Harpole's recorded accounts of what was done in the vehicle.
 
@@ -2317,7 +2317,7 @@ Transcript Snippet: Justin Davis was driving upwards to 100 miles per hour.
 
 Anchored Artifacts: 
 Mentions: N-3, N-492, N-97
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics, GPS or dashcam data for the transport and Davis's phone records.
 
@@ -2333,7 +2333,7 @@ Transcript Snippet: Remember his phone. He just didn't even realize while he was
 
 Anchored Artifacts: 
 Mentions: N-3, N-7, N-97
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Ask Turek for his call log and statement about the FaceTime call during the transport.
 
@@ -2349,7 +2349,7 @@ Transcript Snippet: Which one of you guys called 911? Because they've never said
 
 Anchored Artifacts: 
 Mentions: N-3, N-270, N-492
-Related Nodes: N-10729, N-10692
+Related Nodes: N-10663, N-10630
 Supports: C-8491, C-9178
 Tags: relevance:core
 Investigative Direction: Obtain the CAD log and all 911 audio for the incident and match callers to numbers.
@@ -2366,7 +2366,7 @@ Transcript Snippet: so Ben knew what was happening before the rest of the world 
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-1
-Related Nodes: N-10712, N-10748
+Related Nodes: N-10648, N-10678
 Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Establish the timestamp of the first Shapiro-side call and compare it with the first public posts of the video.
@@ -2383,7 +2383,7 @@ Transcript Snippet: So, who on Ben's IDF Israeli Msad Security apparatus team, f
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-1
-Related Nodes: N-10712
+Related Nodes: N-10648
 Tags: relevance:core
 Investigative Direction: Identify Shapiro's security provider and personnel and their backgrounds from licensing or public records.
 
@@ -2399,7 +2399,7 @@ Transcript Snippet: the statement from Andrew Colbeat it was supposed to be you
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1
-Related Nodes: N-10495
+Related Nodes: N-10458
 Supports: C-3154
 Tags: relevance:core
 Investigative Direction: Pin down the exact Kolvet statement and when it was made; the host's follow-up questions are speculation.
@@ -2416,7 +2416,7 @@ Transcript Snippet: I only got an acknowledgement that it happened from Erika in
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36, N-1
-Related Nodes: N-10495, N-10018
+Related Nodes: N-10458, N-10018
 Supports: C-251
 Tags: relevance:core
 Investigative Direction: Obtain statements from others present at the Hamptons gathering and records of the call.
@@ -2433,7 +2433,7 @@ Transcript Snippet: Really, Bill Ackman? put BB9 and Yahoo on the phone and he's
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-36, N-1
-Related Nodes: N-10495, N-10027
+Related Nodes: N-10458, N-10027
 Tags: relevance:core
 Investigative Direction: Establish who arranged the call, its date and length, from phone records and attendees; the transcript here is garbled.
 
@@ -2449,7 +2449,7 @@ Transcript Snippet: We got an unbelievable tip about that piece which we describ
 
 Anchored Artifacts: A-2865.1
 Mentions: N-3
-Related Nodes: N-11136, N-10712
+Related Nodes: N-11054, N-10648
 Tags: relevance:core
 Investigative Direction: Publish the tip and the underlying photo or witness; identify which image the host is describing.
 
@@ -2465,7 +2465,7 @@ Transcript Snippet: I believe this is what has caused the mass panic, the report
 
 Anchored Artifacts: A-2865.1
 Mentions: N-3
-Related Nodes: N-11136, N-11017
+Related Nodes: N-11054, N-10937
 Tags: relevance:context
 Investigative Direction: Establish timing of the tip and the first attacks on the host to test any causal link.
 
@@ -2481,7 +2481,7 @@ Transcript Snippet: Now, Andrew Kulat is reviving it, likely due to growing supp
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-54, N-40
-Related Nodes: N-10598
+Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Find the Kolvet statements about Lance Twiggs the commenter refers to.
 
@@ -2497,7 +2497,7 @@ Transcript Snippet: Diligent Denizen went and spoke to the waiter uh down at in 
 
 Anchored Artifacts: 
 Mentions: N-3, N-365
-Related Nodes: N-10381
+Related Nodes: N-10354
 Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Obtain the waiter's account and the restaurant's order and payment times.
@@ -2514,7 +2514,7 @@ Transcript Snippet: Dreams he was having in 2018 that were vivid. I started havi
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:tangential
 Investigative Direction: No external record is available for the dreams; compare with her earlier on-air accounts of them.
 
@@ -2530,7 +2530,7 @@ Transcript Snippet: Yep, we mentioned that the order should have been call 911 a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11137, N-10692
+Related Nodes: N-11055, N-10630
 Tags: relevance:core
 Investigative Direction: Get an independent trauma or EMS opinion on first-aid priorities for such an injury.
 
@@ -2546,7 +2546,7 @@ Transcript Snippet: I think somebody emailed me and said they dug up Brian's and
 
 Anchored Artifacts: 
 Mentions: N-3, N-266
-Related Nodes: N-11137
+Related Nodes: N-11055
 Tags: relevance:core
 Investigative Direction: Check Utah EMS licensing records and the National Registry for Harpole's credential history.
 
@@ -2562,7 +2562,7 @@ Transcript Snippet: Obviously, I'm being sued for saying that what they did was 
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-97
-Related Nodes: N-11137
+Related Nodes: N-11055
 Supports: C-8636
 Tags: relevance:core
 Investigative Direction: Review the complaint's causes of action and the host's answer for the incompetence statements at issue.
@@ -2579,7 +2579,7 @@ Transcript Snippet: Just looking at the photos of how they didn't hold his neck 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11137, N-10692
+Related Nodes: N-11055, N-10630
 Tags: relevance:core
 Investigative Direction: Identify the specific photographs and have a medical expert assess hand placement.
 
@@ -2595,7 +2595,7 @@ Transcript Snippet: I do believe that Tyler Robinson was around campus on that d
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10051, N-10028
+Related Nodes: N-10048, N-10028
 Tags: relevance:core
 Investigative Direction: Compare the host's statement with her earlier positions on the Dairy Queen photo and the campus presence.
 
@@ -2635,7 +2635,7 @@ Investigative Direction: This is host speculation; no document or source is cite
 
 # VI. Optional Flags
 
-- **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10713.
+- **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10649.
 - **Panguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Panguitch (3 hours from UVU); receipt not displayed in this episode.
 - **Bill Ackman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.
 - **Erika Kirk / Bari Weiss interview:** Referenced as showing Erika "made up her mind" pre-hearing; no clip displayed in this episode.

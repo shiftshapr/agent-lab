@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e947ef3ae2fd7542aa73ed3a25e830c3b7b5d7d5411806bda898739caf04411e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-854, N-855, N-11250, N-11251, N-11252, N-11253, N-11254
+  - Tip-minted Nodes (supplement_2026-10d): N-854, N-855, N-11166, N-11167, N-11168, N-11169, N-11170
   - Hole-minted Nodes (reintro-ep074): N-165
-  - Tip-minted Nodes (reintro-ep074): N-10953
+  - Tip-minted Nodes (reintro-ep074): N-10874
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6596–C-6703
-  - New Nodes Introduced: N-563, N-564, N-565, N-566, N-567, N-10511, N-10513, N-10514, N-10515, N-10516, N-10518
-  - Reused Nodes Appearing: N-10512, N-5, N-9, N-11, N-40, N-47, N-55, N-69, N-99, N-186, N-237, N-259, N-330, N-486, N-489, N-544, N-579, N-10000, N-10110, N-10138, N-10275, N-10311, N-10324, N-10367, N-10419, N-10428, N-10440, N-10477, N-10487, N-10506, N-10509, N-10561, N-10832, N-11014, N-11098, N-10517
+  - New Nodes Introduced: N-563, N-564, N-565, N-566, N-567, N-10471, N-10472, N-10473, N-10474, N-10475, N-10477
+  - Reused Nodes Appearing: N-10467, N-5, N-9, N-11, N-40, N-47, N-55, N-69, N-99, N-186, N-237, N-259, N-330, N-486, N-489, N-544, N-579, N-10000, N-10106, N-10133, N-10293, N-10303, N-10342, N-10392, N-10409, N-10353, N-10452, N-10469, N-10513, N-10755, N-10934, N-11016, N-10476
   - (see registers)
 
 ## 2. Executive Summary
@@ -353,7 +353,7 @@ Video Timestamp: 00:11:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-564, N-10513*
+*Related: N-564, N-10472*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:21:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6640, C-6642, N-10515*
+*Related: C-6640, C-6642, N-10474*
 
 **A-1785.2** Erika tweet, 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
 
@@ -499,7 +499,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6641, N-10515*
+*Related: C-6641, N-10474*
 
 **A-1785.3** Erika tweet, 2025-09-10 at 9:45 a.m. Arizona time, day of Charlie Kirk assassination: "God is our refuge and strength, a very present help in trouble."
 
@@ -509,7 +509,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6642, C-6643, N-10515*
+*Related: C-6642, C-6643, N-10474*
 
 ---
 
@@ -523,7 +523,7 @@ Video Timestamp: 00:28:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6656, N-10511*
+*Related: C-6656, N-10471*
 
 ---
 
@@ -537,7 +537,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6662, N-10512*
+*Related: C-6662, N-10467*
 
 ---
 
@@ -551,7 +551,7 @@ Video Timestamp: 00:37:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6668, C-6670, N-190, N-10512*
+*Related: C-6668, C-6670, N-190, N-10467*
 
 ---
 
@@ -565,7 +565,7 @@ Video Timestamp: 00:38:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-6668, C-6670, N-190, N-10512*
+*Related: C-6668, C-6670, N-190, N-10467*
 
 ---
 
@@ -608,7 +608,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6663, C-6664, N-3, N-2, N-237, N-10506*
+*Related: C-6663, C-6664, N-3, N-2, N-237, N-10467*
 
 ---
 
@@ -698,7 +698,7 @@ Video Timestamp: 00:19:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6632, N-11251, N-10487*
+*Related: C-6632, N-11167, N-10452*
 
 ---
 
@@ -756,7 +756,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1781.1–A-1781.10, A-1782.1–A-1782.6, A-1783.1, A-1784.1–A-1784.4, C-6600–C-6622, N-10513*
+*Related: A-1781.1–A-1781.10, A-1782.1–A-1782.6, A-1783.1, A-1784.1–A-1784.4, C-6600–C-6622, N-10472*
 
 ---
 
@@ -782,7 +782,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1788.1, A-1789.1, C-6668, C-6670, N-10512*
+*Related: A-1788.1, A-1789.1, C-6668, C-6670, N-10467*
 
 ---
 
@@ -795,7 +795,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10512*
+*Related: N-10467*
 
 ---
 
@@ -834,11 +834,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-6641, N-564, N-10513*
+*Related: C-6641, N-564, N-10472*
 
 ---
 
-**N-10511** Color of the Day Redaction Anomaly
+**N-10471** Color of the Day Redaction Anomaly
 
 Persistent claim that the day-of-assassination DOJ file is uniquely redacted on the "color of the day" field among ~40 similar operational files; introduced via a viral TikTok audio.
 
@@ -851,20 +851,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10512** Wedding Photo Movement Discrepancy
-
-Persistent inconsistency between (a) Erika's Glenn Beck statement that she had not been in the studio in "forever"; (b) Turning Point's Newsweek statement that Erika moved the photo for her daughter; (c) Mikey McCoy's prior in-studio appearances (Sept 22, 2025 with photo visible; Nov 8, 2025 without).
-
-Evidence Count: 3
-Claim Count: 3
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: A-1787.1, A-1788.1, A-1789.1, C-6662, C-6668, C-6670, N-190, N-14*
-
----
-
-**N-10513** Jillian Photographer Identification
+**N-10472** Jillian Photographer Identification
 
 Open question: identify the male photographer whose first name begins with "R" and who took photos of then-15-year-old Jillian Falcon, arranged by Erika Kirk without parental consent.
 
@@ -877,7 +864,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10514** Erika Kirk September 8–10, 2025 Whereabouts Verification
+**N-10473** Erika Kirk September 8–10, 2025 Whereabouts Verification
 
 Open question: verify Erika Kirk's whereabouts on September 8 (Twitter-silence-breaking tweet day), September 9, and September 10, 2025 (day of Charlie Kirk's assassination); neighbors reportedly do not recall seeing her on the 10th.
 
@@ -886,11 +873,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1785.1, A-1785.2, A-1785.3, N-10515*
+*Related: A-1785.1, A-1785.2, A-1785.3, N-10474*
 
 ---
 
-**N-10515** Erika Kirk Twitter Silence Break Pattern
+**N-10474** Erika Kirk Twitter Silence Break Pattern
 
 Observation that Erika authored no tweets between 2023 and 2025-09-08, then authored three scripture tweets across Sept 8–10, 2025, with the third posted ~1.5 hours before the assassination of Charlie Kirk.
 
@@ -899,11 +886,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1785.1, A-1785.2, A-1785.3, C-6640, C-6641, C-6642, N-10514*
+*Related: A-1785.1, A-1785.2, A-1785.3, C-6640, C-6641, C-6642, N-10473*
 
 ---
 
-**N-10516** Erika Kirk Ohio Childhood Verification
+**N-10475** Erika Kirk Ohio Childhood Verification
 
 Open question: identify classmates or family members who can corroborate Erika Frantzve's pre–high-school Ohio upbringing, including elementary and middle school attendance.
 
@@ -916,7 +903,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10517** Erika Kirk Loyola Marymount Attendance Verification
+**N-10476** Erika Kirk Loyola Marymount Attendance Verification
 
 Open question: identify attendees who can corroborate Erika Frantzve's enrollment at Loyola Marymount; the host notes that classmates from the same year do not recall her, despite a program reference.
 
@@ -929,7 +916,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10518** Erika Kirk Batman Colorado Theater Connection
+**N-10477** Erika Kirk Batman Colorado Theater Connection
 
 Open question: identify the person Erika Kirk referenced in a tweet as someone she knew who was present at the 2012 Batman Colorado theater mass shooting.
 
@@ -1110,7 +1097,7 @@ Organization whose headquarters location and photo statement are discussed.
 
 ---
 
-**N-10110** Tyler Robinson Evidence Gaps
+**N-10106** Tyler Robinson Evidence Gaps
 
 Topic reused for the defense-team contact claim.
 
@@ -1118,7 +1105,7 @@ Topic reused for the defense-team contact claim.
 
 ---
 
-**N-10138** Bullet Casing Engraving Pattern
+**N-10133** Bullet Casing Engraving Pattern
 
 Topic reused for the bullet inscription leak to Crowder.
 
@@ -1126,15 +1113,7 @@ Topic reused for the bullet inscription leak to Crowder.
 
 ---
 
-**N-10275** Maroon Shirt Coordination Theory
-
-Topic reused for the host's military-operation and color of the day claims.
-
-*Related: C-6654, C-6655, C-6659, C-6661*
-
----
-
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Topic reused for the maroon men attending alone.
 
@@ -1142,7 +1121,7 @@ Topic reused for the maroon men attending alone.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Topic reused for the Moskowitz and Bondi hearing claims.
 
@@ -1150,7 +1129,7 @@ Topic reused for the Moskowitz and Bondi hearing claims.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Topic reused for the alleged Erika sighting.
 
@@ -1158,7 +1137,7 @@ Topic reused for the alleged Erika sighting.
 
 ---
 
-**N-10419** Erika China Residence Discrepancy
+**N-10392** Erika Kirk China Timeline Discrepancy
 
 Topic reused for the China charity reference.
 
@@ -1166,15 +1145,7 @@ Topic reused for the China charity reference.
 
 ---
 
-**N-10428** Erika Kirk China Timeline Discrepancy
-
-Topic reused for the China charity reference.
-
-*Related: C-6605*
-
----
-
-**N-10440** Desert Spirit Tech LLC Business Purpose Question
+**N-10409** Desert Spirit Tech LLC Business Purpose Question
 
 Topic reused for the reservation, address and trafficking-email claims.
 
@@ -1182,7 +1153,7 @@ Topic reused for the reservation, address and trafficking-email claims.
 
 ---
 
-**N-10477** Erika Kirk Sept 8, 2025 Alibi Verification
+**N-10353** Erika Kirk Sept 8, 2025 Alibi Verification
 
 Topic reused for the Sept 8 alibi question.
 
@@ -1190,7 +1161,7 @@ Topic reused for the Sept 8 alibi question.
 
 ---
 
-**N-10487** Dream City Church Connection Investigation
+**N-10452** Dream City Church Connection Investigation
 
 Topic reused for Tracy Martin and the Phoenix Dream Center claims.
 
@@ -1198,7 +1169,7 @@ Topic reused for Tracy Martin and the Phoenix Dream Center claims.
 
 ---
 
-**N-10506** Wedding Photo Disappearance Discrepancy
+**N-10467** Wedding Photo Disappearance Discrepancy
 
 Topic reused for the photo being present then gone.
 
@@ -1206,7 +1177,7 @@ Topic reused for the photo being present then gone.
 
 ---
 
-**N-10509** September 9, 2025 Night Activity Reconstruction Question
+**N-10469** September 9, 2025 Night Activity Reconstruction Question
 
 Topic reused for the toddler alibi recap and the alleged fight.
 
@@ -1214,7 +1185,7 @@ Topic reused for the toddler alibi recap and the alleged fight.
 
 ---
 
-**N-10561** Stacy Sheridan September 10 Location Verification
+**N-10513** Stacy Sheridan September 10 Location Verification
 
 Topic reused for the Sept 10 travel account.
 
@@ -1222,7 +1193,7 @@ Topic reused for the Sept 10 travel account.
 
 ---
 
-**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Topic reused for the proximity-to-trafficking claim.
 
@@ -1230,7 +1201,7 @@ Topic reused for the proximity-to-trafficking claim.
 
 ---
 
-**N-10953** Paleo Valley
+**N-10874** Paleo Valley
 
 Sponsor named in the Alex Clark pressure allegation.
 
@@ -1238,7 +1209,7 @@ Sponsor named in the Alex Clark pressure allegation.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 Topic reused for the Zoom call merchandise remarks.
 
@@ -1246,7 +1217,7 @@ Topic reused for the Zoom call merchandise remarks.
 
 ---
 
-**N-11098** Alex Clark WSJ Memorial Photo Controversy
+**N-11016** Alex Clark WSJ Memorial Photo Controversy
 
 Topic reused for the boots-and-memorial remarks.
 
@@ -1258,7 +1229,7 @@ Topic reused for the boots-and-memorial remarks.
 
 First named by the host at 00:19:48 in episode 74. Former independent counsel described by the host as Jeffrey Epstein's friend, under whom Stacy Sheridan claims to have worked at Pepperdine University. Aliases in the transcript: Kenneth Starr.
 
-*Related: C-6633, C-6634, A-3061.1, N-186, N-11252*
+*Related: C-6633, C-6634, A-3061.1, N-186, N-11168*
 
 ---
 
@@ -1270,7 +1241,7 @@ First named by the host at 00:46:09 in episode 74. Former Attorney General, refe
 
 ---
 
-**N-11250** Arizona Mills
+**N-11166** Arizona Mills
 
 Node Type: Place
 Place the host says is across the street from Turning Point USA headquarters and which she calls the number one human and child sex trafficking location in Arizona.
@@ -1279,7 +1250,7 @@ Place the host says is across the street from Turning Point USA headquarters and
 
 ---
 
-**N-11251** Phoenix Dream Center
+**N-11167** Phoenix Dream Center
 
 Node Type: Organization
 Rehabilitation and shelter center that the host says is run by Dream City Church and, per its website, serves victims of human trafficking.
@@ -1288,7 +1259,7 @@ Rehabilitation and shelter center that the host says is run by Dream City Church
 
 ---
 
-**N-11252** Stacy Sheridan Kenneth Starr Pepperdine Connection
+**N-11168** Stacy Sheridan Kenneth Starr Pepperdine Connection
 
 Node Type: Topic
 The host's claim, from Stacy Sheridan's resume, that she worked eight years in Kenneth Starr's office at Pepperdine while Starr was working with Jeffrey Epstein, and that the host cannot find other trace of her employment.
@@ -1297,7 +1268,7 @@ The host's claim, from Stacy Sheridan's resume, that she worked eight years in K
 
 ---
 
-**N-11253** Steven Crowder Bullet Inscription and Nashville Notebook Question
+**N-11169** Steven Crowder Bullet Inscription and Nashville Notebook Question
 
 Node Type: Topic
 The host's questions about why Steven Crowder received the bullet inscription details after September 10 and the Nashville notebook, and whether he knowingly passed on fed material.
@@ -1306,12 +1277,12 @@ The host's questions about why Steven Crowder received the bullet inscription de
 
 ---
 
-**N-11254** Alex Clark Paleo Valley Sponsor Pressure Allegation
+**N-11170** Alex Clark Paleo Valley Sponsor Pressure Allegation
 
 Node Type: Topic
 The host's allegation, sourced to people fired from TPUSA, that Alex Clark demanded someone call the host's sponsor Paleo Valley and force it to choose between them.
 
-*Related: C-6694, C-6696, N-99, N-10953*
+*Related: C-6694, C-6696, N-99, N-10874*
 
 ---
 
@@ -1363,7 +1334,7 @@ Claim Timestamp: 00:15:15
 Claim: The host says, relaying what Jillian Falcon told her, that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
 Anchored Artifacts: A-1781.4, A-1782.4
 Mentions: N-564, N-567, N-2
-Related Nodes: N-10513
+Related Nodes: N-10472
 Investigative Direction: Identify the photographer (name begins with "R") and obtain session records, including the date and consent documentation.
 
 ---
@@ -1414,7 +1385,7 @@ Claim Timestamp: 00:21:40
 Claim: Episode presents that Erika Kirk had not authored an X/Twitter post since 2023 and broke that silence on 2025-09-08 at 10:49 a.m. Arizona time with a tweet quoting Ephesians 2:8.
 Anchored Artifacts: A-1785.1
 Mentions: N-2
-Related Nodes: N-10515
+Related Nodes: N-10474
 Investigative Direction: Pull Erika's full X/Twitter posting log directly to verify the gap and the timing of the September 8 tweet.
 
 ---
@@ -1425,7 +1396,7 @@ Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted on 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
 Anchored Artifacts: A-1785.2
 Mentions: N-2
-Related Nodes: N-10515
+Related Nodes: N-10474
 Investigative Direction: Pull the original Erika Kirk X/Twitter post and confirm timestamp in Arizona time.
 
 ---
@@ -1436,7 +1407,7 @@ Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted at 9:45 a.m. Arizona time on 2025-09-10, "God is our refuge and strength, a very present help in trouble," approximately 1.5 hours before Charlie Kirk's assassination that day.
 Anchored Artifacts: A-1785.3
 Mentions: N-1, N-2
-Related Nodes: N-10515, N-10514
+Related Nodes: N-10474, N-10473
 Investigative Direction: Pull the original Erika Kirk X/Twitter post and compare to publicly known time of the assassination.
 
 ---
@@ -1447,7 +1418,7 @@ Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk's three scripture X/Twitter posts fell on September 8, 9, and 10, 2025, with the third occurring on the day of the assassination and within ~1.5 hours of the event.
 Anchored Artifacts: A-1785.1, A-1785.2, A-1785.3
 Mentions: N-1, N-2
-Related Nodes: N-10515
+Related Nodes: N-10474
 Investigative Direction: Independent verification of Erika's X/Twitter posting timestamps against publicly documented timeline of September 8–10 events.
 
 ---
@@ -1458,7 +1429,7 @@ Claim Timestamp: 00:29:58
 Claim: Episode presents that, per a TikTok source, the speaker located ~40 DOJ file results containing the phrase "color of the day," and the file corresponding to the day of Charlie Kirk's assassination was the only one in which the color itself was redacted.
 Anchored Artifacts: A-1786.1
 Mentions: N-1
-Related Nodes: N-10511
+Related Nodes: N-10471
 Investigative Direction: Pull the cited DOJ files directly, confirm the count and the redacted entry, and identify which operation the redacted file refers to.
 
 ---
@@ -1469,7 +1440,7 @@ Claim Timestamp: 00:33:02
 Claim: Episode presents that a Turning Point USA spokesperson told Newsweek that Erika moved the wedding photo to a lower shelf "when her daughter asked to see it" so the child could "hold and look at the photo."
 Anchored Artifacts: A-1787.1
 Mentions: N-2
-Related Nodes: N-10512
+Related Nodes: N-10467
 Investigative Direction: Pull the Newsweek article directly and confirm the exact quote and attribution.
 
 ---
@@ -1480,7 +1451,7 @@ Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
 Anchored Artifacts: A-1788.1, A-1789.1
 Mentions: N-190, N-1
-Related Nodes: N-10512
+Related Nodes: N-10467
 Investigative Direction: Pull the original Real America's Voice and Fox News/Martha MacCallum interview segments and verify the studio background details.
 
 ---
@@ -1491,7 +1462,7 @@ Claim Timestamp: 00:38:26
 Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per finds the host credits to a "mommy sleuth" (Nov 8) and "another sleuth" (Sept 22).
 Anchored Artifacts: A-1788.1, A-1789.1
 Mentions: N-190
-Related Nodes: N-10512
+Related Nodes: N-10467
 Investigative Direction: Pull the two interview segments and visually verify the background in each.
 
 ---
@@ -1530,7 +1501,7 @@ Transcript Snippet: Baron Coleman had a bit of a viral episode regarding a seemi
 
 Anchored Artifacts: 
 Mentions: N-3, N-330, N-2, N-564
-Related Nodes: N-10513
+Related Nodes: N-10472
 Tags: relevance:core
 Investigative Direction: Pull Baron Coleman's episode and its view counts and compare his account with Nicey's video and Jillian's own posts.
 
@@ -1638,7 +1609,7 @@ Transcript Snippet: At this point in her biography, Erika is also working with s
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10419, N-10428
+Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: Identify the named charities and dates in Erika's official biography and verify her role in each.
 
@@ -1836,7 +1807,7 @@ Transcript Snippet: She's helping her cuz she's just so beautiful get into maybe
 
 Anchored Artifacts: A-1781.4, A-1782.4
 Mentions: N-3, N-2, N-564, N-567
-Related Nodes: N-10513
+Related Nodes: N-10472
 Supports: C-6624
 Tags: relevance:core
 Investigative Direction: Ask Jillian for the messages in which Erika proposed the shoot and any photos or contacts from it.
@@ -1853,7 +1824,7 @@ Transcript Snippet: She says she remembers it began with an R and he was kind of
 
 Anchored Artifacts: 
 Mentions: N-3, N-564, N-2, N-567
-Related Nodes: N-10513
+Related Nodes: N-10472
 Tags: relevance:core
 Investigative Direction: Identify the photographer from Erika's Michigan or Arizona acquaintances and obtain the session date and any images.
 
@@ -1884,7 +1855,7 @@ Transcript Snippet: everything in Erika Kirk's story, which we will more thoroug
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10832
+Related Nodes: N-10755
 Tags: relevance:core
 Investigative Direction: Wait for the series and list each named charity and scandal with a primary source for the link.
 
@@ -1900,7 +1871,7 @@ Transcript Snippet: They're almost directly across the street from the number on
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11250, N-10000
+Related Nodes: N-11166, N-10000
 Supports: C-4603
 Tags: relevance:core
 Investigative Direction: Map the TPUSA Phoenix address against Arizona Mills and find law-enforcement data supporting the trafficking characterization.
@@ -1917,7 +1888,7 @@ Transcript Snippet: And actually I do know who who handpicked it. I was around f
 
 Anchored Artifacts: 
 Mentions: N-3, N-11
-Related Nodes: N-11250, N-10000
+Related Nodes: N-11166, N-10000
 Tags: relevance:core
 Investigative Direction: Find the lease or purchase records and broker for the TPUSA headquarters and who signed.
 
@@ -1933,7 +1904,7 @@ Transcript Snippet: Tracy Martin, Erika's best friend, she's also has been invol
 
 Anchored Artifacts: 
 Mentions: N-3, N-544, N-2
-Related Nodes: N-10487
+Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Locate Tracy Martin's role in Dream City Church or Phoenix Dream Center in program records or filings.
 
@@ -1949,7 +1920,7 @@ Transcript Snippet: Phoenix Dream Center, according to their website, is a cente
 
 Anchored Artifacts: A-3062.1
 Mentions: N-3
-Related Nodes: N-11251, N-10487
+Related Nodes: N-11167, N-10452
 Tags: relevance:context
 Investigative Direction: Capture the Phoenix Dream Center website text and confirm its governance link to Dream City Church.
 
@@ -1965,7 +1936,7 @@ Transcript Snippet: I can't find a trace of her actually at Pepperdine Universit
 
 Anchored Artifacts: A-3061.1
 Mentions: N-3, N-186, N-854, N-9
-Related Nodes: N-11252
+Related Nodes: N-11168
 Tags: relevance:core
 Investigative Direction: Obtain the resume, request Pepperdine employment confirmation, and check Starr's office staff lists for the period.
 
@@ -1981,7 +1952,7 @@ Transcript Snippet: for almost a decade, she worked for Kenneth Starr at the exa
 
 Anchored Artifacts: A-3061.1
 Mentions: N-3, N-186, N-854, N-9
-Related Nodes: N-11252
+Related Nodes: N-11168
 Tags: relevance:core
 Investigative Direction: Document Starr's work for Epstein with dates and overlay it on Sheridan's claimed employment years.
 
@@ -2012,7 +1983,7 @@ Transcript Snippet: We had mentioned to you this Desert Spirit Tech company that
 
 Anchored Artifacts: 
 Mentions: N-3, N-489
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:core
 Investigative Direction: Pull Desert Spirit Tech's corporate filing and identify the reservation and registered address.
 
@@ -2028,7 +1999,7 @@ Transcript Snippet: boy were we hit with a lot of emails about you guessed it hi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:context
 Investigative Direction: Check tribal, federal or state data on trafficking incidence on the reservation in question.
 
@@ -2044,7 +2015,7 @@ Transcript Snippet: Because somebody went and said this this address does not ex
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10440
+Related Nodes: N-10409
 Tags: relevance:core
 Investigative Direction: Verify the filed address against county or tribal parcel records and physically check the location.
 
@@ -2060,7 +2031,7 @@ Transcript Snippet: Why did nobody see her um when somebody else believes they d
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10367, N-10477
+Related Nodes: N-10342, N-10353
 Tags: relevance:core
 Investigative Direction: Identify the witness who reported a Fort Huachuca sighting and compare Erika's stated Sept 8 location with any records.
 
@@ -2122,7 +2093,7 @@ Transcript Snippet: We're trying to figure out who this um photographer was that
 
 Anchored Artifacts: 
 Mentions: N-3, N-564, N-567
-Related Nodes: N-10513
+Related Nodes: N-10472
 Tags: relevance:context
 Investigative Direction: Watch for the host's follow-up identifying the photographer and test it against Jillian's account.
 
@@ -2138,7 +2109,7 @@ Transcript Snippet: Erika tweeted and said that she knew somebody that was in th
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10518
+Related Nodes: N-10477
 Tags: relevance:context
 Investigative Direction: Find Erika's original tweet and identify the person; check Aurora victim and witness lists.
 
@@ -2154,7 +2125,7 @@ Transcript Snippet: The back story is that she's from Ohio until she gets into h
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10516
+Related Nodes: N-10475
 Tags: relevance:context
 Investigative Direction: Check Ohio school records and classmates for Erika Frantzve and Erika's own account of when she moved.
 
@@ -2170,7 +2141,7 @@ Transcript Snippet: Moretips@candaceowens. com. Did you attend elementary school
 
 Anchored Artifacts: A-3059.1
 Mentions: N-3, N-2
-Related Nodes: N-10516
+Related Nodes: N-10475
 Supports: C-6649
 Tags: relevance:context
 Investigative Direction: Log responses from Ohio schoolmates and check yearbooks for Erika Frantzve.
@@ -2187,7 +2158,7 @@ Transcript Snippet: This is also the same school that Stacy Sheridan went to and
 
 Anchored Artifacts: 
 Mentions: N-3, N-186, N-2
-Related Nodes: N-10517
+Related Nodes: N-10476
 Tags: relevance:context
 Investigative Direction: Obtain the Loyola Marymount program, enrollment verification and alumni accounts for Erika Frantzve.
 
@@ -2203,7 +2174,7 @@ Transcript Snippet: Turning Point employees were told that she got she got the n
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10561
+Related Nodes: N-10513
 Tags: relevance:core
 Investigative Direction: Identify the employees who were told this and the source; compare with phone, vehicle and airport records for Sept 10.
 
@@ -2219,7 +2190,7 @@ Transcript Snippet: Thus far nobody where they live remembers seeing Erika, but 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-186, N-1
-Related Nodes: N-10561, N-10514
+Related Nodes: N-10513, N-10473
 Tags: relevance:core
 Investigative Direction: Canvass neighbors and the Scottsdale terminal for sightings and request airport and flight records.
 
@@ -2235,7 +2206,7 @@ Transcript Snippet: which I believe September 10th was obviously a military oper
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10275
+Related Nodes: N-10293
 Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Compare participant lists and unit affiliations of the maroon-shirt men with any military or federal rosters.
@@ -2252,7 +2223,7 @@ Transcript Snippet: I was like, "I feel like there's a color of the day here and
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10275
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Identify the maroon-shirted men and establish whether any shared an organization or instruction.
 
@@ -2268,7 +2239,7 @@ Transcript Snippet: a good amount of people from the military that were saying t
 
 Anchored Artifacts: A-1786.1
 Mentions: N-3
-Related Nodes: N-10511
+Related Nodes: N-10471
 Tags: relevance:context
 Investigative Direction: Ask military veterans or doctrine sources whether color-of-the-day recognition signals are used in domestic public operations.
 
@@ -2284,7 +2255,7 @@ Transcript Snippet: However, on the day of Charlie Kirk's assassination, the mor
 
 Anchored Artifacts: A-1786.1
 Mentions: N-1
-Related Nodes: N-10511
+Related Nodes: N-10471
 Supports: C-6656
 Tags: relevance:core
 Investigative Direction: Pull the cited DOJ file, read the sit rep header, and identify the operation and issuing office.
@@ -2301,7 +2272,7 @@ Transcript Snippet: I felt like they were organizing by battalion. Some people w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10275
+Related Nodes: N-10293
 Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Catalog attire across event footage to test the white-hat and sock-height patterns.
@@ -2318,7 +2289,7 @@ Transcript Snippet: It could be pertaining to any number of military operations 
 
 Anchored Artifacts: A-1786.1
 Mentions: N-3
-Related Nodes: N-10511
+Related Nodes: N-10471
 Qualifies: C-6656
 Tags: relevance:core
 Investigative Direction: Request the redacted file under FOIA with a segregability review to identify the operation.
@@ -2335,7 +2306,7 @@ Transcript Snippet: What I do know is maroon. The maroon boys were somehow invol
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10275, N-10311
+Related Nodes: N-10293
 Tags: relevance:core
 Investigative Direction: Check footage to see whether the maroon-shirt men attended alone and any shared transport or contact.
 
@@ -2351,7 +2322,7 @@ Transcript Snippet: the wedding photo, which was curiously there when Charlie uh
 
 Anchored Artifacts: A-3056.1
 Mentions: N-3, N-1, N-2, N-237
-Related Nodes: N-10506, N-10512
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Compare dated screenshots of Charlie's last show with the December Beck broadcast background.
 
@@ -2367,7 +2338,7 @@ Transcript Snippet: The exact sentence I think she says is um I haven't been her
 
 Anchored Artifacts: A-3056.1
 Mentions: N-3, N-2, N-237, N-1
-Related Nodes: N-10512
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Pull the Beck interview video and transcribe Erika's exact wording and the camera shot of the desk.
 
@@ -2383,7 +2354,7 @@ Transcript Snippet: I think the editor at large is Josh Hammer.
 
 Anchored Artifacts: A-1787.1
 Mentions: N-3, N-55
-Related Nodes: N-10512
+Related Nodes: N-10467
 Tags: relevance:context
 Investigative Direction: Confirm Hammer's Newsweek title and whether he edited or commissioned the photo story.
 
@@ -2399,7 +2370,7 @@ Transcript Snippet: Remember, GG kicked Charlie out of the bed the night before 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10512, N-10509
+Related Nodes: N-10467, N-10469
 Tags: relevance:core
 Investigative Direction: Find the original statements from TPUSA or Erika about the toddler and the night of September 9 and the Fort Huachuca denial.
 
@@ -2415,7 +2386,7 @@ Transcript Snippet: we can now debunk my earlier suspicion that Charlie himself 
 
 Anchored Artifacts: A-1788.1, A-1789.1
 Mentions: N-3, N-1, N-190
-Related Nodes: N-10506, N-10512
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Establish by dated images exactly when the photo left the frame and who had studio access.
 
@@ -2431,7 +2402,7 @@ Transcript Snippet: Mikey was Mikey was like slated to take over for Charlie and
 
 Anchored Artifacts: A-1789.1
 Mentions: N-3, N-190, N-1
-Related Nodes: N-10512
+Related Nodes: N-10467
 Supports: C-2262
 Tags: relevance:core
 Investigative Direction: Collect TPUSA announcements on McCoy's role and media schedule for September 2025.
@@ -2448,7 +2419,7 @@ Transcript Snippet: it also happens to be the same date that Erika was on that Z
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:core
 Investigative Direction: Obtain a recording, transcript or attendee account of the September 22 call.
 
@@ -2464,7 +2435,7 @@ Transcript Snippet: Mikey the marvelous got a little ahead of himself and it was
 
 Anchored Artifacts: A-1789.1
 Mentions: N-3, N-190
-Related Nodes: N-10512
+Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Ask McCoy or studio staff who moved the photo and when; compare dated studio shots.
 
@@ -2480,7 +2451,7 @@ Transcript Snippet: I still feel very strongly they had a fight on the 9th.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10509
+Related Nodes: N-10469
 Tags: relevance:core
 Investigative Direction: Identify any witness, message or record from the evening of September 9 that supports or refutes an argument.
 
@@ -2496,7 +2467,7 @@ Transcript Snippet: You said the list was on your desk, and a memo came out and 
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-85
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Obtain the hearing video, the July 2025 DOJ memo and Bondi's earlier statements.
 
@@ -2512,7 +2483,7 @@ Transcript Snippet: The president of the United States says the Epstein thing is
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-5
-Related Nodes: N-10324
+Related Nodes: N-10303
 Supports: C-2785
 Tags: relevance:context
 Investigative Direction: Collect the president's dated statements on the Epstein matter.
@@ -2529,7 +2500,7 @@ Transcript Snippet: They sent the Deputy Attorney General to meet with Maxwell. 
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-47
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Check Bureau of Prisons transfer records and the Maxwell interview transcript date.
 
@@ -2545,7 +2516,7 @@ Transcript Snippet: Trying to stop the necessary 218 signatures, according to Re
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-579
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Identify the members who described the Situation Room meeting and their on-record accounts.
 
@@ -2561,7 +2532,7 @@ Transcript Snippet: The reason the president signed it is because it was a veto-
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-5
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Check the vote tallies for the Epstein Files Transparency Act in each chamber.
 
@@ -2577,7 +2548,7 @@ Transcript Snippet: Kash Patel under oath said sent to Senator Kennedy, "The FBI
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-69
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Pull Patel's letter and sworn statement to Sen. Kennedy.
 
@@ -2593,7 +2564,7 @@ Transcript Snippet: He even had a relationship with a summer camp where he groom
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Cite the specific released documents for each element.
 
@@ -2609,7 +2580,7 @@ Transcript Snippet: Ghislaine Maxwell says 29 Epstein associates cut secret DOJ 
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-47
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Identify the source for Maxwell's claim and any DOJ confirmation.
 
@@ -2625,7 +2596,7 @@ Transcript Snippet: Turns out there is a list. Six names readily available if yo
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-47
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Check the redaction logs and Maxwell's Oversight appearance for the clemency statement.
 
@@ -2641,7 +2612,7 @@ Transcript Snippet: Kash Patel under oath said Trump's name appears less than 10
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-69, N-5
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Count occurrences of the president's name in the released files and compare with Patel's testimony.
 
@@ -2657,7 +2628,7 @@ Transcript Snippet: Lutnick says that in 2008 he went to Epstein's home. Says he
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-165
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Find Lutnick's own account of the 2008 visit and compare.
 
@@ -2673,7 +2644,7 @@ Transcript Snippet: Howard then says, "I'm sure the Epstein stuff is all on vide
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-165
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Identify the source document or interview for the quote and the speaker.
 
@@ -2689,7 +2660,7 @@ Transcript Snippet: in 2012 we find out that he and his family are on Epstein Is
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-165, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Find the document placing the Lutnick family on the island in 2012.
 
@@ -2705,7 +2676,7 @@ Transcript Snippet: There are documents in the files that dispute the president'
 
 Anchored Artifacts: A-1790.1
 Mentions: N-566, N-5, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Retrieve the club manager statements and compare with the president's account.
 
@@ -2721,7 +2692,7 @@ Transcript Snippet: So, first of all, nothing is funny about mocking the Bible a
 
 Anchored Artifacts: A-3063.1
 Mentions: N-85, N-566
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Obtain the hearing video and transcript for Bondi's exact response.
 
@@ -2737,7 +2708,7 @@ Transcript Snippet: Actually, he did not mock the Bible in any way.
 
 Anchored Artifacts: A-3063.1
 Mentions: N-3, N-566, N-85
-Related Nodes: N-10324
+Related Nodes: N-10303
 Contradicts: C-6689
 Tags: relevance:context
 Investigative Direction: Review Moskowitz's prop and wording in the hearing video.
@@ -2754,7 +2725,7 @@ Transcript Snippet: And none of them None of them asked Merrick Garland over the
 
 Anchored Artifacts: A-1791.1
 Mentions: N-85, N-855, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Check Garland-era oversight hearings for questions on Epstein.
 
@@ -2785,7 +2756,7 @@ Transcript Snippet: apparently Alex Clark demanded demanded that Dylan call my s
 
 Anchored Artifacts: 
 Mentions: N-3, N-99
-Related Nodes: N-10953, N-11254
+Related Nodes: N-10874, N-11170
 Tags: relevance:context
 Investigative Direction: Ask Paleo Valley whether it received such a call and identify the TPUSA sources and Dylan.
 
@@ -2801,7 +2772,7 @@ Transcript Snippet: because I had gone after her for dressing up in boots and st
 
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-1
-Related Nodes: N-11098
+Related Nodes: N-11016
 Supports: C-1376
 Tags: relevance:context
 Investigative Direction: Find the published photograph and identify the outlet; the host elsewhere names the WSJ.
@@ -2818,7 +2789,7 @@ Transcript Snippet: Can't believe they didn't tell me that. Respect to Paleo Val
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10953, N-11254
+Related Nodes: N-10874, N-11170
 Tags: relevance:context
 Investigative Direction: Ask Paleo Valley to confirm or deny any contact from TPUSA or Alex Clark.
 
@@ -2895,7 +2866,7 @@ Transcript Snippet: You also recall that he was the person who after the Nashvil
 
 Anchored Artifacts: A-3064.1
 Mentions: N-3, N-259
-Related Nodes: N-11253
+Related Nodes: N-11169
 Tags: relevance:context
 Investigative Direction: Check Crowder's Nashville reporting and the source of the notebook pages he published.
 
@@ -2911,7 +2882,7 @@ Transcript Snippet: I think he knew he was shov- shoveling out fed slop.
 
 Anchored Artifacts: A-3064.1
 Mentions: N-3, N-259
-Related Nodes: N-11253, N-10138
+Related Nodes: N-11169, N-10133
 Tags: relevance:core
 Investigative Direction: Find Crowder's first publication of the bullet inscription details and his source.
 
@@ -2927,7 +2898,7 @@ Transcript Snippet: Not even on Tyler Robinson's defense team, you would think I
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10110
+Related Nodes: N-10106
 Tags: relevance:core
 Investigative Direction: Ask the defense team whether it has received or declined contact from the host.
 

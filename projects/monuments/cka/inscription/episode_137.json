@@ -55,7 +55,7 @@
             "C-11764"
           ],
           "related_nodes": [
-            "N-10779"
+            "N-10699"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
             "C-11783"
           ],
           "related_nodes": [
-            "N-10777"
+            "N-10703"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-11786"
           ],
           "related_nodes": [
-            "N-10778"
+            "N-10704"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -461,8 +461,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10776",
-      "ref": "N-10776",
+      "@id": "N-10702",
+      "ref": "N-10702",
       "name": "UVU Campus Sept 9 Scoping Incident",
       "type": "investigation_target",
       "description": "Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's \"source from UVU\"), not artifact-documented.",
@@ -477,8 +477,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10777",
-      "ref": "N-10777",
+      "@id": "N-10703",
+      "ref": "N-10703",
       "name": "Screwdriver Narrative Evolution",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Sept 11 CNN framing (\"near the rifle\") and Kash Patel / Bongino clarification (\"on the rooftop\"). Both positions are artifact-anchored within this episode and prior context.",
@@ -496,8 +496,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10778",
-      "ref": "N-10778",
+      "@id": "N-10704",
+      "ref": "N-10704",
       "name": "Officer Bagley Rooftop Video Review Question",
       "type": "investigation_target",
       "description": "Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.",
@@ -515,9 +515,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10779",
-      "ref": "N-10779",
-      "name": "Black Nitrile Gloves / Door Compartment Evidence",
+      "@id": "N-10699",
+      "ref": "N-10699",
+      "name": "Missing Gloves Origin in SUV Door",
       "type": "investigation_target",
       "description": "Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.",
       "related_artifacts": [
@@ -1058,8 +1058,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Daily Mail; sender of the press request about a raid.",
@@ -1075,8 +1075,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10090",
-      "ref": "N-10090",
+      "@id": "N-10086",
+      "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
       "type": "investigation_target",
       "description": "Screwdriver Evidence Question; reused for the leak-origin and planting claims.",
@@ -1092,8 +1092,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence.",
@@ -1109,8 +1109,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
       "type": "investigation_target",
       "description": "Mike Mitchell Undercover Role Verification; reused for the surrender story.",
@@ -1126,9 +1126,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comment.",
       "related_artifacts": [],
@@ -1143,8 +1143,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10344",
-      "ref": "N-10344",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
       "type": "investigation_target",
       "description": "Candace Owens Security Arrangement; reused for the aide's rehabilitation.",
@@ -1161,8 +1161,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
       "type": "investigation_target",
       "description": "Strait of Hormuz / US-Iran War Context; reused for the Iran war claims.",
@@ -1179,8 +1179,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10634",
-      "ref": "N-10634",
+      "@id": "N-10580",
+      "ref": "N-10580",
       "name": "Tyler Robinson Roommate Question",
       "type": "investigation_target",
       "description": "Tyler Robinson Roommate Question; reused for the boyfriend testimony.",
@@ -1196,8 +1196,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory claims.",
@@ -1215,8 +1215,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10725",
-      "ref": "N-10725",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
       "type": "investigation_target",
       "description": "Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims.",
@@ -1233,8 +1233,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10731",
-      "ref": "N-10731",
+      "@id": "N-10665",
+      "ref": "N-10665",
       "name": "Screwdriver Footage Graininess Discrepancy",
       "type": "investigation_target",
       "description": "Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino clarification.",
@@ -1250,8 +1250,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10732",
-      "ref": "N-10732",
+      "@id": "N-10666",
+      "ref": "N-10666",
       "name": "Salt Lake City Hotel Identification Gap",
       "type": "investigation_target",
       "description": "Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims.",
@@ -1269,8 +1269,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10751",
-      "ref": "N-10751",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral remark.",
@@ -1286,8 +1286,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10754",
-      "ref": "N-10754",
+      "@id": "N-10684",
+      "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
       "type": "investigation_target",
       "description": "Rooftop Movement Tactical Analysis; reused for the crawl debunk claim.",
@@ -1303,8 +1303,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10772",
-      "ref": "N-10772",
+      "@id": "N-10661",
+      "ref": "N-10661",
       "name": "Officer Bagley Rooftop Companion Identification",
       "type": "investigation_target",
       "description": "Officer Bagley Rooftop Companion Identification; reused for the companion and Robertson claims.",
@@ -1324,25 +1324,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10773",
-      "ref": "N-10773",
-      "name": "Body Cam Battery Failure Circumstances",
-      "type": "investigation_target",
-      "description": "Body Cam Battery Failure Circumstances; reused for the missing warning claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-11785"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10774",
-      "ref": "N-10774",
+      "@id": "N-10700",
+      "ref": "N-10700",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
       "type": "investigation_target",
       "description": "Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Robertson update.",
@@ -1359,8 +1342,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11057",
-      "ref": "N-11057",
+      "@id": "N-10975",
+      "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
       "type": "investigation_target",
       "description": "Blake Neff Employment History Account; reused for the Fox and Tucker remarks.",
@@ -1399,8 +1382,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11144",
-      "ref": "N-11144",
+      "@id": "N-11061",
+      "ref": "N-11061",
       "name": "USU Officers Threat Assessment at UVU Explanation",
       "type": "topic",
       "description": "The host's account that Utah State University officers including Allan Robertson were at UVU on Sept 10 to assess a planned USU Kirk event 10 days later, not in coordination with Charlie's security or UVU police.",
@@ -1416,8 +1399,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-11145",
-      "ref": "N-11145",
+      "@id": "N-11062",
+      "ref": "N-11062",
       "name": "Minab Iran School Strike",
       "type": "place",
       "description": "The strike on an elementary school in Minab, Iran, early in the US-Iran war, discussed through the Sky News investigation and the Trump and Hegseth statements.",
@@ -1468,7 +1451,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-10779"
+        "N-10699"
       ],
       "tags": [],
       "claim_timestamp": "00:07:24",
@@ -1487,7 +1470,7 @@
         "A-2238.1"
       ],
       "related_nodes": [
-        "N-10777"
+        "N-10703"
       ],
       "tags": [],
       "claim_timestamp": "00:17:01",
@@ -1506,7 +1489,7 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-10778"
+        "N-10704"
       ],
       "tags": [],
       "claim_timestamp": "00:19:22",
@@ -1610,7 +1593,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-10779"
+        "N-10699"
       ],
       "tags": [],
       "claim_timestamp": "00:08:14",
@@ -1717,7 +1700,7 @@
       "claim": "The host says that in the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -1805,7 +1788,7 @@
       "claim": "The host says the bar was low: all that was needed was video of Tyler Robinson taking the shot, a connection of the gun to the crime scene, or video of him dropping the screwdriver and assembling the gun on the rooftop, and none of this has been shown.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -1826,7 +1809,7 @@
       "claim": "The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about Mike Mitchell, whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [
         "relevance:core"
@@ -1867,7 +1850,7 @@
       "claim": "The host says testimony from Tyler Robinson's boyfriend was that Robinson was not into politics and that they never discussed Charlie Kirk in their relationship, which she contrasts with the claim of a politically motivated murder.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10634"
+        "N-10580"
       ],
       "tags": [
         "relevance:core"
@@ -1909,7 +1892,7 @@
       "claim": "The host says Frank Turek told the public he stuck his fingers into Charlie Kirk's neck, had blood all over him and could taste it in his mouth, and asks when he would have put on black nitrile gloves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10779"
+        "N-10699"
       ],
       "tags": [
         "relevance:core"
@@ -1931,7 +1914,7 @@
       "claim": "The host says her team broke the story that the still-unreleased 911 call captures people in the back of the vehicle saying 'Get that off of him', and she floats that this could relate to the gloves.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10779"
+        "N-10699"
       ],
       "tags": [
         "relevance:core"
@@ -1954,7 +1937,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-10779"
+        "N-10699"
       ],
       "tags": [
         "relevance:core"
@@ -1978,7 +1961,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10776"
+        "N-10702"
       ],
       "tags": [
         "relevance:core"
@@ -2002,7 +1985,7 @@
         "A-2884.1"
       ],
       "related_nodes": [
-        "N-10776"
+        "N-10702"
       ],
       "tags": [
         "relevance:core"
@@ -2042,7 +2025,7 @@
         "A-2884.1"
       ],
       "related_nodes": [
-        "N-10776",
+        "N-10702",
         "N-10012"
       ],
       "tags": [
@@ -2067,7 +2050,7 @@
         "A-2884.1"
       ],
       "related_nodes": [
-        "N-10776",
+        "N-10702",
         "N-10028"
       ],
       "tags": [
@@ -2091,7 +2074,7 @@
         "A-2884.1"
       ],
       "related_nodes": [
-        "N-10776"
+        "N-10702"
       ],
       "tags": [
         "relevance:core"
@@ -2114,7 +2097,7 @@
         "A-2884.1"
       ],
       "related_nodes": [
-        "N-10776"
+        "N-10702"
       ],
       "tags": [
         "relevance:core"
@@ -2137,7 +2120,7 @@
         "A-2884.1"
       ],
       "related_nodes": [
-        "N-10776"
+        "N-10702"
       ],
       "tags": [
         "relevance:core"
@@ -2202,7 +2185,7 @@
         "A-2244.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [
         "relevance:context"
@@ -2248,8 +2231,8 @@
         "A-2238.1"
       ],
       "related_nodes": [
-        "N-10777",
-        "N-10090"
+        "N-10703",
+        "N-10086"
       ],
       "tags": [
         "relevance:core"
@@ -2275,8 +2258,8 @@
         "A-2238.1"
       ],
       "related_nodes": [
-        "N-10777",
-        "N-10731"
+        "N-10703",
+        "N-10665"
       ],
       "tags": [
         "relevance:core"
@@ -2301,8 +2284,7 @@
       "claim": "The host says Officer Bagley's body cam died seemingly without warning at the right time, and that there should have been beeping or flashing red before it shut off.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10725",
-        "N-10773"
+        "N-10660"
       ],
       "tags": [
         "relevance:core"
@@ -2328,7 +2310,7 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-10778"
+        "N-10704"
       ],
       "tags": [
         "relevance:core"
@@ -2353,7 +2335,7 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-10778"
+        "N-10704"
       ],
       "tags": [
         "relevance:core"
@@ -2378,8 +2360,8 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-10772",
-        "N-10778"
+        "N-10661",
+        "N-10704"
       ],
       "tags": [
         "relevance:core"
@@ -2400,8 +2382,8 @@
       "claim": "The host says that if Bagley found a screwdriver and somebody was on the rooftop after the shooter left, it is plausible that this unknown person could have planted the screwdriver.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10777",
-        "N-10772"
+        "N-10703",
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2424,7 +2406,7 @@
         "A-2885.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:core"
@@ -2450,7 +2432,7 @@
         "A-2885.1"
       ],
       "related_nodes": [
-        "N-11144"
+        "N-11061"
       ],
       "tags": [
         "relevance:core"
@@ -2477,7 +2459,7 @@
         "A-2885.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2523,7 +2505,7 @@
         "A-2886.1"
       ],
       "related_nodes": [
-        "N-10772"
+        "N-10661"
       ],
       "tags": [
         "relevance:core"
@@ -2547,7 +2529,7 @@
         "A-2885.1"
       ],
       "related_nodes": [
-        "N-10774"
+        "N-10700"
       ],
       "tags": [
         "relevance:core"
@@ -2573,7 +2555,7 @@
         "A-2887.1"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:tangential"
@@ -2595,7 +2577,7 @@
         "A-2887.1"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:tangential"
@@ -2615,8 +2597,8 @@
       "claim": "The host says Blake Neff at first thought he stayed in Orem on the night of September 10, then said he maybe misspoke, then said he stayed in Salt Lake City.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715",
-        "N-10732"
+        "N-10651",
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -2640,7 +2622,7 @@
       "claim": "The host says Neff did not remember what he did in Salt Lake City, that he was with Danny Philip, where the two went or how they got around.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2667,8 +2649,8 @@
         "A-2241.1"
       ],
       "related_nodes": [
-        "N-10732",
-        "N-10715"
+        "N-10666",
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -2694,7 +2676,7 @@
         "A-2241.1"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10666"
       ],
       "tags": [
         "relevance:core"
@@ -2720,8 +2702,8 @@
       "claim": "The host says that at the start of the Iran war the United States, at Israel's instruction in her view, bombed an elementary school in Iran, killing 156 people including 120 students and 26 teachers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145",
-        "N-10541"
+        "N-11062",
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -2743,7 +2725,7 @@
         "A-2239.1"
       ],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:tangential"
@@ -2767,7 +2749,7 @@
         "A-2239.1"
       ],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:tangential"
@@ -2789,7 +2771,7 @@
         "A-2239.1"
       ],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:tangential"
@@ -2812,7 +2794,7 @@
         "A-2239.1"
       ],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:tangential"
@@ -2829,7 +2811,7 @@
       "claim": "The host says the school bombing was not a mistake because the US military's intelligence knew every person moving in the school and chose to bomb it, and that the government then lied about it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:tangential"
@@ -2849,7 +2831,7 @@
       "claim": "The host says her honest belief is that the school strike was a sacrifice to demons by people who worship Baal, that Israel is a colony that worships Baal and murder, and that this is the plan for America.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145",
+        "N-11062",
         "N-10026"
       ],
       "tags": [
@@ -2870,7 +2852,7 @@
       "claim": "The host says that if you think people who lie like this about the school strike would not be capable of hiding the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied to you.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11145"
+        "N-11062"
       ],
       "tags": [
         "relevance:context"
@@ -2891,7 +2873,7 @@
       "claim": "The host says the United States has been bombing Iran's bridges and striking its water so people cannot drink, and that this is uniting Iranians rather than producing protesters to arm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10541"
+        "N-10496"
       ],
       "tags": [
         "relevance:tangential"
@@ -2935,7 +2917,7 @@
         "A-2886.2"
       ],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:core"
@@ -2957,7 +2939,7 @@
       "claim": "The host says Neff sits in his current seat only because Tucker Carlson did what he could to help him after he was let go from Fox, and that Neff repays Tucker by targeting him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11057",
+        "N-10975",
         "N-10006"
       ],
       "tags": [
@@ -2982,8 +2964,8 @@
         "A-2245.1"
       ],
       "related_nodes": [
-        "N-10751",
-        "N-10323"
+        "N-10681",
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -3008,7 +2990,7 @@
       "claim": "The host says that instead of thanking her for releasing the rooftop footage, TPUSA-side responders tried to debunk it with remarks like 'a baby could do that crawl', and that a normal person would see the man as experienced.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10754"
+        "N-10684"
       ],
       "tags": [
         "relevance:core"
@@ -3033,7 +3015,7 @@
         "A-2886.3"
       ],
       "related_nodes": [
-        "N-10725"
+        "N-10660"
       ],
       "tags": [
         "relevance:core"

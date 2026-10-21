@@ -21,9 +21,9 @@
     "- **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10g): N-929, N-11364, N-11365",
+    "  - Tip-minted Nodes (supplement_2026-10g): N-929, N-11280, N-11281",
     "  - Hole-minted Nodes (reintro-ep001): N-82, N-10026",
-    "  - Tip-minted Nodes (reintro-ep001): N-11322",
+    "  - Tip-minted Nodes (reintro-ep001): N-11238",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-1–C-56",
     "  - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514",
@@ -1502,8 +1502,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11322",
-   "header": "**N-11322** Blexit",
+   "id": "N-11238",
+   "header": "**N-11238** Blexit",
    "label": "Blexit",
    "lines": [
     {
@@ -1560,8 +1560,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11364",
-   "header": "**N-11364** TPUSA Staff Departures Over Me Too Controversy",
+   "id": "N-11280",
+   "header": "**N-11280** TPUSA Staff Departures Over Me Too Controversy",
    "label": "TPUSA Staff Departures Over Me Too Controversy",
    "lines": [
     {
@@ -1593,8 +1593,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11365",
-   "header": "**N-11365** Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk",
+   "id": "N-11281",
+   "header": "**N-11281** Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk",
    "label": "Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk",
    "lines": [
     {
@@ -3687,7 +3687,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11364"
+     "v": "N-10000, N-11280"
     },
     {
      "k": "Tags",
@@ -3748,7 +3748,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11364"
+     "v": "N-10000, N-11280"
     },
     {
      "k": "Tags",
@@ -4057,7 +4057,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11322"
+     "v": "N-11238"
     },
     {
      "k": "Tags",
@@ -4472,7 +4472,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11365"
+     "v": "N-11281"
     },
     {
      "k": "Tags",
@@ -4533,7 +4533,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11365"
+     "v": "N-11281"
     },
     {
      "k": "Tags",

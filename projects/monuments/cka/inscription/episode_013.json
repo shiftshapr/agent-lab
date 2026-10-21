@@ -34,7 +34,7 @@
             "N-40",
             "N-128",
             "N-142",
-            "N-10152"
+            "N-10147"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
           "related_nodes": [
             "N-40",
             "N-42",
-            "N-10157"
+            "N-10151"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -134,7 +134,7 @@
           ],
           "related_nodes": [
             "N-133",
-            "N-10154"
+            "N-10149"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-134",
-            "N-10154"
+            "N-10149"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,7 +172,7 @@
           ],
           "related_nodes": [
             "N-135",
-            "N-10154"
+            "N-10149"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-1158"
           ],
           "related_nodes": [
-            "N-10154"
+            "N-10149"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,7 +346,7 @@
           ],
           "related_nodes": [
             "N-136",
-            "N-10157"
+            "N-10151"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,7 +420,7 @@
             "C-1225"
           ],
           "related_nodes": [
-            "N-10152"
+            "N-10147"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -772,7 +772,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10154"
+        "N-10149"
       ]
     },
     {
@@ -794,7 +794,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10154",
+        "N-10149",
         "N-1"
       ]
     },
@@ -817,7 +817,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10154"
+        "N-10149"
       ]
     },
     {
@@ -839,7 +839,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10152"
+        "N-10147"
       ]
     },
     {
@@ -953,13 +953,13 @@
       "related_nodes": [
         "N-128",
         "N-40",
-        "N-10152"
+        "N-10147"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10152",
-      "ref": "N-10152",
+      "@id": "N-10147",
+      "ref": "N-10147",
       "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
       "type": "investigation_target",
       "description": "Persistent target referenced across host reporting, anonymous tip, and Shaner Broderick footage; the FBI has not, per host, publicly identified or released her.",
@@ -983,8 +983,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10153",
-      "ref": "N-10153",
+      "@id": "N-10148",
+      "ref": "N-10148",
       "name": "\"Robbie Hild\" Identity Verification",
       "type": "investigation_target",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
@@ -1000,8 +1000,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10154",
-      "ref": "N-10154",
+      "@id": "N-10149",
+      "ref": "N-10149",
       "name": "Case-Personnel Cluster Anomalies",
       "type": "investigation_target",
       "description": "Composite target covering the simultaneous arrival of new senior figures (FBI SAC \"Robert Bohls,\" hospital CEO/surgeon Andrew Zenger, Judge Tony F. Graf Jr., unnamed new coroner) onto the case.",
@@ -1024,8 +1024,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10155",
-      "ref": "N-10155",
+      "@id": "N-10150",
+      "ref": "N-10150",
       "name": "Autopsy Record – Utah Privacy Statute Application",
       "type": "investigation_target",
       "description": "Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.",
@@ -1047,9 +1047,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10156",
-      "ref": "N-10156",
-      "name": "Hospital Routing Anomaly",
+      "@id": "N-10144",
+      "ref": "N-10144",
+      "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
       "description": "Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.",
       "related_artifacts": [
@@ -1069,8 +1069,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10157",
-      "ref": "N-10157",
+      "@id": "N-10151",
+      "ref": "N-10151",
       "name": "TPUSA Faith Packet / Israel References Claim",
       "type": "investigation_target",
       "description": "Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.",
@@ -1319,8 +1319,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
       "type": "investigation_target",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10052",
-      "ref": "N-10052",
+      "@id": "N-10049",
+      "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
       "type": "investigation_target",
       "description": "Existing topic reused for how TMZ obtained the footage.",
@@ -1698,8 +1698,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's account of Kirk's changing view of Israel.",
@@ -1715,8 +1715,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the awaited financial report.",
@@ -1732,8 +1732,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10082",
-      "ref": "N-10082",
+      "@id": "N-10079",
+      "ref": "N-10079",
       "name": "CIA",
       "type": "investigation_target",
       "description": "Agency the host links to UVU.",
@@ -1749,8 +1749,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10115",
-      "ref": "N-10115",
+      "@id": "N-10111",
+      "ref": "N-10111",
       "name": "Soviet Education Infiltration",
       "type": "investigation_target",
       "description": "Existing topic reused for the viewer remark on the UVU president.",
@@ -1766,8 +1766,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Organization linked by the host to the Horowitz family.",
@@ -1783,8 +1783,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10135",
-      "ref": "N-10135",
+      "@id": "N-10130",
+      "ref": "N-10130",
       "name": "Doorbell Footage Completeness Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the footage the FBI allegedly withheld.",
@@ -1800,8 +1800,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's pastor-funding remarks.",
@@ -1818,8 +1818,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10144",
-      "ref": "N-10144",
+      "@id": "N-10139",
+      "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's exchange with Lyman.",
@@ -1836,8 +1836,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10146",
-      "ref": "N-10146",
+      "@id": "N-10141",
+      "ref": "N-10141",
       "name": "Phil Lyman Location Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for Lyman's statements about where he watched the footage.",
@@ -1853,8 +1853,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10147",
-      "ref": "N-10147",
+      "@id": "N-10142",
+      "ref": "N-10142",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
       "type": "investigation_target",
       "description": "Existing topic reused for the person next to Shaner.",
@@ -1872,8 +1872,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for why Kirk turned against Israel.",
@@ -1889,8 +1889,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10158",
-      "ref": "N-10158",
+      "@id": "N-10152",
+      "ref": "N-10152",
       "name": "ADL–FBI Partnership Structure",
       "type": "investigation_target",
       "description": "Existing topic reused for the shared-building claim.",
@@ -1906,8 +1906,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10159",
-      "ref": "N-10159",
+      "@id": "N-10153",
+      "ref": "N-10153",
       "name": "Connecticut FBI Field Office Deployment Anomaly",
       "type": "investigation_target",
       "description": "Existing topic reused for the Connecticut building remark.",
@@ -1923,8 +1923,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10160",
-      "ref": "N-10160",
+      "@id": "N-10154",
+      "ref": "N-10154",
       "name": "Tyler Robinson Defense Selection Anomaly",
       "type": "investigation_target",
       "description": "Existing topic reused for the defense lawyer comment.",
@@ -1940,8 +1940,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the Faith packet remark.",
@@ -1958,8 +1958,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused for the pressure campaign on Kelly.",
@@ -1980,8 +1980,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10898",
-      "ref": "N-10898",
+      "@id": "N-10819",
+      "ref": "N-10819",
       "name": "New York Post",
       "type": "investigation_target",
       "description": "Outlet cited for the alleged fake letter and a spy story.",
@@ -1998,8 +1998,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Employer where the host says she read VPN ads.",
@@ -2015,8 +2015,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11096",
-      "ref": "N-11096",
+      "@id": "N-11014",
+      "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the content-strike claim.",
@@ -2032,8 +2032,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@id": "N-11021",
+      "ref": "N-11021",
       "name": "TikTok",
       "type": "investigation_target",
       "description": "Platform at the center of the Netanyahu clip and the host's censorship claims.",
@@ -2053,8 +2053,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11153",
-      "ref": "N-11153",
+      "@id": "N-11069",
+      "ref": "N-11069",
       "name": "Anti-Defamation League",
       "type": "investigation_target",
       "description": "Organization the host says shares a building with the FBI.",
@@ -2071,8 +2071,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11170",
-      "ref": "N-11170",
+      "@id": "N-11086",
+      "ref": "N-11086",
       "name": "International Fellowship of Christians and Jews",
       "type": "investigation_target",
       "description": "Organization the host says funds pastors.",
@@ -2089,8 +2089,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11217",
-      "ref": "N-11217",
+      "@id": "N-11133",
+      "ref": "N-11133",
       "name": "Utah State University",
       "type": "investigation_target",
       "description": "Site of the TPUSA event described by an attendee.",
@@ -2106,8 +2106,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11269",
-      "ref": "N-11269",
+      "@id": "N-11185",
+      "ref": "N-11185",
       "name": "Ukrainian Hit List Claim",
       "type": "topic",
       "description": "The host's assertion that Charlie Kirk, she, Tucker Carlson and a former Alex Jones employee were on a Ukrainian hit list.",
@@ -2124,8 +2124,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11270",
-      "ref": "N-11270",
+      "@id": "N-11186",
+      "ref": "N-11186",
       "name": "ExpressVPN Israeli Ownership Claim",
       "type": "topic",
       "description": "The comment and host remarks that Israel is taking over ExpressVPN and other VPN services and that ExpressVPN was started by an Israeli billionaire.",
@@ -2143,8 +2143,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11271",
-      "ref": "N-11271",
+      "@id": "N-11187",
+      "ref": "N-11187",
       "name": "Security Guards Did Not Draw Guns Question",
       "type": "topic",
       "description": "The viewer question and host agreement that no security guard drew a weapon when the shots rang out, and the host's remark on the security firm's earnings from Charlie.",
@@ -2161,8 +2161,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11272",
-      "ref": "N-11272",
+      "@id": "N-11188",
+      "ref": "N-11188",
       "name": "Charlie Kirk Laptop Access Question",
       "type": "topic",
       "description": "The host's statement that she knows who had access to Charlie Kirk's laptop and has questions about that.",
@@ -2178,8 +2178,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11273",
-      "ref": "N-11273",
+      "@id": "N-11189",
+      "ref": "N-11189",
       "name": "Foreign Operatives and New Identities Hypothesis",
       "type": "topic",
       "description": "The host's hunch that the shooting was a military operation by people from overseas, with new identities, supported by a Russian headline and a New York Times report.",
@@ -2196,8 +2196,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11274",
-      "ref": "N-11274",
+      "@id": "N-11190",
+      "ref": "N-11190",
       "name": "Shaner Broderick Account Deletion",
       "type": "topic",
       "description": "The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content after the host contacted him.",
@@ -2213,8 +2213,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19).",
@@ -2240,7 +2240,7 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-10152"
+        "N-10147"
       ],
       "tags": [],
       "claim_timestamp": "00:00:49",
@@ -2289,7 +2289,7 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-10152"
+        "N-10147"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
@@ -2313,8 +2313,8 @@
         "A-1199.4"
       ],
       "related_nodes": [
-        "N-10154",
-        "N-10156"
+        "N-10149",
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:04:53",
@@ -2335,7 +2335,7 @@
       "claim": "The host says she was told that, despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10155"
+        "N-10150"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -2352,7 +2352,7 @@
       "claim": "The host says that, as she has learned, autopsy reports in Utah are kept private, and the only way the report would be released is if the immediate family wished it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10155"
+        "N-10150"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -2546,7 +2546,7 @@
       "claim": "The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his \"uncle Mikey\", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10151"
+        "N-10146"
       ],
       "tags": [],
       "claim_timestamp": "00:19:27",
@@ -2566,7 +2566,7 @@
       "claim": "The host says that, for no apparent reason, \"agents\" she compares to Mr. Smith in the Matrix are, she guesses, surrounding Megyn Kelly and demanding that Kelly make a statement against the host and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -2609,7 +2609,7 @@
       "claim": "The host says the regional hospital to which Charlie Kirk was taken was not the nearest hospital to the university and ranked extremely low among the hospitals best equipped for the neck wound he suffered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10156"
+        "N-10144"
       ],
       "tags": [
         "relevance:core"
@@ -2631,7 +2631,7 @@
         "A-3100.1"
       ],
       "related_nodes": [
-        "N-10156"
+        "N-10144"
       ],
       "tags": [
         "relevance:core",
@@ -2654,7 +2654,7 @@
       "claim": "The host says Shaner Broderick deleted his Facebook and LinkedIn and wiped his Instagram after she asked him a question before going live, and that her team had captured his content beforehand.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11274"
+        "N-11190"
       ],
       "tags": [
         "relevance:core"
@@ -2677,8 +2677,8 @@
         "A-3107.1"
       ],
       "related_nodes": [
-        "N-10052",
-        "N-10135"
+        "N-10049",
+        "N-10130"
       ],
       "tags": [
         "relevance:core"
@@ -2698,7 +2698,7 @@
       "claim": "The host says Phil Lyman has been forthcoming that his family owned the property near the shooting and that this is not mysterious.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -2739,7 +2739,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10011",
-        "N-10052"
+        "N-10049"
       ],
       "tags": [
         "relevance:core"
@@ -2761,7 +2761,7 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-10152",
+        "N-10147",
         "N-10014"
       ],
       "tags": [
@@ -2785,7 +2785,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10152"
+        "N-10147"
       ],
       "tags": [
         "relevance:core"
@@ -2805,7 +2805,7 @@
       "claim": "The host says that after she asked Phil Lyman to track down the footage he became angry, said unkind things to her and asked whether she had something to do with the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -2828,7 +2828,7 @@
       "related_nodes": [
         "N-10006",
         "N-10011",
-        "N-10146"
+        "N-10141"
       ],
       "tags": [
         "relevance:core"
@@ -2851,7 +2851,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10011",
-        "N-10052"
+        "N-10049"
       ],
       "tags": [
         "relevance:core"
@@ -2874,7 +2874,7 @@
         "A-3100.2"
       ],
       "related_nodes": [
-        "N-10152"
+        "N-10147"
       ],
       "tags": [
         "relevance:core",
@@ -2916,7 +2916,7 @@
       "claim": "The host says they discovered that one of the people pictured next to Shaner was from Austria.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2937,7 +2937,7 @@
       "claim": "The host says Phil Lyman has been clear that he does not know the goth-looking individual pictured with Shaner.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10147"
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2958,8 +2958,8 @@
       "claim": "The host says several viewers found a person going by the name Robbie Hild, allegedly from Washington, and she doubts it is his true identity because no one has come forward saying they know him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10153",
-        "N-10147"
+        "N-10148",
+        "N-10142"
       ],
       "tags": [
         "relevance:core"
@@ -2980,7 +2980,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10115"
+        "N-10111"
       ],
       "tags": [
         "relevance:context"
@@ -3020,8 +3020,8 @@
       "claim": "The host says the New York Times has reported on Russian and Ukrainian spies building new lives with new IDs in America and in Brazil.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968",
-        "N-11273"
+        "N-10889",
+        "N-11189"
       ],
       "tags": [
         "relevance:context"
@@ -3042,7 +3042,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10082"
+        "N-10079"
       ],
       "tags": [
         "relevance:context"
@@ -3064,7 +3064,7 @@
         "A-3104.1"
       ],
       "related_nodes": [
-        "N-11273"
+        "N-11189"
       ],
       "tags": [
         "relevance:context"
@@ -3084,7 +3084,7 @@
       "claim": "The host says it is a fact that Charlie Kirk was on a hit list and that she was also on it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11269"
+        "N-11185"
       ],
       "tags": [
         "relevance:context"
@@ -3105,7 +3105,7 @@
       "claim": "The host says Tucker Carlson was on the hit list and that a man who worked for Alex Jones and was killed was similarly on a Ukrainian hit list; she cannot recall his name.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11269"
+        "N-11185"
       ],
       "tags": [
         "relevance:context"
@@ -3214,7 +3214,7 @@
       "claim": "The host says Donald Trump's stated worry about China owning TikTok was theater and that he wanted to hand TikTok over to his Zionist friends.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103"
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3234,7 +3234,7 @@
       "claim": "The host says Larry Ellison is part of the TikTok deal and is clear that he is an agent of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103"
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3254,8 +3254,8 @@
       "claim": "The host says the deal includes a Horowitz, the son of David Horowitz, whom she links to the origins of PragerU, the David Horowitz Foundation and Ben Shapiro in Los Angeles.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131",
-        "N-11103"
+        "N-10126",
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3276,8 +3276,8 @@
       "claim": "The host says an ADL spokesperson was caught on a microphone saying the ADL needs to do something about TikTok.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11103"
+        "N-11069",
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3297,8 +3297,8 @@
       "claim": "The host says that after TikTok installed an executive who said she was a proud Zionist and spent time in Israel, the host's content immediately received strikes, and that nothing bad about Israel can be said on TikTok now.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11096",
-        "N-11103"
+        "N-11014",
+        "N-11021"
       ],
       "tags": [
         "relevance:context"
@@ -3343,7 +3343,7 @@
         "A-1201.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3366,7 +3366,7 @@
       "claim": "The host says she lived what Charlie was going through, where people pretending to be friends turn out to be agents close to ruining your life if you do not do what they want.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:core"
@@ -3389,7 +3389,7 @@
         "A-1202.1"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3456,7 +3456,7 @@
         "A-1203.2"
       ],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:core"
@@ -3498,7 +3498,7 @@
       "claim": "The host predicts that if Kelly does not denounce her and Tucker Carlson, the next layer will be a full-blown press attack on Kelly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3523,7 +3523,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-11217"
+        "N-11133"
       ],
       "tags": [
         "relevance:context"
@@ -3545,8 +3545,8 @@
         "A-3105.1"
       ],
       "related_nodes": [
-        "N-10157",
-        "N-10209",
+        "N-10151",
+        "N-10201",
         "N-10000"
       ],
       "tags": [
@@ -3569,8 +3569,8 @@
         "A-3105.1"
       ],
       "related_nodes": [
-        "N-10157",
-        "N-10209"
+        "N-10151",
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -3591,7 +3591,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3613,7 +3613,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -3679,7 +3679,7 @@
         "A-3101.1"
       ],
       "related_nodes": [
-        "N-11271"
+        "N-11187"
       ],
       "tags": [
         "relevance:core"
@@ -3701,7 +3701,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11271"
+        "N-11187"
       ],
       "tags": [
         "relevance:core"
@@ -3740,7 +3740,7 @@
         "A-1206.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:context"
@@ -3764,9 +3764,9 @@
         "A-1207.1"
       ],
       "related_nodes": [
-        "N-10158",
-        "N-10159",
-        "N-11153",
+        "N-10152",
+        "N-10153",
+        "N-11069",
         "N-10014"
       ],
       "tags": [
@@ -3789,7 +3789,7 @@
         "A-1208.1"
       ],
       "related_nodes": [
-        "N-11270"
+        "N-11186"
       ],
       "tags": [
         "relevance:tangential"
@@ -3806,8 +3806,8 @@
       "claim": "The host says she used to read ads for ExpressVPN when she worked for the Daily Wire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11270",
-        "N-10900"
+        "N-11186",
+        "N-10821"
       ],
       "tags": [
         "relevance:context"
@@ -3827,7 +3827,7 @@
       "claim": "The host says that once she found that ExpressVPN was started by an Israeli billionaire she took it to be a spying thing, which she calls her conspiracy theory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11270"
+        "N-11186"
       ],
       "tags": [
         "relevance:tangential"
@@ -3849,7 +3849,7 @@
         "A-3102.1"
       ],
       "related_nodes": [
-        "N-10898",
+        "N-10819",
         "N-10017"
       ],
       "tags": [
@@ -3871,8 +3871,8 @@
       "claim": "The host says she knows who had access to Charlie's laptop, has questions about that and will wait for a financial report.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11272",
-        "N-10078"
+        "N-11188",
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3913,8 +3913,8 @@
       "claim": "The host says pastors who say they take no money from Israel take money from an agent of Israel or an organization like the International Fellowship of Christians and Jews.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11170",
-        "N-10139"
+        "N-11086",
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -3934,8 +3934,8 @@
       "claim": "The host says IFCJ has people gathering pastors and paying off people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11170",
-        "N-10139"
+        "N-11086",
+        "N-10134"
       ],
       "tags": [
         "relevance:context"

@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10200"
+            "N-10192"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-10200"
+            "N-10192"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,7 +79,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-10200"
+            "N-10192"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
             "C-1962"
           ],
           "related_nodes": [
-            "N-10202"
+            "N-10194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
             "C-1967"
           ],
           "related_nodes": [
-            "N-10202"
+            "N-10194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
           ],
           "related_nodes": [
             "N-46",
-            "N-10202"
+            "N-10194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -382,7 +382,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ]
     },
     {
@@ -427,8 +427,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10200",
-      "ref": "N-10200",
+      "@id": "N-10192",
+      "ref": "N-10192",
       "name": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between (a) updated TPUSA Wikipedia entry designating Rob McCoy as co-founder/co-chairman of TPUSA Faith with citation to a Nov 24, 2024 article that does not, per the host, contain that text; and (b) the pre-existing 2021 Wikipedia section naming Charlie Kirk as sole founder.",
@@ -442,7 +442,8 @@
         "C-1952",
         "C-1950",
         "C-1951",
-        "C-1949"
+        "C-1949",
+        "C-1948"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -456,13 +457,15 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10201",
-      "ref": "N-10201",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1974"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -474,8 +477,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Persistent question regarding FBI Director Kash Patel's posture toward outside inquiries (Joe Kent / Tulsi Gabbard office) into the Kirk investigation, including reported resistance and a meeting with White House and ODNI principals.",
@@ -673,8 +676,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -692,8 +695,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10081",
-      "ref": "N-10081",
+      "@id": "N-10078",
+      "ref": "N-10078",
       "name": "Israel Influence on US Politics",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -709,8 +712,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -726,8 +729,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10166",
-      "ref": "N-10166",
+      "@id": "N-10159",
+      "ref": "N-10159",
       "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -743,8 +746,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -760,48 +763,14 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1974"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
         "C-1972"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10353",
-      "ref": "N-10353",
-      "name": "Rob McCoy Wikipedia TPUSA Faith Entry",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-1948"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1076,8 +1045,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11100",
-      "ref": "N-11100",
+      "@id": "N-11018",
+      "ref": "N-11018",
       "name": "Charlie Kirk Post-Shooting First Aid Question",
       "type": "topic",
       "description": "The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.",
@@ -1094,8 +1063,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11101",
-      "ref": "N-11101",
+      "@id": "N-11019",
+      "ref": "N-11019",
       "name": "TPUSA Wikipedia Cleanup Operative Claim",
       "type": "topic",
       "description": "The host's recollection that Charlie Kirk told her TPUSA had found a person to clean up Wikipedia pages, and her question who made the McCoy edit.",
@@ -1138,7 +1107,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
@@ -1158,7 +1127,7 @@
         "A-1283.1"
       ],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
@@ -1178,7 +1147,7 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
@@ -1197,7 +1166,7 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
@@ -1234,7 +1203,7 @@
         "A-1286.1"
       ],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [],
       "claim_timestamp": "00:20:44",
@@ -1256,7 +1225,7 @@
         "A-1286.1"
       ],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [],
       "claim_timestamp": "00:21:37",
@@ -1335,7 +1304,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [],
       "claim_timestamp": "00:04:25",
@@ -1428,7 +1397,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-10353"
+        "N-10192"
       ],
       "tags": [
         "relevance:core"
@@ -1452,8 +1421,8 @@
       "claim": "The host says Charlie Kirk told her that Turning Point USA had found a person who could clean up Wikipedia pages, that organizations pay people to do this full time, and that she cannot yet recall who the person was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11101",
-        "N-10200"
+        "N-11019",
+        "N-10192"
       ],
       "tags": [
         "relevance:core"
@@ -1476,7 +1445,7 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [
         "relevance:core"
@@ -1498,7 +1467,7 @@
       "claim": "The host says Rob McCoy was one of the advisers on the TPUSA Faith advisory board, that he gets paid by TPUSA Faith for its upcoming pastor summits, and that he would benefit financially from the direction the division was taking.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10166"
+        "N-10159"
       ],
       "tags": [
         "relevance:context"
@@ -1561,7 +1530,7 @@
       "claim": "The host says the evidence is overwhelming that Tyler Robinson did not act alone, did not fire the shot and did not use a .30-06 rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10319"
+        "N-10300"
       ],
       "tags": [
         "relevance:core"
@@ -1660,7 +1629,7 @@
       "claim": "The host says Kash Patel has a very small team of people at the FBI who are allowed to touch anything pertaining to the Charlie Kirk case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -1681,7 +1650,7 @@
       "claim": "The host says that she thinks they are getting very close to what actually happened on that day, that she is getting the suspicion that there were some foreign entities involved, and asks Joe Kent and Tulsi Gabbard to keep going.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -1722,7 +1691,7 @@
       "claim": "The host says Andrew Kolvet told people Charlie was explicit that if he was ever shot at an event in the left side of the neck, the first thing he wanted was for people not to help him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11100"
+        "N-11018"
       ],
       "tags": [
         "relevance:core"
@@ -1745,7 +1714,7 @@
         "A-2820.1"
       ],
       "related_nodes": [
-        "N-11100"
+        "N-11018"
       ],
       "tags": [
         "relevance:core"
@@ -1768,7 +1737,7 @@
         "A-2821.1"
       ],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [
         "relevance:context"
@@ -1794,7 +1763,7 @@
       "claim": "The host says that after she mildly said Charlie was close to converting, accounts she calls Operation Mocking Pastor or mocking evangelical influencers went out saying it was not true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -1818,8 +1787,7 @@
       "claim": "The host says the reason there has been no burial coverage is that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323",
-        "N-10201"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -1840,7 +1808,7 @@
       "claim": "The host says donor Bob Shillman took 2 million dollars away from Turning Point USA and that, by her account, the organization brought in 70 million dollars last year, questioning whether the donors Kolvet called a small portion cut the bigger checks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -1861,7 +1829,7 @@
       "claim": "The host says she thinks donors have insisted and are pressuring TPUSA people, as she is hearing, to maintain the idea that Charlie died pro-Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
+        "N-10044",
         "N-10025"
       ],
       "tags": [
@@ -1905,7 +1873,7 @@
         "A-1287.1"
       ],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -2123,7 +2091,7 @@
       "claim": "The host says she is not supported by the big donors, including the Jewish donors at Turning Point USA who were pressuring Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:context"
@@ -2169,7 +2137,7 @@
       "claim": "Responding to a viewer comment that Tucker Carlson interviewed Wikipedia's creator, the host says a clip she has shown before has someone, before he became prime minister of Israel, showing how people were trained to edit Wikipedia to favor the Zionist cause.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10200"
+        "N-10192"
       ],
       "tags": [
         "relevance:context"
@@ -2190,7 +2158,7 @@
       "claim": "The host says Israel is buying many bots on the internet, that this is why it wants TikTok, and that the aim is to isolate people so they feel everyone disagrees.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10081"
+        "N-10078"
       ],
       "tags": [
         "relevance:context"

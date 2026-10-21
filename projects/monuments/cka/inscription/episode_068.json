@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-489",
-            "N-10477"
+            "N-10353"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -50,7 +50,7 @@
           ],
           "related_nodes": [
             "N-489",
-            "N-10479"
+            "N-10446"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           "related_nodes": [
             "N-489",
             "N-190",
-            "N-10478"
+            "N-10445"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,8 +105,8 @@
           ],
           "related_nodes": [
             "N-541",
-            "N-10480",
-            "N-10484"
+            "N-10447",
+            "N-10450"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,8 +132,8 @@
             "C-6090"
           ],
           "related_nodes": [
-            "N-10481",
-            "N-10484"
+            "N-10448",
+            "N-10450"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-6092"
           ],
           "related_nodes": [
-            "N-10481"
+            "N-10448"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -169,7 +169,7 @@
             "C-6091"
           ],
           "related_nodes": [
-            "N-10481"
+            "N-10448"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -196,7 +196,7 @@
           ],
           "related_nodes": [
             "N-536",
-            "N-10484"
+            "N-10450"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -294,7 +294,7 @@
           ],
           "related_nodes": [
             "N-190",
-            "N-10482"
+            "N-10214"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -322,7 +322,7 @@
           "related_nodes": [
             "N-489",
             "N-15",
-            "N-10483"
+            "N-10449"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -595,10 +595,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10477",
-        "N-10478",
-        "N-10479",
-        "N-10483"
+        "N-10353",
+        "N-10445",
+        "N-10446",
+        "N-10449"
       ]
     },
     {
@@ -622,7 +622,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10482"
+        "N-10214"
       ]
     },
     {
@@ -644,7 +644,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10483"
+        "N-10449"
       ]
     },
     {
@@ -745,8 +745,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10480",
-        "N-10484"
+        "N-10447",
+        "N-10450"
       ]
     },
     {
@@ -765,7 +765,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-489",
-        "N-10483"
+        "N-10449"
       ]
     },
     {
@@ -783,8 +783,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10477",
-        "N-10482"
+        "N-10353",
+        "N-10214"
       ]
     },
     {
@@ -811,8 +811,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10477",
-      "ref": "N-10477",
+      "@id": "N-10353",
+      "ref": "N-10353",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
       "type": "investigation_target",
       "description": "Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turek states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.",
@@ -820,7 +820,8 @@
         "A-1735.1"
       ],
       "related_claims": [
-        "C-6112"
+        "C-6112",
+        "C-6120"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -834,8 +835,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10478",
-      "ref": "N-10478",
+      "@id": "N-10445",
+      "ref": "N-10445",
       "name": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
       "type": "investigation_target",
       "description": "The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a \"holistic clinic,\" not a hospital.",
@@ -860,8 +861,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10479",
-      "ref": "N-10479",
+      "@id": "N-10446",
+      "ref": "N-10446",
       "name": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
       "type": "investigation_target",
       "description": "The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.",
@@ -882,8 +883,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10480",
-      "ref": "N-10480",
+      "@id": "N-10447",
+      "ref": "N-10447",
       "name": "Nimrod / Gilgamesh Remains Extraction Question",
       "type": "investigation_target",
       "description": "The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.",
@@ -904,8 +905,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10481",
-      "ref": "N-10481",
+      "@id": "N-10448",
+      "ref": "N-10448",
       "name": "Babylon Military Camp Activities",
       "type": "investigation_target",
       "description": "Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.",
@@ -927,9 +928,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10482",
-      "ref": "N-10482",
-      "name": "Mikey McCoy Phone Call Sequence",
+      "@id": "N-10214",
+      "ref": "N-10214",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "NYT said the call came \"within seconds\"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress.",
       "related_artifacts": [
@@ -950,8 +951,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10483",
-      "ref": "N-10483",
+      "@id": "N-10449",
+      "ref": "N-10449",
       "name": "Erika's Mother Medical Narrative",
       "type": "investigation_target",
       "description": "Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).",
@@ -974,8 +975,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10484",
-      "ref": "N-10484",
+      "@id": "N-10450",
+      "ref": "N-10450",
       "name": "Babylon Library / Tablet Loss Discrepancy",
       "type": "investigation_target",
       "description": "UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.",
@@ -1239,8 +1240,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's military-operation remarks.",
@@ -1257,8 +1258,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's AmFest slot remark.",
@@ -1274,8 +1275,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10397",
-      "ref": "N-10397",
+      "@id": "N-10370",
+      "ref": "N-10370",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
       "type": "investigation_target",
       "description": "Existing topic reused for the Korea and Tokyo return.",
@@ -1291,8 +1292,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@id": "N-10389",
+      "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for the clip-file claim.",
@@ -1308,9 +1309,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10435",
-      "ref": "N-10435",
-      "name": "Fort Huachuca Erika Kirk Location Investigation",
+      "@id": "N-10390",
+      "ref": "N-10390",
+      "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the dinner alibi and cease-and-desist claims.",
       "related_artifacts": [],
@@ -1327,8 +1328,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10440",
-      "ref": "N-10440",
+      "@id": "N-10409",
+      "ref": "N-10409",
       "name": "Desert Spirit Tech LLC Business Purpose Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's LLC remarks.",
@@ -1344,8 +1345,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10441",
-      "ref": "N-10441",
+      "@id": "N-10410",
+      "ref": "N-10410",
       "name": "Euro Tech / Cincinnati Business Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the Cincinnati connection.",
@@ -1361,25 +1362,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10472",
-      "ref": "N-10472",
-      "name": "Fort Huachuca Alibi Investigation",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the dinner alibi claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6121"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10473",
-      "ref": "N-10473",
+      "@id": "N-10441",
+      "ref": "N-10441",
       "name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
       "type": "investigation_target",
       "description": "Existing topic reused for the Sept 8 schedule claims.",
@@ -1398,25 +1382,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10521",
-      "ref": "N-10521",
-      "name": "Erika Kirk September 8 Presence Verification",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the neighbor-verification claim.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6120"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10653",
-      "ref": "N-10653",
+      "@id": "N-10595",
+      "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
       "type": "investigation_target",
       "description": "Existing topic reused for the geofencing remark.",
@@ -1432,8 +1399,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10900",
-      "ref": "N-10900",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Daily Wire",
       "type": "investigation_target",
       "description": "Organization behind All Access and the clip file.",
@@ -1450,8 +1417,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10922",
-      "ref": "N-10922",
+      "@id": "N-10843",
+      "ref": "N-10843",
       "name": "Superfeed",
       "type": "investigation_target",
       "description": "Company the host links to Erika's mother.",
@@ -1467,8 +1434,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10956",
-      "ref": "N-10956",
+      "@id": "N-10877",
+      "ref": "N-10877",
       "name": "Catholics for Catholics",
       "type": "investigation_target",
       "description": "Conference where the host says she will speak.",
@@ -1485,8 +1452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "investigation_target",
       "description": "Outlet named among those Erika admitted.",
@@ -1502,8 +1469,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
       "type": "investigation_target",
       "description": "Existing topic reused for the blocked tour claim.",
@@ -1519,8 +1486,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11180",
-      "ref": "N-11180",
+      "@id": "N-11096",
+      "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused for the cease-and-desist claim.",
@@ -1546,7 +1513,7 @@
         "A-1727.1"
       ],
       "related_nodes": [
-        "N-10479"
+        "N-10446"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
@@ -1566,7 +1533,7 @@
         "A-1727.2"
       ],
       "related_nodes": [
-        "N-10479"
+        "N-10446"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00",
@@ -1586,8 +1553,8 @@
         "A-1728.1"
       ],
       "related_nodes": [
-        "N-10478",
-        "N-10482"
+        "N-10445",
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00",
@@ -1608,8 +1575,8 @@
         "A-1729.1"
       ],
       "related_nodes": [
-        "N-10480",
-        "N-10484"
+        "N-10447",
+        "N-10450"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
@@ -1628,8 +1595,8 @@
         "A-1730.1"
       ],
       "related_nodes": [
-        "N-10481",
-        "N-10484"
+        "N-10448",
+        "N-10450"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
@@ -1645,7 +1612,7 @@
         "A-1730.2"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10448"
       ],
       "tags": [],
       "claim_timestamp": "00:11:55",
@@ -1661,7 +1628,7 @@
         "A-1730.3"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10448"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
@@ -1677,7 +1644,7 @@
         "A-1731.1"
       ],
       "related_nodes": [
-        "N-10484"
+        "N-10450"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
@@ -1748,7 +1715,7 @@
         "A-1734.1"
       ],
       "related_nodes": [
-        "N-10482"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:25:21",
@@ -1768,8 +1735,8 @@
         "A-1735.1"
       ],
       "related_nodes": [
-        "N-10478",
-        "N-10483"
+        "N-10445",
+        "N-10449"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30",
@@ -1841,7 +1808,7 @@
       "claim": "The host says the Epic of Gilgamesh is understood to be the story of Nimrod in the Bible, a warrior who rebelled against God and set up a kingdom in Mesopotamia and Assyria.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -1858,8 +1825,8 @@
       "claim": "The host says the US military made its base at the exact location where Fassbinder had reported finding Gilgamesh's tomb, after the March 2003 invasion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10481",
-        "N-10480"
+        "N-10448",
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -1882,7 +1849,7 @@
       "claim": "The host says the US set up its military base, Camp Alpha, on top of ancient Babylon, and that the stated reason was to protect the site from looters.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10481"
+        "N-10448"
       ],
       "tags": [
         "relevance:tangential"
@@ -1902,8 +1869,8 @@
       "claim": "The host says locals reported that at night Americans were digging and extracting at the Babylon site in military operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480",
-        "N-10481"
+        "N-10447",
+        "N-10448"
       ],
       "tags": [
         "relevance:tangential"
@@ -1935,7 +1902,7 @@
       "claim": "The host says an unexplained FOIA request went to the State Department seeking documents on the 'resurrection chamber of Gilgamesh', the location of his body and the location of buried Nephilim.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -1953,7 +1920,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -1973,7 +1940,7 @@
       "claim": "The host says the people around the case have strong military ties, including Erika Kirk and in particular her mother.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:core"
@@ -1994,8 +1961,8 @@
       "claim": "The host says that, while building Erika's timeline, she found Erika's mother has an almost incalculable number of LLCs, with connections from France to Arizona to Cincinnati to Massachusetts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10440",
-        "N-10441"
+        "N-10409",
+        "N-10410"
       ],
       "tags": [
         "relevance:core"
@@ -2017,8 +1984,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10922",
-        "N-10653"
+        "N-10843",
+        "N-10595"
       ],
       "tags": [
         "relevance:core"
@@ -2101,7 +2068,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10479"
+        "N-10446"
       ],
       "tags": [
         "relevance:context"
@@ -2121,8 +2088,8 @@
       "claim": "The host says the McCoy and Erika call was brief, a couple of minutes, after which Erika is said to have left her mother in treatment and then collapsed in the parking lot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10478",
-        "N-10482"
+        "N-10445",
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2147,7 +2114,7 @@
       "claim": "The host says Mikey McCoy called his wife first and Erika three-plus minutes later, mocking this as 'so much for that training that Charlie allegedly gave him', and says she does not buy that account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10482"
+        "N-10214"
       ],
       "tags": [
         "relevance:core"
@@ -2171,7 +2138,7 @@
         "A-1735.1"
       ],
       "related_nodes": [
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2198,7 +2165,7 @@
         "A-1735.1"
       ],
       "related_nodes": [
-        "N-10478"
+        "N-10445"
       ],
       "tags": [
         "relevance:core"
@@ -2220,7 +2187,7 @@
       "claim": "The host says Charlie told her he was flying Erika's mother overseas for Lyme disease treatments because better options exist in Europe.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483"
+        "N-10449"
       ],
       "tags": [
         "relevance:core"
@@ -2242,9 +2209,9 @@
       "claim": "The host says she has learned that on September 8 Charlie took Erika's mother to a Lyme disease treatment at a clinic, and that she holds the clinic's address and name but will not publish them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483",
-        "N-10477",
-        "N-10473"
+        "N-10449",
+        "N-10353",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -2267,7 +2234,7 @@
       "claim": "The host says she is told the holistic treatments at such a center last between one and two hours.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483"
+        "N-10449"
       ],
       "tags": [
         "relevance:context"
@@ -2287,8 +2254,8 @@
       "claim": "The host says Charlie returned from his Korea and Tokyo trip very late on September 7 or early September 8, landing in California and continuing to Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397",
-        "N-10473"
+        "N-10370",
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -2308,7 +2275,7 @@
       "claim": "The host says Charlie appeared from his home studio for the Charlie Kirk show on September 8 and did not go to the office that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -2328,7 +2295,7 @@
       "claim": "The host says that, accounting for driving time, the treatment would have had to occur between 12 and 3:30 on September 8.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10473"
+        "N-10441"
       ],
       "tags": [
         "relevance:core"
@@ -2349,7 +2316,7 @@
       "claim": "The host says Frank Turek's statement that Charlie was dealing with the kids makes her think Erika was not around on September 8.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2371,8 +2338,7 @@
       "claim": "The host says she cannot find anyone in the residence complex who can verify seeing Erika on September 8, though they verified seeing her on September 9.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10477",
-        "N-10521"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2392,8 +2358,7 @@
       "claim": "The host says Erika's account that she made Charlie dinner has been the alibi for the Fort Huachuca question, and that the host has many questions about that timeline.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10435",
-        "N-10472"
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2414,8 +2379,8 @@
       "claim": "The host says her timeline points to the possibility that Erika was not at home on September 8 at all.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10477",
-        "N-10435"
+        "N-10353",
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2436,7 +2401,7 @@
       "claim": "The host says that after she told Streiff a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10477"
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2458,8 +2423,8 @@
       "claim": "The host says a couple of days after she was finally given something, she received a cease and desist that mentioned Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11180",
-        "N-10435"
+        "N-11096",
+        "N-10390"
       ],
       "tags": [
         "relevance:core"
@@ -2479,8 +2444,8 @@
       "claim": "The host says she has the names of two different clinics, one visited on September 10 and one on September 8.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10483",
-        "N-10477"
+        "N-10449",
+        "N-10353"
       ],
       "tags": [
         "relevance:core"
@@ -2521,7 +2486,7 @@
       "claim": "The host says she will speak at the Catholics for Catholics conference on March 19 in Washington DC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:tangential"
@@ -2541,7 +2506,7 @@
       "claim": "The host says she was supposed to tour Australia but was blocked by the Zionist lobby of Australia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:tangential"
@@ -2582,7 +2547,7 @@
         "A-3047.1"
       ],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:context"
@@ -2603,7 +2568,7 @@
       "claim": "The host says that at All Access sessions a producer will write in questions to get discussion going, and that she imagines producers are writing questions Ben wants asked so he can answer and diss her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900"
+        "N-10821"
       ],
       "tags": [
         "relevance:tangential"
@@ -2666,8 +2631,8 @@
       "claim": "The host says that when Jeremy was at the Daily Wire, staff kept a file of clips of her show and sent it to influencers, taking her out of context.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10900",
-        "N-10416"
+        "N-10821",
+        "N-10389"
       ],
       "tags": [
         "relevance:context"
@@ -2724,8 +2689,8 @@
       "claim": "The host says the first thing she noticed was Erika letting people Charlie did not like into her circle right after he died, such as the New York Times and buyers of speaking slots.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10968",
-        "N-10268"
+        "N-10889",
+        "N-10252"
       ],
       "tags": [
         "relevance:core"

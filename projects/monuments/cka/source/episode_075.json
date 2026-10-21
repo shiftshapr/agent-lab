@@ -18,13 +18,13 @@
     "- **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10b): N-769, N-771, N-772, N-11128, N-11131, N-11132, N-11133",
-    "  - Tip-minted Nodes (reintro-ep075): N-11072",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-769, N-771, N-772, N-11046, N-11049, N-11050, N-11051",
+    "  - Tip-minted Nodes (reintro-ep075): N-10990",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-199, N-211, N-270, N-298, N-553, N-672, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-770, N-11129, N-10539",
+    "  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-199, N-211, N-270, N-298, N-553, N-672, N-10000, N-10060, N-10109, N-10201, N-10303, N-10376, N-10379, N-10387, N-10388, N-10405, N-10416, N-10420, N-10466, N-10632, N-10826, N-10883, N-10889, N-11048, N-770, N-11047, N-10494",
     "  - Claim Range: C-6704–C-6809",
     "  - Hole-minted Nodes (wave1): N-324",
-    "  - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858",
+    "  - Hole-minted Nodes (w2_1-ep75): N-10777, N-10778, N-10779",
     "  - (see registers)",
     "",
     "## I. Meta-Data",
@@ -38,7 +38,7 @@
     "- Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])",
     "- Analyst: Investigation Agent (Episode Analysis Protocol)",
     "- Analysis Date: 2026-03-11",
-    "- Ledger Continuation: Beginning at A-2436 / C-6706 / N-324 (people) / N-10856 (targets)",
+    "- Ledger Continuation: Beginning at A-2436 / C-6706 / N-324 (people) / N-10777 (targets)",
     "",
     "---",
     "",
@@ -257,7 +257,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6722, N-1 (Charlie Kirk), N-10857 (Freemason Bible authentication – reuse if exists)*"
+     "raw": "*Related: C-6722, N-1 (Charlie Kirk), N-10778 (Freemason Bible authentication – reuse if exists)*"
     },
     {
      "raw": ""
@@ -1258,8 +1258,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10856",
-   "header": "**N-10856** Pentagon Seating Geometry Claim (Investigation Target)",
+   "id": "N-10777",
+   "header": "**N-10777** Pentagon Seating Geometry Claim (Investigation Target)",
    "label": "Pentagon Seating Geometry Claim (Investigation Target)",
    "lines": [
     {
@@ -1306,8 +1306,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10857",
-   "header": "**N-10857** \"Freemason Bible\" Document Authentication (Investigation Target)",
+   "id": "N-10778",
+   "header": "**N-10778** \"Freemason Bible\" Document Authentication (Investigation Target)",
    "label": "\"Freemason Bible\" Document Authentication (Investigation Target)",
    "lines": [
     {
@@ -1354,8 +1354,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10858",
-   "header": "**N-10858** Erika Kirk Presidential Viability Narrative (Investigation Target)",
+   "id": "N-10779",
+   "header": "**N-10779** Erika Kirk Presidential Viability Narrative (Investigation Target)",
    "label": "Erika Kirk Presidential Viability Narrative (Investigation Target)",
    "lines": [
     {
@@ -2102,8 +2102,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10063",
-   "header": "**N-10063** Gaza",
+   "id": "N-10060",
+   "header": "**N-10060** Gaza",
    "label": "Gaza",
    "lines": [
     {
@@ -2131,8 +2131,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10113",
-   "header": "**N-10113** Beehive Code / School Underground Premonition",
+   "id": "N-10109",
+   "header": "**N-10109** Beehive Code / School Underground Premonition",
    "label": "Beehive Code / School Underground Premonition",
    "lines": [
     {
@@ -2160,8 +2160,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10209",
-   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "id": "N-10201",
+   "header": "**N-10201** TPUSA Faith / Christian Zionist Infiltration Question",
    "label": "TPUSA Faith / Christian Zionist Infiltration Question",
    "lines": [
     {
@@ -2189,8 +2189,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10324",
-   "header": "**N-10324** Epstein Files Release Status",
+   "id": "N-10303",
+   "header": "**N-10303** Epstein Files Release Status",
    "label": "Epstein Files Release Status",
    "lines": [
     {
@@ -2218,8 +2218,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10403",
-   "header": "**N-10403** Erika Kirk Handler Thesis",
+   "id": "N-10376",
+   "header": "**N-10376** Erika Kirk Handler Thesis",
    "label": "Erika Kirk Handler Thesis",
    "lines": [
     {
@@ -2247,8 +2247,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10406",
-   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "id": "N-10379",
+   "header": "**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
    "lines": [
     {
@@ -2276,8 +2276,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10414",
-   "header": "**N-10414** CERN Satantic Ritual Claim",
+   "id": "N-10387",
+   "header": "**N-10387** CERN Satantic Ritual Claim",
    "label": "CERN Satantic Ritual Claim",
    "lines": [
     {
@@ -2305,8 +2305,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10415",
-   "header": "**N-10415** Charlie Kirk Premonition Pattern",
+   "id": "N-10388",
+   "header": "**N-10388** Charlie Kirk Premonition Pattern",
    "label": "Charlie Kirk Premonition Pattern",
    "lines": [
     {
@@ -2334,8 +2334,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10436",
-   "header": "**N-10436** TPUSA Faith Military Infiltration Claim",
+   "id": "N-10405",
+   "header": "**N-10405** TPUSA Faith Military Infiltration Claim",
    "label": "TPUSA Faith Military Infiltration Claim",
    "lines": [
     {
@@ -2363,8 +2363,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10447",
-   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "id": "N-10416",
+   "header": "**N-10416** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "lines": [
     {
@@ -2392,8 +2392,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10451",
-   "header": "**N-10451** USS Liberty Incident Cover-up Investigation",
+   "id": "N-10420",
+   "header": "**N-10420** USS Liberty Incident Cover-up Investigation",
    "label": "USS Liberty Incident Cover-up Investigation",
    "lines": [
     {
@@ -2421,8 +2421,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10539",
-   "header": "**N-10539** Charlie Kirk Iran War Opposition (June 2025)",
+   "id": "N-10494",
+   "header": "**N-10494** Charlie Kirk Iran War Opposition (June 2025)",
    "label": "Charlie Kirk Iran War Opposition (June 2025)",
    "lines": [
     {
@@ -2450,8 +2450,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10694",
-   "header": "**N-10694** Dan Flood Role and Behavior Assessment",
+   "id": "N-10632",
+   "header": "**N-10632** Dan Flood Role and Behavior Assessment",
    "label": "Dan Flood Role and Behavior Assessment",
    "lines": [
     {
@@ -2479,8 +2479,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10905",
-   "header": "**N-10905** New York Times Erika Kirk Interview Account Discrepancies",
+   "id": "N-10826",
+   "header": "**N-10826** New York Times Erika Kirk Interview Account Discrepancies",
    "label": "New York Times Erika Kirk Interview Account Discrepancies",
    "lines": [
     {
@@ -2508,8 +2508,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10962",
-   "header": "**N-10962** Venezuela",
+   "id": "N-10883",
+   "header": "**N-10883** Venezuela",
    "label": "Venezuela",
    "lines": [
     {
@@ -2537,8 +2537,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10968",
-   "header": "**N-10968** The New York Times",
+   "id": "N-10889",
+   "header": "**N-10889** The New York Times",
    "label": "The New York Times",
    "lines": [
     {
@@ -2566,8 +2566,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11072",
-   "header": "**N-11072** Cancelled TPUSA Event and Kanye France Trip",
+   "id": "N-10990",
+   "header": "**N-10990** Cancelled TPUSA Event and Kanye France Trip",
    "label": "Cancelled TPUSA Event and Kanye France Trip",
    "lines": [
     {
@@ -2750,8 +2750,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11128",
-   "header": "**N-11128** US and Israel Iran War Betrayal Thesis",
+   "id": "N-11046",
+   "header": "**N-11046** US and Israel Iran War Betrayal Thesis",
    "label": "US and Israel Iran War Betrayal Thesis",
    "lines": [
     {
@@ -2783,8 +2783,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11129",
-   "header": "**N-11129** Freemasonry",
+   "id": "N-11047",
+   "header": "**N-11047** Freemasonry",
    "label": "Freemasonry",
    "lines": [
     {
@@ -2816,8 +2816,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11130",
-   "header": "**N-11130** B'nai B'rith",
+   "id": "N-11048",
+   "header": "**N-11048** B'nai B'rith",
    "label": "B'nai B'rith",
    "lines": [
     {
@@ -2849,8 +2849,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11131",
-   "header": "**N-11131** Charlie Kirk Death as Spell Claim",
+   "id": "N-11049",
+   "header": "**N-11049** Charlie Kirk Death as Spell Claim",
    "label": "Charlie Kirk Death as Spell Claim",
    "lines": [
     {
@@ -2882,8 +2882,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10505",
-   "header": "**N-10505** Erika Kirk Post-Assassination Conduct Composite",
+   "id": "N-10466",
+   "header": "**N-10466** Erika Kirk Post-Assassination Conduct Composite",
    "label": "Erika Kirk Post-Assassination Conduct Composite",
    "lines": [
     {
@@ -2915,8 +2915,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11132",
-   "header": "**N-11132** Trump Response to Kirk Assassination",
+   "id": "N-11050",
+   "header": "**N-11050** Trump Response to Kirk Assassination",
    "label": "Trump Response to Kirk Assassination",
    "lines": [
     {
@@ -2948,8 +2948,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11133",
-   "header": "**N-11133** Glyphosate and White Phosphorus Defense Production Act Order",
+   "id": "N-11051",
+   "header": "**N-11051** Glyphosate and White Phosphorus Defense Production Act Order",
    "label": "Glyphosate and White Phosphorus Defense Production Act Order",
    "lines": [
     {
@@ -3157,7 +3157,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10857"
+     "v": "N-10778"
     },
     {
      "k": "Investigative Direction",
@@ -3203,7 +3203,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10857"
+     "v": "N-10778"
     },
     {
      "k": "Investigative Direction",
@@ -3253,7 +3253,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Investigative Direction",
@@ -3303,7 +3303,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Investigative Direction",
@@ -3353,7 +3353,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Investigative Direction",
@@ -3786,7 +3786,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -3850,7 +3850,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Tags",
@@ -3914,7 +3914,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -4158,7 +4158,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10414"
+     "v": "N-10387"
     },
     {
      "k": "Supports",
@@ -4226,7 +4226,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11129"
+     "v": "N-11047"
     },
     {
      "k": "Tags",
@@ -4350,7 +4350,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10113"
+     "v": "N-10109"
     },
     {
      "k": "Supports",
@@ -4418,7 +4418,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10113"
+     "v": "N-10109"
     },
     {
      "k": "Supports",
@@ -4486,7 +4486,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10415, N-10000"
+     "v": "N-10388, N-10000"
     },
     {
      "k": "Supports",
@@ -4554,7 +4554,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11129"
+     "v": "N-11047"
     },
     {
      "k": "Tags",
@@ -4618,7 +4618,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10857"
+     "v": "N-10778"
     },
     {
      "k": "Tags",
@@ -4682,7 +4682,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10857"
+     "v": "N-10778"
     },
     {
      "k": "Tags",
@@ -4746,7 +4746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10857"
+     "v": "N-10778"
     },
     {
      "k": "Tags",
@@ -4810,7 +4810,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10856"
+     "v": "N-10777"
     },
     {
      "k": "Tags",
@@ -4874,7 +4874,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11130"
+     "v": "N-11048"
     },
     {
      "k": "Tags",
@@ -5118,7 +5118,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11129"
+     "v": "N-11047"
     },
     {
      "k": "Tags",
@@ -5302,7 +5302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11131"
+     "v": "N-11049"
     },
     {
      "k": "Tags",
@@ -5490,7 +5490,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10857, N-10113"
+     "v": "N-10778, N-10109"
     },
     {
      "k": "Tags",
@@ -5674,7 +5674,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Supports",
@@ -5802,7 +5802,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Supports",
@@ -5874,7 +5874,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Tags",
@@ -5938,7 +5938,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10858"
+     "v": "N-10779"
     },
     {
      "k": "Tags",
@@ -6002,7 +6002,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Tags",
@@ -6066,7 +6066,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10694, N-10505"
+     "v": "N-10632, N-10466"
     },
     {
      "k": "Tags",
@@ -6130,7 +6130,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905, N-10968, N-10505"
+     "v": "N-10826, N-10889, N-10466"
     },
     {
      "k": "Supports",
@@ -6198,7 +6198,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10968"
+     "v": "N-10889"
     },
     {
      "k": "Tags",
@@ -6262,7 +6262,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10905, N-10505"
+     "v": "N-10826, N-10466"
     },
     {
      "k": "Supports",
@@ -6330,7 +6330,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Tags",
@@ -6394,7 +6394,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Tags",
@@ -6458,7 +6458,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Supports",
@@ -6526,7 +6526,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447, N-10505"
+     "v": "N-10416, N-10466"
     },
     {
      "k": "Tags",
@@ -6590,7 +6590,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Tags",
@@ -6654,7 +6654,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10403"
+     "v": "N-10376"
     },
     {
      "k": "Tags",
@@ -6718,7 +6718,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10403"
+     "v": "N-10376"
     },
     {
      "k": "Qualifies",
@@ -6786,7 +6786,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10403"
+     "v": "N-10376"
     },
     {
      "k": "Qualifies",
@@ -6914,7 +6914,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11132"
+     "v": "N-11050"
     },
     {
      "k": "Supports",
@@ -6982,7 +6982,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11132"
+     "v": "N-11050"
     },
     {
      "k": "Tags",
@@ -7046,7 +7046,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11132"
+     "v": "N-11050"
     },
     {
      "k": "Tags",
@@ -7110,7 +7110,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -7354,7 +7354,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10324"
+     "v": "N-10303"
     },
     {
      "k": "Tags",
@@ -7418,7 +7418,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10324"
+     "v": "N-10303"
     },
     {
      "k": "Supports",
@@ -7546,7 +7546,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10962"
+     "v": "N-10883"
     },
     {
      "k": "Tags",
@@ -7610,7 +7610,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10962"
+     "v": "N-10883"
     },
     {
      "k": "Tags",
@@ -7734,7 +7734,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11133"
+     "v": "N-11051"
     },
     {
      "k": "Tags",
@@ -7798,7 +7798,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11133"
+     "v": "N-11051"
     },
     {
      "k": "Qualifies",
@@ -7866,7 +7866,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11133"
+     "v": "N-11051"
     },
     {
      "k": "Tags",
@@ -7930,7 +7930,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -7994,7 +7994,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10539, N-11128"
+     "v": "N-10494, N-11046"
     },
     {
      "k": "Tags",
@@ -8058,7 +8058,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10539, N-11128"
+     "v": "N-10494, N-11046"
     },
     {
      "k": "Tags",
@@ -8122,7 +8122,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8186,7 +8186,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10063"
+     "v": "N-10060"
     },
     {
      "k": "Tags",
@@ -8250,7 +8250,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10324"
+     "v": "N-10303"
     },
     {
      "k": "Tags",
@@ -8378,7 +8378,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8442,7 +8442,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Qualifies",
@@ -8510,7 +8510,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8574,7 +8574,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8638,7 +8638,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8702,7 +8702,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10451"
+     "v": "N-10420"
     },
     {
      "k": "Tags",
@@ -8766,7 +8766,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8830,7 +8830,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11128"
+     "v": "N-11046"
     },
     {
      "k": "Tags",
@@ -8958,7 +8958,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10436, N-10000"
+     "v": "N-10405, N-10000"
     },
     {
      "k": "Supports",
@@ -9026,7 +9026,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10436, N-10000"
+     "v": "N-10405, N-10000"
     },
     {
      "k": "Supports",
@@ -9094,7 +9094,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Tags",
@@ -9158,7 +9158,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10505"
+     "v": "N-10466"
     },
     {
      "k": "Tags",
@@ -9222,7 +9222,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10209"
+     "v": "N-10201"
     },
     {
      "k": "Tags",
@@ -9286,7 +9286,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10063, N-10209"
+     "v": "N-10060, N-10201"
     },
     {
      "k": "Tags",
@@ -9410,7 +9410,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-11072"
+     "v": "N-10000, N-10990"
     },
     {
      "k": "Tags",
@@ -9474,7 +9474,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10406"
+     "v": "N-10379"
     },
     {
      "k": "Tags",
@@ -9867,7 +9867,7 @@
     "- **Claim failed admission test – Framing Premise:** \"I believe that Charlie Kirk was the first casualty of the war in Iran\" (host framing premise, not artifact-anchored in this episode).",
     "- **Claim failed admission test – Framing Premise:** \"He was betrayed. Charlie Kirk was the first casualty of the war in Iran. I'm certain of that\" (host framing premise).",
     "- **Claim failed admission test – Framing Premise:** \"It's my belief… that he was intentionally sacrificed\" (host framing premise, supported only by analogy to A-2439.1, not by direct evidence).",
-    "- **Claim failed admission test – Speculation / Interpretive Commentary:** \"Charlie was indeed seated in the center of a pentagon when he was killed\" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-10856).",
+    "- **Claim failed admission test – Speculation / Interpretive Commentary:** \"Charlie was indeed seated in the center of a pentagon when he was killed\" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-10777).",
     "- **Claim failed admission test – Speculation:** \"Only a psychopath could… offer a raise to Dan Flood… and give an in-home interview to the New York Times\" (host psychological inference; no artifact shown in this episode).",
     "",
     "---",
@@ -9896,9 +9896,9 @@
     "**New Nodes Introduced:**",
     "- N-324 Father Ripperger",
     "- N-277 Tim Dillon",
-    "- N-10856 Pentagon Seating Geometry Claim (investigation target)",
-    "- N-10857 \"Freemason Bible\" Document Authentication (investigation target)",
-    "- N-10858 Erika Kirk Presidential Viability Narrative (investigation target)",
+    "- N-10777 Pentagon Seating Geometry Claim (investigation target)",
+    "- N-10778 \"Freemason Bible\" Document Authentication (investigation target)",
+    "- N-10779 Erika Kirk Presidential Viability Narrative (investigation target)",
     "",
     "**Existing Nodes Reused (illustrative):**",
     "- N-1 Charlie Kirk",

@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-933, N-934, N-935, N-936, N-11389, N-11390
-  - Hole-minted Nodes (reintro-ep067): N-10480, N-10701
-  - Tip-minted Nodes (reintro-ep067): N-689, N-816, N-11351
+  - Tip-minted Nodes (supplement_2026-10g): N-933, N-934, N-935, N-936, N-11305, N-11306
+  - Hole-minted Nodes (reintro-ep067): N-10447, N-10638
+  - Tip-minted Nodes (reintro-ep067): N-689, N-816, N-11267
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5979–C-6081
-  - New Nodes Introduced: N-519, N-522, N-523, N-524, N-525, N-527, N-528, N-530, N-531, N-533, N-534, N-535, N-10470, N-10471, N-10473, N-10474, N-10475, N-10476
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-521, N-532, N-529, N-10472, N-520, N-36, N-69, N-82, N-164, N-178, N-226, N-298, N-579, N-611, N-770, N-791, N-792, N-843, N-10000, N-10006, N-10014, N-10015, N-10023, N-10075, N-10117, N-10122, N-10169, N-10187, N-10198, N-10268, N-10270, N-10324, N-10340, N-10397, N-10414, N-10417, N-10493, N-10694, N-11011, N-11029, N-11130, N-11153, N-11156
+  - New Nodes Introduced: N-519, N-522, N-523, N-524, N-525, N-527, N-528, N-530, N-531, N-533, N-534, N-535, N-10439, N-10440, N-10441, N-10442, N-10443, N-10444
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-521, N-532, N-529, N-10390, N-520, N-36, N-69, N-82, N-164, N-178, N-226, N-298, N-579, N-611, N-770, N-791, N-792, N-843, N-10000, N-10006, N-10014, N-10015, N-10023, N-10072, N-10113, N-10117, N-10162, N-10179, N-10190, N-10252, N-10254, N-10303, N-10318, N-10370, N-10387, N-10280, N-10632, N-10931, N-10948, N-11048, N-11069, N-11072
   - (see registers)
 
 ## I. Meta-Data
@@ -36,7 +36,7 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1714, A-1715, A-1716, A-1717, A-1718, A-1719, A-1720, A-1721, A-1722, A-1723, A-1724, A-1725
   - New People Nodes Introduced: N-50 through N-48
-  - New Investigation Target Nodes Introduced: N-10470 through N-10476
+  - New Investigation Target Nodes Introduced: N-10439 through N-10444
   - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
@@ -159,7 +159,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Hammer on camera; direct claim)
 
-*Related: C-6039, C-6040, N-1, N-14, N-10473*
+*Related: C-6039, C-6040, N-1, N-14, N-10441*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:47:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Turek on camera; named show)
 
-*Related: C-6062, C-6063, N-1, N-7, N-10473*
+*Related: C-6062, C-6063, N-1, N-7, N-10441*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced; not shown)
 
-*Related: C-6046, N-1, N-10473*
+*Related: C-6046, N-1, N-10441*
 
 ---
 
@@ -267,7 +267,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:45
 Confidence Level: Medium (source unnamed; testimony attributed)
 
-*Related: C-6053, C-6052, N-2, N-270, N-10470*
+*Related: C-6053, C-6052, N-2, N-270, N-10439*
 
 **A-1726.2** Host-testimony claim that a neighbor resident confirmed seeing Charlie Kirk on a walk with a tall unrecognized person (not Frank Turek), and confirmed seeing Charlie in an elevator on September 9
 
@@ -276,7 +276,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:34
 Confidence Level: Medium (source unnamed)
 
-*Related: C-6064, N-1, N-7, N-10476*
+*Related: C-6064, N-1, N-7, N-10444*
 
 ---
 
@@ -376,7 +376,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High (central to J.D. Vance / Peter Thiel / Susan Hamblin sub-investigations)
 
-*Related: A-1715.1, A-1716.1, A-1720.1, C-5987, C-6002, C-6003, C-6019, N-521, N-4, N-523, N-525, N-182, N-47, N-528, N-529, N-48, N-10474*
+*Related: A-1715.1, A-1716.1, A-1720.1, C-5987, C-6002, C-6003, C-6019, N-521, N-4, N-523, N-525, N-182, N-47, N-528, N-529, N-48, N-10442*
 
 **N-521** Peter Thiel
 
@@ -387,7 +387,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High (J.D. Vance implications central to Bride of Charlie political exposure claim)
 
-*Related: A-1715.1, A-1720.1, C-6019, C-6020, N-4, N-527, N-10475*
+*Related: A-1715.1, A-1720.1, C-6019, C-6020, N-4, N-527, N-10443*
 
 **N-4** JD Vance
 
@@ -398,7 +398,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1715.1, N-521, N-10475*
+*Related: A-1715.1, N-521, N-10443*
 
 **N-97** Ben Shapiro
 
@@ -497,7 +497,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High (directly affects Charlie Kirk timeline)
 
-*Related: A-1722.2, C-6062, C-6063, N-1, N-10473, N-10476*
+*Related: A-1722.2, C-6062, C-6063, N-1, N-10441, N-10444*
 
 **N-14** Andrew Kolvet
 
@@ -508,7 +508,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-6052, N-270, N-1, N-10473*
+*Related: A-1726.1, C-6052, N-270, N-1, N-10441*
 
 **N-270** Dan Flood
 
@@ -519,7 +519,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-6053, C-6052, N-2, N-14, N-10470, N-10473*
+*Related: A-1726.1, C-6053, C-6052, N-2, N-14, N-10439, N-10441*
 
 **N-98** Robert Shillman
 Jewish donor; per host, withdrew financial support from Charlie Kirk on Sept 9 amid the pro-Israel text exchange.
@@ -529,7 +529,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-6040, N-1, N-10473*
+*Related: C-6040, N-1, N-10441*
 
 **N-527** Reid Hoffman
 
@@ -688,7 +688,7 @@ Referenced in alibi and Dan Flood message disputes.
 
 ### Investigation Target Nodes (new)
 
-**N-10470** Dan Flood Message Format Discrepancy
+**N-10439** Dan Flood Message Format Discrepancy
 
 Persistent inconsistency between Erika Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 "they're going to kill me" text.
 
@@ -699,7 +699,7 @@ Investigative Pressure: High
 
 *Related: A-1726.1, C-6053, C-6052, N-2, N-270*
 
-**N-10471** Erika Kirk Sept 10 Alibi Verification
+**N-10440** Erika Kirk September 10 Whereabouts Verification
 
 Host's claim that no one in Erika Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.
 
@@ -708,20 +708,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.2, C-6064, N-2, N-10472*
+*Related: A-1726.2, C-6064, N-2, N-10390*
 
-**N-10472** Fort Huachuca Alibi Investigation
-
-Persistent target: host reports "major problems" verifying Erika Kirk's Fort Huachuca alibi; details pending.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: N-2, N-10471*
-
-**N-10473** Charlie Kirk Sept 8–10 Timeline Reconstruction
+**N-10441** Charlie Kirk Sept 8–10 Timeline Reconstruction
 
 Persistent target for assembling verified public statements about Charlie Kirk's whereabouts Sept 8–10. Affected by Josh Hammer correction (Sept 9 text vs Sept 8), Sept 9 Zoom call, dinner with priest, "kill me" text, and Frank Turek's Sept 8 walk account.
 
@@ -732,7 +721,7 @@ Investigative Pressure: High
 
 *Related: A-1721.1, A-1722.2, A-1724.1, A-1726.2, C-6039, C-6040, C-6062, C-6063, C-6052, C-6064, C-6046, N-1, N-14, N-7, N-270, N-98*
 
-**N-10474** Peter Thiel–Epstein Relationship Documentation
+**N-10442** Peter Thiel–Epstein Relationship Documentation
 
 Persistent target: amount and content of Thiel's email exchanges with Epstein per released documents.
 
@@ -743,7 +732,7 @@ Investigative Pressure: High
 
 *Related: A-1715.1, A-1720.1, C-5987, C-6019, C-6020, N-9, N-521, N-527*
 
-**N-10475** J.D. Vance–Peter Thiel Political Exposure
+**N-10443** J.D. Vance–Peter Thiel Political Exposure
 
 Persistent target: whether and how Peter Thiel's Epstein emails affect J.D. Vance politically (per host's claim that this is "plausibly the biggest scandal to come out of the emails").
 
@@ -754,7 +743,7 @@ Investigative Pressure: High
 
 *Related: A-1715.1, N-521, N-4*
 
-**N-10476** Charlie Kirk Sept 8 Walk Companion Identification
+**N-10444** Charlie Kirk Sept 8 Walk Companion Identification
 
 Persistent target: whether Charlie Kirk's Sept 8 walk at ~8 PM was with Frank Turek, an unrecognized tall person, or both (sequentially). Neighbor testimony to host suggests second possibility.
 
@@ -799,7 +788,7 @@ First named by the host at 00:41:12 in episode 67. Fox News host whose show Char
 
 ---
 
-**N-11389** Palantir Technologies
+**N-11305** Palantir Technologies
 
 Node Type: Organization
 Data-analytics and defense contractor tied to Peter Thiel; the host says Palantir staff were put onto Fort Huachuca in July.
@@ -808,7 +797,7 @@ Data-analytics and defense contractor tied to Peter Thiel; the host says Palanti
 
 ---
 
-**N-11390** Kolvet and McCoy White House Meeting (Late January 2026)
+**N-11306** Kolvet and McCoy White House Meeting (Late January 2026)
 
 Node Type: Topic
 The host's claim that Andrew Kolvet, Mikey McCoy and his wife met the White House on the Thursday before this episode while the public was led to believe they were in Arizona.
@@ -1009,7 +998,7 @@ Persistent target for the Mossad-Epstein claims.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Venue of the alleged late-January meeting.
 
@@ -1017,7 +1006,7 @@ Venue of the alleged late-January meeting.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 The curse article and priest prayer account.
 
@@ -1025,7 +1014,7 @@ The curse article and priest prayer account.
 
 ---
 
-**N-10122** Jezebel
+**N-10117** Jezebel
 
 Publisher of the witch's curse article.
 
@@ -1033,7 +1022,7 @@ Publisher of the witch's curse article.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Zoom call verification target.
 
@@ -1041,7 +1030,7 @@ Zoom call verification target.
 
 ---
 
-**N-10187** Josh Hammer Text Messages Context
+**N-10179** Josh Hammer Text Messages Context
 
 Hammer's account of the screenshot.
 
@@ -1049,7 +1038,7 @@ Hammer's account of the screenshot.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Mikey McCoy's sightings versus Erika's.
 
@@ -1057,7 +1046,7 @@ Mikey McCoy's sightings versus Erika's.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 AmFest event context.
 
@@ -1065,7 +1054,7 @@ AmFest event context.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Macron lawsuit context.
 
@@ -1073,7 +1062,7 @@ Macron lawsuit context.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Persistent target for the file releases.
 
@@ -1081,7 +1070,7 @@ Persistent target for the file releases.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 The kill-me message.
 
@@ -1089,7 +1078,7 @@ The kill-me message.
 
 ---
 
-**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
+**N-10370** Charlie Kirk Korea Trip / Pastor Yoon Connection
 
 Kirk's Korea trip.
 
@@ -1097,7 +1086,7 @@ Kirk's Korea trip.
 
 ---
 
-**N-10414** CERN Satantic Ritual Claim
+**N-10387** CERN Satantic Ritual Claim
 
 CERN ritual claim.
 
@@ -1105,7 +1094,7 @@ CERN ritual claim.
 
 ---
 
-**N-10417** Fort Huachuca Erika Presence Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused.
 
@@ -1113,7 +1102,7 @@ Existing topic reused.
 
 ---
 
-**N-10480** Nimrod / Gilgamesh Remains Extraction Question
+**N-10447** Nimrod / Gilgamesh Remains Extraction Question
 
 Gilgamesh topic.
 
@@ -1121,7 +1110,7 @@ Gilgamesh topic.
 
 ---
 
-**N-10493** Pierre / French Donor Investigation
+**N-10280** Pierre Dupont Donor Identity Verification Question
 
 Existing topic reused.
 
@@ -1129,7 +1118,7 @@ Existing topic reused.
 
 ---
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Existing topic reused.
 
@@ -1137,7 +1126,7 @@ Existing topic reused.
 
 ---
 
-**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
+**N-10638** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Kolvet and Patel context.
 
@@ -1145,7 +1134,7 @@ Kolvet and Patel context.
 
 ---
 
-**N-11011** Macron Cease and Desist and Legal Timeline
+**N-10931** Macron Cease and Desist and Legal Timeline
 
 Macron legal fight.
 
@@ -1153,7 +1142,7 @@ Macron legal fight.
 
 ---
 
-**N-11029** CERN
+**N-10948** CERN
 
 CERN organization.
 
@@ -1161,7 +1150,7 @@ CERN organization.
 
 ---
 
-**N-11130** B'nai B'rith
+**N-11048** B'nai B'rith
 
 Organization named in the host's claims.
 
@@ -1169,7 +1158,7 @@ Organization named in the host's claims.
 
 ---
 
-**N-11153** Anti-Defamation League
+**N-11069** Anti-Defamation League
 
 ADL origin claim.
 
@@ -1177,7 +1166,7 @@ ADL origin claim.
 
 ---
 
-**N-11156** Leo Frank Case and ADL Origin Claim
+**N-11072** Leo Frank Case and ADL Origin Claim
 
 ADL origin claim.
 
@@ -1185,7 +1174,7 @@ ADL origin claim.
 
 ---
 
-**N-11351** Salem Media Group
+**N-11267** Salem Media Group
 
 Network of the Charlie Kirk Show.
 
@@ -1414,7 +1403,7 @@ Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to aband
 Anchored Artifacts: A-1721.1
 Mentions: N-55, N-1, N-3
 
-Related Nodes: N-10473
+Related Nodes: N-10441
 
 Investigative Direction: Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.
 
@@ -1429,7 +1418,7 @@ Claim: In a clip the host plays, Josh Hammer says that approximately two hours a
 Anchored Artifacts: A-1721.1
 Mentions: N-55, N-1
 
-Related Nodes: N-10473
+Related Nodes: N-10441
 
 Investigative Direction: Identify the other Zoom participants; cross-check against calendar records; obtain the "rabbi in Israel" identity.
 
@@ -1444,7 +1433,7 @@ Claim: In a clip of the Megyn Kelly Show that the host plays, Frank Turek says h
 Anchored Artifacts: A-1722.2
 Mentions: N-7, N-1
 
-Related Nodes: N-10473, N-10476
+Related Nodes: N-10441, N-10444
 
 Investigative Direction: Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts.
 
@@ -1459,7 +1448,7 @@ Claim: In a clip of the Megyn Kelly Show that the host plays, Frank Turek says C
 Anchored Artifacts: A-1722.2
 Mentions: N-7, N-1
 
-Related Nodes: N-10473
+Related Nodes: N-10441
 
 Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erika Kirk's location claims.
 
@@ -1488,7 +1477,7 @@ Claim: Per Candace Owens's source (described as having had access to Dan Flood's
 Anchored Artifacts: A-1726.1
 Mentions: N-270, N-2, N-3
 
-Related Nodes: N-10470
+Related Nodes: N-10439
 
 Investigative Direction: Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).
 
@@ -1503,7 +1492,7 @@ Claim: Per Candace Owens's source, the "they're going to kill me" text Charlie K
 Anchored Artifacts: A-1726.1
 Mentions: N-14, N-270, N-1, N-3
 
-Related Nodes: N-10473
+Related Nodes: N-10441
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.
 
@@ -1518,7 +1507,7 @@ Claim: Per Candace Owens's source (a resident of the Kirks' building), a neighbo
 Anchored Artifacts: A-1726.2
 Mentions: N-7, N-1, N-3
 
-Related Nodes: N-10476
+Related Nodes: N-10444
 
 Investigative Direction: Identify the neighbor; obtain written statement; review building security camera footage if available.
 
@@ -1603,7 +1592,7 @@ Claim: The host says Erika told her Charlie had dinner with the family and a pri
 Anchored Artifacts: A-1724.1 (verbally referenced; not displayed)
 Mentions: N-1, N-2
 
-Related Nodes: N-10473
+Related Nodes: N-10441
 
 Investigative Direction: Locate the Jezebel article; verify date and content.
 
@@ -1723,7 +1712,7 @@ Transcript Snippet: Ulysses S. Grant notoriously expelled Jews from his military
 
 Anchored Artifacts: 
 Mentions: N-3, N-933
-Related Nodes: N-11130
+Related Nodes: N-11048
 Tags: relevance:tangential
 Investigative Direction: Check General Orders No. 11 (Dec. 1862), which Lincoln revoked; no source ties the order to B'nai B'rith lodge planning.
 
@@ -1739,7 +1728,7 @@ Transcript Snippet: Um that then subsequently became the ADL after the ritualist
 
 Anchored Artifacts: 
 Mentions: N-3, N-792
-Related Nodes: N-11130, N-11153, N-11156
+Related Nodes: N-11048, N-11069, N-11072
 Tags: relevance:tangential
 Investigative Direction: The ADL was founded by B'nai B'rith in 1913 after the Leo Frank trial; Phagan was a Protestant (not Catholic) factory worker. No evidence of a ritual murder exists; check the Frank case record and the 1986 Alonzo Mann/Georgia pardon history.
 
@@ -1770,7 +1759,7 @@ Transcript Snippet: The Rothschild family paid Epstein $25 million for certain a
 
 Anchored Artifacts: A-1715.1
 Mentions: N-9, N-520
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Search the DOJ Epstein email release for a payment from a Rothschild entity and any algorithm or risk-model consulting arrangement.
 
@@ -1786,7 +1775,7 @@ Transcript Snippet: In a discussion with the Rothschild family, Epstein says if 
 
 Anchored Artifacts: A-1715.1
 Mentions: N-9, N-520
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Locate the underlying email (sender, recipient, date, context) in the DOJ release and read it unredacted.
 
@@ -1802,7 +1791,7 @@ Transcript Snippet: While talking to Peggy Siegal August 7th of 2010, she asks i
 
 Anchored Artifacts: A-1715.1
 Mentions: N-9, N-934
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Locate the August 7, 2010 Siegal-Epstein exchange in the DOJ release and confirm the wording.
 
@@ -1818,7 +1807,7 @@ Transcript Snippet: In 2017, Epstein has a conversation talking about if you wan
 
 Anchored Artifacts: A-1715.1
 Mentions: N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Locate the 2017 email or message in the DOJ release and confirm sender, recipient and wording.
 
@@ -1834,7 +1823,7 @@ Transcript Snippet: Uh Ben Shapiro's family ancestors, B'nai B'rith, okay? Bari 
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-278
-Related Nodes: N-11130
+Related Nodes: N-11048
 Tags: relevance:tangential
 Investigative Direction: No source is cited; check public genealogy of both people before treating as fact. Treat as a sweeping group claim.
 
@@ -1866,7 +1855,7 @@ Transcript Snippet: What are we to make of these 900-plus emails referring to pi
 
 Anchored Artifacts: 
 Mentions: N-3, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Run a text search of the DOJ Epstein release for 'pizza' and count and read the hits in context.
 
@@ -1882,7 +1871,7 @@ Transcript Snippet: Todd Blanche has already come out and said that they're spar
 
 Anchored Artifacts: 
 Mentions: N-3, N-535
-Related Nodes: N-10324
+Related Nodes: N-10303
 Supports: C-6005
 Tags: relevance:context
 Investigative Direction: Find Blanche's actual public statement on withheld videos and compare its wording with the host's inference.
@@ -1948,7 +1937,7 @@ Transcript Snippet: But, the point is is Jay-Z was mentioned here and uh it was 
 
 Anchored Artifacts: 
 Mentions: N-3, N-523, N-226, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:tangential
 Investigative Direction: Locate the email in the DOJ release, check its provenance (original Epstein file or later FBI tip) and whether Jay-Z is a named participant.
 
@@ -1964,7 +1953,7 @@ Transcript Snippet: even when we showed you the CERN activity that was happening
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10414, N-11029
+Related Nodes: N-10387, N-10948
 Tags: relevance:tangential
 Investigative Direction: Find CERN's 2016 statement about the staged 'sacrifice' video (a spoof by CERN staff) and compare with the host's description.
 
@@ -1995,7 +1984,7 @@ Transcript Snippet: which is why it was super interesting to see them sort of th
 
 Anchored Artifacts: 
 Mentions: N-3, N-521
-Related Nodes: N-10474, N-10324
+Related Nodes: N-10442, N-10303
 Tags: relevance:context
 Investigative Direction: Compare which Thiel-Epstein emails were in the release versus withheld or redacted; identify who 'them' is.
 
@@ -2011,7 +2000,7 @@ Transcript Snippet: but everyone knows that Peter Thiel effectively funded J. D.
 
 Anchored Artifacts: 
 Mentions: N-3, N-521, N-4
-Related Nodes: N-10475
+Related Nodes: N-10443
 Tags: relevance:context
 Investigative Direction: Check Vance's 2022 Senate campaign filings for Thiel contributions (about $15 million via Protect Ohio Values) and the production credits for the Hillbilly Elegy film.
 
@@ -2027,7 +2016,7 @@ Transcript Snippet: I think this is plausibly the biggest scandal to come out of
 
 Anchored Artifacts: 
 Mentions: N-3, N-521, N-4
-Related Nodes: N-10475, N-10474
+Related Nodes: N-10443, N-10442
 Tags: relevance:context
 Investigative Direction: Read the Thiel-Epstein email thread in the release and track Vance's or Thiel's responses.
 
@@ -2043,7 +2032,7 @@ Transcript Snippet: And so but you know, you you assume um he didn't go to jail 
 
 Anchored Artifacts: A-1720.1
 Mentions: N-521, N-9, N-268
-Related Nodes: N-10474
+Related Nodes: N-10442
 Tags: relevance:context
 Investigative Direction: Compare against Thiel's email record with Epstein and public details of the 2008 Florida plea deal.
 
@@ -2059,7 +2048,7 @@ Transcript Snippet: he was emailing Jeffrey Epstein a lot, meeting up with him a
 
 Anchored Artifacts: A-1720.1
 Mentions: N-3, N-521, N-9
-Related Nodes: N-10474
+Related Nodes: N-10442
 Tags: relevance:context
 Investigative Direction: Count and date the Thiel-Epstein emails in the release and identify which island is meant.
 
@@ -2075,7 +2064,7 @@ Transcript Snippet: He also had Palantir boys were put onto Fort Huachuca airbas
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11389, N-10472
+Related Nodes: N-11305, N-10390
 Tags: relevance:context
 Investigative Direction: Look for Army/Fort Huachuca Palantir contracts, delivery orders or press releases in June-July 2025 and the base's public affairs notices.
 
@@ -2106,7 +2095,7 @@ Transcript Snippet: And I don't think he is going to make a statement on Peter T
 
 Anchored Artifacts: 
 Mentions: N-3, N-4, N-521
-Related Nodes: N-10475
+Related Nodes: N-10443
 Tags: relevance:context
 Investigative Direction: Monitor Vance's public statements after the January 2026 releases for any comment on Thiel.
 
@@ -2122,7 +2111,7 @@ Transcript Snippet: He's setting up meetings. Bibi Netanyahu, Ehud Barak's all o
 
 Anchored Artifacts: 
 Mentions: N-3, N-9, N-36, N-816, N-48, N-178
-Related Nodes: N-10324, N-10023
+Related Nodes: N-10303, N-10023
 Tags: relevance:context
 Investigative Direction: Search the release for Netanyahu, Barak and Robert Maxwell references and read the surrounding threads.
 
@@ -2138,7 +2127,7 @@ Transcript Snippet: I also expected to see uh some other names which would bring
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:core
 Investigative Direction: Ask the host which names she expected and why; check any Epstein-release names that overlap with the Kirk investigation.
 
@@ -2154,7 +2143,7 @@ Transcript Snippet: that's why Thomas Massie is demanding for there to be more r
 
 Anchored Artifacts: 
 Mentions: N-3, N-579
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Find Massie's statements, letters or floor actions on Epstein file release in late January 2026.
 
@@ -2170,7 +2159,7 @@ Transcript Snippet: last week on Thursday, the timing of this is incredible, but
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-190
-Related Nodes: N-11390, N-10075, N-10701
+Related Nodes: N-11306, N-10072, N-10638
 Tags: relevance:core
 Investigative Direction: Request White House visitor logs for late January 2026 and ask TPUSA for the meeting purpose; check the names as transcribed (see Doubts).
 
@@ -2186,7 +2175,7 @@ Transcript Snippet: They ran this interview with Kash Patel on Charlie Kirk's sh
 
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-1, N-14
-Related Nodes: N-11390, N-10701
+Related Nodes: N-11306, N-10638
 Tags: relevance:core
 Investigative Direction: Compare the air date and time of the Patel episode with the White House meeting date; check the show's published run-of-show.
 
@@ -2202,7 +2191,7 @@ Transcript Snippet: There's a lot about um uh pageantry in these emails. It seem
 
 Anchored Artifacts: 
 Mentions: N-3, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Search the release for Miss Universe, Miss USA and pageant-related threads and the people named.
 
@@ -2218,7 +2207,7 @@ Transcript Snippet: They were trafficking through these organizations. We know t
 
 Anchored Artifacts: 
 Mentions: N-3, N-529, N-9, N-5
-Related Nodes: N-10324
+Related Nodes: N-10303
 Supports: C-5213
 Tags: relevance:context
 Investigative Direction: Check Brunel's 2020 French investigation record and the unredacted release for pageant names.
@@ -2235,7 +2224,7 @@ Transcript Snippet: she made it clear that uh she first and foremost wants Shady
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-4
-Related Nodes: N-10268
+Related Nodes: N-10252
 Tags: relevance:context
 Investigative Direction: Review the AmFest (December 2025) program and Erika Kirk's remarks on 2028; the name 'Shady Vance' is as transcribed (see Doubts).
 
@@ -2251,7 +2240,7 @@ Transcript Snippet: And we have been working to verify her Fort Huachuca alibi.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10472, N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Follow the later episodes in which the host details the alibi problems; obtain the alibi's claimed dates, location and witnesses.
 
@@ -2267,7 +2256,7 @@ Transcript Snippet: Do you guys ever wonder why Hillary Clinton in those WikiLea
 
 Anchored Artifacts: 
 Mentions: N-3, N-533
-Related Nodes: N-10480
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: Search the WikiLeaks Clinton emails for 'Gilgamesh'; the Iraq invasion was in March 2003 and Clinton's State Dept. emails date from 2009 onward, so the timing is doubtful.
 
@@ -2329,7 +2318,7 @@ Transcript Snippet: Candace Owens seized on this totally out of context screensh
 
 Anchored Artifacts: A-1721.1
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10187
+Related Nodes: N-10179
 Supports: C-1975
 Tags: relevance:core
 Investigative Direction: Compare Hammer's description with the full chat screenshot and its timestamps.
@@ -2361,7 +2350,7 @@ Transcript Snippet: we know, which I've been able to confirm, that Charlie had a
 
 Anchored Artifacts: A-3310.1
 Mentions: N-3, N-1, N-936
-Related Nodes: N-10473
+Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Get the Fox News air log or video of the Will Cain Show appearance and its origin location.
 
@@ -2377,7 +2366,7 @@ Transcript Snippet: Again, this is according to Josh Hammer cuz he says 2 hours 
 
 Anchored Artifacts: A-3310.1
 Mentions: N-3, N-1, N-55, N-164
-Related Nodes: N-10473, N-10169
+Related Nodes: N-10441, N-10162
 Supports: C-6040
 Tags: relevance:core
 Investigative Direction: Obtain the chat screenshot metadata, Hammer's calendar or Zoom logs, and Kirk's phone records for September 9.
@@ -2394,7 +2383,7 @@ Transcript Snippet: That she was getting her nails done around this time. That's
 
 Anchored Artifacts: A-3310.1
 Mentions: N-3, N-2
-Related Nodes: N-10473
+Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Find the nail salon or appointment record for September 9 and ask Erika which time she meant.
 
@@ -2410,7 +2399,7 @@ Transcript Snippet: He's getting messages from Bob Shillman. Everyone's pulling 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-98
-Related Nodes: N-10473
+Related Nodes: N-10441
 Supports: C-1975
 Tags: relevance:core
 Investigative Direction: Get Shillman's donation records and the chat export; ask Shillman or TPUSA when funds were withdrawn.
@@ -2427,7 +2416,7 @@ Transcript Snippet: And then we know that after that, he's going to have dinner 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10117, N-10122, N-10473
+Related Nodes: N-10113, N-10117, N-10441
 Supports: C-5409
 Tags: relevance:core
 Investigative Direction: Identify the priest and ask for his account; compare with the earlier Megyn Kelly report of a priest praying over the Kirks.
@@ -2444,7 +2433,7 @@ Transcript Snippet: He's in the chat. He's saying, "I want Candace back." Confir
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10473
+Related Nodes: N-10441
 Supports: C-718
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and the recipients of the separate messages; ask the host for the names of the recipients.
@@ -2461,7 +2450,7 @@ Transcript Snippet: He ends this call. He has to have dinner in this hour, which
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-14, N-270
-Related Nodes: N-10473, N-10340
+Related Nodes: N-10441, N-10318
 Supports: C-1559
 Tags: relevance:core
 Investigative Direction: Establish the timestamp of the 'kill me' message and of the dinner from device records and witnesses.
@@ -2478,7 +2467,7 @@ Transcript Snippet: First she said, "Oh, he never texted D- he never texted Dan 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-270, N-14
-Related Nodes: N-10470, N-10340
+Related Nodes: N-10439, N-10318
 Supports: C-3768
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's original public or private statement denying the message and the date it was made.
@@ -2495,7 +2484,7 @@ Transcript Snippet: First she said it didn't exist, then she said maybe it did e
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-270
-Related Nodes: N-10470
+Related Nodes: N-10439
 Supports: C-6053
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's statement about the Telegram chat and Dan Flood's device logs; compare with the source's iMessage claim.
@@ -2512,7 +2501,7 @@ Transcript Snippet: Charlie appears from his home studio. Again, this is all ref
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-1
-Related Nodes: N-11351, N-10473
+Related Nodes: N-11267, N-10441
 Tags: relevance:core
 Investigative Direction: Get the Salem Network broadcast log and the episode's recorded origin metadata for September 8.
 
@@ -2528,7 +2517,7 @@ Transcript Snippet: Makes sense cuz he had just gotten back late late late the n
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-1
-Related Nodes: N-10397, N-10473
+Related Nodes: N-10370, N-10441
 Tags: relevance:core
 Investigative Direction: Get the flight records and landing time for Kirk's return from Korea; compare with the host's earlier statements about his Asia trip dates.
 
@@ -2544,7 +2533,7 @@ Transcript Snippet: She said she woke him up from a nap for his Fox News hit. Ag
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10006, N-10473
+Related Nodes: N-10006, N-10441
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News booking record and the time of the segment.
 
@@ -2560,7 +2549,7 @@ Transcript Snippet: Then we know Charlie Kirk appears from his home studio on th
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-1, N-689
-Related Nodes: N-10006, N-10473
+Related Nodes: N-10006, N-10441
 Tags: relevance:core
 Investigative Direction: Get the air date and origin location of the segment from Fox News.
 
@@ -2576,7 +2565,7 @@ Transcript Snippet: Uh this is also the day that the article appears in Jezebel 
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-1
-Related Nodes: N-10117, N-10122
+Related Nodes: N-10113, N-10117
 Tags: relevance:core
 Investigative Direction: Check the Jezebel article's publication date and time; the priest dinner is placed on September 9 elsewhere.
 
@@ -2592,7 +2581,7 @@ Transcript Snippet: At 5:24 p. m., Erika's alibi to me was that she was just arr
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-2
-Related Nodes: N-10473
+Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Obtain Erika's stated itinerary for September 8 and any receipts, parking or building access logs.
 
@@ -2608,7 +2597,7 @@ Transcript Snippet: At 6:06 p. m., she texts to Charlie and says dinner is ready
 
 Anchored Artifacts: A-3311.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10473
+Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Obtain the text-message thread for September 8 and its timestamps.
 
@@ -2624,7 +2613,7 @@ Transcript Snippet: they confirmed that they saw Charlie and where they saw Char
 
 Anchored Artifacts: A-1726.2
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10473
+Related Nodes: N-10441
 Tags: relevance:core
 Investigative Direction: Obtain written, named statements from the residents and the building's security and elevator logs for September 8-10.
 
@@ -2640,7 +2629,7 @@ Transcript Snippet: People have said I've seen Mikey McCoy on this date, blah bl
 
 Anchored Artifacts: A-1726.2
 Mentions: N-3, N-2, N-190
-Related Nodes: N-10471, N-10198
+Related Nodes: N-10440, N-10190
 Tags: relevance:core
 Investigative Direction: Canvass building residents and review lobby and garage camera footage for September 10, 2025.
 
@@ -2656,7 +2645,7 @@ Transcript Snippet: She also says that she collapsed in the parking lot. No one 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10471
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the doctor's office and parking lot Erika named and interview staff and patients present on September 10.
 
@@ -2672,7 +2661,7 @@ Transcript Snippet: just giving me a very straightforward alibi and pretending l
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10472, N-10417
+Related Nodes: N-10390
 Tags: relevance:core
 Investigative Direction: Obtain the written alibi instructions and the host's exchange with Erika about Fort Huachuca.
 
@@ -2688,7 +2677,7 @@ Transcript Snippet: I think Charlie was fearful of his life. I don't think it wa
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10117, N-10473
+Related Nodes: N-10113, N-10441
 Tags: relevance:core
 Investigative Direction: Treat as the host's stated belief; test it against the group-chat export and witnesses to Kirk's mood on September 9.
 
@@ -2704,7 +2693,7 @@ Transcript Snippet: It would it would follow that he then sent to Andrew Kolvet 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-14, N-270
-Related Nodes: N-10473, N-10340
+Related Nodes: N-10441, N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the exact wording of the message from Kolvet or Flood; the host's reading of 'they' is her inference and not stated in the message as reported.
@@ -2721,7 +2710,7 @@ Transcript Snippet: And as far as why Erika is lying and covering for Dan Flood,
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-270
-Related Nodes: N-10694, N-10470
+Related Nodes: N-10632, N-10439
 Tags: relevance:core
 Investigative Direction: Compare Erika's statements about the message with Dan Flood's own account and device records.
 
@@ -2753,7 +2742,7 @@ Transcript Snippet: What I told you another confirmed fact with all of these rec
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10493, N-10000
+Related Nodes: N-10280, N-10000
 Supports: C-3475, C-4550
 Tags: relevance:core
 Investigative Direction: Identify the donor and check TPUSA donation records and any press reports tying a Pierre to recent gifts.
@@ -2786,7 +2775,7 @@ Transcript Snippet: Just going to sue me for knowing it. So this is their new th
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-11011, N-10270
+Related Nodes: N-10931, N-10254
 Supports: C-1296
 Tags: relevance:tangential
 Investigative Direction: Check the Delaware docket for Macron v. Owens and its current status.
@@ -2858,7 +2847,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (starting N-50)
-- [x] Non-person investigation targets use the 1000 series (starting N-10470)
+- [x] Non-person investigation targets use the 1000 series (starting N-10439)
 - [x] No speculative claims inscribed as evidence-backed claims (host framing about Baal/Satan/Khazars excluded)
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent across artifact, node, and claim registers

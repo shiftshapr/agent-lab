@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-754, N-11100, N-11101
-  - Hole-minted Nodes (reintro-ep021): N-209, N-329, N-10323, N-10353
+  - Tip-minted Nodes (supplement_2026-10b): N-754, N-11018, N-11019
+  - Hole-minted Nodes (reintro-ep021): N-209, N-329
   - Tip-minted Nodes (reintro-ep021): N-659
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1945–C-1997
@@ -94,8 +94,8 @@ Confidence: high
 - Analysis date: 2026-03-11
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
-  - New Nodes Introduced: N-199, N-10200
-  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
+  - New Nodes Introduced: N-199, N-10192
+  - Reused Nodes Appearing: N-10193, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10044, N-10078, N-10134, N-10159, N-10328, N-10194, N-10300
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131
 
 ---
@@ -122,7 +122,7 @@ Video Timestamp: 00:05:35–00:07:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud by host)
 
-*Related: C-1952, N-10200*
+*Related: C-1952, N-10192*
 
 **A-1283.2** Updated TPUSA Wikipedia entry – Rob McCoy as TPUSA Faith co-founder
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:03:03–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content and timestamp read aloud by host)
 
-*Related: C-1947, C-1949, N-17, N-10200*
+*Related: C-1947, C-1949, N-17, N-10192*
 
 **A-1284** Wikipedia Citation Source Article Bundle
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:04:30–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host describes having clicked and read the article; not displayed)
 
-*Related: C-1950, C-1951, N-17, N-10200*
+*Related: C-1950, C-1951, N-17, N-10192*
 
 **A-1285** Trump Truth Social Post Bundle
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:15:35–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud verbatim)
 
-*Related: C-1962, N-5 (Donald Trump, existing), N-10202*
+*Related: C-1962, N-5 (Donald Trump, existing), N-10194*
 
 **A-1286** New York Times Article Bundle (verbally referenced, not shown)
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:20:44–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (content paraphrased; not read or displayed)
 
-*Related: C-1966, C-1967, N-10202*
+*Related: C-1966, C-1967, N-10194*
 
 **A-1287** Megyn Kelly / Donald Trump Jr. Interview Clip Bundle
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:32:12–00:35:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode)
 
-*Related: C-1980, C-1978, C-1984, N-46, N-10202*
+*Related: C-1980, C-1978, C-1984, N-46, N-10194*
 
 **A-1288** Norman Finkelstein Interview Trailer Bundle
 
@@ -286,7 +286,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1283.2, A-1284.1, C-1947, C-1950, C-1951, C-1949, N-10200*
+*Related: A-1283.2, A-1284.1, C-1947, C-1950, C-1951, C-1949, N-10192*
 
 **N-46** Megyn Kelly
 
@@ -310,7 +310,7 @@ Investigative Pressure: Low
 
 *Related: A-1288.1, C-1988*
 
-**N-10200** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy
+**N-10192** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy
 
 Persistent discrepancy between (a) updated TPUSA Wikipedia entry designating Rob McCoy as co-founder/co-chairman of TPUSA Faith with citation to a Nov 24, 2024 article that does not, per the host, contain that text; and (b) the pre-existing 2021 Wikipedia section naming Charlie Kirk as sole founder.
 
@@ -321,7 +321,7 @@ Investigative Pressure: Medium
 
 *Related: A-1283.1, A-1283.2, A-1284.1, C-1947, C-1952, C-1950, C-1951, C-1949, N-1, N-17*
 
-**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.
 
@@ -332,7 +332,7 @@ Investigative Pressure: Low (pending verification)
 
 *Related: N-1, N-2 (Erika Kirk, existing)*
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Persistent question regarding FBI Director Kash Patel's posture toward outside inquiries (Joe Kent / Tulsi Gabbard office) into the Kirk investigation, including reported resistance and a meeting with White House and ODNI principals.
 
@@ -370,7 +370,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -378,7 +378,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10081** Israel Influence on US Politics
+**N-10078** Israel Influence on US Politics
 
 Existing topic reused for new claims in this episode.
 
@@ -386,7 +386,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for new claims in this episode.
 
@@ -394,7 +394,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10166** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
+**N-10159** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
 Existing topic reused for new claims in this episode.
 
@@ -402,7 +402,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 Existing topic reused for new claims in this episode.
 
@@ -410,27 +410,11 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-1974*
-
----
-
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Existing topic reused for new claims in this episode.
 
 *Related: C-1972*
-
----
-
-**N-10353** Rob McCoy Wikipedia TPUSA Faith Entry
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-1948*
 
 ---
 
@@ -577,7 +561,7 @@ Interviewer of Kolvet and Erika Kirk, per the host.
 
 ---
 
-**N-11100** Charlie Kirk Post-Shooting First Aid Question
+**N-11018** Charlie Kirk Post-Shooting First Aid Question
 
 Node Type: Topic
 The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.
@@ -586,7 +570,7 @@ The host's claims that Kirk received no first aid after being shot and her accou
 
 ---
 
-**N-11101** TPUSA Wikipedia Cleanup Operative Claim
+**N-11019** TPUSA Wikipedia Cleanup Operative Claim
 
 Node Type: Topic
 The host's recollection that Charlie Kirk told her TPUSA had found a person to clean up Wikipedia pages, and her question who made the McCoy edit.
@@ -614,7 +598,7 @@ Claim: The host says the TPUSA Wikipedia entry was updated at 10:34 PM Eastern o
 Anchored Artifacts: A-1283.2
 Mentions: N-17, N-1
 
-Related Nodes: N-10200
+Related Nodes: N-10192
 
 Investigative Direction: Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.
 
@@ -629,7 +613,7 @@ Claim: Per the TPUSA Wikipedia article the host shows, before the September 11, 
 Anchored Artifacts: A-1283.1
 Mentions: N-1, N-17
 
-Related Nodes: N-10200
+Related Nodes: N-10192
 
 Investigative Direction: Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text.
 
@@ -644,7 +628,7 @@ Claim: The host says the citation used in the updated Wikipedia entry to support
 Anchored Artifacts: A-1284.1
 Mentions: N-17
 
-Related Nodes: N-10200
+Related Nodes: N-10192
 
 Investigative Direction: Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled.
 
@@ -659,7 +643,7 @@ Claim: The November 24, 2024 article cited as source for McCoy's "co-founder/co-
 Anchored Artifacts: A-1284.1
 Mentions: N-17
 
-Related Nodes: N-10200
+Related Nodes: N-10192
 
 Investigative Direction: Obtain the cited article directly and check for the phrases "co-founder," "chairman," "co-chairman," and any reference to TPUSA Faith.
 
@@ -689,7 +673,7 @@ Claim: The host says a New York Times headline the day before concerned how upse
 Anchored Artifacts: A-1286.1
 Mentions: N-1, N-69, N-209, N-329
 
-Related Nodes: N-10202
+Related Nodes: N-10194
 
 Investigative Direction: Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry.
 
@@ -704,7 +688,7 @@ Claim: The host says that, after the inquiry, Kash Patel apparently held a meeti
 Anchored Artifacts: A-1286.1
 Mentions: N-131, N-69, N-4, N-209, N-329
 
-Related Nodes: N-10202
+Related Nodes: N-10194
 
 Investigative Direction: Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.
 
@@ -762,7 +746,7 @@ Claim: The host asserts that Rob McCoy was not the founder or co-founder of TPUS
 Anchored Artifacts: A-1283.2
 Mentions: N-17
 
-Related Nodes: N-10200
+Related Nodes: N-10192
 
 Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.
 
@@ -837,7 +821,7 @@ Transcript Snippet: McCoy is the co-chairman of TPUs faith, aligned with the Chr
 
 Anchored Artifacts: A-1283.2
 Mentions: N-17, N-1
-Related Nodes: N-10353
+Related Nodes: N-10192
 Supports: C-1947
 Tags: relevance:core
 Investigative Direction: Pull the revision of the TPUSA Wikipedia article saved on 11 September 2025 and compare the exact wording and cited sources with what the host read.
@@ -854,7 +838,7 @@ Transcript Snippet: I know he told me that they Turning Point USA's organization
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11101, N-10200
+Related Nodes: N-11019, N-10192
 Tags: relevance:core
 Investigative Direction: Search the host's saved messages with Charlie Kirk for the Wikipedia-cleanup contact, and compare Wikipedia edit histories of TPUSA pages for paid-editor disclosures.
 
@@ -870,7 +854,7 @@ Transcript Snippet: I don't even think they had even yet announced that Erika Ki
 
 Anchored Artifacts: A-1283.2
 Mentions: N-2, N-17, N-1
-Related Nodes: N-10200
+Related Nodes: N-10192
 Tags: relevance:core
 Investigative Direction: Compare the Wikipedia edit timestamp of 10:34 PM ET on 11 September 2025 with the TPUSA announcement of Erika Kirk as CEO and with the date Kirk's body returned to Arizona.
 
@@ -886,7 +870,7 @@ Transcript Snippet: I know that he gets paid um by TP US faith upcoming uh pasto
 
 Anchored Artifacts: 
 Mentions: N-17
-Related Nodes: N-10166
+Related Nodes: N-10159
 Tags: relevance:context
 Investigative Direction: Request TPUSA Faith contracts, speaker agreements or IRS Form 990 compensation disclosures showing payments to McCoy.
 
@@ -933,7 +917,7 @@ Transcript Snippet: The evidence is overwhelming that Tyler Robinson didn't act 
 
 Anchored Artifacts: 
 Mentions: N-40, N-1
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:core
 Investigative Direction: Compare the host's cited evidence with the charging documents, the ballistics report and the recovered rifle record.
 
@@ -1009,7 +993,7 @@ Transcript Snippet: he's got a very small team of people at the FBI that are all
 
 Anchored Artifacts: 
 Mentions: N-69, N-1
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Request FBI organizational records or congressional testimony describing who has access to the Kirk case file.
 
@@ -1025,7 +1009,7 @@ Transcript Snippet: I'm getting the suspicion that there were some foreign entit
 
 Anchored Artifacts: 
 Mentions: N-209, N-329, N-3
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.
 
@@ -1056,7 +1040,7 @@ Transcript Snippet: Charlie said, "If I ever get shot at an event, the left side
 
 Anchored Artifacts: 
 Mentions: N-14, N-1
-Related Nodes: N-11100
+Related Nodes: N-11018
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement and who heard Charlie say it; ask security and staff whether any such instruction existed.
 
@@ -1072,7 +1056,7 @@ Transcript Snippet: He was not administered any first aid. I have the close-up v
 
 Anchored Artifacts: A-2820.1
 Mentions: N-1, N-3
-Related Nodes: N-11100
+Related Nodes: N-11018
 Tags: relevance:core
 Investigative Direction: Review the close-up videos and medical records and interview the security team on first aid steps taken before transport.
 
@@ -1088,7 +1072,7 @@ Transcript Snippet: Alex Clark released that interview with her and Andrew Kolve
 
 Anchored Artifacts: A-2821.1
 Mentions: N-99, N-14, N-2, N-1
-Related Nodes: N-10350
+Related Nodes: N-10328
 Supports: C-695
 Tags: relevance:context
 Investigative Direction: Locate the Alex Clark interview and check what Kolvet and Erika Kirk said about Catholicism.
@@ -1105,7 +1089,7 @@ Transcript Snippet: operation mocking pastor or mocking evangelical influencer w
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10139
+Related Nodes: N-10134
 Supports: C-695
 Tags: relevance:context
 Investigative Direction: Collect the public denials from evangelical influencers and compare dates with the host's earlier statements.
@@ -1122,7 +1106,7 @@ Transcript Snippet: Charlie had a Catholic funeral mass and he is buried in a Ca
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10323, N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Check parish and cemetery records, the funeral program and public notices for the rite and burial location.
 
@@ -1138,7 +1122,7 @@ Transcript Snippet: Like Bob Shillman took $2 million away. That's got to mean s
 
 Anchored Artifacts: 
 Mentions: N-98, N-14
-Related Nodes: N-10047
+Related Nodes: N-10044
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA's Form 990 and donor records for the year and verify the 70 million total and the 2 million withdrawal.
 
@@ -1154,7 +1138,7 @@ Transcript Snippet: I think they insisted and are pressuring them as we are hear
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10047, N-10025
+Related Nodes: N-10044, N-10025
 Tags: relevance:context
 Investigative Direction: Identify the sources the host says she is hearing from and any messages from donors asking TPUSA to maintain a pro-Israel framing.
 
@@ -1185,7 +1169,7 @@ Transcript Snippet: but I've spoken to everyone, you know, around and, you know,
 
 Anchored Artifacts: A-1287.1
 Mentions: N-33, N-46, N-2
-Related Nodes: N-10202
+Related Nodes: N-10194
 Tags: relevance:core
 Investigative Direction: Obtain the unedited Kelly interview and ask Don Jr. which people and what information he based his confidence on.
 
@@ -1352,7 +1336,7 @@ Transcript Snippet: the big donors, the Jewish donors at Turning Point USA who a
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10047
+Related Nodes: N-10044
 Supports: C-715
 Tags: relevance:context
 Investigative Direction: Compare with Charlie's own messages about donor pressure referenced in earlier episodes, and TPUSA donor records.
@@ -1384,7 +1368,7 @@ Transcript Snippet: he showed how they were training people to edit articles in 
 
 Anchored Artifacts: 
 Mentions: N-22, N-3
-Related Nodes: N-10200
+Related Nodes: N-10192
 Tags: relevance:context
 Investigative Direction: Identify the clip the host refers to and the speaker, then verify what the clip actually shows.
 
@@ -1400,7 +1384,7 @@ Transcript Snippet: Uh they're buying so many bots on the internet. It's a stake
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10081
+Related Nodes: N-10078
 Tags: relevance:context
 Investigative Direction: Identify the reporting the host refers to when she says 'as we learned' about bot buying.
 
@@ -1423,7 +1407,7 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 
 # VI. Optional Flags
 
-- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10201** for external verification.
+- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10193** for external verification.
 
 - **Artifact verbally referenced but not shown** – **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1966, C-1967, C-1959) depend on these references and carry the same flag.
 
@@ -1446,7 +1430,7 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-17, N-46, N-199); non-person investigation targets use N-10200+ series
+- [x] People nodes use global people ledger (N-17, N-46, N-199); non-person investigation targets use N-10192+ series
 - [x] No speculative or rhetorical claims inscribed as evidence-backed
 - [x] Names preserved as in transcript; uncertainties flagged
 - [x] No reuse of IDs from previous episodes; ledger continuation respected

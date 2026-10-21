@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-734, N-736, N-11058, N-11060
-  - Hole-minted Nodes (reintro-ep125): N-10850
+  - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-734, N-736, N-10976, N-10978
+  - Hole-minted Nodes (reintro-ep125): N-10773
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10695–C-10771
-  - New Nodes Introduced: N-10716
-  - Reused Nodes Appearing: N-11, N-10715, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10074, N-10193, N-10338, N-10340, N-10342, N-10403, N-10446, N-10456, N-10528, N-10532, N-10681, N-10712, N-10730, N-10815, N-10990, N-10714, N-10748, N-733, N-11059, N-11061, N-735, N-11057
+  - New Nodes Introduced: N-10652
+  - Reused Nodes Appearing: N-11, N-10651, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10071, N-10185, N-10214, N-10318, N-10320, N-10376, N-10415, N-10425, N-10484, N-10478, N-10619, N-10648, N-10664, N-10739, N-10910, N-10650, N-10678, N-733, N-10977, N-10979, N-735, N-10975
   - Hole-minted Nodes (wave1b): N-367
   - Hole-minted Nodes (wave3): N-502, N-503
   - (see registers)
@@ -43,7 +43,7 @@ Video Timestamp: 00:01:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10698, N-1, N-10714*
+*Related: C-10698, N-1, N-10650*
 
 **A-2129.2** Photograph: unidentified burnt object left in backseat of SUV
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:01:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10698, N-10714*
+*Related: C-10698, N-10650*
 
 **A-2130** Burn Test Replication Bundle
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:06:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (informal replication; not forensic match)
 
-*Related: C-10698, N-10714*
+*Related: C-10698, N-10650*
 
 **A-2131** Viewer Tip Bundle (T-Shirt Identification)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:03:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (unverified poster identity)
 
-*Related: C-10698, N-10714*
+*Related: C-10698, N-10650*
 
 **A-2131.2** Email from self-identified plastic surgery nurse identifying object as melted polyester shirt with charred skin
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:04:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (unverified sender identity; anonymous)
 
-*Related: C-10698, N-10714*
+*Related: C-10698, N-10650*
 
 **A-2132** Blake Neff Social Media Post Bundle
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10707, C-10708, C-10711, N-10715*
+*Related: C-10707, C-10708, C-10711, N-10651*
 
 **A-2134** Bank of America Merrill Lynch Network Visual Guide Bundle
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:24:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-compiled; underlying claims require separate verification)
 
-*Related: C-10720, C-10727, C-10731, C-10732, N-10716, N-11*
+*Related: C-10720, C-10727, C-10731, C-10732, N-10652, N-11*
 
 **A-2135** Andrew Kolvet Tweet Bundle
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:49:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10716*
+*Related: N-10652*
 
 **A-2137.4** Comment from Seven Sheets: praising host's "bravery, integrity, faith"
 
@@ -316,7 +316,7 @@ First named by the host at 00:21:23 in episode 125.
 *Related: C-10720*
 
 
-**N-10714** Unidentified Burnt Object in Charlie Kirk's SUV
+**N-10650** Unidentified Burnt Object in Charlie Kirk's SUV
 
 Persistent investigative target. Object left in backseat of SUV used to transport Charlie Kirk to hospital. Multiple expert viewer tips (fashion industry, plastic surgery nurse, mother of 10) identify object as melted polyester shirt/burnt fabric. Host performed burn-replication experiment with 50% polyester shirt.
 
@@ -327,7 +327,7 @@ Investigative Pressure: High
 
 *Related: A-2129.2, A-2130.1, A-2131.1, A-2131.2, C-10698, N-1*
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Blake Neff's inability to recall destination, driver, or passengers of the second SUV during the morning gap (Salt Lake City landing to UVU event) on September 10, 2025.
 
@@ -338,7 +338,7 @@ Investigative Pressure: High
 
 *Related: A-2133.1, C-10708, C-10711*
 
-**N-10716** Bank of America Merrill Lynch Personnel Network
+**N-10652** Bank of America Merrill Lynch Personnel Network
 
 Investigative target: multiple Turning Point USA personnel and associates (Thomas Patrick, Tyler Bowyer's father, Stephen Phillip, Dennis Franks Bay) with overlapping tenures at Bank of America Merrill Lynch in Chicago, 2008-2022 timeframe per host's visual guide.
 
@@ -581,7 +581,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing topic reused for new claims in this episode.
 
@@ -589,7 +589,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -597,7 +597,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Existing topic reused for new claims in this episode.
 
@@ -605,7 +605,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -613,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -621,7 +621,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10403** Erika Kirk Handler Thesis
+**N-10376** Erika Kirk Handler Thesis
 
 Existing topic reused for new claims in this episode.
 
@@ -629,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -637,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Existing topic reused for new claims in this episode.
 
@@ -645,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10528** Arizona-Romania Pipeline Investigation
+**N-10484** Arizona-Romania Pipeline Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10532** Next Model Management / Erika Kirk Connection
+**N-10478** Next Model Management / Erika Kirk Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for new claims in this episode.
 
@@ -669,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10712** Ben Shapiro Car Ride Live Updates
+**N-10648** Ben Shapiro Car Ride Live Updates
 
 Existing topic reused for new claims in this episode.
 
@@ -677,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10730** Frank Turek FaceTime Story Inconsistency
+**N-10664** Frank Turek FaceTime Story Inconsistency
 
 Existing topic reused for new claims in this episode.
 
@@ -685,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
+**N-10678** Ben Shapiro 9/10 Lunch Meeting Identification
 
 Existing topic reused for new claims in this episode.
 
@@ -693,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10815** NCRI Report Provenance and Authorship
+**N-10739** NCRI Report Provenance and Authorship
 
 Existing topic reused for new claims in this episode.
 
@@ -701,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10850** Two Grey Dodge Challengers Discrepancy
+**N-10773** Two Grey Dodge Challengers Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10990** Black Sea Rotational Force
+**N-10910** Black Sea Rotational Force
 
 Existing topic reused for new claims in this episode.
 
@@ -765,7 +765,7 @@ First named by the host at 00:25:34 in episode 125. Epstein associate whose weal
 
 ---
 
-**N-11057** Blake Neff Employment History Account
+**N-10975** Blake Neff Employment History Account
 
 Node Type: Topic
 The host's account of Blake Neff's career: Fox News departure, Stew Peters, Marine Corps war gaming and hiring by Charlie Kirk.
@@ -774,7 +774,7 @@ The host's account of Blake Neff's career: Fox News departure, Stew Peters, Mari
 
 ---
 
-**N-11058** Thomas Patrick 2019 Email on Kirk Money
+**N-10976** Thomas Patrick 2019 Email on Kirk Money
 
 Node Type: Topic
 The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was lying to her about money, during the Perlmutter dispute and a smear campaign.
@@ -783,7 +783,7 @@ The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was
 
 ---
 
-**N-11059** Russian-Speaking Turning Point Network
+**N-10977** Russian-Speaking Turning Point Network
 
 Node Type: Topic
 The host's claims that many Turning Point people and relatives speak Russian or have Russian and Ukrainian ties.
@@ -792,7 +792,7 @@ The host's claims that many Turning Point people and relatives speak Russian or 
 
 ---
 
-**N-11060** Bank of America Epstein Victims Settlement
+**N-10978** Bank of America Epstein Victims Settlement
 
 Node Type: Topic
 The Epstein victims' suit against Bank of America, the $170 million transfers and the settlement as described by the host.
@@ -801,7 +801,7 @@ The Epstein victims' suit against Bank of America, the $170 million transfers an
 
 ---
 
-**N-11061** Restaurantology Event Green Room Attendance Question
+**N-10979** Restaurantology Event Green Room Attendance Question
 
 Node Type: Topic
 Who was in the restaurantology event green room and whether Frank Turek was there or in the second SUV.
@@ -821,7 +821,7 @@ Claim: The host says the unidentified burnt object in the backseat of Charlie Ki
 Anchored Artifacts: A-2129.2, A-2130.1, A-2131.1, A-2131.2
 Mentions: N-1
 
-Related Nodes: N-10714
+Related Nodes: N-10650
 
 Investigative Direction: Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis.
 
@@ -846,7 +846,7 @@ Claim: Blake Neff stated during an X Space that he had no idea where the second 
 Anchored Artifacts: A-2133.1
 Mentions: N-159
 
-Related Nodes: N-10715
+Related Nodes: N-10651
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
@@ -859,7 +859,7 @@ Claim: In an X Space clip the host plays, Blake Neff, after prompting from anoth
 Anchored Artifacts: A-2133.1
 Mentions: N-367, N-159
 
-Related Nodes: N-10715
+Related Nodes: N-10651
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
@@ -872,7 +872,7 @@ Claim: The host says Danny Phillip is the grandson of Thomas Patrick, a major Tu
 Anchored Artifacts: A-2134.1
 Mentions: N-367, N-502, N-503
 
-Related Nodes: N-10716
+Related Nodes: N-10652
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
@@ -885,7 +885,7 @@ Claim: The host says Danny Philip's father Stephen Phillip worked for Bank of Am
 Anchored Artifacts: A-2134.1
 Mentions: N-367, N-734, N-11
 
-Related Nodes: N-10716
+Related Nodes: N-10652
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
@@ -898,7 +898,7 @@ Claim: The host says Tyler Bowyer's father held a major executive position at Ba
 Anchored Artifacts: A-2134.1
 Mentions: N-11
 
-Related Nodes: N-10716
+Related Nodes: N-10652
 
 Investigative Direction: Corporate directories, employment records, public board listings would verify the employment claim.
 
@@ -911,7 +911,7 @@ Claim: The host says Erika Kirk's cousin Dennis ("Dennis Franks Bay" in the capt
 Anchored Artifacts: A-2134.1
 Mentions: N-2, N-735
 
-Related Nodes: N-10716
+Related Nodes: N-10652
 
 Investigative Direction: Employment records, military transition records, and public corporate directories would verify the claim.
 
@@ -951,7 +951,7 @@ Transcript Snippet: people in the fashion industry reaching out, a ton of them, 
 
 Anchored Artifacts: A-2131.1
 Mentions: N-3
-Related Nodes: N-10714
+Related Nodes: N-10650
 Supports: C-10698
 Investigative Direction: Review the full set of received emails and verify the senders' stated occupations before treating the pattern as independent expertise.
 
@@ -967,7 +967,7 @@ Transcript Snippet: What is the charred burned thing on the ground? It is his sh
 
 Anchored Artifacts: A-2131.2
 Mentions: N-1
-Related Nodes: N-10714
+Related Nodes: N-10650
 Supports: C-10698
 Investigative Direction: Verify the sender's credentials and have a burn specialist or textile forensic examiner assess the photograph; the recovered object itself would settle it.
 
@@ -983,7 +983,7 @@ Transcript Snippet: Baron Coleman um was here the other day and he told me that 
 
 Anchored Artifacts: 
 Mentions: N-330, N-1, N-3
-Related Nodes: N-10714
+Related Nodes: N-10650
 Investigative Direction: Obtain the shirt's brand and fabric composition from evidence logs, purchase records or photographs of Kirk wearing it that morning.
 
 ---
@@ -1012,7 +1012,7 @@ Transcript Snippet: He didn't even get hired to work with Charlie at all in any 
 
 Anchored Artifacts: 
 Mentions: N-159, N-1
-Related Nodes: N-11057, N-10006
+Related Nodes: N-10975, N-10006
 Investigative Direction: Neff's employment history (Fox News departure, hiring date at Turning Point or the Charlie Kirk Show) from his own statements, press coverage and payroll or contract records.
 
 ---
@@ -1027,7 +1027,7 @@ Transcript Snippet: He then work went to work for Stew Peters um and then he mov
 
 Anchored Artifacts: 
 Mentions: N-159, N-731, N-22, N-1
-Related Nodes: N-11057
+Related Nodes: N-10975
 Investigative Direction: Neff's own account of how he was hired; statements by Carlson or Peters on the recommendation.
 
 ---
@@ -1070,7 +1070,7 @@ Transcript Snippet: Blake's truer background is in military strategy. He support
 
 Anchored Artifacts: 
 Mentions: N-159
-Related Nodes: N-11057
+Related Nodes: N-10975
 Investigative Direction: Neff's biography, Marine Corps or contractor records of his role, and reporting on the racist-commentary incident.
 
 ---
@@ -1085,7 +1085,7 @@ Transcript Snippet: We know that one was carrying Charlie and Mikey McCoy and Fr
 
 Anchored Artifacts: 
 Mentions: N-190, N-1, N-7, N-732
-Related Nodes: N-10074
+Related Nodes: N-10071
 Investigative Direction: Salt Lake City rental agreement(s) in McCoy's name and statements from Turek and McGovern about who rode in which vehicle.
 
 ---
@@ -1100,7 +1100,7 @@ Transcript Snippet: He does this this restaurant event and does his last intervi
 
 Anchored Artifacts: 
 Mentions: N-1, N-264
-Related Nodes: N-10074
+Related Nodes: N-10071
 Supports: C-2909
 Investigative Direction: Flight records for the September 10 charter, and the published Andrew K. Smith interview with its recording date and location.
 
@@ -1116,7 +1116,7 @@ Transcript Snippet: I'm a key witness to Charlie's life. I'm not a particularly 
 
 Anchored Artifacts: A-2133.1
 Mentions: N-159, N-1
-Related Nodes: N-10715
+Related Nodes: N-10651
 Investigative Direction: Whether investigators or the Utah prosecutors interviewed Neff, and any statement on file.
 
 ---
@@ -1131,7 +1131,7 @@ Transcript Snippet: We drove somewhere, and because I wasn't going to that event
 
 Anchored Artifacts: A-2133.1
 Mentions: N-159
-Related Nodes: N-10715
+Related Nodes: N-10651
 Investigative Direction: Phone location data, SUV telematics and rental records for the second vehicle between landing and the UVU event.
 
 ---
@@ -1146,7 +1146,7 @@ Transcript Snippet: Before Charlie got shot at 12:02, Mikey McCoy was on the pho
 
 Anchored Artifacts: 
 Mentions: N-190, N-367, N-1
-Related Nodes: N-10193, N-10338
+Related Nodes: N-10185, N-10214
 Investigative Direction: Mikey McCoy's carrier call detail records for September 10, 2025, and statements from McCoy and Philip about the calls.
 
 ---
@@ -1175,7 +1175,7 @@ Transcript Snippet: Danny Phillip, Charlie Kirk's assistant, that's a pretty big
 
 Anchored Artifacts: 
 Mentions: N-367, N-1
-Related Nodes: N-10074
+Related Nodes: N-10071
 Supports: C-10711
 Investigative Direction: Philip's job title and start date, the flight manifest for the September 10 charter, and his internship dates.
 
@@ -1233,7 +1233,7 @@ Transcript Snippet: Suddenly, there's this smear campaign calling me anti-Semiti
 
 Anchored Artifacts: 
 Mentions: N-3, N-502
-Related Nodes: N-11058
+Related Nodes: N-10976
 Investigative Direction: Dated media coverage of the 2019 smear and the date of Patrick's email.
 
 ---
@@ -1248,7 +1248,7 @@ Transcript Snippet: Thomas Patrick personally informed me via email that Charlie
 
 Anchored Artifacts: A-2783.1
 Mentions: N-502, N-1, N-3, N-367
-Related Nodes: N-11058
+Related Nodes: N-10976
 Supports: C-10720
 Investigative Direction: The host's email from Patrick (headers, date, full text) and Patrick's relationship to Danny Philip.
 
@@ -1264,7 +1264,7 @@ Transcript Snippet: I still have a text messages between me and Charlie regardin
 
 Anchored Artifacts: A-2783.2
 Mentions: N-3, N-1, N-502
-Related Nodes: N-11058
+Related Nodes: N-10976
 Investigative Direction: The text thread with timestamps and the Patrick email it refers to.
 
 ---
@@ -1294,7 +1294,7 @@ Transcript Snippet: And he was so powerful at it's stunning for me to process th
 
 Anchored Artifacts: 
 Mentions: N-502, N-3, N-1
-Related Nodes: N-11058
+Related Nodes: N-10976
 Investigative Direction: Patrick's communications with the host and with Kirk or Turning Point about the Perlmutter dispute.
 
 ---
@@ -1308,7 +1308,7 @@ Claim: The host says that in 2008, following the financial crisis, Merrill Lynch
 Transcript Snippet: in 2008 following the financial crisis, Merrill Lynch was acquired by Bank of America. So, it became Bank of America Merrill Lynch.
 
 Anchored Artifacts: 
-Related Nodes: N-10716
+Related Nodes: N-10652
 Investigative Direction: Public record: Bank of America's 2008-2009 acquisition of Merrill Lynch.
 
 ---
@@ -1323,7 +1323,7 @@ Transcript Snippet: And he has cleaned the internet of his LinkedIn, graduated f
 
 Anchored Artifacts: 
 Mentions: N-11
-Related Nodes: N-10716
+Related Nodes: N-10652
 Supports: C-10731
 Investigative Direction: Archived copies of the father's LinkedIn profile and Arizona State alumni or degree records.
 
@@ -1339,7 +1339,7 @@ Transcript Snippet: you know, Tyler speaks Russian, majored in Russian studies, 
 
 Anchored Artifacts: 
 Mentions: N-11, N-367, N-734
-Related Nodes: N-11059
+Related Nodes: N-10977
 Supports: C-10727
 Investigative Direction: Bowyer's educational record and public statements on Russian language ability; Stephen Phillip's degree.
 
@@ -1355,7 +1355,7 @@ Transcript Snippet: she remarked to me in a private phone call that the thing th
 
 Anchored Artifacts: 
 Mentions: N-155, N-154, N-3
-Related Nodes: N-11059
+Related Nodes: N-10977
 Investigative Direction: Direct confirmation from Irina Mappin and a VIP guest list for the memorial event.
 
 ---
@@ -1370,7 +1370,7 @@ Transcript Snippet: you've got Elizabeth McCoy and her entire Ukrainian family, 
 
 Anchored Artifacts: 
 Mentions: N-217, N-17, N-11
-Related Nodes: N-11059, N-10528
+Related Nodes: N-10977, N-10484
 Investigative Direction: Family statements, church or adoption announcements by the McCoys, and Elizabeth McCoy's family background.
 
 ---
@@ -1385,7 +1385,7 @@ Transcript Snippet: you've got Stephen Phillip, that's going to be Daniel Philli
 
 Anchored Artifacts: A-2134.1
 Mentions: N-734, N-367
-Related Nodes: N-10716
+Related Nodes: N-10652
 Supports: C-10727
 Investigative Direction: Bank of America Merrill Lynch directory or FINRA broker records for Stephen Phillip, and his stated job title.
 
@@ -1401,7 +1401,7 @@ Transcript Snippet: Erika's cousin who showed her around Romania, the Black Sea 
 
 Anchored Artifacts: A-2134.1
 Mentions: N-735, N-2
-Related Nodes: N-10990, N-10716
+Related Nodes: N-10910, N-10652
 Supports: C-10732
 Investigative Direction: Romania trip records, Erika Kirk's own accounts of the visit, and Dennis Frantzve's military and employment history.
 
@@ -1417,7 +1417,7 @@ Transcript Snippet: they were sued because they were managing wealth, Bank of Am
 
 Anchored Artifacts: 
 Mentions: N-736, N-9
-Related Nodes: N-11060
+Related Nodes: N-10978
 Investigative Direction: Court filings in the Epstein victims' suit against Bank of America and the settlement announcement.
 
 ---
@@ -1432,7 +1432,7 @@ Transcript Snippet: Bank of America moved $170 million to Epstein. The victims s
 
 Anchored Artifacts: 
 Mentions: N-9
-Related Nodes: N-11060
+Related Nodes: N-10978
 Investigative Direction: The complaint and docket in the Epstein victims' case against Bank of America for the $170 million figure.
 
 ---
@@ -1447,7 +1447,7 @@ Transcript Snippet: Anyway, they settled for I think like $79 million.
 
 Anchored Artifacts: 
 Mentions: N-9
-Related Nodes: N-11060
+Related Nodes: N-10978
 Investigative Direction: Settlement amount and date in court filings or press reports.
 
 ---
@@ -1462,7 +1462,7 @@ Transcript Snippet: maybe see if there were any cars checked out uh Dodge Challe
 
 Anchored Artifacts: A-2784.1
 Mentions: N-3
-Related Nodes: N-10850, N-10074
+Related Nodes: N-10773, N-10071
 Investigative Direction: Rental company records for Dodge Challengers checked out in Utah and Nevada around September 8-10, 2025, reached through tipsters or subpoena.
 
 ---
@@ -1477,7 +1477,7 @@ Transcript Snippet: More tips at CandaceOwens. com cuz we've got a confused bald
 
 Anchored Artifacts: A-2784.2
 Mentions: N-3, N-159
-Related Nodes: N-10715
+Related Nodes: N-10651
 Investigative Direction: Witness sightings and dashcam or roadside video from Orem, Provo and Salt Lake City on the morning of September 10.
 
 ---
@@ -1492,7 +1492,7 @@ Transcript Snippet: it was confirmed that Charlie was in the green room and he h
 
 Anchored Artifacts: 
 Mentions: N-1, N-732, N-190, N-7
-Related Nodes: N-11061
+Related Nodes: N-10979
 Investigative Direction: Event staff, photos or video from the restaurantology event green room and statements by Turek, McGovern and McCoy.
 
 ---
@@ -1507,7 +1507,7 @@ Transcript Snippet: He admits that he left and went outside or left a little ear
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-11061, N-10730
+Related Nodes: N-10979, N-10664
 Investigative Direction: Turek's dated interviews and posts about the restaurantology event compared side by side.
 
 ---
@@ -1522,7 +1522,7 @@ Transcript Snippet: Was he in the car with Blake and Neff? Like I said, everybod
 
 Anchored Artifacts: A-2784.3
 Mentions: N-7, N-159, N-3
-Related Nodes: N-11061
+Related Nodes: N-10979
 Investigative Direction: Attendee accounts and photos placing Turek at the event, and rider accounts for the second SUV.
 
 ---
@@ -1537,7 +1537,7 @@ Transcript Snippet: We got a huge lead on who Ben Shapiro was at lunch with um o
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10748, N-10712
+Related Nodes: N-10678, N-10648
 Investigative Direction: Restaurant reservation, receipt or witness records for Shapiro's lunch that day; the follow-up episode.
 
 ---
@@ -1552,7 +1552,7 @@ Transcript Snippet: They released this port report during Lent. It backfired, ob
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10815
+Related Nodes: N-10739
 Investigative Direction: The original NCRI report with its date, and any Kirk public statement criticizing it.
 
 ---
@@ -1567,7 +1567,7 @@ Transcript Snippet: Charlie didn't care that the NCRI had Johnnie Moore on their
 
 Anchored Artifacts: 
 Mentions: N-437, N-14, N-1
-Related Nodes: N-10815
+Related Nodes: N-10739
 Investigative Direction: NCRI board listings from the report date and Moore's business history with Kolvet (the Kairos Company).
 
 ---
@@ -1582,7 +1582,7 @@ Transcript Snippet: this report that was published about me accusing me on the d
 
 Anchored Artifacts: A-2136.1
 Mentions: N-3, N-40
-Related Nodes: N-10815
+Related Nodes: N-10739
 Supports: C-10747
 Investigative Direction: Publication date of the NCRI report against the trial calendar.
 
@@ -1598,7 +1598,7 @@ Transcript Snippet: I'm sure, even though Andrew Kolvet was pushing this report,
 
 Anchored Artifacts: A-2136.1
 Mentions: N-14
-Related Nodes: N-10815
+Related Nodes: N-10739
 Supports: C-10747
 Investigative Direction: Kolvet's posts and broadcasts sharing the NCRI report, with timestamps.
 
@@ -1614,7 +1614,7 @@ Transcript Snippet: I got all of these emails, it wasn't just them, but tons of 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10815, N-10681
+Related Nodes: N-10739, N-10619
 Investigative Direction: The press inquiries received by the host's team and the NCRI report passage on the Shawn Ryan interview.
 
 ---
@@ -1701,7 +1701,7 @@ Transcript Snippet: she conceded that yes, BB Netanyahu did call at Bill Ackman'
 
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-37, N-1, N-3
-Related Nodes: N-10446, N-10027
+Related Nodes: N-10415, N-10027
 Investigative Direction: Erika Kirk's account of the meeting, Bill Ackman's statements, and Kirk's May letter to Netanyahu.
 
 ---
@@ -1716,7 +1716,7 @@ Transcript Snippet: that's not what Andrew Kolvet told me. He He me that BB offe
 
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-2
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-2134, C-3477, C-4118
 Investigative Direction: Direct confirmation or denial from Kolvet, Erika Kirk and others present at the Hamptons gathering.
 
@@ -1732,7 +1732,7 @@ Transcript Snippet: And Charlie said no. That's all he said. And Charlie said no
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10446, N-10027
+Related Nodes: N-10415, N-10027
 Supports: C-79
 Investigative Direction: Attendee accounts of the Hamptons summit and Kolvet's own description of it.
 
@@ -1748,7 +1748,7 @@ Transcript Snippet: But he also communicated communicated to me that Charlie had
 
 Anchored Artifacts: A-2135.1
 Mentions: N-14, N-1, N-36, N-3
-Related Nodes: N-10456
+Related Nodes: N-10425
 Supports: C-10760, C-5837
 Investigative Direction: Kirk Show booking records and Kolvet's tweet conceding the decline.
 
@@ -1764,7 +1764,7 @@ Transcript Snippet: But instead, he was relegated to smaller influencers because
 
 Anchored Artifacts: 
 Mentions: N-36, N-1
-Related Nodes: N-10456
+Related Nodes: N-10425
 Supports: C-271
 Investigative Direction: Netanyahu's media appearances in summer 2025 and any Kirk Show invitations declined.
 
@@ -1780,7 +1780,7 @@ Transcript Snippet: It was not a joke when he texted the night before that he wa
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Investigative Direction: The text thread in question, with sender, recipients and timestamp.
 
 ---
@@ -1795,7 +1795,7 @@ Transcript Snippet: Yes, we politely declined having Netanyahu on the show. So w
 
 Anchored Artifacts: A-2135.1
 Mentions: N-14, N-36, N-1
-Related Nodes: N-10456, N-10018
+Related Nodes: N-10425, N-10018
 Supports: C-10760
 Investigative Direction: The original Kolvet tweet thread with timestamp, compared with the text read on air.
 
@@ -1811,7 +1811,7 @@ Transcript Snippet: it was confirmed from a family friend of Andrew Klavan who w
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-3477
 Investigative Direction: The friend's email to the host, with identity verification, and Kolvet's response.
 
@@ -1827,7 +1827,7 @@ Transcript Snippet: And the fact that he lost out on some residual income came f
 
 Anchored Artifacts: 
 Mentions: N-14
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-3477
 Investigative Direction: Travel records and witnesses for Kolvet's return to California, and the friend's account.
 
@@ -1843,7 +1843,7 @@ Transcript Snippet: when you knew uh the night before that Charlie was a fearful
 
 Anchored Artifacts: 
 Mentions: N-14, N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Investigative Direction: The night-before text thread and its recipients.
 
 ---
@@ -1858,7 +1858,7 @@ Transcript Snippet: that he was FaceTiming his like grown 35-year-old sons in th
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10730
+Related Nodes: N-10664
 Investigative Direction: Turek's own interviews on the FaceTime call, phone records for the call and the recipients.
 
 ---
@@ -1873,7 +1873,7 @@ Transcript Snippet: I said I was the on the FaceTime call forever and now I say 
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10730
+Related Nodes: N-10664
 Investigative Direction: Turek's earlier and later statements about the FaceTime call, side by side.
 
 ---
@@ -1902,7 +1902,7 @@ Transcript Snippet: I had already began pulling up the threads of Erika hanging 
 
 Anchored Artifacts: 
 Mentions: N-2, N-9, N-529
-Related Nodes: N-10532
+Related Nodes: N-10478
 Investigative Direction: Erika Kirk's modeling-agency history and the agency's Brunel and Epstein ties.
 
 ---
@@ -1917,7 +1917,7 @@ Transcript Snippet: I was the only person that Charlie hired organically with Ty
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-11, N-27
-Related Nodes: N-10403
+Related Nodes: N-10376
 Investigative Direction: Hiring history of Kirk's staff and who joined his circle after the Kanye episode.
 
 ---
@@ -1932,7 +1932,7 @@ Transcript Snippet: it is literally Erika um saying that she's got people inside
 
 Anchored Artifacts: A-2785.1
 Mentions: N-2, N-27, N-1, N-3
-Related Nodes: N-10403
+Related Nodes: N-10376
 Investigative Direction: The proof itself (message or recording), its date and provenance, and the source's consent to release.
 
 ---

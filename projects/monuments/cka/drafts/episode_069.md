@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11341
+  - Tip-minted Nodes (supplement_2026-10f): N-11257
   - Claim Range: C-6145–C-6244
-  - New Nodes Introduced: N-544, N-545, N-546, N-547, N-548, N-549, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491
-  - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10074, N-10193, N-10246, N-10253, N-10299, N-10339, N-10340, N-10398, N-10414, N-10447, N-10470, N-10480, N-10481, N-10548, N-10554, N-11029, N-11165, N-10488
+  - New Nodes Introduced: N-544, N-545, N-546, N-547, N-548, N-549, N-10451, N-10452, N-10454, N-10455
+  - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10071, N-10185, N-10232, N-10239, N-10281, N-10317, N-10318, N-10371, N-10387, N-10416, N-10439, N-10447, N-10448, N-10502, N-10507, N-10948, N-11081, N-10453
   - (see registers)
 
 # Meta-Data
@@ -31,7 +31,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - New Nodes Introduced (people): N-544, N-545, N-546, N-547, N-548
-  - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488
+  - New Nodes Introduced (investigation targets): N-10451, N-10452, N-10453
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-377 (Emmanuel Macron)
 
 ---
@@ -88,7 +88,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Azazel/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-6158, C-6241, N-541 (Rob Skiba), N-547 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-6158, C-6241, N-541 (Rob Skiba), N-547 (David Flynn), N-10454 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Rob Skiba segment on Gilgamesh / CERN / 666
 
@@ -116,7 +116,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quayle's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-6178, C-6180, N-545 (Tom Horn), N-546 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-6178, C-6180, N-545 (Tom Horn), N-546 (Steve Quayle), N-10447 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -132,7 +132,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-6211, C-6213, N-544 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-6211, C-6213, N-544 (Tracy Martin), N-2 (Erika Kirk), N-10451 (Tracy Martin Background and Husband Verification), N-10440 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -212,7 +212,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-6241, N-541 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*
+*Related: C-6241, N-541 (Rob Skiba), N-10455 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -280,7 +280,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, C-6211, C-6213, N-2 (Erika Kirk), N-10485, N-10486*
+*Related: A-1741.1, C-6211, C-6213, N-2 (Erika Kirk), N-10440, N-10451*
 
 **N-541** Rob Skiba
 
@@ -291,7 +291,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-547 (David Flynn), N-10489, N-10491*
+*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-547 (David Flynn), N-10454, N-10455*
 
 **N-545** Tom Horn
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-6178, N-546 (Steve Quayle), N-10490*
+*Related: A-1740.1, C-6178, N-546 (Steve Quayle), N-10447*
 
 **N-546** Steve Quayle
 
@@ -313,7 +313,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-6180, N-545 (Tom Horn), N-10490*
+*Related: A-1740.1, C-6180, N-545 (Tom Horn), N-10447*
 
 **N-547** David Flynn
 
@@ -324,7 +324,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-541 (Rob Skiba), N-10489*
+*Related: A-1739.1, N-541 (Rob Skiba), N-10454*
 
 **N-489** Lori Frantzve
 
@@ -335,7 +335,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2 (Erika Kirk), N-10485, N-544 (Tracy Martin)*
+*Related: N-2 (Erika Kirk), N-10440, N-544 (Tracy Martin)*
 
 **N-9** Jeffrey Epstein
 
@@ -390,7 +390,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10487 (Dream City Church Investigation), N-2 (Erika Kirk)*
+*Related: N-10452 (Dream City Church Investigation), N-2 (Erika Kirk)*
 
 **N-549** Benjamin
 
@@ -405,7 +405,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10485** Erika Kirk September 10 Alibi Investigation
+**N-10440** Erika Kirk September 10 Whereabouts Verification
 
 Persistent target. Host's claim that Erika was with Tracy Martin, not Lori Frantzve, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.
 
@@ -416,7 +416,7 @@ Investigative Pressure: High
 
 *Related: A-1741.1, N-2 (Erika Kirk), N-544 (Tracy Martin), N-489 (Lori Frantzve)*
 
-**N-10486** Tracy Martin Background and Husband Verification
+**N-10451** Tracy Martin Background and Husband Verification
 
 Persistent target. Host states she cannot determine what Tracy Martin's husband does and solicits additional tips. Husband's first name offered as "Thomas" with uncertainty.
 
@@ -427,7 +427,7 @@ Investigative Pressure: Medium
 
 *Related: N-544 (Tracy Martin)*
 
-**N-10487** Dream City Church Connection Investigation
+**N-10452** Dream City Church Connection Investigation
 
 Persistent target. Church linked to Tracy Martin, Charlie Kirk's speaking series, the TPUSA faith pivot, and Pastor Luke. Host states more to come.
 
@@ -438,7 +438,7 @@ Investigative Pressure: Medium
 
 *Related: N-544 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
 
-**N-10488** Egyptian Plane Communication Investigation
+**N-10453** Egyptian Plane Communication Investigation
 
 Persistent target. Host references an Egyptian plane that remained on the tarmac and "transponding intermittently" with active communication; posits use of foreign-registered aircraft to evade communication tracking.
 
@@ -449,7 +449,7 @@ Investigative Pressure: Medium
 
 *Related: N-1 (Charlie Kirk)*
 
-**N-10489** Mount Hermon 33.33° Coordinate Investigation
+**N-10454** Mount Hermon 33.33° Coordinate Investigation
 
 Persistent target. Rob Skiba's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.
 
@@ -460,18 +460,7 @@ Investigative Pressure: Low
 
 *Related: A-1739.1, N-541 (Rob Skiba), N-547 (David Flynn)*
 
-**N-10490** Gilgamesh Remains DNA Extraction Claim
-
-Persistent target. Tom Horn / Steve Quayle assert U.S. military recovered Gilgamesh remains in "remarkable preservation" and that human genome project aimed to "reanimate" via genetic markers.
-
-Evidence Count: 1
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: A-1740.1, N-545 (Tom Horn), N-546 (Steve Quayle)*
-
-**N-10491** COVID Test DNA Collection Hypothesis
+**N-10455** COVID Test DNA Collection Hypothesis
 
 Persistent target. Viewer AZ Masterbaker and host's prior-commentary thread propose nasal-swab COVID tests were instruments for DNA collection aimed at identifying Nimrod's descendants.
 
@@ -612,7 +601,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing topic reused for new claims in this episode.
 
@@ -620,7 +609,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10193** Mikey McCoy Call Log Verification
+**N-10185** Mikey McCoy Call Log Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -628,7 +617,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10246** Calvary Chapel Institutional Abuse Pattern
+**N-10232** Calvary Chapel Institutional Abuse Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -636,7 +625,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -644,7 +633,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10299** TPUSA Egyptian Plane Story Suppression Attempt
+**N-10281** TPUSA Egyptian Plane Story Suppression Attempt
 
 Existing topic reused for new claims in this episode.
 
@@ -652,7 +641,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10339** Elizabeth McCoy Disappearance From Public Narrative
+**N-10317** Elizabeth McCoy Disappearance From Public Narrative
 
 Existing topic reused for new claims in this episode.
 
@@ -660,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -668,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused for new claims in this episode.
 
@@ -676,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10414** CERN Satantic Ritual Claim
+**N-10387** CERN Satantic Ritual Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -684,7 +673,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -692,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10470** Dan Flood Message Format Discrepancy
+**N-10439** Dan Flood Message Format Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -700,7 +689,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10480** Nimrod / Gilgamesh Remains Extraction Question
+**N-10447** Nimrod / Gilgamesh Remains Extraction Question
 
 Existing topic reused for new claims in this episode.
 
@@ -708,7 +697,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10481** Babylon Military Camp Activities
+**N-10448** Babylon Military Camp Activities
 
 Existing topic reused for new claims in this episode.
 
@@ -716,7 +705,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10548** Tarmac Hug Account Discrepancy
+**N-10502** Tarmac Hug Account Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -724,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+**N-10507** Andrew Kolvet 9/10 Flight Itinerary
 
 Existing topic reused for new claims in this episode.
 
@@ -732,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11029** CERN
+**N-10948** CERN
 
 Existing topic reused for new claims in this episode.
 
@@ -740,7 +729,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11165** Romanian Angels Project
+**N-11081** Romanian Angels Project
 
 Existing topic reused for new claims in this episode.
 
@@ -748,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11341** 23andMe
+**N-11257** 23andMe
 
 Node Type: Organization
 23andMe, the DNA-testing company the host links to the Epstein emails and to the Iraq theme.
@@ -796,7 +785,7 @@ Claim: In a lecture clip, Rob Skiba states that the Book of Enoch identifies 200
 Anchored Artifacts: A-1739.1
 Mentions: N-541, N-547
 
-Related Nodes: N-10489
+Related Nodes: N-10454
 
 Investigative Direction: Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).
 
@@ -826,7 +815,7 @@ Claim: In an Omega Man Radio clip the host plays, Steve Quayle says a special op
 Anchored Artifacts: A-1740.1
 Mentions: N-545, N-546
 
-Related Nodes: N-10490
+Related Nodes: N-10447
 
 Investigative Direction: Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.
 
@@ -841,7 +830,7 @@ Claim: Steve Quayle says on Omega Man Radio that the point of the Gilgamesh dig 
 Anchored Artifacts: A-1740.1
 Mentions: N-546
 
-Related Nodes: N-10490
+Related Nodes: N-10447
 
 Investigative Direction: Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.
 
@@ -856,7 +845,7 @@ Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear frie
 Anchored Artifacts: A-1741.1
 Mentions: N-2, N-544
 
-Related Nodes: N-10485
+Related Nodes: N-10440
 
 Investigative Direction: Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.
 
@@ -955,7 +944,7 @@ Claim: A viewer comment (AZ Masterbaker) says it fully believes the COVID tests 
 Anchored Artifacts: A-1743.5
 Mentions: 
 
-Related Nodes: N-10491
+Related Nodes: N-10455
 
 Investigative Direction: Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.
 
@@ -999,7 +988,7 @@ Transcript Snippet: Upon further information, I no longer believe that she was w
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10485
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the host's tip sources and any record (calendar, appointment, travel or phone data) placing Erika Kirk and her mother together or apart on the morning of September 10.
 
@@ -1031,7 +1020,7 @@ Transcript Snippet: The 23 andMe emails, the elites sending one another kits.
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Related Nodes: N-11341
+Related Nodes: N-11257
 Supports: C-6149
 Tags: relevance:tangential
 Investigative Direction: Search the public Epstein files for all 23andMe references and list senders, recipients and dates.
@@ -1063,7 +1052,7 @@ Transcript Snippet: in 2005, the now bankrupt company 23 andMe came together whe
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11341
+Related Nodes: N-11257
 Tags: relevance:tangential
 Investigative Direction: Check 23andMe's founding and launch dates and its bankruptcy filing; the host's causal framing is her own inference.
 
@@ -1079,7 +1068,7 @@ Transcript Snippet: we invaded, as I mentioned yesterday, mid 2003 and we extrac
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10480
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: Identify any record of an extraction by US forces; the German geophysicist survey cited in earlier episodes (C-6085) reported a location, not an extraction.
 
@@ -1170,7 +1159,7 @@ Transcript Snippet: It's very interesting that it actually forms the shape of a 
 
 Anchored Artifacts: A-1739.1
 Mentions: N-541
-Related Nodes: N-10489
+Related Nodes: N-10454
 Tags: relevance:tangential
 Investigative Direction: Check the lecture's imagery and the Leviticus 16 reading; the spelling 'Azazel' is probably Azazel.
 
@@ -1186,7 +1175,7 @@ Transcript Snippet: He recently passed away, but he turned the world upside down
 
 Anchored Artifacts: A-1739.1
 Mentions: N-547, N-541
-Related Nodes: N-10489
+Related Nodes: N-10454
 Tags: relevance:tangential
 Investigative Direction: Confirm Flynn's date of death and compare with the lecture date.
 
@@ -1202,7 +1191,7 @@ Transcript Snippet: And that is in the occult is referred to as the devil's line
 
 Anchored Artifacts: A-1739.1
 Mentions: N-541, N-547
-Related Nodes: N-10489
+Related Nodes: N-10454
 Tags: relevance:tangential
 Investigative Direction: Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.
 
@@ -1309,7 +1298,7 @@ Transcript Snippet: Nimrod uh became known as different names. Bal, Tamas, Gilga
 
 Anchored Artifacts: 
 Mentions: N-541
-Related Nodes: N-10480
+Related Nodes: N-10447
 Supports: C-6083
 Tags: relevance:tangential
 Investigative Direction: Compare with scholarly treatments of Nimrod-Gilgamesh identification.
@@ -1326,7 +1315,7 @@ Transcript Snippet: he believes that the elites view Nimrod and or Gilgamesh as 
 
 Anchored Artifacts: 
 Mentions: N-541
-Related Nodes: N-10480
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: Locate the lecture text; this is one lecturer's belief as relayed by the host.
 
@@ -1342,7 +1331,7 @@ Transcript Snippet: their stated objective is to recreate the Big Bang.
 
 Anchored Artifacts: A-1739.2
 Mentions: N-541
-Related Nodes: N-11029
+Related Nodes: N-10948
 Tags: relevance:tangential
 Investigative Direction: Compare with CERN's published mission statement.
 
@@ -1358,7 +1347,7 @@ Transcript Snippet: it is just a fact that they do have that Shiva structure at 
 
 Anchored Artifacts: A-1739.2
 Mentions: N-3, N-541
-Related Nodes: N-11029
+Related Nodes: N-10948
 Tags: relevance:tangential
 Investigative Direction: CERN has publicly acknowledged a Shiva statue gifted by India; confirm its placement.
 
@@ -1374,7 +1363,7 @@ Transcript Snippet: These are quote unquote scientists that are dressed up in ro
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11029, N-10414
+Related Nodes: N-10948, N-10387
 Supports: C-5107
 Tags: relevance:tangential
 Investigative Direction: Find the original video and CERN's statement; it was widely reported as a staged joke video.
@@ -1421,7 +1410,7 @@ Transcript Snippet: What was this mass campaign to effectively collect everybody
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11341
+Related Nodes: N-11257
 Tags: relevance:tangential
 Investigative Direction: No evidence is presented; the host's inference.
 
@@ -1437,7 +1426,7 @@ Transcript Snippet: Imagine the startling proposition that the Nephilim, the gia
 
 Anchored Artifacts: A-1740.1
 Mentions: N-545
-Related Nodes: N-10490
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: Obtain the original Omega Man Radio broadcast; the clip is a theory, not a record.
 
@@ -1453,7 +1442,7 @@ Transcript Snippet: Interesting that the US military started its military occupa
 
 Anchored Artifacts: 
 Mentions: N-541
-Related Nodes: N-10480
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: The transcript does not give a date for the alleged find; compare against the invasion and occupation timeline.
 
@@ -1469,7 +1458,7 @@ Transcript Snippet: established 500 military bases in the largest embassy of any
 
 Anchored Artifacts: 
 Mentions: N-541
-Related Nodes: N-10481
+Related Nodes: N-10448
 Tags: relevance:tangential
 Investigative Direction: Check the Department of Defense base count in Iraq and the location of the US embassy in Baghdad.
 
@@ -1485,7 +1474,7 @@ Transcript Snippet: I have a feeling we found the weapon of mass destruction.
 
 Anchored Artifacts: 
 Mentions: N-541
-Related Nodes: N-10480
+Related Nodes: N-10447
 Tags: relevance:tangential
 Investigative Direction: Speculation; no document is cited.
 
@@ -1547,7 +1536,7 @@ Transcript Snippet: She heard the story and she said that Andrew Kolvet and the 
 
 Anchored Artifacts: 
 Mentions: N-14, N-2
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's original statement and compare with the surgeon's and TPUSA's accounts.
@@ -1564,7 +1553,7 @@ Transcript Snippet: The reality is her and Andrew called the doctor together thr
 
 Anchored Artifacts: 
 Mentions: N-14, N-2
-Related Nodes: N-10447
+Related Nodes: N-10416
 Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Obtain call records and the surgeon's account; the host dates the call to the day of the funeral.
@@ -1581,7 +1570,7 @@ Transcript Snippet: He didn't violate Tippa, nor did I ever for a moment believe
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Review the surgeon's statements and any HIPAA consent given by the family.
 
@@ -1597,7 +1586,7 @@ Transcript Snippet: she told us that Charlie did not text anyone the night befor
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-237
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-5452
 Tags: relevance:core
 Investigative Direction: Review the Glenn Beck interview for the exact wording.
@@ -1614,7 +1603,7 @@ Transcript Snippet: The reality I have his phone.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Ask the host to clarify what she means (possession of the phone, or records from it) before relying on it.
 
@@ -1630,7 +1619,7 @@ Transcript Snippet: The reality is that Charlie texted both Andrew Kolvet and Da
 
 Anchored Artifacts: 
 Mentions: N-1, N-14, N-270
-Related Nodes: N-10340
+Related Nodes: N-10318
 Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the text messages; TPUSA conceded Kolvet received the text, per earlier episodes.
@@ -1663,7 +1652,7 @@ Transcript Snippet: And they're telling us he just wanted tips on how to debate 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Identify who gave this account and in which statement.
 
@@ -1679,7 +1668,7 @@ Transcript Snippet: the reason for that is because Dan Flood and Andrew Kolvet m
 
 Anchored Artifacts: 
 Mentions: N-270, N-14, N-2, N-1
-Related Nodes: N-10470
+Related Nodes: N-10439
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's statement naming the app.
 
@@ -1695,7 +1684,7 @@ Transcript Snippet: Dan Flood actually messaged him on iMessage.
 
 Anchored Artifacts: 
 Mentions: N-270, N-3, N-1
-Related Nodes: N-10470
+Related Nodes: N-10439
 Supports: C-6053
 Tags: relevance:core
 Investigative Direction: Compare with the source cited in episode 67.
@@ -1712,7 +1701,7 @@ Transcript Snippet: The reality is Mikey called Elizabeth first.
 
 Anchored Artifacts: 
 Mentions: N-190, N-217
-Related Nodes: N-10193
+Related Nodes: N-10185
 Supports: C-4104
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot.
@@ -1729,7 +1718,7 @@ Transcript Snippet: For some reason, she was completely rinsed out of the story,
 
 Anchored Artifacts: 
 Mentions: N-217
-Related Nodes: N-10339
+Related Nodes: N-10317
 Supports: C-4109
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's public timeline with the call sequence.
@@ -1746,7 +1735,7 @@ Transcript Snippet: And then they conference called Erika over 3 minutes later.
 
 Anchored Artifacts: 
 Mentions: N-190, N-217, N-2
-Related Nodes: N-10193
+Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Obtain the call log timestamps.
 
@@ -1762,7 +1751,7 @@ Transcript Snippet: She said, "He called me within seconds."
 
 Anchored Artifacts: 
 Mentions: N-2, N-190
-Related Nodes: N-10193
+Related Nodes: N-10185
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's original statement and compare it with the call log.
 
@@ -1778,7 +1767,7 @@ Transcript Snippet: Andrew said that when he landed in Provo, he and Erika colla
 
 Anchored Artifacts: 
 Mentions: N-14, N-2
-Related Nodes: N-10548, N-10074
+Related Nodes: N-10502, N-10071
 Supports: C-5702
 Tags: relevance:core
 Investigative Direction: Compare with the flight records for the two planes.
@@ -1795,7 +1784,7 @@ Transcript Snippet: when I asked the question whether or not he flew with his wi
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10554
+Related Nodes: N-10507
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest or TPUSA's written confirmation.
 
@@ -1811,7 +1800,7 @@ Transcript Snippet: she waited an hour on the tarmac for Andrew's Kovat's plane 
 
 Anchored Artifacts: 
 Mentions: N-2, N-14
-Related Nodes: N-10548
+Related Nodes: N-10502
 Supports: C-5705
 Tags: relevance:core
 Investigative Direction: Compare with the flight records showing roughly an hour between landings.
@@ -1888,7 +1877,7 @@ Transcript Snippet: a pretty strong series of tips that I received that Erika wa
 
 Anchored Artifacts: 
 Mentions: N-544, N-2, N-3
-Related Nodes: N-10485
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.
 
@@ -1904,7 +1893,7 @@ Transcript Snippet: she is regularly at Dream City Church.
 
 Anchored Artifacts: 
 Mentions: N-544
-Related Nodes: N-10487
+Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Verify Martin's affiliation through church records or public posts.
 
@@ -1920,7 +1909,7 @@ Transcript Snippet: He would do that weekly at Dream City Church. This began wit
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10487
+Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Find the dates and recordings of Kirk's Dream City Church appearances.
 
@@ -1936,7 +1925,7 @@ Transcript Snippet: Kind of begins with Rob McCoy and then Dream City Church and
 
 Anchored Artifacts: 
 Mentions: N-17
-Related Nodes: N-10398, N-10487
+Related Nodes: N-10371, N-10452
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Faith's founding documents and the Wikipedia history discussed in episode 21.
 
@@ -1952,7 +1941,7 @@ Transcript Snippet: Allegedly, she was with Erika when Mikey and Elizabeth calle
 
 Anchored Artifacts: 
 Mentions: N-544, N-2, N-190, N-217
-Related Nodes: N-10485, N-10193
+Related Nodes: N-10440, N-10185
 Tags: relevance:core
 Investigative Direction: Same as the tips behind the alibi claim.
 
@@ -1968,7 +1957,7 @@ Transcript Snippet: In fact, I'm being told that her and her mother were not tog
 
 Anchored Artifacts: 
 Mentions: N-2, N-489, N-3
-Related Nodes: N-10485
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Identify the source of the report and any appointment record for the mother's treatment.
 
@@ -1984,7 +1973,7 @@ Transcript Snippet: starting a nonprofit at 17 instead of looking at that is lik
 
 Anchored Artifacts: A-1741.1
 Mentions: N-544, N-2
-Related Nodes: N-11165
+Related Nodes: N-11081
 Tags: relevance:context
 Investigative Direction: Verify the nonprofit's founding date.
 
@@ -2030,7 +2019,7 @@ Transcript Snippet: she's from Missouri, which has been, you know, one of those 
 
 Anchored Artifacts: 
 Mentions: N-544
-Related Nodes: N-10253
+Related Nodes: N-10239
 Tags: relevance:context
 Investigative Direction: Check the ADS-B track of the Egyptian planes for Missouri stops.
 
@@ -2046,7 +2035,7 @@ Transcript Snippet: I'm also unable to determine what exactly it is that her hus
 
 Anchored Artifacts: 
 Mentions: N-544
-Related Nodes: N-10486
+Related Nodes: N-10451
 Tags: relevance:tangential
 Investigative Direction: Personal detail about a private individual.
 
@@ -2062,7 +2051,7 @@ Transcript Snippet: I will state that I do not believe that Erika Kirk was with 
 
 Anchored Artifacts: 
 Mentions: N-2, N-489
-Related Nodes: N-10485
+Related Nodes: N-10440
 Tags: relevance:core
 Investigative Direction: Obtain records of the mother's treatment on that date and of Erika Kirk's whereabouts.
 
@@ -2078,7 +2067,7 @@ Transcript Snippet: Email us at more tipscandowens. com.
 
 Anchored Artifacts: A-3219.1
 Mentions: N-3, N-544
-Related Nodes: N-10485, N-10487
+Related Nodes: N-10440, N-10452
 Tags: relevance:core
 Investigative Direction: Review the tips received at the tip address.
 
@@ -2094,7 +2083,7 @@ Transcript Snippet: People have emailed me about Dream City Church and about tha
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10487
+Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Obtain recordings of the pastor's remarks after the assassination.
 
@@ -2110,7 +2099,7 @@ Transcript Snippet: the radical shift almost that Turning Point made from discus
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-10000, N-10398
+Related Nodes: N-10000, N-10371
 Tags: relevance:context
 Investigative Direction: Compare TPUSA content and messaging before and after 2020.
 
@@ -2126,7 +2115,7 @@ Transcript Snippet: what was guiding that seems to be Erika his very faithful so
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10398, N-10246, N-10487
+Related Nodes: N-10371, N-10232, N-10452
 Tags: relevance:context
 Investigative Direction: Find dated accounts of Erika Kirk's influence on Charlie's church involvement.
 
@@ -2173,7 +2162,7 @@ Transcript Snippet: there was one that left the morning of Charlie's assassinati
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10488, N-10253
+Related Nodes: N-10453, N-10239
 Supports: C-3620
 Tags: relevance:core
 Investigative Direction: Obtain ADS-B data for the Egyptian planes on September 10.
@@ -2190,7 +2179,7 @@ Transcript Snippet: if you don't want your communications to be tracked, you'd g
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10488
+Related Nodes: N-10453
 Tags: relevance:core
 Investigative Direction: Speculation; any evidence would be in the ADS-B and communications logs.
 
@@ -2206,7 +2195,7 @@ Transcript Snippet: And the Egyptian plane panic was so consistent, so loud, and
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10299
+Related Nodes: N-10281
 Supports: C-2478
 Tags: relevance:context
 Investigative Direction: Compile the public responses on the Egyptian planes.
@@ -2223,7 +2212,7 @@ Transcript Snippet: And like I said, these planes have been tracking Turning Poi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253, N-10000, N-10398
+Related Nodes: N-10239, N-10000, N-10371
 Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compare the flight tracks with TPUSA Faith event dates.
@@ -2332,7 +2321,7 @@ Investigative Direction: A sweeping assertion with no checkable record.
 - **Possible transcription error ("Sigmund Freud"):** Transcript renders "Sigmund Freud" as "Sigmund Freud" throughout. Preserved as transcribed; flag notes this is a host pronunciation / spelling variant of "Sigmund."
 - **Possible transcription error ("counterfeitterter"):** Bobby's comment contains a duplicated syllable in the source transcript; preserved as transcribed.
 - **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-549.
-- **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10485 carries it forward for future artifact anchoring.
+- **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10440 carries it forward for future artifact anchoring.
 - **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.
 - **Omega Man Radio clip attribution:** Host identifies the speakers as Tom Horn and Steve Quayle; the original episode date and full context are not provided. Artifact should be cross-referenced to the source episode before further claim inscription.

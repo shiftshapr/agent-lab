@@ -18,12 +18,12 @@
     "- **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-922, N-923, N-11359, N-11360",
-    "  - Tip-minted Nodes (reintro-ep131): N-11204",
+    "  - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-922, N-923, N-11275, N-11276",
+    "  - Tip-minted Nodes (reintro-ep131): N-11120",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-11256–C-11353",
     "  - Hole-minted Nodes (wave3): N-511",
-    "  - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-553, N-791, N-792, N-866, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156",
+    "  - Reused Nodes Appearing: N-10678, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-553, N-791, N-792, N-866, N-10003, N-10027, N-10016, N-10067, N-10203, N-10252, N-10259, N-10323, N-10358, N-10359, N-10378, N-10389, N-10447, N-10648, N-10673, N-10675, N-10820, N-10881, N-10934, N-11037, N-11047, N-11048, N-11065, N-11069, N-11072",
     "  - (see registers)",
     "",
     "## 2. Executive Summary",
@@ -402,7 +402,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11295, C-11296, N-97 (Ben Shapiro), N-10748*"
+     "raw": "*Related: C-11295, C-11296, N-97 (Ben Shapiro), N-10678*"
     },
     {
      "raw": ""
@@ -847,7 +847,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11298, N-3, N-97, N-10748*"
+     "raw": "*Related: C-11298, N-3, N-97, N-10678*"
     },
     {
      "raw": ""
@@ -887,7 +887,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11310, N-3, N-97, N-10748*"
+     "raw": "*Related: C-11310, N-3, N-97, N-10678*"
     },
     {
      "raw": ""
@@ -927,7 +927,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-11311, N-3, N-1, N-97, N-10748*"
+     "raw": "*Related: C-11311, N-3, N-1, N-97, N-10678*"
     },
     {
      "raw": ""
@@ -1242,8 +1242,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10748",
-   "header": "**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification",
+   "id": "N-10678",
+   "header": "**N-10678** Ben Shapiro 9/10 Lunch Meeting Identification",
    "label": "Ben Shapiro 9/10 Lunch Meeting Identification",
    "lines": [
     {
@@ -1929,9 +1929,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10033",
-   "header": "**N-10033** Hamptons Donor Pressure Investigation",
-   "label": "Hamptons Donor Pressure Investigation",
+   "id": "N-10016",
+   "header": "**N-10016** Hamptons Meeting Pressure Investigation",
+   "label": "Hamptons Meeting Pressure Investigation",
    "lines": [
     {
      "raw": ""
@@ -1958,8 +1958,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10070",
-   "header": "**N-10070** Daily Mail",
+   "id": "N-10067",
+   "header": "**N-10067** Daily Mail",
    "label": "Daily Mail",
    "lines": [
     {
@@ -1987,8 +1987,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10211",
-   "header": "**N-10211** Lincoln, Nebraska TPUSA Chapter Origin Question",
+   "id": "N-10203",
+   "header": "**N-10203** Lincoln, Nebraska TPUSA Chapter Origin Question",
    "label": "Lincoln, Nebraska TPUSA Chapter Origin Question",
    "lines": [
     {
@@ -2016,8 +2016,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10268",
-   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "id": "N-10252",
+   "header": "**N-10252** AmFest Speaker Removal Pattern",
    "label": "AmFest Speaker Removal Pattern",
    "lines": [
     {
@@ -2045,8 +2045,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10276",
-   "header": "**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+   "id": "N-10259",
+   "header": "**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap",
    "label": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
    "lines": [
     {
@@ -2074,8 +2074,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10345",
-   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "id": "N-10323",
+   "header": "**N-10323** Hampton Retreat Seth Dillon Confrontation",
    "label": "Hampton Retreat Seth Dillon Confrontation",
    "lines": [
     {
@@ -2103,8 +2103,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10385",
-   "header": "**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "id": "N-10358",
+   "header": "**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
    "label": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
    "lines": [
     {
@@ -2132,8 +2132,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10386",
-   "header": "**N-10386** Ben Shapiro Hostile Takeover Pattern",
+   "id": "N-10359",
+   "header": "**N-10359** Ben Shapiro Hostile Takeover Pattern",
    "label": "Ben Shapiro Hostile Takeover Pattern",
    "lines": [
     {
@@ -2161,8 +2161,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10405",
-   "header": "**N-10405** September 10 Plot Against Candace Owens",
+   "id": "N-10378",
+   "header": "**N-10378** September 10 Plot Against Candace Owens",
    "label": "September 10 Plot Against Candace Owens",
    "lines": [
     {
@@ -2190,8 +2190,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10416",
-   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "id": "N-10389",
+   "header": "**N-10389** Daily Wire Stalking Pattern",
    "label": "Daily Wire Stalking Pattern",
    "lines": [
     {
@@ -2219,8 +2219,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10480",
-   "header": "**N-10480** Nimrod / Gilgamesh Remains Extraction Question",
+   "id": "N-10447",
+   "header": "**N-10447** Nimrod / Gilgamesh Remains Extraction Question",
    "label": "Nimrod / Gilgamesh Remains Extraction Question",
    "lines": [
     {
@@ -2248,8 +2248,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10712",
-   "header": "**N-10712** Ben Shapiro Car Ride Live Updates",
+   "id": "N-10648",
+   "header": "**N-10648** Ben Shapiro Car Ride Live Updates",
    "label": "Ben Shapiro Car Ride Live Updates",
    "lines": [
     {
@@ -2277,8 +2277,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10741",
-   "header": "**N-10741** Sandy Hook Comparison Rhetoric",
+   "id": "N-10673",
+   "header": "**N-10673** Sandy Hook Comparison Rhetoric",
    "label": "Sandy Hook Comparison Rhetoric",
    "lines": [
     {
@@ -2306,8 +2306,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10743",
-   "header": "**N-10743** Daily Mail Article Source Identity",
+   "id": "N-10675",
+   "header": "**N-10675** Daily Mail Article Source Identity",
    "label": "Daily Mail Article Source Identity",
    "lines": [
     {
@@ -2335,37 +2335,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10745",
-   "header": "**N-10745** Daily Mail Article Sourcing Question",
-   "label": "Daily Mail Article Sourcing Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Reused node cited by new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-11317, C-11351*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -2393,8 +2364,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10960",
-   "header": "**N-10960** US Weekly",
+   "id": "N-10881",
+   "header": "**N-10881** US Weekly",
    "label": "US Weekly",
    "lines": [
     {
@@ -2422,8 +2393,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11014",
-   "header": "**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim",
+   "id": "N-10934",
+   "header": "**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim",
    "label": "TPUSA Post-Assassination Merchandise Revenue Claim",
    "lines": [
     {
@@ -2451,8 +2422,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11119",
-   "header": "**N-11119** Andrew Breitbart Death and Autopsy Inquiry",
+   "id": "N-11037",
+   "header": "**N-11037** Andrew Breitbart Death and Autopsy Inquiry",
    "label": "Andrew Breitbart Death and Autopsy Inquiry",
    "lines": [
     {
@@ -2480,8 +2451,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11129",
-   "header": "**N-11129** Freemasonry",
+   "id": "N-11047",
+   "header": "**N-11047** Freemasonry",
    "label": "Freemasonry",
    "lines": [
     {
@@ -2509,8 +2480,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11130",
-   "header": "**N-11130** B'nai B'rith",
+   "id": "N-11048",
+   "header": "**N-11048** B'nai B'rith",
    "label": "B'nai B'rith",
    "lines": [
     {
@@ -2538,8 +2509,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11149",
-   "header": "**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+   "id": "N-11065",
+   "header": "**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss",
    "label": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
    "lines": [
     {
@@ -2567,8 +2538,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11153",
-   "header": "**N-11153** Anti-Defamation League",
+   "id": "N-11069",
+   "header": "**N-11069** Anti-Defamation League",
    "label": "Anti-Defamation League",
    "lines": [
     {
@@ -2596,8 +2567,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11156",
-   "header": "**N-11156** Leo Frank Case and ADL Origin Claim",
+   "id": "N-11072",
+   "header": "**N-11072** Leo Frank Case and ADL Origin Claim",
    "label": "Leo Frank Case and ADL Origin Claim",
    "lines": [
     {
@@ -2625,8 +2596,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11204",
-   "header": "**N-11204** Twitch Memorial NDA Claim",
+   "id": "N-11120",
+   "header": "**N-11120** Twitch Memorial NDA Claim",
    "label": "Twitch Memorial NDA Claim",
    "lines": [
     {
@@ -2778,8 +2749,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11359",
-   "header": "**N-11359** Chabad Lubavitch",
+   "id": "N-11275",
+   "header": "**N-11275** Chabad Lubavitch",
    "label": "Chabad Lubavitch",
    "lines": [
     {
@@ -2807,8 +2778,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11360",
-   "header": "**N-11360** Ronald Reagan Presidential Library",
+   "id": "N-11276",
+   "header": "**N-11276** Ronald Reagan Presidential Library",
    "label": "Ronald Reagan Presidential Library",
    "lines": [
     {
@@ -3297,7 +3268,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "raw": ""
@@ -3353,7 +3324,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "raw": ""
@@ -4070,7 +4041,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "k": "Supports",
@@ -4143,7 +4114,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "k": "Confidence",
@@ -4208,7 +4179,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "k": "Confidence",
@@ -4383,7 +4354,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10480"
+     "v": "N-10447"
     },
     {
      "k": "Tags",
@@ -4501,7 +4472,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10386"
+     "v": "N-10359"
     },
     {
      "k": "Supports",
@@ -4566,7 +4537,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11119"
+     "v": "N-11037"
     },
     {
      "k": "Supports",
@@ -4692,7 +4663,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10385"
+     "v": "N-10358"
     },
     {
      "k": "Tags",
@@ -4753,7 +4724,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10386"
+     "v": "N-10359"
     },
     {
      "k": "Tags",
@@ -5180,7 +5151,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10416"
+     "v": "N-10389"
     },
     {
      "k": "Tags",
@@ -5587,7 +5558,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10268"
+     "v": "N-10252"
     },
     {
      "k": "Supports",
@@ -5713,7 +5684,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10033"
+     "v": "N-10016"
     },
     {
      "k": "Supports",
@@ -6075,7 +6046,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10712, N-10748"
+     "v": "N-10648, N-10678"
     },
     {
      "k": "Supports",
@@ -6140,7 +6111,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "k": "Tags",
@@ -6201,7 +6172,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "k": "Tags",
@@ -6262,7 +6233,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748, N-11360"
+     "v": "N-10678, N-11276"
     },
     {
      "k": "Tags",
@@ -6323,7 +6294,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748, N-10211, N-10276"
+     "v": "N-10678, N-10203, N-10259"
     },
     {
      "k": "Tags",
@@ -6384,7 +6355,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748, N-11130"
+     "v": "N-10678, N-11048"
     },
     {
      "k": "Tags",
@@ -6445,7 +6416,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11130, N-11129"
+     "v": "N-11048, N-11047"
     },
     {
      "k": "Supports",
@@ -6510,7 +6481,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11130, N-11153, N-11156"
+     "v": "N-11048, N-11069, N-11072"
     },
     {
      "k": "Supports",
@@ -6575,7 +6546,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11153, N-11156"
+     "v": "N-11069, N-11072"
     },
     {
      "k": "Tags",
@@ -6636,7 +6607,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748, N-11130"
+     "v": "N-10678, N-11048"
     },
     {
      "k": "Tags",
@@ -6697,7 +6668,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748, N-11130, N-11359"
+     "v": "N-10678, N-11048, N-11275"
     },
     {
      "k": "Tags",
@@ -6758,7 +6729,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10405, N-11359"
+     "v": "N-10378, N-11275"
     },
     {
      "k": "Tags",
@@ -6819,7 +6790,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10748"
+     "v": "N-10678"
     },
     {
      "k": "Tags",
@@ -6994,7 +6965,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10743, N-10070"
+     "v": "N-10675, N-10067"
     },
     {
      "k": "Supports",
@@ -7059,7 +7030,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10743"
+     "v": "N-10067, N-10675"
     },
     {
      "k": "Supports",
@@ -7124,7 +7095,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10743, N-10745"
+     "v": "N-10675"
     },
     {
      "k": "Supports",
@@ -7189,7 +7160,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10960"
+     "v": "N-10881"
     },
     {
      "k": "Tags",
@@ -7307,7 +7278,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899"
+     "v": "N-10820"
     },
     {
      "k": "Tags",
@@ -7543,7 +7514,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10743"
+     "v": "N-10675"
     },
     {
      "k": "Tags",
@@ -7604,7 +7575,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10743"
+     "v": "N-10675"
     },
     {
      "k": "Supports",
@@ -8011,7 +7982,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11204"
+     "v": "N-11120"
     },
     {
      "k": "Tags",
@@ -8072,7 +8043,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11204"
+     "v": "N-11120"
     },
     {
      "k": "Tags",
@@ -8251,7 +8222,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11149"
+     "v": "N-11065"
     },
     {
      "k": "Tags",
@@ -8373,7 +8344,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11014"
+     "v": "N-10934"
     },
     {
      "k": "Tags",
@@ -8434,7 +8405,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10027, N-10345"
+     "v": "N-10027, N-10323"
     },
     {
      "k": "Tags",
@@ -8495,7 +8466,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10345"
+     "v": "N-10323"
     },
     {
      "k": "Tags",
@@ -8556,7 +8527,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10743, N-10745"
+     "v": "N-10675"
     },
     {
      "k": "Supports",
@@ -8621,7 +8592,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10741"
+     "v": "N-10673"
     },
     {
      "k": "Supports",

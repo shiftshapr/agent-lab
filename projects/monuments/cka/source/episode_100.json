@@ -21,8 +21,8 @@
     "- **Episode Ledger Summary**:",
     "  - Tip-minted Nodes (skeleton-gary): N-614",
     "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Tip-minted Nodes (skeleton): N-600, N-601, N-604, N-605, N-10909",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-159, N-163, N-211, N-221, N-224, N-229, N-266, N-270, N-330, N-361, N-366, N-130, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-603, N-10912, N-602, N-10681, N-10911, N-10689, N-10910, N-10768",
+    "  - Tip-minted Nodes (skeleton): N-600, N-601, N-604, N-605, N-10830",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-159, N-163, N-211, N-221, N-224, N-229, N-266, N-270, N-330, N-361, N-366, N-130, N-10000, N-10121, N-10225, N-10342, N-10347, N-10351, N-10358, N-10389, N-10390, N-10406, N-10418, N-10419, N-10577, N-10593, N-10819, N-10820, N-10821, N-10921, N-603, N-10833, N-602, N-10619, N-10832, N-10627, N-10831, N-10697",
     "  - Claim Range: C-8921–C-8985",
     "  - (see registers)",
     "",
@@ -80,7 +80,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8921, C-8922, N-266, N-130, N-3, N-10651*"
+     "raw": "*Related: C-8921, C-8922, N-266, N-130, N-3, N-10593*"
     },
     {
      "raw": ""
@@ -116,7 +116,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8932, N-600, N-10909, N-10910*"
+     "raw": "*Related: C-8932, N-600, N-10830, N-10831*"
     },
     {
      "raw": ""
@@ -176,7 +176,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8928, C-8929, N-330, N-600, N-266, N-10909*"
+     "raw": "*Related: C-8928, C-8929, N-330, N-600, N-266, N-10830*"
     },
     {
      "raw": ""
@@ -236,7 +236,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8930, C-8931, N-600, N-266, N-1, N-10768*"
+     "raw": "*Related: C-8930, C-8931, N-600, N-266, N-1, N-10697*"
     },
     {
      "raw": ""
@@ -399,7 +399,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8937, N-266, N-2, N-361, N-10000, N-10899*"
+     "raw": "*Related: C-8937, N-266, N-2, N-361, N-10000, N-10820*"
     },
     {
      "raw": ""
@@ -442,7 +442,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8938, N-361, N-10899*"
+     "raw": "*Related: C-8938, N-361, N-10820*"
     },
     {
      "raw": ""
@@ -502,7 +502,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8939, N-266, N-361, N-3, N-10643*"
+     "raw": "*Related: C-8939, N-266, N-361, N-3, N-10347*"
     },
     {
      "raw": ""
@@ -545,7 +545,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8944, C-8945, C-8946, C-8948, C-8949, N-15, N-14, N-361, N-266, N-2, N-10373, N-10450*"
+     "raw": "*Related: C-8944, C-8945, C-8946, C-8948, C-8949, N-15, N-14, N-361, N-266, N-2, N-10347, N-10419*"
     },
     {
      "raw": ""
@@ -588,7 +588,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8950, N-270, N-266, N-10651*"
+     "raw": "*Related: C-8950, N-270, N-266, N-10593*"
     },
     {
      "raw": ""
@@ -641,7 +641,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8943, N-2, N-14, N-10472*"
+     "raw": "*Related: C-8943, N-2, N-14, N-10390*"
     },
     {
      "raw": ""
@@ -701,7 +701,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8955, C-8956, C-8957, C-8958, N-366, N-30, N-10631, N-10689*"
+     "raw": "*Related: C-8955, C-8956, C-8957, C-8958, N-366, N-30, N-10577, N-10627*"
     },
     {
      "raw": ""
@@ -907,7 +907,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8981, N-366, N-605, N-10912*"
+     "raw": "*Related: C-8981, N-366, N-605, N-10833*"
     },
     {
      "raw": ""
@@ -1003,7 +1003,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-8973, C-8976, N-605, N-10912*"
+     "raw": "*Related: C-8973, C-8976, N-605, N-10833*"
     },
     {
      "raw": ""
@@ -1675,8 +1675,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10126",
-   "header": "**N-10126** London / UK",
+   "id": "N-10121",
+   "header": "**N-10121** London / UK",
    "label": "London / UK",
    "lines": [
     {
@@ -1698,8 +1698,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10238",
-   "header": "**N-10238** Daily Wire Intern Covert Recording Operation",
+   "id": "N-10225",
+   "header": "**N-10225** Daily Wire Intern Covert Recording Operation",
    "label": "Daily Wire Intern Covert Recording Operation",
    "lines": [
     {
@@ -1721,8 +1721,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10367",
-   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "id": "N-10342",
+   "header": "**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
    "lines": [
     {
@@ -1744,8 +1744,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10373",
-   "header": "**N-10373** Brian Harpole Fort Huachuca Presence Verification",
+   "id": "N-10347",
+   "header": "**N-10347** Brian Harpole Fort Huachuca Presence Verification",
    "label": "Brian Harpole Fort Huachuca Presence Verification",
    "lines": [
     {
@@ -1767,31 +1767,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10375",
-   "header": "**N-10375** Fort Huachuca Sighting Verification",
-   "label": "Fort Huachuca Sighting Verification",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "The YouTubers' claims that Mitch Snow was never there, and the host's rebuttal."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-8924, C-8925*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10378",
-   "header": "**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow",
+   "id": "N-10351",
+   "header": "**N-10351** Andrew Kolvet Coordination with Attackers of Mitch Snow",
    "label": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
    "lines": [
     {
@@ -1813,8 +1790,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10385",
-   "header": "**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "id": "N-10358",
+   "header": "**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
    "label": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
    "lines": [
     {
@@ -1836,8 +1813,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10416",
-   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "id": "N-10389",
+   "header": "**N-10389** Daily Wire Stalking Pattern",
    "label": "Daily Wire Stalking Pattern",
    "lines": [
     {
@@ -1859,8 +1836,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10417",
-   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "id": "N-10390",
+   "header": "**N-10390** Fort Huachuca Erika Presence Investigation",
    "label": "Fort Huachuca Erika Presence Investigation",
    "lines": [
     {
@@ -1882,8 +1859,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10437",
-   "header": "**N-10437** Aspen Donor Recall Verification",
+   "id": "N-10406",
+   "header": "**N-10406** Aspen Donor Recall Verification",
    "label": "Aspen Donor Recall Verification",
    "lines": [
     {
@@ -1905,8 +1882,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10449",
-   "header": "**N-10449** Daily Wire Hungary Production Expenditure Investigation",
+   "id": "N-10418",
+   "header": "**N-10418** Daily Wire Hungary Production Expenditure Investigation",
    "label": "Daily Wire Hungary Production Expenditure Investigation",
    "lines": [
     {
@@ -1928,8 +1905,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10450",
-   "header": "**N-10450** Fort Huachuca PR Response Coordination Question",
+   "id": "N-10419",
+   "header": "**N-10419** Fort Huachuca PR Response Coordination Question",
    "label": "Fort Huachuca PR Response Coordination Question",
    "lines": [
     {
@@ -1951,31 +1928,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10472",
-   "header": "**N-10472** Fort Huachuca Alibi Investigation",
-   "label": "Fort Huachuca Alibi Investigation",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Kolvet's relayed alibis for Erika Kirk, the wrong-date photo and the Watters account."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-8941, C-8943, C-8946, C-8947, C-8949, A-2550.1*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10631",
-   "header": "**N-10631** George Farmer / Tracy Robinson $6,987 Incident",
+   "id": "N-10577",
+   "header": "**N-10577** George Farmer / Tracy Robinson $6,987 Incident",
    "label": "George Farmer / Tracy Robinson $6,987 Incident",
    "lines": [
     {
@@ -1997,31 +1951,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10643",
-   "header": "**N-10643** Harpole Fort Huachuca Alibi Question",
-   "label": "Harpole Fort Huachuca Alibi Question",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "The host's three unanswered messages asking Harpole to confirm or deny."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-8939, A-2549.1*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10651",
-   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "id": "N-10593",
+   "header": "**N-10593** Brian Harpole Lawsuit Coordination Question",
    "label": "Brian Harpole Lawsuit Coordination Question",
    "lines": [
     {
@@ -2043,8 +1974,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10681",
-   "header": "**N-10681** Shawn Ryan Show Interview Clip Bundle",
+   "id": "N-10619",
+   "header": "**N-10619** Shawn Ryan Show Interview Clip Bundle",
    "label": "Shawn Ryan Show Interview Clip Bundle",
    "lines": [
     {
@@ -2066,8 +1997,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10689",
-   "header": "**N-10689** Daily Wire Financial Status and IPO Effort",
+   "id": "N-10627",
+   "header": "**N-10627** Daily Wire Financial Status and IPO Effort",
    "label": "Daily Wire Financial Status and IPO Effort",
    "lines": [
     {
@@ -2089,8 +2020,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10768",
-   "header": "**N-10768** Shaped Charge / Exploding Microphone Hypothesis",
+   "id": "N-10697",
+   "header": "**N-10697** Shaped Charge / Exploding Microphone Hypothesis",
    "label": "Shaped Charge / Exploding Microphone Hypothesis",
    "lines": [
     {
@@ -2112,8 +2043,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10898",
-   "header": "**N-10898** New York Post",
+   "id": "N-10819",
+   "header": "**N-10819** New York Post",
    "label": "New York Post",
    "lines": [
     {
@@ -2135,8 +2066,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11001",
-   "header": "**N-11001** Valhalla VFT",
+   "id": "N-10921",
+   "header": "**N-10921** Valhalla VFT",
    "label": "Valhalla VFT",
    "lines": [
     {
@@ -2176,7 +2107,7 @@
      "raw": ""
     },
     {
-     "raw": "Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\")."
+     "raw": "Runs the Paramount Tactical YouTube channel (N-10820); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\")."
     },
     {
      "raw": ""
@@ -2197,8 +2128,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -2220,8 +2151,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -2243,8 +2174,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10909",
-   "header": "**N-10909** Blake Bednarz Preservation Order / Non-Suit Discrepancy",
+   "id": "N-10830",
+   "header": "**N-10830** Blake Bednarz Preservation Order / Non-Suit Discrepancy",
    "label": "Blake Bednarz Preservation Order / Non-Suit Discrepancy",
    "lines": [
     {
@@ -2271,8 +2202,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10910",
-   "header": "**N-10910** Dhillon Law Group",
+   "id": "N-10831",
+   "header": "**N-10831** Dhillon Law Group",
    "label": "Dhillon Law Group",
    "lines": [
     {
@@ -2298,8 +2229,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10911",
-   "header": "**N-10911** Department of Homeland Security",
+   "id": "N-10832",
+   "header": "**N-10832** Department of Homeland Security",
    "label": "Department of Homeland Security",
    "lines": [
     {
@@ -2325,8 +2256,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10912",
-   "header": "**N-10912** Zachary Lewis Daily Wire Kids Case",
+   "id": "N-10833",
+   "header": "**N-10833** Zachary Lewis Daily Wire Kids Case",
    "label": "Zachary Lewis Daily Wire Kids Case",
    "lines": [
     {
@@ -2398,7 +2329,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -2455,7 +2386,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -2567,7 +2498,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10375, N-11001"
+     "v": "N-10820, N-10342, N-10921"
     },
     {
      "k": "Investigative Direction",
@@ -2625,7 +2556,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10375, N-10367"
+     "v": "N-10342"
     },
     {
      "k": "Supports",
@@ -2687,7 +2618,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-11001"
+     "v": "N-10820, N-10921"
     },
     {
      "k": "Investigative Direction",
@@ -2745,7 +2676,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909, N-10651"
+     "v": "N-10830, N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -2802,7 +2733,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909"
+     "v": "N-10830"
     },
     {
      "k": "Investigative Direction",
@@ -2859,7 +2790,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909, N-10651"
+     "v": "N-10830, N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -2916,7 +2847,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10681"
+     "v": "N-10619"
     },
     {
      "k": "Investigative Direction",
@@ -2973,7 +2904,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909, N-10768"
+     "v": "N-10830, N-10697"
     },
     {
      "k": "Investigative Direction",
@@ -3030,7 +2961,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909, N-10910, N-10651"
+     "v": "N-10830, N-10831, N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -3141,7 +3072,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909"
+     "v": "N-10830"
     },
     {
      "k": "Investigative Direction",
@@ -3199,7 +3130,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909"
+     "v": "N-10830"
     },
     {
      "k": "Investigative Direction",
@@ -3257,7 +3188,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909"
+     "v": "N-10830"
     },
     {
      "k": "Investigative Direction",
@@ -3314,7 +3245,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10899, N-10651"
+     "v": "N-10000, N-10820, N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -3371,7 +3302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899"
+     "v": "N-10820"
     },
     {
      "k": "Investigative Direction",
@@ -3428,7 +3359,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643"
+     "v": "N-10347"
     },
     {
      "k": "Supports",
@@ -3490,7 +3421,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Supports",
@@ -3552,7 +3483,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10378, N-10472"
+     "v": "N-10820, N-10351, N-10390"
     },
     {
      "k": "Supports",
@@ -3671,7 +3602,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10472"
+     "v": "N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -3728,7 +3659,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10373, N-10450"
+     "v": "N-10347, N-10419"
     },
     {
      "k": "Investigative Direction",
@@ -3785,7 +3716,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10417"
+     "v": "N-10390"
     },
     {
      "k": "Supports",
@@ -3846,7 +3777,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10472"
+     "v": "N-10820, N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -3904,7 +3835,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10472"
+     "v": "N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -4014,7 +3945,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10472"
+     "v": "N-10820, N-10390"
     },
     {
      "k": "Investigative Direction",
@@ -4071,7 +4002,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -4129,7 +4060,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10651"
+     "v": "N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -4187,7 +4118,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10238, N-10416"
+     "v": "N-10821, N-10225, N-10389"
     },
     {
      "k": "Investigative Direction",
@@ -4245,7 +4176,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -4303,7 +4234,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10910, N-10900, N-10651"
+     "v": "N-10831, N-10821, N-10593"
     },
     {
      "k": "Investigative Direction",
@@ -4360,7 +4291,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10385, N-10631"
+     "v": "N-10358, N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -4417,7 +4348,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10689"
+     "v": "N-10821, N-10627"
     },
     {
      "k": "Investigative Direction",
@@ -4474,7 +4405,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10631"
+     "v": "N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -4531,7 +4462,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10631"
+     "v": "N-10821, N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -4589,7 +4520,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10631"
+     "v": "N-10821, N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -4647,7 +4578,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10449, N-10689, N-10900"
+     "v": "N-10418, N-10627, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -4705,7 +4636,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10449, N-10900"
+     "v": "N-10418, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -4763,7 +4694,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10126, N-10900"
+     "v": "N-10121, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -4821,7 +4752,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10416"
+     "v": "N-10821, N-10389"
     },
     {
      "k": "Investigative Direction",
@@ -4879,7 +4810,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900, N-10898, N-10631"
+     "v": "N-10821, N-10819, N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -4937,7 +4868,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10898, N-10631"
+     "v": "N-10819, N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -4995,7 +4926,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5053,7 +4984,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10631"
+     "v": "N-10577"
     },
     {
      "k": "Investigative Direction",
@@ -5111,7 +5042,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10911"
+     "v": "N-10832"
     },
     {
      "k": "Investigative Direction",
@@ -5169,7 +5100,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10911"
+     "v": "N-10832"
     },
     {
      "k": "Investigative Direction",
@@ -5280,7 +5211,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5338,7 +5269,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10385"
+     "v": "N-10358"
     },
     {
      "k": "Investigative Direction",
@@ -5395,7 +5326,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10912, N-10900"
+     "v": "N-10833, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5453,7 +5384,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10912, N-10900"
+     "v": "N-10833, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5511,7 +5442,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10912, N-10900"
+     "v": "N-10833, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5568,7 +5499,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10912"
+     "v": "N-10833"
     },
     {
      "k": "Investigative Direction",
@@ -5626,7 +5557,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10912, N-10900"
+     "v": "N-10833, N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5684,7 +5615,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Investigative Direction",
@@ -5847,7 +5778,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10912"
+     "v": "N-10833"
     },
     {
      "k": "Investigative Direction",
@@ -6016,7 +5947,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10437"
+     "v": "N-10406"
     },
     {
      "k": "Supports",
@@ -6078,7 +6009,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10909"
+     "v": "N-10830"
     },
     {
      "k": "Investigative Direction",
@@ -6793,8 +6724,8 @@
     "",
     "- **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.",
     "- **DIA beat**: the only keyword hit is the recalled request \"please send it to us tips@kcsun. com\" (00:11:02). It was treated as a DIA beat (C-8933, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The \"interesting lead today about Blake Bednarz\" (01:06:06) is a tip received but matched no keyword; it is recorded as C-8985 without an M-12 occurrence. M-14 does not air.",
-    "- **Name matching**: Harpole is transcribed as \"Bryan Harsin\" (00:00:01, 00:01:19), \"Brian Hopple\", \"Bryant Harpole\", \"Brett Harrelson\", \"Brian Hurlbut\", \"Brian Harpool\" and \"Brian Harp\"; all are mapped to N-266 from context. \"Barron\"/\"Baron Coleman\" is mapped to N-330 Baron Coleman, and \"Andrew Kolvet\" (comments) to N-14. \"Douglas Blake Bednarz\" and \"Blake Bednarz\" are treated as the same new person, N-600 Douglas Blake Bednarz. \"Dhillon Law Group\" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic \"Dhillon Law Group / Show Faith by Works Connection\".",
-    "- **Uncertain identities**: \"Caleb Robinson\" (N-603), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. \"Father Klein\" (N-601) could not be matched to any existing node. \"Gary\" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). \"Mark Meadows, the Secretary of Homeland Security\" (C-8969) is kept as transcribed; the name is likely wrong and no person node was minted. \"Matt Saracens\" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-8776. It is not inscribed.",
+    "- **Name matching**: Harpole is transcribed as \"Bryan Harsin\" (00:00:01, 00:01:19), \"Brian Hopple\", \"Bryant Harpole\", \"Brett Harrelson\", \"Brian Hurlbut\", \"Brian Harpool\" and \"Brian Harp\"; all are mapped to N-266 from context. \"Barron\"/\"Baron Coleman\" is mapped to N-330 Baron Coleman, and \"Andrew Kolvet\" (comments) to N-14. \"Douglas Blake Bednarz\" and \"Blake Bednarz\" are treated as the same new person, N-600 Douglas Blake Bednarz. \"Dhillon Law Group\" is minted as N-10831 Dhillon Law Group; the integrator should reconcile it with the existing topic \"Dhillon Law Group / Show Faith by Works Connection\".",
+    "- **Uncertain identities**: \"Caleb Robinson\" (N-603), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. \"Father Klein\" (N-601) could not be matched to any existing node. \"Gary\" of Paramount Tactical is folded into N-10820 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). \"Mark Meadows, the Secretary of Homeland Security\" (C-8969) is kept as transcribed; the name is likely wrong and no person node was minted. \"Matt Saracens\" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-8776. It is not inscribed.",
     "- **Internal inconsistency**: Coleman's clip says Bednarz \"is not listed in this lawsuit\" (00:07:17), but at 00:11:02 the host says \"They're listing him in the lawsuit.\" This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.",
     "- **Defamation safety**: Bednarz's accusations against Harpole (C-8928, C-8931), the YouTuber's allegations about Mitch Snow's past (C-8938), the George Farmer arrest allegations (C-8957, C-8958, C-8967) and the Zachary Lewis charges (C-8973 to C-8977; not convicted) are all attributed and none is stated as fact.",
     "- **Not inscribed as claims (admission test)**: The following were excluded as characterizations, opinions or rhetoric:",

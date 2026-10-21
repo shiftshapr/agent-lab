@@ -102,7 +102,7 @@
             "N-3",
             "N-14",
             "N-15",
-            "N-10957"
+            "N-10878"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -121,7 +121,7 @@
           "related_nodes": [
             "N-3",
             "N-14",
-            "N-10957"
+            "N-10878"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -139,7 +139,7 @@
           ],
           "related_nodes": [
             "N-10000",
-            "N-10957"
+            "N-10878"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -164,9 +164,9 @@
             "C-9791"
           ],
           "related_nodes": [
-            "N-10068",
-            "N-10888",
-            "N-10700"
+            "N-10065",
+            "N-10809",
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -184,7 +184,7 @@
             "C-9793"
           ],
           "related_nodes": [
-            "N-10888",
+            "N-10809",
             "N-591"
           ],
           "tags": [],
@@ -206,7 +206,7 @@
             "N-625",
             "N-621",
             "N-626",
-            "N-10888"
+            "N-10809"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -236,7 +236,7 @@
             "N-659",
             "N-662",
             "N-178",
-            "N-10955"
+            "N-10876"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -268,9 +268,9 @@
           "related_nodes": [
             "N-178",
             "N-664",
-            "N-10955",
-            "N-10958",
-            "N-10959"
+            "N-10876",
+            "N-10879",
+            "N-10880"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -325,7 +325,7 @@
             "C-9814"
           ],
           "related_nodes": [
-            "N-10960",
+            "N-10881",
             "N-544",
             "N-665",
             "N-2",
@@ -1040,8 +1040,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10068",
-      "ref": "N-10068",
+      "@id": "N-10065",
+      "ref": "N-10065",
       "name": "NSA",
       "type": "investigation_target",
       "description": "Redirected the host's FOIA request on the \"emotional asset\" email to the Department of War.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
       "type": "investigation_target",
       "description": "Named by the host (\"Apac\") as effectively ousting Thomas Massie.",
@@ -1076,8 +1076,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "Context for the host's allegation that Erika Kirk directed Andrew Kolvet to say Charlie only liked the architecture of the Catholic Church.",
@@ -1093,8 +1093,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@id": "N-10384",
+      "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
       "type": "investigation_target",
       "description": "Context for the host's statement that Greg Laurie is accused in court of trafficking people from Romania.",
@@ -1110,9 +1110,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10496",
-      "ref": "N-10496",
-      "name": "Egyptian Planes Investigation",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "The host says Erika Kirk laughed at the Egyptian planes' departure times on the day of the assassination.",
       "related_artifacts": [],
@@ -1127,9 +1127,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10519",
-      "ref": "N-10519",
-      "name": "Erika Kirk Next Model Management Involvement",
+      "@id": "N-10478",
+      "ref": "N-10478",
+      "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Context for the host's allegation about Erika Kirk and Jeffrey Epstein's orbit at Next Model Management.",
       "related_artifacts": [],
@@ -1144,8 +1144,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10541",
-      "ref": "N-10541",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
       "type": "investigation_target",
       "description": "Context for the host's paraphrase of Trump on bombing bridges in Iran.",
@@ -1161,8 +1161,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "Context for Erika Kirk's attendance at the White House Correspondents' Dinner and the shooting incident.",
@@ -1179,8 +1179,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10700",
-      "ref": "N-10700",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "Pending FOIA Requests",
       "type": "investigation_target",
       "description": "Cluster of FOIA requests filed by the host's team; this episode reports the NSA redirect and the Department of War \"burden\" reply on the \"emotional asset\" email.",
@@ -1201,8 +1201,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Received the redirected FOIA request and replied that it was too burdensome; the host says it was directing people to boost Erika Kirk.",
@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Transcript \"Paramount Not So Tactical\" / \"Paramount Tactical\". The host says the account accidentally exposed its use of ChatGPT and its place in an influencer network.",
@@ -1243,8 +1243,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
       "type": "topic",
       "description": "Investigation target: the internal email the host says described Erika Kirk as an \"emotional asset\" about an hour after the WHCD shooting and directed people to boost her \"I want to go home\" video. In this episode the host says Andrew Kolvet hosted Graham Allen to claim it was fake. She also says her FOIA request about it was redirected from the NSA to the Department of War, which called the request too burdensome.",
@@ -1263,14 +1263,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10888",
-        "N-10700"
+        "N-10809",
+        "N-10637"
       ]
     },
     {
       "@type": "Place",
-      "@id": "N-10955",
-      "ref": "N-10955",
+      "@id": "N-10876",
+      "ref": "N-10876",
       "name": "Sazan Island",
       "type": "place",
       "description": "Albania's largest island, off the coast of Albania, which the host identifies as the island Ivanka Trump says she \"found\" while swimming from a friend's boat. The news report describes it as a remote island that served as a secret military base under the communist regime. It is one of two sites of the Affinity Partners resort project.",
@@ -1292,8 +1292,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10956",
-      "ref": "N-10956",
+      "@id": "N-10877",
+      "ref": "N-10877",
       "name": "Catholics for Catholics",
       "type": "organization",
       "description": "Organizer of the March 2026 prayer event at which the host spoke. The host alleges Erika Kirk personally phoned priests, bishops and attendees to discourage them from attending.",
@@ -1309,8 +1309,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10957",
-      "ref": "N-10957",
+      "@id": "N-10878",
+      "ref": "N-10878",
       "name": "Charlie Kirk WLS \"I Appoint My Wife\" Video Authenticity Question",
       "type": "topic",
       "description": "Investigation target: whether the video released from the WLS event, in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA in his absence, is authentic, complete and in context. The host has emailed TPUSA executives for an on-record yes or no and has received no answer. She names the donors who asked the question as Julie and Arthur Fields, and says a donor source asserts the video is doctored.",
@@ -1333,13 +1333,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10194"
+        "N-10186"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Related prior topic on how and when TPUSA's succession plan was disclosed.",
@@ -1355,8 +1355,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10916",
-      "ref": "N-10916",
+      "@id": "N-10837",
+      "ref": "N-10837",
       "name": "Thomas Massie Kentucky Primary Outside Spending",
       "type": "topic",
       "description": "Outside spending against Representative Thomas Massie in his Kentucky Republican primary. In this episode the host says AIPAC effectively ousted him.",
@@ -1371,13 +1371,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-579",
-        "N-10083"
+        "N-10070"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10958",
-      "ref": "N-10958",
+      "@id": "N-10879",
+      "ref": "N-10879",
       "name": "Affinity Partners",
       "type": "organization",
       "description": "Jared Kushner's investment firm, described in the news report as spearheading a multi-billion euro project for two ultra luxury resort complexes in Albania.",
@@ -1398,8 +1398,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10959",
-      "ref": "N-10959",
+      "@id": "N-10880",
+      "ref": "N-10880",
       "name": "Affinity Partners Albania Resort Project Anti-Corruption Investigation",
       "type": "topic",
       "description": "Investigation target: the probe that the news report says Albania's state anti-corruption agency opened into the Kushner-linked resort project in the Narta Lagoon area and on Sazan Island. The agency has not disclosed further details. The host says she will follow it.",
@@ -1416,14 +1416,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10958",
-        "N-10955"
+        "N-10879",
+        "N-10876"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10960",
-      "ref": "N-10960",
+      "@id": "N-10881",
+      "ref": "N-10881",
       "name": "US Weekly",
       "type": "organization",
       "description": "Magazine that emailed the host with 24 hours to respond to a print story about Erika Kirk that includes comments about the host.",
@@ -1567,7 +1567,7 @@
       "claim": "The host says Erika Kirk chose to attend the White House Correspondents' Dinner, an event her husband never attended, and was filmed saying she wanted to go home after the Secret Service shooting incident.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27",
@@ -1586,7 +1586,7 @@
       "claim": "The host says Erika Kirk partners on faith work with people credibly accused in court, as she says Greg Laurie is, of trafficking people from Romania.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10411"
+        "N-10384"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -1605,7 +1605,7 @@
       "claim": "The host says Erika Kirk was \"hanging around Jeffrey Epstein's orbit of people over at Next Model Management in New York City\" and says she would like to hear an explanation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10519"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -1624,7 +1624,7 @@
       "claim": "The host alleges that Erika Kirk personally phoned priests, bishops and attendees, telling them not to attend the Catholics for Catholics prayer event the host held in March, where the host spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [],
       "claim_timestamp": "00:11:56",
@@ -1643,7 +1643,7 @@
       "claim": "The host alleges Erika Kirk directed Andrew Kolvet to lie about Charlie Kirk's attendance at the Catholic Church, saying he \"just likes the architecture.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10350"
+        "N-10328"
       ],
       "tags": [],
       "claim_timestamp": "00:13:20",
@@ -1698,7 +1698,7 @@
       "claim": "The host says no person who works for Turning Point USA has answered whether the video of Charlie Kirk saying he appoints his wife to the position is doctored.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10957",
+        "N-10878",
         "N-10000"
       ],
       "tags": [],
@@ -1720,7 +1720,7 @@
         "A-2630.3"
       ],
       "related_nodes": [
-        "N-10957",
+        "N-10878",
         "N-10000"
       ],
       "tags": [],
@@ -1744,7 +1744,7 @@
         "A-2630.2"
       ],
       "related_nodes": [
-        "N-10957",
+        "N-10878",
         "N-10000"
       ],
       "tags": [],
@@ -1785,7 +1785,7 @@
       "claim": "The host says TPUSA withheld the full video to protect the donor. She names the donors who asked Charlie Kirk what would happen if he were not there as Julie Fields and Arthur Fields of North Carolina, and says this removes TPUSA's barrier to releasing the full video.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10957",
+        "N-10878",
         "N-10000"
       ],
       "tags": [],
@@ -1806,7 +1806,7 @@
       "claim": "According to the host, a donor who was present says the appointment video is doctored, is willing to go \"very far\" on that claim, and had also thought that Charlie was \"one guy.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10957"
+        "N-10878"
       ],
       "tags": [],
       "claim_timestamp": "00:17:54",
@@ -1827,8 +1827,8 @@
       "claim": "The host says that at a later dinner with the donors Charlie Kirk never mentioned Erika in connection with his plans, said the board would figure it out, cited Steve Jobs and Apple, and did not name her as successor in any legal document.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10957",
-        "N-10194"
+        "N-10878",
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:17:54",
@@ -1847,7 +1847,7 @@
       "claim": "The host says Andrew Kolvet hosted Graham Allen to claim that the White House Correspondents' Dinner internal email she shared was fake, and that Kolvet knows it is not fake.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:18:55",
@@ -1866,9 +1866,9 @@
       "claim": "The host says the email described Erika Kirk as an emotional asset about one hour after the WHCD shooting and that the Department of War was directing people to boost her \"I want to go home\" video to number one by morning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10888",
-        "N-10637"
+        "N-10844",
+        "N-10809",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:19:34",
@@ -1888,10 +1888,10 @@
         "A-2631.1"
       ],
       "related_nodes": [
-        "N-10068",
-        "N-10888",
-        "N-10700",
-        "N-10923"
+        "N-10065",
+        "N-10809",
+        "N-10637",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:19:34",
@@ -1911,9 +1911,9 @@
         "A-2631.2"
       ],
       "related_nodes": [
-        "N-10888",
-        "N-10700",
-        "N-10923"
+        "N-10809",
+        "N-10637",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:20:28",
@@ -1933,9 +1933,9 @@
         "A-2631.2"
       ],
       "related_nodes": [
-        "N-10888",
-        "N-10700",
-        "N-10923"
+        "N-10809",
+        "N-10637",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:20:28",
@@ -1955,9 +1955,9 @@
         "A-2631.3"
       ],
       "related_nodes": [
-        "N-10888",
-        "N-10700",
-        "N-10923"
+        "N-10809",
+        "N-10637",
+        "N-10844"
       ],
       "tags": [],
       "claim_timestamp": "00:21:10",
@@ -1979,9 +1979,9 @@
       "claim": "The host says AIPAC effectively ousted Thomas Massie in Kentucky. She paraphrases Trump as saying he does not care whether people want war with Iran and that the US is \"going to bomb their bridges.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083",
-        "N-10916",
-        "N-10541"
+        "N-10070",
+        "N-10837",
+        "N-10496"
       ],
       "tags": [],
       "claim_timestamp": "00:22:34",
@@ -2017,7 +2017,7 @@
       "claim": "The host says Erika Kirk directed attacks against Joe Kent for wanting to look into a foreign connection and laughed at the Egyptian planes that departed at \"mysterious times\" on the day of the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10496"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:24:14",
@@ -2039,7 +2039,7 @@
         "A-2632.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:30:03",
@@ -2060,7 +2060,7 @@
         "A-2632.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:31:01",
@@ -2082,7 +2082,7 @@
         "A-2632.1"
       ],
       "related_nodes": [
-        "N-10955"
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:32:07",
@@ -2117,7 +2117,7 @@
       "claim": "Speaking sarcastically, the host says the Kushners had already tried to do a similar project in Serbia before turning to the Albanian island.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10958"
+        "N-10879"
       ],
       "tags": [],
       "claim_timestamp": "00:36:13",
@@ -2138,8 +2138,8 @@
         "A-2633.1"
       ],
       "related_nodes": [
-        "N-10958",
-        "N-10955"
+        "N-10879",
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:38:01",
@@ -2159,7 +2159,7 @@
         "A-2633.1"
       ],
       "related_nodes": [
-        "N-10958"
+        "N-10879"
       ],
       "tags": [],
       "claim_timestamp": "00:38:01",
@@ -2176,8 +2176,8 @@
         "A-2633.1"
       ],
       "related_nodes": [
-        "N-10958",
-        "N-10955"
+        "N-10879",
+        "N-10876"
       ],
       "tags": [],
       "claim_timestamp": "00:38:01",
@@ -2197,7 +2197,7 @@
         "A-2633.1"
       ],
       "related_nodes": [
-        "N-10958"
+        "N-10879"
       ],
       "tags": [],
       "claim_timestamp": "00:38:01",
@@ -2214,8 +2214,8 @@
         "A-2633.1"
       ],
       "related_nodes": [
-        "N-10958",
-        "N-10959"
+        "N-10879",
+        "N-10880"
       ],
       "tags": [],
       "claim_timestamp": "00:39:21",
@@ -2235,15 +2235,15 @@
         "A-2633.1"
       ],
       "related_nodes": [
-        "N-10959",
-        "N-10958"
+        "N-10880",
+        "N-10879"
       ],
       "tags": [],
       "claim_timestamp": "00:39:21",
       "investigative_direction": "Obtain the anti-corruption agency's announcement and follow the investigation's filings.",
       "transcript_snippet": "Earlier this week, Albania's state anti-corruption agency announced it was opening an investigation into the project, though it has yet to disclose further details.",
       "mentions_person_refs": [
-        "N-10958"
+        "N-10879"
       ]
     },
     {
@@ -2275,7 +2275,7 @@
         "A-2635.1"
       ],
       "related_nodes": [
-        "N-10960"
+        "N-10881"
       ],
       "tags": [],
       "claim_timestamp": "00:43:36",
@@ -2296,7 +2296,7 @@
         "A-2635.1"
       ],
       "related_nodes": [
-        "N-10960"
+        "N-10881"
       ],
       "tags": [],
       "claim_timestamp": "00:43:36",
@@ -2318,7 +2318,7 @@
         "A-2635.1"
       ],
       "related_nodes": [
-        "N-10960"
+        "N-10881"
       ],
       "tags": [],
       "claim_timestamp": "00:44:57",
@@ -2359,7 +2359,7 @@
         "A-2635.1"
       ],
       "related_nodes": [
-        "N-10960"
+        "N-10881"
       ],
       "tags": [],
       "claim_timestamp": "00:44:57",
@@ -2408,7 +2408,7 @@
       "claim": "The host says Paramount Tactical, whom Andrew Kolvet partners with, accidentally exposed that he uses ChatGPT and that he is part of a network of influencers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:56:39",

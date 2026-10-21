@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-927, N-928, N-11363
-  - Hole-minted Nodes (reintro-ep145): N-281, N-10885
+  - Tip-minted Nodes (supplement_2026-10f): N-927, N-928, N-11279
+  - Hole-minted Nodes (reintro-ep145): N-281, N-10806
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12448–C-12532
-  - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-659, N-870, N-926, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262
- - New Nodes Introduced: N-10814, N-10815, N-10816
+  - Reused Nodes Appearing: N-10738, N-10739, N-10730, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-659, N-870, N-926, N-10000, N-10024, N-10026, N-10222, N-10359, N-10603, N-10809, N-10821, N-11107, N-11111, N-11178
+ - New Nodes Introduced: N-10738, N-10739
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-484
  - (see registers)
 
@@ -84,7 +84,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced but not displayed
 
-*Related: C-12488, C-12489, C-12490, N-10815*
+*Related: C-12488, C-12489, C-12490, N-10739*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:34:07–00:34:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12507, C-12509, N-10814*
+*Related: C-12507, C-12509, N-10738*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12504, C-12505, N-10814*
+*Related: C-12504, C-12505, N-10738*
 
 ---
 
@@ -137,7 +137,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced; precise post identification not specified
 
-*Related: C-12499, N-10814*
+*Related: C-12499, N-10738*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-12498, N-10814*
+*Related: C-12498, N-10738*
 
 ---
 
@@ -293,7 +293,7 @@ Confidence Level: High
 
 ### People Nodes
 
-**N-10814** Pentagon–State Department–TPUSA Coordinated Messaging Operation
+**N-10738** Pentagon–State Department–TPUSA Coordinated Messaging Operation
 
 Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination.
 
@@ -306,7 +306,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10815** NCRI Report Provenance and Authorship
+**N-10739** NCRI Report Provenance and Authorship
 
 Persistent question regarding the authorship, funding, and institutional backing of the NCRI "Permission to Kill" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet.
 
@@ -319,7 +319,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10816** Charlie Kirk September 9, 2025 Text Messages
+**N-10730** Charlie Kirk Pre-Event Text Messages
 
 Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification.
 
@@ -570,7 +570,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10235** Erika–Charlie 2018 Israel Airport Meeting Question
+**N-10222** Erika–Charlie 2018 Israel Airport Meeting Question
 
 Existing node reused for new claims in this episode.
 
@@ -578,7 +578,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing node reused for new claims in this episode.
 
@@ -586,7 +586,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Existing node reused for new claims in this episode.
 
@@ -594,7 +594,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10885** Jennica Pounds DoD Special Government Employee Thread
+**N-10806** Jennica Pounds DoD Special Government Employee Thread
 
 Existing node reused for new claims in this episode.
 
@@ -602,7 +602,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Existing node reused for new claims in this episode.
 
@@ -610,7 +610,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Existing node reused for new claims in this episode.
 
@@ -618,7 +618,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11191** Pre-Born
+**N-11107** Pre-Born
 
 Existing node reused for new claims in this episode.
 
@@ -626,7 +626,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11195** Department of War Information War Allegation
+**N-11111** Department of War Information War Allegation
 
 Existing node reused for new claims in this episode.
 
@@ -634,7 +634,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11262** Andrew Wilson TPUSA Debate Training Engagement
+**N-11178** Andrew Wilson TPUSA Debate Training Engagement
 
 Existing node reused for new claims in this episode.
 
@@ -650,7 +650,7 @@ First named by the host at 00:00:01 in episode 145 (as "Rabbi Shmuley").
 
 ---
 
-**N-11363** Tax Network USA
+**N-11279** Tax Network USA
 
 Node Type: Organization
 Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145.
@@ -735,7 +735,7 @@ Claim: The host says an NCRI-issued report called "Permission to Kill" referred 
 
 Anchored Artifacts: A-2312.1
 Mentions: N-2
-Related Nodes: N-10815
+Related Nodes: N-10739
 Investigative Direction: Obtain the full NCRI report; verify authorship, publication date, and exact wording.
 
 ---
@@ -748,7 +748,7 @@ Claim: The host says NCRI, which issued the report, is led by Andrew Kolvet's fo
 
 Anchored Artifacts: A-2312.1
 Mentions: N-14
-Related Nodes: N-10815
+Related Nodes: N-10739
 Investigative Direction: Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos.
 
 ---
@@ -761,7 +761,7 @@ Claim: The host says the NCRI report was dropped on the first day of Tyler Robin
 
 Anchored Artifacts: A-2312.1
 Mentions: N-40
-Related Nodes: N-10815
+Related Nodes: N-10739
 Investigative Direction: Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing.
 
 ---
@@ -787,7 +787,7 @@ Claim: Per Andrew Kolvet's post the host shows, Kolvet thanked Data Republican a
 
 Anchored Artifacts: A-2317.1
 Mentions: N-14, N-281, N-3, N-2
-Related Nodes: N-10814
+Related Nodes: N-10738
 Investigative Direction: Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).
 
 ---
@@ -800,7 +800,7 @@ Claim: Per Bill Ackman's post the host shows, Ackman promoted Data Republican's 
 
 Anchored Artifacts: A-2316.1
 Mentions: N-1, N-37, N-281, N-3
-Related Nodes: N-10814
+Related Nodes: N-10738
 Investigative Direction: Retrieve the specific Bill Ackman post; verify date and quoted text.
 
 ---
@@ -813,7 +813,7 @@ Claim: Per Jennica Pounds's post the host reads, Pounds wrote, "I began working 
 
 Anchored Artifacts: A-2314.1
 Mentions: N-281
-Related Nodes: N-10814
+Related Nodes: N-10738
 Investigative Direction: Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures.
 
 ---
@@ -826,7 +826,7 @@ Claim: Per a post the host reads, Jennica Pounds wrote that her Pentagon press c
 
 Anchored Artifacts: A-2314.1
 Mentions: N-281
-Related Nodes: N-10814
+Related Nodes: N-10738
 Investigative Direction: Retrieve the full quoted X post; verify against Pentagon press credential records.
 
 ---
@@ -865,7 +865,7 @@ Claim: The host says Jennica Pounds got paranoid that leaked documents were a se
 
 Anchored Artifacts: A-2314.1
 Mentions: N-281, N-928
-Related Nodes: N-10814
+Related Nodes: N-10738
 Investigative Direction: Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.
 
 ---
@@ -917,7 +917,7 @@ Claim: The host says the narrative against her investigation into the Charlie Ki
 
 Anchored Artifacts: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1
 Mentions: N-14, N-1, N-37, N-159, N-928, N-281
-Related Nodes: N-10814
+Related Nodes: N-10738
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
 **C-12448** Host Says Rabbi Shmuley, Ivanka and Jared Kushner Were in Iceland Weeks Before Her Trip
@@ -945,7 +945,7 @@ Transcript Snippet: it was revealed that the Department of War has people on pay
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10888, N-10814, N-11195
+Related Nodes: N-10809, N-10738, N-11111
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Department of War payroll, personal-services contract and special government employee records for the individuals the host names later in the episode; any official statement from the department.
@@ -962,7 +962,7 @@ Transcript Snippet: Remember way back when on October 27th of last year, when I 
 
 Anchored Artifacts: A-3255.1
 Mentions: N-3
-Related Nodes: N-10888
+Related Nodes: N-10809
 Tags: relevance:context
 Investigative Direction: Locate the October 27, 2025 episode and confirm the exact wording and context of the "I want war with all of you" statement.
 
@@ -1101,7 +1101,7 @@ Transcript Snippet: John described to me was a black propaganda campaign.
 
 Anchored Artifacts: 
 Mentions: N-154, N-3
-Related Nodes: N-10814
+Related Nodes: N-10738
 Tags: relevance:context
 Investigative Direction: Ask John Mappin to confirm the conversation and wording; compare with his published Mappin letter.
 
@@ -1132,7 +1132,7 @@ Transcript Snippet: All of this happening by the way in the same few weeks that 
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10235
+Related Nodes: N-10222
 Tags: relevance:core
 Investigative Direction: Date of the Erika Kirk and Charlie Kirk first meeting versus the date of the London event (May 2018); each side's own accounts.
 
@@ -1178,7 +1178,7 @@ Transcript Snippet: I've never met Justin. I've never spoken to him or his wife.
 
 Anchored Artifacts: A-2310.1
 Mentions: N-3, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Baldoni and his representatives on prior contact; any prior communications between his team and the host's team.
 
@@ -1209,7 +1209,7 @@ Transcript Snippet: purchased the rights to create a film about the books using 
 
 Anchored Artifacts: 
 Mentions: N-485, N-484
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Rights purchase and production records for the film adaptation as filed in the litigation.
 
@@ -1225,7 +1225,7 @@ Transcript Snippet: Blake Lively sort of in her own head fancied herself as the 
 
 Anchored Artifacts: 
 Mentions: N-484, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Supports: C-4659
 Tags: relevance:tangential
 Investigative Direction: The litigation exhibits on script and edit control; contemporaneous emails and text messages cited in the court record.
@@ -1242,7 +1242,7 @@ Transcript Snippet: the New York Times just drops a hit piece and they're like, 
 
 Anchored Artifacts: 
 Mentions: N-484, N-485, N-375
-Related Nodes: N-10661
+Related Nodes: N-10603
 Supports: C-4659
 Tags: relevance:tangential
 Investigative Direction: The court record on the timing of the New York Times article and any demands made of Baldoni's side.
@@ -1367,7 +1367,7 @@ Transcript Snippet: he was up against an established power. I mean, it was the N
 
 Anchored Artifacts: 
 Mentions: N-485, N-486
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Litigation and press records identifying the PR and agency actors and any role attributed to Taylor Swift.
 
@@ -1383,7 +1383,7 @@ Transcript Snippet: more than 50,000 babies have been saved from abortion
 
 Anchored Artifacts: A-3257.1
 Mentions: N-927
-Related Nodes: N-11191
+Related Nodes: N-11107
 Tags: relevance:tangential
 Investigative Direction: Pre-Born's own reporting; this is a sponsor claim.
 
@@ -1399,7 +1399,7 @@ Transcript Snippet: It costs just $28 to provide one life-saving ultrasound and 
 
 Anchored Artifacts: A-3257.1
 Mentions: N-927
-Related Nodes: N-11191
+Related Nodes: N-11107
 Supports: C-3302
 Tags: relevance:tangential
 Investigative Direction: Pre-Born's published cost figures.
@@ -1416,7 +1416,7 @@ Transcript Snippet: We had suggested this that this looks like a very well-funde
 
 Anchored Artifacts: 
 Mentions: N-18, N-3
-Related Nodes: N-11195, N-10814
+Related Nodes: N-11111, N-10738
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Funding and contract records for the accounts the host names; the Department of War contracts and SGE appointments referenced later in the episode.
@@ -1464,7 +1464,7 @@ Claim: The host characterizes the NCRI as just a team of Zionists.
 Transcript Snippet: It's just a team of Zionists.
 
 Anchored Artifacts: A-2312.1
-Related Nodes: N-10815
+Related Nodes: N-10739
 Tags: relevance:tangential
 Investigative Direction: NCRI's own leadership, funders and mission statements; the characterization is an unsupported group generalization.
 
@@ -1480,7 +1480,7 @@ Transcript Snippet: this report on the first day. And then we have this report b
 
 Anchored Artifacts: A-2313.1
 Mentions: N-281
-Related Nodes: N-10815
+Related Nodes: N-10739
 Tags: relevance:context
 Investigative Direction: Timestamps of the NCRI report and Pounds' thread, and any contact between the two.
 
@@ -1573,7 +1573,7 @@ Transcript Snippet: she thought that she was being set up. That they were leakin
 
 Anchored Artifacts: 
 Mentions: N-281, N-928
-Related Nodes: N-10814
+Related Nodes: N-10738
 Supports: C-12501
 Tags: relevance:core
 Investigative Direction: Pounds' original post and any later edits or deletions; State Department comment.
@@ -1606,7 +1606,7 @@ Transcript Snippet: So, now we realize that Turning Point USA is working with th
 
 Anchored Artifacts: A-2315.1
 Mentions: N-159, N-928
-Related Nodes: N-10000, N-10814
+Related Nodes: N-10000, N-10738
 Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Any official contact between TPUSA and the State Department; FOIA to State Public Diplomacy for communications with TPUSA staff.
@@ -1623,7 +1623,7 @@ Transcript Snippet: The very week that they came after me, she was working as a 
 
 Anchored Artifacts: A-2314.1
 Mentions: N-281
-Related Nodes: N-10885, N-10888
+Related Nodes: N-10806, N-10809
 Supports: C-12507
 Tags: relevance:core
 Investigative Direction: Pounds' appointment letter and SGE service dates against the dates of the NCRI report and her thread.
@@ -1733,7 +1733,7 @@ Transcript Snippet: he wants to pick up that bloody mic, and he by golly, he's g
 
 Anchored Artifacts: A-2318.1
 Mentions: N-97, N-1
-Related Nodes: N-10386, N-10900
+Related Nodes: N-10359, N-10821
 Supports: C-7412
 Tags: relevance:context
 Investigative Direction: Shapiro statements about TPUSA and the tour; TPUSA leadership discussions about Shapiro.
@@ -1749,7 +1749,7 @@ Claim: The host says that, allegedly, the Daily Wire's Mat Nuclear was arrested 
 Transcript Snippet: there's a whole news article you can look up about his arrest back in Florida
 
 Anchored Artifacts: 
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Identify the person correctly (the transcript name may be wrong) and check the Florida arrest article; treat as unverified allegation.
 
@@ -1764,7 +1764,7 @@ Claim: The host says the Daily Wire's Mat Nuclear is now on tour with Turning Po
 Transcript Snippet: Now he's on tour with Turning Point USA cuz he's going to be a debater.
 
 Anchored Artifacts: A-2318.1
-Related Nodes: N-10000, N-10900
+Related Nodes: N-10000, N-10821
 Tags: relevance:context
 Investigative Direction: The official tour lineup and the debater roster.
 
@@ -1780,7 +1780,7 @@ Transcript Snippet: People are rightfully outraged that they would partner with 
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10000, N-10900
+Related Nodes: N-10000, N-10821
 Tags: relevance:context
 Investigative Direction: Kirk's own statements about the Daily Wire and Shapiro; TPUSA's announcement of the tour partnership.
 
@@ -1811,7 +1811,7 @@ Claim: In the sponsor read, the host says Tax Network USA has been helping taxpa
 Transcript Snippet: their team has resolved over $1 billion in tax debt
 
 Anchored Artifacts: A-3260.1
-Related Nodes: N-11363
+Related Nodes: N-11279
 Tags: relevance:tangential
 Investigative Direction: The company's own figures; this is a sponsor claim.
 
@@ -1859,7 +1859,7 @@ Transcript Snippet: Maybe you work inside the State Department and would like to
 
 Anchored Artifacts: A-3261.2
 Mentions: N-3
-Related Nodes: N-10814
+Related Nodes: N-10738
 Tags: relevance:context
 Investigative Direction: Any State Department tipsters reported in later episodes.
 
@@ -1875,7 +1875,7 @@ Transcript Snippet: I love that they're using him as their dog though, as their 
 
 Anchored Artifacts: 
 Mentions: N-18
-Related Nodes: N-11262, N-10000
+Related Nodes: N-11178, N-10000
 Tags: relevance:core
 Investigative Direction: Wilson's engagement terms and any payments by TPUSA; related to the debate training engagement node.
 
@@ -1891,7 +1891,7 @@ Transcript Snippet: to know that he had texted multiple people on September 9th 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10816
+Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Obtain the recipients' September 9, 2025 messages; the host does not name the recipients in this episode.
 
@@ -2169,7 +2169,7 @@ Confidence: high
 - **Name uncertainty:** Host uses the name "Mat Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
 - **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.
 - **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erika Kirk.
-- **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-10816 but not as an artifact-anchored claim in this episode.
+- **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-10730 but not as an artifact-anchored claim in this episode.
 
 ---
 
@@ -2180,7 +2180,7 @@ Artifact Families Introduced: A-2310, A-2311, A-2312, A-2313, A-2314, A-2315, A-
 Claim Range: C-12461–C-12512
 
 New Nodes Introduced:
-N-10814, N-10815, N-10816
+N-10738, N-10739, N-10730
 
 Existing Nodes Reused: N-1, N-2, N-3
 

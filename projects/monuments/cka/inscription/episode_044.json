@@ -35,7 +35,7 @@
           "related_nodes": [
             "N-318",
             "N-323",
-            "N-10328"
+            "N-10307"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
             "N-318",
             "N-266",
             "N-319",
-            "N-10326"
+            "N-10305"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,7 +79,7 @@
           "related_nodes": [
             "N-318",
             "N-319",
-            "N-10327"
+            "N-10306"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -98,7 +98,7 @@
           ],
           "related_nodes": [
             "N-318",
-            "N-10326"
+            "N-10305"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -143,7 +143,7 @@
             "C-3805"
           ],
           "related_nodes": [
-            "N-10328",
+            "N-10307",
             "N-323"
           ],
           "tags": [],
@@ -170,7 +170,7 @@
             "C-3805"
           ],
           "related_nodes": [
-            "N-10328"
+            "N-10307"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
           ],
           "related_nodes": [
             "N-313",
-            "N-10330"
+            "N-10309"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,8 +229,8 @@
             "N-320",
             "N-321",
             "N-322",
-            "N-10330",
-            "N-10331"
+            "N-10309",
+            "N-10310"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -445,7 +445,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10329"
+        "N-10308"
       ]
     },
     {
@@ -469,8 +469,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10326",
-        "N-10327"
+        "N-10305",
+        "N-10306"
       ]
     },
     {
@@ -534,7 +534,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-320",
-        "N-10330"
+        "N-10309"
       ]
     },
     {
@@ -558,7 +558,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-313",
-        "N-10330"
+        "N-10309"
       ]
     },
     {
@@ -581,7 +581,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-320",
-        "N-10331"
+        "N-10310"
       ]
     },
     {
@@ -604,13 +604,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-320",
-        "N-10331"
+        "N-10310"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10902",
-      "ref": "N-10902",
+      "@id": "N-10823",
+      "ref": "N-10823",
       "name": "Root Brands",
       "type": "organization",
       "description": "Nashville-area company alleged by tipsters to employ \"Jonathan Schmidt\"/Arcadi Gaydamak as a technology officer. Host states she has reached out to Root Brands.",
@@ -627,7 +627,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-320",
-        "N-10331"
+        "N-10310"
       ]
     },
     {
@@ -650,13 +650,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Myers' account is corroborated by incident report 861-1-2025-MPC446.",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10327",
-      "ref": "N-10327",
+      "@id": "N-10306",
+      "ref": "N-10306",
       "name": "Incident Report 861-1-2025-MPC446 FOIA Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Myers' detention.",
@@ -703,13 +703,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-319",
-        "N-10326"
+        "N-10305"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10328",
-      "ref": "N-10328",
+      "@id": "N-10307",
+      "ref": "N-10307",
       "name": "1990 Douglas, Arizona / Operation Catacomb Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Myers' 35-year claim of retaliation and his NDA.",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10329",
-      "ref": "N-10329",
+      "@id": "N-10308",
+      "ref": "N-10308",
       "name": "Brian Harpole Military Connection Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.",
@@ -751,13 +751,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-266",
-        "N-10326"
+        "N-10305"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10330",
-      "ref": "N-10330",
+      "@id": "N-10309",
+      "ref": "N-10309",
       "name": "\"Jonathan Schmidt\" / Arcadi Gaydamak Identity Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10331",
-      "ref": "N-10331",
+      "@id": "N-10310",
+      "ref": "N-10310",
       "name": "Root Brands / Nashville Foreign Intelligence Personnel Question",
       "type": "investigation_target",
       "description": "Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.",
@@ -801,7 +801,7 @@
         "N-320",
         "N-321",
         "N-322",
-        "N-10902"
+        "N-10823"
       ]
     },
     {
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's remarks on Patel's disinterest.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10317",
-      "ref": "N-10317",
+      "@id": "N-10298",
+      "ref": "N-10298",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's question about TPUSA and Pierre.",
@@ -1128,8 +1128,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10325",
-      "ref": "N-10325",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
       "type": "investigation_target",
       "description": "Existing topic reused for the government-cartel and cartel-involvement remarks.",
@@ -1146,8 +1146,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's reference to Kirk's day-before messages.",
@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's contact with Gabbard's office.",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10397",
-      "ref": "N-10397",
+      "@id": "N-10370",
+      "ref": "N-10370",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
       "type": "investigation_target",
       "description": "Existing topic reused for Kirk's final Korea and Japan trip.",
@@ -1202,8 +1202,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "Existing topic reused for the faith-infiltration remark.",
@@ -1219,8 +1219,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Existing topic reused for the Poland-to-Mexico trafficking remark.",
@@ -1236,8 +1236,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the faith-infiltration remark.",
@@ -1253,8 +1253,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10567",
-      "ref": "N-10567",
+      "@id": "N-10518",
+      "ref": "N-10518",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's French intelligence remarks.",
@@ -1274,8 +1274,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11186",
-      "ref": "N-11186",
+      "@id": "N-11102",
+      "ref": "N-11102",
       "name": "Angolagate",
       "type": "investigation_target",
       "description": "Existing topic reused for Falcone and Gaydamak's involvement.",
@@ -1291,8 +1291,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11191",
-      "ref": "N-11191",
+      "@id": "N-11107",
+      "ref": "N-11107",
       "name": "Pre-Born",
       "type": "investigation_target",
       "description": "Organization advertised in the sponsor read.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11282",
-      "ref": "N-11282",
+      "@id": "N-11198",
+      "ref": "N-11198",
       "name": "Iran-Contra Affair",
       "type": "topic",
       "description": "The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons and as a context for JTF-6 and Epstein.",
@@ -1364,8 +1364,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11283",
-      "ref": "N-11283",
+      "@id": "N-11199",
+      "ref": "N-11199",
       "name": "Joint Task Force Six and Joint Task Force Southern Border",
       "type": "organization",
       "description": "The border command Harry says he served in during 1990 and its alleged continuation as JTF Southern Border at Fort Huachuca.",
@@ -1386,8 +1386,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11284",
-      "ref": "N-11284",
+      "@id": "N-11200",
+      "ref": "N-11200",
       "name": "Ukrainian Refugee Infiltration Claim",
       "type": "topic",
       "description": "The host's claims about a Ukrainian influx and about dangerous people entering as refugees, raised alongside the Nashville Root Brands tips.",
@@ -1404,8 +1404,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11285",
-      "ref": "N-11285",
+      "@id": "N-11201",
+      "ref": "N-11201",
       "name": "TPUSA Former Cartel Weapons Traffickers Hire Claim",
       "type": "topic",
       "description": "The host's statement that TPUSA hired former cartel weapons traffickers, including an alleged Poland-to-Mexico route.",
@@ -1422,8 +1422,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11286",
-      "ref": "N-11286",
+      "@id": "N-11202",
+      "ref": "N-11202",
       "name": "Candace Owens Security Fund Proposal",
       "type": "topic",
       "description": "A viewer-suggested security fund that the host says she may start.",
@@ -1439,8 +1439,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11287",
-      "ref": "N-11287",
+      "@id": "N-11203",
+      "ref": "N-11203",
       "name": "Tim Pool Dispute With Candace Owens",
       "type": "topic",
       "description": "The exchange in which Tim Pool's clip calls the host names and says she has no security, and the host's responses.",
@@ -1462,8 +1462,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11288",
-      "ref": "N-11288",
+      "@id": "N-11204",
+      "ref": "N-11204",
       "name": "Harry Myers September 10 Salt Lake City Airport Layover",
       "type": "topic",
       "description": "Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.",
@@ -1492,7 +1492,7 @@
         "A-1521.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09–00:11:14",
@@ -1511,7 +1511,7 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44–00:09:29",
@@ -1568,7 +1568,7 @@
         "A-1519.4"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:16:14–00:17:28",
@@ -1587,7 +1587,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:18:57–00:20:14",
@@ -1606,7 +1606,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:34:46",
@@ -1625,7 +1625,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10329"
+        "N-10308"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:22:18",
@@ -1646,7 +1646,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:21:39",
@@ -1666,7 +1666,7 @@
         "A-1519.3"
       ],
       "related_nodes": [
-        "N-10327"
+        "N-10306"
       ],
       "tags": [],
       "claim_timestamp": "00:28:13",
@@ -1720,7 +1720,7 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [],
       "claim_timestamp": "00:35:46–00:40:46",
@@ -1740,9 +1740,9 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-10330",
-        "N-10331",
-        "N-10902"
+        "N-10309",
+        "N-10310",
+        "N-10823"
       ],
       "tags": [],
       "claim_timestamp": "00:36:24–00:40:46",
@@ -1835,7 +1835,7 @@
       "claim": "The host says that in the final days before the assassination Charlie Kirk made a first-time, quick trip to Asia, going first to Korea for a couple of days and then to Japan.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397"
+        "N-10370"
       ],
       "tags": [
         "relevance:core"
@@ -1856,7 +1856,7 @@
       "claim": "The host says that, as a self-described conspiracy theorist, she might think the timing of Kirk's Asia trip was intentional because something was going on back home that they did not want him to see.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397"
+        "N-10370"
       ],
       "tags": [
         "relevance:core"
@@ -1918,7 +1918,7 @@
       "claim": "The host says she has fact-checked the elements of Harry's story she could check, that descriptions of people rest on his memory, and that he is being 100 percent honest about where he was and why.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -1939,7 +1939,7 @@
       "claim": "The host says the 20-year-old Harry was attached to the brand new Joint Task Force Six, created down at the border by President George H.W. Bush and presented to the public as a war on drugs with the help of Colin Powell.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11283"
+        "N-11199"
       ],
       "tags": [
         "relevance:context"
@@ -1961,7 +1961,7 @@
       "claim": "The host says the Iran-Contra affair, under Reagan with George H.W. Bush as vice president, was the scandal in which the public learned the CIA was trafficking drugs and weapons through South America.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11282"
+        "N-11198"
       ],
       "tags": [
         "relevance:context"
@@ -1982,7 +1982,7 @@
       "claim": "The host says that, if viewers have followed her Epstein series, they now know Jeffrey Epstein was also involved in the Iran-Contra scandal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11282"
+        "N-11198"
       ],
       "tags": [
         "relevance:context"
@@ -2002,7 +2002,7 @@
       "claim": "The host says that after Iran-Contra, George H.W. Bush ran for president in 1988 and had to hit hard on drugs at the border and declare the White House would stop them flooding into America.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11282"
+        "N-11198"
       ],
       "tags": [
         "relevance:context"
@@ -2044,8 +2044,8 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328",
-        "N-11283"
+        "N-10307",
+        "N-11199"
       ],
       "tags": [
         "relevance:context"
@@ -2067,8 +2067,8 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328",
-        "N-11283"
+        "N-10307",
+        "N-11199"
       ],
       "tags": [
         "relevance:context"
@@ -2090,7 +2090,7 @@
         "A-1520.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2109,7 +2109,7 @@
         "A-1520.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2128,7 +2128,7 @@
         "A-1520.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2147,7 +2147,7 @@
         "A-1520.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2166,7 +2166,7 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2188,7 +2188,7 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:core"
@@ -2210,8 +2210,8 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328",
-        "N-11283"
+        "N-10307",
+        "N-11199"
       ],
       "tags": [
         "relevance:context"
@@ -2234,7 +2234,7 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2256,7 +2256,7 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2278,8 +2278,8 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10328",
-        "N-10325"
+        "N-10307",
+        "N-10304"
       ],
       "tags": [
         "relevance:context"
@@ -2302,7 +2302,7 @@
         "A-1519.5"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2324,7 +2324,7 @@
         "A-1519.5"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10307"
       ],
       "tags": [
         "relevance:context"
@@ -2344,7 +2344,7 @@
       "claim": "The host says Harry, now 56, decided to travel in person from his home in Washington to Fort Huachuca to find out why he was never protected and whether the FBI had been informed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2366,7 +2366,7 @@
         "A-1519.4"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2386,7 +2386,7 @@
       "claim": "The host says that on September 9 Harry drove off base to get coffee in Sierra Vista after failing to find Army CID and ran into soldiers wearing 10th Mountain Division patches, which he recognized as his old unit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2406,8 +2406,8 @@
       "claim": "The host says the soldiers told Harry that the old Joint Task Force 6 is now continued as Joint Task Force Southern Border and gave him directions to the new command center.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11283",
-        "N-10326"
+        "N-11199",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2429,8 +2429,8 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-11283",
-        "N-10326"
+        "N-11199",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2452,7 +2452,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2474,8 +2474,8 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326",
-        "N-10329"
+        "N-10305",
+        "N-10308"
       ],
       "tags": [
         "relevance:core"
@@ -2498,7 +2498,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2521,7 +2521,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2543,8 +2543,8 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-11288",
-        "N-10326"
+        "N-11204",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2567,7 +2567,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-11288"
+        "N-11204"
       ],
       "tags": [
         "relevance:core"
@@ -2589,7 +2589,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2609,7 +2609,7 @@
       "claim": "The host says Harry thought the treatment was cartel-related while the military thought he was a spy, and that both were wrong and the encounter was really just a coincidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2652,7 +2652,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2675,7 +2675,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2698,7 +2698,7 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2721,7 +2721,7 @@
         "A-1519.5"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2744,7 +2744,7 @@
         "A-1519.3"
       ],
       "related_nodes": [
-        "N-10327"
+        "N-10306"
       ],
       "tags": [
         "relevance:core"
@@ -2769,7 +2769,7 @@
         "A-1519.3"
       ],
       "related_nodes": [
-        "N-10327"
+        "N-10306"
       ],
       "tags": [
         "relevance:core"
@@ -2793,8 +2793,8 @@
       "claim": "The host says she asked Harry whether he saw Dan Flood, he said no, and she says that checks out because Dan Flood was with Charlie in Korea.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397",
-        "N-10326"
+        "N-10370",
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2817,7 +2817,7 @@
       "claim": "The host says Kirk was in Korea doing an event on September 6 and was in Japan on September 7, speaking on CNN Japan.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397"
+        "N-10370"
       ],
       "tags": [
         "relevance:core"
@@ -2837,7 +2837,7 @@
       "claim": "The host questions why Kirk would go to Japan the day before a college campus event, given the long flight back.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397"
+        "N-10370"
       ],
       "tags": [
         "relevance:core"
@@ -2858,7 +2858,7 @@
       "claim": "The host speculates that Kirk may have left Japan on September 9 for a roughly 12-hour flight home and says someone out there knows something.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10397"
+        "N-10370"
       ],
       "tags": [
         "relevance:core"
@@ -2920,7 +2920,7 @@
       "claim": "The host says she does not expect the feds to be interested in this angle or the potential meeting, which she thinks they probably already knew about.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10326"
+        "N-10305"
       ],
       "tags": [
         "relevance:core"
@@ -2942,7 +2942,7 @@
         "A-3118.1"
       ],
       "related_nodes": [
-        "N-11191"
+        "N-11107"
       ],
       "tags": [
         "relevance:tangential"
@@ -2962,7 +2962,7 @@
       "claim": "The host says Pierre Falcone had a partner named Arcadi Gaydamak (transcribed 'Gammock') and that both were involved in Angolagate, which she calls global trafficking at the highest levels of government.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11186"
+        "N-11102"
       ],
       "tags": [
         "relevance:context"
@@ -2987,7 +2987,7 @@
       "claim": "The host says that after the previous episode she asked whether anyone knew anything about Turning Point potentially working with this Pierre person, which prompted the flood of emails about Gaydamak.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10317",
+        "N-10298",
         "N-10000"
       ],
       "tags": [
@@ -3010,7 +3010,7 @@
       "claim": "The host says the seven tipsters are certain at the very least that the man is from Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [
         "relevance:context"
@@ -3031,7 +3031,7 @@
       "claim": "The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, and she addresses real estate agents among her viewers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [
         "relevance:context"
@@ -3051,7 +3051,7 @@
       "claim": "The host says she reached out to Clay Thomas and to Root Brands requesting information about the Russian-Israeli employee using the name Jonathan Schmidt and bringing in Ukrainians.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10902"
+        "N-10823"
       ],
       "tags": [
         "relevance:context"
@@ -3073,7 +3073,7 @@
       "claim": "The host says she has been telling the feds that there is an assassination attempt and coordination, and that she has named Israel and France.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567",
+        "N-10518",
         "N-10026"
       ],
       "tags": [
@@ -3097,8 +3097,8 @@
       "claim": "The host says that she ran the threat concerning French intelligence agencies working with Israel to the only office that has responded, which is Tulsi Gabbard's office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567",
-        "N-10355"
+        "N-10518",
+        "N-10332"
       ],
       "tags": [
         "relevance:core"
@@ -3139,7 +3139,7 @@
         "A-3116.2"
       ],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [
         "dia_beat",
@@ -3161,7 +3161,7 @@
       "claim": "The host says she has heard that everywhere in America, including a major influx in Washington, there are Ukrainians who claim to be fleeing the war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11284"
+        "N-11200"
       ],
       "tags": [
         "relevance:tangential"
@@ -3181,7 +3181,7 @@
       "claim": "The host says it is during wars that the most dangerous people are allowed into other countries under the guise of being refugees, and that this is how they take over other countries.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11284"
+        "N-11200"
       ],
       "tags": [
         "relevance:tangential"
@@ -3203,7 +3203,7 @@
         "A-3116.3"
       ],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [
         "dia_beat",
@@ -3225,7 +3225,7 @@
       "claim": "The host says that if this is the correct individual, he is supposed to be a billionaire, so it is odd he would be working, and she is not buying the name Jonathan Schmidt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [
         "relevance:context"
@@ -3247,7 +3247,7 @@
       "claim": "The host says she does not believe the man is legally allowed to be in the country and urges ICE or Border Patrol agents to get involved.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10330"
+        "N-10309"
       ],
       "tags": [
         "relevance:context"
@@ -3268,7 +3268,7 @@
       "claim": "The host says she was always telling the truth about the coordination of an assassination attempt which involved Israel and French intelligence agencies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567",
+        "N-10518",
         "N-10026"
       ],
       "tags": [
@@ -3292,7 +3292,7 @@
       "claim": "The host says Tim Pool is trying to signal to the public that she does not have security, which she says is untrue, and that he is trying to get her harmed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3318,7 +3318,7 @@
         "A-1524.1"
       ],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3342,7 +3342,7 @@
         "A-1524.1"
       ],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3363,7 +3363,7 @@
       "claim": "The host says that Tim Pool accused her, in a full episode with Milo Yiannopoulos that she showed and contextualized, of benefiting from Charlie Kirk's assassination, which is why he is in her thumbnail.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3386,7 +3386,7 @@
       "claim": "The host says that in a roughly two-hour episode with Milo Yiannopoulos, Milo defended her and explained she is not to blame for the lame excuses the feds have given regarding Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3408,7 +3408,7 @@
       "claim": "The host says Tim Pool is under financial pressure and is trying out for a Zionist to pay him, and that they will cut him a check.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3429,7 +3429,7 @@
       "claim": "The host says she has not focused her content on Tim Pool and that any time his name has come up it was because he explicitly attacked her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11287"
+        "N-11203"
       ],
       "tags": [
         "relevance:context"
@@ -3450,8 +3450,8 @@
       "claim": "The host says Kash Patel is just not interested and that she struggles to believe the feds did not know about the French angle in the Charlie Kirk assassination, adding that they did know.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567",
-        "N-10202"
+        "N-10518",
+        "N-10194"
       ],
       "tags": [
         "relevance:core"
@@ -3474,8 +3474,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10398",
-        "N-10436"
+        "N-10371",
+        "N-10405"
       ],
       "tags": [
         "relevance:core"
@@ -3500,7 +3500,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11285"
+        "N-11201"
       ],
       "tags": [
         "relevance:core"
@@ -3521,8 +3521,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11285",
-        "N-10401"
+        "N-11201",
+        "N-10374"
       ],
       "tags": [
         "relevance:core"
@@ -3542,7 +3542,7 @@
       "claim": "The host says she wonders whether the silver-or-lead choice was presented to Charlie and whether that is why he was fearful the day before when he messaged people and said \"They are going to kill me\", and asks who he was referring to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3584,7 +3584,7 @@
       "claim": "The host says maybe people are terrified because they have known all along that the cartels could have been involved in the assassination, adding that she does not know and is just following the facts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10325"
+        "N-10304"
       ],
       "tags": [
         "relevance:core"
@@ -3607,7 +3607,7 @@
         "A-3117.2"
       ],
       "related_nodes": [
-        "N-11286"
+        "N-11202"
       ],
       "tags": [
         "relevance:context"
@@ -3627,7 +3627,7 @@
       "claim": "The host says the French intelligence angle and the lack of commentary from the White House have scared her and show how far-reaching this is.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10567"
+        "N-10518"
       ],
       "tags": [
         "relevance:context"

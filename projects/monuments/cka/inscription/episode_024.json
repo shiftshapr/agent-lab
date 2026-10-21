@@ -175,11 +175,11 @@
             "C-2217"
           ],
           "related_nodes": [
-            "N-10895",
-            "N-10894",
+            "N-10816",
+            "N-10815",
             "N-210",
             "N-2",
-            "N-10216"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -197,7 +197,7 @@
             "C-2218"
           ],
           "related_nodes": [
-            "N-10216"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,8 +216,8 @@
           ],
           "related_nodes": [
             "N-210",
-            "N-10895",
-            "N-10216"
+            "N-10816",
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
             "C-2230"
           ],
           "related_nodes": [
-            "N-10217"
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -544,10 +544,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10894",
-        "N-10895",
+        "N-10815",
+        "N-10816",
         "N-2",
-        "N-10216"
+        "N-10207"
       ]
     },
     {
@@ -570,7 +570,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10216"
+        "N-10207"
       ]
     },
     {
@@ -673,7 +673,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10216"
+        "N-10207"
       ]
     },
     {
@@ -695,7 +695,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10216"
+        "N-10207"
       ]
     },
     {
@@ -717,13 +717,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10216"
+        "N-10207"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10216",
-      "ref": "N-10216",
+      "@id": "N-10207",
+      "ref": "N-10207",
       "name": "TPUSA Posthumous Israel Award Reporting Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
@@ -745,15 +745,15 @@
       "related_nodes": [
         "N-210",
         "N-14",
-        "N-10894",
-        "N-10895",
+        "N-10815",
+        "N-10816",
         "N-2"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10217",
-      "ref": "N-10217",
+      "@id": "N-10208",
+      "ref": "N-10208",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
       "type": "investigation_target",
       "description": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erika Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10894",
-      "ref": "N-10894",
+      "@id": "N-10815",
+      "ref": "N-10815",
       "name": "Jerusalem Post",
       "type": "organization",
       "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erika Kirk would accept the posthumous award.",
@@ -849,14 +849,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-210",
-        "N-10216"
+        "N-10207"
       ],
       "organization_kind": "media_outlet"
     },
     {
       "@type": "Organization",
-      "@id": "N-10895",
-      "ref": "N-10895",
+      "@id": "N-10816",
+      "ref": "N-10816",
       "name": "Israeli War Room",
       "type": "organization",
       "description": "X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award.",
@@ -872,8 +872,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10894",
-        "N-10216"
+        "N-10815",
+        "N-10207"
       ],
       "organization_kind": "media_outlet"
     },
@@ -1405,9 +1405,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10033",
-      "ref": "N-10033",
-      "name": "Hamptons Donor Pressure Investigation",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
       "type": "investigation_target",
       "description": "Hamptons Donor Pressure Investigation; topic reused.",
       "related_artifacts": [],
@@ -1422,8 +1422,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Donor Intimidation of Charlie Kirk; topic reused.",
@@ -1439,8 +1439,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10074",
+      "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
       "type": "investigation_target",
       "description": "Robinson-Lance Text Chain Authenticity; topic reused.",
@@ -1456,8 +1456,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
       "type": "investigation_target",
       "description": "AIPAC; the host says it dropped Fine.",
@@ -1473,8 +1473,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
       "type": "investigation_target",
       "description": "Catholic Conversion Rumor; topic reused.",
@@ -1491,8 +1491,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Operation Mocking Pastor; topic reused.",
@@ -1508,8 +1508,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.",
@@ -1527,26 +1527,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10164",
-      "ref": "N-10164",
-      "name": "Charlie Kirk Catholic Trajectory Verification",
-      "type": "investigation_target",
-      "description": "Charlie Kirk Catholic Trajectory Verification; topic reused.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2223",
-        "C-2239"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
       "type": "investigation_target",
       "description": "Tyler Bowyer X Defense Pattern; topic reused.",
@@ -1562,8 +1544,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.",
@@ -1581,8 +1563,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10206",
-      "ref": "N-10206",
+      "@id": "N-10198",
+      "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
       "type": "investigation_target",
       "description": "TPUSA Text Chain Authenticity Verification; topic reused.",
@@ -1599,8 +1581,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10236",
-      "ref": "N-10236",
+      "@id": "N-10223",
+      "ref": "N-10223",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
       "type": "investigation_target",
       "description": "Megyn Kelly Tour Attendee Authenticity Question; topic reused.",
@@ -1616,8 +1598,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10336",
-      "ref": "N-10336",
+      "@id": "N-10315",
+      "ref": "N-10315",
       "name": "Tyler Robinson First In-Person Court Appearance Details",
       "type": "investigation_target",
       "description": "Tyler Robinson First In-Person Court Appearance Details; topic reused.",
@@ -1633,8 +1615,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "investigation_target",
       "description": "Tyler Robinson Prosecution Evidence Base; topic reused.",
@@ -1650,8 +1632,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.",
@@ -1667,8 +1649,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10543",
-      "ref": "N-10543",
+      "@id": "N-10498",
+      "ref": "N-10498",
       "name": "Charlie Kirk Legacy Control Dispute",
       "type": "investigation_target",
       "description": "Charlie Kirk Legacy Control Dispute; topic reused.",
@@ -1686,8 +1668,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10917",
-      "ref": "N-10917",
+      "@id": "N-10838",
+      "ref": "N-10838",
       "name": "Republican Jewish Coalition",
       "type": "investigation_target",
       "description": "Republican Jewish Coalition; event where the signs appeared.",
@@ -1705,8 +1687,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11092",
-      "ref": "N-11092",
+      "@id": "N-11010",
+      "ref": "N-11010",
       "name": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
       "type": "investigation_target",
       "description": "Erika CEO Appointment Timing Explanation; topic reused.",
@@ -1722,8 +1704,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
       "type": "investigation_target",
       "description": "Candace Owens Australia Visa Review; topic reused.",
@@ -1739,8 +1721,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11107",
-      "ref": "N-11107",
+      "@id": "N-11025",
+      "ref": "N-11025",
       "name": "Erika Kirk Interview Campaign Talking Points",
       "type": "investigation_target",
       "description": "Erika Kirk Interview Campaign Talking Points; topic reused.",
@@ -1842,8 +1824,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11223",
-      "ref": "N-11223",
+      "@id": "N-11139",
+      "ref": "N-11139",
       "name": "Sackler Family and Purdue Pharma",
       "type": "organization",
       "description": "Family and company the host names as owners of Purdue Pharma and architects of the opioid epidemic, with names on buildings in Tel Aviv.",
@@ -1860,8 +1842,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11224",
-      "ref": "N-11224",
+      "@id": "N-11140",
+      "ref": "N-11140",
       "name": "Cracker Barrel",
       "type": "organization",
       "description": "Restaurant chain the host cites as an example of customers forcing a reversal of a marketing change.",
@@ -1877,8 +1859,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11225",
-      "ref": "N-11225",
+      "@id": "N-11141",
+      "ref": "N-11141",
       "name": "Sallie Mae",
       "type": "organization",
       "description": "Student lender the host says stopped funding her senior year around 2010.",
@@ -2027,9 +2009,9 @@
         "A-1317.1"
       ],
       "related_nodes": [
-        "N-10216",
-        "N-10894",
-        "N-10895"
+        "N-10207",
+        "N-10815",
+        "N-10816"
       ],
       "tags": [],
       "claim_timestamp": "00:21:26",
@@ -2053,7 +2035,7 @@
         "A-1317.2"
       ],
       "related_nodes": [
-        "N-10216"
+        "N-10207"
       ],
       "tags": [],
       "claim_timestamp": "00:22:13",
@@ -2073,8 +2055,8 @@
         "A-1317.3"
       ],
       "related_nodes": [
-        "N-10216",
-        "N-10895"
+        "N-10207",
+        "N-10816"
       ],
       "tags": [],
       "claim_timestamp": "00:23:04",
@@ -2094,7 +2076,7 @@
         "A-1318.1"
       ],
       "related_nodes": [
-        "N-10217"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:30:31",
@@ -2201,7 +2183,7 @@
       "claim": "The host says Randy Fine has said essentially that Palestinians are not truly human and that even AIPAC had to drop him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083"
+        "N-10070"
       ],
       "tags": [
         "relevance:tangential"
@@ -2224,7 +2206,7 @@
         "A-1313.3"
       ],
       "related_nodes": [
-        "N-10917"
+        "N-10838"
       ],
       "tags": [
         "relevance:context"
@@ -2247,7 +2229,7 @@
         "A-1313.3"
       ],
       "related_nodes": [
-        "N-10917"
+        "N-10838"
       ],
       "tags": [
         "relevance:context"
@@ -2272,7 +2254,7 @@
       "claim": "The host says the identical anti-Tucker messaging shows it is inorganic and compares it to Operation Mocking Pastor, saying it was clear the speakers were instructed to go after Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -2334,7 +2316,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -2356,7 +2338,7 @@
       "claim": "The host says that Tucker Carlson interviewed Nick Fuentes, and that the same people who pressured Charlie Kirk now assert posthumously that the interview was a betrayal of Charlie and ended their friendship.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:context"
@@ -2573,7 +2555,7 @@
       "claim": "The host says the gambling empire is where the Adelson empire wealth comes from and that many pharmaceuticals came from people like the Sackler family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-11139"
       ],
       "tags": [
         "relevance:tangential"
@@ -2594,7 +2576,7 @@
       "claim": "The host says the Sackler family have their names on buildings in Tel Aviv and that they are the owners of Purdue Pharma, the architects of the opioid epidemic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-11139"
       ],
       "tags": [
         "relevance:tangential"
@@ -2782,7 +2764,7 @@
         "A-3013.1"
       ],
       "related_nodes": [
-        "N-10543"
+        "N-10498"
       ],
       "tags": [
         "relevance:core"
@@ -2804,7 +2786,7 @@
       "claim": "The host says Charlie's vice was probably associating success and growth with money, and that this was probably the conduit through which snakes got into his company and donor base.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10033"
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -2866,7 +2848,7 @@
       "claim": "The host says that, despite the effort to say he did not waver in his support, Charlie did waver, and that the public has been reading Charlie in his own words.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148",
+        "N-10143",
         "N-10025"
       ],
       "tags": [
@@ -2888,7 +2870,7 @@
       "claim": "The host says Charlie supported Israel throughout his entire career and then felt the \"agent Smiths\" coming in pressing him, ironically over Tucker, and says Charlie died fighting for his friendship with Tucker.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148",
+        "N-10143",
         "N-10025"
       ],
       "tags": [
@@ -2931,8 +2913,7 @@
       "claim": "The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McCoy and Rob McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10164"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -2956,7 +2937,7 @@
       "claim": "The host says Erika Kirk has not come out and said Charlie never had an issue with Israel in the end or that he loved Israel to his dying breath.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:core"
@@ -2979,7 +2960,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-11107"
+        "N-11025"
       ],
       "tags": [
         "relevance:context"
@@ -3002,7 +2983,7 @@
       "claim": "The host says, hedging that listeners should not quote her, that she is pretty sure she saw it teased that Erika Kirk is slated to join Megyn Kelly on tour.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10236"
+        "N-10223"
       ],
       "tags": [
         "relevance:context"
@@ -3024,7 +3005,7 @@
       "claim": "The host says Charlie opened up to Megyn Kelly in the end and that Kelly told the truth about the pressure Charlie was under, for which she is still catching heat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:core"
@@ -3088,7 +3069,7 @@
         "A-1318.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10316"
       ],
       "tags": [
         "relevance:core"
@@ -3108,7 +3089,7 @@
       "claim": "The host says it is ridiculous to allow the defendant to appear virtually, not even on camera, for some pre-hearing matters.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10336"
+        "N-10315"
       ],
       "tags": [
         "relevance:core"
@@ -3129,7 +3110,7 @@
       "claim": "The host says Justin Streiff, she thinks, was the CEO and that she would have advised an interim CEO rather than Erika moving from widow to CEO and chairman.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11092"
+        "N-11010"
       ],
       "tags": [
         "relevance:core"
@@ -3151,7 +3132,7 @@
       "claim": "The host says people do not like what they have seen about Mikey McCoy and Rob McCoy, their history and involvement, or the video of Taryl.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10217"
+        "N-10208"
       ],
       "tags": [
         "relevance:core"
@@ -3173,8 +3154,8 @@
       "claim": "The host says people do not believe what time text messages were sent or when the phone calls took place, and she states that Rob McCoy is lying.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10217",
-        "N-10206"
+        "N-10208",
+        "N-10198"
       ],
       "tags": [
         "relevance:core"
@@ -3197,7 +3178,7 @@
         "A-3014.1"
       ],
       "related_nodes": [
-        "N-10167"
+        "N-10160"
       ],
       "tags": [
         "relevance:core"
@@ -3220,7 +3201,7 @@
       "claim": "The host says Cracker Barrel's top executives changed the marketing with highly paid advertisers, customers revolted, and the old man image was put back, using it to illustrate that the market is always right.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11224"
+        "N-11140"
       ],
       "tags": [
         "relevance:tangential"
@@ -3240,8 +3221,8 @@
       "claim": "The host says there is no messaging from Turning Point about whether the donors in question were removed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10217",
-        "N-10047"
+        "N-10208",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3261,8 +3242,7 @@
       "claim": "The host says the dance around the Catholic topic did not come from Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10164"
+        "N-10100"
       ],
       "tags": [
         "relevance:core"
@@ -3284,7 +3264,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006",
-        "N-11107"
+        "N-11025"
       ],
       "tags": [
         "relevance:context"
@@ -3306,7 +3286,7 @@
       "claim": "The host says Charlie Kirk was a big supporter of Kash Patel, had him on his show and really pushed for him to get the director of the FBI role.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -3328,7 +3308,7 @@
       "claim": "The host says the case makes no sense, citing the impassioned messages attributed to 20-year-old gay men, which she says don't exactly sound Gen Z.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10077"
+        "N-10074"
       ],
       "tags": [
         "relevance:core"
@@ -3348,7 +3328,7 @@
       "claim": "The host says Kash Patel, as she understands it, flew his FBI plane down to Nashville to see Alexis Wilkins and that the internet called it an inappropriate use of taxpayer funds.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -3412,7 +3392,7 @@
         "A-3015.1"
       ],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:context"
@@ -3454,7 +3434,7 @@
       "claim": "The host says she is banned from Australia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:context"
@@ -3476,7 +3456,7 @@
         "A-3013.1"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [
         "relevance:core"
@@ -3549,7 +3529,7 @@
         "A-1320.6"
       ],
       "related_nodes": [
-        "N-11225"
+        "N-11141"
       ],
       "tags": [
         "relevance:context"
@@ -3571,7 +3551,7 @@
         "A-1320.6"
       ],
       "related_nodes": [
-        "N-11225"
+        "N-11141"
       ],
       "tags": [
         "relevance:context"
@@ -3618,7 +3598,7 @@
         "A-1313.3"
       ],
       "related_nodes": [
-        "N-10917"
+        "N-10838"
       ],
       "tags": [
         "relevance:context"

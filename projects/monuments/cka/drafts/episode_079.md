@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11294, N-11295
-  - Hole-minted Nodes (reintro-ep079): N-10544
-  - Tip-minted Nodes (reintro-ep079): N-11145
+  - Tip-minted Nodes (supplement_2026-10e): N-11210, N-11211
+  - Hole-minted Nodes (reintro-ep079): N-10499
+  - Tip-minted Nodes (reintro-ep079): N-11062
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7072–C-7149
-  - New Nodes Introduced: N-589, N-592, N-10542
-  - Reused Nodes Appearing: N-101, N-5, N-377, N-10539, N-10540, N-591, N-593, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-178, N-204, N-244, N-268, N-390, N-520, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-590, N-11057, N-10674
+  - New Nodes Introduced: N-589, N-592, N-10497
+  - Reused Nodes Appearing: N-101, N-5, N-377, N-10494, N-10495, N-591, N-593, N-10496, N-10498, N-2, N-4, N-9, N-37, N-40, N-46, N-178, N-204, N-244, N-268, N-390, N-520, N-10000, N-10079, N-10070, N-10127, N-10223, N-10224, N-10252, N-10359, N-10364, N-10379, N-10821, N-10883, N-10982, N-11014, N-11021, N-11046, N-11144, N-590, N-10975, N-10613
   - (see registers)
 
 ## 6. Meme Register
@@ -211,7 +211,7 @@ Video Timestamp: 00:08:50–00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads message contents verbatim)
 
-*Related: C-7081, C-7108, N-1, N-3, N-97, N-10543*
+*Related: C-7081, C-7108, N-1, N-3, N-97, N-10498*
 
 **A-1846.2** Charlie Kirk text re: Talmud ("There are some verses in the Talmud that will blow your mind." / "The Talmud is not biblical, but it is their rabbinical interpretations of Judaism." / "thought crime")
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:10:32–00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads full exchange)
 
-*Related: C-7087, C-7091, N-1, N-590, N-5, N-10539*
+*Related: C-7087, C-7091, N-1, N-590, N-5, N-10494*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:07:35–00:08:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads Milo and Charlie's words verbatim)
 
-*Related: C-7078, N-220, N-97, N-10543*
+*Related: C-7078, N-220, N-97, N-10498*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:13:29–00:16:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-7095, N-159, N-97, N-10543*
+*Related: C-7095, N-159, N-97, N-10498*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:24:34–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7113, N-591, N-5, N-10541*
+*Related: C-7113, N-591, N-5, N-10496*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:31:42–00:34:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7120, N-5, N-10541*
+*Related: C-7120, N-5, N-10496*
 
 ---
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:41:23–00:43:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7134, N-22, N-5, N-10540*
+*Related: C-7134, N-22, N-5, N-10495*
 
 ---
 
@@ -357,7 +357,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original source not displayed)
 
-*Related: C-7116, N-10541, N-5*
+*Related: C-7116, N-10496, N-5*
 
 **A-1855.2** Statement attributed to the EU: "It is in our interest to keep the Strait of Hormuz open, and that's why we are also discussing what we can do in this regard."
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.3** Statement attributed to Britain: "While taking the necessary action to defend ourselves and our allies, we will not be drawn into the wider war."
 
@@ -377,7 +377,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.4** Statement attributed to Australia: "Australia does not intend to send ships into the Strait of Hormuz."
 
@@ -387,7 +387,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.5** Statement attributed to Japan: "We have not made any decisions whatsoever about dispatching escort ships."
 
@@ -397,7 +397,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.6** Statement attributed to China: "The recent tense situation in the strait and the waters nearby has impacted the route for international goods and energy trade, disrupting peace and stability in the region and beyond."
 
@@ -407,7 +407,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.7** Statement attributed to Italian Prime Minister Giorgia Meloni describing the war as part of a "growing and dangerous trend of interventions that sit outside the scope of international law."
 
@@ -417,7 +417,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-592, N-10541*
+*Related: C-7116, N-592, N-10496*
 
 **A-1855.8** Statement attributed to Spain: "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now."
 
@@ -427,7 +427,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.9** Statement attributed to South Korea: "We will continue to communicate closely with the US while carefully reviewing the situation before making a decision."
 
@@ -437,7 +437,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-10541*
+*Related: C-7116, N-10496*
 
 **A-1855.10** Statement attributed to France / Emmanuel Macron: France willing to use French navy to escort ships only if the conflict stabilized.
 
@@ -447,7 +447,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7116, N-377, N-10541*
+*Related: C-7116, N-377, N-10496*
 
 ---
 
@@ -461,7 +461,7 @@ Video Timestamp: 00:36:50–00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads her own piece verbatim)
 
-*Related: C-7126, N-3, N-593, N-10543*
+*Related: C-7126, N-3, N-593, N-10498*
 
 ---
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:44:36–00:45:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original screen not displayed)
 
-*Related: C-7139, N-222, N-22, N-10540*
+*Related: C-7139, N-222, N-22, N-10495*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:45:22–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7140, N-22, N-10540*
+*Related: C-7140, N-22, N-10495*
 
 ---
 
@@ -503,7 +503,7 @@ Video Timestamp: 00:46:20–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-7142, N-22, N-10540*
+*Related: C-7142, N-22, N-10495*
 
 ---
 
@@ -517,7 +517,7 @@ Video Timestamp: 00:34:14–00:35:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud; original screen not displayed)
 
-*Related: C-7122, N-5, N-10542*
+*Related: C-7122, N-5, N-10497*
 
 ---
 
@@ -628,7 +628,7 @@ Claim Count: 7
 Episode Count: Multiple (longitudinal)
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1846.2, A-1846.3, A-1847.1, A-1848.1, A-1850.1, C-7081, C-7085, C-7108, C-7087, C-7091, C-7078, C-7095, N-10543*
+*Related: A-1846.1, A-1846.2, A-1846.3, A-1847.1, A-1848.1, A-1850.1, C-7081, C-7085, C-7108, C-7087, C-7091, C-7078, C-7095, N-10498*
 
 ---
 
@@ -641,7 +641,7 @@ Claim Count: 3
 Episode Count: Multiple
 Investigative Pressure: High
 
-*Related: A-1847.1, A-1852.1, A-1853.1, A-1854.1, A-1860.1, C-7087, C-7113, C-7120, C-7116, C-7122, N-10541*
+*Related: A-1847.1, A-1852.1, A-1853.1, A-1854.1, A-1860.1, C-7087, C-7113, C-7120, C-7116, C-7122, N-10496*
 
 ---
 
@@ -654,7 +654,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, A-1853.1, N-1, N-5, N-10541*
+*Related: A-1847.1, A-1853.1, N-1, N-5, N-10496*
 
 ---
 
@@ -667,7 +667,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1846.2, A-1848.1, A-1850.1, A-1851.1, C-7081, C-7108, C-7078, C-7095, C-7104, N-10543*
+*Related: A-1846.1, A-1846.2, A-1848.1, A-1850.1, A-1851.1, C-7081, C-7108, C-7078, C-7095, C-7104, N-10498*
 
 ---
 
@@ -693,7 +693,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-7087, C-7091, N-10539*
+*Related: A-1847.1, C-7087, C-7091, N-10494*
 
 ---
 
@@ -719,7 +719,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1850.1, C-7095, N-97, N-10543*
+*Related: A-1850.1, C-7095, N-97, N-10498*
 
 ---
 
@@ -745,7 +745,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1852.1, C-7113, N-5, N-10541*
+*Related: A-1852.1, C-7113, N-5, N-10496*
 
 ---
 
@@ -758,7 +758,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-7134, C-7139, C-7140, C-7142, N-5, N-10540*
+*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-7134, C-7139, C-7140, C-7142, N-5, N-10495*
 
 ---
 
@@ -771,7 +771,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1855.7, C-7116, N-10541*
+*Related: A-1855.7, C-7116, N-10496*
 
 ---
 
@@ -784,7 +784,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1855.10, C-7116, N-10541*
+*Related: A-1855.10, C-7116, N-10496*
 
 ---
 
@@ -810,11 +810,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1857.1, C-7139, N-22, N-10540*
+*Related: A-1857.1, C-7139, N-22, N-10495*
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Investigative target: documentation of Charlie Kirk's documented opposition to a US-Iran war in June 2025, including White House advocacy and characterization of neocons as "maniacs."
 
@@ -827,7 +827,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10540** Tucker Carlson CIA Investigation
+**N-10495** Tucker Carlson CIA Investigation
 
 Investigative target: claimed CIA criminal referral against Tucker Carlson under FARA, based on communications with Iranian contacts prior to the war.
 
@@ -840,7 +840,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10541** Strait of Hormuz / US-Iran War Context
+**N-10496** Strait of Hormuz / US-Iran War Context
 
 Investigative target: status of the Strait of Hormuz, US-Iran military engagement, and allied-nation non-participation as of March 2026.
 
@@ -853,7 +853,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10542** US Embassy Baghdad Attack (March 2026)
+**N-10497** US Embassy Baghdad Attack (March 2026)
 
 Investigative target: drone strike on US embassy complex in Baghdad and US evacuation advisory.
 
@@ -866,7 +866,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10543** Charlie Kirk Legacy Control Dispute
+**N-10498** Charlie Kirk Legacy Control Dispute
 
 Investigative target: ongoing contest over public interpretation of Charlie Kirk's political positions, with focus on his documented relationship with Ben Shapiro, his Iran-war opposition, and host's contention that neocons are misrepresenting his positions.
 
@@ -999,7 +999,7 @@ Organization whose conduct the host criticizes.
 
 ---
 
-**N-10082** CIA
+**N-10079** CIA
 
 CIA, the agency in Carlson's account.
 
@@ -1007,7 +1007,7 @@ CIA, the agency in Carlson's account.
 
 ---
 
-**N-10083** AIPAC
+**N-10070** AIPAC
 
 Lobby the commenter says is an unregistered foreign agent.
 
@@ -1015,7 +1015,7 @@ Lobby the commenter says is an unregistered foreign agent.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Existing topic on a TPUSA audit.
 
@@ -1023,7 +1023,7 @@ Existing topic on a TPUSA audit.
 
 ---
 
-**N-10236** Megyn Kelly Tour Attendee Authenticity Question
+**N-10223** Megyn Kelly Tour Attendee Authenticity Question
 
 Existing topic on a Kelly tour event.
 
@@ -1031,7 +1031,7 @@ Existing topic on a Kelly tour event.
 
 ---
 
-**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10224** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Existing topic on Shapiro's statements about the host's accusations.
 
@@ -1039,7 +1039,7 @@ Existing topic on Shapiro's statements about the host's accusations.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic on AmFest speaker removals and donor pressure.
 
@@ -1047,7 +1047,7 @@ Existing topic on AmFest speaker removals and donor pressure.
 
 ---
 
-**N-10386** Ben Shapiro Hostile Takeover Pattern
+**N-10359** Ben Shapiro Hostile Takeover Pattern
 
 Existing topic on Shapiro's alleged takeover pattern.
 
@@ -1055,7 +1055,7 @@ Existing topic on Shapiro's alleged takeover pattern.
 
 ---
 
-**N-10391** Ben Shapiro Daily Wire Founding Narrative
+**N-10364** Ben Shapiro Daily Wire Founding Narrative
 
 Existing topic on Daily Wire founding narrative.
 
@@ -1063,7 +1063,7 @@ Existing topic on Daily Wire founding narrative.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic on attacks on Kelly.
 
@@ -1071,7 +1071,7 @@ Existing topic on attacks on Kelly.
 
 ---
 
-**N-10544** Netanyahu Death/Injury Status Verification
+**N-10499** Netanyahu Death/Injury Status Verification
 
 Existing topic on Netanyahu status verification.
 
@@ -1079,7 +1079,7 @@ Existing topic on Netanyahu status verification.
 
 ---
 
-**N-10674** June 18 White House Meeting on Iran Involvement
+**N-10613** June 18 White House Meeting on Iran Involvement
 
 Existing topic on the June 18 White House meeting.
 
@@ -1087,7 +1087,7 @@ Existing topic on the June 18 White House meeting.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Organization tied to Shapiro and the host's former employment.
 
@@ -1095,7 +1095,7 @@ Organization tied to Shapiro and the host's former employment.
 
 ---
 
-**N-10962** Venezuela
+**N-10883** Venezuela
 
 Place named in the oil shipment claim.
 
@@ -1103,7 +1103,7 @@ Place named in the oil shipment claim.
 
 ---
 
-**N-11057** Blake Neff Employment History Account
+**N-10975** Blake Neff Employment History Account
 
 Existing topic on Neff's employment history.
 
@@ -1111,7 +1111,7 @@ Existing topic on Neff's employment history.
 
 ---
 
-**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative
+**N-10982** Ben Shapiro and Charlie Kirk Friendship Narrative
 
 Existing topic on the Shapiro and Kirk friendship narrative.
 
@@ -1119,7 +1119,7 @@ Existing topic on the Shapiro and Kirk friendship narrative.
 
 ---
 
-**N-11096** TikTok Israel Moderation Claim
+**N-11014** TikTok Israel Moderation Claim
 
 Existing topic on TikTok moderation claims.
 
@@ -1127,7 +1127,7 @@ Existing topic on TikTok moderation claims.
 
 ---
 
-**N-11103** TikTok
+**N-11021** TikTok
 
 Platform named in the host's article.
 
@@ -1135,7 +1135,7 @@ Platform named in the host's article.
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Existing topic on the Iran war betrayal thesis.
 
@@ -1143,7 +1143,7 @@ Existing topic on the Iran war betrayal thesis.
 
 ---
 
-**N-11145** Minab Iran School Strike
+**N-11062** Minab Iran School Strike
 
 Place of the school strike the host cites.
 
@@ -1151,7 +1151,7 @@ Place of the school strike the host cites.
 
 ---
 
-**N-11228** Candace Podcast Ranking and Operations
+**N-11144** Candace Podcast Ranking and Operations
 
 Existing topic on the host's podcast ranking.
 
@@ -1159,7 +1159,7 @@ Existing topic on the host's podcast ranking.
 
 ---
 
-**N-11294** Pro-Iran-War Fake Poll and Bot Claim
+**N-11210** Pro-Iran-War Fake Poll and Bot Claim
 
 Node Type: Topic
 The host's claim that supporters of the Iran war faked polls and deployed bots and sock puppets in comment sections to simulate support.
@@ -1168,7 +1168,7 @@ The host's claim that supporters of the Iran war faked polls and deployed bots a
 
 ---
 
-**N-11295** White House Iran War Meme Posts
+**N-11211** White House Iran War Meme Posts
 
 Node Type: Topic
 Pop-culture style memes (Mortal Kombat, Power Rangers) the host says the White House posted about the Iran operation.
@@ -1233,7 +1233,7 @@ Claim: Per a statement by Bret Weinstein that the host reads, Weinstein says tha
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-5, N-590
 
-Related Nodes: N-10539
+Related Nodes: N-10494
 
 Investigative Direction: Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics.
 
@@ -1248,7 +1248,7 @@ Claim: In the June 18 text exchange the host reads, Bret Weinstein wrote "We hav
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-590
 
-Related Nodes: N-10539
+Related Nodes: N-10494
 
 Investigative Direction: Verify original message; cross-reference with contemporaneous public statements.
 
@@ -1321,7 +1321,7 @@ Claim: Pete Hegseth stated in a press exchange: "The only thing prohibiting tran
 Anchored Artifacts: A-1852.1
 Mentions: N-591
 
-Related Nodes: N-10541
+Related Nodes: N-10496
 
 Investigative Direction: Obtain the full press exchange transcript and date.
 
@@ -1336,7 +1336,7 @@ Claim: In a clip the host plays, Donald Trump says: "We don't need oil... It's a
 Anchored Artifacts: A-1853.1
 Mentions: N-5
 
-Related Nodes: N-10541
+Related Nodes: N-10496
 
 Investigative Direction: Obtain full transcript and verify date.
 
@@ -1351,7 +1351,7 @@ Claim: Tucker Carlson stated in a video that "the CIA is preparing some kind of 
 Anchored Artifacts: A-1854.1
 Mentions: N-22
 
-Related Nodes: N-10540
+Related Nodes: N-10495
 
 Investigative Direction: Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.
 
@@ -1366,7 +1366,7 @@ Claim: The host reads statements attributed to governments including Germany, th
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
 Mentions: N-377, N-592
 
-Related Nodes: N-10541
+Related Nodes: N-10496
 
 Investigative Direction: Obtain original government press releases or transcripts for each quoted statement and verify dates.
 
@@ -1381,7 +1381,7 @@ Claim: Randy Fine posted on X: "It sounds like Tucker Carlson is learning the ha
 Anchored Artifacts: A-1857.1
 Mentions: N-22, N-222
 
-Related Nodes: N-10540
+Related Nodes: N-10495
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -1396,7 +1396,7 @@ Claim: Laura Loomer posted on X claiming to have "created a list... Of conservat
 Anchored Artifacts: A-1858.1
 Mentions: N-60
 
-Related Nodes: N-10540
+Related Nodes: N-10495
 
 Investigative Direction: Verify whether the list has ever been published publicly; check DOJ acknowledgment.
 
@@ -1411,7 +1411,7 @@ Claim: Alex Stein posted on X: "America is totally compromised by foreign actors
 Anchored Artifacts: A-1859.1
 Mentions: N-22, N-9
 
-Related Nodes: N-10540
+Related Nodes: N-10495
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -1426,7 +1426,7 @@ Claim: A news headline states: "US urges citizens to leave Iraq on after attack 
 Anchored Artifacts: A-1860.1
 Mentions: 
 
-Related Nodes: N-10542
+Related Nodes: N-10497
 
 Investigative Direction: Obtain the original news article; verify date and source publication.
 
@@ -1457,7 +1457,7 @@ Transcript Snippet: Uh the White House can keep posting their super fake and gay
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10541, N-11295
+Related Nodes: N-10496, N-11211
 Tags: relevance:tangential
 Investigative Direction: Capture the White House or official social accounts' Iran-war meme posts with dates to confirm the Mortal Kombat style content.
 
@@ -1473,7 +1473,7 @@ Transcript Snippet: Trump has apparently allowed Mark Levin's special class of p
 
 Anchored Artifacts: 
 Mentions: N-3, N-244, N-22, N-5
-Related Nodes: N-10540
+Related Nodes: N-10495
 Tags: relevance:context
 Investigative Direction: Collect Levin's and allied commentators' public calls to jail Carlson, and any White House statement on the CIA referral.
 
@@ -1489,7 +1489,7 @@ Transcript Snippet: Meghan is a coward. Piers Morgan is a click whore.
 
 Anchored Artifacts: A-3123.1
 Mentions: N-97, N-46, N-204, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Retrieve Shapiro's original X posts about Kelly and Morgan from the weekend before 2026-03-16 and compare the wording.
 
@@ -1505,7 +1505,7 @@ Transcript Snippet: Why have they been stalking and harassing Megyn Kelly? Nobod
 
 Anchored Artifacts: A-3123.2
 Mentions: N-46, N-97, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Retrieve Kelly's original reply post and check whether the host's reading is complete and in order.
 
@@ -1521,7 +1521,7 @@ Transcript Snippet: You won't even protect Charlie Kirk's widow from the monster
 
 Anchored Artifacts: A-3123.3
 Mentions: N-97, N-46, N-2, N-1, N-3
-Related Nodes: N-10237
+Related Nodes: N-10224
 Tags: relevance:core
 Investigative Direction: Retrieve Shapiro's original reply post and check whether it names the host or the accusation she is said to have made.
 
@@ -1537,7 +1537,7 @@ Transcript Snippet: Ben operated behind the scenes to try to stop his rise the s
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10386, N-11064
+Related Nodes: N-10359, N-10982
 Supports: C-2208, C-7078
 Tags: relevance:core
 Investigative Direction: Identify the journalists and pieces the host alleges were commissioned and obtain her contemporaneous messages with Kirk about them.
@@ -1554,7 +1554,7 @@ Transcript Snippet: all he talked about was how was how amazing Candace was and 
 
 Anchored Artifacts: A-1848.1
 Mentions: N-220, N-1, N-97, N-3
-Related Nodes: N-10543
+Related Nodes: N-10498
 Supports: C-7078
 Tags: relevance:core
 Investigative Direction: Ask Yiannopoulos for the original post and the messages he says Kirk showed him; verify against Kirk's phone records.
@@ -1571,7 +1571,7 @@ Transcript Snippet: I'm going to attack his friends over the topic of Israel, a 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10543, N-11128
+Related Nodes: N-10498, N-11046
 Tags: relevance:core
 Investigative Direction: Compare Kirk's pre-2025 and 2025 public statements on Israel and the host's private texts to date the alleged shift.
 
@@ -1587,7 +1587,7 @@ Transcript Snippet: Stand for truth. The people are with you. Thank you, Charlie
 
 Anchored Artifacts: A-1846.1
 Mentions: N-1, N-3, N-97
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Obtain device-level forensic verification of the thread and its date relative to the Shapiro table incident.
 
@@ -1603,7 +1603,7 @@ Transcript Snippet: And he then laughs and wrote, "BTW, he was standing on a cou
 
 Anchored Artifacts: A-1846.1
 Mentions: N-1, N-3, N-97
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:context
 Investigative Direction: Match the text's timestamp to the Shapiro table/couch incident the host describes and verify the thread forensically.
 
@@ -1619,7 +1619,7 @@ Transcript Snippet: I have about 300 messages between me and Charlie to that eff
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:core
 Investigative Direction: Request a count and an independent forensic export of the thread; compare with earlier counts the host has given.
 
@@ -1635,7 +1635,7 @@ Transcript Snippet: they are now trying to package to us as like a faithful Talm
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
-Related Nodes: N-10000, N-10543, N-11064
+Related Nodes: N-10000, N-10498, N-10982
 Supports: C-7085
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements and speeches since September 2025 that describe Kirk's views on Shapiro and the Talmud.
@@ -1652,7 +1652,7 @@ Transcript Snippet: A reversal made infinitely more evil by the fact that his wi
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10000, N-10543
+Related Nodes: N-10000, N-10498
 Tags: relevance:core
 Investigative Direction: Review TPUSA leadership communications under Erika Kirk on Kirk's Israel and Shapiro positions.
 
@@ -1668,7 +1668,7 @@ Transcript Snippet: back when Charlie went toe-to-toe with Bibi Netanyahu and wo
 
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-36, N-5
-Related Nodes: N-10539, N-10674
+Related Nodes: N-10494, N-10613
 Supports: C-7087
 Tags: relevance:core
 Investigative Direction: Establish what direct contact, if any, Kirk had with Netanyahu in June 2025 and what Trump decided after the two White House days.
@@ -1685,7 +1685,7 @@ Transcript Snippet: it is reasonable to wonder if his refusal to back down from 
 
 Anchored Artifacts: A-1847.1
 Mentions: N-590, N-1, N-5
-Related Nodes: N-10539, N-11128
+Related Nodes: N-10494, N-11046
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.
 
@@ -1701,7 +1701,7 @@ Transcript Snippet: A good investigation could have settled the matter. What we 
 
 Anchored Artifacts: A-1847.1
 Mentions: N-590, N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Obtain Weinstein's full post and identify which investigative product he judges inadequate.
 
@@ -1717,7 +1717,7 @@ Transcript Snippet: the timing of his death removed him from the equation and li
 
 Anchored Artifacts: A-1847.1
 Mentions: N-590, N-1
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.
 
@@ -1733,7 +1733,7 @@ Transcript Snippet: driving real-time mass public opinion yet. The neocons are.
 
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-590
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:context
 Investigative Direction: Verify the full June 18 thread, which the host says she reads in part.
 
@@ -1749,7 +1749,7 @@ Transcript Snippet: Ben supported Ron DeSantis in the 2024 primary while Charlie
 
 Anchored Artifacts: A-1850.1
 Mentions: N-159, N-97, N-1, N-4, N-5
-Related Nodes: N-10543
+Related Nodes: N-10498
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.
 
@@ -1765,7 +1765,7 @@ Transcript Snippet: Blake was not even around for the building of Turning Point.
 
 Anchored Artifacts: A-1850.1
 Mentions: N-3, N-159, N-1, N-97
-Related Nodes: N-11057
+Related Nodes: N-10975
 Tags: relevance:context
 Investigative Direction: Establish Neff's start date at TPUSA and compare with the founding timeline Kirk described.
 
@@ -1781,7 +1781,7 @@ Transcript Snippet: Ben Shapiro was trying to take Andrew Breitbart's legacy and
 
 Anchored Artifacts: 
 Mentions: N-97, N-390, N-1, N-3
-Related Nodes: N-10900, N-10391
+Related Nodes: N-10821, N-10364
 Tags: relevance:context
 Investigative Direction: Ask the host what scandal she means and compare with the Daily Wire founding narrative.
 
@@ -1797,7 +1797,7 @@ Transcript Snippet: he went behind the scenes with his connections to the donors
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10386, N-10268
+Related Nodes: N-10359, N-10252
 Supports: C-4366, C-2208
 Tags: relevance:core
 Investigative Direction: Identify the donors and the speakers the host says Shapiro tried to bar, with dated messages or call logs.
@@ -1814,7 +1814,7 @@ Transcript Snippet: they allowed Charlie's rival to open AmFest by dissing Charl
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
-Related Nodes: N-10000, N-10268
+Related Nodes: N-10000, N-10252
 Supports: C-4393
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest 2025 program and the video of the opening remarks and the invitation chain for Shapiro.
@@ -1831,7 +1831,7 @@ Transcript Snippet: That's what he initially did to Megyn Kelly on her tour, no 
 
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-3
-Related Nodes: N-10236
+Related Nodes: N-10223
 Supports: C-2641
 Tags: relevance:context
 Investigative Direction: Obtain the video of the Kelly tour stop where Shapiro appeared and its date.
@@ -1848,7 +1848,7 @@ Transcript Snippet: He infamously stood up on that table while I was employed by
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Supports: C-7083
 Tags: relevance:tangential
 Investigative Direction: Locate the video of the table moment and the date of the host's genocide tweet.
@@ -1896,7 +1896,7 @@ Transcript Snippet: Yes, it's real. And I actually shortened it.
 
 Anchored Artifacts: A-1846.3
 Mentions: N-3, N-589, N-1
-Related Nodes: N-10543
+Related Nodes: N-10498
 Supports: C-7108
 Tags: relevance:context
 Investigative Direction: Request the complete thread to compare with the excerpt read on air.
@@ -1913,7 +1913,7 @@ Transcript Snippet: roughly 25% of the global liquid petroleum moves through thi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:context
 Investigative Direction: Check EIA or IEA transit figures for the Strait of Hormuz.
 
@@ -1929,7 +1929,7 @@ Transcript Snippet: Iran's just like, "We're going to shut that down because we 
 
 Anchored Artifacts: A-3124.1
 Mentions: N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:context
 Investigative Direction: Check shipping-traffic data and Iranian statements on the strait's status on the broadcast date.
 
@@ -1945,7 +1945,7 @@ Transcript Snippet: Nothing was happening other than BB wanted the fight with Ir
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:context
 Investigative Direction: Compare the intelligence and diplomatic record before the strike with Netanyahu's public and private requests.
 
@@ -1961,7 +1961,7 @@ Transcript Snippet: We also randomly bombed 200 schoolgirls in Iran, and then we
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:context
 Investigative Direction: Compare casualty counts and US statements on the Minab school strike with the host's figure.
 
@@ -1977,7 +1977,7 @@ Transcript Snippet: Trump is now demanding ground troops that he doesn't have, o
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Tags: relevance:context
 Investigative Direction: Obtain the Trump statement or order the host refers to and force-readiness reporting.
 
@@ -1993,7 +1993,7 @@ Transcript Snippet: So, Trump is now reduced to going around and asking or deman
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Supports: C-7116
 Tags: relevance:context
 Investigative Direction: Collect Trump administration requests to allies for ships or troops for Hormuz operations.
@@ -2025,7 +2025,7 @@ Transcript Snippet: Nobody knows where Bibi Netanyahu is or why these weird vide
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
-Related Nodes: N-10544
+Related Nodes: N-10499
 Tags: relevance:context
 Investigative Direction: Compile Netanyahu's dated public appearances in March 2026 and forensic analysis of the videos in question.
 
@@ -2041,7 +2041,7 @@ Transcript Snippet: So, I think he's dead, I don't know.
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
-Related Nodes: N-10544
+Related Nodes: N-10499
 Supports: C-7118
 Tags: relevance:context
 Investigative Direction: Obtain proof-of-life reporting and Israeli government statements on his whereabouts.
@@ -2058,7 +2058,7 @@ Transcript Snippet: They've all said don't do this except for Israel.
 
 Anchored Artifacts: 
 Mentions: N-5, N-3
-Related Nodes: N-10541
+Related Nodes: N-10496
 Supports: C-7116
 Tags: relevance:context
 Investigative Direction: Collect regional allies' public statements before the strike and compare with Trump's claim of allies.
@@ -2075,7 +2075,7 @@ Transcript Snippet: It's bigger than Vatican City.
 
 Anchored Artifacts: A-1860.1
 Mentions: N-3
-Related Nodes: N-10542
+Related Nodes: N-10497
 Tags: relevance:context
 Investigative Direction: Check the embassy compound's size against published figures and the dates of attacks on it.
 
@@ -2091,7 +2091,7 @@ Transcript Snippet: Right before we went to Iran, they started faking polls in s
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11294
+Related Nodes: N-11210
 Tags: relevance:context
 Investigative Direction: Identify the specific polls and their methodology and compare with independent polling.
 
@@ -2107,7 +2107,7 @@ Transcript Snippet: they have these bots now in every comment section and nobody
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11294
+Related Nodes: N-11210
 Tags: relevance:context
 Investigative Direction: Use platform bot-detection or academic studies of Iran-war comment activity.
 
@@ -2123,7 +2123,7 @@ Transcript Snippet: They have purchased views, influencers and journalists. They
 
 Anchored Artifacts: A-1856.1
 Mentions: N-3
-Related Nodes: N-11294
+Related Nodes: N-11210
 Tags: relevance:context
 Investigative Direction: Ask the host for the studies or documents behind the 'millions of bots' figure.
 
@@ -2139,7 +2139,7 @@ Transcript Snippet: They even went so far as to stage an open takeover of TikTok
 
 Anchored Artifacts: A-1856.1
 Mentions: N-3
-Related Nodes: N-11103, N-11096
+Related Nodes: N-11021, N-11014
 Tags: relevance:tangential
 Investigative Direction: Compare with the record of the TikTok divestiture and its new ownership.
 
@@ -2155,7 +2155,7 @@ Transcript Snippet: the overwhelming majority of people in the world sense that 
 
 Anchored Artifacts: A-1856.1
 Mentions: N-3, N-1
-Related Nodes: N-11128, N-10539
+Related Nodes: N-11046, N-10494
 Supports: C-7087
 Tags: relevance:core
 Investigative Direction: Seek polling on public belief about the motive for Kirk's killing.
@@ -2187,7 +2187,7 @@ Transcript Snippet: me and Joe Rogan are in a three-way tie with one other podca
 
 Anchored Artifacts: 
 Mentions: N-3, N-268
-Related Nodes: N-11228
+Related Nodes: N-11144
 Tags: relevance:tangential
 Investigative Direction: Check the chart provider and date of the ranking the host cites.
 
@@ -2203,7 +2203,7 @@ Transcript Snippet: They're buying those things through ads. It's fake. The numb
 
 Anchored Artifacts: 
 Mentions: N-3, N-244, N-97
-Related Nodes: N-11228
+Related Nodes: N-11144
 Tags: relevance:tangential
 Investigative Direction: Compare podcast-ranking data with disclosed ad spending, if any.
 
@@ -2219,7 +2219,7 @@ Transcript Snippet: This is what they're posting on social media. They think we'
 
 Anchored Artifacts: A-3125.1
 Mentions: N-3
-Related Nodes: N-10541, N-11295
+Related Nodes: N-10496, N-11211
 Supports: C-7072
 Tags: relevance:context
 Investigative Direction: Identify the original social posts in the clip and the account that posted them.
@@ -2236,7 +2236,7 @@ Transcript Snippet: Well, talking to people in Iran before the war. They read my
 
 Anchored Artifacts: A-1854.1
 Mentions: N-22
-Related Nodes: N-10540, N-10082
+Related Nodes: N-10495, N-10079
 Supports: C-7134
 Tags: relevance:context
 Investigative Direction: Ask Carlson or the CIA how the texts were obtained and under what authority.
@@ -2253,7 +2253,7 @@ Transcript Snippet: I've also never taken money from anybody. Don't need it, don
 
 Anchored Artifacts: A-1854.1
 Mentions: N-22
-Related Nodes: N-10540
+Related Nodes: N-10495
 Tags: relevance:context
 Investigative Direction: Examine Carlson's financial disclosures and any FARA filings or inquiries.
 
@@ -2269,7 +2269,7 @@ Transcript Snippet: the main reason they do it is to leak the existence of the i
 
 Anchored Artifacts: A-1854.1
 Mentions: N-22
-Related Nodes: N-10540, N-10082
+Related Nodes: N-10495, N-10079
 Tags: relevance:context
 Investigative Direction: Review prior leaks of investigations of Carlson and any inspector general review.
 
@@ -2300,7 +2300,7 @@ Transcript Snippet: She keeps alluding to it, but she never published.
 
 Anchored Artifacts: A-1858.1
 Mentions: N-60, N-3
-Related Nodes: N-10540
+Related Nodes: N-10495
 Qualifies: C-7140
 Tags: relevance:context
 Investigative Direction: Check Loomer's accounts for any published list and any DOJ confirmation of receiving it.
@@ -2317,7 +2317,7 @@ Transcript Snippet: this hypnosis of us saying having people repeat that it was 
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-11128
+Related Nodes: N-11046
 Tags: relevance:core
 Investigative Direction: This is the host's characterization; test it against polling on belief in the official account.
 
@@ -2333,7 +2333,7 @@ Transcript Snippet: as we're sending barrels of oil from Venezuela to Israel.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10962
+Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Check tanker-tracking and Venezuelan export records for shipments to Israel.
 
@@ -2349,7 +2349,7 @@ Transcript Snippet: Three things that Charlie Kirk was for: no war with Iran, re
 
 Anchored Artifacts: A-3126.1
 Mentions: N-1, N-9, N-3
-Related Nodes: N-10000, N-10132, N-10539
+Related Nodes: N-10000, N-10127, N-10494
 Tags: relevance:core
 Investigative Direction: Find Kirk's own recorded statements on each of the three positions, particularly the TPUSA audit.
 
@@ -2365,7 +2365,7 @@ Transcript Snippet: These Israel worship it's it's ball worship. I mean, they th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:tangential
 Investigative Direction: Ask the host for any evidentiary basis; treat as rhetorical assertion.
 
@@ -2381,7 +2381,7 @@ Transcript Snippet: 175 schoolgirls are dead and there's no apology.
 
 Anchored Artifacts: A-3126.2
 Mentions: N-3
-Related Nodes: N-11145
+Related Nodes: N-11062
 Tags: relevance:context
 Investigative Direction: Compare with official and independent casualty counts for the Minab school strike; the host herself said 200 earlier.
 
@@ -2397,7 +2397,7 @@ Transcript Snippet: CIA targeting Tucker for talking to Iranians while AIPAC wal
 
 Anchored Artifacts: A-3126.2
 Mentions: N-22, N-3
-Related Nodes: N-10083, N-10540, N-10082
+Related Nodes: N-10070, N-10495, N-10079
 Tags: relevance:context
 Investigative Direction: Check the DOJ FARA registry and past DOJ rulings on AIPAC's registration status.
 

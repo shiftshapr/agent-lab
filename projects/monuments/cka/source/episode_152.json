@@ -18,13 +18,13 @@
     "- **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11263, N-11264, N-11265",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11179, N-11180, N-11181",
     "  - Hole-minted Nodes (reintro-ep152): N-194",
     "  - Tip-minted Nodes (reintro-ep152): N-832, N-833",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-13070–C-13179",
-    "  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-866",
-    " - New Nodes Introduced: N-10831, N-10832",
+    "  - Reused Nodes Appearing: N-10755, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10053, N-10124, N-10146, N-10185, N-10190, N-10232, N-10214, N-10383, N-10384, N-10394, N-10390, N-10481, N-10556, N-10635, N-10660, N-10188, N-10820, N-10890, N-10909, N-10965, N-11017, N-11081, N-11083, N-11119, N-866",
+    " - New Nodes Introduced: N-10754, N-10755",
     " - Reused Nodes Appearing: N-11, N-506",
     " - Hole-minted Nodes (wave3): N-587",
     " - (see registers)",
@@ -51,7 +51,7 @@
     "",
     "Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382",
     "Claim Range: C-13070–C-13123",
-    "New Nodes Introduced: N-10831, N-10832",
+    "New Nodes Introduced: N-10754, N-10755",
     "Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)",
     "",
     "---",
@@ -998,8 +998,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10831",
-   "header": "**N-10831** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
+   "id": "N-10754",
+   "header": "**N-10754** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
    "label": "Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
    "lines": [
     {
@@ -1043,8 +1043,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10832",
-   "header": "**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
+   "id": "N-10755",
+   "header": "**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
    "label": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
    "lines": [
     {
@@ -1324,8 +1324,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10056",
-   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "id": "N-10053",
+   "header": "**N-10053** Kirk-Israel Narrative Dispute",
    "label": "Kirk-Israel Narrative Dispute",
    "lines": [
     {
@@ -1353,8 +1353,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10129",
-   "header": "**N-10129** Orem Police Department",
+   "id": "N-10124",
+   "header": "**N-10124** Orem Police Department",
    "label": "Orem Police Department",
    "lines": [
     {
@@ -1382,8 +1382,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10151",
-   "header": "**N-10151** Mike Mitchell Undercover Role Verification",
+   "id": "N-10146",
+   "header": "**N-10146** Mike Mitchell Undercover Role Verification",
    "label": "Mike Mitchell Undercover Role Verification",
    "lines": [
     {
@@ -1411,8 +1411,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10193",
-   "header": "**N-10193** Mikey McCoy Call Log Verification",
+   "id": "N-10185",
+   "header": "**N-10185** Mikey McCoy Call Log Verification",
    "label": "Mikey McCoy Call Log Verification",
    "lines": [
     {
@@ -1440,8 +1440,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10198",
-   "header": "**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "id": "N-10190",
+   "header": "**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
    "label": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
    "lines": [
     {
@@ -1469,8 +1469,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10246",
-   "header": "**N-10246** Calvary Chapel Institutional Abuse Pattern",
+   "id": "N-10232",
+   "header": "**N-10232** Calvary Chapel Institutional Abuse Pattern",
    "label": "Calvary Chapel Institutional Abuse Pattern",
    "lines": [
     {
@@ -1498,8 +1498,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10338",
-   "header": "**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence",
+   "id": "N-10214",
+   "header": "**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence",
    "label": "Mikey McCoy Post-Shooting Phone Call Sequence",
    "lines": [
     {
@@ -1527,8 +1527,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10410",
-   "header": "**N-10410** TPUSA Board Member Military–Satanism Connection",
+   "id": "N-10383",
+   "header": "**N-10383** TPUSA Board Member Military–Satanism Connection",
    "label": "TPUSA Board Member Military–Satanism Connection",
    "lines": [
     {
@@ -1556,8 +1556,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10411",
-   "header": "**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+   "id": "N-10384",
+   "header": "**N-10384** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
    "label": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
    "lines": [
     {
@@ -1585,8 +1585,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10421",
-   "header": "**N-10421** Buckman–TPUSA Donor Relationship Investigation",
+   "id": "N-10394",
+   "header": "**N-10394** Buckman–TPUSA Donor Relationship Investigation",
    "label": "Buckman–TPUSA Donor Relationship Investigation",
    "lines": [
     {
@@ -1614,9 +1614,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10435",
-   "header": "**N-10435** Fort Huachuca Erika Kirk Location Investigation",
-   "label": "Fort Huachuca Erika Kirk Location Investigation",
+   "id": "N-10390",
+   "header": "**N-10390** Fort Huachuca Erika Presence Investigation",
+   "label": "Fort Huachuca Erika Presence Investigation",
    "lines": [
     {
      "raw": "Existing topic reused for the Fort Huachuca reference."
@@ -1640,8 +1640,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10524",
-   "header": "**N-10524** Faith Kates – Epstein Relationship Scope",
+   "id": "N-10481",
+   "header": "**N-10481** Faith Kates – Epstein Relationship Scope",
    "label": "Faith Kates – Epstein Relationship Scope",
    "lines": [
     {
@@ -1669,8 +1669,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10609",
-   "header": "**N-10609** Marcus Wada Arms Trafficking and Biography Cluster",
+   "id": "N-10556",
+   "header": "**N-10556** Marcus Wada Arms Trafficking and Biography Cluster",
    "label": "Marcus Wada Arms Trafficking and Biography Cluster",
    "lines": [
     {
@@ -1698,8 +1698,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10698",
-   "header": "**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk",
+   "id": "N-10635",
+   "header": "**N-10635** Next Model Management / MC2 Trafficking Connection to Erika Kirk",
    "label": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
    "lines": [
     {
@@ -1727,8 +1727,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10725",
-   "header": "**N-10725** Officer Bagley Body-Cam Battery Anomaly",
+   "id": "N-10660",
+   "header": "**N-10660** Officer Bagley Body-Cam Battery Anomaly",
    "label": "Officer Bagley Body-Cam Battery Anomaly",
    "lines": [
     {
@@ -1756,9 +1756,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10770",
-   "header": "**N-10770** Utah Valley Hospital File Anomaly",
-   "label": "Utah Valley Hospital File Anomaly",
+   "id": "N-10188",
+   "header": "**N-10188** UVU Hospital Charlie Kirk Medical File Access Question",
+   "label": "UVU Hospital Charlie Kirk Medical File Access Question",
    "lines": [
     {
      "raw": ""
@@ -1785,8 +1785,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -1814,8 +1814,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10969",
-   "header": "**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call",
+   "id": "N-10890",
+   "header": "**N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call",
    "label": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
    "lines": [
     {
@@ -1843,8 +1843,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11047",
-   "header": "**N-11047** All Things Possible Ministries",
+   "id": "N-10965",
+   "header": "**N-10965** All Things Possible Ministries",
    "label": "All Things Possible Ministries",
    "lines": [
     {
@@ -1872,8 +1872,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11099",
-   "header": "**N-11099** Candace Owens Australia Visa Review",
+   "id": "N-11017",
+   "header": "**N-11017** Candace Owens Australia Visa Review",
    "label": "Candace Owens Australia Visa Review",
    "lines": [
     {
@@ -1901,8 +1901,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11165",
-   "header": "**N-11165** Romanian Angels Project",
+   "id": "N-11081",
+   "header": "**N-11081** Romanian Angels Project",
    "label": "Romanian Angels Project",
    "lines": [
     {
@@ -1930,8 +1930,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11167",
-   "header": "**N-11167** Operation Underground Railroad",
+   "id": "N-11083",
+   "header": "**N-11083** Operation Underground Railroad",
    "label": "Operation Underground Railroad",
    "lines": [
     {
@@ -1956,8 +1956,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11203",
-   "header": "**N-11203** Make Heaven Crowded Tour",
+   "id": "N-11119",
+   "header": "**N-11119** Make Heaven Crowded Tour",
    "label": "Make Heaven Crowded Tour",
    "lines": [
     {
@@ -3418,8 +3418,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10989",
-   "header": "**N-10989** Soter Global Ministries",
+   "id": "N-10909",
+   "header": "**N-10909** Soter Global Ministries",
    "label": "Soter Global Ministries",
    "lines": [
     {
@@ -3451,8 +3451,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11263",
-   "header": "**N-11263** Utah Internet Crimes Against Children Task Force",
+   "id": "N-11179",
+   "header": "**N-11179** Utah Internet Crimes Against Children Task Force",
    "label": "Utah Internet Crimes Against Children Task Force",
    "lines": [
     {
@@ -3484,8 +3484,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11264",
-   "header": "**N-11264** Utah Attorney General's Office",
+   "id": "N-11180",
+   "header": "**N-11180** Utah Attorney General's Office",
    "label": "Utah Attorney General's Office",
    "lines": [
     {
@@ -3517,8 +3517,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11265",
-   "header": "**N-11265** The Bulwark",
+   "id": "N-11181",
+   "header": "**N-11181** The Bulwark",
    "label": "The Bulwark",
    "lines": [
     {
@@ -3705,7 +3705,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -3767,7 +3767,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -3892,7 +3892,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -3948,7 +3948,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -4004,7 +4004,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -4056,7 +4056,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -4114,7 +4114,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "raw": ""
@@ -4479,7 +4479,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10832"
+     "v": "N-10755"
     },
     {
      "raw": ""
@@ -4724,7 +4724,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831, N-10832"
+     "v": "N-10754, N-10755"
     },
     {
      "raw": ""
@@ -4790,7 +4790,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11165"
+     "v": "N-11081"
     },
     {
      "k": "Supports",
@@ -4855,7 +4855,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11165"
+     "v": "N-11081"
     },
     {
      "k": "Tags",
@@ -4916,7 +4916,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10435"
+     "v": "N-10390"
     },
     {
      "k": "Tags",
@@ -4977,7 +4977,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11203"
+     "v": "N-11119"
     },
     {
      "k": "Tags",
@@ -5038,7 +5038,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10411"
+     "v": "N-10384"
     },
     {
      "k": "Tags",
@@ -5152,7 +5152,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10246"
+     "v": "N-10232"
     },
     {
      "k": "Tags",
@@ -5270,7 +5270,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11167"
+     "v": "N-11083"
     },
     {
      "k": "Tags",
@@ -5388,7 +5388,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10410"
+     "v": "N-10383"
     },
     {
      "k": "Tags",
@@ -5506,7 +5506,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11047"
+     "v": "N-10965"
     },
     {
      "k": "Tags",
@@ -5624,7 +5624,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10421"
+     "v": "N-10394"
     },
     {
      "k": "Tags",
@@ -5685,7 +5685,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11167, N-10609"
+     "v": "N-11083, N-10556"
     },
     {
      "k": "Tags",
@@ -5746,7 +5746,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10989"
+     "v": "N-10909"
     },
     {
      "k": "Tags",
@@ -5982,7 +5982,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10151"
+     "v": "N-10146"
     },
     {
      "k": "Supports",
@@ -6104,7 +6104,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10725"
+     "v": "N-10660"
     },
     {
      "k": "Supports",
@@ -6405,7 +6405,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11263"
+     "v": "N-11179"
     },
     {
      "k": "Supports",
@@ -6596,7 +6596,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10770"
+     "v": "N-10188"
     },
     {
      "k": "Tags",
@@ -6832,7 +6832,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10193"
+     "v": "N-10185"
     },
     {
      "k": "Tags",
@@ -6893,7 +6893,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11263"
+     "v": "N-11179"
     },
     {
      "k": "Supports",
@@ -6958,7 +6958,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10198"
+     "v": "N-10190"
     },
     {
      "k": "Supports",
@@ -7023,7 +7023,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10338"
+     "v": "N-10214"
     },
     {
      "k": "Tags",
@@ -7084,7 +7084,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10014, N-11263"
+     "v": "N-10014, N-11179"
     },
     {
      "k": "Supports",
@@ -7149,7 +7149,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10129, N-11263"
+     "v": "N-10124, N-11179"
     },
     {
      "k": "Supports",
@@ -7214,7 +7214,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11264"
+     "v": "N-11180"
     },
     {
      "k": "Supports",
@@ -7275,7 +7275,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10831"
+     "v": "N-10754"
     },
     {
      "k": "Supports",
@@ -7397,7 +7397,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10969"
+     "v": "N-10890"
     },
     {
      "k": "Tags",
@@ -7576,7 +7576,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -7755,7 +7755,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11264"
+     "v": "N-11180"
     },
     {
      "k": "Tags",
@@ -8044,7 +8044,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10698"
+     "v": "N-10635"
     },
     {
      "k": "Tags",
@@ -8105,7 +8105,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10698"
+     "v": "N-10635"
     },
     {
      "k": "Tags",
@@ -8166,7 +8166,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10524"
+     "v": "N-10481"
     },
     {
      "k": "Tags",
@@ -8280,7 +8280,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899"
+     "v": "N-10820"
     },
     {
      "k": "Tags",
@@ -8744,7 +8744,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11265"
+     "v": "N-11181"
     },
     {
      "k": "Supports",
@@ -8809,7 +8809,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11265"
+     "v": "N-11181"
     },
     {
      "k": "Tags",
@@ -9281,7 +9281,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11099"
+     "v": "N-11017"
     },
     {
      "k": "Tags",
@@ -10030,7 +10030,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10056"
+     "v": "N-10053"
     },
     {
      "k": "Tags",
@@ -10535,7 +10535,7 @@
     "- [x] Every artifact has a Related line.",
     "- [x] Every node has a Related line.",
     "- [x] No episode-wide artifact bundle.",
-    "- [x] People nodes use the global people ledger (N-10141+ series for new entries).",
+    "- [x] People nodes use the global people ledger (N-10136+ series for new entries).",
     "- [x] Non-person investigation targets use the 2230 series.",
     "- [x] No speculative claims inscribed as evidence-backed.",
     "- [x] Names preserved exactly or uncertainty noted.",
@@ -10546,8 +10546,8 @@
     "Episode 152 analysis complete. Ledger continuation preserved. Next available IDs after this episode:",
     "- Next Artifact Family: A-2383",
     "- Next Claim ID: C-3465 (pre-2026-10-20 claim ids)",
-    "- Next Node ID (people): N-10169",
-    "- Next Node ID (investigation targets): N-10833"
+    "- Next Node ID (people): N-10162",
+    "- Next Node ID (investigation targets): N-10756"
    ]
   }
  ]

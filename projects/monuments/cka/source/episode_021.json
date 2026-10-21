@@ -18,8 +18,8 @@
     "- **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10b): N-754, N-11100, N-11101",
-    "  - Hole-minted Nodes (reintro-ep021): N-209, N-329, N-10323, N-10353",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-754, N-11018, N-11019",
+    "  - Hole-minted Nodes (reintro-ep021): N-209, N-329",
     "  - Tip-minted Nodes (reintro-ep021): N-659",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-1945–C-1997",
@@ -278,8 +278,8 @@
     "- Analysis date: 2026-03-11",
     "- Ledger continuation summary:",
     "  - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289",
-    "  - New Nodes Introduced: N-199, N-10200",
-    "  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319",
+    "  - New Nodes Introduced: N-199, N-10192",
+    "  - Reused Nodes Appearing: N-10193, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10044, N-10078, N-10134, N-10159, N-10328, N-10194, N-10300",
     "  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131",
     "",
     "---",
@@ -342,7 +342,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1952, N-10200*"
+     "raw": "*Related: C-1952, N-10192*"
     },
     {
      "raw": ""
@@ -382,7 +382,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1947, C-1949, N-17, N-10200*"
+     "raw": "*Related: C-1947, C-1949, N-17, N-10192*"
     },
     {
      "raw": ""
@@ -433,7 +433,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1950, C-1951, N-17, N-10200*"
+     "raw": "*Related: C-1950, C-1951, N-17, N-10192*"
     },
     {
      "raw": ""
@@ -484,7 +484,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1962, N-5 (Donald Trump, existing), N-10202*"
+     "raw": "*Related: C-1962, N-5 (Donald Trump, existing), N-10194*"
     },
     {
      "raw": ""
@@ -535,7 +535,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1966, C-1967, N-10202*"
+     "raw": "*Related: C-1966, C-1967, N-10194*"
     },
     {
      "raw": ""
@@ -586,7 +586,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-1980, C-1978, C-1984, N-46, N-10202*"
+     "raw": "*Related: C-1980, C-1978, C-1984, N-46, N-10194*"
     },
     {
      "raw": ""
@@ -1015,7 +1015,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1283.2, A-1284.1, C-1947, C-1950, C-1951, C-1949, N-10200*"
+     "raw": "*Related: A-1283.2, A-1284.1, C-1947, C-1950, C-1951, C-1949, N-10192*"
     },
     {
      "raw": ""
@@ -1108,8 +1108,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10200",
-   "header": "**N-10200** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
+   "id": "N-10192",
+   "header": "**N-10192** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
    "label": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
    "lines": [
     {
@@ -1150,8 +1150,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10201",
-   "header": "**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy",
+   "id": "N-10193",
+   "header": "**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "label": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
    "lines": [
     {
@@ -1192,8 +1192,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10202",
-   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "id": "N-10194",
+   "header": "**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)",
    "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
    "lines": [
     {
@@ -1331,8 +1331,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10047",
-   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "id": "N-10044",
+   "header": "**N-10044** Donor Intimidation of Charlie Kirk",
    "label": "Donor Intimidation of Charlie Kirk",
    "lines": [
     {
@@ -1360,8 +1360,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10081",
-   "header": "**N-10081** Israel Influence on US Politics",
+   "id": "N-10078",
+   "header": "**N-10078** Israel Influence on US Politics",
    "label": "Israel Influence on US Politics",
    "lines": [
     {
@@ -1389,8 +1389,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10139",
-   "header": "**N-10139** Operation Mocking Pastor",
+   "id": "N-10134",
+   "header": "**N-10134** Operation Mocking Pastor",
    "label": "Operation Mocking Pastor",
    "lines": [
     {
@@ -1418,8 +1418,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10166",
-   "header": "**N-10166** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+   "id": "N-10159",
+   "header": "**N-10159** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
    "label": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
    "lines": [
     {
@@ -1447,8 +1447,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10319",
-   "header": "**N-10319** .30-06 Forensic Narrative Validity",
+   "id": "N-10300",
+   "header": "**N-10300** .30-06 Forensic Narrative Validity",
    "label": ".30-06 Forensic Narrative Validity",
    "lines": [
     {
@@ -1476,37 +1476,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10323",
-   "header": "**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass",
-   "label": "Charlie Kirk Burial Status / Catholic Funeral Mass",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-1974*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10350",
-   "header": "**N-10350** Charlie Kirk Catholicism Journey",
+   "id": "N-10328",
+   "header": "**N-10328** Charlie Kirk Catholicism Journey",
    "label": "Charlie Kirk Catholicism Journey",
    "lines": [
     {
@@ -1520,35 +1491,6 @@
     },
     {
      "raw": "*Related: C-1972*"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "---"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10353",
-   "header": "**N-10353** Rob McCoy Wikipedia TPUSA Faith Entry",
-   "label": "Rob McCoy Wikipedia TPUSA Faith Entry",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Existing topic reused for new claims in this episode."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: C-1948*"
     },
     {
      "raw": ""
@@ -2082,8 +2024,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11100",
-   "header": "**N-11100** Charlie Kirk Post-Shooting First Aid Question",
+   "id": "N-11018",
+   "header": "**N-11018** Charlie Kirk Post-Shooting First Aid Question",
    "label": "Charlie Kirk Post-Shooting First Aid Question",
    "lines": [
     {
@@ -2115,8 +2057,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11101",
-   "header": "**N-11101** TPUSA Wikipedia Cleanup Operative Claim",
+   "id": "N-11019",
+   "header": "**N-11019** TPUSA Wikipedia Cleanup Operative Claim",
    "label": "TPUSA Wikipedia Cleanup Operative Claim",
    "lines": [
     {
@@ -2220,7 +2162,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "raw": ""
@@ -2276,7 +2218,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "raw": ""
@@ -2332,7 +2274,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "raw": ""
@@ -2388,7 +2330,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "raw": ""
@@ -2501,7 +2443,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "raw": ""
@@ -2557,7 +2499,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "raw": ""
@@ -2774,7 +2716,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "raw": ""
@@ -3057,7 +2999,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10353"
+     "v": "N-10192"
     },
     {
      "k": "Supports",
@@ -3122,7 +3064,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11101, N-10200"
+     "v": "N-11019, N-10192"
     },
     {
      "k": "Tags",
@@ -3183,7 +3125,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "k": "Tags",
@@ -3244,7 +3186,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10166"
+     "v": "N-10159"
     },
     {
      "k": "Tags",
@@ -3423,7 +3365,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10319"
+     "v": "N-10300"
     },
     {
      "k": "Tags",
@@ -3712,7 +3654,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "k": "Tags",
@@ -3773,7 +3715,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "k": "Tags",
@@ -3891,7 +3833,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11100"
+     "v": "N-11018"
     },
     {
      "k": "Tags",
@@ -3952,7 +3894,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11100"
+     "v": "N-11018"
     },
     {
      "k": "Tags",
@@ -4013,7 +3955,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10350"
+     "v": "N-10328"
     },
     {
      "k": "Supports",
@@ -4078,7 +4020,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10139"
+     "v": "N-10134"
     },
     {
      "k": "Supports",
@@ -4143,7 +4085,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10323, N-10201"
+     "v": "N-10193"
     },
     {
      "k": "Tags",
@@ -4204,7 +4146,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Tags",
@@ -4265,7 +4207,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047, N-10025"
+     "v": "N-10044, N-10025"
     },
     {
      "k": "Tags",
@@ -4383,7 +4325,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10202"
+     "v": "N-10194"
     },
     {
      "k": "Tags",
@@ -5018,7 +4960,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10047"
+     "v": "N-10044"
     },
     {
      "k": "Supports",
@@ -5140,7 +5082,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10200"
+     "v": "N-10192"
     },
     {
      "k": "Tags",
@@ -5201,7 +5143,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10081"
+     "v": "N-10078"
     },
     {
      "k": "Tags",
@@ -5284,7 +5226,7 @@
    "lines": [
     "# VI. Optional Flags",
     "",
-    "- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10201** for external verification.",
+    "- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10193** for external verification.",
     "",
     "- **Artifact verbally referenced but not shown** – **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1966, C-1967, C-1959) depend on these references and carry the same flag.",
     "",
@@ -5307,7 +5249,7 @@
     "- [x] Every artifact has a Related line",
     "- [x] Every node has a Related line",
     "- [x] No episode-wide artifact bundle exists",
-    "- [x] People nodes use global people ledger (N-17, N-46, N-199); non-person investigation targets use N-10200+ series",
+    "- [x] People nodes use global people ledger (N-17, N-46, N-199); non-person investigation targets use N-10192+ series",
     "- [x] No speculative or rhetorical claims inscribed as evidence-backed",
     "- [x] Names preserved as in transcript; uncertainties flagged",
     "- [x] No reuse of IDs from previous episodes; ledger continuation respected",

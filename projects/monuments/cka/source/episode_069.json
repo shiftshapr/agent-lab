@@ -18,10 +18,10 @@
     "- **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10f): N-11341",
+    "  - Tip-minted Nodes (supplement_2026-10f): N-11257",
     "  - Claim Range: C-6145–C-6244",
-    "  - New Nodes Introduced: N-544, N-545, N-546, N-547, N-548, N-549, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491",
-    "  - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10074, N-10193, N-10246, N-10253, N-10299, N-10339, N-10340, N-10398, N-10414, N-10447, N-10470, N-10480, N-10481, N-10548, N-10554, N-11029, N-11165, N-10488",
+    "  - New Nodes Introduced: N-544, N-545, N-546, N-547, N-548, N-549, N-10451, N-10452, N-10454, N-10455",
+    "  - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10071, N-10185, N-10232, N-10239, N-10281, N-10317, N-10318, N-10371, N-10387, N-10416, N-10439, N-10447, N-10448, N-10502, N-10507, N-10948, N-11081, N-10453",
     "  - (see registers)",
     "",
     "# Meta-Data",
@@ -38,7 +38,7 @@
     "- Ledger Continuation Summary:",
     "  - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743",
     "  - New Nodes Introduced (people): N-544, N-545, N-546, N-547, N-548",
-    "  - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488",
+    "  - New Nodes Introduced (investigation targets): N-10451, N-10452, N-10453",
     "  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-377 (Emmanuel Macron)",
     "",
     "---",
@@ -216,7 +216,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6158, C-6241, N-541 (Rob Skiba), N-547 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*"
+     "raw": "*Related: C-6158, C-6241, N-541 (Rob Skiba), N-547 (David Flynn), N-10454 (Mount Hermon 33.33 Coordinate Investigation)*"
     },
     {
      "raw": ""
@@ -325,7 +325,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6178, C-6180, N-545 (Tom Horn), N-546 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*"
+     "raw": "*Related: C-6178, C-6180, N-545 (Tom Horn), N-546 (Steve Quayle), N-10447 (Gilgamesh Remains DNA Extraction Claim)*"
     },
     {
      "raw": ""
@@ -388,7 +388,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6211, C-6213, N-544 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*"
+     "raw": "*Related: C-6211, C-6213, N-544 (Tracy Martin), N-2 (Erika Kirk), N-10451 (Tracy Martin Background and Husband Verification), N-10440 (Erika Kirk September 10 Alibi Investigation)*"
     },
     {
      "raw": ""
@@ -698,7 +698,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-6241, N-541 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*"
+     "raw": "*Related: C-6241, N-541 (Rob Skiba), N-10455 (COVID Test DNA Collection Hypothesis)*"
     },
     {
      "raw": ""
@@ -959,7 +959,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1741.1, C-6211, C-6213, N-2 (Erika Kirk), N-10485, N-10486*"
+     "raw": "*Related: A-1741.1, C-6211, C-6213, N-2 (Erika Kirk), N-10440, N-10451*"
     },
     {
      "raw": ""
@@ -1001,7 +1001,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-547 (David Flynn), N-10489, N-10491*"
+     "raw": "*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-547 (David Flynn), N-10454, N-10455*"
     },
     {
      "raw": ""
@@ -1043,7 +1043,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1740.1, C-6178, N-546 (Steve Quayle), N-10490*"
+     "raw": "*Related: A-1740.1, C-6178, N-546 (Steve Quayle), N-10447*"
     },
     {
      "raw": ""
@@ -1085,7 +1085,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1740.1, C-6180, N-545 (Tom Horn), N-10490*"
+     "raw": "*Related: A-1740.1, C-6180, N-545 (Tom Horn), N-10447*"
     },
     {
      "raw": ""
@@ -1127,7 +1127,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-1739.1, N-541 (Rob Skiba), N-10489*"
+     "raw": "*Related: A-1739.1, N-541 (Rob Skiba), N-10454*"
     },
     {
      "raw": ""
@@ -1169,7 +1169,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-2 (Erika Kirk), N-10485, N-544 (Tracy Martin)*"
+     "raw": "*Related: N-2 (Erika Kirk), N-10440, N-544 (Tracy Martin)*"
     },
     {
      "raw": ""
@@ -1379,7 +1379,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: N-10487 (Dream City Church Investigation), N-2 (Erika Kirk)*"
+     "raw": "*Related: N-10452 (Dream City Church Investigation), N-2 (Erika Kirk)*"
     },
     {
      "raw": ""
@@ -1436,9 +1436,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10485",
-   "header": "**N-10485** Erika Kirk September 10 Alibi Investigation",
-   "label": "Erika Kirk September 10 Alibi Investigation",
+   "id": "N-10440",
+   "header": "**N-10440** Erika Kirk September 10 Whereabouts Verification",
+   "label": "Erika Kirk September 10 Whereabouts Verification",
    "lines": [
     {
      "raw": ""
@@ -1478,8 +1478,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10486",
-   "header": "**N-10486** Tracy Martin Background and Husband Verification",
+   "id": "N-10451",
+   "header": "**N-10451** Tracy Martin Background and Husband Verification",
    "label": "Tracy Martin Background and Husband Verification",
    "lines": [
     {
@@ -1520,8 +1520,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10487",
-   "header": "**N-10487** Dream City Church Connection Investigation",
+   "id": "N-10452",
+   "header": "**N-10452** Dream City Church Connection Investigation",
    "label": "Dream City Church Connection Investigation",
    "lines": [
     {
@@ -1562,8 +1562,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10488",
-   "header": "**N-10488** Egyptian Plane Communication Investigation",
+   "id": "N-10453",
+   "header": "**N-10453** Egyptian Plane Communication Investigation",
    "label": "Egyptian Plane Communication Investigation",
    "lines": [
     {
@@ -1604,8 +1604,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10489",
-   "header": "**N-10489** Mount Hermon 33.33° Coordinate Investigation",
+   "id": "N-10454",
+   "header": "**N-10454** Mount Hermon 33.33° Coordinate Investigation",
    "label": "Mount Hermon 33.33° Coordinate Investigation",
    "lines": [
     {
@@ -1646,50 +1646,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10490",
-   "header": "**N-10490** Gilgamesh Remains DNA Extraction Claim",
-   "label": "Gilgamesh Remains DNA Extraction Claim",
-   "lines": [
-    {
-     "raw": ""
-    },
-    {
-     "raw": "Persistent target. Tom Horn / Steve Quayle assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers."
-    },
-    {
-     "raw": ""
-    },
-    {
-     "k": "Evidence Count",
-     "v": "1"
-    },
-    {
-     "k": "Claim Count",
-     "v": "2"
-    },
-    {
-     "k": "Episode Count",
-     "v": "1"
-    },
-    {
-     "k": "Investigative Pressure",
-     "v": "Low"
-    },
-    {
-     "raw": ""
-    },
-    {
-     "raw": "*Related: A-1740.1, N-545 (Tom Horn), N-546 (Steve Quayle)*"
-    },
-    {
-     "raw": ""
-    }
-   ]
-  },
-  {
-   "kind": "node",
-   "id": "N-10491",
-   "header": "**N-10491** COVID Test DNA Collection Hypothesis",
+   "id": "N-10455",
+   "header": "**N-10455** COVID Test DNA Collection Hypothesis",
    "label": "COVID Test DNA Collection Hypothesis",
    "lines": [
     {
@@ -2200,8 +2158,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10074",
-   "header": "**N-10074** Provo, Utah",
+   "id": "N-10071",
+   "header": "**N-10071** Provo, Utah",
    "label": "Provo, Utah",
    "lines": [
     {
@@ -2229,8 +2187,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10193",
-   "header": "**N-10193** Mikey McCoy Call Log Verification",
+   "id": "N-10185",
+   "header": "**N-10185** Mikey McCoy Call Log Verification",
    "label": "Mikey McCoy Call Log Verification",
    "lines": [
     {
@@ -2258,8 +2216,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10246",
-   "header": "**N-10246** Calvary Chapel Institutional Abuse Pattern",
+   "id": "N-10232",
+   "header": "**N-10232** Calvary Chapel Institutional Abuse Pattern",
    "label": "Calvary Chapel Institutional Abuse Pattern",
    "lines": [
     {
@@ -2287,8 +2245,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10253",
-   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "id": "N-10239",
+   "header": "**N-10239** Egyptian Military Plane Tracking Investigation",
    "label": "Egyptian Military Plane Tracking Investigation",
    "lines": [
     {
@@ -2316,8 +2274,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10299",
-   "header": "**N-10299** TPUSA Egyptian Plane Story Suppression Attempt",
+   "id": "N-10281",
+   "header": "**N-10281** TPUSA Egyptian Plane Story Suppression Attempt",
    "label": "TPUSA Egyptian Plane Story Suppression Attempt",
    "lines": [
     {
@@ -2345,8 +2303,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10339",
-   "header": "**N-10339** Elizabeth McCoy Disappearance From Public Narrative",
+   "id": "N-10317",
+   "header": "**N-10317** Elizabeth McCoy Disappearance From Public Narrative",
    "label": "Elizabeth McCoy Disappearance From Public Narrative",
    "lines": [
     {
@@ -2374,8 +2332,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10340",
-   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "id": "N-10318",
+   "header": "**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
    "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
    "lines": [
     {
@@ -2403,8 +2361,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10398",
-   "header": "**N-10398** Turning Point USA Faith Structure",
+   "id": "N-10371",
+   "header": "**N-10371** Turning Point USA Faith Structure",
    "label": "Turning Point USA Faith Structure",
    "lines": [
     {
@@ -2432,8 +2390,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10414",
-   "header": "**N-10414** CERN Satantic Ritual Claim",
+   "id": "N-10387",
+   "header": "**N-10387** CERN Satantic Ritual Claim",
    "label": "CERN Satantic Ritual Claim",
    "lines": [
     {
@@ -2461,8 +2419,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10447",
-   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "id": "N-10416",
+   "header": "**N-10416** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "lines": [
     {
@@ -2490,8 +2448,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10470",
-   "header": "**N-10470** Dan Flood Message Format Discrepancy",
+   "id": "N-10439",
+   "header": "**N-10439** Dan Flood Message Format Discrepancy",
    "label": "Dan Flood Message Format Discrepancy",
    "lines": [
     {
@@ -2519,8 +2477,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10480",
-   "header": "**N-10480** Nimrod / Gilgamesh Remains Extraction Question",
+   "id": "N-10447",
+   "header": "**N-10447** Nimrod / Gilgamesh Remains Extraction Question",
    "label": "Nimrod / Gilgamesh Remains Extraction Question",
    "lines": [
     {
@@ -2548,8 +2506,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10481",
-   "header": "**N-10481** Babylon Military Camp Activities",
+   "id": "N-10448",
+   "header": "**N-10448** Babylon Military Camp Activities",
    "label": "Babylon Military Camp Activities",
    "lines": [
     {
@@ -2577,8 +2535,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10548",
-   "header": "**N-10548** Tarmac Hug Account Discrepancy",
+   "id": "N-10502",
+   "header": "**N-10502** Tarmac Hug Account Discrepancy",
    "label": "Tarmac Hug Account Discrepancy",
    "lines": [
     {
@@ -2606,8 +2564,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10554",
-   "header": "**N-10554** Andrew Kolvet 9/10 Flight Itinerary",
+   "id": "N-10507",
+   "header": "**N-10507** Andrew Kolvet 9/10 Flight Itinerary",
    "label": "Andrew Kolvet 9/10 Flight Itinerary",
    "lines": [
     {
@@ -2635,8 +2593,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11029",
-   "header": "**N-11029** CERN",
+   "id": "N-10948",
+   "header": "**N-10948** CERN",
    "label": "CERN",
    "lines": [
     {
@@ -2664,8 +2622,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11165",
-   "header": "**N-11165** Romanian Angels Project",
+   "id": "N-11081",
+   "header": "**N-11081** Romanian Angels Project",
    "label": "Romanian Angels Project",
    "lines": [
     {
@@ -2693,8 +2651,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11341",
-   "header": "**N-11341** 23andMe",
+   "id": "N-11257",
+   "header": "**N-11257** 23andMe",
    "label": "23andMe",
    "lines": [
     {
@@ -2871,7 +2829,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10489"
+     "v": "N-10454"
     },
     {
      "raw": ""
@@ -2983,7 +2941,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10490"
+     "v": "N-10447"
     },
     {
      "raw": ""
@@ -3039,7 +2997,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10490"
+     "v": "N-10447"
     },
     {
      "raw": ""
@@ -3095,7 +3053,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485"
+     "v": "N-10440"
     },
     {
      "raw": ""
@@ -3463,7 +3421,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10491"
+     "v": "N-10455"
     },
     {
      "raw": ""
@@ -3627,7 +3585,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485"
+     "v": "N-10440"
     },
     {
      "k": "Tags",
@@ -3749,7 +3707,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11341"
+     "v": "N-11257"
     },
     {
      "k": "Supports",
@@ -3871,7 +3829,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11341"
+     "v": "N-11257"
     },
     {
      "k": "Tags",
@@ -3932,7 +3890,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10480"
+     "v": "N-10447"
     },
     {
      "k": "Tags",
@@ -4278,7 +4236,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10489"
+     "v": "N-10454"
     },
     {
      "k": "Tags",
@@ -4339,7 +4297,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10489"
+     "v": "N-10454"
     },
     {
      "k": "Tags",
@@ -4400,7 +4358,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10489"
+     "v": "N-10454"
     },
     {
      "k": "Tags",
@@ -4807,7 +4765,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10480"
+     "v": "N-10447"
     },
     {
      "k": "Supports",
@@ -4872,7 +4830,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10480"
+     "v": "N-10447"
     },
     {
      "k": "Tags",
@@ -4933,7 +4891,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11029"
+     "v": "N-10948"
     },
     {
      "k": "Tags",
@@ -4994,7 +4952,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11029"
+     "v": "N-10948"
     },
     {
      "k": "Tags",
@@ -5055,7 +5013,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11029, N-10414"
+     "v": "N-10948, N-10387"
     },
     {
      "k": "Supports",
@@ -5234,7 +5192,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11341"
+     "v": "N-11257"
     },
     {
      "k": "Tags",
@@ -5295,7 +5253,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10490"
+     "v": "N-10447"
     },
     {
      "k": "Tags",
@@ -5356,7 +5314,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10480"
+     "v": "N-10447"
     },
     {
      "k": "Tags",
@@ -5417,7 +5375,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10481"
+     "v": "N-10448"
     },
     {
      "k": "Tags",
@@ -5478,7 +5436,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10480"
+     "v": "N-10447"
     },
     {
      "k": "Tags",
@@ -5714,7 +5672,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Supports",
@@ -5779,7 +5737,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Supports",
@@ -5844,7 +5802,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447"
+     "v": "N-10416"
     },
     {
      "k": "Tags",
@@ -5905,7 +5863,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Supports",
@@ -5970,7 +5928,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Tags",
@@ -6031,7 +5989,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Supports",
@@ -6157,7 +6115,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10340"
+     "v": "N-10318"
     },
     {
      "k": "Tags",
@@ -6218,7 +6176,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10470"
+     "v": "N-10439"
     },
     {
      "k": "Tags",
@@ -6279,7 +6237,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10470"
+     "v": "N-10439"
     },
     {
      "k": "Supports",
@@ -6344,7 +6302,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10193"
+     "v": "N-10185"
     },
     {
      "k": "Supports",
@@ -6409,7 +6367,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10339"
+     "v": "N-10317"
     },
     {
      "k": "Supports",
@@ -6474,7 +6432,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10193"
+     "v": "N-10185"
     },
     {
      "k": "Tags",
@@ -6535,7 +6493,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10193"
+     "v": "N-10185"
     },
     {
      "k": "Tags",
@@ -6596,7 +6554,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548, N-10074"
+     "v": "N-10502, N-10071"
     },
     {
      "k": "Supports",
@@ -6661,7 +6619,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10554"
+     "v": "N-10507"
     },
     {
      "k": "Tags",
@@ -6722,7 +6680,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10548"
+     "v": "N-10502"
     },
     {
      "k": "Supports",
@@ -7015,7 +6973,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485"
+     "v": "N-10440"
     },
     {
      "k": "Tags",
@@ -7076,7 +7034,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10487"
+     "v": "N-10452"
     },
     {
      "k": "Tags",
@@ -7137,7 +7095,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10487"
+     "v": "N-10452"
     },
     {
      "k": "Tags",
@@ -7198,7 +7156,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10398, N-10487"
+     "v": "N-10371, N-10452"
     },
     {
      "k": "Tags",
@@ -7259,7 +7217,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485, N-10193"
+     "v": "N-10440, N-10185"
     },
     {
      "k": "Tags",
@@ -7320,7 +7278,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485"
+     "v": "N-10440"
     },
     {
      "k": "Tags",
@@ -7381,7 +7339,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11165"
+     "v": "N-11081"
     },
     {
      "k": "Tags",
@@ -7556,7 +7514,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10253"
+     "v": "N-10239"
     },
     {
      "k": "Tags",
@@ -7617,7 +7575,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10486"
+     "v": "N-10451"
     },
     {
      "k": "Tags",
@@ -7678,7 +7636,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485"
+     "v": "N-10440"
     },
     {
      "k": "Tags",
@@ -7739,7 +7697,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10485, N-10487"
+     "v": "N-10440, N-10452"
     },
     {
      "k": "Tags",
@@ -7800,7 +7758,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10487"
+     "v": "N-10452"
     },
     {
      "k": "Tags",
@@ -7861,7 +7819,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10398"
+     "v": "N-10000, N-10371"
     },
     {
      "k": "Tags",
@@ -7922,7 +7880,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10398, N-10246, N-10487"
+     "v": "N-10371, N-10232, N-10452"
     },
     {
      "k": "Tags",
@@ -8101,7 +8059,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10488, N-10253"
+     "v": "N-10453, N-10239"
     },
     {
      "k": "Supports",
@@ -8166,7 +8124,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10488"
+     "v": "N-10453"
     },
     {
      "k": "Tags",
@@ -8227,7 +8185,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10299"
+     "v": "N-10281"
     },
     {
      "k": "Supports",
@@ -8292,7 +8250,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10253, N-10000, N-10398"
+     "v": "N-10239, N-10000, N-10371"
     },
     {
      "k": "Supports",
@@ -8680,7 +8638,7 @@
     "- **Possible transcription error (\"Sigmund Freud\"):** Transcript renders \"Sigmund Freud\" as \"Sigmund Freud\" throughout. Preserved as transcribed; flag notes this is a host pronunciation / spelling variant of \"Sigmund.\"",
     "- **Possible transcription error (\"counterfeitterter\"):** Bobby's comment contains a duplicated syllable in the source transcript; preserved as transcribed.",
     "- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses \"Ben\"; host addresses \"Benjamin.\" Insufficient context to confirm whether these refer to the same individual. Flagged on N-549.",
-    "- **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10485 carries it forward for future artifact anchoring.",
+    "- **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10440 carries it forward for future artifact anchoring.",
     "- **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.",
     "- **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.",
     "- **Omega Man Radio clip attribution:** Host identifies the speakers as Tom Horn and Steve Quayle; the original episode date and full context are not provided. Artifact should be cross-referenced to the source episode before further claim inscription.",

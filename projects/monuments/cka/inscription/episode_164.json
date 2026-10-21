@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-955",
-            "N-10839"
+            "N-10762"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -292,7 +292,7 @@
             "C-14203"
           ],
           "related_nodes": [
-            "N-10874"
+            "N-10795"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -338,7 +338,7 @@
           ],
           "related_nodes": [
             "N-960",
-            "N-11424"
+            "N-11340"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -364,7 +364,7 @@
           ],
           "related_nodes": [
             "N-277",
-            "N-11425"
+            "N-11341"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10062",
-      "ref": "N-10062",
+      "@id": "N-10059",
+      "ref": "N-10059",
       "name": "Orem, Utah",
       "type": "investigation_target",
       "description": "Part of Peterson's House district; the host cites Orem sources for the bag account.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Clancy's police department; the host cites Provo sources.",
@@ -1057,8 +1057,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
       "type": "investigation_target",
       "description": "Turek's clip says the necklace was on top of the bloodied bag.",
@@ -1075,8 +1075,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10665",
-      "ref": "N-10665",
+      "@id": "N-10465",
+      "ref": "N-10465",
       "name": "Erika Kirk Educational Credentials Discrepancy",
       "type": "investigation_target",
       "description": "The host compares Zacharia's unconfirmed law degree to Erika Kirk's doctorate claim.",
@@ -1093,8 +1093,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
       "type": "investigation_target",
       "description": "The host questions Turek's CPR account given the bag in the back seat.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
       "type": "investigation_target",
       "description": "Turek's clip describes changing into scrubs and disposing of the bloodied bag.",
@@ -1128,8 +1128,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
       "type": "investigation_target",
       "description": "The host recalls Neff's \"marking time\" account in Salt Lake City.",
@@ -1145,8 +1145,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "The host cites the after-action report on Peterson's location.",
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10864",
-      "ref": "N-10864",
+      "@id": "N-10785",
+      "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "investigation_target",
       "description": "The host disputes Erika Kirk's tweet explaining why she sat down with Vanity Fair.",
@@ -1181,8 +1181,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10872",
-      "ref": "N-10872",
+      "@id": "N-10793",
+      "ref": "N-10793",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
       "type": "investigation_target",
       "description": "Raised in a viewer comment; the host promises to discuss it.",
@@ -1198,8 +1198,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10874",
-      "ref": "N-10874",
+      "@id": "N-10795",
+      "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
       "type": "investigation_target",
       "description": "The host says the fire captain who gave CPR at Timpanogos still cannot be identified.",
@@ -1220,8 +1220,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
       "type": "investigation_target",
       "description": "The host alleges Clancy was at Timpanogos shortly after Charlie Kirk arrived and was dispatched from there.",
@@ -1239,8 +1239,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11263",
-      "ref": "N-11263",
+      "@id": "N-11179",
+      "ref": "N-11179",
       "name": "Utah Internet Crimes Against Children Task Force",
       "type": "investigation_target",
       "description": "The host says Clancy was also on ICAC.",
@@ -1256,9 +1256,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11422",
-      "ref": "N-11422",
-      "name": "Val Peterson September 10 Whereabouts Question",
+      "@id": "N-11338",
+      "ref": "N-11338",
+      "name": "Val Peterson September 10 Whereabouts",
       "type": "topic",
       "description": "The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.",
       "related_artifacts": [],
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11423",
-      "ref": "N-11423",
+      "@id": "N-11339",
+      "ref": "N-11339",
       "name": "Tyler Clancy Bloodied Bag Disposal Allegation",
       "type": "topic",
       "description": "The host's allegation, attributed to multiple Provo and Orem sources, that Provo officer Tyler Clancy carried Turning Point USA members or affiliates in his car on September 10, 2025 and disposed of a bloodied bag one of them left there, which she links to Frank Turek's account of asking a police officer to dispose of his bag.",
@@ -1306,9 +1306,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11424",
-      "ref": "N-11424",
-      "name": "Katie Zacharia Law Credential Question",
+      "@id": "N-11340",
+      "ref": "N-11340",
+      "name": "Katie Zacharia Lawyer Credential Question",
       "type": "topic",
       "description": "The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.",
       "related_artifacts": [
@@ -1330,8 +1330,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11425",
-      "ref": "N-11425",
+      "@id": "N-11341",
+      "ref": "N-11341",
       "name": "Cornell 7 Case",
       "type": "topic",
       "description": "The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion.",
@@ -1570,7 +1570,7 @@
       "claim": "The host says Peterson currently also serves in Utah's House of Representatives, representing the 56th district from American Fork to Orem.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10062"
+        "N-10059"
       ],
       "tags": [
         "relevance:context"
@@ -1710,7 +1710,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-11422"
+        "N-11338"
       ],
       "tags": [
         "relevance:core"
@@ -1733,8 +1733,8 @@
         "A-3383.1"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-11422"
+        "N-10762",
+        "N-11338"
       ],
       "tags": [
         "relevance:core"
@@ -1754,7 +1754,7 @@
       "claim": "The host says Salt Lake City, where she says the National Guard air base is, is about 45 minutes from campus, while stating she has no idea whether Peterson was there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11422"
+        "N-11338"
       ],
       "tags": [
         "relevance:core"
@@ -1774,7 +1774,7 @@
       "claim": "The host says Blake Neff did not go with Charlie Kirk to the event and said he was \"marking time\" in Salt Lake City, which she calls a military expression.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10715"
+        "N-10651"
       ],
       "tags": [
         "relevance:core"
@@ -1795,7 +1795,7 @@
       "claim": "The host says the National Guard air headquarters is near the Salt Lake City neighborhood she examined and that the National Guard army headquarters in Draper is just 15 minutes away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11422"
+        "N-11338"
       ],
       "tags": [
         "relevance:context"
@@ -1912,8 +1912,8 @@
       "claim": "The host says that on September 10, 2025, Clancy was serving both in the Utah House and as a Provo police officer in the Special Victims Unit, and was also on Internet Crimes Against Children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074",
-        "N-11263"
+        "N-10071",
+        "N-11179"
       ],
       "tags": [
         "relevance:core"
@@ -1935,7 +1935,7 @@
         "A-3384.2"
       ],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:context"
@@ -1974,7 +1974,7 @@
       "claim": "The host says it has been confirmed through other people that Clancy was on duty as a Provo police officer; she says \"September 11th\" though the context is the day of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -1994,7 +1994,7 @@
       "claim": "The host alleges Clancy was at Timpanogos hospital shortly after Charlie Kirk arrived.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218"
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -2014,7 +2014,7 @@
       "claim": "The host says that when Erika Kirk was due to land, Clancy was dispatched from Timpanogos with another officer to escort her from the airport.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218"
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -2036,7 +2036,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11423"
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2057,7 +2057,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11423"
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2077,9 +2077,9 @@
       "claim": "The host says she is inclined to believe the account, which she says has been verified by multiple Provo and Orem sources.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074",
-        "N-10062",
-        "N-11423"
+        "N-10071",
+        "N-10059",
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2099,7 +2099,7 @@
       "claim": "The host says that when she mentioned the account to Baron Coleman, he pointed out that a similar and potentially corroborating story had been told by Frank Turek.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11423"
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2122,7 +2122,7 @@
         "A-3385.1"
       ],
       "related_nodes": [
-        "N-11423"
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2229,7 +2229,7 @@
         "A-3385.1"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -2256,7 +2256,7 @@
         "A-3385.1"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -2279,7 +2279,7 @@
         "A-3385.1"
       ],
       "related_nodes": [
-        "N-10688"
+        "N-10626"
       ],
       "tags": [
         "relevance:core"
@@ -2305,8 +2305,8 @@
         "A-3385.1"
       ],
       "related_nodes": [
-        "N-10688",
-        "N-11423"
+        "N-10626",
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2327,7 +2327,7 @@
       "claim": "The host says Turek's account that Charlie lay on the bag does not fit his CPR story, noting she understands he only did CPR for about 30 seconds at the end, and mocks Brian Harpole's account of the medical response.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10687"
+        "N-10625"
       ],
       "tags": [
         "relevance:core"
@@ -2348,7 +2348,7 @@
       "claim": "The host says Turek's story at least establishes that a police officer was told to, or willfully did, throw out the bloodied bag, and that she is inclined to believe that officer was Tyler Clancy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11423"
+        "N-11339"
       ],
       "tags": [
         "relevance:core"
@@ -2530,8 +2530,8 @@
       "claim": "The host says her team is still unable to determine who the fire captain was who provided CPR to Charlie Kirk on arrival at Timpanogos, which she says should be public information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10874",
-        "N-11218"
+        "N-10795",
+        "N-11134"
       ],
       "tags": [
         "relevance:core"
@@ -2554,7 +2554,7 @@
       "claim": "The host says the people named from fire schedules sent to her had already retired, and that she has a clue to one person who could fit but no confirmation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -2571,7 +2571,7 @@
       "claim": "The host says she has heard, but cannot confirm, that the fire captain was in an ambulance and jumped out to assist, and that this is not part of Frank Turek's or Brian Harpole's accounts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -2597,7 +2597,7 @@
         "A-3387.1"
       ],
       "related_nodes": [
-        "N-10874"
+        "N-10795"
       ],
       "tags": [
         "relevance:core"
@@ -2756,7 +2756,7 @@
       "claim": "The host compares Zacharia to Erika Kirk, saying Erika Kirk says she was in law school or has a doctorate and that this is hard to confirm.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10665"
+        "N-10465"
       ],
       "tags": [
         "relevance:core"
@@ -2777,7 +2777,7 @@
       "claim": "The host says journalists cannot confirm that Zacharia graduated law school and that she keeps saying she worked at a legal firm in China alongside her husband.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11424"
+        "N-11340"
       ],
       "tags": [
         "relevance:context"
@@ -2797,8 +2797,8 @@
       "claim": "The host says Zacharia's answer was that she studied some law at Pepperdine University, the same university Erika Kirk attended for a year, which the host says could not be confirmed as in person or online.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11424",
-        "N-10665"
+        "N-11340",
+        "N-10465"
       ],
       "tags": [
         "relevance:context"
@@ -2821,7 +2821,7 @@
         "A-3388.2"
       ],
       "related_nodes": [
-        "N-11424"
+        "N-11340"
       ],
       "tags": [
         "relevance:context"
@@ -2841,7 +2841,7 @@
       "claim": "The host says that, from what she is seeing, the woman in the Cornell 7 case agreed to sexual relations with two men at a fraternity party and to snort a horse tranquilizer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11425"
+        "N-11341"
       ],
       "tags": [
         "relevance:tangential"
@@ -2858,7 +2858,7 @@
       "claim": "The host says that, amid allegations of a gang rape, one of the men sent a text message to the entire fraternity house group chat inviting others.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11425"
+        "N-11341"
       ],
       "tags": [
         "relevance:tangential"
@@ -2914,7 +2914,7 @@
         "A-3389.1"
       ],
       "related_nodes": [
-        "N-11425"
+        "N-11341"
       ],
       "tags": [
         "relevance:tangential"
@@ -2972,7 +2972,7 @@
         "A-3390.1"
       ],
       "related_nodes": [
-        "N-10872"
+        "N-10793"
       ],
       "tags": [
         "relevance:context"
@@ -3032,7 +3032,7 @@
       "claim": "The host says Erika Kirk tweeted that she sat down with Vanity Fair because Charlie believed in sitting down with people who disagree, and argues Charlie meant students on campus, not Vanity Fair.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [
         "relevance:core"

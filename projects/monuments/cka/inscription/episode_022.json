@@ -31,7 +31,7 @@
             "C-2001"
           ],
           "related_nodes": [
-            "N-10203"
+            "N-10195"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,7 +61,7 @@
           "related_nodes": [
             "N-94",
             "N-200",
-            "N-10205"
+            "N-10197"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -88,7 +88,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-10204"
+            "N-10196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -107,7 +107,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-10204"
+            "N-10196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,7 +262,7 @@
           "related_nodes": [
             "N-1",
             "N-22",
-            "N-10206"
+            "N-10198"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
             "C-2058"
           ],
           "related_nodes": [
-            "N-10203"
+            "N-10195"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -392,7 +392,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10204"
+            "N-10196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -421,7 +421,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10204"
+            "N-10196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -447,7 +447,7 @@
           ],
           "related_nodes": [
             "N-67",
-            "N-10185"
+            "N-10177"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -576,7 +576,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10205"
+        "N-10197"
       ]
     },
     {
@@ -755,8 +755,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10203",
-      "ref": "N-10203",
+      "@id": "N-10195",
+      "ref": "N-10195",
       "name": "Provo Airport Flight Anomaly Cluster",
       "type": "investigation_target",
       "description": "Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10204",
-      "ref": "N-10204",
+      "@id": "N-10196",
+      "ref": "N-10196",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any \"discreet mission\" alleged by the unnamed email tipster.",
@@ -804,8 +804,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10205",
-      "ref": "N-10205",
+      "@id": "N-10197",
+      "ref": "N-10197",
       "name": "N888KG Flight Manifest Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Million Air FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10206",
-      "ref": "N-10206",
+      "@id": "N-10198",
+      "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated.",
@@ -1155,8 +1155,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10849",
-      "ref": "N-10849",
+      "@id": "N-10772",
+      "ref": "N-10772",
       "name": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1229,8 +1229,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10549",
-      "ref": "N-10549",
+      "@id": "N-10503",
+      "ref": "N-10503",
       "name": "Egyptian Plane Transponding Correlation",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1246,8 +1246,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10190",
-      "ref": "N-10190",
+      "@id": "N-10182",
+      "ref": "N-10182",
       "name": "Signature FBO / Million Air FBO (entity cluster)",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10853",
-      "ref": "N-10853",
+      "@id": "N-10775",
+      "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10207",
-      "ref": "N-10207",
+      "@id": "N-10199",
+      "ref": "N-10199",
       "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11020",
-      "ref": "N-11020",
+      "@id": "N-11292",
+      "ref": "N-11292",
       "name": "Military Bot Activity Claim",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1315,8 +1315,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10299",
-      "ref": "N-10299",
+      "@id": "N-10281",
+      "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1351,8 +1351,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10274",
-      "ref": "N-10274",
+      "@id": "N-10258",
+      "ref": "N-10258",
       "name": "BTT Minot AFB Stopover Question",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1368,8 +1368,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10277",
-      "ref": "N-10277",
+      "@id": "N-10260",
+      "ref": "N-10260",
       "name": "Minot Air Force Base",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1385,8 +1385,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1422,8 +1422,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1441,8 +1441,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1459,8 +1459,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1476,8 +1476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10452",
-      "ref": "N-10452",
+      "@id": "N-10421",
+      "ref": "N-10421",
       "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1493,8 +1493,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10454",
-      "ref": "N-10454",
+      "@id": "N-10423",
+      "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1545,8 +1545,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1579,8 +1579,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1596,8 +1596,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1613,25 +1613,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10673",
-      "ref": "N-10673",
-      "name": "Hamptons August 5–7 Intervention Event",
-      "type": "investigation_target",
-      "description": "Existing item reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2043"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1647,8 +1630,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1665,8 +1648,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10467",
-      "ref": "N-10467",
+      "@id": "N-10436",
+      "ref": "N-10436",
       "name": "TPUSA Donor Targeting Pattern Question",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1682,8 +1665,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10048",
-      "ref": "N-10048",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1699,8 +1682,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10185",
-      "ref": "N-10185",
+      "@id": "N-10177",
+      "ref": "N-10177",
       "name": "Plane N1098L Investigation",
       "type": "investigation_target",
       "description": "Existing item reused for new claims in this episode.",
@@ -1736,8 +1719,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11220",
-      "ref": "N-11220",
+      "@id": "N-11136",
+      "ref": "N-11136",
       "name": "Stop Antisemitism",
       "type": "organization",
       "description": "X account the host calls the Stop Anti-Semitism account; its post tying CNN and TPUSA decisions to the start of the Holocaust is discussed, and the host says it named her top anti-Semite of the year.",
@@ -1753,8 +1736,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11221",
-      "ref": "N-11221",
+      "@id": "N-11137",
+      "ref": "N-11137",
       "name": "Newsweek",
       "type": "organization",
       "description": "Publication where the host says Josh Hammer is editor-at-large.",
@@ -1770,8 +1753,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11222",
-      "ref": "N-11222",
+      "@id": "N-11138",
+      "ref": "N-11138",
       "name": "LSA LLC",
       "type": "organization",
       "description": "Owner the host names for plane N1098L (transcribed once as \"Lasai\"); the military-contracted plane that flew from Biggs Army Airfield to Montana.",
@@ -1797,7 +1780,7 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-10203"
+        "N-10195"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
@@ -1813,7 +1796,7 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-10203"
+        "N-10195"
       ],
       "tags": [],
       "claim_timestamp": "00:03:53",
@@ -1832,7 +1815,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10205"
+        "N-10197"
       ],
       "tags": [],
       "claim_timestamp": "00:05:46",
@@ -1852,7 +1835,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10205"
+        "N-10197"
       ],
       "tags": [],
       "claim_timestamp": "00:07:26",
@@ -1871,7 +1854,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10205"
+        "N-10197"
       ],
       "tags": [],
       "claim_timestamp": "00:08:12",
@@ -1890,7 +1873,7 @@
         "A-1292.1"
       ],
       "related_nodes": [
-        "N-10204"
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:12:53",
@@ -1907,7 +1890,7 @@
         "A-1292.2"
       ],
       "related_nodes": [
-        "N-10204"
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:18:38",
@@ -1921,7 +1904,7 @@
       "claim": "The host says, citing an unnamed email tipster, that she can report as a fact that the SU-BTT flight carried Egyptian military subcontractors who were dropped off in Provo, Utah and did not make it back to Cairo when the plane departed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10204"
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:15:53",
@@ -1935,7 +1918,7 @@
       "claim": "The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was \"scared for their life\" in providing this information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10204"
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:16:59",
@@ -2067,7 +2050,7 @@
         "A-1296.1"
       ],
       "related_nodes": [
-        "N-10206"
+        "N-10198"
       ],
       "tags": [],
       "claim_timestamp": "00:42:04",
@@ -2106,7 +2089,7 @@
         "A-1299.1"
       ],
       "related_nodes": [
-        "N-10203"
+        "N-10195"
       ],
       "tags": [],
       "claim_timestamp": "00:55:55",
@@ -2137,8 +2120,8 @@
       "claim": "The host says she now knows that Egyptian military men were on the ground in Utah on September 10, the day of Charlie Kirk's assassination, and demands that the government release who they were and why they were there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074",
-        "N-10204"
+        "N-10071",
+        "N-10196"
       ],
       "tags": [
         "relevance:core"
@@ -2161,8 +2144,8 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-10203",
-        "N-10074"
+        "N-10195",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2185,7 +2168,7 @@
       "claim": "The host says the plane owned by Derek and Shelaine Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10849"
+        "N-10772"
       ],
       "tags": [
         "relevance:context"
@@ -2208,7 +2191,7 @@
       "claim": "The host says Casey Baugh has his name on the Baugh Entrepreneurship Institute at Utah Valley University, which operates out of the Woodbury Business Building.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10849",
+        "N-10772",
         "N-10012"
       ],
       "tags": [
@@ -2231,7 +2214,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10028",
-        "N-10849"
+        "N-10772"
       ],
       "tags": [
         "relevance:core"
@@ -2253,8 +2236,8 @@
       "claim": "The host says the Baugh-Maxfield plane drew attention because it seemingly turned its transponder off after departing Provo, which alarmed the public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10205",
-        "N-10549"
+        "N-10197",
+        "N-10503"
       ],
       "tags": [
         "relevance:core"
@@ -2282,7 +2265,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10205"
+        "N-10197"
       ],
       "tags": [
         "relevance:core"
@@ -2309,7 +2292,7 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10205"
+        "N-10197"
       ],
       "tags": [
         "relevance:core"
@@ -2330,8 +2313,8 @@
       "claim": "The host says pilots she consulted on the Maxfield flight manifest found that routine information was being guarded by the feds, and says airport personnel had been instructed to lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10205",
-        "N-10203"
+        "N-10197",
+        "N-10195"
       ],
       "tags": [
         "relevance:core"
@@ -2353,8 +2336,8 @@
       "claim": "The host says one person told her a plane was supposed to land at Million Air FBO but suddenly shifted to another FBO.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10190",
-        "N-10074"
+        "N-10182",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2395,8 +2378,8 @@
         "A-1292.1"
       ],
       "related_nodes": [
-        "N-10204",
-        "N-10207"
+        "N-10196",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -2422,8 +2405,8 @@
         "A-1292.1"
       ],
       "related_nodes": [
-        "N-10853",
-        "N-10207"
+        "N-10775",
+        "N-10199"
       ],
       "tags": [
         "relevance:core"
@@ -2446,8 +2429,8 @@
       "claim": "The host says the one Twitter user who caught her time-zone mistake was suddenly boosted in the algorithm and made a trending story, and says military bots run X.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11020",
-        "N-10299"
+        "N-11292",
+        "N-10281"
       ],
       "tags": [
         "relevance:context"
@@ -2469,7 +2452,7 @@
         "A-3007.1"
       ],
       "related_nodes": [
-        "N-10204"
+        "N-10196"
       ],
       "tags": [
         "relevance:core"
@@ -2494,8 +2477,8 @@
         "A-3007.1"
       ],
       "related_nodes": [
-        "N-10204",
-        "N-10299"
+        "N-10196",
+        "N-10281"
       ],
       "tags": [
         "relevance:core"
@@ -2520,8 +2503,8 @@
         "A-3007.1"
       ],
       "related_nodes": [
-        "N-10202",
-        "N-10204"
+        "N-10194",
+        "N-10196"
       ],
       "tags": [
         "relevance:core"
@@ -2544,9 +2527,9 @@
         "A-1292.2"
       ],
       "related_nodes": [
-        "N-10274",
-        "N-10277",
-        "N-10074"
+        "N-10258",
+        "N-10260",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2571,7 +2554,7 @@
         "A-3007.1"
       ],
       "related_nodes": [
-        "N-10204"
+        "N-10196"
       ],
       "tags": [
         "relevance:core"
@@ -2597,8 +2580,8 @@
         "A-1297.1"
       ],
       "related_nodes": [
-        "N-10202",
-        "N-10355"
+        "N-10194",
+        "N-10332"
       ],
       "tags": [
         "relevance:context"
@@ -2624,8 +2607,8 @@
         "A-3006.1"
       ],
       "related_nodes": [
-        "N-10204",
-        "N-10074"
+        "N-10196",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2646,7 +2629,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -2670,7 +2653,7 @@
         "A-1293.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [
         "relevance:context"
@@ -2698,7 +2681,7 @@
         "A-1293.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [
         "relevance:context"
@@ -2722,7 +2705,7 @@
       "claim": "The host says Josh Hammer lied over and over about Charlie's views on Israel changing even though Hammer was on the text message chain.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10187"
+        "N-10179"
       ],
       "tags": [
         "relevance:core"
@@ -2749,8 +2732,8 @@
         "A-1294.1"
       ],
       "related_nodes": [
-        "N-11220",
-        "N-10452"
+        "N-11136",
+        "N-10421"
       ],
       "tags": [
         "relevance:tangential"
@@ -2772,7 +2755,7 @@
         "A-1295.1"
       ],
       "related_nodes": [
-        "N-10345",
+        "N-10323",
         "N-10027"
       ],
       "tags": [
@@ -2800,7 +2783,7 @@
         "A-1295.1"
       ],
       "related_nodes": [
-        "N-10454"
+        "N-10423"
       ],
       "tags": [
         "relevance:context"
@@ -2825,7 +2808,7 @@
         "A-1295.2"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -2850,8 +2833,8 @@
       "claim": "The host says Charlie Kirk, two days before he was killed, was explicit that he was left with no choice but to leave the pro-Israel cause, which she says means he did not die a Christian Zionist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148",
-        "N-10056"
+        "N-10143",
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2872,8 +2855,7 @@
       "claim": "The host says Seth Dillon pressed Charlie on what he had said about Netanyahu at the Hamptons session, which she places on August 5th and 6th (she asks if it was those dates).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134",
-        "N-10673"
+        "N-10129"
       ],
       "tags": [
         "relevance:core"
@@ -2896,7 +2878,7 @@
       "claim": "The host says Charlie fought tooth and nail to keep Tucker Carlson on the TPUSA speaking list and that this was virtually his last public words from private text exchanges.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10268",
+        "N-10252",
         "N-10000"
       ],
       "tags": [
@@ -2924,8 +2906,8 @@
         "A-3009.1"
       ],
       "related_nodes": [
-        "N-10106",
-        "N-10268"
+        "N-10102",
+        "N-10252"
       ],
       "tags": [
         "relevance:core"
@@ -2993,8 +2975,8 @@
       "claim": "The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who were harassing him and making him ill with threats and money, with Dillon pressing him at the Hamptons and Hammer on the text chain hearing what he was going through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
-        "N-10047"
+        "N-10323",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -3046,7 +3028,7 @@
       "claim": "The host says Josh Hammer is the editor-at-large at Newsweek.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11221"
+        "N-11137"
       ],
       "tags": [
         "relevance:context"
@@ -3127,7 +3109,7 @@
       "claim": "The host says she does not actually know who pulled the trigger and killed Charlie Kirk, and that there are two running investigations, who betrayed Charlie and who actually killed him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10048"
+        "N-10045"
       ],
       "tags": [
         "relevance:core"
@@ -3150,8 +3132,8 @@
         "A-1299.1"
       ],
       "related_nodes": [
-        "N-10185",
-        "N-11222"
+        "N-10177",
+        "N-11138"
       ],
       "tags": [
         "relevance:context"
@@ -3176,8 +3158,8 @@
         "A-3008.1"
       ],
       "related_nodes": [
-        "N-10185",
-        "N-10203"
+        "N-10177",
+        "N-10195"
       ],
       "tags": [
         "relevance:core"
@@ -3202,8 +3184,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10047",
-        "N-10467"
+        "N-10044",
+        "N-10436"
       ],
       "tags": [
         "relevance:core"

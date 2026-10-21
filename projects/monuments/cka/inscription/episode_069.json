@@ -363,8 +363,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10485",
-        "N-10486"
+        "N-10440",
+        "N-10451"
       ]
     },
     {
@@ -390,8 +390,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10489",
-        "N-10491"
+        "N-10454",
+        "N-10455"
       ]
     },
     {
@@ -413,7 +413,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10490"
+        "N-10447"
       ]
     },
     {
@@ -435,7 +435,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10490"
+        "N-10447"
       ]
     },
     {
@@ -455,7 +455,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10489"
+        "N-10454"
       ]
     },
     {
@@ -473,7 +473,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10485"
+        "N-10440"
       ]
     },
     {
@@ -569,9 +569,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10485",
-      "ref": "N-10485",
-      "name": "Erika Kirk September 10 Alibi Investigation",
+      "@id": "N-10440",
+      "ref": "N-10440",
+      "name": "Erika Kirk September 10 Whereabouts Verification",
       "type": "investigation_target",
       "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lori Frantzve, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
       "related_artifacts": [
@@ -586,8 +586,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10486",
-      "ref": "N-10486",
+      "@id": "N-10451",
+      "ref": "N-10451",
       "name": "Tracy Martin Background and Husband Verification",
       "type": "investigation_target",
       "description": "Persistent target. Host states she cannot determine what Tracy Martin's husband does and solicits additional tips. Husband's first name offered as \"Thomas\" with uncertainty.",
@@ -601,8 +601,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10487",
-      "ref": "N-10487",
+      "@id": "N-10452",
+      "ref": "N-10452",
       "name": "Dream City Church Connection Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Church linked to Tracy Martin, Charlie Kirk's speaking series, the TPUSA faith pivot, and Pastor Luke. Host states more to come.",
@@ -616,8 +616,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10488",
-      "ref": "N-10488",
+      "@id": "N-10453",
+      "ref": "N-10453",
       "name": "Egyptian Plane Communication Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host references an Egyptian plane that remained on the tarmac and \"transponding intermittently\" with active communication; posits use of foreign-registered aircraft to evade communication tracking.",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10489",
-      "ref": "N-10489",
+      "@id": "N-10454",
+      "ref": "N-10454",
       "name": "Mount Hermon 33.33° Coordinate Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Rob Skiba's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.",
@@ -648,15 +648,21 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10490",
-      "ref": "N-10490",
-      "name": "Gilgamesh Remains DNA Extraction Claim",
+      "@id": "N-10447",
+      "ref": "N-10447",
+      "name": "Nimrod / Gilgamesh Remains Extraction Question",
       "type": "investigation_target",
       "description": "Persistent target. Tom Horn / Steve Quayle assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers.",
       "related_artifacts": [
         "A-1740.1"
       ],
-      "related_claims": [],
+      "related_claims": [
+        "C-6151",
+        "C-6168",
+        "C-6169",
+        "C-6179",
+        "C-6181"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 0,
@@ -665,8 +671,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10491",
-      "ref": "N-10491",
+      "@id": "N-10455",
+      "ref": "N-10455",
       "name": "COVID Test DNA Collection Hypothesis",
       "type": "investigation_target",
       "description": "Persistent target. Viewer AZ Masterbaker and host's prior-commentary thread propose nasal-swab COVID tests were instruments for DNA collection aimed at identifying Nimrod's descendants.",
@@ -1067,8 +1073,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1084,8 +1090,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1104,8 +1110,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1121,8 +1127,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1140,8 +1146,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10299",
-      "ref": "N-10299",
+      "@id": "N-10281",
+      "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1157,8 +1163,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10339",
-      "ref": "N-10339",
+      "@id": "N-10317",
+      "ref": "N-10317",
       "name": "Elizabeth McCoy Disappearance From Public Narrative",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1174,8 +1180,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1194,8 +1200,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1214,8 +1220,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10414",
-      "ref": "N-10414",
+      "@id": "N-10387",
+      "ref": "N-10387",
       "name": "CERN Satantic Ritual Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1231,8 +1237,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1250,8 +1256,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10470",
-      "ref": "N-10470",
+      "@id": "N-10439",
+      "ref": "N-10439",
       "name": "Dan Flood Message Format Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1268,29 +1274,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10480",
-      "ref": "N-10480",
-      "name": "Nimrod / Gilgamesh Remains Extraction Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6151",
-        "C-6168",
-        "C-6169",
-        "C-6179",
-        "C-6181"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 5,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10481",
-      "ref": "N-10481",
+      "@id": "N-10448",
+      "ref": "N-10448",
       "name": "Babylon Military Camp Activities",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1306,8 +1291,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Tarmac Hug Account Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1324,8 +1309,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1341,8 +1326,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11029",
-      "ref": "N-11029",
+      "@id": "N-10948",
+      "ref": "N-10948",
       "name": "CERN",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1360,8 +1345,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11165",
-      "ref": "N-11165",
+      "@id": "N-11081",
+      "ref": "N-11081",
       "name": "Romanian Angels Project",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1377,8 +1362,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11341",
-      "ref": "N-11341",
+      "@id": "N-11257",
+      "ref": "N-11257",
       "name": "23andMe",
       "type": "organization",
       "description": "23andMe, the DNA-testing company the host links to the Epstein emails and to the Iraq theme.",
@@ -1441,7 +1426,7 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-10489"
+        "N-10454"
       ],
       "tags": [],
       "claim_timestamp": "00:05:43",
@@ -1480,7 +1465,7 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-10490"
+        "N-10447"
       ],
       "tags": [],
       "claim_timestamp": "00:15:25",
@@ -1500,7 +1485,7 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-10490"
+        "N-10447"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
@@ -1519,7 +1504,7 @@
         "A-1741.1"
       ],
       "related_nodes": [
-        "N-10485"
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:27:48",
@@ -1640,7 +1625,7 @@
         "A-1743.5"
       ],
       "related_nodes": [
-        "N-10491"
+        "N-10455"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
@@ -1686,7 +1671,7 @@
       "claim": "The host says that, upon further information, she no longer believes Erika Kirk was with her mother on the morning of September 10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10485"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -1730,7 +1715,7 @@
       "claim": "The host says the Epstein emails show elites sending one another 23andMe DNA kits, and that she will show two examples.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11341"
+        "N-11257"
       ],
       "tags": [
         "relevance:tangential"
@@ -1773,7 +1758,7 @@
       "claim": "The host says the now-bankrupt company 23andMe came together in 2005, when people began sending in DNA kits, and invites viewers to link it to the military's activity in Iraq.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11341"
+        "N-11257"
       ],
       "tags": [
         "relevance:tangential"
@@ -1793,7 +1778,7 @@
       "claim": "The host says the US invaded Iraq in mid-2003 and extracted Gilgamesh's tomb roughly two years later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -1907,7 +1892,7 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-10489"
+        "N-10454"
       ],
       "tags": [
         "relevance:tangential"
@@ -1929,7 +1914,7 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-10489"
+        "N-10454"
       ],
       "tags": [
         "relevance:tangential"
@@ -1952,7 +1937,7 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-10489"
+        "N-10454"
       ],
       "tags": [
         "relevance:tangential"
@@ -2087,7 +2072,7 @@
       "claim": "The host says that, in Rob Skiba's theory, once languages were confused Nimrod became known under different names including Baal, Tammuz and Gilgamesh.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -2110,7 +2095,7 @@
       "claim": "The host says Rob Skiba believes the elites view Nimrod or Gilgamesh as the Antichrist and are working to resurrect him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -2132,7 +2117,7 @@
         "A-1739.2"
       ],
       "related_nodes": [
-        "N-11029"
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2154,7 +2139,7 @@
         "A-1739.2"
       ],
       "related_nodes": [
-        "N-11029"
+        "N-10948"
       ],
       "tags": [
         "relevance:tangential"
@@ -2175,8 +2160,8 @@
       "claim": "The host says she previously showed a video of scientists in robes stabbing someone at CERN and that no answer was ever given beyond calling it a joke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11029",
-        "N-10414"
+        "N-10948",
+        "N-10387"
       ],
       "tags": [
         "relevance:tangential"
@@ -2236,7 +2221,7 @@
       "claim": "The host, asking about 23andMe, wonders whether it was a mass campaign to collect everyone's DNA under the pretext of helping with ancestry, if one follows the idea that the elites act from a religious or demonic angle presented as science.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11341"
+        "N-11257"
       ],
       "tags": [
         "relevance:tangential"
@@ -2258,7 +2243,7 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-10490"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -2278,7 +2263,7 @@
       "claim": "In a clip the host plays, Rob Skiba says the US military started the occupation phase of Iraq one month after the 2003 find of Gilgamesh's body.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -2298,7 +2283,7 @@
       "claim": "In a clip the host plays, Rob Skiba says the US established 500 military bases and the largest embassy of any embassy on the planet in Babylon after Iraq.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10481"
+        "N-10448"
       ],
       "tags": [
         "relevance:tangential"
@@ -2318,7 +2303,7 @@
       "claim": "In a clip the host plays, Rob Skiba says he has a feeling that what the US found in Iraq was the weapon of mass destruction, after recounting the find of Gilgamesh's body.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10480"
+        "N-10447"
       ],
       "tags": [
         "relevance:tangential"
@@ -2396,7 +2381,7 @@
       "claim": "The host says Erika Kirk said that Andrew Kolvet and the surgeon went rogue over the Superman neck account, and that this is not true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -2420,7 +2405,7 @@
       "claim": "The host says Erika and Andrew Kolvet called the doctor together on a call and that the Superman quote came from Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -2444,7 +2429,7 @@
       "claim": "The host says the surgeon did not violate HIPAA and that she never believed he did, only that Kolvet might have gone rogue tweeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [
         "relevance:core"
@@ -2465,7 +2450,7 @@
       "claim": "The host says Erika Kirk told Glenn Beck that Charlie did not text anyone the night before in fear for his life.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2490,7 +2475,7 @@
       "claim": "Rebutting Erika Kirk's account, the host says 'The reality I have his phone' and that the claim never happened; the phrase is ambiguous as transcribed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2512,7 +2497,7 @@
       "claim": "The host says Charlie texted both Andrew Kolvet and Dan Flood the night before that he feared he was going to be killed, after a discussion about removing his support from Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2559,7 +2544,7 @@
       "claim": "The host says the account given is that Charlie just wanted tips on how to debate, got them and was happy, but then said they were going to kill him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2579,7 +2564,7 @@
       "claim": "The host says the explanation offered was that Dan Flood and Andrew Kolvet messaged Charlie on a third-party app, so Erika did not know, because the messages were set for deletion.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10470"
+        "N-10439"
       ],
       "tags": [
         "relevance:core"
@@ -2602,7 +2587,7 @@
       "claim": "The host says Dan Flood actually messaged Charlie on iMessage, as she reported earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10470"
+        "N-10439"
       ],
       "tags": [
         "relevance:core"
@@ -2627,7 +2612,7 @@
       "claim": "The host says Mikey McCoy called Elizabeth first.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2651,7 +2636,7 @@
       "claim": "The host says Elizabeth McCoy was completely rinsed out of the story for some reason.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10339"
+        "N-10317"
       ],
       "tags": [
         "relevance:core"
@@ -2674,7 +2659,7 @@
       "claim": "The host says Mikey and Elizabeth then conference called Erika over three minutes later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2696,7 +2681,7 @@
       "claim": "The host quotes Erika saying 'He called me within seconds' and says maybe she thought that.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193"
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2717,8 +2702,8 @@
       "claim": "The host says Andrew Kolvet told her that when he landed in Provo, he and Erika collapsed into one another's arms.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10074"
+        "N-10502",
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2742,7 +2727,7 @@
       "claim": "The host says it was strange that Erika did not know Kolvet's wife was aboard; when the host asked at the meeting whether he flew with his wife, Erika was unable or unwilling to answer, and TPUSA later confirmed the wife was on the plane.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10554"
+        "N-10507"
       ],
       "tags": [
         "relevance:core"
@@ -2764,7 +2749,7 @@
       "claim": "The host says she held back Kolvet's tarmac account and that it feels wrong that Erika waited an hour on the tarmac for his plane to land.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2865,7 +2850,7 @@
       "claim": "The host says, with the hedge 'allegedly', she received a pretty strong series of tips that Erika was with a woman named Tracy Martin.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10485"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2887,7 +2872,7 @@
       "claim": "The host says Tracy Martin is regularly at Dream City Church in Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10487"
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -2907,7 +2892,7 @@
       "claim": "The host says Charlie gave a series of speeches weekly at Dream City Church, beginning with COVID.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10487"
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -2927,8 +2912,8 @@
       "claim": "The host says the TPUSA faith origin story kind of begins with Rob McCoy, then Dream City Church and lockdowns.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10487"
+        "N-10371",
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -2948,8 +2933,8 @@
       "claim": "The host says, with the hedge 'allegedly', that Tracy Martin was with Erika when Mikey and Elizabeth called.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10485",
-        "N-10193"
+        "N-10440",
+        "N-10185"
       ],
       "tags": [
         "relevance:core"
@@ -2972,7 +2957,7 @@
       "claim": "The host says she is being told that Erika and her mother were not together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10485"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -2996,7 +2981,7 @@
         "A-1741.1"
       ],
       "related_nodes": [
-        "N-11165"
+        "N-11081"
       ],
       "tags": [
         "relevance:context"
@@ -3055,7 +3040,7 @@
       "claim": "The host says Tracy Martin is from Missouri, which she describes as one of the regular stops of the Egyptian planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -3075,7 +3060,7 @@
       "claim": "The host says she is unable to determine what exactly Tracy Martin's husband does.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10486"
+        "N-10451"
       ],
       "tags": [
         "relevance:tangential"
@@ -3095,7 +3080,7 @@
       "claim": "The host states she does not believe Erika Kirk was with her mother, Lori Frantzve, on September 10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10485"
+        "N-10440"
       ],
       "tags": [
         "relevance:core"
@@ -3118,8 +3103,8 @@
         "A-3219.1"
       ],
       "related_nodes": [
-        "N-10485",
-        "N-10487"
+        "N-10440",
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -3140,7 +3125,7 @@
       "claim": "The host says people have emailed her about Dream City Church and about Pastor Luke's involvement and things he said on stage afterward.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10487"
+        "N-10452"
       ],
       "tags": [
         "relevance:core"
@@ -3161,7 +3146,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:context"
@@ -3178,9 +3163,9 @@
       "claim": "The host says what was guiding the faith shift seems to be Erika, his very faithful soon-to-be Christian wife, encouraging him to lean into pastors, Calvary Chapel and Dream City Church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398",
-        "N-10246",
-        "N-10487"
+        "N-10371",
+        "N-10232",
+        "N-10452"
       ],
       "tags": [
         "relevance:context"
@@ -3243,8 +3228,8 @@
       "claim": "The host says one Egyptian plane left the morning of Charlie's assassination and another stayed on the tarmac and was transponding intermittently.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10488",
-        "N-10253"
+        "N-10453",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3267,7 +3252,7 @@
       "claim": "The host says it would be a pretty obvious thing for someone on the grounded plane to communicate, and that to avoid tracking you would get on a foreign plane and communicate that way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10488"
+        "N-10453"
       ],
       "tags": [
         "relevance:core"
@@ -3287,7 +3272,7 @@
       "claim": "The host says the panic about the Egyptian planes was so consistent and loud that it never stopped.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10299"
+        "N-10281"
       ],
       "tags": [
         "relevance:context"
@@ -3310,9 +3295,9 @@
       "claim": "The host says the Egyptian planes have been tracking Turning Point USA faith people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
+        "N-10239",
         "N-10000",
-        "N-10398"
+        "N-10371"
       ],
       "tags": [
         "relevance:core"

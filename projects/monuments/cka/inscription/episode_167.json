@@ -30,7 +30,7 @@
             "C-14401"
           ],
           "related_nodes": [
-            "N-10827"
+            "N-10750"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -49,7 +49,7 @@
           "related_nodes": [
             "N-352",
             "N-970",
-            "N-11445"
+            "N-11356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -66,8 +66,8 @@
             "C-14449"
           ],
           "related_nodes": [
-            "N-11218",
-            "N-11447"
+            "N-11134",
+            "N-11358"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -85,7 +85,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11297"
+            "N-11213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -142,8 +142,8 @@
           ],
           "related_nodes": [
             "N-11",
-            "N-10827",
-            "N-10167"
+            "N-10750",
+            "N-10160"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -176,9 +176,9 @@
           ],
           "related_nodes": [
             "N-330",
-            "N-10880",
+            "N-10801",
             "N-10013",
-            "N-11446"
+            "N-11357"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -198,9 +198,9 @@
           ],
           "related_nodes": [
             "N-10013",
-            "N-10880",
-            "N-10923",
-            "N-10637"
+            "N-10801",
+            "N-10844",
+            "N-10582"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -232,7 +232,7 @@
           "related_nodes": [
             "N-970",
             "N-353",
-            "N-11445"
+            "N-11356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -260,8 +260,8 @@
           ],
           "related_nodes": [
             "N-955",
-            "N-11218",
-            "N-11447"
+            "N-11134",
+            "N-11358"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -318,7 +318,7 @@
             "N-960",
             "N-591",
             "N-968",
-            "N-11443"
+            "N-11354"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -347,7 +347,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11297"
+            "N-11213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Val Peterson once sat on the Provo airport board.",
@@ -864,8 +864,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
       "type": "investigation_target",
       "description": "Bowyer's DMs defending the organization.",
@@ -882,8 +882,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10533",
-      "ref": "N-10533",
+      "@id": "N-10488",
+      "ref": "N-10488",
       "name": "Club America High School Pushback",
       "type": "investigation_target",
       "description": "",
@@ -899,8 +899,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10827",
-      "ref": "N-10827",
+      "@id": "N-10750",
+      "ref": "N-10750",
       "name": "Statue Vandalism Investigation",
       "type": "investigation_target",
       "description": "",
@@ -950,8 +950,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10832",
-      "ref": "N-10832",
+      "@id": "N-10755",
+      "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
       "type": "investigation_target",
       "description": "",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10880",
-      "ref": "N-10880",
+      "@id": "N-10801",
+      "ref": "N-10801",
       "name": "Monster Lab / Clippet",
       "type": "investigation_target",
       "description": "",
@@ -996,8 +996,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10882",
-      "ref": "N-10882",
+      "@id": "N-10803",
+      "ref": "N-10803",
       "name": "Enclave and Key",
       "type": "investigation_target",
       "description": "",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10886",
-      "ref": "N-10886",
+      "@id": "N-10807",
+      "ref": "N-10807",
       "name": "Latvia",
       "type": "investigation_target",
       "description": "",
@@ -1031,8 +1031,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10889",
-      "ref": "N-10889",
+      "@id": "N-10810",
+      "ref": "N-10810",
       "name": "Atlantic Elephant Clipping Expose",
       "type": "investigation_target",
       "description": "",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10891",
-      "ref": "N-10891",
+      "@id": "N-10812",
+      "ref": "N-10812",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
       "type": "investigation_target",
       "description": "",
@@ -1066,8 +1066,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10915",
-      "ref": "N-10915",
+      "@id": "N-10836",
+      "ref": "N-10836",
       "name": "White House Ballroom Talking-Point Convergence",
       "type": "investigation_target",
       "description": "",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10923",
-      "ref": "N-10923",
+      "@id": "N-10844",
+      "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
       "type": "investigation_target",
       "description": "",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
       "type": "investigation_target",
       "description": "",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11110",
-      "ref": "N-11110",
+      "@id": "N-11028",
+      "ref": "N-11028",
       "name": "Erika Kirk and Tyler Bowyer First-Meeting Account",
       "type": "investigation_target",
       "description": "",
@@ -1137,8 +1137,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11111",
-      "ref": "N-11111",
+      "@id": "N-11029",
+      "ref": "N-11029",
       "name": "Tyler Bowyer Legal and Debt History Claims",
       "type": "investigation_target",
       "description": "",
@@ -1154,8 +1154,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11218",
-      "ref": "N-11218",
+      "@id": "N-11134",
+      "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
       "type": "investigation_target",
       "description": "",
@@ -1174,8 +1174,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11297",
-      "ref": "N-11297",
+      "@id": "N-11213",
+      "ref": "N-11213",
       "name": "TPUSA Mandatory Student Attendance at Erika Kirk Events",
       "type": "investigation_target",
       "description": "",
@@ -1196,8 +1196,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11313",
-      "ref": "N-11313",
+      "@id": "N-11229",
+      "ref": "N-11229",
       "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
       "type": "investigation_target",
       "description": "",
@@ -1216,8 +1216,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11426",
-      "ref": "N-11426",
+      "@id": "N-11338",
+      "ref": "N-11338",
       "name": "Val Peterson September 10 Whereabouts",
       "type": "investigation_target",
       "description": "",
@@ -1234,8 +1234,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11434",
-      "ref": "N-11434",
+      "@id": "N-11340",
+      "ref": "N-11340",
       "name": "Katie Zacharia Lawyer Credential Question",
       "type": "investigation_target",
       "description": "",
@@ -1254,8 +1254,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11435",
-      "ref": "N-11435",
+      "@id": "N-11348",
+      "ref": "N-11348",
       "name": "Turning Point Action Funds Depletion Email",
       "type": "investigation_target",
       "description": "",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11443",
-      "ref": "N-11443",
+      "@id": "N-11354",
+      "ref": "N-11354",
       "name": "Fort Hood Shooter Execution Livestream Question",
       "type": "investigation_target",
       "description": "",
@@ -1329,8 +1329,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11445",
-      "ref": "N-11445",
+      "@id": "N-11356",
+      "ref": "N-11356",
       "name": "Kenneth Wynn 2004 Child Pornography Investigation",
       "type": "topic",
       "description": "The 2004 federal (ICE Operation Predator) child pornography investigation in which Kenny Wynn's home computer was reportedly seized. The host raises it as part of a child-abuse pattern in the TPUSA orbit.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11446",
-      "ref": "N-11446",
+      "@id": "N-11357",
+      "ref": "N-11357",
       "name": "Monster Lab Erika Kirk Name Ban",
       "type": "topic",
       "description": "Discord messages in which Monster Lab clippers were allegedly told to delete messages, not use Erika Kirk's name, and use \"EK\", with bans for mentioning her. Surfaced by Baron Coleman via a misspelled \"Ekka Kirk\" message.",
@@ -1380,13 +1380,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11447",
-      "ref": "N-11447",
+      "@id": "N-11358",
+      "ref": "N-11358",
       "name": "Timpanogos Hospital Board Membership Question",
       "type": "topic",
       "description": "Who sits or sat on the board of Timpanogos Regional Hospital, where Charlie Kirk was taken, given Val Peterson's former seat. The host says the membership is not public.",
@@ -1406,7 +1406,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-955",
-        "N-11218"
+        "N-11134"
       ]
     }
   ],
@@ -1419,7 +1419,7 @@
       "claim": "The host says press secretary Katie Zacharia, whom she had only begun to warm to, is gone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11434"
+        "N-11340"
       ],
       "tags": [
         "relevance:context"
@@ -1439,7 +1439,7 @@
       "claim": "The host says she has only four more episodes before her maternity leave.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"
@@ -1459,8 +1459,8 @@
       "claim": "The host says she received an update on the vandalized Charlie Kirk statue on Thursday and is sharing it today.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10827",
-        "N-11313"
+        "N-10750",
+        "N-11229"
       ],
       "tags": [
         "relevance:core"
@@ -1469,7 +1469,7 @@
       "investigative_direction": "The source and date of the Tyler Bowyer DM exchange shown later in the episode.",
       "transcript_snippet": "I received an update on Thursday and I was so very excited to share it with you all today.",
       "mentions_person_refs": [
-        "N-11313"
+        "N-11229"
       ]
     },
     {
@@ -1482,7 +1482,7 @@
         "A-3409.1"
       ],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1502,7 +1502,7 @@
       "claim": "The host says she messaged \"Bobby Sauce\" on Instagram, who she says has long followed the statue story and asked for updates, to say she had an update.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:tangential"
@@ -1519,8 +1519,8 @@
       "claim": "The host says Turning Point Action's Tyler Bowyer had the Charlie Kirk statue erected in memoriam on the one-year anniversary of Charlie's death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10925",
-        "N-10827"
+        "N-10846",
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1544,7 +1544,7 @@
       "claim": "The host alleges, as she says she has asserted many times, that Tyler Bowyer is a sexual deviant who might be in federal prison but for a presidential pardon from Trump in November of last year for federal charges over the elector business in Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11111"
+        "N-11029"
       ],
       "tags": [
         "relevance:context"
@@ -1568,7 +1568,7 @@
       "claim": "The host says Tyler Bowyer is the person who introduced Erika to Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11110"
+        "N-11028"
       ],
       "tags": [
         "relevance:core"
@@ -1631,8 +1631,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10637",
-        "N-10915"
+        "N-10582",
+        "N-10836"
       ],
       "tags": [
         "relevance:core"
@@ -1641,8 +1641,8 @@
       "investigative_direction": "TPUSA emails and social posts in the days after the WHCD and after the statue vandalism.",
       "transcript_snippet": "And they started doing the thing again um following the White House correspondents dinner.",
       "mentions_person_refs": [
-        "N-10637",
-        "N-10915"
+        "N-10582",
+        "N-10836"
       ]
     },
     {
@@ -1653,7 +1653,7 @@
       "claim": "The host says it would be sadistic for TPUSA to orchestrate red paint being put on the statue in the exact place on Charlie's neck where he bled out, which she first judged too evil to be true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1674,7 +1674,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1686,7 +1686,7 @@
         "C-14354"
       ],
       "mentions_person_refs": [
-        "N-10827"
+        "N-10750"
       ]
     },
     {
@@ -1718,7 +1718,7 @@
       "claim": "The host says it has been over a month since the vandalism and nothing has come from what she calls the most heavily secured and surveilled work campus in America.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1737,8 +1737,8 @@
         "A-3411.1"
       ],
       "related_nodes": [
-        "N-10827",
-        "N-10167"
+        "N-10750",
+        "N-10160"
       ],
       "tags": [
         "relevance:core"
@@ -1760,7 +1760,7 @@
         "A-3411.1"
       ],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1782,8 +1782,8 @@
         "A-3411.1"
       ],
       "related_nodes": [
-        "N-10827",
-        "N-10167"
+        "N-10750",
+        "N-10160"
       ],
       "tags": [
         "relevance:core"
@@ -1805,7 +1805,7 @@
         "A-3411.1"
       ],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1827,9 +1827,9 @@
         "A-3411.1"
       ],
       "related_nodes": [
-        "N-10925",
-        "N-11435",
-        "N-10827"
+        "N-10846",
+        "N-11348",
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1851,7 +1851,7 @@
         "A-3411.1"
       ],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1871,7 +1871,7 @@
       "claim": "The host sarcastically says the case is closed and that further questions make one demonic or a conspiracy theorist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -1910,8 +1910,8 @@
       "claim": "The host says the website Monster Lab appears to have been created to support Erika's public image almost immediately after Charlie's assassination, crediting The Atlantic for breaking the story.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10880",
-        "N-10889"
+        "N-10801",
+        "N-10810"
       ],
       "tags": [
         "relevance:core"
@@ -1937,7 +1937,7 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:core"
@@ -1959,10 +1959,10 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-10886",
+        "N-10801",
+        "N-10807",
         "N-10013",
-        "N-11446"
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -1984,8 +1984,8 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11446"
+        "N-10801",
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -2008,8 +2008,8 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11446"
+        "N-10801",
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -2031,8 +2031,8 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11446"
+        "N-10801",
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -2054,8 +2054,8 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11446"
+        "N-10801",
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -2077,8 +2077,8 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11446"
+        "N-10801",
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -2100,8 +2100,8 @@
         "A-3412.1"
       ],
       "related_nodes": [
-        "N-10880",
-        "N-11446"
+        "N-10801",
+        "N-11357"
       ],
       "tags": [
         "relevance:core"
@@ -2121,8 +2121,8 @@
       "claim": "The host recalls her story on an email sent on the night of the White House Correspondents' Dinner to people in the executive branch and military telling them to promote the \"I just want to go home\" clip of Erika, which called her an emotional asset.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10923",
-        "N-10637"
+        "N-10844",
+        "N-10582"
       ],
       "tags": [
         "relevance:core"
@@ -2145,7 +2145,7 @@
       "claim": "The host says Blake Wynn, Erika's friend, was by her side when she said \"I just want to go home\", and that someone was there to capture it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [
         "relevance:core"
@@ -2166,8 +2166,8 @@
       "claim": "The host says Blake Wynn's company Enclave and Key could and did make various clips of Erika Kirk go viral via Monster Lab, and seemed to be its first big client.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10882",
-        "N-10880"
+        "N-10803",
+        "N-10801"
       ],
       "tags": [
         "relevance:core"
@@ -2194,8 +2194,8 @@
       ],
       "related_nodes": [
         "N-10013",
-        "N-10880",
-        "N-10637"
+        "N-10801",
+        "N-10582"
       ],
       "tags": [
         "relevance:core"
@@ -2217,7 +2217,7 @@
         "A-3412.2"
       ],
       "related_nodes": [
-        "N-10880"
+        "N-10801"
       ],
       "tags": [
         "relevance:core"
@@ -2236,7 +2236,7 @@
         "A-3412.2"
       ],
       "related_nodes": [
-        "N-10923"
+        "N-10844"
       ],
       "tags": [
         "relevance:core"
@@ -2256,9 +2256,9 @@
       "claim": "The host says it is entirely plausible that Enclave and Key, which she says had provided the Google Drive of Erika clips beginning September 15, put up the money to make the WHCD clip go viral.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10882",
-        "N-10891",
-        "N-10923"
+        "N-10803",
+        "N-10812",
+        "N-10844"
       ],
       "tags": [
         "relevance:core"
@@ -2285,8 +2285,8 @@
         "A-3413.1"
       ],
       "related_nodes": [
-        "N-11445",
-        "N-10832"
+        "N-11356",
+        "N-10755"
       ],
       "tags": [
         "relevance:tangential"
@@ -2309,7 +2309,7 @@
         "A-3413.1"
       ],
       "related_nodes": [
-        "N-11445"
+        "N-11356"
       ],
       "tags": [
         "relevance:tangential"
@@ -2332,7 +2332,7 @@
         "A-3413.1"
       ],
       "related_nodes": [
-        "N-11445"
+        "N-11356"
       ],
       "tags": [
         "relevance:tangential"
@@ -2354,7 +2354,7 @@
         "A-3413.1"
       ],
       "related_nodes": [
-        "N-11445"
+        "N-11356"
       ],
       "tags": [
         "relevance:tangential"
@@ -2376,7 +2376,7 @@
         "A-3413.1"
       ],
       "related_nodes": [
-        "N-11445"
+        "N-11356"
       ],
       "tags": [
         "relevance:tangential"
@@ -2395,7 +2395,7 @@
         "A-3413.1"
       ],
       "related_nodes": [
-        "N-11445"
+        "N-11356"
       ],
       "tags": [
         "relevance:tangential"
@@ -2412,7 +2412,7 @@
       "claim": "The host wonders what Charlie said no to and says it makes you think about what he was going through getting calls from the White House amid the Epstein scandal, adding \"The answer is I don't know.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10832"
+        "N-10755"
       ],
       "tags": [
         "relevance:core"
@@ -2458,8 +2458,8 @@
         "A-3414.1"
       ],
       "related_nodes": [
-        "N-11218",
-        "N-11447"
+        "N-11134",
+        "N-11358"
       ],
       "tags": [
         "relevance:core"
@@ -2482,7 +2482,7 @@
         "A-3414.1"
       ],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:context"
@@ -2504,8 +2504,8 @@
         "A-3414.1"
       ],
       "related_nodes": [
-        "N-11218",
-        "N-11447"
+        "N-11134",
+        "N-11358"
       ],
       "tags": [
         "relevance:core"
@@ -2525,8 +2525,8 @@
       "claim": "The host says the membership of the Timpanogos Hospital board is not public.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11218",
-        "N-11447"
+        "N-11134",
+        "N-11358"
       ],
       "tags": [
         "relevance:core"
@@ -2535,7 +2535,7 @@
       "investigative_direction": "HCA Healthcare / MountainStar disclosures of Timpanogos board members.",
       "transcript_snippet": "who else is on the board of Timpanogos Hospital? And unfortunately, that information is not public.",
       "mentions_person_refs": [
-        "N-11447"
+        "N-11358"
       ]
     },
     {
@@ -2548,8 +2548,8 @@
         "A-3409.3"
       ],
       "related_nodes": [
-        "N-11218",
-        "N-11447"
+        "N-11134",
+        "N-11358"
       ],
       "tags": [
         "relevance:core"
@@ -2569,7 +2569,7 @@
       "claim": "The host says two extremely reliable sources told her that Val Peterson met Governor Cox on September 10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11426"
+        "N-11338"
       ],
       "tags": [
         "relevance:core"
@@ -2593,7 +2593,7 @@
       "claim": "The host says her team reached out to Governor Cox's office on Thursday for confirmation or denial and has not received a response.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11426"
+        "N-11338"
       ],
       "tags": [
         "relevance:core"
@@ -2631,7 +2631,7 @@
       "claim": "The host says the reporting relates Zacharia's exit to Trump feeling embarrassed at not knowing she was not a practicing attorney.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11434"
+        "N-11340"
       ],
       "tags": [
         "relevance:context"
@@ -2652,7 +2652,7 @@
       "claim": "The host says that when the press asked Zacharia where she passed the bar exam, she said she went to China.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11434"
+        "N-11340"
       ],
       "tags": [
         "relevance:context"
@@ -2716,7 +2716,7 @@
       "claim": "The host says Tim Dillon was a fan of Zacharia and shared her perspective on what she calls the bizarre push for a public execution.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11443"
+        "N-11354"
       ],
       "tags": [
         "relevance:tangential"
@@ -2737,7 +2737,7 @@
       "claim": "The host says Tim Dillon had a perfect bit describing both Katie Zacharia's exit and Pete Hegseth's plan for a live execution, all happening at the same time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11443"
+        "N-11354"
       ],
       "tags": [
         "relevance:context"
@@ -2764,7 +2764,7 @@
         "A-3416.1"
       ],
       "related_nodes": [
-        "N-11434"
+        "N-11340"
       ],
       "tags": [
         "relevance:context"
@@ -2808,7 +2808,7 @@
         "A-3416.1"
       ],
       "related_nodes": [
-        "N-11443"
+        "N-11354"
       ],
       "tags": [
         "relevance:context"
@@ -2829,8 +2829,8 @@
       "claim": "The host says Erika's pursuit of middle-school audiences via Club America is administratively forced and counted as wins, and that nobody is asking her to come.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10533",
-        "N-11297"
+        "N-10488",
+        "N-11213"
       ],
       "tags": [
         "relevance:core"
@@ -2855,7 +2855,7 @@
         "A-3409.4"
       ],
       "related_nodes": [
-        "N-11297"
+        "N-11213"
       ],
       "tags": [
         "relevance:core"
@@ -2877,7 +2877,7 @@
         "A-3417.1"
       ],
       "related_nodes": [
-        "N-11297"
+        "N-11213"
       ],
       "tags": [
         "relevance:core"
@@ -2899,7 +2899,7 @@
         "A-3417.1"
       ],
       "related_nodes": [
-        "N-11297"
+        "N-11213"
       ],
       "tags": [
         "relevance:core"
@@ -2921,7 +2921,7 @@
         "A-3417.1"
       ],
       "related_nodes": [
-        "N-11297"
+        "N-11213"
       ],
       "tags": [
         "relevance:core"
@@ -2943,7 +2943,7 @@
         "A-3417.1"
       ],
       "related_nodes": [
-        "N-11297"
+        "N-11213"
       ],
       "tags": [
         "relevance:core"
@@ -2983,7 +2983,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10827"
+        "N-10750"
       ],
       "tags": [
         "relevance:core"
@@ -3006,7 +3006,7 @@
       "claim": "The host sarcastically says the assassination was open and shut, and that Tyler Robinson was forgiven 11 days on, which she says was after the clipping campaign began.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10891"
+        "N-10812"
       ],
       "tags": [
         "relevance:core"
@@ -3026,7 +3026,7 @@
       "claim": "The host says she will pop in during maternity leave and join Baron for an episode or two.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"
@@ -3085,7 +3085,7 @@
       "claim": "The host says Baron merch is on the website, including a substitute teacher crew neck and a mug reading \"I will not believe the fed slop\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"

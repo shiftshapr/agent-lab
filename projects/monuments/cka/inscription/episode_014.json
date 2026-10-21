@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-69",
             "N-147",
-            "N-10158"
+            "N-10152"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-1254"
           ],
           "related_nodes": [
-            "N-10158"
+            "N-10152"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,8 +86,8 @@
           ],
           "related_nodes": [
             "N-143",
-            "N-10158",
-            "N-10159"
+            "N-10152",
+            "N-10153"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
             "N-6",
             "N-148",
             "N-149",
-            "N-10160"
+            "N-10154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -169,7 +169,7 @@
             "C-1263"
           ],
           "related_nodes": [
-            "N-10161"
+            "N-10155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-1277"
           ],
           "related_nodes": [
-            "N-10161"
+            "N-10155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
           ],
           "related_nodes": [
             "N-145",
-            "N-10161"
+            "N-10155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -249,7 +249,7 @@
           ],
           "related_nodes": [
             "N-146",
-            "N-10161"
+            "N-10155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
             "C-1259"
           ],
           "related_nodes": [
-            "N-10159"
+            "N-10153"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -553,7 +553,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10158"
+        "N-10152"
       ]
     },
     {
@@ -576,8 +576,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10158",
-        "N-10159"
+        "N-10152",
+        "N-10153"
       ]
     },
     {
@@ -618,7 +618,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ]
     },
     {
@@ -640,7 +640,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ]
     },
     {
@@ -660,7 +660,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10158"
+        "N-10152"
       ]
     },
     {
@@ -682,7 +682,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ]
     },
     {
@@ -723,13 +723,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-148",
-        "N-10160"
+        "N-10154"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10158",
-      "ref": "N-10158",
+      "@id": "N-10152",
+      "ref": "N-10152",
       "name": "ADL–FBI Partnership Structure",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.",
@@ -756,8 +756,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10159",
-      "ref": "N-10159",
+      "@id": "N-10153",
+      "ref": "N-10153",
       "name": "Connecticut FBI Field Office Deployment Anomaly",
       "type": "investigation_target",
       "description": "Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.",
@@ -780,8 +780,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10160",
-      "ref": "N-10160",
+      "@id": "N-10154",
+      "ref": "N-10154",
       "name": "Tyler Robinson Defense Selection Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.",
@@ -804,8 +804,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10161",
-      "ref": "N-10161",
+      "@id": "N-10155",
+      "ref": "N-10155",
       "name": "Witness and Public-Figure Demeanor Anomalies",
       "type": "investigation_target",
       "description": "Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.",
@@ -1296,8 +1296,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for the no-choice claim.",
@@ -1313,8 +1313,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the no-choice claim.",
@@ -1330,8 +1330,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10060",
-      "ref": "N-10060",
+      "@id": "N-10057",
+      "ref": "N-10057",
       "name": "Good Morning America",
       "type": "investigation_target",
       "description": "Program Barker spoke to per the host.",
@@ -1347,8 +1347,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10095",
-      "ref": "N-10095",
+      "@id": "N-10091",
+      "ref": "N-10091",
       "name": "9/10 Eyewitness Pattern Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1364,8 +1364,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1381,8 +1381,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10129",
-      "ref": "N-10129",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Orem Police Department",
       "type": "investigation_target",
       "description": "Employer of Bishop per the host.",
@@ -1402,8 +1402,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10144",
-      "ref": "N-10144",
+      "@id": "N-10139",
+      "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1421,8 +1421,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10153",
-      "ref": "N-10153",
+      "@id": "N-10148",
+      "ref": "N-10148",
       "name": "\"Robbie Hild\" Identity Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for Hild's Cayman and Spain ties.",
@@ -1439,8 +1439,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1458,8 +1458,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11011",
-      "ref": "N-11011",
+      "@id": "N-10931",
+      "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1476,8 +1476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10315",
-      "ref": "N-10315",
+      "@id": "N-10296",
+      "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1494,8 +1494,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1512,8 +1512,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused.",
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "Existing topic reused for the JFK FARA remark.",
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11059",
-      "ref": "N-11059",
+      "@id": "N-10977",
+      "ref": "N-10977",
       "name": "Russian-Speaking Turning Point Network",
       "type": "investigation_target",
       "description": "Existing topic reused for Ukrainian/Russian connections.",
@@ -1565,8 +1565,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11130",
-      "ref": "N-11130",
+      "@id": "N-11048",
+      "ref": "N-11048",
       "name": "B'nai B'rith",
       "type": "investigation_target",
       "description": "Organization the host says gave rise to the ADL.",
@@ -1658,8 +1658,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11153",
-      "ref": "N-11153",
+      "@id": "N-11069",
+      "ref": "N-11069",
       "name": "Anti-Defamation League",
       "type": "organization",
       "description": "The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, and worked with the FBI.",
@@ -1686,8 +1686,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11154",
-      "ref": "N-11154",
+      "@id": "N-11070",
+      "ref": "N-11070",
       "name": "Azov Battalion",
       "type": "organization",
       "description": "Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed from its hate list.",
@@ -1703,8 +1703,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11155",
-      "ref": "N-11155",
+      "@id": "N-11071",
+      "ref": "N-11071",
       "name": "Bishop Orem Police Employment Claim",
       "type": "topic",
       "description": "Host's claim that eyewitness Olivia Bishop works for the Orem Police Department as a records specialist, with surrounding staffing and corruption talk.",
@@ -1723,8 +1723,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11156",
-      "ref": "N-11156",
+      "@id": "N-11072",
+      "ref": "N-11072",
       "name": "Leo Frank Case and ADL Origin Claim",
       "type": "topic",
       "description": "Host's account of the 1913 Frank case and her claim that the ADL was created to defend him.",
@@ -1744,8 +1744,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11157",
-      "ref": "N-11157",
+      "@id": "N-11073",
+      "ref": "N-11073",
       "name": "Host Trump Hotel Money Warning to Kirk",
       "type": "topic",
       "description": "Host's recounted conversation with Kirk at the Trump Hotel in DC warning him about donor money.",
@@ -1772,7 +1772,7 @@
         "A-1209.1"
       ],
       "related_nodes": [
-        "N-10158"
+        "N-10152"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45–00:09:33",
@@ -1806,7 +1806,7 @@
         "A-1218.1"
       ],
       "related_nodes": [
-        "N-10159"
+        "N-10153"
       ],
       "tags": [],
       "claim_timestamp": "00:13:03–00:14:10",
@@ -1825,7 +1825,7 @@
         "A-1211.1"
       ],
       "related_nodes": [
-        "N-10159"
+        "N-10153"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32–00:13:03",
@@ -1861,7 +1861,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07–00:32:15",
@@ -1881,7 +1881,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [],
       "claim_timestamp": "00:31:15",
@@ -1902,7 +1902,7 @@
         "A-1213.1"
       ],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:53",
@@ -1935,7 +1935,7 @@
         "A-1215.1"
       ],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [],
       "claim_timestamp": "00:21:50–00:22:48",
@@ -2002,7 +2002,7 @@
       "claim": "The host says her team received a few tips about the woman who is missing from the footage, that she cannot confirm the tips identify her, and that the person's public testimony and job are interesting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2022,8 +2022,8 @@
       "claim": "The host says the FBI announced it would cut ties with the Anti-Defamation League because the ADL had listed Charlie Kirk and Turning Point USA as extremist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-10158",
+        "N-11069",
+        "N-10152",
         "N-10000",
         "N-10014"
       ],
@@ -2048,8 +2048,8 @@
       "claim": "The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11130"
+        "N-11069",
+        "N-11048"
       ],
       "tags": [
         "relevance:tangential"
@@ -2071,7 +2071,7 @@
         "A-2905.1"
       ],
       "related_nodes": [
-        "N-11130"
+        "N-11048"
       ],
       "tags": [
         "relevance:tangential"
@@ -2112,9 +2112,9 @@
       "claim": "The host says the ADL was put together by B'nai B'rith to defend Leo Frank, whom she calls a pedophile and a murderer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11130",
-        "N-11156"
+        "N-11069",
+        "N-11048",
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2135,7 +2135,7 @@
       "claim": "The host says Mary Phagan was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11156"
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2156,7 +2156,7 @@
       "claim": "The host says Frank, despite wealth, top lawyers and connections to the Supreme Court, was found guilty even in the segregated South and tried to pin the crime on a poor black janitor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11156"
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2176,9 +2176,9 @@
       "claim": "The host says Frank's associates in the B'nai B'rith lodge assembled the ADL to gaslight the public into believing he was innocent and a victim of anti-semitism after he was lynched.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11130",
-        "N-11156"
+        "N-11069",
+        "N-11048",
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2204,7 +2204,7 @@
         "A-2906.1"
       ],
       "related_nodes": [
-        "N-11156"
+        "N-11072"
       ],
       "tags": [
         "relevance:tangential"
@@ -2246,8 +2246,8 @@
       "claim": "The host says the ADL has been directing the FBI for years, labels people who tell the truth as extremists, and that she thinks its list effectively works as a hit list used with the FBI.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-10158",
+        "N-11069",
+        "N-10152",
         "N-10014"
       ],
       "tags": [
@@ -2286,7 +2286,7 @@
       "claim": "The host says she learned last year that both the left and the right work with the ADL, and that right-wing neocons feed it names of anyone who is an enemy to the state of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
+        "N-11069",
         "N-10026",
         "N-10025"
       ],
@@ -2308,7 +2308,7 @@
       "claim": "The host says she thinks Elon Musk tweeted about Kirk and TPUSA being on the ADL list and that it caught fire and became the new conservative talking point.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
+        "N-11069",
         "N-10000"
       ],
       "tags": [
@@ -2330,8 +2330,8 @@
       "claim": "The host says the ADL was training FBI agents and sharing intelligence in partnership with the FBI, and that Patel's announcement says no more.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-10158",
+        "N-11069",
+        "N-10152",
         "N-10014"
       ],
       "tags": [
@@ -2355,8 +2355,8 @@
       "claim": "The host says the ADL curiously removed the Azov battalion, which she says carves swastikas and murders people, from its hate list.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
-        "N-11154"
+        "N-11069",
+        "N-11070"
       ],
       "tags": [
         "relevance:context"
@@ -2376,7 +2376,7 @@
       "claim": "The host says she herself is on the ADL's hate list and contrasts that with the removal of Azov.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153"
+        "N-11069"
       ],
       "tags": [
         "relevance:context"
@@ -2396,7 +2396,7 @@
       "claim": "The host says she received a tip she was able to corroborate that, out of 55 main FBI bureaus and over 350 satellite bureaus, the Connecticut bureau was sent to UVU after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10159",
+        "N-10153",
         "N-10014",
         "N-10012"
       ],
@@ -2421,9 +2421,9 @@
       "claim": "The host says many of the witnesses who spoke out immediately had strange connections to the government, were not from UVU at all, or came from overseas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161",
-        "N-10095",
-        "N-10315"
+        "N-10155",
+        "N-10091",
+        "N-10296"
       ],
       "tags": [
         "relevance:core"
@@ -2443,7 +2443,7 @@
       "claim": "The host says she got a tip from an unrelated individual that footage exists of a person helping the shooter change clothes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2463,7 +2463,7 @@
       "claim": "The host says the name received for the woman via Orem rumors turned out to be someone who gave the only eyewitness testimony of seeing the shooter up close limping, while stressing it is an unverified rumor.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2484,7 +2484,7 @@
       "claim": "The host says it is possible the woman captured both men walking back to back, was just walking near him and had nothing to do with helping him change.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2508,8 +2508,8 @@
       "claim": "The host says Olivia Bishop does not attend UVU and works for the Orem Police Department as a records specialist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10129",
-        "N-11155"
+        "N-10124",
+        "N-11071"
       ],
       "tags": [
         "relevance:core"
@@ -2532,8 +2532,8 @@
         "A-2907.1"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-11155"
+        "N-10124",
+        "N-11071"
       ],
       "tags": [
         "relevance:core"
@@ -2553,7 +2553,7 @@
       "claim": "The host says she is hearing a lot of stuff about some plausible corruption that might be going on at the Orem Police Department.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10129"
+        "N-10124"
       ],
       "tags": [
         "relevance:core"
@@ -2573,8 +2573,8 @@
       "claim": "The host says Bishop said she was meeting up with friends and that her team learned she met up with her husband, and the host questions how an Orem Police employee could attend mid-day on a Wednesday.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10129",
-        "N-11155"
+        "N-10124",
+        "N-11071"
       ],
       "tags": [
         "relevance:core"
@@ -2595,8 +2595,8 @@
       "claim": "The host says she called the records office and texted Bishop, who does not want to speak and said she gave her testimony and the appropriate information to the appropriate authorities.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10129",
-        "N-11155"
+        "N-10124",
+        "N-11071"
       ],
       "tags": [
         "relevance:core"
@@ -2617,7 +2617,7 @@
       "claim": "The host says witness Tiffany Barker is with the nieces and that her sister was Phil Lyman's running mate.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2638,7 +2638,7 @@
       "claim": "The host says Barker spoke to Good Morning America in the early morning hours after the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10060"
+        "N-10057"
       ],
       "tags": [
         "relevance:core"
@@ -2658,7 +2658,7 @@
       "claim": "The host says Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website at that time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:core"
@@ -2682,7 +2682,7 @@
       "claim": "The host says Phil Lyman spoke to Alex Jones, Fox News, News Nation and anyone who would have him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -2703,7 +2703,7 @@
       "claim": "The host says Lyman wants her to know he thinks she is shady and an accomplice to something.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10144"
+        "N-10139"
       ],
       "tags": [
         "relevance:context"
@@ -2726,7 +2726,7 @@
         "A-1215.1"
       ],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2746,7 +2746,7 @@
       "claim": "The host says Gernot Ohner was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2770,7 +2770,7 @@
         "A-1215.1"
       ],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2792,8 +2792,8 @@
         "A-1215.1"
       ],
       "related_nodes": [
-        "N-10161",
-        "N-10315"
+        "N-10155",
+        "N-10296"
       ],
       "tags": [
         "relevance:context"
@@ -2813,7 +2813,7 @@
       "claim": "The host says none of the witnesses she looked up has reached out to her despite her asking for information from the minute the event happened, though they were eager to speak to the press.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"
@@ -2833,7 +2833,7 @@
       "claim": "The host says her team is getting information on Robbie Hild involving the Cayman Islands and Spain, has put a TBD on him, and will report on him Monday.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10153"
+        "N-10148"
       ],
       "tags": [
         "relevance:core"
@@ -2853,7 +2853,7 @@
       "claim": "The host says she thinks JFK's associates may have covered up his assassination, that he was surrounded and infiltrated and removed for wrong ideas, perhaps that every foreign nation should register under FARA, and that the Warren Commission was a farce.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10662"
+        "N-10604"
       ],
       "tags": [
         "relevance:tangential"
@@ -2874,7 +2874,7 @@
       "claim": "The host says she is not saying Robinson is guilty of nothing, that it is his gun and weird things are going on, but she does not believe he pulled the trigger.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -2895,7 +2895,7 @@
       "claim": "The host says that to make Robinson the patsy stick, the government needs a lawyer who is working for the prosecution, and that this is what is going on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:core"
@@ -2921,7 +2921,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:core"
@@ -2945,7 +2945,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:core"
@@ -2967,7 +2967,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:core"
@@ -2989,7 +2989,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:core"
@@ -3012,7 +3012,7 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:core"
@@ -3036,7 +3036,7 @@
       "claim": "The host says the gang running everything is also controlling the courts, which is how a prosecution that makes no sense happens.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10160"
+        "N-10154"
       ],
       "tags": [
         "relevance:context"
@@ -3075,8 +3075,8 @@
       "claim": "The host says never in history has a sitting leader of a foreign country sued a podcaster, news member or journalist in a foreign country for defamation and that she is the first.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270",
-        "N-11011"
+        "N-10254",
+        "N-10931"
       ],
       "tags": [
         "relevance:tangential"
@@ -3097,8 +3097,8 @@
       "claim": "The host says Brigitte Macron has hired former federal prosecutors and is hiring a firm here in order to bankrupt her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270",
-        "N-11011"
+        "N-10254",
+        "N-10931"
       ],
       "tags": [
         "relevance:tangential"
@@ -3137,7 +3137,7 @@
       "claim": "The host says she thinks it was the day Charlie was killed that the government quietly voted not to release any Epstein files.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3160,7 +3160,7 @@
         "A-1216.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -3184,7 +3184,7 @@
       "claim": "The host says the ADL creates a list that features people like Charlie Kirk, Turning Point USA and Candace Owens.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153",
+        "N-11069",
         "N-10000"
       ],
       "tags": [
@@ -3209,7 +3209,7 @@
       "claim": "The host says she will show next week strange Ukrainian connections coming across in this case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059"
+        "N-10977"
       ],
       "tags": [
         "relevance:context"
@@ -3229,7 +3229,7 @@
       "claim": "The host says the recent Catholic school shooter was scribbling in a notebook in Cyrillic and asks why Russian speakers are involved in these shootings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11059"
+        "N-10977"
       ],
       "tags": [
         "relevance:context"
@@ -3251,7 +3251,7 @@
         "A-2908.1"
       ],
       "related_nodes": [
-        "N-10153"
+        "N-10148"
       ],
       "tags": [
         "relevance:core"
@@ -3309,7 +3309,7 @@
       "claim": "The host says Megyn Kelly was shown a clip of the host saying it is not left or right anymore and was told she should attack the host as allied with the left.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3395,7 +3395,7 @@
         "A-1217.1"
       ],
       "related_nodes": [
-        "N-10161",
+        "N-10155",
         "N-10026"
       ],
       "tags": [
@@ -3419,7 +3419,7 @@
       "claim": "The host says the ADL will use its influence to call YouTube after this episode, as she says it did last year to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11153"
+        "N-11069"
       ],
       "tags": [
         "relevance:context"
@@ -3441,7 +3441,7 @@
         "A-1219.6"
       ],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:context"
@@ -3461,8 +3461,8 @@
       "claim": "The host says Charlie was explicit that he was left with no choice but to become anti-Israel because of their behavior and what they were doing to him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
-        "N-10148",
+        "N-10053",
+        "N-10143",
         "N-10026"
       ],
       "tags": [
@@ -3484,7 +3484,7 @@
       "claim": "The host says she looked Charlie in the face at the Trump Hotel in DC and told him to be very careful who he takes money from and what he is willing to do for a check.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11157"
+        "N-11073"
       ],
       "tags": [
         "relevance:core"
@@ -3505,7 +3505,7 @@
       "claim": "The host says she predicted pressure on Megyn Kelly yesterday and that articles appeared afterward, as the hornets nest has been kicked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10379"
       ],
       "tags": [
         "relevance:context"
@@ -3526,7 +3526,7 @@
       "claim": "The host says she can recognize a gangster and does not think Charlie believed or saw that until, she thinks, too late.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11157"
+        "N-11073"
       ],
       "tags": [
         "relevance:core"
@@ -3586,7 +3586,7 @@
       "claim": "The host says Mrs. Macron is going to bankrupt her for exposing it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10254"
       ],
       "tags": [
         "relevance:tangential"
@@ -3610,7 +3610,7 @@
       "claim": "The host says the witness tree has gone silent and has never reached out to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10161"
+        "N-10155"
       ],
       "tags": [
         "relevance:core"

@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-779, N-780, N-781, N-782, N-11140, N-11141
+  - Tip-minted Nodes (supplement_2026-10b): N-779, N-780, N-781, N-782, N-11058, N-11059
   - Claim Range: C-11446–C-11505
-  - Reused Nodes Appearing: N-10756, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-353, N-130, N-410, N-430, N-493, N-494, N-568, N-10000, N-10061, N-10074, N-10075, N-10082, N-10132, N-10229, N-10314, N-10316, N-10318, N-10324, N-10337, N-10343, N-10434, N-10524, N-10719, N-10752, N-10975, N-11018, N-11019, N-11054, N-10754, N-10755, N-11142, N-11139
- - New Nodes Introduced: N-10756, N-10757, N-10758
+  - Reused Nodes Appearing: N-10686, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-353, N-130, N-410, N-430, N-493, N-494, N-568, N-10000, N-10058, N-10071, N-10072, N-10079, N-10127, N-10216, N-10295, N-10297, N-10299, N-10303, N-10316, N-10321, N-10404, N-10481, N-10655, N-10682, N-10896, N-10938, N-10939, N-10972, N-10684, N-10685, N-11060, N-11057
+ - New Nodes Introduced: N-10686, N-10687, N-10688
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
 
@@ -34,7 +34,7 @@
 - **Ledger Continuation Summary:**
  - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204
  - New People Nodes Introduced: none (Wave 2: local ids removed)
- - New Investigation Target Nodes Introduced: N-10754, N-10755, N-10756, N-10757, N-10758
+ - New Investigation Target Nodes Introduced: N-10684, N-10685, N-10686, N-10687, N-10688
  - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.
 
 ---
@@ -124,28 +124,28 @@ Footage displayed in episode depicting an individual on the Losee Center rooftop
 - Video Timestamp: 09:55–16:22
 - Discovery Timestamp: 2025-10 (per host statement "I've been holding on to since October")
 - Confidence Level: Medium (provenance asserted, not externally verified)
-- *Related: C-11460, C-11464, C-11465, C-11461, N-10754, N-10755*
+- *Related: C-11460, C-11464, C-11465, C-11461, N-10684, N-10685*
 
 **A-2198.2** Slowed/zoomed segment showing back-and-forth flash during crawl
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 11:12–11:55
 - Discovery Timestamp: 2025-10
-- *Related: C-11461, N-10754*
+- *Related: C-11461, N-10684*
 
 **A-2198.3** Segment showing "throw forward" / unfolding motion as shooter reaches final position
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 12:10–13:59
 - Discovery Timestamp: 2025-10
-- *Related: C-11460, N-10754*
+- *Related: C-11460, N-10684*
 
 **A-2198.4** Pre-recoil segment – extended 50-second hold immediately preceding shooter's rise and sprint
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 13:37–15:53
 - Discovery Timestamp: 2025-10
-- *Related: C-11465, N-10755*
+- *Related: C-11465, N-10685*
 
 ---
 
@@ -159,7 +159,7 @@ Side-by-side reference clip displayed in episode to compare the rooftop crawl mo
 - Video Timestamp: 10:23–11:12
 - Discovery Timestamp: Unknown
 - Confidence Level: Low (provenance unstated)
-- *Related: C-11460, N-10754*
+- *Related: C-11460, N-10684*
 
 ---
 
@@ -173,21 +173,21 @@ Wikipedia article displayed and read aloud in episode, including the "Relationsh
 - Video Timestamp: 29:26–31:35
 - Discovery Timestamp: 2026-07-29
 - Confidence Level: Medium (live Wikipedia content subject to revision)
-- *Related: C-11481, N-10758*
+- *Related: C-11481, N-10688*
 
 **A-2200.2** Wikipedia reference to February 27, 2006 flight (JFK International → London Luton) on Epstein's plane
 - Event Timestamp: 2006-02-27
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee (per host reading)
 - Video Timestamp: ~30:00–30:41
 - Discovery Timestamp: 2026-07-29
-- *Related: C-11482, N-10758*
+- *Related: C-11482, N-10688*
 
 **A-2200.3** Wikipedia reference to March 3, 2006 flight (London → New York) on Epstein's plane, naming Jean-Luc Brunel as one of 12 other passengers
 - Event Timestamp: 2006-03-03
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee
 - Video Timestamp: ~30:41–31:35
 - Discovery Timestamp: 2026-07-29
-- *Related: C-11483, N-10758*
+- *Related: C-11483, N-10688*
 
 ---
 
@@ -201,7 +201,7 @@ Text message read aloud in episode from court-record source.
 - Video Timestamp: 19:07–20:08
 - Discovery Timestamp: Unknown
 - Confidence Level: High (verbatim read; appears to be entered court record)
-- *Related: C-11470, N-10756*
+- *Related: C-11470, N-10686*
 
 ---
 
@@ -297,7 +297,7 @@ Existing organization reused.
 
 ---
 
-**N-10061** CIA Operation Mockingbird
+**N-10058** CIA Operation Mockingbird
 
 Existing organization reused.
 
@@ -305,7 +305,7 @@ Existing organization reused.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Existing place reused.
 
@@ -313,7 +313,7 @@ Existing place reused.
 
 ---
 
-**N-10075** White House
+**N-10072** White House
 
 Existing place reused.
 
@@ -321,7 +321,7 @@ Existing place reused.
 
 ---
 
-**N-10082** CIA
+**N-10079** CIA
 
 Existing organization reused.
 
@@ -329,7 +329,7 @@ Existing organization reused.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Existing topic reused.
 
@@ -337,7 +337,7 @@ Existing topic reused.
 
 ---
 
-**N-10229** Autopsy Report and Evidence Access Asymmetry
+**N-10216** Autopsy Report and Evidence Access Asymmetry
 
 Existing topic reused.
 
@@ -345,7 +345,7 @@ Existing topic reused.
 
 ---
 
-**N-10314** Roof Shooter Video Witness Follow-up
+**N-10295** Roof Shooter Video Witness Follow-up
 
 Existing topic reused.
 
@@ -353,7 +353,7 @@ Existing topic reused.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 Existing topic reused.
 
@@ -361,7 +361,7 @@ Existing topic reused.
 
 ---
 
-**N-10318** Operation Mockingbird 2.0 Allegation
+**N-10299** Operation Mockingbird 2.0 Allegation
 
 Existing topic reused.
 
@@ -369,7 +369,7 @@ Existing topic reused.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Existing topic reused.
 
@@ -377,7 +377,7 @@ Existing topic reused.
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Existing topic reused.
 
@@ -385,7 +385,7 @@ Existing topic reused.
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Existing topic reused.
 
@@ -393,7 +393,7 @@ Existing topic reused.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Existing topic reused.
 
@@ -401,7 +401,7 @@ Existing topic reused.
 
 ---
 
-**N-10524** Faith Kates – Epstein Relationship Scope
+**N-10481** Faith Kates – Epstein Relationship Scope
 
 Existing topic reused.
 
@@ -409,7 +409,7 @@ Existing topic reused.
 
 ---
 
-**N-10719** Prosecution Non-Call of Rooftop Eyewitness
+**N-10655** Prosecution Non-Call of Rooftop Eyewitness
 
 Existing topic reused.
 
@@ -417,7 +417,7 @@ Existing topic reused.
 
 ---
 
-**N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip
+**N-10682** TPUSA White House Meeting Coordination with Netanyahu Trip
 
 Existing topic reused.
 
@@ -425,7 +425,7 @@ Existing topic reused.
 
 ---
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Existing organization reused.
 
@@ -433,7 +433,7 @@ Existing organization reused.
 
 ---
 
-**N-11018** Pleasant Grove Sheriff's Department
+**N-10938** Pleasant Grove Sheriff's Department
 
 Existing organization reused.
 
@@ -441,7 +441,7 @@ Existing organization reused.
 
 ---
 
-**N-11019** Freya Canine Scent Trace
+**N-10939** Freya Canine Scent Trace
 
 Existing topic reused.
 
@@ -449,7 +449,7 @@ Existing topic reused.
 
 ---
 
-**N-11054** Bomb Dog Deployment at the Crime Scene
+**N-10972** Bomb Dog Deployment at the Crime Scene
 
 Existing topic reused.
 
@@ -648,7 +648,7 @@ First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon f
 
 ---
 
-**N-11139** Manhunt Blurry Still Image Release Question
+**N-11057** Manhunt Blurry Still Image Release Question
 
 Node Type: Topic
 The host's question why the feds released a blurry stairwell still during the 33-hour manhunt when clearer footage existed.
@@ -657,7 +657,7 @@ The host's question why the feds released a blurry stairwell still during the 33
 
 ---
 
-**N-11140** Naval Criminal Investigative Service (NCIS)
+**N-11058** Naval Criminal Investigative Service (NCIS)
 
 Node Type: Organization
 Federal agency the host describes as employing Foster Curtiss for 21 years and reporting to the Secretary of the Navy.
@@ -666,7 +666,7 @@ Federal agency the host describes as employing Foster Curtiss for 21 years and r
 
 ---
 
-**N-11141** Foster Curtiss Richmond Inspector General Transition
+**N-11059** Foster Curtiss Richmond Inspector General Transition
 
 Node Type: Topic
 The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.
@@ -675,7 +675,7 @@ The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's 
 
 ---
 
-**N-11142** Zachariah Qureshi Detention and Release Question
+**N-11060** Zachariah Qureshi Detention and Release Question
 
 Node Type: Topic
 The host's questions about why Zachariah Qureshi was arrested and interrogated and then released, and about his father's military app.
@@ -688,7 +688,7 @@ The host's questions about why Zachariah Qureshi was arrested and interrogated a
 
 ### Investigation Target Nodes
 
-**N-10754** Rooftop Movement Tactical Analysis
+**N-10684** Rooftop Movement Tactical Analysis
 
 Persistent question across episodes regarding the technique, training level, and identity markers of the rooftop individual. In this episode, host asserts footage shows a "lateral crawl" consistent with military tactical training.
 
@@ -701,7 +701,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10755** Weapon Discharge Visual Indicators
+**N-10685** Weapon Discharge Visual Indicators
 
 Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mauser family heirloom).
 
@@ -714,7 +714,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10756** K9 Scent Tracking Discrepancy
+**N-10686** K9 Scent Tracking Discrepancy
 
 Host reports two dogs – Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.
 
@@ -727,7 +727,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10757** Weapon Recovery Officer Chain and NCIS Connection
+**N-10687** Weapon Recovery Officer Chain and NCIS Connection
 
 Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtiss (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.
 
@@ -740,7 +740,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10758** Secretary of the Navy Phelan Epstein Flight Connection
+**N-10688** Secretary of the Navy Phelan Epstein Flight Connection
 
 Wikipedia reading indicates Phelan flew twice on Epstein's plane in early 2006, once alongside Jean-Luc Brunel. Host draws broader Epstein-network inferences.
 
@@ -760,7 +760,7 @@ Investigative Pressure: Medium
 Claim Timestamp: 00:09:55–00:11:12
 Claim: The footage shown depicts an individual performing what the host identifies, with reference to a side-by-side military reference clip, as a "lateral crawl."
 Anchored Artifacts: A-2198.1, A-2198.3, A-2199.1
-Related Nodes: N-10754
+Related Nodes: N-10684
 Investigative Direction: Obtain the original unaltered footage, authenticate source chain, and have independent military-tactics experts assess whether the movement matches the lateral-crawl technique as shown in the reference clip.
 
 ---
@@ -770,7 +770,7 @@ Investigative Direction: Obtain the original unaltered footage, authenticate sou
 Claim Timestamp: 00:13:37–00:15:53
 Claim: The host plays about 50 seconds of rooftop footage, asks viewers whether they see a recoil before the shooter gets up and sprints, says she did not see one, and notes a quick flash during the crawl that she is not sure about.
 Anchored Artifacts: A-2198.1, A-2198.4
-Related Nodes: N-10755
+Related Nodes: N-10685
 Investigative Direction: Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type.
 
 ---
@@ -780,7 +780,7 @@ Investigative Direction: Submit original footage for frame-by-frame forensic ana
 Claim Timestamp: 00:13:37–00:15:53
 Claim: The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mauser family heirloom) would be expected to produce a strong one.
 Anchored Artifacts: A-2198.1, A-2198.4
-Related Nodes: N-10755
+Related Nodes: N-10685
 Investigative Direction: Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model.
 
 ---
@@ -790,7 +790,7 @@ Investigative Direction: Frame-by-frame forensic review of original footage; cro
 Claim Timestamp: 00:11:12–00:11:55
 Claim: The host says a flash is visible in the rooftop footage during the individual's crawl, which she runs back and forth, and asks whether it is something being pulled out, a signal mirror, a flag, something in the background or a car.
 Anchored Artifacts: A-2198.1, A-2198.2
-Related Nodes: N-10754
+Related Nodes: N-10684
 Investigative Direction: Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.).
 
 ---
@@ -801,7 +801,7 @@ Claim Timestamp: 00:29:26
 Claim: The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled "Relationship with Jeffrey Epstein."
 Anchored Artifacts: A-2200.1
 Mentions: N-782, N-9
-Related Nodes: N-10758
+Related Nodes: N-10688
 Investigative Direction: Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.
 
 ---
@@ -812,7 +812,7 @@ Claim Timestamp: 00:30:00–00:30:41
 Claim: The Wikipedia article the host reads states that, per passenger manifests released as part of the Epstein files, Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport.
 Anchored Artifacts: A-2200.2
 Mentions: N-782, N-9
-Related Nodes: N-10758
+Related Nodes: N-10688
 Investigative Direction: Verify against the released October 2025 House Committee manifest documents.
 
 ---
@@ -823,7 +823,7 @@ Claim Timestamp: 00:30:41–00:31:35
 Claim: The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.
 Anchored Artifacts: A-2200.3
 Mentions: N-782, N-9, N-529
-Related Nodes: N-10758
+Related Nodes: N-10688
 Investigative Direction: Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.
 
 ---
@@ -834,7 +834,7 @@ Claim Timestamp: 00:19:07–00:20:08
 Claim: Tyler Robinson sent a text message stating, "When I checked the area about 3 hours ago, there was an officer with a canine walking nearby the area. I'm hoping that pooch has a bad sniffer."
 Anchored Artifacts: A-2201.1
 Mentions: N-40
-Related Nodes: N-10756
+Related Nodes: N-10686
 Investigative Direction: Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp.
 
 ---
@@ -877,7 +877,7 @@ Investigative Direction: Review medical examiner reports and chain-of-custody re
 Claim Timestamp: 00:51:51
 Claim: Viewer Jacob Morrison writes that he thinks the rooftop flash was a signal that the shooter was in position. Host concurs: "Sure did look like a professional."
 Anchored Artifacts: A-2198.2, A-2204.7
-Related Nodes: N-10754, N-10755
+Related Nodes: N-10684, N-10685
 Investigative Direction: Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms.
 
 ---
@@ -892,7 +892,7 @@ Transcript Snippet: I was also able to confirm with a White House employee that 
 
 Anchored Artifacts: A-2873.1
 Mentions: N-3, N-14, N-493, N-15, N-494, N-36
-Related Nodes: N-10752, N-10075
+Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: Obtain the White House visitor or scheduling records for the week of the Netanyahu visit and ask TPUSA and the White House to confirm or deny the meeting.
 
@@ -908,7 +908,7 @@ Transcript Snippet: Then today they told me the meeting was suddenly cancelled. 
 
 Anchored Artifacts: A-2873.1
 Mentions: N-3, N-14
-Related Nodes: N-10752, N-10075
+Related Nodes: N-10682, N-10072
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public denial with White House scheduling records and any cancellation notice for the meeting.
 
@@ -940,7 +940,7 @@ Transcript Snippet: the feds during this manhunt released chose to release an ex
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11139
+Related Nodes: N-11057
 Tags: relevance:core
 Investigative Direction: Compare the still released during the manhunt with the court exhibit footage and ask the FBI when the clearer footage was available.
 
@@ -956,7 +956,7 @@ Transcript Snippet: the local police decided to go to Zachariah Kareshi's apartm
 
 Anchored Artifacts: 
 Mentions: N-3, N-410
-Related Nodes: N-11142, N-10074
+Related Nodes: N-11060, N-10071
 Supports: C-7772
 Tags: relevance:core
 Investigative Direction: Obtain Provo and Utah County police records, any search or arrest warrant, and FBI interview records for the Karashy detention.
@@ -973,7 +973,7 @@ Transcript Snippet: There was only two people that were detained. The first was 
 
 Anchored Artifacts: 
 Mentions: N-3, N-42, N-410
-Related Nodes: N-11142
+Related Nodes: N-11060
 Tags: relevance:core
 Investigative Direction: Request the full list of detentions and arrests from Utah County and federal agencies for September 10 to 12, 2025.
 
@@ -989,7 +989,7 @@ Transcript Snippet: this kid who has got a father who is a career military man w
 
 Anchored Artifacts: 
 Mentions: N-3, N-410
-Related Nodes: N-11142
+Related Nodes: N-11060
 Supports: C-7866
 Tags: relevance:core
 Investigative Direction: Check DoD contract awards, SAM.gov and company filings for the Karashy family's app company and any Fort Huachuca work.
@@ -1006,7 +1006,7 @@ Transcript Snippet: He said that the person looked to him like it was a professi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10314, N-10754
+Related Nodes: N-10295, N-10684
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police report and original iPhone file, and the exhibit list from the preliminary hearing.
 
@@ -1022,7 +1022,7 @@ Transcript Snippet: Strangely, they didn't contact him. They weren't curious for
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10719, N-10314
+Related Nodes: N-10655, N-10295
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing witness lists and exhibits, and ask the witness whether investigators contacted him.
 
@@ -1038,7 +1038,7 @@ Transcript Snippet: they never discussed politics and they never discussed Charl
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Review the released Robinson text exchanges and the charging documents for any discussion of politics, Kirk or LGBTQ topics.
 
@@ -1070,7 +1070,7 @@ Transcript Snippet: I was told that at the preliminary hearing they would be for
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10754
+Related Nodes: N-10684
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or her representatives what she told the host about the hearing; compare with the host's earlier accounts.
 
@@ -1086,7 +1086,7 @@ Transcript Snippet: The gun is minimum 3'6 in fully assembled. We can see his ph
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Obtain the rifle's specifications and exhibit photos, and test whether such a rifle could be carried in the jeans shown in court footage.
 
@@ -1102,7 +1102,7 @@ Transcript Snippet: once he hits that rooftop, he is suddenly able to sprint and
 
 Anchored Artifacts: A-2198.1
 Mentions: N-3, N-40
-Related Nodes: N-10343
+Related Nodes: N-10321
 Tags: relevance:core
 Investigative Direction: Compare gait before and after the rooftop frame by frame, with an independent gait or biomechanics expert.
 
@@ -1118,7 +1118,7 @@ Transcript Snippet: will recall that the guy who recorded the footage specifical
 
 Anchored Artifacts: A-2198.4
 Mentions: N-3
-Related Nodes: N-10755, N-10314
+Related Nodes: N-10685, N-10295
 Supports: C-11465
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police statement and audio the host previously aired, and a firearms expert opinion on recoil visible at that distance.
@@ -1135,7 +1135,7 @@ Transcript Snippet: this is supposed to be a German 98 Mauser family heirloom gu
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10755
+Related Nodes: N-10685
 Tags: relevance:core
 Investigative Direction: Check the charging documents and ATF records for the make, model and provenance of the recovered rifle.
 
@@ -1151,7 +1151,7 @@ Transcript Snippet: it had dust in the barrel indicating non-usage
 
 Anchored Artifacts: A-2877.1
 Mentions: N-3
-Related Nodes: N-10337, N-10975
+Related Nodes: N-10316, N-10896
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for the firearms examiner's testimony on barrel condition.
 
@@ -1167,7 +1167,7 @@ Transcript Snippet: his were the most degraded amongst five other sets of prints
 
 Anchored Artifacts: A-2877.1
 Mentions: N-3, N-40
-Related Nodes: N-10337, N-10975
+Related Nodes: N-10316, N-10896
 Tags: relevance:core
 Investigative Direction: Read the ATF latent print testimony and report from the preliminary hearing, including the identification of the five other print sets.
 
@@ -1183,7 +1183,7 @@ Transcript Snippet: The dogs that that were brought to Losi center, right, where
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054, N-10756
+Related Nodes: N-10972, N-10686
 Tags: relevance:core
 Investigative Direction: Obtain K9 deployment logs and handler reports from the Pleasant Grove and Utah County agencies.
 
@@ -1199,7 +1199,7 @@ Transcript Snippet: two dogs were actually looking for explosives. They are the 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054, N-10756
+Related Nodes: N-10972, N-10686
 Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain K9 search logs, times and areas searched on September 10, 2025.
@@ -1216,7 +1216,7 @@ Transcript Snippet: Freya was the bomb dog. I am told that she's the one who had
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11019, N-10756, N-11054
+Related Nodes: N-10939, N-10686, N-10972
 Tags: relevance:core
 Investigative Direction: Request the dogs' names, health and handler logs and compare with the host's earlier episode 48 claims about Freya.
 
@@ -1232,7 +1232,7 @@ Transcript Snippet: one of the feds instructed these two rookie cops who literal
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10756, N-10757
+Related Nodes: N-10686, N-10687
 Tags: relevance:core
 Investigative Direction: Obtain the incident reports and body-camera footage of the gun recovery and the identity of the federal agent who gave the instruction.
 
@@ -1248,7 +1248,7 @@ Transcript Snippet: I'm told Mitchell Curtis of Pleasant Grove Police, 2025 grad
 
 Anchored Artifacts: A-2874.1
 Mentions: N-3, N-779
-Related Nodes: N-10757, N-11018
+Related Nodes: N-10687, N-10938
 Tags: relevance:core
 Investigative Direction: Obtain the police report identifying the discovering officers and Pleasant Grove police hiring records.
 
@@ -1264,7 +1264,7 @@ Transcript Snippet: His father's name is Foster Curtiss. Foster lives in Virgini
 
 Anchored Artifacts: A-2874.1
 Mentions: N-3, N-779, N-780
-Related Nodes: N-10757, N-11140
+Related Nodes: N-10687, N-11058
 Tags: relevance:core
 Investigative Direction: Verify Foster Curtiss's NCIS and Inspector General career through public records, and confirm the father-son relationship.
 
@@ -1280,7 +1280,7 @@ Transcript Snippet: They have a presence in more than 41 countries and on US Nav
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11140
+Related Nodes: N-11058
 Tags: relevance:context
 Investigative Direction: Check NCIS published figures on countries, staffing and jurisdiction.
 
@@ -1296,7 +1296,7 @@ Transcript Snippet: Foster Curtiss after 21 years decided to leave his position 
 
 Anchored Artifacts: A-2875.1
 Mentions: N-3, N-780
-Related Nodes: N-11141, N-11140
+Related Nodes: N-11059, N-11058
 Tags: relevance:core
 Investigative Direction: Check City of Richmond announcements and local news from June 2025 on the interim inspector general appointment.
 
@@ -1312,7 +1312,7 @@ Transcript Snippet: No comments will be made on personnel matters and NDAs were 
 
 Anchored Artifacts: A-2875.1
 Mentions: N-3, N-781
-Related Nodes: N-11141
+Related Nodes: N-11059
 Tags: relevance:core
 Investigative Direction: Find the June 2025 Richmond local news reports and city statements on Osuna's departure.
 
@@ -1328,7 +1328,7 @@ Transcript Snippet: We can now add Mitch and Foster.
 
 Anchored Artifacts: 
 Mentions: N-3, N-779, N-780
-Related Nodes: N-10757, N-11141
+Related Nodes: N-10687, N-11059
 Tags: relevance:core
 Investigative Direction: Compare dates of the Curtis job changes with the gun discovery and with the host's list of new personnel.
 
@@ -1344,7 +1344,7 @@ Transcript Snippet: Trump appointed a guy with literally zero military experienc
 
 Anchored Artifacts: 
 Mentions: N-3, N-782, N-5
-Related Nodes: N-11140, N-10758
+Related Nodes: N-11058, N-10688
 Tags: relevance:context
 Investigative Direction: Check Phelan's official biography and the NCIS organizational chart.
 
@@ -1360,7 +1360,7 @@ Transcript Snippet: by hosting this private fundraiser for Trump in Aspen, which
 
 Anchored Artifacts: 
 Mentions: N-3, N-782, N-5, N-353
-Related Nodes: N-10758
+Related Nodes: N-10688
 Tags: relevance:context
 Investigative Direction: Check press coverage and FEC filings for the Aspen fundraiser and its host.
 
@@ -1376,7 +1376,7 @@ Transcript Snippet: And six peoples whose names are redacted on the version of t
 
 Anchored Artifacts: A-2200.3
 Mentions: N-3, N-5, N-782
-Related Nodes: N-10758, N-10324
+Related Nodes: N-10688, N-10303
 Tags: relevance:context
 Investigative Direction: Obtain the October 2025 House Committee manifest release and check the redactions.
 
@@ -1392,7 +1392,7 @@ Transcript Snippet: he's the second one who probably didn't kill himself, but di
 
 Anchored Artifacts: 
 Mentions: N-3, N-529, N-9
-Related Nodes: N-10758
+Related Nodes: N-10688
 Tags: relevance:context
 Investigative Direction: Check French judicial records on Brunel's death in custody in February 2022.
 
@@ -1408,7 +1408,7 @@ Transcript Snippet: sent Jeffrey Epstein, I think is it 8-year-old triplets for 
 
 Anchored Artifacts: 
 Mentions: N-3, N-529, N-9
-Related Nodes: N-10758
+Related Nodes: N-10688
 Tags: relevance:context
 Investigative Direction: Check court filings and published reporting on Epstein's investment in MC2 and on the birthday allegation; the host herself is unsure of details.
 
@@ -1424,7 +1424,7 @@ Transcript Snippet: also happened to start um be one of the founders of that fir
 
 Anchored Artifacts: 
 Mentions: N-3, N-529, N-568
-Related Nodes: N-10524
+Related Nodes: N-10481
 Tags: relevance:context
 Investigative Direction: Check corporate and press histories of Next Model Management and its founders.
 
@@ -1440,7 +1440,7 @@ Transcript Snippet: We went out to Erika for comment. something that I would ins
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10524
+Related Nodes: N-10481
 Supports: C-10114
 Tags: relevance:core
 Investigative Direction: Obtain the comment request and any reply, and the former Next staff accounts of Erika Kirk's role.
@@ -1473,7 +1473,7 @@ Transcript Snippet: wanted to know where the money was coming from and where it 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10434, N-10132, N-10000
+Related Nodes: N-10404, N-10127, N-10000
 Supports: C-3541, C-3542, C-9512
 Tags: relevance:core
 Investigative Direction: Obtain the September 2, 2025 internal memo on the audit, any engagement records, and TPUSA's statement on its status.
@@ -1506,7 +1506,7 @@ Transcript Snippet: Charlie would not have revealed the private conversation wit
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5, N-82
-Related Nodes: N-10316
+Related Nodes: N-10297
 Tags: relevance:context
 Investigative Direction: Ask the host for the dated message or call record in which Charlie conveyed the request, and ask the White House about it.
 
@@ -1538,7 +1538,7 @@ Transcript Snippet: And we do know that there was a fed overseeing the autopsy. 
 
 Anchored Artifacts: A-2204.4
 Mentions: N-3, N-1
-Related Nodes: N-10229
+Related Nodes: N-10216
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy chain of custody and attendee list from the Utah medical examiner.
 
@@ -1554,7 +1554,7 @@ Transcript Snippet: Every police division that I've spoken to said that the feds
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11054
+Related Nodes: N-10972
 Supports: C-4221
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and tasking logs for SWAT, marshals and K9 units on September 10, 2025.
@@ -1619,7 +1619,7 @@ Transcript Snippet: That's why they launched Operation Mockingbird then and why 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10061, N-10318
+Related Nodes: N-10058, N-10299
 Tags: relevance:context
 Investigative Direction: Compare the language across the influencers' posts and look for documentary evidence of coordination.
 
@@ -1635,7 +1635,7 @@ Transcript Snippet: a literal CIA experiment, by the way, that had took place.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10082
+Related Nodes: N-10079
 Tags: relevance:tangential
 Investigative Direction: The host admits mixing up the details; identify any CIA experiment of this kind, which may be a conflation with the Asch conformity studies.
 
@@ -1800,8 +1800,8 @@ Confidence: high
 
 **Claim Range:** C-11460–C-11502
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-529; Mitchell Curtis, Foster Curtiss and John C. Phelan have no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10136..N-10140 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-529; Mitchell Curtis, Foster Curtiss and John C. Phelan have no CKA person node.
 
-**New Investigation Target Nodes Introduced:** N-10754 (Rooftop Movement Tactical Analysis), N-10755 (Weapon Discharge Visual Indicators), N-10756 (K9 Scent Tracking Discrepancy), N-10757 (Weapon Recovery Officer Chain and NCIS Connection), N-10758 (Secretary of the Navy Phelan Epstein Flight Connection)
+**New Investigation Target Nodes Introduced:** N-10684 (Rooftop Movement Tactical Analysis), N-10685 (Weapon Discharge Visual Indicators), N-10686 (K9 Scent Tracking Discrepancy), N-10687 (Weapon Recovery Officer Chain and NCIS Connection), N-10688 (Secretary of the Navy Phelan Epstein Flight Connection)
 
 **Existing Nodes Reused:** Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.

@@ -15,14 +15,14 @@
 - **Transcript SHA-256**: 24ae4dc831837ca22c3049f10c8b14e92c9e52b19a72a332213431c35e47c3bb
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-11319, N-11320
-  - Hole-minted Nodes (reintro-ep008): N-237, N-10109, N-10148, N-10184, N-10202, N-10343
-  - Tip-minted Nodes (reintro-ep008): N-11183
+  - Tip-minted Nodes (supplement_2026-10f): N-11235, N-11236
+  - Hole-minted Nodes (reintro-ep008): N-237, N-10105, N-10143, N-10176, N-10194, N-10321
+  - Tip-minted Nodes (reintro-ep008): N-11099
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-658–C-741
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154, A-2518
-  - New Nodes Introduced: N-100, N-101, N-102, N-103, N-10092, N-10093, N-10095, N-10096, N-10098, N-10099, N-10100, N-10101, N-10102, N-10103, N-10105, N-10107, N-10108
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-37, N-40, N-42, N-5, N-61, N-69, N-75, N-76, N-77, N-98, N-10000, N-10012, N-10060, N-10014, N-10097, N-99, N-10094, N-10104, N-10106, N-36, N-10026, N-10027, N-10065, N-10139, N-10268, N-10341, N-10342, N-11004, N-68
+  - New Nodes Introduced: N-100, N-101, N-102, N-103, N-10088, N-10089, N-10091, N-10092, N-10094, N-10095, N-10096, N-10097, N-10098, N-10099, N-10101, N-10103, N-10104
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-37, N-40, N-42, N-5, N-61, N-69, N-75, N-76, N-77, N-98, N-10000, N-10012, N-10057, N-10014, N-10093, N-99, N-10090, N-10100, N-10102, N-36, N-10026, N-10027, N-10062, N-10134, N-10252, N-10319, N-10320, N-10924, N-68
 
 ## 2. Executive Summary
 
@@ -84,7 +84,7 @@ Confidence: high
 
 **A-1149.1** Post-shot footage showing a blue-shirted Wirefy-branded individual taking out his phone/texting near Charlie.
 Video Timestamp: 00:17:02–00:17:30
-*Related: C-679, N-10093*
+*Related: C-679, N-10089*
 Transcript Snippet: he's wearing a shirt that says Wirefi... sends a text, takes a photo
 Confidence: high
 
@@ -152,7 +152,7 @@ Confidence: high
 
 **A-1154.1** Text from the rooftop-videographer eyewitness describing a smaller rifle and tactical-gear shooter.
 Video Timestamp: 00:25:26–00:26:11
-*Related: C-670, C-737, N-10099, N-40*
+*Related: C-670, C-737, N-10095, N-40*
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... I would expect was used
 Confidence: medium
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:23:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-684, N-3, N-10343*
+*Related: C-684, N-3, N-10321*
 
 ---
 
@@ -447,7 +447,7 @@ Venue-host university; host notes most eyewitnesses were not UVU students.
 
 ---
 
-**N-10092** Brigham Young University
+**N-10088** Brigham Young University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -459,7 +459,7 @@ Identified as the school attended by one of the two roof-videographer companions
 
 ---
 
-**N-10093** Wirefy
+**N-10089** Wirefy
 
 Node Type: Organization
 Organization Kind: company
@@ -469,7 +469,7 @@ Tour sponsor whose branding was the backdrop and whose employee appeared post-sh
 
 ---
 
-**N-10060** Good Morning America
+**N-10057** Good Morning America
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -481,7 +481,7 @@ Outlet that aired the Tiffany Barker family interview on 9/11.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 Node Type: Organization
 Organization Kind: religious_institution
@@ -491,7 +491,7 @@ Family faith tradition tied to the Barkers per Reddit-sleuth research.
 
 ---
 
-**N-10095** 9/10 Eyewitness Pattern Investigation
+**N-10091** 9/10 Eyewitness Pattern Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -501,7 +501,7 @@ Ongoing thread: most viral-witness accounts trace back to TPUSA or government-ti
 
 ---
 
-**N-10096** Artery Remark Provenance
+**N-10092** Artery Remark Provenance
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -511,7 +511,7 @@ Whether the children's 'hit his artery' description came from observation or par
 
 ---
 
-**N-10097** George Zinn Arrest Location/Timing
+**N-10093** George Zinn Arrest Location/Timing
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -521,7 +521,7 @@ Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedu
 
 ---
 
-**N-10098** Roof Video Provenance Chain
+**N-10094** Roof Video Provenance Chain
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -531,7 +531,7 @@ Tracing the viral roof video through a third-party poster, an unknown Aaron, and
 
 ---
 
-**N-10099** Shooter Description Contradiction
+**N-10095** Shooter Description Contradiction
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -541,7 +541,7 @@ Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative 
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -551,7 +551,7 @@ Whether SD cards were pulled to preserve evidence or to control the record.
 
 ---
 
-**N-10101** Wirefy Post-Shot Individual Identity
+**N-10097** Wirefy Post-Shot Individual Identity
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -561,7 +561,7 @@ Open target: who is the blue-shirt Wirefy representative who texted/photographed
 
 ---
 
-**N-10102** Earpiece Rumor Debunking
+**N-10098** Earpiece Rumor Debunking
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -571,7 +571,7 @@ Host's assertion that what looked like an earpiece was actually Charlie's neckla
 
 ---
 
-**N-10103** Bulletproof Vest Absence
+**N-10099** Bulletproof Vest Absence
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -581,7 +581,7 @@ Host's claim that Charlie was not wearing a vest and that a prior provider had s
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -591,7 +591,7 @@ Was Charlie formally converting vs. attending mass and praying the rosary.
 
 ---
 
-**N-10105** Israel $150M Offer Rumor
+**N-10101** Israel $150M Offer Rumor
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -601,7 +601,7 @@ Whether a $150M foreign-money offer was made to Charlie and refused.
 
 ---
 
-**N-10106** Moral Blackmail by Donors
+**N-10102** Moral Blackmail by Donors
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -611,7 +611,7 @@ Charlie's repeated claim that donors pressured him on who to associate with.
 
 ---
 
-**N-10107** Crime Scene Pavers
+**N-10103** Crime Scene Pavers
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -621,7 +621,7 @@ Open lead: who paid for the unusually quick paver replacement at the venue.
 
 ---
 
-**N-10108** Police Scanner Description
+**N-10104** Police Scanner Description
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -631,7 +631,7 @@ Scanner reportedly described jeans/black shirt/mask/vest/rifle – never made pu
 
 ---
 
-**N-11319** FARA Israel Carve-Out Claim
+**N-11235** FARA Israel Carve-Out Claim
 
 Node Type: Topic
 The host's assertion that the Foreign Agents Registration Act has an exemption for Israel, so agents acting for Israel are not registered and visible the way agents of other countries are.
@@ -640,7 +640,7 @@ The host's assertion that the Foreign Agents Registration Act has an exemption f
 
 ---
 
-**N-11320** Police Scanner Feed Privatization Claim
+**N-11236** Police Scanner Feed Privatization Claim
 
 Node Type: Topic
 The host's claim that the public scanner feed carrying the shooter description was taken private after about 3,000 listeners tuned in.
@@ -665,7 +665,7 @@ Referred to as BB; the host says 150 million was spent by him on Operation Mocki
 
 ---
 
-**N-10065** Caldera Engineering
+**N-10062** Caldera Engineering
 
 Organization whose employees the host says live on the block near the event.
 
@@ -673,7 +673,7 @@ Organization whose employees the host says live on the block near the event.
 
 ---
 
-**N-10184** Caldera Engineering Background Investigation
+**N-10176** Caldera Engineering Background Investigation
 
 Existing topic reused for new claims in this episode.
 
@@ -681,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused for new claims in this episode.
 
@@ -705,7 +705,7 @@ Existing place reused for new claims in this episode.
 
 ---
 
-**N-11183** Kolvet Alex Clark Interview Account Dispute
+**N-11099** Kolvet Alex Clark Interview Account Dispute
 
 Existing topic reused for new claims in this episode.
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 Existing topic reused for new claims in this episode.
 
@@ -721,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10268** AmFest Speaker Removal Pattern
+**N-10252** AmFest Speaker Removal Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -729,7 +729,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10343** Tyler Robinson Rooftop Access Timeline
+**N-10321** Tyler Robinson Rooftop Access Timeline
 
 Existing topic reused for new claims in this episode.
 
@@ -737,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -745,7 +745,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
+**N-10924** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
 
 Existing topic reused for new claims in this episode.
 
@@ -753,7 +753,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10109** FBI Case Closure Pressure
+**N-10105** FBI Case Closure Pressure
 
 Existing topic reused for new claims in this episode.
 
@@ -761,7 +761,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Existing topic reused for new claims in this episode.
 
@@ -769,7 +769,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims in this episode.
 
@@ -794,7 +794,7 @@ Claim: The host says Tiffany Barker intimated that Good Morning America's outrea
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Lyman... Good Morning America reached out to Phil Lyman
 Anchored Artifacts: A-1146.1
 Mentions: N-3, N-61, N-75
-Related Nodes: N-10060, N-10094, N-10095
+Related Nodes: N-10057, N-10090, N-10091
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
 
@@ -807,7 +807,7 @@ Claim: In the Good Morning America clip the host plays, L Steel says she saw blo
 Transcript Snippet: I saw blood everywhere and it hit his artery and then I just we fell to the ground
 Anchored Artifacts: A-1146.1
 Mentions: N-76, N-77, N-1
-Related Nodes: N-10096
+Related Nodes: N-10092
 Confidence: high
 Investigative Direction: Compare the children's GMA statements against the video metadata and any device footage.
 
@@ -821,7 +821,7 @@ Claim: In a follow-up video the host plays, Tiffany Barker says the children saw
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
 Mentions: N-75, N-76, N-77, N-1
-Related Nodes: N-10096
+Related Nodes: N-10092
 Confidence: high
 Investigative Direction: Obtain the original follow-up video and any car-cam footage; verify Tiffany's stated timeline.
 
@@ -834,7 +834,7 @@ Claim: Per the host's timeline, ~40 seconds from the shot until Charlie is broug
 Transcript Snippet: 40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs
 Anchored Artifacts: A-1148.1, A-1148.3, A-1148.4
 Mentions: N-42
-Related Nodes: N-10097
+Related Nodes: N-10093
 Confidence: medium
 Investigative Direction: Independently verify the timeline from official police body-cam and security footage.
 
@@ -847,7 +847,7 @@ Claim: Host shows on-screen footage of Zinn's pants falling while he was walking
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Anchored Artifacts: A-1148.2
 Mentions: N-42
-Related Nodes: N-10097
+Related Nodes: N-10093
 Confidence: high
 Investigative Direction: Cross-check the walking-clip frame-by-frame against law-enforcement timeline records.
 
@@ -861,7 +861,7 @@ Claim: Host says the viral handcuffs photo was shared by a Utah-based individual
 Transcript Snippet: somebody who lived in Utah who advertises with Turning Point USA
 Anchored Artifacts: A-1148.4
 Mentions: N-42
-Related Nodes: N-10000, N-10095
+Related Nodes: N-10000, N-10091
 Confidence: medium
 Investigative Direction: Identify the original posting account via reverse-image search and archive timestamps.
 
@@ -873,7 +873,7 @@ Claim Timestamp: 00:17:18
 Claim: The host says Wirefy branding was the backdrop advertiser behind Charlie Kirk at the event in the clips of it, and that a Wirefy-branded individual was on-site sending texts and photos in the immediate aftermath.
 Transcript Snippet: Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie
 Anchored Artifacts: A-1149.1
-Related Nodes: N-10093, N-10101
+Related Nodes: N-10089, N-10097
 Confidence: high
 Investigative Direction: Identify the blue-shirted Wirefy individual; request their cell metadata; confirm sponsorship ledger.
 
@@ -887,7 +887,7 @@ Claim: Host traces the viral roof footage through the account that posted it, a 
 Transcript Snippet: those two numbers were both Chicago based... that's not making sense to me
 Anchored Artifacts: A-1150.1
 Mentions: N-100
-Related Nodes: N-10012, N-10092, N-10098
+Related Nodes: N-10012, N-10088, N-10094
 Confidence: medium
 Investigative Direction: Subpoena the originating accounts; obtain phone records; verify BYU enrollment of companion.
 
@@ -900,7 +900,7 @@ Claim: Per the rooftop videographer as relayed by the host, he told authorities 
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
 Mentions: N-40
-Related Nodes: N-10014, N-10099
+Related Nodes: N-10014, N-10095
 Supports: C-689
 Confidence: medium
 Investigative Direction: Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.
@@ -915,7 +915,7 @@ Claim: The eyewitness texted the host that the sharp crack and shorter rifle pla
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
 Mentions: N-40
-Related Nodes: N-10014, N-10099
+Related Nodes: N-10014, N-10095
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
 
@@ -928,7 +928,7 @@ Claim: In a clip the host plays, Andrew Kolvet tells Alex Clark that Charlie was
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Anchored Artifacts: A-1151.1
 Mentions: N-1, N-14, N-99
-Related Nodes: N-10104
+Related Nodes: N-10100
 Confidence: high
 Investigative Direction: Cross-check with Charlie's own prior public statements on faith and any church/RCIA enrollment records.
 
@@ -941,7 +941,7 @@ Claim: Kolvet says he never heard of a $150M Israel offer and that TPUSA has con
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Anchored Artifacts: A-1151.2
 Mentions: N-1, N-14
-Related Nodes: N-10105
+Related Nodes: N-10101
 Confidence: high
 Investigative Direction: Audit TPUSA donor records against FARA filings; review cancelled wire correspondence.
 
@@ -954,7 +954,7 @@ Claim: In a clip the host plays, Kolvet says he thinks the team took the SD card
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Anchored Artifacts: A-1151.3
 Mentions: N-14
-Related Nodes: N-10000, N-10100
+Related Nodes: N-10000, N-10096
 Confidence: high
 Investigative Direction: Confirm chain-of-custody; check whether originals were turned over intact to law enforcement.
 
@@ -967,7 +967,7 @@ Claim: Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't a
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Anchored Artifacts: A-1151.4, A-1152.1
 Mentions: N-1, N-3, N-14, N-22
-Related Nodes: N-10106
+Related Nodes: N-10102
 Confidence: high
 Investigative Direction: Identify the donor(s) involved; review any internal TPUSA communications on donor pressure.
 
@@ -980,7 +980,7 @@ Claim: In an August Myrtle Beach clip, Charlie Kirk said he does not stop being 
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Anchored Artifacts: A-1152.1
 Mentions: N-1, N-3
-Related Nodes: N-10106
+Related Nodes: N-10102
 Confidence: high
 Investigative Direction: Verify the clip's date and audience Q&A context.
 
@@ -1018,7 +1018,7 @@ Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public 
 Transcript Snippet: Kash Patel has signified that that is so in his long message that we spoke about yesterday
 Anchored Artifacts: 
 Mentions: N-40, N-69
-Related Nodes: N-10014, N-10099
+Related Nodes: N-10014, N-10095
 Confidence: low
 Investigative Direction: Pull the actual Patel thread and timestamp the posts; verify his role and standing.
 
@@ -1031,7 +1031,7 @@ Claim: Commenter Chris asks who paid for the rapid paver installation at the cri
 Transcript Snippet: Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?
 Anchored Artifacts: 
 Mentions: N-102
-Related Nodes: N-10012, N-10107
+Related Nodes: N-10012, N-10103
 Confidence: low
 Investigative Direction: Request UVU facilities work orders, vendor invoices, and payment records for the post-incident hardscape work.
 
@@ -1044,7 +1044,7 @@ Claim: Commenter MC states a police scanner call right after the shooting descri
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
 Mentions: N-103
-Related Nodes: N-10014, N-10108
+Related Nodes: N-10014, N-10104
 Confidence: low
 Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.
 
@@ -1057,7 +1057,7 @@ Claim: Host states she verified Charlie was not wearing an earpiece; what appear
 Transcript Snippet: no, Charlie was not wearing an earpiece
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10102
+Related Nodes: N-10098
 Confidence: low
 Investigative Direction: Locate the high-resolution footage and clothing item Charlie was wearing to confirm.
 
@@ -1070,7 +1070,7 @@ Claim: Host states she verified Charlie was not wearing a vest, and a prior vest
 Transcript Snippet: he was not wearing a bulletproof vest
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10103
+Related Nodes: N-10099
 Confidence: low
 Investigative Direction: Identify and interview the prior vest provider; review any supplier/contract documentation.
 
@@ -1112,7 +1112,7 @@ Transcript Snippet: but rather people that either had strong ties to the governm
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10095, N-10000, N-10012
+Related Nodes: N-10091, N-10000, N-10012
 Tags: relevance:core
 Investigative Direction: Build a list of every early eyewitness and video sharer, then check each for UVU enrollment and for government or TPUSA employment, donor or advertising ties.
 
@@ -1128,7 +1128,7 @@ Transcript Snippet: And we found out that Caldera Engineering, a lot of the empl
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10065, N-10184, N-10095
+Related Nodes: N-10062, N-10176, N-10091
 Tags: relevance:core
 Investigative Direction: Check property records for the block and the Caldera Engineering owner's holdings and the employer addresses of the witnesses; compare with the earlier Caldera findings.
 
@@ -1144,7 +1144,7 @@ Transcript Snippet: But I thought it was interesting that I kept seeing this the
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10095, N-10012
+Related Nodes: N-10091, N-10012
 Tags: relevance:core
 Investigative Direction: Pull the press interviews from September 10 to 11 and verify the affiliation of each named witness against UVU enrollment records.
 
@@ -1160,7 +1160,7 @@ Transcript Snippet: Uh, the internet sleuths just were on it. Apparently, there'
 
 Anchored Artifacts: A-1146.1
 Mentions: N-3, N-75
-Related Nodes: N-10094, N-10095
+Related Nodes: N-10090, N-10091
 Tags: relevance:context
 Investigative Direction: Locate the Reddit thread and verify the family's LDS leadership and political roles from public records.
 
@@ -1176,7 +1176,7 @@ Transcript Snippet: but she also forgot to mention and maybe there wasn't time t
 
 Anchored Artifacts: A-1146.1
 Mentions: N-3, N-75, N-1
-Related Nodes: N-10060, N-10095
+Related Nodes: N-10057, N-10091
 Tags: relevance:context
 Investigative Direction: Obtain the full GMA interview and any event program or photos linking the Barker family to a Kirk event.
 
@@ -1192,7 +1192,7 @@ Transcript Snippet: My niece that was sitting right behind me in this car filmed
 
 Anchored Artifacts: A-1147.1
 Mentions: N-75
-Related Nodes: N-10096
+Related Nodes: N-10092
 Tags: relevance:core
 Investigative Direction: Ask Barker for the video or its metadata; compare against other crowd footage of the shot from that section.
 
@@ -1208,7 +1208,7 @@ Transcript Snippet: "Glenn Beck said he's stable."
 
 Anchored Artifacts: A-1147.1
 Mentions: N-75, N-237, N-1
-Related Nodes: N-10096
+Related Nodes: N-10092
 Tags: relevance:context
 Investigative Direction: Identify the sender of the text and when Glenn Beck made any statement that Charlie was stable.
 
@@ -1224,7 +1224,7 @@ Transcript Snippet: She has not yet provided any footage that would suggest that
 
 Anchored Artifacts: A-1146.1, A-1147.1
 Mentions: N-3, N-75
-Related Nodes: N-10096
+Related Nodes: N-10092
 Supports: C-667
 Tags: relevance:core
 Investigative Direction: Request the footage Barker shared and the family's phone metadata; compare with the children's GMA statements about the artery.
@@ -1241,7 +1241,7 @@ Transcript Snippet: when we see him sort of making his way down those stairs, we
 
 Anchored Artifacts: A-1148.2
 Mentions: N-3, N-42
-Related Nodes: N-10097
+Related Nodes: N-10093
 Supports: C-674
 Tags: relevance:core
 Investigative Direction: Frame-count the available videos against a synchronised audio of the shot to fix Zinn's position at each second.
@@ -1258,7 +1258,7 @@ Transcript Snippet: And then a minute and 15 seconds after that shot rings out, 
 
 Anchored Artifacts: A-1148.2, A-1148.3
 Mentions: N-3, N-42
-Related Nodes: N-10097
+Related Nodes: N-10093
 Supports: C-674
 Tags: relevance:core
 Investigative Direction: Verify against the original footage and body-cam of Zinn's arrest.
@@ -1275,7 +1275,7 @@ Transcript Snippet: The security guard just kind of shoes him away immediately. 
 
 Anchored Artifacts: A-1149.1
 Mentions: N-3
-Related Nodes: N-10093, N-10101
+Related Nodes: N-10089, N-10097
 Supports: C-679
 Tags: relevance:core
 Investigative Direction: Identify the man in the blue shirt from event photos and the Wirefy roster; obtain the security team's account.
@@ -1292,7 +1292,7 @@ Transcript Snippet: And I would really like to know who that is because we had r
 
 Anchored Artifacts: A-1149.1
 Mentions: N-3
-Related Nodes: N-10093, N-10000, N-10101
+Related Nodes: N-10089, N-10000, N-10097
 Supports: C-679
 Tags: relevance:context
 Investigative Direction: Ask TPUSA for the sponsorship ledger for the fall tour and check Wirefy's incorporation date and sponsorship amounts.
@@ -1309,7 +1309,7 @@ Transcript Snippet: a friend of a friend's like family member sent it.
 
 Anchored Artifacts: A-1150.1
 Mentions: N-3
-Related Nodes: N-10098
+Related Nodes: N-10094
 Supports: C-681
 Tags: relevance:core
 Investigative Direction: Obtain the screenshot of the conversation the poster showed the host and identify the app and the sender.
@@ -1326,7 +1326,7 @@ Transcript Snippet: Neither of them are students of UVU. Uh one of them uh said 
 
 Anchored Artifacts: A-1150.1
 Mentions: N-3
-Related Nodes: N-10092, N-10098, N-10095
+Related Nodes: N-10088, N-10094, N-10091
 Supports: C-681
 Tags: relevance:core
 Investigative Direction: Verify enrollment and identity of both men with the witness, if he consents.
@@ -1343,7 +1343,7 @@ Transcript Snippet: Didn't make sense to him. He said earliest it was 12:22 that
 
 Anchored Artifacts: A-1154.1
 Mentions: N-3
-Related Nodes: N-10343, N-10014, N-10099
+Related Nodes: N-10321, N-10014, N-10095
 Contradicts: C-166
 Tags: relevance:core
 Investigative Direction: Compare the FBI's published roof timeline with the witness's file metadata and any rooftop video with a timestamp.
@@ -1360,7 +1360,7 @@ Transcript Snippet: And it the metadata begins at 12:22 and goes into 12:23, the
 
 Anchored Artifacts: A-3177.1
 Mentions: N-3, N-1
-Related Nodes: N-10343, N-10099
+Related Nodes: N-10321, N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Have a forensic examiner confirm the file's creation and modification times and device clock settings.
@@ -1377,7 +1377,7 @@ Transcript Snippet: that this person looked to him like a foreign agent.
 
 Anchored Artifacts: A-1154.1
 Mentions: N-3
-Related Nodes: N-10099
+Related Nodes: N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Put the question to the witness through the host and compare his training claim and description with the other roof witnesses.
@@ -1394,7 +1394,7 @@ Transcript Snippet: he ran to someone on campus and said, "This is the wrong per
 
 Anchored Artifacts: A-1154.1
 Mentions: N-3, N-42
-Related Nodes: N-10097, N-10099
+Related Nodes: N-10093, N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Identify the person on campus and any record of the witness's contact with campus police or the FBI that day.
@@ -1411,7 +1411,7 @@ Transcript Snippet: So, he also said something that we had not heard, which is t
 
 Anchored Artifacts: A-1154.1
 Mentions: N-3
-Related Nodes: N-10014, N-10099
+Related Nodes: N-10014, N-10095
 Supports: C-689
 Tags: relevance:core
 Investigative Direction: Compare the recovered rifle's make and length with the witness's description of a shorter platform.
@@ -1428,7 +1428,7 @@ Transcript Snippet: We got every other name and basically every other descriptio
 
 Anchored Artifacts: A-1154.1
 Mentions: N-3
-Related Nodes: N-10014, N-10099
+Related Nodes: N-10014, N-10095
 Supports: C-685
 Tags: relevance:core
 Investigative Direction: Request the FBI's and Orem police intake records of witness statements on September 10 and 11.
@@ -1445,7 +1445,7 @@ Transcript Snippet: he's also the one that issued the statement therefore about 
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
-Related Nodes: N-10341, N-10000
+Related Nodes: N-10319, N-10000
 Supports: C-595
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's original statement and compare it with the coroner's and prosecutors' later descriptions of the bullet.
@@ -1462,7 +1462,7 @@ Transcript Snippet: Uh she teased that, you know, that you were going to get unf
 
 Anchored Artifacts: A-3178.1
 Mentions: N-3, N-99
-Related Nodes: N-11183, N-10104, N-10105, N-10100
+Related Nodes: N-11099, N-10100, N-10101, N-10096
 Tags: relevance:context
 Investigative Direction: Retrieve Alex Clark's teaser post and the interview publication date.
 
@@ -1478,7 +1478,7 @@ Transcript Snippet: A because uh Erika's a cradle Catholic. I said Charlie was a
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Supports: C-94, C-93, C-656
 Tags: relevance:context
 Investigative Direction: Collect Erika's and Charlie's posts or photos from Mass and statements from their priest.
@@ -1495,7 +1495,7 @@ Transcript Snippet: take the next step. You're too smart to be a Protestant. Tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Supports: C-94
 Tags: relevance:context
 Investigative Direction: Compare with the host's text exchanges with Charlie about Catholicism.
@@ -1512,7 +1512,7 @@ Transcript Snippet: Well, Erika's a cradle Catholic. Uh but she ended up kind of
 
 Anchored Artifacts: A-1151.1
 Mentions: N-14, N-2
-Related Nodes: N-10104
+Related Nodes: N-10100
 Supports: C-656
 Tags: relevance:context
 Investigative Direction: Compare with Erika's own accounts of her church history.
@@ -1529,7 +1529,7 @@ Transcript Snippet: "Oh, are you guys converting?" And she said, "No, we just li
 
 Anchored Artifacts: A-1151.1, A-3179.1
 Mentions: N-14, N-2, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:context
 Investigative Direction: Find Erika's original post and the comment thread and check the date and wording.
 
@@ -1545,7 +1545,7 @@ Transcript Snippet: I think Charlie, one of one of the things Charlie really hat
 
 Anchored Artifacts: A-1151.1
 Mentions: N-14, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:context
 Investigative Direction: Compare with other statements by Charlie on church format and with TPUSA event worship practices.
 
@@ -1561,7 +1561,7 @@ Transcript Snippet: He loved he loved that. So he had some really big theologica
 
 Anchored Artifacts: A-1151.1
 Mentions: N-14, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Supports: C-695
 Tags: relevance:context
 Investigative Direction: Cross-check against Charlie's public debates on Protestant and Catholic theology.
@@ -1578,7 +1578,7 @@ Transcript Snippet: I never said he started converting to Catholicism. I said th
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Supports: C-655
 Tags: relevance:context
 Investigative Direction: Compare with the host's earlier statements in episodes 2 and 7 about Charlie and Catholicism.
@@ -1595,7 +1595,7 @@ Transcript Snippet: Nobody said the number 150 million or I didn't say the numbe
 
 Anchored Artifacts: 
 Mentions: N-3, N-22
-Related Nodes: N-10105
+Related Nodes: N-10101
 Tags: relevance:context
 Investigative Direction: Trace where the $150 million figure first appeared in connection with an offer to Charlie.
 
@@ -1611,7 +1611,7 @@ Transcript Snippet: I said 150 million was what BB spent on Operation Mocking Pa
 
 Anchored Artifacts: 
 Mentions: N-3, N-36
-Related Nodes: N-10139, N-11004, N-10105
+Related Nodes: N-10134, N-10924, N-10101
 Supports: C-653, C-380
 Tags: relevance:context
 Investigative Direction: Obtain the host's source documentation for the 150 million expenditure and its recipients.
@@ -1644,7 +1644,7 @@ Transcript Snippet: you know, and some foreign people would come up and like dem
 
 Anchored Artifacts: A-1151.2
 Mentions: N-14, N-1
-Related Nodes: N-10105
+Related Nodes: N-10101
 Supports: C-704
 Tags: relevance:context
 Investigative Direction: Ask staff for a log of foreign meeting requests to Charlie in 2025.
@@ -1661,7 +1661,7 @@ Transcript Snippet: but there's this magic carve out for Israel right so when yo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11319, N-10026
+Related Nodes: N-11235, N-10026
 Tags: relevance:context
 Investigative Direction: Review the Foreign Agents Registration Act exemptions and the registration status of pro-Israel advocacy groups.
 
@@ -1677,7 +1677,7 @@ Transcript Snippet: Yes, they do. Uh the question is whether it's Bill Ackman, w
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-98
-Related Nodes: N-10000, N-10105, N-11319
+Related Nodes: N-10000, N-10101, N-11235
 Tags: relevance:context
 Investigative Direction: Review TPUSA donor filings and the donors' registered foreign-agent relationships.
 
@@ -1693,7 +1693,7 @@ Transcript Snippet: And did Charlie Kirk refuse that? I maintain what I said tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10342, N-10105
+Related Nodes: N-10320, N-10101
 Supports: C-654
 Contradicts: C-704
 Tags: relevance:context
@@ -1727,7 +1727,7 @@ Transcript Snippet: I mean I talked to the team on that and they said because we
 
 Anchored Artifacts: A-1151.3
 Mentions: N-14
-Related Nodes: N-10100, N-10000
+Related Nodes: N-10096, N-10000
 Supports: C-711
 Tags: relevance:core
 Investigative Direction: Identify the team member who removed the SD card, when it was handed to law enforcement, and by whom.
@@ -1744,7 +1744,7 @@ Transcript Snippet: And they still have donors. They still have the same donors 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-10106
+Related Nodes: N-10000, N-10102
 Supports: C-386, C-361
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's major donor list before and after September 2025 and review the threats in the host's evidence.
@@ -1761,7 +1761,7 @@ Transcript Snippet: In his own words, by the way, he said that he felt morally b
 
 Anchored Artifacts: A-1152.1
 Mentions: N-3, N-1
-Related Nodes: N-10106
+Related Nodes: N-10102
 Supports: C-715
 Tags: relevance:core
 Investigative Direction: Collect Charlie's recorded statements and donor messages about speaker approvals.
@@ -1778,7 +1778,7 @@ Transcript Snippet: It's like, well, maybe Tucker's going to give two speeches n
 
 Anchored Artifacts: A-1151.4
 Mentions: N-1, N-22
-Related Nodes: N-10268, N-10106
+Related Nodes: N-10252, N-10102
 Tags: relevance:context
 Investigative Direction: Check AmFest 2025 speaker lineup history and any announcements about Tucker Carlson.
 
@@ -1794,7 +1794,7 @@ Transcript Snippet: We told you he said the same thing about when he was in the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10027, N-10106
+Related Nodes: N-10027, N-10102
 Supports: C-100
 Tags: relevance:core
 Investigative Direction: Obtain the host's message evidence that Charlie described the Hamptons meeting as moral blackmail.
@@ -1811,7 +1811,7 @@ Transcript Snippet: "I'm going to bring Candace back. You know, you guys kind of
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10106
+Related Nodes: N-10102
 Tags: relevance:core
 Investigative Direction: Identify who Charlie said this to and any record of the plan to re-host Candace.
 
@@ -1859,7 +1859,7 @@ Transcript Snippet: Whoa, whoa, whoa. That's a left-wing tactic. Don't do that.
 
 Anchored Artifacts: A-1152.1
 Mentions: N-1
-Related Nodes: N-10106
+Related Nodes: N-10102
 Supports: C-719
 Tags: relevance:context
 Investigative Direction: Obtain the full clip and the audience question that prompted it.
@@ -1937,7 +1937,7 @@ Transcript Snippet: It just makes no sense. His public views on the genocide and
 
 Anchored Artifacts: A-3180.1
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10148
+Related Nodes: N-10143
 Tags: relevance:context
 Investigative Direction: Compare Charlie's public statements on Gaza and Netanyahu in 2024 and 2025.
 
@@ -1953,7 +1953,7 @@ Transcript Snippet: MAGA. My dad's extra MAGA. That's supposed to make people th
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10109
+Related Nodes: N-10105
 Tags: relevance:context
 Investigative Direction: Compare the charging documents and FBI messaging about the suspect's family and partner.
 
@@ -1985,7 +1985,7 @@ Transcript Snippet: That's another path that we could pursue. I feel like I thou
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10107
+Related Nodes: N-10103
 Supports: C-732
 Tags: relevance:core
 Investigative Direction: Request UVU facilities and contractor records on the paver work and its funding source.
@@ -2002,7 +2002,7 @@ Transcript Snippet: When they realized that 3,000 people had suddenly tuned in, 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11320, N-10108
+Related Nodes: N-11236, N-10104
 Supports: C-734
 Tags: relevance:core
 Investigative Direction: Ask the dispatch center and the scanner-feed platform when the Orem and Utah County feed was restricted and why.
@@ -2019,7 +2019,7 @@ Transcript Snippet: and we know that you have clear footage, obviously have tons
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10099, N-10014
+Related Nodes: N-10095, N-10014
 Tags: relevance:core
 Investigative Direction: File records requests for rooftop surveillance and video evidence and ask the court to disclose it.
 
@@ -2035,7 +2035,7 @@ Transcript Snippet: I maintain that Tyler Robinson is one piece of this and a lo
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-69
-Related Nodes: N-10202
+Related Nodes: N-10194
 Supports: C-388, C-737
 Tags: relevance:core
 Investigative Direction: Pull Patel's message and see whether it says more people are involved.
@@ -2279,8 +2279,8 @@ Confidence: high
 
 ## 8. Organization Network
 
-OrgLink: N-10000 funded_by N-10093
-OrgLink: N-10083 affiliated_with N-10000
+OrgLink: N-10000 funded_by N-10089
+OrgLink: N-10070 affiliated_with N-10000
 
 ## 9. Role Assertions
 
@@ -2289,16 +2289,16 @@ RoleLink: N-2 holds_role N-10000 title:Chairman and CEO
 
 ## 12. Topic Threading
 
-TopicMention: C-685 N-10099
-TopicMention: C-689 N-10099
-TopicMention: C-695 N-10104
-TopicMention: C-704 N-10105
-TopicMention: C-711 N-10100
-TopicMention: C-715 N-10106
-TopicMention: C-719 N-10106
-TopicMention: C-737 N-10099
-TopicMention: C-732 N-10107
-TopicMention: C-734 N-10108
+TopicMention: C-685 N-10095
+TopicMention: C-689 N-10095
+TopicMention: C-695 N-10100
+TopicMention: C-704 N-10101
+TopicMention: C-711 N-10096
+TopicMention: C-715 N-10102
+TopicMention: C-719 N-10102
+TopicMention: C-737 N-10095
+TopicMention: C-732 N-10103
+TopicMention: C-734 N-10104
 
 ## 13. Meme Graph Links
 

@@ -11,15 +11,15 @@
 - **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11109
-  - Hole-minted Nodes (reintro-ep051): N-386, N-10382, N-10477
-  - Tip-minted Nodes (reintro-ep051): N-672, N-10962
+  - Tip-minted Nodes (supplement_2026-10b): N-11027
+  - Hole-minted Nodes (reintro-ep051): N-386, N-10355
+  - Tip-minted Nodes (reintro-ep051): N-672, N-10883
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4443–C-4515
-  - Tip-minted Nodes (valhalla-split): N-11001
-  - New Nodes Introduced: N-371, N-10375, N-10376, N-10378, N-10379, N-10380
-  - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-190, N-217, N-270, N-363, N-364, N-707, N-10001, N-10026, N-10116, N-10134, N-10282, N-10300, N-10305, N-10326, N-10327, N-10333, N-10340, N-10341, N-10342, N-10349, N-10367, N-10371, N-10372, N-10373, N-10416, N-10447, N-10643, N-10377, N-10900, N-130, N-10446, N-10385
-  - Tip-minted Nodes (wave2): N-10899
+  - Tip-minted Nodes (valhalla-split): N-10921
+  - New Nodes Introduced: N-371, N-10349, N-10351, N-10352, N-10353
+  - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-190, N-217, N-270, N-363, N-364, N-707, N-10001, N-10026, N-10112, N-10129, N-10265, N-10282, N-10287, N-10305, N-10306, N-10312, N-10318, N-10319, N-10320, N-10327, N-10342, N-10345, N-10346, N-10347, N-10389, N-10416, N-10350, N-10821, N-130, N-10415, N-10358
+  - Tip-minted Nodes (wave2): N-10820
   - (see registers)
 
 ---
@@ -47,7 +47,7 @@ Video Timestamp: 00:04:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4445, C-4446, N-277, N-2, N-10376*
+*Related: C-4445, C-4446, N-277, N-2, N-10349*
 
 **A-1568.2** Tim Dillon clip – RFK Jr. / "What's going on" segment
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:09:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4448, N-10376*
+*Related: C-4448, N-10349*
 
 **A-1570** Bari Weiss CBS Hunter Kozak Clip
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4454, N-278, N-326, N-2, N-10377*
+*Related: C-4454, N-278, N-326, N-2, N-10350*
 
 **A-1571** Charlie Kirk / Justice Smith MK Ultra Interview Clip
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:48:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4484, N-10899, N-14, N-2, N-10380*
+*Related: C-4484, N-10820, N-14, N-2, N-10353*
 
 **A-1574** Mitch Snow's Son Interview Clip
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:45:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-4480, N-361, N-266, N-10375*
+*Related: C-4480, N-361, N-266, N-10342*
 
 **A-1575** Daily Wire Re-released Trailer (2021)
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:30:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-4458, N-10900, N-10379*
+*Related: C-4458, N-10821, N-10352*
 
 **A-1576** Top Comments Bundle (from prior episode, read aloud)
 
@@ -163,7 +163,7 @@ Video Timestamp: 01:07:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-4511, N-10376, N-1*
+*Related: C-4511, N-10349, N-1*
 
 **A-1576.2** Army sniper comment read aloud: "Retired army law enforcement here. Paramount Tactical Valhalla. They are an embarrassment to me as a vet."
 
@@ -173,7 +173,7 @@ Video Timestamp: 01:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-4513, N-10899, N-10375, N-11001*
+*Related: C-4513, N-10820, N-10342, N-10921*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:10:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4449, C-4450, N-3, N-217, N-10376*
+*Related: C-4449, C-4450, N-3, N-217, N-10349*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:44:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4477, C-4478, N-3, N-361, N-10327*
+*Related: C-4477, C-4478, N-3, N-361, N-10306*
 
 ---
 
@@ -246,7 +246,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-4448, C-4454, C-4462, C-4511, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-10376*
+*Related: C-4448, C-4454, C-4462, C-4511, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-10349*
 
 **N-14** Andrew Kolvet
 
@@ -257,7 +257,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-4484, A-1573.1, N-10378*
+*Related: C-4484, A-1573.1, N-10351*
 
 **N-277** Tim Dillon
 
@@ -290,7 +290,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-4454, A-1570.1, N-10377*
+*Related: C-4454, A-1570.1, N-10350*
 
 **N-93** Alex Jones
 
@@ -312,9 +312,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-4480, A-1574.1, N-10375*
+*Related: C-4480, A-1574.1, N-10342*
 
-**N-11001** Valhalla VFT
+**N-10921** Valhalla VFT
 
 Node Type: Organization
 Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep51).
@@ -323,7 +323,7 @@ Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Mel
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -346,7 +346,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1574.1, N-10375*
+*Related: A-1574.1, N-10342*
 
 **N-371** Justice Smith
 
@@ -359,7 +359,7 @@ Investigative Pressure: Low
 
 *Related: C-4462, A-1571.1*
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -371,20 +371,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-4458, A-1575.1, N-10379*
+*Related: C-4458, A-1575.1, N-10352*
 
-**N-10375** Fort Huachuca Sighting Verification
-
-Persistent target verifying Mitch Snow's claims about Brian Harpole at a top-brass meeting on the morning of September 9 and the Candlewood Inn sightings on September 8. Partial corroboration via the son's interview (A-1574) and Army sniper comment (A-1576.2).
-
-Evidence Count: 2
-Claim Count: 2
-Episode Count: 1
-Investigative Pressure: High
-
-*Related: C-4480, C-4513, A-1574.1, A-1576.2, N-361, N-266*
-
-**N-10376** AmFest Tent Recreation Approval Chain
+**N-10349** AmFest Tent Recreation Approval Chain
 
 Persistent target tracking who approved the tent recreation at AmFest and whether attendees took informal organizing activity (selfies) with the replica.
 
@@ -395,7 +384,7 @@ Investigative Pressure: High
 
 *Related: C-4445, C-4448, C-4511, A-1568.1, A-1569.1, A-1576.1, N-1*
 
-**N-10377** Hunter Kozak / Kozak Identity Discrepancy
+**N-10350** Hunter Kozak / Kozak Identity Discrepancy
 
 Persistent target verifying the correct spelling and identity of the UVU student introduced by Bari Weiss.
 
@@ -406,7 +395,7 @@ Investigative Pressure: Medium
 
 *Related: C-4454, A-1570.1, N-326*
 
-**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
+**N-10351** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Persistent target verifying whether Andrew Kolvet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.
 
@@ -417,7 +406,7 @@ Investigative Pressure: High
 
 *Related: C-4484, A-1573.1, N-14*
 
-**N-10379** Daily Wire Social Media Reactivation
+**N-10352** Daily Wire Social Media Reactivation
 
 Persistent target verifying why the Daily Wire reactivated Candace's YouTube and Instagram and re-released her 2021 trailer on her own channels.
 
@@ -426,9 +415,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-4458, A-1575.1, N-10900*
+*Related: C-4458, A-1575.1, N-10821*
 
-**N-10380** Erika Kirk September 8 Alibi
+**N-10353** Erika Kirk Sept 8, 2025 Alibi Verification
 
 Persistent target verifying whether Erika Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolvet's written alibi instructions and the phone-call/dinner exchange referenced by host.
 
@@ -600,7 +589,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10116** MK Ultra Continuity Theory
+**N-10112** MK Ultra Continuity Theory
 
 Existing topic reused for new claims in this episode.
 
@@ -608,7 +597,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10134** Hamptons Weekend Retreat
+**N-10129** Hamptons Weekend Retreat
 
 Existing topic reused for new claims in this episode.
 
@@ -616,7 +605,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10282** CBS News
+**N-10265** CBS News
 
 Existing topic reused for new claims in this episode.
 
@@ -624,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Existing topic reused for new claims in this episode.
 
@@ -632,7 +621,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10305** Andrew Kolvet "Lost Millions" Tip Verification
+**N-10287** Andrew Kolvet "Lost Millions" Tip Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -640,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -648,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10327** Incident Report 861-1-2025-MPC446 FOIA Verification
+**N-10306** Incident Report 861-1-2025-MPC446 FOIA Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -656,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10333** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
+**N-10312** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
 
 Existing topic reused for new claims in this episode.
 
@@ -664,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Existing topic reused for new claims in this episode.
 
@@ -672,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 Existing topic reused for new claims in this episode.
 
@@ -680,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for new claims in this episode.
 
@@ -688,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10349** Bari Weiss CBS Interview Question Selection
+**N-10327** Bari Weiss CBS Interview Question Selection
 
 Existing topic reused for new claims in this episode.
 
@@ -696,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10342** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Existing topic reused for new claims in this episode.
 
@@ -704,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10371** Mark Amodei September 9 Alibi Verification
+**N-10345** Mark Amodei September 9 Alibi Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -712,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10372** Cabot Phillips Fort Huachuca Presence Verification
+**N-10346** Cabot Phillips Fort Huachuca Presence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -720,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Existing topic reused for new claims in this episode.
 
@@ -728,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10382** Mark Amodei House Committee Visual Identification
+**N-10355** Mark Amodei House Committee Visual Identification
 
 Existing topic reused for new claims in this episode.
 
@@ -736,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Existing topic reused for new claims in this episode.
 
@@ -744,7 +733,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for new claims in this episode.
 
@@ -752,7 +741,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -760,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10416** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Existing topic reused for new claims in this episode.
 
@@ -768,23 +757,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10477** Erika Kirk Sept 8, 2025 Alibi Verification
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-4466, C-4470, C-4483, C-4489, C-4503, C-4504, C-4505*
-
----
-
-**N-10643** Harpole Fort Huachuca Alibi Question
-
-Existing topic reused for new claims in this episode.
-
-*Related: C-4514, C-4515*
-
----
-
-**N-10962** Venezuela
+**N-10883** Venezuela
 
 Existing topic reused for new claims in this episode.
 
@@ -792,7 +765,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11109** Andrew Kolvet Rogue-Actor Explanation
+**N-11027** Andrew Kolvet Rogue-Actor Explanation
 
 Node Type: Topic
 TPUSA's explanation, as the host reports Erika Kirk told her, that Andrew Kolvet went rogue on statements such as the Superman quote, and the host's later rejection of that explanation as coordinated.
@@ -812,7 +785,7 @@ Claim: In a clip the host plays, comedian Tim Dillon describes Turning Point USA
 Anchored Artifacts: A-1568.1
 Mentions: N-277
 
-Related Nodes: N-10376
+Related Nodes: N-10349
 
 Investigative Direction: Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.
 
@@ -837,7 +810,7 @@ Claim: In a clip the host plays, an on-scene reporter at AmFest says, with the t
 Anchored Artifacts: A-1569.1
 Mentions: N-1
 
-Related Nodes: N-10376
+Related Nodes: N-10349
 
 Investigative Direction: Identify the reporter and outlet, obtain the original broadcast segment, and verify the timeline of when the tent replica was displayed.
 
@@ -874,7 +847,7 @@ Claim: In a Bari Weiss CBS segment clip the host plays, Bari Weiss says that Hun
 Anchored Artifacts: A-1570.1
 Mentions: N-2, N-278, N-326, N-1
 
-Related Nodes: N-10377
+Related Nodes: N-10350
 
 Investigative Direction: Verify the spelling "Cosgrove" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.
 
@@ -911,7 +884,7 @@ Claim: In a Paramount Tactical Valhalla livestream clip the host plays, the stre
 Anchored Artifacts: A-1573.1
 Mentions: N-2, N-14, N-1
 
-Related Nodes: N-10380, N-10899
+Related Nodes: N-10353, N-10820
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 
@@ -924,7 +897,7 @@ Claim: In an interview clip the host plays, a man the host identifies as Mitch S
 Anchored Artifacts: A-1574.1
 Mentions: N-361
 
-Related Nodes: N-10375
+Related Nodes: N-10342
 
 Investigative Direction: Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.
 
@@ -937,7 +910,7 @@ Claim: The host says people messaged her that The Daily Wire had brought back he
 Anchored Artifacts: A-1575.1
 Mentions: N-3
 
-Related Nodes: N-10379, N-10900
+Related Nodes: N-10352, N-10821
 
 Investigative Direction: Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.
 
@@ -950,7 +923,7 @@ Claim: A top fan comment from the prior episode, read aloud on air, characterize
 Anchored Artifacts: A-1576.1
 Mentions: N-1
 
-Related Nodes: N-10376
+Related Nodes: N-10349
 
 Investigative Direction: Verify the comment against the original top-comments thread and identify the commenter's account.
 
@@ -963,7 +936,7 @@ Claim: A top fan comment from the prior episode, read aloud on air, identifies t
 Anchored Artifacts: A-1576.2
 Mentions:
 
-Related Nodes: N-10375, N-10899, N-11001
+Related Nodes: N-10342, N-10820, N-10921
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 
@@ -976,7 +949,7 @@ Claim: The host asserts on air that the Paramount Tactical Valhalla stream's acc
 Anchored Artifacts: A-1573.1
 Mentions: N-14, N-361
 
-Related Nodes: N-10378, N-10899
+Related Nodes: N-10351, N-10820
 
 Investigative Direction: Obtain additional communication between Andrew Kolvet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
 
@@ -992,7 +965,7 @@ Transcript Snippet: And no, of course, it did not happen because I said it could
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10379, N-10900
+Related Nodes: N-10352, N-10821
 Tags: relevance:tangential
 Investigative Direction: Obtain YouTube and Instagram channel ownership and access logs to see who reactivated the accounts and when, and ask the Daily Wire to state whether it had permission.
 
@@ -1008,7 +981,7 @@ Transcript Snippet: Andrew Kolbect, the spokesperson of Turning Point USA, who h
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Obtain the messages or calls between Kolvet and the YouTubers or Alex Jones that the host says exist, and ask Kolvet and TPUSA to confirm or deny the contact.
 
@@ -1024,7 +997,7 @@ Transcript Snippet: Ben Shapiro didn't really like Charlie when he was alive, bu
 
 Anchored Artifacts: 
 Mentions: N-97, N-2, N-1
-Related Nodes: N-10376
+Related Nodes: N-10349
 Tags: relevance:context
 Investigative Direction: Check the AmFest 2025 speaker schedule for Shapiro's slot and TPUSA donor disclosures for any Shapiro or Daily Wire contribution and its date.
 
@@ -1040,7 +1013,7 @@ Transcript Snippet: the answer that I got, you're not going to believe this or y
 
 Anchored Artifacts: A-2835.1, A-1569.1
 Mentions: N-217, N-3
-Related Nodes: N-10376
+Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA insiders the host messaged and obtain the exchange; ask TPUSA and Elizabeth McCoy who approved displaying the tent at AmFest.
 
@@ -1056,7 +1029,7 @@ Transcript Snippet: So, there's no way that they can come out and pretend like E
 
 Anchored Artifacts: A-2835.1
 Mentions: N-2, N-217, N-190
-Related Nodes: N-10376
+Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what Erika Kirk knew about the tent display and when; look for AmFest planning emails or approvals involving Elizabeth McCoy.
 
@@ -1072,7 +1045,7 @@ Transcript Snippet: the most effed up part about that interview was CBS's decisi
 
 Anchored Artifacts: A-1570.1
 Mentions: N-326, N-278, N-2, N-3
-Related Nodes: N-10349, N-10377, N-10282
+Related Nodes: N-10327, N-10350, N-10265
 Supports: C-4454
 Tags: relevance:core
 Investigative Direction: Ask CBS and the event producers who proposed and approved the Hunter Kozak segment and obtain the run-of-show for the interview.
@@ -1089,7 +1062,7 @@ Transcript Snippet: he's the last person on Earth that tried to stress out Charl
 
 Anchored Artifacts: A-1570.1
 Mentions: N-326, N-1, N-3
-Related Nodes: N-10377
+Related Nodes: N-10350
 Tags: relevance:core
 Investigative Direction: Review UVU event video of the question-and-answer exchange to confirm the topic of Cosgrove's question and its timing relative to the shot.
 
@@ -1135,7 +1108,7 @@ Transcript Snippet: You should not then have them follow you to events, calling 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10416, N-10900
+Related Nodes: N-10389, N-10821
 Tags: relevance:tangential
 Investigative Direction: Identify the events and organizers the host says were contacted and obtain any communications or filings by the Daily Wire.
 
@@ -1151,7 +1124,7 @@ Transcript Snippet: the reason they're doing this and doing it on my channel is 
 
 Anchored Artifacts: A-1575.1
 Mentions: N-386, N-3
-Related Nodes: N-10379, N-10385, N-10900
+Related Nodes: N-10352, N-10358, N-10821
 Supports: C-4458
 Tags: relevance:tangential
 Investigative Direction: Look for a Daily Wire announcement of the Brandford show and check its launch date against the account reactivation.
@@ -1168,7 +1141,7 @@ Transcript Snippet: she's apparently an intern at the Daily Wire and she's they'
 
 Anchored Artifacts: 
 Mentions: N-386, N-3
-Related Nodes: N-10385, N-10900
+Related Nodes: N-10358, N-10821
 Tags: relevance:tangential
 Investigative Direction: Confirm Brandford's role and the show's title and format from Daily Wire publicity or the channel itself once it airs.
 
@@ -1184,7 +1157,7 @@ Transcript Snippet: we have a super government that exists above Congress of the
 
 Anchored Artifacts: A-1571.1
 Mentions: N-1, N-371
-Related Nodes: N-10001, N-10116
+Related Nodes: N-10001, N-10112
 Supports: C-4462
 Tags: relevance:context
 Investigative Direction: Locate the original October 2024 Justice Smith interview and verify the quoted words and context.
@@ -1216,7 +1189,7 @@ Transcript Snippet: I was contacted by someone claiming that he was very certain
 
 Anchored Artifacts: 
 Mentions: N-361, N-266, N-2, N-1, N-3
-Related Nodes: N-10375, N-10367
+Related Nodes: N-10342
 Supports: C-4316
 Tags: relevance:core
 Investigative Direction: Verify Mitch Snow's base access and the dates through gate, hotel and incident records; test each identification independently.
@@ -1233,7 +1206,7 @@ Transcript Snippet: he saw, to be clear, Erika Kirk on the 8th leaving the Candl
 
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-364
-Related Nodes: N-10375, N-10333, N-10477
+Related Nodes: N-10342, N-10312, N-10353
 Supports: C-4347
 Tags: relevance:core
 Investigative Direction: Obtain Candlewood Suites registration and security footage for September 8 and Erika Kirk's own whereabouts records for that date.
@@ -1250,7 +1223,7 @@ Transcript Snippet: basically 100% certain he saw Brian Harpool at this top bras
 
 Anchored Artifacts: 
 Mentions: N-361, N-266
-Related Nodes: N-10375, N-10373, N-10326
+Related Nodes: N-10342, N-10347, N-10305
 Supports: C-4348, C-4413
 Tags: relevance:core
 Investigative Direction: Compare Harpole's travel records and phone location data for the morning of September 9 with the JTF building meeting window.
@@ -1267,7 +1240,7 @@ Transcript Snippet: he sees that Cab Phillips looking special force type person 
 
 Anchored Artifacts: 
 Mentions: N-361, N-364, N-266
-Related Nodes: N-10372, N-10373
+Related Nodes: N-10346, N-10347
 Supports: C-4426
 Tags: relevance:core
 Investigative Direction: Check Cabot Phillips's whereabouts, work schedule and travel on September 8 and 9 against Mitch's description.
@@ -1284,7 +1257,7 @@ Transcript Snippet: He sent me all of the receipts to back this up.
 
 Anchored Artifacts: A-2836.1
 Mentions: N-361, N-3
-Related Nodes: N-10375
+Related Nodes: N-10342
 Supports: C-4409
 Tags: relevance:core
 Investigative Direction: Ask the host to publish or independently authenticate the receipts, hotel booking and base-access records.
@@ -1301,7 +1274,7 @@ Transcript Snippet: he did not see Erika at the meeting on the morning of the 9t
 
 Anchored Artifacts: 
 Mentions: N-361, N-2
-Related Nodes: N-10375, N-10477
+Related Nodes: N-10342, N-10353
 Qualifies: C-4466
 Tags: relevance:core
 Investigative Direction: Test the Erika identification separately from the Harpole identification, using hotel and security records.
@@ -1318,7 +1291,7 @@ Transcript Snippet: Quite literally, Alex Jones went on to his show and declared
 
 Anchored Artifacts: A-1572.1
 Mentions: N-93, N-3, N-361
-Related Nodes: N-10378
+Related Nodes: N-10351
 Supports: C-4472
 Tags: relevance:context
 Investigative Direction: Review the host's past coverage of Alex Jones and the date of the InfoWars segment; ask Jones's team what prompted it.
@@ -1335,7 +1308,7 @@ Transcript Snippet: So, you had this Paramount Tactical account in Valhalla who 
 
 Anchored Artifacts: 
 Mentions: N-361
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account and any recording of the call; ask Paramount Tactical to state what was said.
 
@@ -1351,7 +1324,7 @@ Transcript Snippet: they had Ian Carroll calling me and Ian Carroll was being a 
 
 Anchored Artifacts: 
 Mentions: N-130, N-361, N-3
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Ask Ian Carroll to confirm or deny the call and its content; obtain any call logs or messages from the host.
 
@@ -1367,7 +1340,7 @@ Transcript Snippet: I explained to Ian Carroll. I was like, "Ian, this is not ho
 
 Anchored Artifacts: 
 Mentions: N-130, N-3
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Identify the third party and any legal correspondence; confirm whether any cease and desist letter was received.
 
@@ -1383,7 +1356,7 @@ Transcript Snippet: He was never in the military and then they had to admit that
 
 Anchored Artifacts: 
 Mentions: N-361
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch Snow's military service record and the streams in which his past was discussed.
 
@@ -1399,7 +1372,7 @@ Transcript Snippet: So, I then dropped the military police reports, the actual i
 
 Anchored Artifacts: A-2837.1
 Mentions: N-361, N-3
-Related Nodes: N-10327, N-10375
+Related Nodes: N-10306, N-10342
 Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Obtain incident report 861-1-2025-MPC446 through FOIA and authenticate it with the Fort Huachuca provost office.
@@ -1416,7 +1389,7 @@ Transcript Snippet: So, then they pivoted and they said the police report was fa
 
 Anchored Artifacts: A-2837.1
 Mentions: N-361
-Related Nodes: N-10327
+Related Nodes: N-10306
 Tags: relevance:core
 Investigative Direction: Compare the report's license number format with Washington state license formats and request the official report.
 
@@ -1432,7 +1405,7 @@ Transcript Snippet: His son, who he has not spoken to since his son was 2 years 
 
 Anchored Artifacts: A-1574.1
 Mentions: N-361
-Related Nodes: N-10375
+Related Nodes: N-10342
 Supports: C-4480
 Tags: relevance:core
 Investigative Direction: Identify the stream and the son and obtain the unedited interview to check what he said about the September 9 call.
@@ -1449,7 +1422,7 @@ Transcript Snippet: Or if he does walk into the joint task force staff duty, he 
 
 Anchored Artifacts: A-1574.1
 Mentions: N-361
-Related Nodes: N-10375, N-10327
+Related Nodes: N-10342, N-10306
 Tags: relevance:core
 Investigative Direction: Compare this description with the incident report and Mitch's own account of the canine and bomb-threat encounter.
 
@@ -1465,7 +1438,7 @@ Transcript Snippet: everything he told us happened that morning on the 9th happe
 
 Anchored Artifacts: A-1574.1
 Mentions: N-361
-Related Nodes: N-10375
+Related Nodes: N-10342
 Supports: C-4316
 Tags: relevance:core
 Investigative Direction: Corroborate the son's September 9 call with military police records and phone logs.
@@ -1482,7 +1455,7 @@ Transcript Snippet: hosting a stream to rather gloriously and definitively decla
 
 Anchored Artifacts: A-1573.1
 Mentions: N-2
-Related Nodes: N-10380, N-10477
+Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Watch the full stream and compare the dates in the alibi material with the dates in Mitch's allegation.
 
@@ -1498,7 +1471,7 @@ Transcript Snippet: The internet's gone saying she woke up next to Charlie on th
 
 Anchored Artifacts: A-1573.1
 Mentions: N-2, N-1
-Related Nodes: N-10380
+Related Nodes: N-10353
 Supports: C-4484
 Tags: relevance:core
 Investigative Direction: Obtain the unedited stream and the original notes; cross-check the day's schedule with TPUSA and Fox records.
@@ -1515,7 +1488,7 @@ Transcript Snippet: the next one, proof she was with her kids at 8:33 a. m. Paci
 
 Anchored Artifacts: A-1573.1
 Mentions: N-2
-Related Nodes: N-10380
+Related Nodes: N-10353
 Supports: C-4484
 Tags: relevance:core
 Investigative Direction: Obtain the image and its metadata and test the timestamp, time zone and date.
@@ -1532,7 +1505,7 @@ Transcript Snippet: also Alex said that he was in communication with Turning Poi
 
 Anchored Artifacts: A-1572.1
 Mentions: N-14, N-93, N-3
-Related Nodes: N-10378
+Related Nodes: N-10351
 Supports: C-4487
 Tags: relevance:core
 Investigative Direction: Obtain Jones's statement and any messages between Jones and Kolvet; ask both to confirm contact.
@@ -1549,7 +1522,7 @@ Transcript Snippet: Nobody accused Erika of being anywhere on the 9th, but yet w
 
 Anchored Artifacts: A-1573.1
 Mentions: N-2, N-3
-Related Nodes: N-10380, N-10477
+Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Compare Mitch's allegation (the 8th, evening) with the dates the alibi material addresses.
 
@@ -1565,7 +1538,7 @@ Transcript Snippet: I was left under the impression after my meeting with Erika 
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
-Related Nodes: N-11109
+Related Nodes: N-11027
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's statement with Kolvet's public posts; ask TPUSA to clarify what Kolvet did without authorization.
 
@@ -1581,7 +1554,7 @@ Transcript Snippet: Andrew Kolvet had did receive that text from Charlie the nig
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-2
-Related Nodes: N-10340, N-11109
+Related Nodes: N-10318, N-11027
 Supports: C-4063
 Tags: relevance:core
 Investigative Direction: Obtain the text and Erika's account of when she saw Kirk's phone; compare with TPUSA's public statement.
@@ -1598,7 +1571,7 @@ Transcript Snippet: Erika claims Andrew went rogue and also the surgeon went rog
 
 Anchored Artifacts: 
 Mentions: N-2, N-14
-Related Nodes: N-10447, N-10341, N-11109
+Related Nodes: N-10416, N-10319, N-11027
 Tags: relevance:core
 Investigative Direction: Obtain Erika's statements on the surgeon call and any hospital privacy review.
 
@@ -1614,7 +1587,7 @@ Transcript Snippet: But he answered Andrew Kolvet's questions because Erika was 
 
 Anchored Artifacts: 
 Mentions: N-2, N-14
-Related Nodes: N-10447, N-10341
+Related Nodes: N-10416, N-10319
 Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain call records for the three-way call and the surgeon's account via a representative.
@@ -1631,7 +1604,7 @@ Transcript Snippet: that's why I just abstained from telling the public that bec
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10447
+Related Nodes: N-10416
 Tags: relevance:core
 Investigative Direction: Nothing to verify beyond the host's statement; compare with her earlier episode on the surgeon quote.
 
@@ -1647,7 +1620,7 @@ Transcript Snippet: Well, the Hampton's debacle came up when I sat down with Eri
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10134, N-10446
+Related Nodes: N-10129, N-10415
 Supports: C-3192
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list and any photos from the August 2025 Hamptons retreat.
@@ -1664,7 +1637,7 @@ Transcript Snippet: and then she said, "Yeah, I was there when Bibi Netanyahu ca
 
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-3
-Related Nodes: N-10342, N-10446
+Related Nodes: N-10320, N-10415
 Supports: C-82
 Tags: relevance:core
 Investigative Direction: Seek independent confirmation of the call from Netanyahu's office or other attendees.
@@ -1681,7 +1654,7 @@ Transcript Snippet: She said, "Yeah, I don't know who your source is on that, bu
 
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-3
-Related Nodes: N-10342, N-10446
+Related Nodes: N-10320, N-10415
 Contradicts: C-3193
 Tags: relevance:core
 Investigative Direction: Compare Erika's denial with the host's three sources and any donor accounts.
@@ -1698,7 +1671,7 @@ Transcript Snippet: It was Andrew Kolvet it who told me that Bibi Netanyahu offe
 
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-1, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-4114
 Tags: relevance:core
 Investigative Direction: Ask Kolvet whether he told the host this; look for contemporaneous messages.
@@ -1715,7 +1688,7 @@ Transcript Snippet: a source that was not related to Andrew Kolvet it who confir
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-4118
 Tags: relevance:core
 Investigative Direction: Only the host can test this source; seek other attendees of the dinner.
@@ -1732,7 +1705,7 @@ Transcript Snippet: And then I confirmed it for a third time with somebody that 
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-36
-Related Nodes: N-10342, N-10305
+Related Nodes: N-10320, N-10287
 Supports: C-3477
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and those close to him about any financial interest tied to the offer.
@@ -1749,7 +1722,7 @@ Transcript Snippet: I reached out to Andrew Kolbintz directly and I reached out 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10378
+Related Nodes: N-10351
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm the outreach and obtain the messages.
 
@@ -1765,7 +1738,7 @@ Transcript Snippet: and I explained to him that I was now pissed off. Um that I 
 
 Anchored Artifacts: 
 Mentions: N-15, N-3, N-14
-Related Nodes: N-10300
+Related Nodes: N-10282
 Tags: relevance:core
 Investigative Direction: Ask Streiff and TPUSA to confirm the call and the existence of a ceasefire.
 
@@ -1781,7 +1754,7 @@ Transcript Snippet: this was a conversation between her and uh Charlie about din
 
 Anchored Artifacts: A-2838.1
 Mentions: N-15, N-2, N-1, N-361
-Related Nodes: N-10477, N-10380
+Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Obtain the message with metadata unredacted and check its timestamp against Mitch's allegation.
 
@@ -1797,7 +1770,7 @@ Transcript Snippet: He did send me that message, but the contact name was blacke
 
 Anchored Artifacts: A-2838.1
 Mentions: N-15, N-3, N-2
-Related Nodes: N-10477
+Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Request the unredacted message or screen recording and have the contact identified.
 
@@ -1813,7 +1786,7 @@ Transcript Snippet: I followed up about four times. I still have not received th
 
 Anchored Artifacts: A-2838.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10477
+Related Nodes: N-10353
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to supply the unredacted alibi message and its metadata.
 
@@ -1829,7 +1802,7 @@ Transcript Snippet: I was not contacted about them initially. He gave me descrip
 
 Anchored Artifacts: 
 Mentions: N-361, N-364, N-363, N-3
-Related Nodes: N-10372, N-10382
+Related Nodes: N-10346, N-10355
 Supports: C-4421
 Tags: relevance:core
 Investigative Direction: Obtain the photo lineup sets and how many faces were shown to test for suggestion.
@@ -1846,7 +1819,7 @@ Transcript Snippet: I do think that I do know who he saw that was a congressman 
 
 Anchored Artifacts: 
 Mentions: N-3, N-363, N-361
-Related Nodes: N-10371, N-10382
+Related Nodes: N-10345, N-10355
 Qualifies: C-4351
 Tags: relevance:core
 Investigative Direction: Ask the host to name the congressman she believes it was; test that person's schedule for September 9.
@@ -1863,7 +1836,7 @@ Transcript Snippet: Israel is always good to come right out and say, "Yay, this 
 
 Anchored Artifacts: 
 Mentions: N-36, N-672, N-3
-Related Nodes: N-10962, N-10026
+Related Nodes: N-10883, N-10026
 Tags: relevance:tangential
 Investigative Direction: Check Netanyahu's statements about Maduro and Israeli government comments on the operation.
 
@@ -1926,7 +1899,7 @@ Transcript Snippet: I have reached out to Brian Harpole now four times. I've als
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-270
-Related Nodes: N-10373, N-10643
+Related Nodes: N-10347
 Supports: C-4419
 Tags: relevance:core
 Investigative Direction: Ask Harpole and Flood for proof of their location on the morning of September 9.
@@ -1943,7 +1916,7 @@ Transcript Snippet: I feel like it was. I feel at this stage that it was. I othe
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-14
-Related Nodes: N-10373, N-10643
+Related Nodes: N-10347
 Supports: C-4348
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's travel and location records for September 9.

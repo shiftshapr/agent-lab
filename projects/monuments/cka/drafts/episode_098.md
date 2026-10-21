@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-891, N-892, N-893, N-11299
+  - Tip-minted Nodes (supplement_2026-10e): N-891, N-892, N-893, N-11215
   - Hole-minted Nodes (reintro-ep098): N-373, N-430
-  - Tip-minted Nodes (reintro-ep098): N-10910, N-10914
+  - Tip-minted Nodes (reintro-ep098): N-10831, N-10835
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8728–C-8818
-  - New Nodes Introduced: N-10652, N-10654, N-10655, N-10656
+  - New Nodes Introduced: N-10594, N-10596, N-10597, N-10598
   - Hole-minted Nodes (wave3): N-429
-  - Reused Nodes Appearing: N-10900, N-10653, N-10651, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-101, N-117, N-163, N-231, N-270, N-366, N-484, N-485, N-859, N-10000, N-10002, N-10131, N-10238, N-10379, N-10385, N-10406, N-10416, N-10487, N-10631, N-10637, N-10640, N-10661, N-10689, N-10694, N-11116
+  - Reused Nodes Appearing: N-10821, N-10595, N-10593, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-101, N-117, N-163, N-231, N-270, N-366, N-484, N-485, N-859, N-10000, N-10002, N-10126, N-10225, N-10352, N-10358, N-10379, N-10389, N-10452, N-10577, N-10582, N-10585, N-10603, N-10627, N-10632, N-11034
   - (see registers)
 
 ## 2. Executive Summary
@@ -156,7 +156,7 @@ Video Timestamp: 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8738, C-8739, C-8740, N-10900*
+*Related: C-8738, C-8739, C-8740, N-10821*
 
 ---
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:32:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8786, N-10651, N-10656*
+*Related: C-8786, N-10593, N-10598*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:37:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8789, C-8785, N-10652, N-10653*
+*Related: C-8789, C-8785, N-10594, N-10595*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8785, C-8795, C-8796, C-8731, N-10652*
+*Related: C-8785, C-8795, C-8796, C-8731, N-10594*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:40:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8763, N-10653*
+*Related: C-8763, N-10595*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:22:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-8771, N-3, N-10651*
+*Related: C-8771, N-3, N-10593*
 
 ---
 
@@ -282,7 +282,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-8776, N-10656*
+*Related: C-8776, N-10598*
 
 ---
 
@@ -294,7 +294,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:40
 Confidence Level: High
 
-*Related: C-8803, N-10653*
+*Related: C-8803, N-10595*
 
 **A-2040.2** Character Life top comment: "Every time someone tries to sue Candace, all they end up doing is giving the public a magnifying glass to look into their past."
 
@@ -310,7 +310,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:43
 Confidence Level: High
 
-*Related: C-8794, N-10651*
+*Related: C-8794, N-10593*
 
 **A-2040.4** Mike Michaela donation in honor of Theo Von (Russian Blue Cat)
 
@@ -334,7 +334,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:54:14
 Confidence Level: High
 
-*Related: N-10651*
+*Related: N-10593*
 
 **A-2040.7** Arcole $100 donation
 
@@ -350,7 +350,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:47
 Confidence Level: High
 
-*Related: N-10652*
+*Related: N-10594*
 
 **A-2040.9** Natty Nicole donation: "Ben and Larry are discussing human beings"
 
@@ -358,7 +358,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:58:25
 Confidence Level: High
 
-*Related: N-10651*
+*Related: N-10593*
 
 **A-2040.10** Kiwi comment: "the look on Ben's face when God shows him the literal meaning of Isaiah 54:15"
 
@@ -421,7 +421,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-8731, N-10651, N-10656*
+*Related: C-8731, N-10593, N-10598*
 
 ---
 
@@ -436,7 +436,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 Optional Flags: Document partially read aloud; full text not shown
 
-*Related: C-8777, N-10651*
+*Related: C-8777, N-10593*
 
 ---
 
@@ -451,7 +451,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-8803, N-10651*
+*Related: C-8803, N-10593*
 
 ---
 
@@ -465,7 +465,7 @@ Video Timestamp: 00:44:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-8795, N-10653*
+*Related: C-8795, N-10595*
 
 ---
 
@@ -530,7 +530,7 @@ First named by the host at 00:37:02 in episode 98.
 *Related: C-8786, C-8789, C-8785, C-8795*
 
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Investigative target: did the Brian Harpole lawsuit, filed via Sarelson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?
 
@@ -543,7 +543,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10652** Dhillon Law Group / Show Faith by Works Connection
+**N-10594** Dhillon Law Group / Show Faith by Works Connection
 
 Investigative target: is the Dhillon Law Group's representation of Show Faith by Works (FARA) materially relevant to the firm's broader litigation posture in the Harpole case and the host's targeting?
 
@@ -556,7 +556,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10653** Turning Point Geofencing / Show Faith by Works Link
+**N-10595** Turning Point Geofencing / Show Faith by Works Link
 
 Investigative target: did Show Faith by Works (or another FARA-registered entity) partner with Andrew Kolvet / Turning Point USA to geofence the State Farm Stadium memorial, and does the targeting list overlap with Turning Point-affiliated churches (Calvary Chapel / Dream City Church)?
 
@@ -569,7 +569,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10654** Zalman Shapiro Uranium Transfer Verification
+**N-10596** Zalman Shapiro Uranium Transfer Verification
 
 Investigative target: did Zalman Shapiro (alleged uncle) transfer uranium to Israel, and what was the disposition of any related prosecution?
 
@@ -582,7 +582,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10655** Charlie Kirk Assassination Perpetrator Question
+**N-10597** Charlie Kirk Assassination Perpetrator Question
 
 Persistent host assertion that Tyler Robinson did not act alone on a rooftop; flagged as ongoing series target.
 
@@ -595,7 +595,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10656** Charlotte Airport Photo Coordination Question
+**N-10598** Charlotte Airport Photo Coordination Question
 
 Investigative target: did Laura Loomer coordinate with Matt Sarelson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?
 
@@ -832,7 +832,7 @@ Memorial and funeral topic.
 
 ---
 
-**N-10131** PragerU
+**N-10126** PragerU
 
 Organization the host says was not destroyed by her exit.
 
@@ -840,7 +840,7 @@ Organization the host says was not destroyed by her exit.
 
 ---
 
-**N-10238** Daily Wire Intern Covert Recording Operation
+**N-10225** Daily Wire Intern Covert Recording Operation
 
 Existing topic reused for the intern claim.
 
@@ -848,7 +848,7 @@ Existing topic reused for the intern claim.
 
 ---
 
-**N-10379** Daily Wire Social Media Reactivation
+**N-10352** Daily Wire Social Media Reactivation
 
 Existing topic reused for the channels claim.
 
@@ -856,7 +856,7 @@ Existing topic reused for the channels claim.
 
 ---
 
-**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10358** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Existing topic reused for the show claim.
 
@@ -864,7 +864,7 @@ Existing topic reused for the show claim.
 
 ---
 
-**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10379** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Existing topic reused for the clip claim.
 
@@ -872,7 +872,7 @@ Existing topic reused for the clip claim.
 
 ---
 
-**N-10416** Daily Wire Stalking Pattern
+**N-10389** Daily Wire Stalking Pattern
 
 Existing topic reused for the stalking claims.
 
@@ -880,7 +880,7 @@ Existing topic reused for the stalking claims.
 
 ---
 
-**N-10487** Dream City Church Connection Investigation
+**N-10452** Dream City Church Connection Investigation
 
 Existing topic reused for the Dream City claim.
 
@@ -888,7 +888,7 @@ Existing topic reused for the Dream City claim.
 
 ---
 
-**N-10631** George Farmer / Tracy Robinson $6,987 Incident
+**N-10577** George Farmer / Tracy Robinson $6,987 Incident
 
 Existing topic reused for the hit-and-run accusation.
 
@@ -896,7 +896,7 @@ Existing topic reused for the hit-and-run accusation.
 
 ---
 
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 Existing topic reused for the Kolvet seating claim.
 
@@ -904,7 +904,7 @@ Existing topic reused for the Kolvet seating claim.
 
 ---
 
-**N-10640** Trump Truth Social Tweet Authorship/Origin
+**N-10585** Trump Truth Social Tweet Authorship/Origin
 
 Existing topic reused for the photo post.
 
@@ -912,7 +912,7 @@ Existing topic reused for the photo post.
 
 ---
 
-**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
+**N-10603** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)
 
 Existing topic reused for the settlement claims.
 
@@ -920,7 +920,7 @@ Existing topic reused for the settlement claims.
 
 ---
 
-**N-10689** Daily Wire Financial Status and IPO Effort
+**N-10627** Daily Wire Financial Status and IPO Effort
 
 Existing topic reused for the finance claims.
 
@@ -928,7 +928,7 @@ Existing topic reused for the finance claims.
 
 ---
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Existing topic reused for the Flood claim.
 
@@ -936,7 +936,7 @@ Existing topic reused for the Flood claim.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Organization whose layoffs the episode discusses.
 
@@ -944,7 +944,7 @@ Organization whose layoffs the episode discusses.
 
 ---
 
-**N-10910** Dhillon Law Group
+**N-10831** Dhillon Law Group
 
 Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.
 
@@ -952,7 +952,7 @@ Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.
 
 ---
 
-**N-10914** Show Faith by Works LLC
+**N-10835** Show Faith by Works LLC
 
 FARA-registered company running the church geofencing campaign.
 
@@ -960,7 +960,7 @@ FARA-registered company running the church geofencing campaign.
 
 ---
 
-**N-11116** Candace Owens Daily Wire Firing Reasons
+**N-11034** Candace Owens Daily Wire Firing Reasons
 
 Existing topic reused for the Klavan claim.
 
@@ -993,7 +993,7 @@ First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Sh
 
 ---
 
-**N-11299** Bridges Partners / Esther Project
+**N-11215** Bridges Partners / Esther Project
 
 Node Type: Organization
 Firm named in the Times of Israel article as contracted to create an influencer network called the Esther project for Israel's Foreign Ministry.
@@ -1124,7 +1124,7 @@ Claim: Laura Loomer tweeted the host was "having a bad week almost like she got 
 Anchored Artifacts: A-2034.1
 Mentions: N-3, N-60
 
-Related Nodes: N-10651, N-10656
+Related Nodes: N-10593, N-10598
 
 ---
 
@@ -1137,7 +1137,7 @@ Claim: A Times of Israel article reported Israel's Foreign Ministry plans to spe
 Anchored Artifacts: A-2035.1
 Mentions: 
 
-Related Nodes: N-10652, N-10653
+Related Nodes: N-10594, N-10595
 
 Investigative Direction: Cross-check against the original FARA filing in DOJ FARA database.
 
@@ -1152,7 +1152,7 @@ Claim: Per a Times of Israel article the host reads, Show Faith by Works LLC, wh
 Anchored Artifacts: A-2035.1, A-2036.1
 Mentions: N-429
 
-Related Nodes: N-10652
+Related Nodes: N-10594
 
 ---
 
@@ -1165,7 +1165,7 @@ Claim: The host says Show Faith by Works LLC began its FARA contracting registra
 Anchored Artifacts: A-2036.1
 Mentions: N-1
 
-Related Nodes: N-10652
+Related Nodes: N-10594
 
 ---
 
@@ -1178,7 +1178,7 @@ Claim: The host says Show Faith by Works LLC was contracted by Havas Media on th
 Anchored Artifacts: A-2036.1, A-2044.1
 Mentions: N-1
 
-Related Nodes: N-10652, N-10653
+Related Nodes: N-10594, N-10595
 
 Investigative Direction: Confirm contract date and counterparty from FARA filing.
 
@@ -1193,7 +1193,7 @@ Claim: In a clip the host plays from Jesse Watters' program, Andrew Kolvet says 
 Anchored Artifacts: A-2037.1
 Mentions: N-14
 
-Related Nodes: N-10653
+Related Nodes: N-10595
 
 ---
 
@@ -1206,7 +1206,7 @@ Claim: On his Friday show, Ben Shapiro stated that audience members of the host 
 Anchored Artifacts: A-2038.1
 Mentions: N-3, N-97
 
-Related Nodes: N-10651
+Related Nodes: N-10593
 
 ---
 
@@ -1219,7 +1219,7 @@ Claim: On his show, Baron Coleman read a viewer comment stating that a friend of
 Anchored Artifacts: A-2039.1
 Mentions: N-330, N-60
 
-Related Nodes: N-10656
+Related Nodes: N-10598
 
 ---
 
@@ -1232,7 +1232,7 @@ Claim: The host reported observing on Matt Sarelson's X wall that before acknowl
 Anchored Artifacts: A-2041.1
 Mentions: N-859, N-60
 
-Related Nodes: N-10651, N-10656
+Related Nodes: N-10593, N-10598
 
 Investigative Direction: Pull archived Sarelson X timeline via Wayback Machine to verify.
 
@@ -1247,7 +1247,7 @@ Claim: The host says the Brian Harpole lawsuit's final page lists Jacob William 
 Anchored Artifacts: A-2042.1
 Mentions: N-266, N-97
 
-Related Nodes: N-10651
+Related Nodes: N-10593
 
 Investigative Direction: Obtain PACER docket copy of Harpole filing and marriage records.
 
@@ -1262,7 +1262,7 @@ Claim: The host says Jacob William Roth, Ben Shapiro's brother-in-law, retweeted
 Anchored Artifacts: A-2043.1
 Mentions: N-97, N-266
 
-Related Nodes: N-10651
+Related Nodes: N-10593
 
 Investigative Direction: Pull archived Roth X timeline.
 
@@ -1277,7 +1277,7 @@ Claim: The host says the Show Faith by Works FARA filing named churches to be ge
 Anchored Artifacts: A-2044.1, A-2040.1
 Mentions: N-2, N-5
 
-Related Nodes: N-10653
+Related Nodes: N-10595
 
 ---
 
@@ -1290,7 +1290,7 @@ Claim: A live-chat donation comment the host reads hopes the donation will help 
 Anchored Artifacts: A-2040.3
 Mentions: N-266
 
-Related Nodes: N-10651
+Related Nodes: N-10593
 
 ---
 
@@ -1302,7 +1302,7 @@ Claim: The host says the Show Faith by Works FARA paperwork lists Dhillon Law Gr
 
 Anchored Artifacts: A-2036.1
 
-Related Nodes: N-10652
+Related Nodes: N-10594
 
 ---
 
@@ -1316,7 +1316,7 @@ Transcript Snippet: accusing my husband of hiding a hit-and-run, having hit a ma
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-10631
+Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Identify the original posts making the doxing, money-hiding and hit-and-run accusations and any police or court record of the alleged incident.
 
@@ -1332,7 +1332,7 @@ Transcript Snippet: The president posts a photo of me sick. I wasn't even speaki
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-10640
+Related Nodes: N-10585
 Tags: relevance:context
 Investigative Direction: Locate the Truth Social post, its date and time, and the photo's source.
 
@@ -1348,7 +1348,7 @@ Transcript Snippet: it's been sent from the same lawyer who had already been sui
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-859, N-266
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Compare counsel of record on the Harpole filing with counsel in the host's Daily Wire arbitration filings.
 
@@ -1364,7 +1364,7 @@ Transcript Snippet: it's fine that we sent an intern to follow her at her event 
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10238, N-10416
+Related Nodes: N-10225, N-10389
 Tags: relevance:context
 Investigative Direction: Match to the earlier intern recording episodes and any documents on the intern's travel and instructions.
 
@@ -1380,7 +1380,7 @@ Transcript Snippet: Like they were monitoring my likes back when you could see l
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10416, N-10900
+Related Nodes: N-10389, N-10821
 Tags: relevance:context
 Investigative Direction: Obtain the arbitration or court filing that cites a liked tweet as a violation.
 
@@ -1396,7 +1396,7 @@ Transcript Snippet: regarding The Daily Wire layoffs, which began, I am told, on
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900, N-10689
+Related Nodes: N-10821, N-10627
 Tags: relevance:context
 Investigative Direction: Check Tennessee WARN notices and dated reports on the layoffs.
 
@@ -1412,7 +1412,7 @@ Transcript Snippet: I'm talking entire departments, big people at the firm, lawy
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900, N-10689
+Related Nodes: N-10821, N-10627
 Tags: relevance:context
 Investigative Direction: Compare against named departures reported by trade press and executive pages on the company site.
 
@@ -1428,7 +1428,7 @@ Transcript Snippet: I have counted approximately 54 people who lost their jobs f
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Reconcile the host's count with the WARN filing and with reporting of the layoff size.
 
@@ -1444,7 +1444,7 @@ Transcript Snippet: Uh we knew that they had brought in private equity uh someti
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900, N-10689
+Related Nodes: N-10821, N-10627
 Tags: relevance:context
 Investigative Direction: Identify the investor and the date and terms of the investment in public filings or financing announcements.
 
@@ -1460,7 +1460,7 @@ Transcript Snippet: first they shuttered Ben Key Kids, which was obviously massi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Check dated announcements or reports on the Bentkey shutdown and the end of the sports programming.
 
@@ -1476,7 +1476,7 @@ Transcript Snippet: Um people in DC also got fired, so it's not because they're 
 
 Anchored Artifacts: A-2030.1
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Compare the DC staff list before and after the layoffs against the company's statement that it added production staff in DC.
 
@@ -1492,7 +1492,7 @@ Transcript Snippet: Early 2025, co-founder Jeremy Boreing stepped down as co-CEO
 
 Anchored Artifacts: A-2031.1
 Mentions: N-366
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Verify the date of Boreing's change of role and the Bentkey shutdown from company announcements.
 
@@ -1508,7 +1508,7 @@ Transcript Snippet: Another 60,000 subscribers gone in the last 90 days alone.
 
 Anchored Artifacts: A-2031.1
 Mentions: N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Check subscriber history on a third-party analytics service.
 
@@ -1539,7 +1539,7 @@ Transcript Snippet: Matt Walsh's Am I Racist? was a top-grossing documentary of 
 
 Anchored Artifacts: A-2031.1
 Mentions: N-163
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:tangential
 Investigative Direction: Check 2024 documentary box-office rankings.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: I went on to work with Turning Point all the way through unt
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10131
+Related Nodes: N-10000, N-10126
 Tags: relevance:context
 Investigative Direction: Obtain the host's contract with Turning Point and its end date.
 
@@ -1571,7 +1571,7 @@ Transcript Snippet: They brought back my social channels to mock me.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10379, N-10900
+Related Nodes: N-10352, N-10821
 Tags: relevance:context
 Investigative Direction: Compare the dates the Daily Wire reactivated the channels with its posts about the host.
 
@@ -1587,7 +1587,7 @@ Transcript Snippet: they attempted to create an entire show dedicated to making 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10385, N-10900
+Related Nodes: N-10358, N-10821
 Tags: relevance:context
 Investigative Direction: Identify the show and its dates of release and the date the last legal action ended.
 
@@ -1603,7 +1603,7 @@ Transcript Snippet: I wish Andrew Klavan never made the Crisis King video.
 
 Anchored Artifacts: 
 Mentions: N-3, N-231
-Related Nodes: N-11116
+Related Nodes: N-11034
 Tags: relevance:context
 Investigative Direction: Identify the Klavan video and compare its date with the host's firing and the Christ is King dispute.
 
@@ -1680,7 +1680,7 @@ Transcript Snippet: So, no, Tucker Carlson, it is not an excuse to go silent on 
 
 Anchored Artifacts: A-3138.2
 Mentions: N-46, N-22, N-3
-Related Nodes: N-10406
+Related Nodes: N-10379
 Tags: relevance:context
 Investigative Direction: Identify the speaker and original program for the clip.
 
@@ -1696,7 +1696,7 @@ Transcript Snippet: we can reasonably assume that Ben, who's a part owner of the
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10900, N-10689
+Related Nodes: N-10821, N-10627
 Tags: relevance:context
 Investigative Direction: Check Shapiro's ownership stake and board position in company filings.
 
@@ -1744,7 +1744,7 @@ Transcript Snippet: what did Ben do instead of addressing his employees? Instead
 
 Anchored Artifacts: A-2038.1
 Mentions: N-97, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Review the Friday show episode for any mention of the layoffs.
 
@@ -1790,7 +1790,7 @@ Transcript Snippet: after working behind the scenes to encourage and in front of
 
 Anchored Artifacts: A-3138.1
 Mentions: N-97, N-2, N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Supports: C-2494
 Tags: relevance:core
 Investigative Direction: Seek communications between Shapiro's side, Erika Kirk's side and the Harpole lawyers.
@@ -1823,7 +1823,7 @@ Transcript Snippet: the buying of the views, everybody in YouTube world knew Ben
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Seek audit, advertiser or former-employee records on paid view acquisition at the Daily Wire.
 
@@ -1839,7 +1839,7 @@ Transcript Snippet: but I was standing in the Charlotte airport when I received 
 
 Anchored Artifacts: A-2039.1
 Mentions: N-3, N-859
-Related Nodes: N-10656
+Related Nodes: N-10598
 Supports: C-8771
 Tags: relevance:core
 Investigative Direction: Check the email's timestamp and the host's flight records against the commenter's account.
@@ -1856,7 +1856,7 @@ Transcript Snippet: they had first sent this like I don't know demand thing at f
 
 Anchored Artifacts: 
 Mentions: N-3, N-859
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Obtain the demand letter and its date.
 
@@ -1872,7 +1872,7 @@ Transcript Snippet: That signals that there's some coordination between Matt Sar
 
 Anchored Artifacts: A-2039.1
 Mentions: N-859, N-97, N-60
-Related Nodes: N-10656, N-10651
+Related Nodes: N-10598, N-10593
 Tags: relevance:core
 Investigative Direction: Look for communications, payments or contacts between Loomer, Sarelson and the person who allegedly tried to hire a photographer.
 
@@ -1903,7 +1903,7 @@ Transcript Snippet: Dhillon Law Group is Harmeet Dhillon's law firm. She current
 
 Anchored Artifacts: 
 Mentions: N-373
-Related Nodes: N-10910
+Related Nodes: N-10831
 Tags: relevance:context
 Investigative Direction: DOJ biography and confirmation records.
 
@@ -1919,7 +1919,7 @@ Transcript Snippet: I think uh transferred the stake in her in the company to he
 
 Anchored Artifacts: 
 Mentions: N-373
-Related Nodes: N-10910
+Related Nodes: N-10831
 Tags: relevance:context
 Investigative Direction: Ethics disclosures and state business filings for the firm.
 
@@ -1950,7 +1950,7 @@ Transcript Snippet: but her law firm is heavily involved in a lot of legal um is
 
 Anchored Artifacts: 
 Mentions: N-373
-Related Nodes: N-10910
+Related Nodes: N-10831
 Tags: relevance:context
 Investigative Direction: FARA and court dockets listing the firm's clients.
 
@@ -1966,7 +1966,7 @@ Transcript Snippet: Uh the principal of the company, to be clear, is Israel's Mi
 
 Anchored Artifacts: A-2036.1
 Mentions: 
-Related Nodes: N-10914, N-10652
+Related Nodes: N-10835, N-10594
 Tags: relevance:context
 Investigative Direction: Retrieve the FARA registration and its principal field.
 
@@ -1982,7 +1982,7 @@ Transcript Snippet: Their stated purpose is to target Christians in the United S
 
 Anchored Artifacts: A-2036.1
 Mentions: 
-Related Nodes: N-10914, N-10653
+Related Nodes: N-10835, N-10595
 Tags: relevance:context
 Investigative Direction: Retrieve the FARA registration statement and its scope-of-work.
 
@@ -1998,7 +1998,7 @@ Transcript Snippet: will execute what it bills as the quote largest Christian ch
 
 Anchored Artifacts: A-2035.1
 Mentions: 
-Related Nodes: N-10914
+Related Nodes: N-10835
 Tags: relevance:context
 Investigative Direction: Retrieve the Times of Israel article and the FARA exhibit.
 
@@ -2014,7 +2014,7 @@ Transcript Snippet: while dispatching a mobile quote October 7th experience to c
 
 Anchored Artifacts: A-2035.1
 Mentions: 
-Related Nodes: N-10914
+Related Nodes: N-10835
 Tags: relevance:context
 Investigative Direction: Retrieve the FARA exhibit describing the mobile experience.
 
@@ -2045,7 +2045,7 @@ Transcript Snippet: a contract with a firm called Bridges Partners to create an 
 
 Anchored Artifacts: A-2035.1
 Mentions: 
-Related Nodes: N-11299
+Related Nodes: N-11215
 Tags: relevance:context
 Investigative Direction: FARA filing for Bridges Partners.
 
@@ -2092,7 +2092,7 @@ Transcript Snippet: He didn't name who his partners were. Um so we don't know if
 
 Anchored Artifacts: A-2037.1
 Mentions: N-14
-Related Nodes: N-10653, N-10914
+Related Nodes: N-10595, N-10835
 Qualifies: C-8796
 Tags: relevance:core
 Investigative Direction: Ask Turning Point who supplied the memorial geotagging data.
@@ -2109,7 +2109,7 @@ Transcript Snippet: Andrew Kolvet, who happened to actually be sitting with Harm
 
 Anchored Artifacts: 
 Mentions: N-14, N-373
-Related Nodes: N-10637
+Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Obtain the WHCD seating chart and table assignments.
 
@@ -2125,7 +2125,7 @@ Transcript Snippet: they specifically note that they are going to be doing that 
 
 Anchored Artifacts: A-2036.1
 Mentions: 
-Related Nodes: N-10914, N-10653
+Related Nodes: N-10835, N-10595
 Tags: relevance:context
 Investigative Direction: Retrieve the FARA exhibit listing target markets.
 
@@ -2141,7 +2141,7 @@ Transcript Snippet: I would be very surprised if this was not the company that w
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10653, N-10914
+Related Nodes: N-10595, N-10835
 Tags: relevance:core
 Investigative Direction: Identify the vendor Turning Point used for the memorial geotagging and compare with the FARA filing.
 
@@ -2157,7 +2157,7 @@ Transcript Snippet: including the Dream City Church where Charlie spoke at once 
 
 Anchored Artifacts: A-2044.1
 Mentions: N-1
-Related Nodes: N-10487
+Related Nodes: N-10452
 Tags: relevance:core
 Investigative Direction: Dream City Church event calendar and Kirk's speaking dates.
 
@@ -2173,7 +2173,7 @@ Transcript Snippet: email us tips@candaceowens. com, more tips@candaceowens. com
 
 Anchored Artifacts: A-3140.1
 Mentions: N-3
-Related Nodes: N-10653
+Related Nodes: N-10595
 Tags: relevance:context, dia
 Investigative Direction: Review incoming tips on the geofencing vendor.
 
@@ -2204,7 +2204,7 @@ Transcript Snippet: the reason they got into debt, he was just like maniacal.
 
 Anchored Artifacts: 
 Mentions: N-3, N-366
-Related Nodes: N-10900, N-10689
+Related Nodes: N-10821, N-10627
 Tags: relevance:context
 Investigative Direction: Daily Wire financing disclosures.
 
@@ -2220,7 +2220,7 @@ Transcript Snippet: I genuinely did not believe that Brian Harpole or Dan Flood 
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-270
-Related Nodes: N-10651, N-10694
+Related Nodes: N-10593, N-10632
 Tags: relevance:core
 Investigative Direction: Review the host's earlier statements about Harpole and Flood and her outreach message to Harpole.
 
@@ -2251,7 +2251,7 @@ Transcript Snippet: have access to his phone, have access to Dan Flood's phone, 
 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-270, N-2
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:core
 Investigative Direction: Check discovery requests in the Harpole docket.
 
@@ -2299,7 +2299,7 @@ Transcript Snippet: I know that settlement means like the case is over. And yes,
 
 Anchored Artifacts: A-2040.6
 Mentions: N-484, N-485
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Court docket entry of dismissal or settlement.
 
@@ -2315,7 +2315,7 @@ Transcript Snippet: Bryan Freedman, congratulations to you. Also to Melissa Nath
 
 Anchored Artifacts: 
 Mentions: N-485, N-891, N-892
-Related Nodes: N-10661
+Related Nodes: N-10603
 Tags: relevance:tangential
 Investigative Direction: Docket entries listing counsel for Baldoni and Wayfarer.
 
@@ -2331,7 +2331,7 @@ Transcript Snippet: What was his uncle Zalman Shapiro? Am I correct that he's th
 
 Anchored Artifacts: 
 Mentions: N-97, N-893
-Related Nodes: N-10654
+Related Nodes: N-10596
 Tags: relevance:tangential
 Investigative Direction: Check the family relationship and the NUMEC records.
 
@@ -2347,7 +2347,7 @@ Transcript Snippet: I don't think he ever actually was found guilty because they
 
 Anchored Artifacts: 
 Mentions: N-893
-Related Nodes: N-10654
+Related Nodes: N-10596
 Tags: relevance:tangential
 Investigative Direction: Check the outcome of the NUMEC investigation.
 
@@ -2363,7 +2363,7 @@ Transcript Snippet: we're definitely going to find out who was really behind the
 
 Anchored Artifacts: 
 Mentions: N-1, N-40
-Related Nodes: N-10655
+Related Nodes: N-10597
 Supports: C-1958
 Tags: relevance:core
 Investigative Direction: Review the evidence record in the Robinson prosecution.
@@ -2395,7 +2395,7 @@ Transcript Snippet: that he posted that picture of me.
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
-Related Nodes: N-10640
+Related Nodes: N-10585
 Tags: relevance:context
 Investigative Direction: Compare the post's time with the confirmation date.
 

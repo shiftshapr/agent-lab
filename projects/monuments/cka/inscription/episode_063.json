@@ -49,7 +49,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10443"
+            "N-10412"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -68,7 +68,7 @@
           "related_nodes": [
             "N-2",
             "N-15",
-            "N-10444"
+            "N-10413"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
           ],
           "related_nodes": [
             "N-495",
-            "N-10445"
+            "N-10414"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -193,7 +193,7 @@
           ],
           "related_nodes": [
             "N-495",
-            "N-10445"
+            "N-10414"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -401,7 +401,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-10443"
+            "N-10412"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -654,7 +654,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10444"
+        "N-10413"
       ]
     },
     {
@@ -679,13 +679,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10445"
+        "N-10414"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10443",
-      "ref": "N-10443",
+      "@id": "N-10412",
+      "ref": "N-10412",
       "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigative target: tonal and temporal gap between Erika Kirk's upbeat call presentation and the recency of Charlie Kirk's public assassination.",
@@ -709,8 +709,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10444",
-      "ref": "N-10444",
+      "@id": "N-10413",
+      "ref": "N-10413",
       "name": "TPUSA Vision 2030 Documentation Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target: verification of Erika Kirk's claim that Charlie was working on a 2030 strategic plan with Justin and that she possesses his journals documenting it.",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10445",
-      "ref": "N-10445",
+      "@id": "N-10414",
+      "ref": "N-10414",
       "name": "Christian Zionist Threat Message Authorship Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Laurie Cardoza-Moore via audio voice match.",
@@ -1091,8 +1091,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11122",
-      "ref": "N-11122",
+      "@id": "N-11040",
+      "ref": "N-11040",
       "name": "Creative Children's Academy / Quest Academy",
       "type": "organization",
       "description": "Gifted school for preschool through eighth grade, opened in 1982 and renamed Quest Academy in 1999 per the host, who calls it Charlie Kirk's 'X-Men school'; near Palatine, Illinois.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11123",
-      "ref": "N-11123",
+      "@id": "N-11041",
+      "ref": "N-11041",
       "name": "Northrop Grumman",
       "type": "organization",
       "description": "Aerospace and defense contractor the host says is a stone's throw from the academy.",
@@ -1133,8 +1133,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11124",
-      "ref": "N-11124",
+      "@id": "N-11042",
+      "ref": "N-11042",
       "name": "Shaklee Corporation",
       "type": "organization",
       "description": "Supplement company (transcribed 'Shackley') the host says employed Helene Bartz, with an evangelical sales force and a long NASA contract.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11125",
-      "ref": "N-11125",
+      "@id": "N-11043",
+      "ref": "N-11043",
       "name": "NASA",
       "type": "organization",
       "description": "Agency the host connects to the Shaklee contract, the moon landing and mass poisoning theories.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11126",
-      "ref": "N-11126",
+      "@id": "N-11044",
+      "ref": "N-11044",
       "name": "Operation Paperclip",
       "type": "topic",
       "description": "Post-WWII program the host says brought German scientists to the US; invoked in her moon-landing and mind-control commentary.",
@@ -1191,8 +1191,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11127",
-      "ref": "N-11127",
+      "@id": "N-11045",
+      "ref": "N-11045",
       "name": "Kanye West Public Apology",
       "type": "topic",
       "description": "Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizing for harm he caused, as discussed by the host.",
@@ -1289,8 +1289,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1306,8 +1306,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1325,8 +1325,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10211",
-      "ref": "N-10211",
+      "@id": "N-10203",
+      "ref": "N-10203",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1342,9 +1342,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10323",
-      "ref": "N-10323",
-      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
@@ -1361,8 +1361,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1378,8 +1378,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10413",
-      "ref": "N-10413",
+      "@id": "N-10386",
+      "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1395,9 +1395,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10419",
-      "ref": "N-10419",
-      "name": "Erika China Residence Discrepancy",
+      "@id": "N-10392",
+      "ref": "N-10392",
+      "name": "Erika Kirk China Timeline Discrepancy",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
@@ -1412,8 +1412,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1431,25 +1431,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10428",
-      "ref": "N-10428",
-      "name": "Erika Kirk China Timeline Discrepancy",
-      "type": "topic",
-      "description": "Reused existing node; cited by the new claims in this supplement.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-5673"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Topic",
-      "@id": "N-10439",
-      "ref": "N-10439",
+      "@id": "N-10408",
+      "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1468,8 +1451,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10492",
-      "ref": "N-10492",
+      "@id": "N-10456",
+      "ref": "N-10456",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1485,8 +1468,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "organization",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1502,8 +1485,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1521,8 +1504,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10968",
-      "ref": "N-10968",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "The New York Times",
       "type": "organization",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1539,8 +1522,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11033",
-      "ref": "N-11033",
+      "@id": "N-10952",
+      "ref": "N-10952",
       "name": "Project Monarch",
       "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
@@ -1566,7 +1549,7 @@
         "A-1676.1"
       ],
       "related_nodes": [
-        "N-10443"
+        "N-10412"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
@@ -1603,7 +1586,7 @@
         "A-1676.2"
       ],
       "related_nodes": [
-        "N-10443"
+        "N-10412"
       ],
       "tags": [],
       "claim_timestamp": "00:17:30",
@@ -1622,7 +1605,7 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10413"
       ],
       "tags": [],
       "claim_timestamp": "00:20:47",
@@ -1642,7 +1625,7 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10413"
       ],
       "tags": [],
       "claim_timestamp": "00:20:47",
@@ -1732,7 +1715,7 @@
         "A-1681.1"
       ],
       "related_nodes": [
-        "N-10445"
+        "N-10414"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50",
@@ -1868,8 +1851,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10439",
-        "N-10492"
+        "N-10408",
+        "N-10456"
       ],
       "tags": [
         "relevance:core"
@@ -1934,7 +1917,7 @@
       "claim": "The host says the call came about 48 hours after Charlie Kirk's private Catholic funeral mass, which the public was not privy to.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323"
+        "N-10193"
       ],
       "tags": [
         "relevance:core"
@@ -1955,7 +1938,7 @@
       "claim": "The host says top-paying donors were privy to the private funeral mass even though the public was not, and calls that odd.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323",
+        "N-10193",
         "N-10000"
       ],
       "tags": [
@@ -1976,7 +1959,7 @@
       "claim": "The host says she had to go away to Wyoming just to breathe after the assassination, and that she was away for two weeks, so she did not catch until later that Erika's New York Times interview was in person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905"
+        "N-10826"
       ],
       "tags": [
         "relevance:context"
@@ -1999,8 +1982,8 @@
         "A-1679.1"
       ],
       "related_nodes": [
-        "N-10905",
-        "N-10968"
+        "N-10826",
+        "N-10889"
       ],
       "tags": [
         "relevance:core"
@@ -2023,8 +2006,8 @@
         "A-1679.1"
       ],
       "related_nodes": [
-        "N-10905",
-        "N-10968"
+        "N-10826",
+        "N-10889"
       ],
       "tags": [
         "relevance:context"
@@ -2044,7 +2027,7 @@
       "claim": "The host says the funeral mass was held on the 20th at a church at 11:00 a.m., as part of the timeline she is building around the call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10323",
+        "N-10193",
         "N-10002"
       ],
       "tags": [
@@ -2159,7 +2142,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2295,7 +2278,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10443"
+        "N-10412"
       ],
       "tags": [
         "relevance:core"
@@ -2318,7 +2301,7 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10413"
       ],
       "tags": [
         "relevance:core"
@@ -2342,7 +2325,7 @@
         "A-1676.3"
       ],
       "related_nodes": [
-        "N-10444",
+        "N-10413",
         "N-10000"
       ],
       "tags": [
@@ -2367,7 +2350,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10443"
+        "N-10412"
       ],
       "tags": [
         "relevance:core"
@@ -2388,7 +2371,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -2410,8 +2393,8 @@
       "claim": "The host says that on her earlier episode she posited that the military kept its eye on 'gate' (gifted) children, and that Charlie Kirk's life may therefore have been a literal Truman Show once they realized he was extraordinarily gifted.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422",
-        "N-10413"
+        "N-10395",
+        "N-10386"
       ],
       "tags": [
         "relevance:tangential"
@@ -2494,7 +2477,7 @@
       "claim": "The host says Bill Montgomery was in the Air Force reserves and was also from Lincoln, Nebraska, and that many people in this story are tied to Lincoln, Nebraska.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10211"
+        "N-10203"
       ],
       "tags": [
         "relevance:core"
@@ -2515,7 +2498,7 @@
       "claim": "The host says not much is known about what Montgomery did in the military, but that he moved to the Chicago area afterward, the area where Charlie's gifted school was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:core"
@@ -2537,8 +2520,8 @@
       "claim": "The host says Charlie's 'X-Men School' was Creative Children's Academy, which opened in 1982 for the academically gifted from preschool through eighth grade and officially changed its name to Quest Academy in 1999.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122",
-        "N-10422"
+        "N-11040",
+        "N-10395"
       ],
       "tags": [
         "relevance:context"
@@ -2559,7 +2542,7 @@
       "claim": "The host says a past article states that the academy receives corporate and private funding, and that she wants to know which corporations funded it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2579,8 +2562,8 @@
       "claim": "The host says the academy is a stone's throw from Northrop Grumman, the aerospace and defense contractor with federal contracts dating back to World War II, that it came up when she researched the area in Palatine, Illinois, and that it may mean nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122",
-        "N-11123"
+        "N-11040",
+        "N-11041"
       ],
       "tags": [
         "relevance:context"
@@ -2600,7 +2583,7 @@
       "claim": "The host says Creative Children's Academy was founded by a woman named Helene Bartz, whose husband is Reverend Robert Bartz of Arlington Heights.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2623,7 +2606,7 @@
         "A-2847.1"
       ],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2669,7 +2652,7 @@
         "A-2847.1"
       ],
       "related_nodes": [
-        "N-11122"
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2693,7 +2676,7 @@
         "A-2847.1"
       ],
       "related_nodes": [
-        "N-11124"
+        "N-11042"
       ],
       "tags": [
         "relevance:context"
@@ -2717,7 +2700,7 @@
       "claim": "The host says the Shaklee Corporation (transcribed 'Shackley'), which still exists, was the first company that ever created a multivitamin in America and commanded an evangelical sales force.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11124"
+        "N-11042"
       ],
       "tags": [
         "relevance:context"
@@ -2737,8 +2720,8 @@
       "claim": "The host says Shaklee grew into a massive company that engaged in a 25-year contract with NASA for supplements that astronauts could take to space.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11124",
-        "N-11125"
+        "N-11042",
+        "N-11043"
       ],
       "tags": [
         "relevance:context"
@@ -2758,8 +2741,8 @@
       "claim": "The host says she was able to confirm that Helene Bartz, before starting the school, worked at Shaklee and actually ran the Shaklee Center in Arlington Heights.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11124",
-        "N-11122"
+        "N-11042",
+        "N-11040"
       ],
       "tags": [
         "relevance:context"
@@ -2780,8 +2763,8 @@
       "claim": "The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that, because his mother refused, they instead put him into the special school.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11122",
-        "N-10422"
+        "N-11040",
+        "N-10395"
       ],
       "tags": [
         "relevance:core"
@@ -2828,7 +2811,7 @@
       "claim": "The host says Operation Paperclip was when the US brought scientists, whom she calls Nazis, from Germany, and that the CIA did this on the justification that it led to the Apollo program.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11126"
+        "N-11044"
       ],
       "tags": [
         "relevance:tangential"
@@ -2848,8 +2831,8 @@
       "claim": "The host says she does not believe the US went to the moon, and wonders what the imported scientists were actually brought over for.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11125",
-        "N-11126"
+        "N-11043",
+        "N-11044"
       ],
       "tags": [
         "relevance:tangential"
@@ -2869,7 +2852,7 @@
       "claim": "The host says Project Monarch was the precursor to MK Ultra, in which children were intentionally harmed to abuse people into compliance and mind control, and that she believes people who are mind-controlled slaves are among us.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11033",
+        "N-10952",
         "N-10001"
       ],
       "tags": [
@@ -2892,8 +2875,8 @@
         "A-2849.1"
       ],
       "related_nodes": [
-        "N-10445",
-        "N-10209"
+        "N-10414",
+        "N-10201"
       ],
       "tags": [
         "relevance:core"
@@ -2916,8 +2899,8 @@
         "A-1681.1"
       ],
       "related_nodes": [
-        "N-10445",
-        "N-10209"
+        "N-10414",
+        "N-10201"
       ],
       "tags": [
         "relevance:core"
@@ -2941,8 +2924,8 @@
         "A-1681.1"
       ],
       "related_nodes": [
-        "N-10445",
-        "N-10209"
+        "N-10414",
+        "N-10201"
       ],
       "tags": [
         "relevance:core"
@@ -2989,7 +2972,7 @@
         "A-2850.1"
       ],
       "related_nodes": [
-        "N-11125"
+        "N-11043"
       ],
       "tags": [
         "relevance:context"
@@ -3034,7 +3017,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10197"
+        "N-10189"
       ],
       "tags": [
         "relevance:context"
@@ -3074,7 +3057,7 @@
         "A-1683.1"
       ],
       "related_nodes": [
-        "N-11127"
+        "N-11045"
       ],
       "tags": [
         "relevance:tangential"
@@ -3097,7 +3080,7 @@
         "A-1684.1"
       ],
       "related_nodes": [
-        "N-11127"
+        "N-11045"
       ],
       "tags": [
         "relevance:tangential"
@@ -3118,7 +3101,7 @@
       "claim": "The host says Ye is like a brother to her, that she will support him in what he does and speak to him directly if she does not, and that his apology has nothing to do with her viewpoints on Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11127"
+        "N-11045"
       ],
       "tags": [
         "relevance:tangential"
@@ -3139,8 +3122,7 @@
       "claim": "The host says Erika Kirk has said things that are simply not true, giving the example 'I lived in China', and says she never lived in China.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10419",
-        "N-10428"
+        "N-10392"
       ],
       "tags": [
         "relevance:core"
@@ -3180,7 +3162,7 @@
       "claim": "The host says that her team caught Andrew Kolvet with the Paramount Tactical tweet, and that this is when it became obvious to her that Erika is orchestrating a lot behind the scenes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -3202,7 +3184,7 @@
       "claim": "The host says the fired employees' feedback was that they had no access to Erika and that she did not feel like Charlie, who she says felt accessible.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10439"
+        "N-10408"
       ],
       "tags": [
         "relevance:core"
@@ -3284,7 +3266,7 @@
       "claim": "The host says that during the Korean War, as she learned in a book she calls the chaos book, the US was experimenting with spraying people and products, and that she believes the true reason NASA came together was mass poisoning of people.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11125"
+        "N-11043"
       ],
       "tags": [
         "relevance:tangential"
@@ -3304,7 +3286,7 @@
       "claim": "The host says she is less inclined to believe that Andrew Kolvet and Dan Flood did not tell Erika afterward that she had to rely on Charlie's text messages, since the feds would have asked whether Charlie had fears and informed the next of kin, and since Erika as chairman and CEO could presumably read the texts herself.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"

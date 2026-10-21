@@ -16,7 +16,7 @@
   
 (none – Wave 2 removed local spray rows; persons cited via Mentions)
   
-  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10056, N-10118, N-10389, N-10415, N-10704, N-11014, N-11059
+  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10053, N-10114, N-10362, N-10388, N-10640, N-10934, N-10977
 
 # Episode Analysis – CKA 150
 
@@ -400,7 +400,7 @@ Place reused for the 2018 trip and the pressure claim.
 
 ---
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Node Type: Topic
 Existing topic reused for the political pressure claim.
@@ -409,7 +409,7 @@ Existing topic reused for the political pressure claim.
 
 ---
 
-**N-10118** Candace UK Premonition / Husband Meeting
+**N-10114** Candace UK Premonition / Husband Meeting
 
 Node Type: Topic
 Existing topic reused for the unplanned London trip.
@@ -418,7 +418,7 @@ Existing topic reused for the unplanned London trip.
 
 ---
 
-**N-10389** Charlie Kirk Premonition Dreams
+**N-10362** Charlie Kirk Premonition Dreams
 
 Node Type: Topic
 Existing topic reused for Kirk's alleged dreams of his death.
@@ -427,7 +427,7 @@ Existing topic reused for Kirk's alleged dreams of his death.
 
 ---
 
-**N-10415** Charlie Kirk Premonition Pattern
+**N-10388** Charlie Kirk Premonition Pattern
 
 Node Type: Topic
 Existing topic reused for the 2018 statements and the written choice.
@@ -436,7 +436,7 @@ Existing topic reused for the 2018 statements and the written choice.
 
 ---
 
-**N-10704** Mossad "Truman Show" Analogy Application
+**N-10640** Mossad "Truman Show" Analogy Application
 
 Node Type: Topic
 Existing topic reused for the Truman Show remark.
@@ -445,7 +445,7 @@ Existing topic reused for the Truman Show remark.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 Node Type: Topic
 Existing topic reused for the sale of items in Kirk's name.
@@ -454,7 +454,7 @@ Existing topic reused for the sale of items in Kirk's name.
 
 ---
 
-**N-11059** Russian-Speaking Turning Point Network
+**N-10977** Russian-Speaking Turning Point Network
 
 Node Type: Topic
 Existing topic reused for the Russian speakers at the memorial.
@@ -725,7 +725,7 @@ Transcript Snippet: You know, before we even found out that you didn't make it, 
 
 Anchored Artifacts: A-2351.1
 Mentions: N-1, N-3, N-30
-Related Nodes: N-10389
+Related Nodes: N-10362
 Tags: relevance:core
 Investigative Direction: Ask the host and George for the date and circumstances of the conversation, and look for any message or call log from that morning.
 
@@ -803,7 +803,7 @@ Transcript Snippet: people who hated you, selling t-shirts and mugs in your name
 
 Anchored Artifacts: A-2351.1
 Mentions: N-1
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:context
 Investigative Direction: Identify the vendors and products the host means; compare with the existing TPUSA post-assassination merchandise revenue claim.
 
@@ -819,7 +819,7 @@ Transcript Snippet: she told me that she had never seen so many people speaking 
 
 Anchored Artifacts: A-2351.1
 Mentions: N-154, N-155, N-1
-Related Nodes: N-11059, N-10002
+Related Nodes: N-10977, N-10002
 Tags: relevance:context
 Investigative Direction: Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.
 
@@ -974,7 +974,7 @@ Transcript Snippet: Don't fear death. Embrace it or else you'll lose your mind. 
 
 Anchored Artifacts: A-2351.3
 Mentions: N-1, N-3
-Related Nodes: N-10389, N-10415
+Related Nodes: N-10362, N-10388
 Supports: C-12979
 Tags: relevance:core
 Investigative Direction: Look for a contemporaneous message, recording or third party who heard Kirk say this in April or May 2018.
@@ -1023,7 +1023,7 @@ Transcript Snippet: Meeting George in unplanned trip saved my life.
 
 Anchored Artifacts: A-2351.3
 Mentions: N-1, N-3, N-30
-Related Nodes: N-10118
+Related Nodes: N-10114
 Tags: relevance:context
 Investigative Direction: Compare with the host's earlier accounts of how she met George and the dates of the 2018 London trip.
 
@@ -1069,7 +1069,7 @@ Transcript Snippet: the whole world knows that you were under immense political 
 
 Anchored Artifacts: A-2351.3
 Mentions: N-1, N-3
-Related Nodes: N-10026, N-10056, N-10704
+Related Nodes: N-10026, N-10053, N-10640
 Tags: relevance:core
 Investigative Direction: Compile documents or witnesses on pressure applied to Kirk about Israel; compare with the host's earlier claims about donor and Netanyahu contacts.
 
@@ -1131,7 +1131,7 @@ Transcript Snippet: the tent that you died beneath, the microphone that you were
 
 Anchored Artifacts: A-2351.4
 Mentions: N-1
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:context
 Investigative Direction: Find listings, auctions or announcements of the letters, tent and microphone; identify who offered them.
 
@@ -1178,7 +1178,7 @@ Transcript Snippet: You were right when you wrote that you would have to choose 
 
 Anchored Artifacts: A-2351.4
 Mentions: N-1, N-3
-Related Nodes: N-10415
+Related Nodes: N-10388
 Tags: relevance:core
 Investigative Direction: Ask the host for the writing, its date and medium; compare with other Kirk messages the host has read.
 

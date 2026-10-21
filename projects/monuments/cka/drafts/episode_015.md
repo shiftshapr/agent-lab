@@ -12,12 +12,12 @@
 - **Transcript SHA-256**: 85c009a9696e6d09206abec6ccb733f9bd4c300b70a081ff0aa259cf4d192e45
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11098
-  - Hole-minted Nodes (reintro-ep015): N-153, N-201, N-204, N-10230, N-10398, N-10810
+  - Tip-minted Nodes (supplement_2026-10b): N-11016
+  - Hole-minted Nodes (reintro-ep015): N-153, N-201, N-204, N-10217, N-10371, N-10734
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1325–C-1401
-  - New Nodes Introduced: N-10162, N-10163, N-10164, N-10166, N-10167
-  - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-101, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096, N-11099, N-11097
+  - New Nodes Introduced: N-10156, N-10157, N-10159, N-10160
+  - Reused Nodes Appearing: N-1, N-2, N-11, N-10158, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-101, N-10000, N-10016, N-10025, N-10026, N-10096, N-10100, N-10113, N-10127, N-10134, N-10604, N-10328, N-11014, N-11017, N-11015
   - Hole-minted Nodes (wave3): N-378
 
 ## 2. Executive Summary
@@ -145,7 +145,7 @@ Confidence Level: Medium (read-aloud artifact; screen capture of tweet not visib
 
 Description: Bowyer tweet responding to claim that staff "tampered with cameras," asserting "The law enforcement officers asked them to turn them over immediately so they didn't get lost in commotion before they took everyone into lockdown."
 
-*Related: C-1363, C-1364, C-1366, N-41, N-10162, N-11*
+*Related: C-1363, C-1364, C-1366, N-41, N-10156, N-11*
 
 **A-1220.2** Tyler Bowyer X post – DoJ department / audit denial
 
@@ -169,7 +169,7 @@ Confidence Level: Medium (read-aloud artifact)
 
 Description: Bowyer tweet asserting "there is camera footage all over that campus that the police have, plus all the cameras that we had. They likely won't release it until the trial."
 
-*Related: C-1369, N-41, N-10165, N-11*
+*Related: C-1369, N-41, N-10158, N-11*
 
 **A-1221** Andrew Kolvet Tucker Carlson Interview Clip
 
@@ -183,7 +183,7 @@ Confidence Level: High (audio/video clip referenced as played on air)
 
 Description: Kolvet on Tucker Carlson show defending the TPUSA staffer who removed SD cards from the camera behind Charlie Kirk. Asserts staffer was motivated by fear of theft (cited hats being stolen from the table), that the SD cards were given to the FBI, and quotes staffer as saying "Because I know people can be evil."
 
-*Related: C-1358, C-1364, N-14, N-10162*
+*Related: C-1358, C-1364, N-14, N-10156*
 
 **A-1222** Wall Street Journal Article – Alex Clark Profile
 
@@ -197,7 +197,7 @@ Confidence Level: High (article photo and text read aloud and shown)
 
 Description: Wall Street Journal feature on Alex Clark containing photographic image of Clark at the Charlie Kirk memorial site (described as showing her in "high boots" at the memorial). Direct quotes: "The very first thought that popped into my head was, 'I'm so glad that Charlie knew Jesus.'" Third thought: "'Thank God Trump is president.'" States Clark is 32. Praises FBI director Kash Patel and deputy Dan Bongino.
 
-*Related: C-1378, C-1381, N-99, N-10166*
+*Related: C-1378, C-1381, N-99, N-10159*
 
 **A-1223** Alex Clark Instagram Post
 
@@ -225,7 +225,7 @@ Confidence Level: High (full text read aloud on air)
 
 Description: Rob McCoy Instagram post stating: "Charlie Kirk was my friend and I was his pastor... He never operated nor entertained gossip or innuendo concerning Candace. My only comment I offer regarding Candace is this, I only wish that at this tragic time of mourning she would be the friend to Charlie that he was to her. He would never have treated Candace or her family in such a way had God forbid this tragedy been hers. A friend loves at all times. Proverbs."
 
-*Related: C-1343, N-17, N-10166*
+*Related: C-1343, N-17, N-10159*
 
 **A-1225** Pre-Assassination Group Chat Bundle
 
@@ -239,7 +239,7 @@ Confidence Level: Medium (read aloud; original chat provenance not independently
 
 Description: Text attributed to Charlie Kirk in a 9-person group chat: "Just lost another huge Jewish donor uh 2 million a year because we won't cancel Tucker. I'm thinking of inviting Candace."
 
-*Related: C-1349, C-1350, N-10163*
+*Related: C-1349, C-1350, N-10157*
 
 **A-1225.2** Charlie Kirk message – refusing to be bullied
 
@@ -251,7 +251,7 @@ Confidence Level: Medium
 
 Description: Text attributed to Charlie Kirk: "Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause."
 
-*Related: C-1350, N-10163, N-10164*
+*Related: C-1350, N-10157, N-10100*
 
 **A-1225.3** Donor reply – counsel against inviting Candace
 
@@ -263,7 +263,7 @@ Confidence Level: Medium
 
 Description: Reply from a donor participant: "Please do not invite Candace. That might feel good short-term, but it's not good long-term in my opinion."
 
-*Related: N-10163*
+*Related: N-10157*
 
 **A-1225.4** Candace verbal identification of Josh Hammer as participant
 
@@ -275,7 +275,7 @@ Confidence Level: Medium (verbal identification only; chat text not displayed ve
 
 Description: Host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.
 
-*Related: C-1352, N-14, N-10163*
+*Related: C-1352, N-14, N-10157*
 
 **A-1226** Pastor Sermon Clip
 
@@ -394,7 +394,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1221.1, C-1358, N-10162*
+*Related: A-1221.1, C-1358, N-10156*
 
 **N-99** Alex Clark
 
@@ -405,7 +405,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1222.1, A-1223.1, C-1378, C-1381, C-1383, N-10166*
+*Related: A-1222.1, A-1223.1, C-1378, C-1381, C-1383, N-10159*
 
 **N-17** Rob McCoy
 
@@ -416,9 +416,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1224.1, A-1225.4, C-1343, N-10166*
+*Related: A-1224.1, A-1225.4, C-1343, N-10159*
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).
 
@@ -429,7 +429,7 @@ Investigative Pressure: High
 
 *Related: A-1220.1, A-1221.1, C-1363, C-1358, C-1364, N-41, N-14*
 
-**N-10163** Pre-Assassination Group Chat Content
+**N-10157** Pre-Assassination Group Chat Content
 
 Group chat dated 2025-09-08 (per host assertion), 9 participants, including Charlie Kirk, Rob McCoy, and Josh Hammer. Contains statements attributed to Kirk about leaving the pro-Israel cause.
 
@@ -440,18 +440,7 @@ Investigative Pressure: High
 
 *Related: A-1225.1, A-1225.2, A-1225.3, A-1225.4, C-1349, C-1350, C-1352, N-1, N-17, N-14*
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
-
-Persistent thread across the series regarding Charlie Kirk's movement toward Catholicism (mass attendance, rosary, Saint Michael pendant, priest visits). Re-asserted in this episode via prior-episode references; no new artifact displayed in this episode for the underlying facts.
-
-Evidence Count: 0 (new artifacts this episode)
-Claim Count: 0 (new artifact-anchored claims this episode)
-Episode Count: ≥3
-Investigative Pressure: Medium
-
-*Related: N-1, N-2*
-
-**N-10165** Campus Footage Release Strategy Question
+**N-10158** Campus Footage Release Strategy Question
 
 Bowyer's assertion that extensive campus footage exists but will not be released until trial – and the host's counter-argument that footage should have been deployed during the 33-hour manhunt.
 
@@ -462,7 +451,7 @@ Investigative Pressure: High
 
 *Related: A-1220.3, C-1369, N-41*
 
-**N-10166** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
+**N-10159** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
 Host's assertion that McCoy's son and daughter-in-law work for TPUSA and that McCoy heads its Faith Division, creating a financial stake in Kirk's religious trajectory. Host assertion only – no artifact in this episode.
 
@@ -473,7 +462,7 @@ Investigative Pressure: Medium
 
 *Related: A-1224.1, N-99, N-17*
 
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Tyler Bowyer's weekend X/Twitter activity broadly defending TPUSA against public scrutiny across three discrete matters (SD cards, audits/DoJ, campus footage).
 
@@ -646,7 +635,7 @@ Place at the center of the donor-pressure and sermon discussion.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 Existing topic reused.
 
@@ -654,7 +643,7 @@ Existing topic reused.
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Existing topic reused.
 
@@ -662,7 +651,7 @@ Existing topic reused.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Existing topic reused.
 
@@ -670,7 +659,7 @@ Existing topic reused.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 Existing topic reused.
 
@@ -678,7 +667,7 @@ Existing topic reused.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic reused.
 
@@ -686,7 +675,7 @@ Existing topic reused.
 
 ---
 
-**N-10230** Saint Michael Pendant / Charlie Catholic-Curious Status
+**N-10217** Saint Michael Pendant / Charlie Catholic-Curious Status
 
 Existing topic reused.
 
@@ -694,7 +683,7 @@ Existing topic reused.
 
 ---
 
-**N-10350** Charlie Kirk Catholicism Journey
+**N-10328** Charlie Kirk Catholicism Journey
 
 Existing topic reused.
 
@@ -702,7 +691,7 @@ Existing topic reused.
 
 ---
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Existing topic reused.
 
@@ -710,7 +699,7 @@ Existing topic reused.
 
 ---
 
-**N-10662** 2025 FARA Propaganda Timeline Convergence
+**N-10604** 2025 FARA Propaganda Timeline Convergence
 
 Existing topic reused.
 
@@ -718,7 +707,7 @@ Existing topic reused.
 
 ---
 
-**N-10810** SD Card Chain-of-Custody Investigation
+**N-10734** SD Card Chain-of-Custody Investigation
 
 Existing topic reused.
 
@@ -726,7 +715,7 @@ Existing topic reused.
 
 ---
 
-**N-11096** TikTok Israel Moderation Claim
+**N-11014** TikTok Israel Moderation Claim
 
 Node Type: Topic
 The host's claims that TikTok's moderation involves IDF-linked personnel and Netanyahu's stated aim to take over TikTok, and a reported ban on the juice box emoji.
@@ -735,7 +724,7 @@ The host's claims that TikTok's moderation involves IDF-linked personnel and Net
 
 ---
 
-**N-11097** TPUSA Post-Assassination Fundraising Claim
+**N-11015** TPUSA Post-Assassination Fundraising Claim
 
 Node Type: Topic
 The host's claim that Turning Point USA raised tens of millions of dollars in the two weeks after the assassination.
@@ -744,7 +733,7 @@ The host's claim that Turning Point USA raised tens of millions of dollars in th
 
 ---
 
-**N-11098** Alex Clark WSJ Memorial Photo Controversy
+**N-11016** Alex Clark WSJ Memorial Photo Controversy
 
 Node Type: Topic
 The host's criticism of Alex Clark's Wall Street Journal profile photo taken at the Kirk memorial site, with the quotes in the article.
@@ -753,7 +742,7 @@ The host's criticism of Alex Clark's Wall Street Journal profile photo taken at 
 
 ---
 
-**N-11099** Candace Owens Australia Visa Review
+**N-11017** Candace Owens Australia Visa Review
 
 Node Type: Topic
 The host's statement that an Australian court heard her visa arguments and a decision is pending.
@@ -774,7 +763,7 @@ Anchored Artifacts: A-1220.1
 Mentions: N-11
 Contradicts: C-1358
 
-Related Nodes: N-10162
+Related Nodes: N-10156
 
 Investigative Direction: Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025.
 
@@ -787,7 +776,7 @@ Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah V
 Anchored Artifacts: A-1220.3
 Mentions: N-11
 
-Related Nodes: N-10165
+Related Nodes: N-10158
 
 Investigative Direction: FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing.
 
@@ -813,7 +802,7 @@ Anchored Artifacts: A-1221.1
 Mentions: N-14, N-22
 Contradicts: C-1363
 
-Related Nodes: N-10162
+Related Nodes: N-10156
 
 Investigative Direction: Obtain full clip; cross-reference against FBI evidentiary custody records.
 
@@ -826,7 +815,7 @@ Claim: The host asserts that Kolvet's stated rationale (fear of theft) and Bowye
 Anchored Artifacts: A-1220.1, A-1221.1
 Mentions: N-14, N-11
 
-Related Nodes: N-10162
+Related Nodes: N-10156
 
 Investigative Direction: Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025.
 
@@ -840,7 +829,7 @@ Anchored Artifacts: None displayed
 Mentions: N-3, N-2
 Contradicts: C-1363, C-1358
 
-Related Nodes: N-10162
+Related Nodes: N-10156
 
 Investigative Direction: Independent corroboration required; flag for human verification. (Failed admission test – artifact anchor absent in this episode.)
 
@@ -853,7 +842,7 @@ Claim: A Wall Street Journal article published September 18, 2025 featured Alex 
 Anchored Artifacts: A-1222.1
 Mentions: N-99, N-1, N-5
 
-Related Nodes: N-10166
+Related Nodes: N-10159
 
 Investigative Direction: Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution.
 
@@ -866,7 +855,7 @@ Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Pate
 Anchored Artifacts: A-1222.1
 Mentions: N-99, N-69, N-378, N-1
 
-Related Nodes: N-10166
+Related Nodes: N-10159
 
 Investigative Direction: Verify quote against the original WSJ article.
 
@@ -879,7 +868,7 @@ Claim: Pastor Rob McCoy (TPUSA Faith Division head) published an Instagram post 
 Anchored Artifacts: A-1224.1
 Mentions: N-17, N-1
 
-Related Nodes: N-10166
+Related Nodes: N-10159
 
 Investigative Direction: Obtain post directly from McCoy's Instagram; verify timestamp and provenance.
 
@@ -892,7 +881,7 @@ Claim: A group chat dated 2 days before Charlie Kirk's assassination contained a
 Anchored Artifacts: A-1225.1
 Mentions: N-22, N-3, N-1
 
-Related Nodes: N-10163, N-10164
+Related Nodes: N-10157, N-10100
 
 Investigative Direction: Independent forensic authentication of chat metadata and participant identities; flag – original chat provenance not independently confirmed.
 
@@ -905,7 +894,7 @@ Claim: The same group chat contained a message attributed to Charlie Kirk statin
 Anchored Artifacts: A-1225.2
 Mentions: N-1
 
-Related Nodes: N-10163, N-10164
+Related Nodes: N-10157, N-10100
 
 Investigative Direction: Independent forensic authentication of chat; cross-reference against donor records and any contemporaneous statements from Kirk on the topic.
 
@@ -918,7 +907,7 @@ Claim: The host verbally identifies Josh Hammer as a participant on the pre-assa
 Anchored Artifacts: A-1225.4 (verbal identification in the context of displayed chat)
 Mentions: N-55
 
-Related Nodes: N-10163
+Related Nodes: N-10157
 
 Investigative Direction: Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle).
 
@@ -1022,7 +1011,7 @@ Transcript Snippet: I never said he converted because he didn't. That would have
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Review the host's earlier statements on Kirk and Catholicism and the videos that disputed them.
 
@@ -1038,7 +1027,7 @@ Transcript Snippet: Suddenly a bunch of videos were being made disputing the nar
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10000
+Related Nodes: N-10100, N-10000
 Tags: relevance:context
 Investigative Direction: Identify the videos, their authors and posting dates and check for common sourcing or coordination.
 
@@ -1054,7 +1043,7 @@ Transcript Snippet: Charlie was attending mass weekly. He was sometimes even att
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10164, N-10350
+Related Nodes: N-10100, N-10328
 Tags: relevance:context
 Investigative Direction: Seek parish records, priests or attendees who saw Kirk at weekly or daily mass.
 
@@ -1070,7 +1059,7 @@ Transcript Snippet: He was not attending Pastor Rob McCoy's church.
 
 Anchored Artifacts: 
 Mentions: N-1, N-17
-Related Nodes: N-10164
+Related Nodes: N-10100
 Tags: relevance:context
 Investigative Direction: Ask McCoy's church and Kirk's associates whether Kirk was a current congregant.
 
@@ -1086,7 +1075,7 @@ Transcript Snippet: Charlie, in fact, was wearing the Saint Michael pendant when
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10230
+Related Nodes: N-10217
 Tags: relevance:core
 Investigative Direction: Check photographs and evidence inventories for the pendant and prior reporting that it was worn.
 
@@ -1102,7 +1091,7 @@ Transcript Snippet: Erika took a Catholic bishop with her to pray over his body 
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10164
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Identify the bishop and the publication that reported the visit; confirm the date and location.
 
@@ -1118,7 +1107,7 @@ Transcript Snippet: a few weeks before his death, Erika had a priest come over t
 
 Anchored Artifacts: 
 Mentions: N-46, N-2, N-1
-Related Nodes: N-10117
+Related Nodes: N-10113
 Tags: relevance:context
 Investigative Direction: Review Megyn Kelly's broadcast for the priest account and its sourcing.
 
@@ -1134,7 +1123,7 @@ Transcript Snippet: They knew for a fact. So, I was a bit astonished when Andrew
 
 Anchored Artifacts: A-2814.1
 Mentions: N-14, N-99, N-1, N-3
-Related Nodes: N-10000, N-10104
+Related Nodes: N-10000, N-10100
 Tags: relevance:core
 Investigative Direction: Establish what TPUSA staff knew about Kirk's mass attendance and when each statement was made.
 
@@ -1150,7 +1139,7 @@ Transcript Snippet: Was he becoming Catholic? No. But, he really loved Catholic 
 
 Anchored Artifacts: A-2814.1
 Mentions: N-14, N-1, N-2
-Related Nodes: N-10104
+Related Nodes: N-10100
 Supports: C-695
 Tags: relevance:context
 Investigative Direction: Locate the original Kolvet interview and date; compare with mass-attendance accounts.
@@ -1167,7 +1156,7 @@ Transcript Snippet: And she said, "No, we just like attending sometimes." So, sh
 
 Anchored Artifacts: A-2814.1
 Mentions: N-2, N-1, N-99
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:context
 Investigative Direction: Find Erika Kirk's original Instagram post and comment reply; the clip speaker is not named on air at this point.
 
@@ -1183,7 +1172,7 @@ Transcript Snippet: You can go check the videos out him debating with uh Michael
 
 Anchored Artifacts: A-2814.1
 Mentions: N-1, N-101
-Related Nodes: N-10350
+Related Nodes: N-10328
 Supports: C-700
 Tags: relevance:context
 Investigative Direction: Find the Kirk-Knowles Protestant versus Catholic debate videos.
@@ -1200,7 +1189,7 @@ Transcript Snippet: Like that's not That's not fully honest and it registered to
 
 Anchored Artifacts: A-2814.1
 Mentions: N-14, N-99, N-3, N-1
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:context
 Investigative Direction: Test the account against witnesses to Kirk's mass attendance.
 
@@ -1216,7 +1205,7 @@ Transcript Snippet: Catholicism is sounding better and better.
 
 Anchored Artifacts: A-2815.1
 Mentions: N-1, N-3
-Related Nodes: N-10350
+Related Nodes: N-10328
 Tags: relevance:context
 Investigative Direction: Obtain the message thread with metadata to confirm the date (February 2024 versus 2025) and exact wording.
 
@@ -1232,7 +1221,7 @@ Transcript Snippet: I then offered back to him a chart just showing how the phra
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10026, N-10350
+Related Nodes: N-10026, N-10328
 Tags: relevance:context
 Investigative Direction: Obtain the chart and the message exchange from the host.
 
@@ -1248,7 +1237,7 @@ Transcript Snippet: effectively asked me to, you know, stop looking into all of 
 
 Anchored Artifacts: A-1224.1
 Mentions: N-17, N-3, N-1
-Related Nodes: N-10166
+Related Nodes: N-10159
 Tags: relevance:core
 Investigative Direction: Compare McCoy's full Instagram text with the host's interpretation.
 
@@ -1264,7 +1253,7 @@ Transcript Snippet: both his son and his daughter-in-law work for Turning Point 
 
 Anchored Artifacts: A-1224.1
 Mentions: N-17, N-3
-Related Nodes: N-10166, N-10000
+Related Nodes: N-10159, N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff pages and filings for the family members and McCoy's faith division title.
 
@@ -1280,7 +1269,7 @@ Transcript Snippet: It would have financial implications.
 
 Anchored Artifacts: A-1224.1
 Mentions: N-17, N-1, N-3
-Related Nodes: N-10166, N-10398
+Related Nodes: N-10159, N-10371
 Tags: relevance:context
 Investigative Direction: Review the faith division's funding and structure for dependence on Kirk's evangelical positioning.
 
@@ -1296,7 +1285,7 @@ Transcript Snippet: But Rob in particular knew for an absolute fact that Charlie
 
 Anchored Artifacts: A-1225.1
 Mentions: N-17, N-1, N-3
-Related Nodes: N-10163, N-10026
+Related Nodes: N-10157, N-10026
 Tags: relevance:core
 Investigative Direction: Authenticate the group chat and McCoy's participation; ask McCoy about what he knew.
 
@@ -1312,7 +1301,7 @@ Transcript Snippet: There were nine people in total on this chat including Charl
 
 Anchored Artifacts: A-1225.1
 Mentions: N-17, N-1, N-3
-Related Nodes: N-10163
+Related Nodes: N-10157
 Tags: relevance:core
 Investigative Direction: Forensic review of the chat export for membership, numbers and handles.
 
@@ -1328,7 +1317,7 @@ Transcript Snippet: he did not back down not in that Hamptons meeting which they
 
 Anchored Artifacts: A-1225.2
 Mentions: N-1, N-3
-Related Nodes: N-10016, N-10163
+Related Nodes: N-10016, N-10157
 Tags: relevance:core
 Investigative Direction: Compare attendees' accounts of the Hamptons meeting with the chat and other records.
 
@@ -1344,7 +1333,7 @@ Transcript Snippet: It's also a rabbi in that chat.
 
 Anchored Artifacts: A-1225.3
 Mentions: N-3
-Related Nodes: N-10163
+Related Nodes: N-10157
 Tags: relevance:core
 Investigative Direction: Identify chat members' roles; the host has not named the rabbi.
 
@@ -1376,7 +1365,7 @@ Transcript Snippet: 4 minutes after Charlie was shot, someone on their team nerv
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10100, N-10810
+Related Nodes: N-10096, N-10734
 Supports: C-711
 Tags: relevance:core
 Investigative Direction: Obtain video timing of the SD card removal and identify the staffer; compare against crime-scene entry logs.
@@ -1393,7 +1382,7 @@ Transcript Snippet: Not only are they pretending that that was completely normal
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14, N-22, N-3
-Related Nodes: N-10100
+Related Nodes: N-10096
 Tags: relevance:context
 Investigative Direction: Obtain the full Kolvet-Carlson interview and compare framing.
 
@@ -1409,7 +1398,7 @@ Transcript Snippet: One of our dear friends that literally from the very beginni
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14, N-1
-Related Nodes: N-10100, N-10810
+Related Nodes: N-10096, N-10734
 Tags: relevance:core
 Investigative Direction: Identify the staffer and role at TPUSA; the host later says she spoke with him.
 
@@ -1425,7 +1414,7 @@ Transcript Snippet: I know I wanted I mean, you know, you're recording in like 4
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14
-Related Nodes: N-10100
+Related Nodes: N-10096
 Tags: relevance:context
 Investigative Direction: Compare with Bowyer's and the staffer's own stated motivations.
 
@@ -1456,7 +1445,7 @@ Transcript Snippet: but also you took the SD card out and not the very expensive
 
 Anchored Artifacts: A-1221.1
 Mentions: N-3
-Related Nodes: N-10162, N-10100
+Related Nodes: N-10156, N-10096
 Supports: C-711
 Tags: relevance:context
 Investigative Direction: Ask TPUSA why the card was removed and the camera left, and who authorized it.
@@ -1473,7 +1462,7 @@ Transcript Snippet: Turning Point does have the footage. That's very clear. I sa
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10810
+Related Nodes: N-10000, N-10734
 Tags: relevance:core
 Investigative Direction: Ask the host which footage she saw and from whom; request TPUSA's retained footage inventory.
 
@@ -1489,7 +1478,7 @@ Transcript Snippet: he's a COO of Turning Point Action and he went on this kind 
 
 Anchored Artifacts: A-1220.1
 Mentions: N-11, N-3
-Related Nodes: N-10167
+Related Nodes: N-10160
 Tags: relevance:context
 Investigative Direction: Check TP Action filings and public bios for Bowyer's title.
 
@@ -1505,7 +1494,7 @@ Transcript Snippet: No one's ever heard police officers ask them to secure the f
 
 Anchored Artifacts: A-1220.1
 Mentions: N-11, N-3
-Related Nodes: N-10162
+Related Nodes: N-10156
 Contradicts: C-711
 Tags: relevance:core
 Investigative Direction: Request UVU police and FBI records on any instruction to TPUSA staff; compare Bowyer's tweet with earlier statements.
@@ -1522,7 +1511,7 @@ Transcript Snippet: I haven't read anybody that's explicitly accused them of mur
 
 Anchored Artifacts: A-1220.1
 Mentions: N-11, N-3
-Related Nodes: N-10167
+Related Nodes: N-10160
 Tags: relevance:context
 Investigative Direction: Identify the posts Bowyer was answering and any explicit accusations.
 
@@ -1538,7 +1527,7 @@ Transcript Snippet: Please, I beg you, focus on getting the security footage of 
 
 Anchored Artifacts: A-2816.1, A-1220.3
 Mentions: N-11, N-40
-Related Nodes: N-10165
+Related Nodes: N-10158
 Tags: relevance:core
 Investigative Direction: Locate the original post and any FOIA or evidence requests for this footage.
 
@@ -1554,7 +1543,7 @@ Transcript Snippet: why only release a blurry image when there is, as he mention
 
 Anchored Artifacts: A-1220.3
 Mentions: N-3
-Related Nodes: N-10165
+Related Nodes: N-10158
 Supports: C-353
 Tags: relevance:core
 Investigative Direction: Compare the FBI's manhunt-era releases with the footage inventory later cited by Bowyer.
@@ -1571,7 +1560,7 @@ Transcript Snippet: some of it in 4K, which they do, this is why we've been sayi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10165
+Related Nodes: N-10158
 Tags: relevance:context
 Investigative Direction: Ask UVU, TPUSA and the FBI for resolution specifications of retained footage.
 
@@ -1603,7 +1592,7 @@ Transcript Snippet: tried to make it seem like I lied about the new DOGE departm
 
 Anchored Artifacts: A-1223.1
 Mentions: N-99, N-1, N-3
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier on-air email with the September 2 memo and Clark's post.
@@ -1620,7 +1609,7 @@ Transcript Snippet: Do you guys understand the tens of millions of dollars that 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-11097, N-10000
+Related Nodes: N-11015, N-10000
 Tags: relevance:core
 Investigative Direction: Look for TPUSA and TP Action fundraising disclosures covering September 10-24, 2025.
 
@@ -1636,7 +1625,7 @@ Transcript Snippet: invite the Wall Street Journal a literal week after Charlie 
 
 Anchored Artifacts: A-1222.1
 Mentions: N-99, N-1, N-3
-Related Nodes: N-11098
+Related Nodes: N-11016
 Tags: relevance:core
 Investigative Direction: Obtain the WSJ article, photographer credit and shoot date.
 
@@ -1652,7 +1641,7 @@ Transcript Snippet: This is literally her being shot in front of the gifts that 
 
 Anchored Artifacts: A-1222.1
 Mentions: N-99, N-1
-Related Nodes: N-11098
+Related Nodes: N-11016
 Tags: relevance:core
 Investigative Direction: Check the WSJ original image and caption data.
 
@@ -1683,7 +1672,7 @@ Transcript Snippet: Alex Clark was about to head to the airport for a work trip 
 
 Anchored Artifacts: A-1222.1
 Mentions: N-99, N-1
-Related Nodes: N-11098
+Related Nodes: N-11016
 Tags: relevance:context
 Investigative Direction: Verify against the WSJ article text.
 
@@ -1715,7 +1704,7 @@ Transcript Snippet: I didn't read the paragraph where he announced that Justin S
 
 Anchored Artifacts: 
 Mentions: N-15, N-1, N-3
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-896
 Tags: relevance:core
 Investigative Direction: Compare the full memo against the portions the host aired.
@@ -1732,7 +1721,7 @@ Transcript Snippet: It operates eight times more effectively than any other simi
 
 Anchored Artifacts: A-1220.2
 Mentions: N-11
-Related Nodes: N-10132
+Related Nodes: N-10127
 Tags: relevance:context
 Investigative Direction: Ask Bowyer for the basis of the eight-times figure.
 
@@ -1748,7 +1737,7 @@ Transcript Snippet: I actually think that for organizations of a certain size, y
 
 Anchored Artifacts: A-1220.2
 Mentions: N-3
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-1385
 Tags: relevance:context
 Investigative Direction: Check state audit thresholds and TPUSA's audited financial statements.
@@ -1765,7 +1754,7 @@ Transcript Snippet: I shared a 501c3 lawyer with them. So, I met her in her offi
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10132
+Related Nodes: N-10127
 Tags: relevance:context
 Investigative Direction: Identify the lawyer and meeting date; the host may be able to confirm.
 
@@ -1781,7 +1770,7 @@ Transcript Snippet: And I'm hearing some stuff, okay? A lot of contractors, that
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10132, N-10000
+Related Nodes: N-10127, N-10000
 Tags: relevance:context
 Investigative Direction: Ask the host for any documents; review TPUSA vendor payments in Form 990 Schedule disclosures.
 
@@ -1829,7 +1818,7 @@ Transcript Snippet: you're going to block them because they're anti what scriptu
 
 Anchored Artifacts: A-1226.1
 Mentions: N-201, N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording and identify the church.
 
@@ -1845,7 +1834,7 @@ Transcript Snippet: their moderation team, like IDF soldiers uh and Benjamin Net
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
-Related Nodes: N-11096
+Related Nodes: N-11014
 Supports: C-1214
 Tags: relevance:tangential
 Investigative Direction: Locate the headline and any Netanyahu statement on TikTok; verify moderation team composition claims.
@@ -1862,7 +1851,7 @@ Transcript Snippet: Apparently, they're going to ban the juice box emoji, right?
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11096
+Related Nodes: N-11014
 Tags: relevance:tangential
 Investigative Direction: Find TikTok's policy notice or the reporting about the emoji moderation.
 
@@ -1938,7 +1927,7 @@ Transcript Snippet: we are still awaiting a decision.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11099
+Related Nodes: N-11017
 Tags: relevance:context
 Investigative Direction: Check Australian court and Department of Home Affairs records for the visa review.
 
@@ -1954,7 +1943,7 @@ Transcript Snippet: All of the money in the world that Israel has, the money the
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10026, N-10662
+Related Nodes: N-10026, N-10604
 Tags: relevance:tangential
 Investigative Direction: The host should identify the people and FARA actions she means.
 

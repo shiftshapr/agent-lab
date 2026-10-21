@@ -166,7 +166,7 @@
             "C-679"
           ],
           "related_nodes": [
-            "N-10093"
+            "N-10089"
           ],
           "tags": [],
           "video_timestamp": "00:17:02–00:17:30",
@@ -344,7 +344,7 @@
             "C-737"
           ],
           "related_nodes": [
-            "N-10099",
+            "N-10095",
             "N-40"
           ],
           "tags": [],
@@ -421,7 +421,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10343"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1000,8 +1000,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10092",
-      "ref": "N-10092",
+      "@id": "N-10088",
+      "ref": "N-10088",
       "name": "Brigham Young University",
       "type": "organization",
       "description": "Identified as the school attended by one of the two roof-videographer companions.",
@@ -1020,8 +1020,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10093",
-      "ref": "N-10093",
+      "@id": "N-10089",
+      "ref": "N-10089",
       "name": "Wirefy",
       "type": "organization",
       "description": "Tour sponsor whose branding was the backdrop and whose employee appeared post-shot.",
@@ -1040,8 +1040,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10060",
-      "ref": "N-10060",
+      "@id": "N-10057",
+      "ref": "N-10057",
       "name": "Good Morning America",
       "type": "organization",
       "description": "Outlet that aired the Tiffany Barker family interview on 9/11.",
@@ -1060,8 +1060,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "LDS Church",
       "type": "organization",
       "description": "Family faith tradition tied to the Barkers per Reddit-sleuth research.",
@@ -1080,8 +1080,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10095",
-      "ref": "N-10095",
+      "@id": "N-10091",
+      "ref": "N-10091",
       "name": "9/10 Eyewitness Pattern Investigation",
       "type": "topic",
       "description": "Ongoing thread: most viral-witness accounts trace back to TPUSA or government-tied people, not random UVU students.",
@@ -1103,8 +1103,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10096",
-      "ref": "N-10096",
+      "@id": "N-10092",
+      "ref": "N-10092",
       "name": "Artery Remark Provenance",
       "type": "topic",
       "description": "Whether the children's 'hit his artery' description came from observation or parental coaching in the car.",
@@ -1125,8 +1125,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@id": "N-10093",
+      "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
       "type": "topic",
       "description": "Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedurally normal.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10098",
-      "ref": "N-10098",
+      "@id": "N-10094",
+      "ref": "N-10094",
       "name": "Roof Video Provenance Chain",
       "type": "topic",
       "description": "Tracing the viral roof video through a third-party poster, an unknown Aaron, and Chicago numbers.",
@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10099",
-      "ref": "N-10099",
+      "@id": "N-10095",
+      "ref": "N-10095",
       "name": "Shooter Description Contradiction",
       "type": "topic",
       "description": "Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative says jeans + flag shirt.",
@@ -1191,8 +1191,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
       "type": "topic",
       "description": "Whether SD cards were pulled to preserve evidence or to control the record.",
@@ -1211,8 +1211,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10101",
-      "ref": "N-10101",
+      "@id": "N-10097",
+      "ref": "N-10097",
       "name": "Wirefy Post-Shot Individual Identity",
       "type": "topic",
       "description": "Open target: who is the blue-shirt Wirefy representative who texted/photographed in the immediate aftermath.",
@@ -1231,8 +1231,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10102",
-      "ref": "N-10102",
+      "@id": "N-10098",
+      "ref": "N-10098",
       "name": "Earpiece Rumor Debunking",
       "type": "topic",
       "description": "Host's assertion that what looked like an earpiece was actually Charlie's necklace.",
@@ -1249,8 +1249,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10103",
-      "ref": "N-10103",
+      "@id": "N-10099",
+      "ref": "N-10099",
       "name": "Bulletproof Vest Absence",
       "type": "topic",
       "description": "Host's claim that Charlie was not wearing a vest and that a prior provider had stopped supplying them.",
@@ -1267,8 +1267,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
       "type": "topic",
       "description": "Was Charlie formally converting vs. attending mass and praying the rosary.",
@@ -1288,8 +1288,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10105",
-      "ref": "N-10105",
+      "@id": "N-10101",
+      "ref": "N-10101",
       "name": "Israel $150M Offer Rumor",
       "type": "topic",
       "description": "Whether a $150M foreign-money offer was made to Charlie and refused.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
       "type": "topic",
       "description": "Charlie's repeated claim that donors pressured him on who to associate with.",
@@ -1330,8 +1330,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
       "type": "topic",
       "description": "Open lead: who paid for the unusually quick paver replacement at the venue.",
@@ -1348,8 +1348,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10108",
-      "ref": "N-10108",
+      "@id": "N-10104",
+      "ref": "N-10104",
       "name": "Police Scanner Description",
       "type": "topic",
       "description": "Scanner reportedly described jeans/black shirt/mask/vest/rifle – never made public.",
@@ -1366,8 +1366,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11319",
-      "ref": "N-11319",
+      "@id": "N-11235",
+      "ref": "N-11235",
       "name": "FARA Israel Carve-Out Claim",
       "type": "topic",
       "description": "The host's assertion that the Foreign Agents Registration Act has an exemption for Israel, so agents acting for Israel are not registered and visible the way agents of other countries are.",
@@ -1384,8 +1384,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11320",
-      "ref": "N-11320",
+      "@id": "N-11236",
+      "ref": "N-11236",
       "name": "Police Scanner Feed Privatization Claim",
       "type": "topic",
       "description": "The host's claim that the public scanner feed carrying the shooter description was taken private after about 3,000 listeners tuned in.",
@@ -1436,8 +1436,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10065",
-      "ref": "N-10065",
+      "@id": "N-10062",
+      "ref": "N-10062",
       "name": "Caldera Engineering",
       "type": "investigation_target",
       "description": "Organization whose employees the host says live on the block near the event.",
@@ -1453,8 +1453,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10184",
-      "ref": "N-10184",
+      "@id": "N-10176",
+      "ref": "N-10176",
       "name": "Caldera Engineering Background Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1470,8 +1470,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1523,8 +1523,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11183",
-      "ref": "N-11183",
+      "@id": "N-11099",
+      "ref": "N-11099",
       "name": "Kolvet Alex Clark Interview Account Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1574,8 +1574,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1592,8 +1592,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1609,8 +1609,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11004",
-      "ref": "N-11004",
+      "@id": "N-10924",
+      "ref": "N-10924",
       "name": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1626,8 +1626,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10109",
-      "ref": "N-10109",
+      "@id": "N-10105",
+      "ref": "N-10105",
       "name": "FBI Case Closure Pressure",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1643,8 +1643,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10202",
-      "ref": "N-10202",
+      "@id": "N-10194",
+      "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1660,8 +1660,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1707,9 +1707,9 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-10060",
-        "N-10094",
-        "N-10095"
+        "N-10057",
+        "N-10090",
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:08:33",
@@ -1732,7 +1732,7 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-10096"
+        "N-10092"
       ],
       "tags": [
         "open_source_investigation"
@@ -1757,7 +1757,7 @@
         "A-1147.1"
       ],
       "related_nodes": [
-        "N-10096"
+        "N-10092"
       ],
       "tags": [],
       "claim_timestamp": "00:07:43",
@@ -1783,7 +1783,7 @@
         "A-1148.4"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [],
       "claim_timestamp": "00:14:20",
@@ -1804,7 +1804,7 @@
         "A-1148.2"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [
         "open_source_investigation"
@@ -1828,7 +1828,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:15:17",
@@ -1849,8 +1849,8 @@
         "A-1149.1"
       ],
       "related_nodes": [
-        "N-10093",
-        "N-10101"
+        "N-10089",
+        "N-10097"
       ],
       "tags": [
         "open_source_investigation"
@@ -1872,8 +1872,8 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10092",
-        "N-10098"
+        "N-10088",
+        "N-10094"
       ],
       "tags": [],
       "claim_timestamp": "00:20:07",
@@ -1895,7 +1895,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "calls_for_tips",
@@ -1923,7 +1923,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10099"
+        "N-10095"
       ],
       "tags": [],
       "claim_timestamp": "00:25:26",
@@ -1944,7 +1944,7 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [],
       "claim_timestamp": "00:32:47",
@@ -1967,7 +1967,7 @@
         "A-1151.2"
       ],
       "related_nodes": [
-        "N-10105"
+        "N-10101"
       ],
       "tags": [],
       "claim_timestamp": "00:36:08",
@@ -1990,7 +1990,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10100"
+        "N-10096"
       ],
       "tags": [],
       "claim_timestamp": "00:41:15",
@@ -2012,7 +2012,7 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [],
       "claim_timestamp": "00:43:37",
@@ -2036,7 +2036,7 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [],
       "claim_timestamp": "00:44:22",
@@ -2097,7 +2097,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10099"
+        "N-10095"
       ],
       "tags": [],
       "claim_timestamp": "00:59:20",
@@ -2118,7 +2118,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10107"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:58:05",
@@ -2138,7 +2138,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
-        "N-10108"
+        "N-10104"
       ],
       "tags": [],
       "claim_timestamp": "00:58:33",
@@ -2157,7 +2157,7 @@
       "claim": "Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10102"
+        "N-10098"
       ],
       "tags": [],
       "claim_timestamp": "00:01:43",
@@ -2176,7 +2176,7 @@
       "claim": "Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10103"
+        "N-10099"
       ],
       "tags": [],
       "claim_timestamp": "00:02:06",
@@ -2237,7 +2237,7 @@
       "claim": "The host says that when she went back through the original 9/10 viral videos, many of the eyewitnesses and the people sharing those videos were not random UVU college students but people with strong ties to the government or to Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10095",
+        "N-10091",
         "N-10000",
         "N-10012"
       ],
@@ -2259,9 +2259,9 @@
       "claim": "The host says her re-examination of the early witnesses led her to Caldera Engineering (transcribed Calera/Calira), whose owner owned a couple of houses on that block, and that many of its employees live on that block.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10065",
-        "N-10184",
-        "N-10095"
+        "N-10062",
+        "N-10176",
+        "N-10091"
       ],
       "tags": [
         "relevance:core"
@@ -2281,7 +2281,7 @@
       "claim": "The host says she kept seeing the theme that none of the individuals who spoke to the press in the aftermath were students of UVU, while stressing this does not make them guilty of anything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10095",
+        "N-10091",
         "N-10012"
       ],
       "tags": [
@@ -2304,8 +2304,8 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-10094",
-        "N-10095"
+        "N-10090",
+        "N-10091"
       ],
       "tags": [
         "relevance:context"
@@ -2328,8 +2328,8 @@
         "A-1146.1"
       ],
       "related_nodes": [
-        "N-10060",
-        "N-10095"
+        "N-10057",
+        "N-10091"
       ],
       "tags": [
         "relevance:context"
@@ -2353,7 +2353,7 @@
         "A-1147.1"
       ],
       "related_nodes": [
-        "N-10096"
+        "N-10092"
       ],
       "tags": [
         "relevance:core"
@@ -2375,7 +2375,7 @@
         "A-1147.1"
       ],
       "related_nodes": [
-        "N-10096"
+        "N-10092"
       ],
       "tags": [
         "relevance:context"
@@ -2400,7 +2400,7 @@
         "A-1147.1"
       ],
       "related_nodes": [
-        "N-10096"
+        "N-10092"
       ],
       "tags": [
         "relevance:core"
@@ -2426,7 +2426,7 @@
         "A-1148.2"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [
         "relevance:core"
@@ -2453,7 +2453,7 @@
         "A-1148.3"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [
         "relevance:core"
@@ -2479,8 +2479,8 @@
         "A-1149.1"
       ],
       "related_nodes": [
-        "N-10093",
-        "N-10101"
+        "N-10089",
+        "N-10097"
       ],
       "tags": [
         "relevance:core"
@@ -2505,9 +2505,9 @@
         "A-1149.1"
       ],
       "related_nodes": [
-        "N-10093",
+        "N-10089",
         "N-10000",
-        "N-10101"
+        "N-10097"
       ],
       "tags": [
         "relevance:context"
@@ -2532,7 +2532,7 @@
         "A-1150.1"
       ],
       "related_nodes": [
-        "N-10098"
+        "N-10094"
       ],
       "tags": [
         "relevance:core"
@@ -2557,9 +2557,9 @@
         "A-1150.1"
       ],
       "related_nodes": [
-        "N-10092",
-        "N-10098",
-        "N-10095"
+        "N-10088",
+        "N-10094",
+        "N-10091"
       ],
       "tags": [
         "relevance:core"
@@ -2584,9 +2584,9 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-10343",
+        "N-10321",
         "N-10014",
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2611,8 +2611,8 @@
         "A-3177.1"
       ],
       "related_nodes": [
-        "N-10343",
-        "N-10099"
+        "N-10321",
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2638,7 +2638,7 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2663,8 +2663,8 @@
         "A-1154.1"
       ],
       "related_nodes": [
-        "N-10097",
-        "N-10099"
+        "N-10093",
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2691,7 +2691,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2717,7 +2717,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10099"
+        "N-10095"
       ],
       "tags": [
         "relevance:core"
@@ -2740,7 +2740,7 @@
       "claim": "The host says Andrew Kolvet, TPUSA's PR agent who sat next to Charlie on the show, is the one who issued the statement about what is now termed the other magic bullet, after the JFK one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
+        "N-10319",
         "N-10000"
       ],
       "tags": [
@@ -2767,10 +2767,10 @@
         "A-3178.1"
       ],
       "related_nodes": [
-        "N-11183",
-        "N-10104",
-        "N-10105",
-        "N-10100"
+        "N-11099",
+        "N-10100",
+        "N-10101",
+        "N-10096"
       ],
       "tags": [
         "relevance:context"
@@ -2791,7 +2791,7 @@
       "claim": "The host says Erika is a cradle Catholic and that she said Charlie was attending Mass because he was, and praying the rosary because he was.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2818,7 +2818,7 @@
       "claim": "The host says she told Charlie in humor to take the next step because he was too smart to be a Protestant, describing it as a descriptor of their brother and sister relationship.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2844,7 +2844,7 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2871,7 +2871,7 @@
         "A-3179.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2895,7 +2895,7 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2918,7 +2918,7 @@
         "A-1151.1"
       ],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2942,7 +2942,7 @@
       "claim": "The host says she never said Charlie started converting to Catholicism, only that Catholics were thinking he should take the next step, and that she does not dispute he was attending Mass and praying the rosary.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [
         "relevance:context"
@@ -2966,7 +2966,7 @@
       "claim": "The host says nobody said the number 150 million about an offer to Charlie, neither herself nor Tucker, and that she does not know where that number came from.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10105"
+        "N-10101"
       ],
       "tags": [
         "relevance:context"
@@ -2987,9 +2987,9 @@
       "claim": "The host says the 150 million figure she gave was what BB (Netanyahu) spent on Operation Mocking Pastor, not an offer to Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139",
-        "N-11004",
-        "N-10105"
+        "N-10134",
+        "N-10924",
+        "N-10101"
       ],
       "tags": [
         "relevance:context"
@@ -3039,7 +3039,7 @@
         "A-1151.2"
       ],
       "related_nodes": [
-        "N-10105"
+        "N-10101"
       ],
       "tags": [
         "relevance:context"
@@ -3063,7 +3063,7 @@
       "claim": "The host says that under FARA, countries that want to influence people through lobbying must register their agents, but that there is a magic carve-out for Israel, so such agents cannot be seen in the same way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11319",
+        "N-11235",
         "N-10026"
       ],
       "tags": [
@@ -3085,8 +3085,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10105",
-        "N-11319"
+        "N-10101",
+        "N-11235"
       ],
       "tags": [
         "relevance:context"
@@ -3108,8 +3108,8 @@
       "claim": "The host says she maintains what she said earlier, that a large sum of money was offered to Charlie Kirk to take Turning Point to the next level and that Charlie refused it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
-        "N-10105"
+        "N-10320",
+        "N-10101"
       ],
       "tags": [
         "relevance:context"
@@ -3159,7 +3159,7 @@
         "A-1151.3"
       ],
       "related_nodes": [
-        "N-10100",
+        "N-10096",
         "N-10000"
       ],
       "tags": [
@@ -3184,7 +3184,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3211,7 +3211,7 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3237,8 +3237,8 @@
         "A-1151.4"
       ],
       "related_nodes": [
-        "N-10268",
-        "N-10106"
+        "N-10252",
+        "N-10102"
       ],
       "tags": [
         "relevance:context"
@@ -3260,7 +3260,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3284,7 +3284,7 @@
       "claim": "The host says Charlie was telling people he was digging his heels in further and saying he would bring Candace back, and that 'you guys kind of bullied this ending'.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3353,7 +3353,7 @@
         "A-1152.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:context"
@@ -3458,7 +3458,7 @@
         "A-3180.1"
       ],
       "related_nodes": [
-        "N-10148"
+        "N-10143"
       ],
       "tags": [
         "relevance:context"
@@ -3480,7 +3480,7 @@
       "claim": "The host says the official narrative's message, that the suspect's dad is extra MAGA and that a trans person is involved, is designed so the left reacts to MAGA and the right to a trans person, and that she never accepted it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10109"
+        "N-10105"
       ],
       "tags": [
         "relevance:context"
@@ -3523,7 +3523,7 @@
       "claim": "Responding to a viewer asking who paid for the crime scene pavers, the host says she thought it was the feds who did that, and adds that a feeling is not a fact and she will explore it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [
         "relevance:core"
@@ -3546,8 +3546,8 @@
       "claim": "The host says that after she heard the scanner call describing the shooter, the feed was taken away, and that when authorities realised 3,000 people had suddenly tuned in they decided to privatize everything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11320",
-        "N-10108"
+        "N-11236",
+        "N-10104"
       ],
       "tags": [
         "relevance:core"
@@ -3570,7 +3570,7 @@
       "claim": "The host says that authorities have tons of clear footage of the person, asks why it was not released, and suggests it might show someone in tactical gear who looked foreign or who was not Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10099",
+        "N-10095",
         "N-10014"
       ],
       "tags": [
@@ -3592,7 +3592,7 @@
       "claim": "The host says she maintains that Tyler Robinson is one piece of this and that a lot more people are involved, and that she no longer maintains it alone because Kash Patel signified as much in a long message.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10202"
+        "N-10194"
       ],
       "tags": [
         "relevance:core"

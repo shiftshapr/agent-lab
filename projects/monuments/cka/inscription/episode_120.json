@@ -31,8 +31,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10141",
-            "N-10676"
+            "N-10136",
+            "N-10643"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,8 +59,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10142",
-            "N-10677"
+            "N-10137",
+            "N-10615"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,8 +79,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10142",
-            "N-10677"
+            "N-10137",
+            "N-10615"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,8 +99,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10142",
-            "N-10677"
+            "N-10137",
+            "N-10615"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10678"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -155,7 +155,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10678"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -182,7 +182,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10678"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10678"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -253,7 +253,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10680"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10680"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10679"
+            "N-10617"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -328,7 +328,7 @@
           "related_nodes": [
             "N-3",
             "N-2",
-            "N-10532"
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -354,7 +354,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10532"
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -373,7 +373,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10532"
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -398,7 +398,7 @@
             "C-10293"
           ],
           "related_nodes": [
-            "N-10690"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -415,7 +415,7 @@
             "C-10294"
           ],
           "related_nodes": [
-            "N-10690"
+            "N-10628"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -440,7 +440,7 @@
             "C-10301"
           ],
           "related_nodes": [
-            "N-10685"
+            "N-10623"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -487,8 +487,8 @@
   "nodes": [
     {
       "@type": "Topic",
-      "@id": "N-10681",
-      "ref": "N-10681",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "topic",
       "description": "",
@@ -532,11 +532,11 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10141",
-        "N-10142",
-        "N-10676",
-        "N-10677",
-        "N-10678"
+        "N-10136",
+        "N-10137",
+        "N-10643",
+        "N-10615",
+        "N-10616"
       ]
     },
     {
@@ -559,21 +559,24 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10676",
-      "ref": "N-10676",
-      "name": "Charlie Kirk Shirt Disposal Verification",
+      "@id": "N-10643",
+      "ref": "N-10643",
+      "name": "Missing Charlie's Shirt Investigation Target",
       "type": "investigation_target",
       "description": "Persistent target: whether Charlie's \"freedom shirt\" – predicted to retain explosive residue under the mic-explosion hypothesis – was preserved as evidence or otherwise disposed of.",
       "related_artifacts": [
         "A-2085.1"
       ],
       "related_claims": [
-        "C-10230"
+        "C-10230",
+        "C-10224",
+        "C-10225",
+        "C-10237"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -582,13 +585,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10141"
+        "N-10136"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10677",
-      "ref": "N-10677",
+      "@id": "N-10615",
+      "ref": "N-10615",
       "name": "Sara Tewell Witness Statement Discrepancy",
       "type": "investigation_target",
       "description": "Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sara Tewell interviews.",
@@ -609,13 +612,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10142"
+        "N-10137"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10678",
-      "ref": "N-10678",
+      "@id": "N-10616",
+      "ref": "N-10616",
       "name": "SUV Floorboard Shard Mic Identification",
       "type": "investigation_target",
       "description": "Persistent target: whether the black shards visible on the SUV floorboard are ABS shards from a Rode Wireless Pro microphone or from another source.",
@@ -637,13 +640,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10143"
+        "N-10138"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10679",
-      "ref": "N-10679",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
       "type": "investigation_target",
       "description": "Target: court ruling permitting Twiggs's recorded statement at the preliminary hearing without live cross-examination.",
@@ -665,8 +668,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10680",
-      "ref": "N-10680",
+      "@id": "N-10618",
+      "ref": "N-10618",
       "name": "Erika Signature Change Discrepancy",
       "type": "investigation_target",
       "description": "Target: observable transformation of Erika Kirk's signature between her Miss Arizona era and current usage.",
@@ -1117,8 +1120,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@id": "N-10100",
+      "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's account of Erika presenting as Catholic after Charlie's death.",
@@ -1135,8 +1138,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@id": "N-10103",
+      "ref": "N-10103",
       "name": "Crime Scene Pavers",
       "type": "investigation_target",
       "description": "Existing topic reused for the soil removal and paving claim.",
@@ -1152,8 +1155,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's list of missing evidence in the Robinson case.",
@@ -1170,8 +1173,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@id": "N-10226",
+      "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the claim that Kash Patel took hospital camera footage.",
@@ -1187,8 +1190,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's Egyptian planes remarks.",
@@ -1205,8 +1208,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10319",
-      "ref": "N-10319",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
       "type": "investigation_target",
       "description": "Existing topic reused for the viewer comment questioning the .30-06 narrative.",
@@ -1222,8 +1225,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "investigation_target",
       "description": "Existing topic reused for the sources of evidence against Robinson.",
@@ -1241,8 +1244,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Existing topic reused for the \"Superman neck\" statement.",
@@ -1258,8 +1261,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for the camera removal claim.",
@@ -1275,8 +1278,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "Existing topic reused for the claim that Charlie loved the Catholic Church.",
@@ -1292,8 +1295,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's claim about trafficking from Eastern Europe through modeling agencies.",
@@ -1309,8 +1312,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the Superman neck tweet.",
@@ -1326,8 +1329,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10501",
-      "ref": "N-10501",
+      "@id": "N-10462",
+      "ref": "N-10462",
       "name": "Erika Kirk Real Estate License Timing Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the New York real estate license discussion.",
@@ -1343,8 +1346,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Existing topic reused for the new tips and witness reports on Erika's alleged role.",
@@ -1369,8 +1372,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
       "type": "investigation_target",
       "description": "Existing topic reused for the necklace custody claim.",
@@ -1387,8 +1390,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10581",
-      "ref": "N-10581",
+      "@id": "N-10532",
+      "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
       "type": "investigation_target",
       "description": "Existing topic reused for the defense's lack of access to the text messages.",
@@ -1404,8 +1407,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's questions about why Twiggs was not held.",
@@ -1421,8 +1424,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's remark that she is being sued over the Harpole interview.",
@@ -1438,8 +1441,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10685",
-      "ref": "N-10685",
+      "@id": "N-10623",
+      "ref": "N-10623",
       "name": "Car Interior Shards and Blood Evidence Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for the SUV disposal and shard claims.",
@@ -1456,8 +1459,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10684",
-      "ref": "N-10684",
+      "@id": "N-10622",
+      "ref": "N-10622",
       "name": "Brian Harpole Shirt Removal Event Timing",
       "type": "investigation_target",
       "description": "Existing topic reused for Harpole's account of cutting the shirt and guarding the door.",
@@ -1474,8 +1477,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10687",
-      "ref": "N-10687",
+      "@id": "N-10625",
+      "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the CPR contradiction.",
@@ -1491,8 +1494,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10688",
-      "ref": "N-10688",
+      "@id": "N-10626",
+      "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
       "type": "investigation_target",
       "description": "Existing topic reused for the clothing change at the hospital.",
@@ -1508,8 +1511,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10690",
-      "ref": "N-10690",
+      "@id": "N-10628",
+      "ref": "N-10628",
       "name": "Erika Kirk Dissociative Identity Disorder Assessment",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's persona-change discussion and the web page shown.",
@@ -1527,8 +1530,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10692",
-      "ref": "N-10692",
+      "@id": "N-10630",
+      "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
       "type": "investigation_target",
       "description": "Existing topic reused for the 911 call question.",
@@ -1544,8 +1547,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10699",
-      "ref": "N-10699",
+      "@id": "N-10636",
+      "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
       "type": "investigation_target",
       "description": "Existing topic reused for the hospital-account contradictions.",
@@ -1562,8 +1565,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10703",
-      "ref": "N-10703",
+      "@id": "N-10639",
+      "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
       "type": "investigation_target",
       "description": "Existing topic reused for the patsy / source-of-evidence discussion.",
@@ -1580,8 +1583,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10705",
-      "ref": "N-10705",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
       "type": "investigation_target",
       "description": "Existing topic reused for the shard and mic claims.",
@@ -1601,27 +1604,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10707",
-      "ref": "N-10707",
-      "name": "Missing Charlie's Shirt Investigation Target",
-      "type": "investigation_target",
-      "description": "Existing topic reused for the shirt evidence claims.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-10224",
-        "C-10225",
-        "C-10237"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10723",
-      "ref": "N-10723",
+      "@id": "N-10658",
+      "ref": "N-10658",
       "name": "Carhartt \"Freedom Shirt\" Origin",
       "type": "investigation_target",
       "description": "Existing topic reused for the freedom shirt sale claim.",
@@ -1637,8 +1621,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "911 Call Identification Gap",
       "type": "investigation_target",
       "description": "Existing topic reused for the missing 911 call.",
@@ -1654,8 +1638,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for the no-ambulance-on-standby claim.",
@@ -1671,8 +1655,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10897",
-      "ref": "N-10897",
+      "@id": "N-10818",
+      "ref": "N-10818",
       "name": "Project Constitution",
       "type": "investigation_target",
       "description": "Organization (X account) whose claims the host says draw quick replies from TPUSA.",
@@ -1688,8 +1672,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10983",
-      "ref": "N-10983",
+      "@id": "N-10891",
+      "ref": "N-10891",
       "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
       "type": "investigation_target",
       "description": "Existing topic reused for the Maine conversation claim.",
@@ -1743,8 +1727,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11053",
-      "ref": "N-11053",
+      "@id": "N-10971",
+      "ref": "N-10971",
       "name": "Charlie Kirk Handheld Microphone Custody",
       "type": "topic",
       "description": "Persistent target: where Charlie Kirk's handheld microphone went after the shooting, including the host's claim that it was not kept in evidence and was displayed in glass at a Mar-a-Lago fundraiser.",
@@ -1761,8 +1745,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11054",
-      "ref": "N-11054",
+      "@id": "N-10972",
+      "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
       "type": "topic",
       "description": "Persistent target: whether bomb-detection dogs were kept away from the UVU crime scene, as the host lists in her exploding-mic evidence chart.",
@@ -1778,8 +1762,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11055",
-      "ref": "N-11055",
+      "@id": "N-10973",
+      "ref": "N-10973",
       "name": "Tyler Robinson Gunshot Residue Test Question",
       "type": "topic",
       "description": "Persistent target: whether a standard gunshot residue test was performed on Tyler Robinson when he was brought in, which the host says was not done.",
@@ -1795,8 +1779,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11056",
-      "ref": "N-11056",
+      "@id": "N-10974",
+      "ref": "N-10974",
       "name": "Erika Kirk Employee Statement Contradiction",
       "type": "topic",
       "description": "Persistent target: the host's comparison of Erika Kirk's January conference-call remarks to employees with her June remarks to donors about whether she already knew the staff and departments.",
@@ -1823,7 +1807,7 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-10676"
+        "N-10643"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -1844,7 +1828,7 @@
         "A-2086.1"
       ],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:18:25",
@@ -1864,7 +1848,7 @@
         "A-2086.2"
       ],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:20:28",
@@ -1884,7 +1868,7 @@
         "A-2086.3"
       ],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:21:43",
@@ -1904,7 +1888,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38",
@@ -1925,7 +1909,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
@@ -1945,7 +1929,7 @@
         "A-2087.1"
       ],
       "related_nodes": [
-        "N-10678"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:13:23",
@@ -1962,7 +1946,7 @@
         "A-2089.1"
       ],
       "related_nodes": [
-        "N-10678"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:14:51",
@@ -1979,7 +1963,7 @@
         "A-2088.1"
       ],
       "related_nodes": [
-        "N-10678"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:15:51",
@@ -1996,7 +1980,7 @@
         "A-2091.2"
       ],
       "related_nodes": [
-        "N-10680"
+        "N-10618"
       ],
       "tags": [],
       "claim_timestamp": "00:39:46",
@@ -2014,8 +1998,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10707",
-        "N-10723"
+        "N-10643",
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:01:11",
@@ -2033,7 +2017,7 @@
       "claim": "The host says someone pointed out to her that Baron Coleman, in his early coverage of the case, had already furnished the answer to her question about what happened to Charlie's shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10707"
+        "N-10643"
       ],
       "tags": [],
       "claim_timestamp": "00:02:12",
@@ -2052,7 +2036,7 @@
       "claim": "The host says 10 inches of soil were dug out immediately, the spot was repaved by Saturday (Charlie died on a Wednesday), and pavers were installed by Sunday, so the soil cannot be tested for explosive residue.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10107"
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:03:41",
@@ -2073,7 +2057,7 @@
       "claim": "The host says the feds were looking for Charlie's necklace, as was Frank Turek, and that it was then given to the widow, who now wears it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:03:41",
@@ -2093,7 +2077,7 @@
       "claim": "The host says the handheld microphone was not kept in evidence because the widow needed it for the Mar-a-Lago fundraiser, where it is encased in glass beside her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11053"
+        "N-10971"
       ],
       "tags": [],
       "claim_timestamp": "00:04:26",
@@ -2116,7 +2100,7 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:04:26",
@@ -2138,7 +2122,7 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-10684"
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
@@ -2162,7 +2146,7 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-10684"
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
@@ -2180,8 +2164,8 @@
       "claim": "The host says she still cannot work out who in the car called 911 and cannot find the 911 call, though it is said someone did call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10692",
-        "N-10729"
+        "N-10630",
+        "N-10663"
       ],
       "tags": [],
       "claim_timestamp": "00:06:55",
@@ -2201,8 +2185,8 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-10687",
-        "N-10699"
+        "N-10625",
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:09:30",
@@ -2220,7 +2204,7 @@
       "claim": "The host says Kash Patel \"had to swoop in\" and take the cameras from inside the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10239"
+        "N-10226"
       ],
       "tags": [],
       "claim_timestamp": "00:09:30",
@@ -2243,8 +2227,8 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-10688",
-        "N-10699"
+        "N-10626",
+        "N-10636"
       ],
       "tags": [],
       "claim_timestamp": "00:09:30",
@@ -2265,8 +2249,7 @@
       "claim": "The host says she does not see Charlie's shirt in evidence, marked as evidence, or in the court filings, and guesses it has been disposed of.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10676",
-        "N-10707"
+        "N-10643"
       ],
       "tags": [],
       "claim_timestamp": "00:11:28",
@@ -2284,7 +2267,7 @@
       "claim": "The host says, running the scenario that it was an inside job, that the SUV was sent for a tow, a cleanup and an auction very expeditiously and that they did not want to keep it for evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -2302,7 +2285,7 @@
       "claim": "The host says Jon Bray immediately identified the mic as the potential source of a shaped-charge explosion and went looking for shattered ABS from the Rode Wireless Pro.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:12:20",
@@ -2325,7 +2308,7 @@
         "A-2087.1"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:13:23",
@@ -2348,7 +2331,7 @@
         "A-2089.2"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:15:51",
@@ -2365,7 +2348,7 @@
         "A-2089.2"
       ],
       "related_nodes": [
-        "N-10705"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:16:41",
@@ -2382,7 +2365,7 @@
         "A-2086.1"
       ],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:19:10",
@@ -2403,7 +2386,7 @@
         "A-2086.2"
       ],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:19:54",
@@ -2423,7 +2406,7 @@
         "A-2086.3"
       ],
       "related_nodes": [
-        "N-10677"
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:20:48",
@@ -2441,15 +2424,15 @@
       "claim": "In her list supporting the exploding-mic theory, the host says bomb dogs were kept away from the scene.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054",
-        "N-10107"
+        "N-10972",
+        "N-10103"
       ],
       "tags": [],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Obtain UVU/Utah DPS incident logs showing whether and when K-9 units were called or deployed.",
       "transcript_snippet": "Um bomb dogs being kept away from the scene. Why the crime scene was immediately paved over and the soil was excavated",
       "mentions_person_refs": [
-        "N-10107"
+        "N-10103"
       ]
     },
     {
@@ -2460,7 +2443,7 @@
       "claim": "The host says the feds did not conduct a standard gunshot residue test when Tyler Robinson was brought in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11055"
+        "N-10973"
       ],
       "tags": [],
       "claim_timestamp": "00:22:45",
@@ -2478,7 +2461,7 @@
       "claim": "The host says there is no available footage or eyewitness report of someone firing a shot from the Losee building, despite an active campus at midday.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:22:45",
@@ -2493,7 +2476,7 @@
       "claim": "The host says Terryl Farnsworth violated the crime scene to remove the back footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346"
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:22:45",
@@ -2511,7 +2494,7 @@
       "claim": "The host says there was unusually no ambulance on standby at the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [],
       "claim_timestamp": "00:23:38",
@@ -2543,8 +2526,8 @@
       "claim": "The host says the roommate Robinson may have been dating is the only source of \"clear evidence\" against him in the form of a dramatized text confession that she says does not pass the sniff test.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337",
-        "N-10703"
+        "N-10316",
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
@@ -2563,8 +2546,8 @@
       "claim": "The host says the evidence against Tyler Robinson includes a handwritten note that was subsequently destroyed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10337",
-        "N-10703"
+        "N-10316",
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
@@ -2582,7 +2565,7 @@
       "claim": "The host says Lance Twiggs is the person who is curiously not held for questioning by the FBI, and speculates he might be a protected federal asset.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38",
@@ -2602,7 +2585,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
@@ -2622,7 +2605,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
@@ -2643,7 +2626,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
@@ -2663,7 +2646,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
@@ -2682,8 +2665,8 @@
       "claim": "The host says the defense has not been given access to Robinson's text messages to confirm they are real or were sent from his phone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10581",
-        "N-10337"
+        "N-10532",
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
@@ -2703,7 +2686,7 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-10679"
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:28:09",
@@ -2721,7 +2704,7 @@
       "claim": "The host recounts a tip she says was well vetted that Erika was in charge of modeling apartments for underage Eastern European girls shuffled through Next Model Management, owned by Faith Kates.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:32:11",
@@ -2743,7 +2726,7 @@
       "claim": "The host says Faith Kates' emails appear throughout the released Epstein emails.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:33:03",
@@ -2765,7 +2748,7 @@
       "claim": "The host says she learned Epstein himself regularly hung out at the Next Model Management office when in town.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:33:03",
@@ -2783,7 +2766,7 @@
       "claim": "The host says the tip said Erika was in charge of a white apartment building on the Upper East Side where the models were housed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:33:03",
@@ -2801,7 +2784,7 @@
       "claim": "The host says she could not confirm whether the building was the one owned by Jeffrey Epstein's brother Mark Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:33:03",
@@ -2821,7 +2804,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:33:58",
@@ -2831,7 +2814,7 @@
         "C-6863"
       ],
       "mentions_person_refs": [
-        "N-10532"
+        "N-10478"
       ]
     },
     {
@@ -2842,7 +2825,7 @@
       "claim": "The host says Erika is quick to respond to Project Constitution when it says she is dating someone, with a reply she thinks Andrew Kolvet wrote that referred to Dorito dust.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10897"
+        "N-10818"
       ],
       "tags": [],
       "claim_timestamp": "00:33:58",
@@ -2863,7 +2846,7 @@
         "A-2780.1"
       ],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:34:44",
@@ -2884,7 +2867,7 @@
       "claim": "The host says Epstein trafficked many women from Eastern Europe through modeling agencies such as the one with Jean-Luc Brunel in France.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10401"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:35:30",
@@ -2903,7 +2886,7 @@
       "claim": "The host says Faith Kates remained Epstein's loyal defender after he was found guilty, which cost her reputation and career.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:35:30",
@@ -2922,7 +2905,7 @@
       "claim": "The host says she could not find a long history of Erika as a real estate agent, though Erika got her license in New York.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10501"
+        "N-10462"
       ],
       "tags": [],
       "claim_timestamp": "00:36:22",
@@ -2940,7 +2923,7 @@
       "claim": "The host says Erika claims to have been a casting director, real estate agent, pageant model, Romanian Angels charity runner with the Marines, clothing designer and reality TV star during her time in New York.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10501"
+        "N-10462"
       ],
       "tags": [],
       "claim_timestamp": "00:36:22",
@@ -2960,7 +2943,7 @@
         "A-2780.2"
       ],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:37:13",
@@ -2980,7 +2963,7 @@
         "A-2780.2"
       ],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:38:03",
@@ -3000,7 +2983,7 @@
         "A-2779.1"
       ],
       "related_nodes": [
-        "N-10532"
+        "N-10478"
       ],
       "tags": [],
       "claim_timestamp": "00:38:03",
@@ -3022,7 +3005,7 @@
         "A-2091.2"
       ],
       "related_nodes": [
-        "N-10680"
+        "N-10618"
       ],
       "tags": [],
       "claim_timestamp": "00:39:46",
@@ -3045,7 +3028,7 @@
         "A-2091.2"
       ],
       "related_nodes": [
-        "N-10680"
+        "N-10618"
       ],
       "tags": [],
       "claim_timestamp": "00:39:46",
@@ -3063,7 +3046,7 @@
       "claim": "The host says that in January Erika told employees on a conference call she could not wait to meet them, learn their names, see their work and know their hearts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11056"
+        "N-10974"
       ],
       "tags": [],
       "claim_timestamp": "00:41:19",
@@ -3081,7 +3064,7 @@
       "claim": "The host says in June Erika, angry on stage, told donors the plan was always this, that she was already at the office every day and knew everyone's names and every department.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11056"
+        "N-10974"
       ],
       "tags": [],
       "claim_timestamp": "00:41:19",
@@ -3102,7 +3085,7 @@
       "claim": "The host says Tucker Carlson told her in Maine that Erika was radically anti-Israel and hated the pastors around Charlie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10983"
+        "N-10891"
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
@@ -3146,7 +3129,7 @@
       "claim": "The host says that when she spoke to Erika's ex-boyfriends, they did not recognize the Erika Kirk they see today.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:42:45",
@@ -3164,7 +3147,7 @@
       "claim": "The host says Erika got up and said she never dated anyone before Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:43:25",
@@ -3188,7 +3171,7 @@
         "A-2781.1"
       ],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:43:25",
@@ -3205,7 +3188,7 @@
         "A-2781.2"
       ],
       "related_nodes": [
-        "N-10690"
+        "N-10628"
       ],
       "tags": [],
       "claim_timestamp": "00:44:17",
@@ -3220,8 +3203,8 @@
       "claim": "The host says Erika presented herself as Catholic right after Charlie died, telling a woman in the back of a church how much Charlie loved the Catholic Church.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104",
-        "N-10350"
+        "N-10100",
+        "N-10328"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
@@ -3240,7 +3223,7 @@
       "claim": "The host says the woman flew back to Chicago to bring Erika a relic, and was uncomfortable when she was later invited to Mar-a-Lago and Erika presented as Judeo-Christian with no mention of Catholicism.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10104"
+        "N-10100"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
@@ -3333,7 +3316,7 @@
         "A-2782.1"
       ],
       "related_nodes": [
-        "N-10685"
+        "N-10623"
       ],
       "tags": [],
       "claim_timestamp": "00:52:13",
@@ -3366,8 +3349,8 @@
       "claim": "The host says everything that should be in evidence was given to Erika for fundraising, to establish the widow narrative.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11053",
-        "N-10537"
+        "N-10971",
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:54:24",
@@ -3389,8 +3372,8 @@
       "claim": "The host theorizes that the plan was for the hit to land in the chest, but due to Charlie's bent posture the shaped charge hit his neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10705",
-        "N-10677"
+        "N-10641",
+        "N-10615"
       ],
       "tags": [],
       "claim_timestamp": "00:56:42",
@@ -3408,8 +3391,8 @@
       "claim": "The host says Andrew Kolvet pressed send on a tweet about Charlie's \"Superman neck\" and that he eats good veggies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10447"
+        "N-10319",
+        "N-10416"
       ],
       "tags": [],
       "claim_timestamp": "00:56:42",
@@ -3429,8 +3412,8 @@
         "A-2782.3"
       ],
       "related_nodes": [
-        "N-10319",
-        "N-10253"
+        "N-10300",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:57:35",
@@ -3449,7 +3432,7 @@
       "claim": "The host says the Egyptian planes are intelligence related and were in the US on the day of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:57:35",

@@ -12,11 +12,11 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-750, N-752, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
+  - Tip-minted Nodes (supplement_2026-10): N-750, N-752, N-10992, N-10993, N-10994, N-10995, N-10996, N-10999
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13518–C-13644
-  - New Nodes Introduced: N-10859, N-10861
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-271, N-224, N-266, N-7, N-270, N-159, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-190, N-217, N-227, N-331, N-361, N-378, N-489, N-506, N-535, N-665, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-751, N-10860, N-11080, N-226, N-11079, N-753
+  - New Nodes Introduced: N-10780, N-10782
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-271, N-224, N-266, N-7, N-270, N-159, N-10211, N-10229, N-10589, N-10347, N-10614, N-10632, N-10762, N-10763, N-8, N-10, N-11, N-12, N-10783, N-10784, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-190, N-217, N-227, N-331, N-361, N-378, N-489, N-506, N-535, N-665, N-10012, N-10018, N-10027, N-10071, N-10113, N-10117, N-10124, N-10209, N-10239, N-10248, N-10259, N-10303, N-10320, N-10325, N-10256, N-10341, N-10361, N-10385, N-10415, N-10425, N-10494, N-10593, N-10129, N-10613, N-10625, N-10636, N-10637, N-10660, N-10709, N-10764, N-10791, N-10792, N-10809, N-10846, N-751, N-10781, N-10998, N-226, N-10997, N-753
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:04:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as read on air); Medium (page citations as stated by host)
 
-*Related: C-13522, C-13521, N-10839, N-10859*
+*Related: C-13522, C-13521, N-10762, N-10780*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read); Medium (club-president intent characterization)
 
-*Related: C-13532, N-10860, N-10675, N-10243, N-8*
+*Related: C-13532, N-10781, N-10614, N-10229, N-8*
 
 ---
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13566, N-10243, N-10860*
+*Related: C-13566, N-10229, N-10781*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-13522, N-10859, N-266, N-270, N-10694, N-8*
+*Related: C-13522, N-10780, N-266, N-270, N-10632, N-8*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:45:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (document vs podcast as characterized by host)
 
-*Related: C-13580, C-13582, N-10862, N-266, N-224, N-10645, N-10373*
+*Related: C-13580, C-13582, N-10783, N-266, N-224, N-10589, N-10347*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:28:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (threat content as summarized); High (that SIAC contact is reported)
 
-*Related: C-13555, N-10861, N-271*
+*Related: C-13555, N-10782, N-271*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read)
 
-*Related: C-13551, N-270, N-271, N-10694, N-10272*
+*Related: C-13551, N-270, N-271, N-10632, N-10256*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite host timeline)
 
-*Related: C-13595, N-10863, N-1, N-10675*
+*Related: C-13595, N-10784, N-1, N-10614*
 
 ---
 
@@ -286,7 +286,7 @@ Video Timestamp: 01:12:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip as aired); Low (any causal link to UVU event–host presents as background context only)
 
-*Related: C-13626, N-10860, N-8*
+*Related: C-13626, N-10781, N-8*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 01:22:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read)
 
-*Related: C-13519, C-13636, N-10861, N-10839*
+*Related: C-13519, C-13636, N-10782, N-10762*
 
 ---
 
@@ -626,7 +626,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13522, C-13580, C-13582, A-2452.1, A-2453.1, N-10862*
+*Related: C-13522, C-13580, C-13582, A-2452.1, A-2453.1, N-10783*
 
 ---
 
@@ -650,7 +650,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13522, C-13551, A-2452.1, A-2455.1, N-10694*
+*Related: C-13522, C-13551, A-2452.1, A-2455.1, N-10632*
 
 ---
 
@@ -666,7 +666,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10221** UVU Event Application Anomaly
+**N-10211** UVU Event Approval Timeline Anomaly
 
 Prior topic on irregular UVU event-application mechanics; reinforced by July 10 HQ-driven request pattern in the independent review.
 
@@ -674,11 +674,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13532, N-10860*
+*Related: C-13532, N-10781*
 
 ---
 
-**N-10243** UVU Outdoor Venue Selection Discrepancy
+**N-10229** UVU Outdoor Venue Selection Discrepancy
 
 Prior topic on outdoor/courtyard venue selection; episode supplies report language that TPUSA insisted on Fountain Courtyard against UVU concerns, contradicting Harpole’s “UVU chose the venue” claim.
 
@@ -690,7 +690,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10272** Harpole–Flood Text Attribution Discrepancy
+**N-10256** Harpole–Flood Text Attribution Discrepancy
 
 Prior topic on Harpole/Flood messaging; episode revisits Flood–Long operational texts and canopy focus in the report timeline.
 
@@ -702,7 +702,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10645** UVU Drone Authorization Records
+**N-10589** UVU Drone Authorization Records
 
 Prior topic on drone authorization; episode cites Harpole podcast claims about drones/airspace that the review team finds unsupported or contradicted.
 
@@ -714,7 +714,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10373** Brian Harpole Fort Huachuca Presence Verification
+**N-10347** Brian Harpole Fort Huachuca Presence Verification
 
 Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.
 
@@ -722,11 +722,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13580, N-10862*
+*Related: C-13580, N-10783*
 
 ---
 
-**N-10675** Turning Point UVU Event Submission Chain
+**N-10614** Turning Point UVU Event Submission Chain
 
 Prior topic on TPUSA UVU submission chain; episode adds independent-review documentation of Crofts-initiated July 10 request and August 25 insistence.
 
@@ -734,11 +734,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13532, C-13566, A-2451.2, N-10860*
+*Related: C-13532, C-13566, A-2451.2, N-10781*
 
 ---
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 Prior Dan Flood role topic; reinforced by non-participation finding and pre-event coordination details in the review.
 
@@ -750,7 +750,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10839** Independent Review of UVU Security Failures
+**N-10762** Independent Review of UVU Security Failures
 
 Directly advanced: the third-party review document is now public and read on air; becomes primary source artifact for prior “review incoming” claims.
 
@@ -758,11 +758,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-13522, C-13521, A-2451.1, N-10859*
+*Related: C-13522, C-13521, A-2451.1, N-10780*
 
 ---
 
-**N-10840** UVU Ambulance Denial Discrepancy
+**N-10763** UVU Ambulance Denial Discrepancy
 
 Prior ambulance-denial topic; host notes report context that headquarters-directed messaging included declining an ambulance among other security choices.
 
@@ -774,7 +774,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10859** TPUSA Non-Participation in UVU Independent Review
+**N-10780** TPUSA Non-Participation in UVU Independent Review
 
 New topic: documented refusal/non-response by Harpole, Flood, Crofts, club president, and Phoenix senior staff to Lake Forest Group outreach despite public “want the truth” messaging.
 
@@ -783,11 +783,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13522, C-13521, A-2452.1, N-10839*
+*Related: C-13522, C-13521, A-2452.1, N-10762*
 
 ---
 
-**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-10781** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 New topic: independent-review timeline that TPUSA field rep Maycee Crofts directed UVU club president Caleb Chilcutt to request Charlie Kirk in the courtyard on July 10, 2025, inverting normal chapter-request flow; includes August 25 MEAC insistence on Fountain Courtyard.
 
@@ -796,11 +796,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13532, C-13566, A-2451.2, A-2451.3, N-10675, N-10243, N-8*
+*Related: C-13532, C-13566, A-2451.2, A-2451.3, N-10614, N-10229, N-8*
 
 ---
 
-**N-10861** Anonymous EMP Device Threat (SIAC, Sept 10)
+**N-10782** Anonymous EMP Device Threat (SIAC, Sept 10)
 
 New topic: Chief Long’s September 10 SIAC contact regarding anonymous threat referencing an electromagnetic-pulse device at the event; host connects to prior camera-outage questions.
 
@@ -813,7 +813,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 New topic: systematic comparison of Harpole’s Shawn Ryan podcast assertions (venue chooser, airspace/drone, counter-sniper legality, planning start) against Lake Forest Group interview evidence and timeline.
 
@@ -822,11 +822,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-13580, C-13582, A-2453.1, N-266, N-224, N-10373*
+*Related: C-13580, C-13582, A-2453.1, N-266, N-224, N-10347*
 
 ---
 
-**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-10784** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 New topic: host overlay of Charlie’s July–August personal/political pressures (BB/White House, Epstein walk-back, travel, sponsorship addendum, plane movements, Hamptons “intervention”) onto the UVU booking chain beginning July 10.
 
@@ -835,7 +835,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-13595, A-2456.1, N-1, N-10675*
+*Related: C-13595, A-2456.1, N-1, N-10614*
 
 ---
 
@@ -1075,7 +1075,7 @@ Place of the August 2025 donor retreat.
 
 ---
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Place whose airport airspace Harpole cited for the drone restriction.
 
@@ -1083,7 +1083,7 @@ Place whose airport airspace Harpole cited for the drone restriction.
 
 ---
 
-**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+**N-10113** Jezebel/Etsy Hex on Charlie Kirk
 
 Topic of the Jezebel witch's curse article.
 
@@ -1091,7 +1091,7 @@ Topic of the Jezebel witch's curse article.
 
 ---
 
-**N-10122** Jezebel
+**N-10117** Jezebel
 
 Publication that ran the June 26 witch's curse article.
 
@@ -1099,7 +1099,7 @@ Publication that ran the June 26 witch's curse article.
 
 ---
 
-**N-10129** Orem Police Department
+**N-10124** Orem Police Department
 
 Neighboring police department whose drone the review says could have been requested.
 
@@ -1107,7 +1107,7 @@ Neighboring police department whose drone the review says could have been reques
 
 ---
 
-**N-10219** Mikey McCoy Pre-Death Documentation Pattern
+**N-10209** Mikey McCoy Pre-Death Documentation Pattern
 
 Prior topic on Mikey McCoy's pre-death documentation pattern, tied to the Maine footage.
 
@@ -1115,7 +1115,7 @@ Prior topic on Mikey McCoy's pre-death documentation pattern, tied to the Maine 
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Topic tracking the Egyptian planes in the July and August timeline.
 
@@ -1123,7 +1123,7 @@ Topic tracking the Egyptian planes in the July and August timeline.
 
 ---
 
-**N-10264** Calvary Chapel Pro-Israel Coordination
+**N-10248** Calvary Chapel Pro-Israel Coordination
 
 Topic for Calvary Chapel pro-Israel coordination, linked to Erika's July 14 speech.
 
@@ -1131,7 +1131,7 @@ Topic for Calvary Chapel pro-Israel coordination, linked to Erika's July 14 spee
 
 ---
 
-**N-10276** Nebraska–Egypt Trade Mission / BTT Plane Overlap
+**N-10259** Nebraska–Egypt Trade Mission / BTT Plane Overlap
 
 Topic tying Nebraska flights to the Egyptian plane timeline.
 
@@ -1139,7 +1139,7 @@ Topic tying Nebraska flights to the Egyptian plane timeline.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Topic for Epstein files release, tied to Kirk's July pressure.
 
@@ -1147,7 +1147,7 @@ Topic for Epstein files release, tied to Kirk's July pressure.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Prior topic on the Netanyahu offer to take TPUSA to the next level; the host adds Kolvet's account and TPUSA's private rebuttal.
 
@@ -1155,7 +1155,7 @@ Prior topic on the Netanyahu offer to take TPUSA to the next level; the host add
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Topic for Egyptian planes and Israel flight patterns.
 
@@ -1163,15 +1163,7 @@ Topic for Egyptian planes and Israel flight patterns.
 
 ---
 
-**N-10356** Brian Harpole Dan Flood Text Misattribution
-
-Prior topic on Harpole presenting the Flood and Long texts as his own; reinforced by the verbatim exchange read here.
-
-*Related: C-13552, C-13553, C-13554, C-13573, C-13574*
-
----
-
-**N-10366** Operation Valhalla Strike
+**N-10341** Operation Valhalla Strike
 
 Prior topic on Operation Valhalla Strike, which the host places in Minnesota from August 24.
 
@@ -1179,7 +1171,7 @@ Prior topic on Operation Valhalla Strike, which the host places in Minnesota fro
 
 ---
 
-**N-10388** Missing Money from Turning Point Action
+**N-10361** Missing Money from Turning Point Action
 
 Topic for missing Turning Point Action money and the alleged plan to fire Tyler Bowyer.
 
@@ -1187,7 +1179,7 @@ Topic for missing Turning Point Action money and the alleged plan to fire Tyler 
 
 ---
 
-**N-10412** Erika Kirk June 19 Instagram Purge
+**N-10385** Erika Kirk June 19 Instagram Purge
 
 Prior topic on Erika Kirk's June 19 Instagram purge.
 
@@ -1195,7 +1187,7 @@ Prior topic on Erika Kirk's June 19 Instagram purge.
 
 ---
 
-**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Prior topic on the Hamptons Netanyahu funding offer.
 
@@ -1203,7 +1195,7 @@ Prior topic on the Hamptons Netanyahu funding offer.
 
 ---
 
-**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+**N-10425** Charlie Kirk BB Netanyahu Show Refusal
 
 Prior topic on Charlie declining to host Netanyahu.
 
@@ -1211,7 +1203,7 @@ Prior topic on Charlie declining to host Netanyahu.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Prior topic on Charlie Kirk's June Iran war opposition.
 
@@ -1219,7 +1211,7 @@ Prior topic on Charlie Kirk's June Iran war opposition.
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Prior topic on Harpole lawsuit coordination, tied to the host's statement that she is being sued.
 
@@ -1227,7 +1219,7 @@ Prior topic on Harpole lawsuit coordination, tied to the host's statement that s
 
 ---
 
-**N-10673** Hamptons August 5–7 Intervention Event
+**N-10129** Hamptons Weekend Retreat
 
 Prior topic on the August Hamptons intervention event.
 
@@ -1235,7 +1227,7 @@ Prior topic on the August Hamptons intervention event.
 
 ---
 
-**N-10674** June 18 White House Meeting on Iran Involvement
+**N-10613** June 18 White House Meeting on Iran Involvement
 
 Prior topic on the June 18 White House meeting.
 
@@ -1243,7 +1235,7 @@ Prior topic on the June 18 White House meeting.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Prior topic on Frank Turek's CPR claim, tied to the review's fire chief CPR line.
 
@@ -1251,7 +1243,7 @@ Prior topic on Frank Turek's CPR claim, tied to the review's fire chief CPR line
 
 ---
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Prior topic on the Harpole and Turek CPR contradiction.
 
@@ -1259,7 +1251,7 @@ Prior topic on the Harpole and Turek CPR contradiction.
 
 ---
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 Prior topic listing pending FOIA requests.
 
@@ -1267,7 +1259,7 @@ Prior topic listing pending FOIA requests.
 
 ---
 
-**N-10725** Officer Bagley Body-Cam Battery Anomaly
+**N-10660** Officer Bagley Body-Cam Battery Anomaly
 
 Prior topic on Officer Bagley's body camera battery.
 
@@ -1275,7 +1267,7 @@ Prior topic on Officer Bagley's body camera battery.
 
 ---
 
-**N-10784** Officer Bagley – Sex Crimes Unit Background
+**N-10709** Officer Bagley – Sex Crimes Unit Background
 
 Prior topic on Officer Bagley's sex crimes background.
 
@@ -1283,7 +1275,7 @@ Prior topic on Officer Bagley's sex crimes background.
 
 ---
 
-**N-10841** Nampa Christian School Opt-In Question
+**N-10764** Nampa Christian School Opt-In Question
 
 Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by Nampa police.
 
@@ -1291,7 +1283,7 @@ Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by
 
 ---
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Prior topic on the Yrefy sponsorship and the July 25 addendum.
 
@@ -1299,7 +1291,7 @@ Prior topic on the Yrefy sponsorship and the July 25 addendum.
 
 ---
 
-**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
+**N-10792** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 Prior topic on the expanded concurrent timeline for 2025.
 
@@ -1307,7 +1299,7 @@ Prior topic on the expanded concurrent timeline for 2025.
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Named as the agency the host says runs a paid online campaign.
 
@@ -1315,7 +1307,7 @@ Named as the agency the host says runs a paid online campaign.
 
 ---
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 Organization whose finances are the subject of the missing money rumors.
 
@@ -1362,7 +1354,7 @@ Aliases (transcript spelling): Claire Guinan.
 
 ---
 
-**N-11074** UVUPD Fugal Gateway Command Post
+**N-10992** UVUPD Fugal Gateway Command Post
 
 Node Type: Topic
 Chief Long's command post on the second floor of the Fugal Gateway building from 11:30 a.m. on September 10, from which the review says the whole event area was visible and which no TPUSA security member joined.
@@ -1371,7 +1363,7 @@ Chief Long's command post on the second floor of the Fugal Gateway building from
 
 ---
 
-**N-11075** Wristband and VIP Access Question
+**N-10993** Wristband and VIP Access Question
 
 Node Type: Topic
 The host's question about who distributed wristbands to people seated near Charlie Kirk's vehicle given the review's finding of no formal credentialing, screening or ticket verification.
@@ -1380,7 +1372,7 @@ The host's question about who distributed wristbands to people seated near Charl
 
 ---
 
-**N-11076** Lake Forest Group
+**N-10994** Lake Forest Group
 
 Node Type: Organization
 The third-party firm UVU engaged almost immediately after the assassination to review security protocols for the September 10 event (transcript spelling Lake Forest Group).
@@ -1389,7 +1381,7 @@ The third-party firm UVU engaged almost immediately after the assassination to r
 
 ---
 
-**N-11077** UVU Major Events Assessment Committee (MEAC)
+**N-10995** UVU Major Events Assessment Committee (MEAC)
 
 Node Type: Organization
 The UVU committee, convened from August 21, 2025, that reviewed the TPUSA event in an August 25 Teams meeting and approved it on August 27.
@@ -1398,7 +1390,7 @@ The UVU committee, convened from August 21, 2025, that reviewed the TPUSA event 
 
 ---
 
-**N-11078** UVU Free Speech Committee
+**N-10996** UVU Free Speech Committee
 
 Node Type: Organization
 The UVU committee the host praises for flagging expected protests, monitoring complaints and discussing emergency operations center activation before the event.
@@ -1407,7 +1399,7 @@ The UVU committee the host praises for flagging expected protests, monitoring co
 
 ---
 
-**N-11079** Operation Midnight Hammer
+**N-10997** Operation Midnight Hammer
 
 Node Type: Topic
 The June 2025 U.S. strike on Iranian nuclear sites named by the host in her concurrent timeline.
@@ -1416,7 +1408,7 @@ The June 2025 U.S. strike on Iranian nuclear sites named by the host in her conc
 
 ---
 
-**N-11080** Student Action Summit July 2025 (Tampa)
+**N-10998** Student Action Summit July 2025 (Tampa)
 
 Node Type: Topic
 The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, where Tucker Carlson spoke and Kirk's Epstein remarks drew donor reaction per the host.
@@ -1425,7 +1417,7 @@ The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, wher
 
 ---
 
-**N-11081** New York Post Weinstein Payment Story
+**N-10999** New York Post Weinstein Payment Story
 
 Node Type: Topic
 The story the host says the New York Post ran in the week of the episode implying she accepted $1.5 million from Harvey Weinstein, which she denies.
@@ -1445,7 +1437,7 @@ Claim: The Lake Forest Group independent review documents that despite repeated 
 Anchored Artifacts: A-2452.1, A-2451.1
 Mentions: N-8, N-266, N-270, N-10
 
-Related Nodes: N-10694, N-10839, N-10859
+Related Nodes: N-10632, N-10762, N-10780
 
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
@@ -1460,7 +1452,7 @@ Claim: Host asserts Erika Kirk / TPUSA public messaging about wanting answers is
 Anchored Artifacts: A-2451.1, A-2452.1
 Mentions: N-2, N-14, N-159
 
-Related Nodes: N-10839, N-10859
+Related Nodes: N-10762, N-10780
 
 Investigative Direction: Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review.
 
@@ -1475,7 +1467,7 @@ Claim: The independent-review timeline states that on July 10, 2025, at the requ
 Anchored Artifacts: A-2451.2
 Mentions: N-8, N-1, N-10
 
-Related Nodes: N-10221, N-10675, N-10860
+Related Nodes: N-10211, N-10614, N-10781
 
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
@@ -1490,7 +1482,7 @@ Claim: Meeting participants told the review team that at the August 25 major-eve
 Anchored Artifacts: A-2451.3
 Mentions: N-8, N-1
 
-Related Nodes: N-10243, N-10675, N-10860
+Related Nodes: N-10229, N-10614, N-10781
 
 Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.
 
@@ -1505,7 +1497,7 @@ Claim: Brian Harpole stated on Shawn Ryan’s podcast that UVU selected the venu
 Anchored Artifacts: A-2453.1, A-2451.3
 Mentions: N-224, N-266
 
-Related Nodes: N-10243, N-10373, N-10862
+Related Nodes: N-10229, N-10347, N-10783
 
 Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.
 
@@ -1520,7 +1512,7 @@ Claim: Host, following the review, asserts Harpole’s podcast remarks about Pro
 Anchored Artifacts: A-2453.1
 Mentions: N-266
 
-Related Nodes: N-10645, N-10373, N-10862
+Related Nodes: N-10589, N-10347, N-10783
 
 Investigative Direction: Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.
 
@@ -1535,7 +1527,7 @@ Claim: Per the review as read by the host, Chief Jeff Long contacted Utah SIAC o
 Anchored Artifacts: A-2454.1
 Mentions: N-271
 
-Related Nodes: N-10861
+Related Nodes: N-10782
 
 Investigative Direction: FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.
 
@@ -1550,7 +1542,7 @@ Claim: Per the review timeline the host reads, on September 3 (T-minus 7 days) D
 Anchored Artifacts: A-2455.1
 Mentions: N-270, N-271
 
-Related Nodes: N-10694, N-10839
+Related Nodes: N-10632, N-10762
 
 Investigative Direction: Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.
 
@@ -1565,7 +1557,7 @@ Claim: Host presents Charlie Kirk's July–August 2025 pressures (Epstein-covera
 Anchored Artifacts: A-2456.1
 Mentions: N-1, N-2, N-36
 
-Related Nodes: N-10675, N-10860, N-10863
+Related Nodes: N-10614, N-10781, N-10784
 
 Investigative Direction: Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference.
 
@@ -1580,7 +1572,7 @@ Claim: Host presents news-clip reporting that the criminal case against former c
 Anchored Artifacts: A-2457.1
 Mentions: N-8, N-12
 
-Related Nodes: N-10860
+Related Nodes: N-10781
 
 Investigative Direction: Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”
 
@@ -1595,7 +1587,7 @@ Claim: Host asserts the Kirk family’s statement blaming UVU security was a has
 Anchored Artifacts: A-2451.1, A-2458.1
 Mentions: N-2, N-330
 
-Related Nodes: N-10839, N-10859
+Related Nodes: N-10762, N-10780
 
 Investigative Direction: Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary.
 
@@ -1610,7 +1602,7 @@ Claim: In responding to a viewer EMP comment, host restates that security camera
 Anchored Artifacts: A-2458.1, A-2454.1
 Mentions: N-1
 
-Related Nodes: N-10861
+Related Nodes: N-10782
 
 Investigative Direction: Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed.
 
@@ -1626,7 +1618,7 @@ Transcript Snippet: The Department of War has executed a campaign, an online cam
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10888
+Related Nodes: N-10809
 Investigative Direction: Obtain contracts, payment records or disclosures showing any Department of War payments to online accounts attacking the host.
 
 ---
@@ -1641,7 +1633,7 @@ Transcript Snippet: essentially almost immediately UVU reached out to a third pa
 
 Anchored Artifacts: A-2451.1
 Mentions: 
-Related Nodes: N-10012, N-10839, N-11076
+Related Nodes: N-10012, N-10762, N-10994
 Investigative Direction: Obtain UVU's engagement letter or contract with Lake Forest Group and its date, scope and publication notice.
 
 ---
@@ -1656,7 +1648,7 @@ Transcript Snippet: Flood was was identified as the person who coordinated secur
 
 Anchored Artifacts: A-2802.5
 Mentions: N-270, N-266, N-271
-Related Nodes: N-10694
+Related Nodes: N-10632
 Investigative Direction: Check the review's description of Flood's role against TPUSA staffing records and the Flood and Long phone and text logs.
 
 ---
@@ -1671,7 +1663,7 @@ Transcript Snippet: And she participated online in the major events assessment c
 
 Anchored Artifacts: A-2802.6
 Mentions: N-8
-Related Nodes: N-11077
+Related Nodes: N-10995
 Investigative Direction: Obtain the MEAC Teams attendee log and any recording or minutes for August 25.
 
 ---
@@ -1686,7 +1678,7 @@ Transcript Snippet: a Utah riskmanagement official had communications with an ex
 
 Anchored Artifacts: A-2451.1
 Mentions: 
-Related Nodes: N-10859, N-10839
+Related Nodes: N-10780, N-10762
 Investigative Direction: Identify the Utah risk-management official and the TPUSA executive contacted, and obtain the dated correspondence.
 
 ---
@@ -1701,7 +1693,7 @@ Transcript Snippet: It is the opinion of the project team based on our review of
 
 Anchored Artifacts: A-2802.1
 Mentions: 
-Related Nodes: N-10839, N-10012
+Related Nodes: N-10762, N-10012
 Investigative Direction: Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.
 
 ---
@@ -1716,7 +1708,7 @@ Transcript Snippet: However, several key event security decisions were deferred 
 
 Anchored Artifacts: A-2802.2
 Mentions: N-8
-Related Nodes: N-11077, N-10243, N-10839
+Related Nodes: N-10995, N-10229, N-10762
 Investigative Direction: Obtain the MEAC process documents showing who held decision authority and the August 21 initiation record.
 
 ---
@@ -1731,7 +1723,7 @@ Transcript Snippet: Those decisions placed the event in an area that was more di
 
 Anchored Artifacts: A-2802.2
 Mentions: 
-Related Nodes: N-10243, N-10839
+Related Nodes: N-10229, N-10762
 Investigative Direction: Compare UVU's venue risk notes with the final attendance figures and TPUSA registration data.
 
 ---
@@ -1746,7 +1738,7 @@ Transcript Snippet: UVU should have retained decision-making authority over key 
 
 Anchored Artifacts: A-2802.2
 Mentions: 
-Related Nodes: N-10012, N-10839
+Related Nodes: N-10012, N-10762
 Investigative Direction: Obtain UVU's event policy on who holds security decision authority for outside-organization events.
 
 ---
@@ -1776,7 +1768,7 @@ Transcript Snippet: And it is a process that takes place as I said to you guys t
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10675
+Related Nodes: N-10614
 Investigative Direction: Obtain TPUSA's chapter speaker-request procedure and a sample of lead times for past campus events.
 
 ---
@@ -1791,7 +1783,7 @@ Transcript Snippet: And he didn't even know why he was requesting it. Stunning.
 
 Anchored Artifacts: A-2802.3
 Mentions: N-10
-Related Nodes: N-10860
+Related Nodes: N-10781
 Investigative Direction: Interview or obtain a statement from Chilcutt on what he was told about the purpose of the request.
 
 ---
@@ -1806,7 +1798,7 @@ Transcript Snippet: My field representative for Turning Point USA has asked me t
 
 Anchored Artifacts: A-2802.3
 Mentions: N-10, N-8
-Related Nodes: N-10860, N-10675
+Related Nodes: N-10781, N-10614
 Supports: C-13532
 Investigative Direction: Obtain the original email with header metadata and the reply from club services.
 
@@ -1822,7 +1814,7 @@ Transcript Snippet: submits an event request and the event is described as an ap
 
 Anchored Artifacts: A-2802.4
 Mentions: N-1
-Related Nodes: N-10675, N-10860
+Related Nodes: N-10614, N-10781
 Investigative Direction: Obtain the July 18 event request form and its stated ticketing plan from UVU event services.
 
 ---
@@ -1837,7 +1829,7 @@ Transcript Snippet: On July 28th, the club's office advises that Turning Point U
 
 Anchored Artifacts: A-2802.4
 Mentions: 
-Related Nodes: N-10860, N-10675
+Related Nodes: N-10781, N-10614
 Investigative Direction: Obtain the club registration filing date and status history from UVU club services.
 
 ---
@@ -1852,7 +1844,7 @@ Transcript Snippet: at that time in response to UVU's questionnaire, TPUSA told 
 
 Anchored Artifacts: A-2802.4
 Mentions: 
-Related Nodes: N-10675, N-10694
+Related Nodes: N-10614, N-10632
 Investigative Direction: Compare the 600-attendee figure and registration counts held by TPUSA National before the event.
 
 ---
@@ -1867,7 +1859,7 @@ Transcript Snippet: the first time now it's been approved tentatively that Jeff 
 
 Anchored Artifacts: A-2802.4
 Mentions: N-271
-Related Nodes: N-11077, N-10839
+Related Nodes: N-10995, N-10762
 Investigative Direction: Obtain the August 21 event services email chain showing recipients and Chief Long's receipt.
 
 ---
@@ -1882,7 +1874,7 @@ Transcript Snippet: I'm pretty sure she explicitly named Jeff Long in that filin
 
 Anchored Artifacts: 
 Mentions: N-2, N-271
-Related Nodes: N-10859
+Related Nodes: N-10780
 Investigative Direction: Obtain the Kirk family filing and check whether it names Chief Long and in what context.
 
 ---
@@ -1897,7 +1889,7 @@ Transcript Snippet: They have a free speech committee and they flag it because t
 
 Anchored Artifacts: A-2802.4
 Mentions: N-1, N-3
-Related Nodes: N-11078, N-10839
+Related Nodes: N-10996, N-10762
 Investigative Direction: Obtain the free speech committee's notes and the 2019 UVU event records showing protest activity.
 
 ---
@@ -1912,7 +1904,7 @@ Transcript Snippet: Guess who didn't attend this meeting? Not a single member of
 
 Anchored Artifacts: A-2802.6
 Mentions: 
-Related Nodes: N-11077, N-10243
+Related Nodes: N-10995, N-10229
 Investigative Direction: Obtain the MEAC attendee list and confirm whether any TPUSA security representative was invited.
 
 ---
@@ -1927,7 +1919,7 @@ Transcript Snippet: TPOSA advised UVU that it would have approximately eight sec
 
 Anchored Artifacts: A-2802.6
 Mentions: 
-Related Nodes: N-11077
+Related Nodes: N-10995
 Investigative Direction: Obtain the MEAC record of the stated headcount and compare with the personnel TPUSA actually fielded on September 10.
 
 ---
@@ -1942,7 +1934,7 @@ Transcript Snippet: Chief Long requested contact with that security leadership.
 
 Anchored Artifacts: A-2802.6
 Mentions: N-271
-Related Nodes: N-11077
+Related Nodes: N-10995
 Investigative Direction: Obtain Chief Long's request and any reply recorded in UVU or UVUPD files.
 
 ---
@@ -1957,7 +1949,7 @@ Transcript Snippet: Then we learn that the free speech committee discussed possi
 
 Anchored Artifacts: A-2802.6
 Mentions: 
-Related Nodes: N-11078, N-11077
+Related Nodes: N-10996, N-10995
 Investigative Direction: Obtain minutes showing the EOC discussion and any decision not to activate.
 
 ---
@@ -1972,7 +1964,7 @@ Transcript Snippet: And then on the 27th is when it's formally approved.
 
 Anchored Artifacts: A-2802.4
 Mentions: 
-Related Nodes: N-10675
+Related Nodes: N-10614
 Investigative Direction: Obtain the formal approval record, approver and date from UVU event services.
 
 ---
@@ -1987,7 +1979,7 @@ Transcript Snippet: they had an anonymous caller that demanded that the event be
 
 Anchored Artifacts: A-2802.4
 Mentions: 
-Related Nodes: N-11078
+Related Nodes: N-10996
 Investigative Direction: Obtain the complaint log and any record of the anonymous call.
 
 ---
@@ -2017,7 +2009,7 @@ Transcript Snippet: we're a week away from this event and uh no sec I've receive
 
 Anchored Artifacts: A-2802.4
 Mentions: N-271
-Related Nodes: N-11077
+Related Nodes: N-10995
 Investigative Direction: Obtain the September 2 Long message and any reply from Crofts or Flood.
 
 ---
@@ -2032,7 +2024,7 @@ Transcript Snippet: Dan Flood and Chief Long get on the phone for just five minu
 
 Anchored Artifacts: A-2802.4
 Mentions: N-270, N-271
-Related Nodes: N-10694
+Related Nodes: N-10632
 Investigative Direction: Obtain the call detail records referenced by the review and any UVUPD notes of the call.
 
 ---
@@ -2047,7 +2039,7 @@ Transcript Snippet: They were really concerned about Charlie's SUV having a clea
 
 Anchored Artifacts: A-2802.4
 Mentions: N-270, N-1
-Related Nodes: N-10694
+Related Nodes: N-10632
 Investigative Direction: Compare the September 3 call topics with the pre-event security plan, if any exists.
 
 ---
@@ -2062,7 +2054,7 @@ Transcript Snippet: TPUSA security is now concerned about what do they say? the 
 
 Anchored Artifacts: A-2802.4
 Mentions: N-1
-Related Nodes: N-10356, N-10272
+Related Nodes: N-10256
 Supports: C-3215
 Investigative Direction: Obtain the September 8 messages and student group message that prompted Flood's concern.
 
@@ -2078,7 +2070,7 @@ Transcript Snippet: that this text communication between Dan Flood was not about
 
 Anchored Artifacts: A-2802.9
 Mentions: N-2, N-270, N-266
-Related Nodes: N-10356
+Related Nodes: N-10256
 Supports: C-3214
 Investigative Direction: Compare the filing's description of the Flood and Long texts with the verbatim exchange quoted in the review.
 
@@ -2094,7 +2086,7 @@ Transcript Snippet: We are told that Dan initiated that text exchange on Septemb
 
 Anchored Artifacts: A-2802.9
 Mentions: N-270, N-271
-Related Nodes: N-10356, N-10272
+Related Nodes: N-10256
 Supports: C-3215
 Investigative Direction: Obtain the full text thread with timestamps from UVUPD.
 
@@ -2110,7 +2102,7 @@ Transcript Snippet: whose family was super involved with EMPs? Lorie Frantzve EM
 
 Anchored Artifacts: A-2802.5
 Mentions: N-489
-Related Nodes: N-10861
+Related Nodes: N-10782
 Investigative Direction: Document Frantzve family patents, companies or filings concerning EMP technology.
 
 ---
@@ -2125,7 +2117,7 @@ Transcript Snippet: 9:00 a. m. the security arrives to campus.
 
 Anchored Artifacts: A-2802.5
 Mentions: N-271
-Related Nodes: N-10694
+Related Nodes: N-10632
 Investigative Direction: Obtain the review's arrival log and any gate or parking records for the security team.
 
 ---
@@ -2140,7 +2132,7 @@ Transcript Snippet: At 9:04, uh Dan Flood texts Chief Long advising that the res
 
 Anchored Artifacts: A-2802.5, A-2802.9
 Mentions: N-270, N-271
-Related Nodes: N-10272
+Related Nodes: N-10256
 Investigative Direction: Obtain the 9:04 text and the subsequent thread on the Hall of Flags walkway.
 
 ---
@@ -2185,7 +2177,7 @@ Transcript Snippet: So, it was actually UVU that requested more people after obs
 
 Anchored Artifacts: A-2802.5
 Mentions: N-271
-Related Nodes: N-10839
+Related Nodes: N-10762
 Qualifies: C-13551
 Investigative Direction: Obtain the 11:00 request and staffing records showing who asked for additional officers.
 
@@ -2201,7 +2193,7 @@ Transcript Snippet: at 10:49, uh, Chief Long texted Dan Flood to meet at the Hal
 
 Anchored Artifacts: A-2802.5
 Mentions: N-270, N-271
-Related Nodes: N-10272
+Related Nodes: N-10256
 Investigative Direction: Obtain the 10:49 text and any reply from Flood explaining why the meeting did not occur.
 
 ---
@@ -2231,7 +2223,7 @@ Transcript Snippet: Chief Long goes up to the second floor of the Fugal Gateway 
 
 Anchored Artifacts: A-2802.5
 Mentions: N-271
-Related Nodes: N-11074
+Related Nodes: N-10992
 Investigative Direction: Obtain the command post log and a floor plan with sight lines from the Fugal Gateway second floor.
 
 ---
@@ -2246,7 +2238,7 @@ Transcript Snippet: when they Charlie got to the hospital, there was a fire chie
 
 Anchored Artifacts: A-2802.5
 Mentions: N-1
-Related Nodes: N-10687, N-10699
+Related Nodes: N-10625, N-10636
 Investigative Direction: Obtain the review's emergency response section and hospital arrival records naming who performed CPR.
 
 ---
@@ -2261,7 +2253,7 @@ Transcript Snippet: UVU officials suggested alternative locations such as the Fu
 
 Anchored Artifacts: A-2802.6
 Mentions: 
-Related Nodes: N-11077, N-10243
+Related Nodes: N-10995, N-10229
 Supports: C-13566
 Investigative Direction: Obtain MEAC participant statements naming who proposed each alternative site.
 
@@ -2277,7 +2269,7 @@ Transcript Snippet: She said that she preferred that TPUSA manage online ticketi
 
 Anchored Artifacts: A-2802.6
 Mentions: N-8, N-750
-Related Nodes: N-11077
+Related Nodes: N-10995
 Investigative Direction: Obtain Emer's statements to the review team on her reservations and the committee's decision rationale.
 
 ---
@@ -2292,7 +2284,7 @@ Transcript Snippet: He also previously spoken at a location with me and we weren
 
 Anchored Artifacts: A-2802.6
 Mentions: N-8, N-1, N-3
-Related Nodes: N-10243
+Related Nodes: N-10229
 Investigative Direction: Obtain records of Kirk's prior UVU appearances, including 2019, and where on campus each was held.
 
 ---
@@ -2307,7 +2299,7 @@ Transcript Snippet: indicating that it provided answers straight from the TPUSA 
 
 Anchored Artifacts: A-2802.7
 Mentions: N-10
-Related Nodes: N-10860
+Related Nodes: N-10781
 Investigative Direction: Obtain the questionnaire and email with attachments and metadata.
 
 ---
@@ -2322,7 +2314,7 @@ Transcript Snippet: Straight from the TPUSA team, 600 attendees, primarily stude
 
 Anchored Artifacts: A-2802.7
 Mentions: N-10
-Related Nodes: N-10840, N-10860
+Related Nodes: N-10763, N-10781
 Investigative Direction: Obtain the questionnaire and compare its EMS answer with UVU's actual medical staffing on September 10.
 
 ---
@@ -2337,7 +2329,7 @@ Transcript Snippet: it was not a credible threat as it appeared the tipster had 
 
 Anchored Artifacts: A-2802.8
 Mentions: N-271
-Related Nodes: N-10861
+Related Nodes: N-10782
 Supports: C-13555
 Investigative Direction: Request the SIAC response and the prior unreliable-tip history from Utah SIAC.
 
@@ -2353,7 +2345,7 @@ Transcript Snippet: I was told students have access above us. If this is true, i
 
 Anchored Artifacts: A-2802.9
 Mentions: N-270, N-271
-Related Nodes: N-10356, N-10272
+Related Nodes: N-10256
 Supports: C-3215
 Investigative Direction: Obtain the complete thread and the student group message Flood forwarded.
 
@@ -2369,7 +2361,7 @@ Transcript Snippet: Because their employee gave him the text message to go on to
 
 Anchored Artifacts: A-2802.9
 Mentions: N-266, N-270, N-224
-Related Nodes: N-10356
+Related Nodes: N-10256
 Supports: C-3214
 Investigative Direction: Determine how Harpole obtained the Flood and Long text thread before the Shawn Ryan taping.
 
@@ -2385,7 +2377,7 @@ Transcript Snippet: I love this because I'm being sued for telling you that Harp
 
 Anchored Artifacts: A-2802.10
 Mentions: N-3, N-266
-Related Nodes: N-10651
+Related Nodes: N-10593
 Investigative Direction: Obtain the complaint and docket in the Harpole suit against the host.
 
 ---
@@ -2400,7 +2392,7 @@ Transcript Snippet: Harpole stated that his first meeting to discuss September 1
 
 Anchored Artifacts: A-2802.10
 Mentions: N-266
-Related Nodes: N-10862
+Related Nodes: N-10783
 Investigative Direction: Locate the Shawn Ryan timestamp for the August 24 statement and any TPUSA calendar records.
 
 ---
@@ -2415,7 +2407,7 @@ Transcript Snippet: Harpole stated that when he and his team arrived at UVU a fe
 
 Anchored Artifacts: A-2802.10
 Mentions: N-266, N-1
-Related Nodes: N-10862
+Related Nodes: N-10783
 Investigative Direction: Locate the Shawn Ryan timestamp and check whether Harpole's team raised the concern to UVUPD that day.
 
 ---
@@ -2430,7 +2422,7 @@ Transcript Snippet: Flood did not share any specific security concerns or threat
 
 Anchored Artifacts: A-2802.10
 Mentions: N-266, N-270
-Related Nodes: N-10862
+Related Nodes: N-10783
 Investigative Direction: Compare Harpole's statement with the Flood and Harpole communications for September 1 to 10.
 
 ---
@@ -2445,7 +2437,7 @@ Transcript Snippet: In the podcast, Harpole gave no indication that he considere
 
 Anchored Artifacts: A-2802.10
 Mentions: N-266
-Related Nodes: N-10862
+Related Nodes: N-10783
 Investigative Direction: Ask UVUPD and Integrity Solutions for any record of a requested site walkthrough or briefing.
 
 ---
@@ -2460,7 +2452,7 @@ Transcript Snippet: He stated that TPUSA's team, video team, used what he descri
 
 Anchored Artifacts: A-2802.11
 Mentions: N-266
-Related Nodes: N-10645, N-10862, N-10074
+Related Nodes: N-10589, N-10783, N-10071
 Qualifies: C-3106
 Investigative Direction: Obtain the TPUSA video team's drone flight logs and FAA authorization for September 10.
 
@@ -2476,7 +2468,7 @@ Transcript Snippet: a drone from the neighboring Orem Police Department could ha
 
 Anchored Artifacts: A-2802.11
 Mentions: N-266
-Related Nodes: N-10129, N-10645
+Related Nodes: N-10124, N-10589
 Investigative Direction: Ask Orem Police for any record of a drone request or availability on September 10.
 
 ---
@@ -2491,7 +2483,7 @@ Transcript Snippet: Officer Bagley identified the elevated roof area of the Loy 
 
 Anchored Artifacts: A-2802.12
 Mentions: N-506
-Related Nodes: N-10725
+Related Nodes: N-10660
 Investigative Direction: Obtain Bagley's report and dispatch audio showing when he made the suggestion.
 
 ---
@@ -2506,7 +2498,7 @@ Transcript Snippet: he locates a screwdriver and an area of disturbed gravel on 
 
 Anchored Artifacts: A-2802.12
 Mentions: N-506
-Related Nodes: N-10725
+Related Nodes: N-10660
 Investigative Direction: Obtain the evidence log and photographs of the screwdriver and gravel location.
 
 ---
@@ -2521,7 +2513,7 @@ Transcript Snippet: Officer Bagley, whose body cam footage went off, um lost the
 
 Anchored Artifacts: A-2802.12
 Mentions: N-506
-Related Nodes: N-10725
+Related Nodes: N-10660
 Investigative Direction: Obtain Bagley's testimony and UVUPD body camera inventory and battery records.
 
 ---
@@ -2536,7 +2528,7 @@ Transcript Snippet: They're all, they all kind of have this background history i
 
 Anchored Artifacts: A-2802.12
 Mentions: N-506, N-1
-Related Nodes: N-10784
+Related Nodes: N-10709
 Investigative Direction: Verify Bagley's assignment history and the other officers' backgrounds from personnel records.
 
 ---
@@ -2551,7 +2543,7 @@ Transcript Snippet: There was limited time between chief long first learning of 
 
 Anchored Artifacts: A-2802.13
 Mentions: N-271
-Related Nodes: N-10839
+Related Nodes: N-10762
 Investigative Direction: Compare the August 21 notice date to UVU's normal lead time for major events.
 
 ---
@@ -2566,7 +2558,7 @@ Transcript Snippet: Coordination with TPUSA security team was very limited and d
 
 Anchored Artifacts: A-2802.13
 Mentions: N-266, N-270
-Related Nodes: N-10839, N-10694
+Related Nodes: N-10762, N-10632
 Investigative Direction: Request any briefing agenda, attendance or site walk records from UVUPD and TPUSA.
 
 ---
@@ -2581,7 +2573,7 @@ Transcript Snippet: There also was not a dedicated assignment for real-time secu
 
 Anchored Artifacts: A-2802.13
 Mentions: 
-Related Nodes: N-10839
+Related Nodes: N-10762
 Investigative Direction: Review UVU camera system access logs and dispatch staffing for September 10.
 
 ---
@@ -2596,7 +2588,7 @@ Transcript Snippet: we learned that Turning Point never actually issued any tick
 
 Anchored Artifacts: A-2802.14
 Mentions: 
-Related Nodes: N-10839
+Related Nodes: N-10762
 Investigative Direction: Obtain the registration platform data and communications showing what was shared with UVUPD.
 
 ---
@@ -2611,7 +2603,7 @@ Transcript Snippet: The review states that there was no formal credentiing proce
 
 Anchored Artifacts: A-2802.14
 Mentions: 
-Related Nodes: N-11075, N-10839
+Related Nodes: N-10993, N-10762
 Investigative Direction: Obtain the review's access control section and TPUSA wristband distribution records.
 
 ---
@@ -2626,7 +2618,7 @@ Transcript Snippet: somebody from Turning Point National handing out wristbands 
 
 Anchored Artifacts: A-2802.14
 Mentions: N-1
-Related Nodes: N-11075
+Related Nodes: N-10993
 Investigative Direction: Identify the staffer and the recipients and obtain TPUSA's wristband policy for the event.
 
 ---
@@ -2641,7 +2633,7 @@ Transcript Snippet: A lot of people, by the way, who recorded footage in particu
 
 Anchored Artifacts: A-2802.14
 Mentions: 
-Related Nodes: N-11075
+Related Nodes: N-10993
 Investigative Direction: Compile identities of wristbanded attendees and match them to later media interviews and footage.
 
 ---
@@ -2656,7 +2648,7 @@ Transcript Snippet: From July 7th to July 9th, BBNet and Yahoo visits America, r
 
 Anchored Artifacts: A-2456.1
 Mentions: N-36, N-59
-Related Nodes: N-10871
+Related Nodes: N-10792
 Investigative Direction: Confirm Netanyahu's July 2025 itinerary and the Nelk Boys episode date.
 
 ---
@@ -2671,7 +2663,7 @@ Transcript Snippet: Tucker Carlson uh on the 11th speaks and donors freak out. C
 
 Anchored Artifacts: A-2456.1
 Mentions: N-22, N-1
-Related Nodes: N-11080
+Related Nodes: N-10998
 Supports: C-2121
 Investigative Direction: Collect dated donor communications and the SAS Tampa speech recording.
 
@@ -2687,7 +2679,7 @@ Transcript Snippet: he muses about where Bill Ackman's wealth comes from.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-22, N-37
-Related Nodes: N-11080
+Related Nodes: N-10998
 Investigative Direction: Review the SAS Tampa speech recording for the Ackman remarks.
 
 ---
@@ -2717,7 +2709,7 @@ Transcript Snippet: according to the New York Times, President Trump calls Charl
 
 Anchored Artifacts: A-2804.2
 Mentions: N-5, N-1, N-9
-Related Nodes: N-10871
+Related Nodes: N-10792
 Investigative Direction: Locate the New York Times article reporting the July 12 call.
 
 ---
@@ -2732,7 +2724,7 @@ Transcript Snippet: Honestly, I'm done talking about Epstein for the time being.
 
 Anchored Artifacts: A-2803.1
 Mentions: N-1, N-9
-Related Nodes: N-10324, N-10871
+Related Nodes: N-10303, N-10792
 Investigative Direction: Obtain the full July 14 Charlie Kirk Show episode and confirm its date.
 
 ---
@@ -2747,7 +2739,7 @@ Transcript Snippet: I would love to see the DOJ move to unseal the grand jury te
 
 Anchored Artifacts: A-2803.1
 Mentions: N-1, N-69, N-378, N-85, N-535
-Related Nodes: N-10324
+Related Nodes: N-10303
 Investigative Direction: Transcribe the clip from the primary broadcast and confirm which officials he named.
 
 ---
@@ -2762,7 +2754,7 @@ Transcript Snippet: we learned later uh thanks to Tucker and Megyn Kelly that th
 
 Anchored Artifacts: A-2803.1
 Mentions: N-1, N-22, N-46
-Related Nodes: N-11080
+Related Nodes: N-10998
 Investigative Direction: Locate the Tucker Carlson and Megyn Kelly statements describing Kirk's SAS intention.
 
 ---
@@ -2777,7 +2769,7 @@ Transcript Snippet: On the 14th, Erika travels aboard a private flight to Long B
 
 Anchored Artifacts: A-2456.1
 Mentions: N-2, N-665
-Related Nodes: N-10264, N-10871
+Related Nodes: N-10248, N-10792
 Investigative Direction: Obtain the flight record and Calvary Chapel event listing for July 14.
 
 ---
@@ -2792,7 +2784,7 @@ Transcript Snippet: she gives a speech that's pro-Israel about a call to arms de
 
 Anchored Artifacts: A-2456.1
 Mentions: N-2, N-665, N-1
-Related Nodes: N-10264
+Related Nodes: N-10248
 Investigative Direction: Obtain the recording or transcript of the speech at the retreat.
 
 ---
@@ -2807,7 +2799,7 @@ Transcript Snippet: And then we have our Egyptian planes that come into Omaha, N
 
 Anchored Artifacts: A-2456.1
 Mentions: 
-Related Nodes: N-10253, N-10276
+Related Nodes: N-10239, N-10259
 Investigative Direction: Pull flight-tracking records for the Egyptian-registered aircraft landing in Omaha and Lincoln.
 
 ---
@@ -2822,7 +2814,7 @@ Transcript Snippet: it's the first time Mikey McCoy and Elizabeth join him and t
 
 Anchored Artifacts: A-2456.1
 Mentions: N-190, N-217, N-1, N-2
-Related Nodes: N-10219
+Related Nodes: N-10209
 Investigative Direction: Obtain dated posts and metadata of the Maine vacation footage.
 
 ---
@@ -2837,7 +2829,7 @@ Transcript Snippet: he had already Wyi had already signed a contract in January 
 
 Anchored Artifacts: A-2456.1
 Mentions: N-1
-Related Nodes: N-10870
+Related Nodes: N-10791
 Investigative Direction: Obtain the January sponsorship contract and the July 25 addendum.
 
 ---
@@ -2852,7 +2844,7 @@ Transcript Snippet: It departs Wilmington, Delaware, heads back to Cairo.
 
 Anchored Artifacts: A-2456.1
 Mentions: 
-Related Nodes: N-10253, N-10347
+Related Nodes: N-10239, N-10325
 Investigative Direction: Verify the July 27 departure in flight-tracking records.
 
 ---
@@ -2867,7 +2859,7 @@ Transcript Snippet: On August 3rd, Charlie and Erika land in Bedford, New York f
 
 Anchored Artifacts: A-2456.1
 Mentions: N-1, N-2
-Related Nodes: N-10673, N-10027
+Related Nodes: N-10129, N-10027
 Investigative Direction: Obtain the flight record for the August 3 landing.
 
 ---
@@ -2882,7 +2874,7 @@ Transcript Snippet: the influencers trip, is sponsored by Bill Ackman, the very 
 
 Anchored Artifacts: A-2456.1
 Mentions: N-37, N-1, N-22
-Related Nodes: N-10673, N-10027
+Related Nodes: N-10129, N-10027
 Supports: C-79
 Investigative Direction: Obtain the retreat invitation and sponsor disclosures.
 
@@ -2898,7 +2890,7 @@ Transcript Snippet: I was told directly by Andrew Kolvet to take Turning Point U
 
 Anchored Artifacts: A-2456.1
 Mentions: N-14, N-36, N-1, N-3
-Related Nodes: N-10342, N-10446
+Related Nodes: N-10320, N-10415
 Supports: C-2134
 Investigative Direction: Obtain Kolvet's contemporaneous account and call records for the August Netanyahu call.
 
@@ -2914,7 +2906,7 @@ Transcript Snippet: it was just a followup to a letter that Charlie had written 
 
 Anchored Artifacts: A-2456.1
 Mentions: N-2, N-14, N-36, N-3
-Related Nodes: N-10342
+Related Nodes: N-10320
 Qualifies: C-2134
 Investigative Direction: Obtain TPUSA's written rebuttal and the May 2025 Kirk letter to Netanyahu.
 
@@ -2945,7 +2937,7 @@ Transcript Snippet: He also Charlie also declined to have B Netanyahu on his sho
 
 Anchored Artifacts: A-2456.1
 Mentions: N-36, N-1
-Related Nodes: N-10456
+Related Nodes: N-10425
 Investigative Direction: Obtain the booking request to The Charlie Kirk Show and Kirk's response.
 
 ---
@@ -2960,7 +2952,7 @@ Transcript Snippet: What happens next on August 19th is Kash Patel visits the Om
 
 Anchored Artifacts: A-2456.1
 Mentions: N-69
-Related Nodes: N-10276, N-10253
+Related Nodes: N-10259, N-10239
 Investigative Direction: Verify Patel's August 19 itinerary and plane records.
 
 ---
@@ -2975,7 +2967,7 @@ Transcript Snippet: we cannot confirm or deny the existence of such records and 
 
 Anchored Artifacts: A-2804.3
 Mentions: N-69, N-3
-Related Nodes: N-10700
+Related Nodes: N-10637
 Investigative Direction: Obtain the FOIA request and the agency's response letter.
 
 ---
@@ -2990,7 +2982,7 @@ Transcript Snippet: On the military side of things, Operation Valhalla Strike be
 
 Anchored Artifacts: A-2456.1
 Mentions: 
-Related Nodes: N-10366
+Related Nodes: N-10341
 Supports: C-3262
 Investigative Direction: Obtain the Camp Ripley exercise schedule and participant list.
 
@@ -3006,7 +2998,7 @@ Transcript Snippet: UVU police ask her for a TPUSA security contact. None is pro
 
 Anchored Artifacts: A-2456.1
 Mentions: N-8, N-271, N-10
-Related Nodes: N-11077
+Related Nodes: N-10995
 Investigative Direction: Obtain UVUPD's requests to Crofts and Chilcutt and any replies.
 
 ---
@@ -3037,7 +3029,7 @@ Transcript Snippet: They never communicated this to the police at UVU.
 
 Anchored Artifacts: A-2802.13
 Mentions: N-266
-Related Nodes: N-10243
+Related Nodes: N-10229
 Investigative Direction: Identify the review passage on indoor alternatives and whether UVU would have accommodated a late move.
 
 ---
@@ -3067,7 +3059,7 @@ Transcript Snippet: A warrant was issued charging Kip Crofts, so that's her dad'
 
 Anchored Artifacts: A-2804.4, A-2457.1
 Mentions: N-12, N-8
-Related Nodes: N-10841
+Related Nodes: N-10764
 Investigative Direction: Obtain the Canyon County warrant, docket and arrest record.
 
 ---
@@ -3142,7 +3134,7 @@ Transcript Snippet: They're willing to speak to CBS News, ABC News, official spo
 
 Anchored Artifacts: A-2451.1
 Mentions: N-270
-Related Nodes: N-10859
+Related Nodes: N-10780
 Investigative Direction: List TPUSA interviews with CBS and ABC and compare dates to the review outreach window.
 
 ---
@@ -3188,7 +3180,7 @@ Transcript Snippet: there were rumblings early on that money was missing, partic
 
 Anchored Artifacts: A-2804.5
 Mentions: N-11, N-3
-Related Nodes: N-10388, N-10925
+Related Nodes: N-10361, N-10846
 Investigative Direction: Review Turning Point Action financial filings and any audit communications.
 
 ---
@@ -3203,7 +3195,7 @@ Transcript Snippet: said that Charlie was gearing up to fire Turning uh Tyler Bo
 
 Anchored Artifacts: A-2804.5
 Mentions: N-1, N-11, N-2, N-3
-Related Nodes: N-10388
+Related Nodes: N-10361
 Investigative Direction: Seek a second independent source and any dated written evidence of a planned dismissal.
 
 ---
@@ -3218,7 +3210,7 @@ Transcript Snippet: Mikey McCoy expressed to people that Charlie wanted to fire 
 
 Anchored Artifacts: A-2804.5
 Mentions: N-190, N-1, N-11
-Related Nodes: N-10388
+Related Nodes: N-10361
 Investigative Direction: Identify the people McCoy allegedly told and obtain their first-hand accounts.
 
 ---
@@ -3248,7 +3240,7 @@ Transcript Snippet: we should totally trust his lawyer filing a lawsuit against 
 
 Anchored Artifacts: 
 Mentions: N-266, N-3, N-361
-Related Nodes: N-10373, N-10651
+Related Nodes: N-10347, N-10593
 Investigative Direction: Obtain the lawyer's communications with the host and the complaint's stated alibi.
 
 ---
@@ -3263,7 +3255,7 @@ Transcript Snippet: what was with this random push about Fort Huachuca when we w
 
 Anchored Artifacts: A-2458.1
 Mentions: N-3
-Related Nodes: N-10373, N-10859
+Related Nodes: N-10347, N-10780
 Supports: C-13519
 Investigative Direction: Timeline the Fort Huachuca coverage and statements that week against the review's release.
 
@@ -3279,7 +3271,7 @@ Transcript Snippet: that I accepted $1.5 million from Harvey Weinstein to interv
 
 Anchored Artifacts: A-2804.6
 Mentions: N-3, N-226
-Related Nodes: N-11081
+Related Nodes: N-10999
 Investigative Direction: Locate the New York Post article and its publication date and sourcing.
 
 ---
@@ -3294,7 +3286,7 @@ Transcript Snippet: Not a single red scent did I accept from Harvey Weinstein.
 
 Anchored Artifacts: A-2804.6
 Mentions: N-3, N-226
-Related Nodes: N-11081
+Related Nodes: N-10999
 Investigative Direction: Request the Post's contact attempts and a statement from the host's PR contact.
 
 ---
@@ -3324,7 +3316,7 @@ Transcript Snippet: June 18th and 19th is when Charlie went to the White House a
 
 Anchored Artifacts: A-2456.1
 Mentions: N-1, N-2
-Related Nodes: N-10674, N-10412, N-10539
+Related Nodes: N-10613, N-10385, N-10494
 Investigative Direction: Verify the White House meeting and attendees and the Instagram purge date.
 
 ---
@@ -3339,7 +3331,7 @@ Transcript Snippet: And then we had Operation Midnight Hammer, which was Trump a
 
 Anchored Artifacts: A-2456.1
 Mentions: N-5
-Related Nodes: N-11079
+Related Nodes: N-10997
 Investigative Direction: Confirm the Operation Midnight Hammer date against public military and White House records.
 
 ---
@@ -3354,7 +3346,7 @@ Transcript Snippet: on June 26th is when suddenly Claire Guinan writes her first
 
 Anchored Artifacts: A-2456.1
 Mentions: N-753
-Related Nodes: N-10122, N-10117
+Related Nodes: N-10117, N-10113
 Investigative Direction: Check Ginan's byline history and the publication date of the Jezebel article.
 
 ---

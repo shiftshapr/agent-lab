@@ -13,8 +13,8 @@
 
 - **Episode Ledger Summary**:
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-697, N-698, N-699, N-700, N-701, N-702, N-703, N-705, N-10997, N-10998, N-10999
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-14, N-17, N-22, N-40, N-46, N-55, N-60, N-61, N-75, N-159, N-186, N-190, N-224, N-261, N-266, N-298, N-330, N-341, N-364, N-380, N-387, N-489, N-550, N-594, N-685, N-10000, N-10056, N-10070, N-10095, N-10148, N-10162, N-10169, N-10194, N-10229, N-10315, N-10341, N-10346, N-10383, N-10398, N-10448, N-10507, N-10508, N-10528, N-10552, N-10644, N-10664, N-10768, N-10865, N-10887, N-10991, N-704, N-10739, N-11000
+  - Tip-minted Nodes (skeleton): N-697, N-698, N-699, N-700, N-701, N-702, N-703, N-705, N-10917, N-10918, N-10919
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-14, N-17, N-22, N-40, N-46, N-55, N-60, N-61, N-75, N-159, N-186, N-190, N-224, N-261, N-266, N-298, N-330, N-341, N-364, N-380, N-387, N-489, N-550, N-594, N-685, N-10000, N-10053, N-10067, N-10091, N-10143, N-10156, N-10162, N-10186, N-10216, N-10296, N-10319, N-10324, N-10356, N-10371, N-10417, N-10468, N-10106, N-10484, N-10506, N-10588, N-10606, N-10697, N-10786, N-10808, N-10911, N-704, N-10671, N-10920
   - Claim Range: C-10157–C-10223
   - (see registers)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:09:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10172, C-10173, C-10174, C-10175, C-10176, C-10177, N-261, N-685, N-697, N-698, N-699, N-700, N-10991*
+*Related: C-10172, C-10173, C-10174, C-10175, C-10176, C-10177, N-261, N-685, N-697, N-698, N-699, N-700, N-10911*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:14:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10181, C-10186, N-1, N-10095*
+*Related: C-10181, C-10186, N-1, N-10091*
 
 **A-2699.2** News clip of second eyewitness describing a shot to the heart
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:14:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10182, C-10186, N-1, N-10095*
+*Related: C-10182, C-10186, N-1, N-10091*
 
 **A-2699.3** News clip of third eyewitness describing blood from the chest
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:14:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10183, C-10186, N-1, N-10095*
+*Related: C-10183, C-10186, N-1, N-10091*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:21:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10167, C-10191, N-2, N-1, N-10999*
+*Related: C-10167, C-10191, N-2, N-1, N-10919*
 
 **A-2700.2** Extended clip of Erika Kirk on the couple's "emergency plan"
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:30:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10200, N-2, N-1, N-10194*
+*Related: C-10200, N-2, N-1, N-10186*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:29:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10199, N-2, N-10999*
+*Related: C-10199, N-2, N-10919*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:24:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10192, C-10193, C-10194, C-10195, C-10196, C-10197, N-701, N-702, N-703, N-704, N-298, N-2, N-11000*
+*Related: C-10192, C-10193, C-10194, C-10195, C-10196, C-10197, N-701, N-702, N-703, N-704, N-298, N-2, N-10920*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10202, C-10203, C-10204, C-10205, N-17, N-3, N-266, N-705, N-10887*
+*Related: C-10202, C-10203, C-10204, C-10205, N-17, N-3, N-266, N-705, N-10808*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:41:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10206, C-10207, N-22, N-1, N-10148*
+*Related: C-10206, C-10207, N-22, N-1, N-10143*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:52:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10216, C-10217, N-10768*
+*Related: C-10216, C-10217, N-10697*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:12:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10178, N-700, N-10998*
+*Related: C-10178, N-700, N-10918*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:55:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10219, C-10220, N-266, N-224, N-10997*
+*Related: C-10219, C-10220, N-266, N-224, N-10917*
 
 **A-2709.2** Viewer comment (Ali) on Erika Kirk's Father's Day post
 
@@ -509,179 +509,179 @@ Organization whose campus, staff, faith division and evidence handling are discu
 
 *Related: C-10167, C-10168, C-10177, C-10212, C-10219*
 
-**N-10056** Kirk-Israel Narrative Dispute
+**N-10053** Kirk-Israel Narrative Dispute
 
 Tucker Carlson's Israel-motive claim and Blake Neff's rebuttal.
 
 *Related: C-10207, C-10208, C-10211*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Host refers back to a Daily Mail article in which Erika Kirk's succession story began to shift.
 
 *Related: C-10190*
 
-**N-10095** 9/10 Eyewitness Pattern Investigation
+**N-10091** 9/10 Eyewitness Pattern Investigation
 
 The chest-wound eyewitness accounts and the later neck-wound witnesses.
 
 *Related: C-10179, C-10181, C-10182, C-10183, C-10184, C-10210, A-2699.1, A-2699.2, A-2699.3*
 
-**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+**N-10143** Charlie Kirk Pre-Mortem Israel Position Claim
 
 The night-before message about abandoning the pro-Israel cause and Tucker Carlson's motive claim.
 
 *Related: C-10207, C-10208, A-2704.1*
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 Host rejects the theft explanation for Farnsworth taking the SD card.
 
 *Related: C-10170, C-10187*
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 The night-before Zoom call with Josh Hammer and a rabbi.
 
 *Related: C-10208, C-10209*
 
-**N-10194** TPUSA Succession Plan Disclosure Timeline
+**N-10186** TPUSA Succession Plan Disclosure Timeline
 
 Erika Kirk's evolving account of the succession plan.
 
 *Related: C-10190, C-10200, A-2700.2*
 
-**N-10229** Autopsy Report and Evidence Access Asymmetry
+**N-10216** Autopsy Report and Evidence Access Asymmetry
 
 Host says evidence such as the microphone and phone was returned to TPUSA and Erika Kirk.
 
 *Related: C-10219, C-10220*
 
-**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
+**N-10296** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
 Politically connected witnesses who spoke to NBC News and other outlets.
 
 *Related: C-10180, C-10186*
 
-**N-10341** Andrew Kolvet Surgeon Bullet Description
+**N-10319** Andrew Kolvet Surgeon Bullet Description
 
 The "Superman" / "man of steel" bullet story that the host says Erika Kirk falsely blamed on Kolvet going rogue.
 
 *Related: C-10189*
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Farnsworth's explanation that he did not want Erika to relive the death.
 
 *Related: C-10164, C-10170, C-10187*
 
-**N-10383** Farnsworth Family Political-Military Network
+**N-10356** Farnsworth Family Political-Military Network
 
 Farnsworth ties to Tyler Bowyer, Lori Frantzve and Visual Impulse personnel.
 
 *Related: C-10165, C-10166, C-10174, C-10175*
 
-**N-10398** Turning Point USA Faith Structure
+**N-10371** Turning Point USA Faith Structure
 
 Erika Kirk's role limited to TPUSA Faith in Charlie's final presentation, per the host.
 
 *Related: C-10201*
 
-**N-10448** TPUSA September 16 Corporate Call Framing Pattern
+**N-10417** TPUSA September 16 Corporate Call Framing Pattern
 
 Farnsworth standing behind Erika Kirk on the first staff Zoom call.
 
 *Related: C-10169*
 
-**N-10507** Charlie Kirk Phone Access Question
+**N-10468** Charlie Kirk Phone Access Question
 
 Host says Charlie Kirk's phone was returned to Erika Kirk rather than kept in evidence.
 
 *Related: C-10220*
 
-**N-10508** Tyler Robinson Evidence Sufficiency Question
+**N-10106** Tyler Robinson Evidence Gaps
 
 Host says TPUSA staff doubt Robinson acted alone and notes Erika Kirk's absence from the hearings.
 
 *Related: C-10212, C-10222*
 
-**N-10528** Arizona-Romania Pipeline Investigation
+**N-10484** Arizona-Romania Pipeline Investigation
 
 Goldsberry family charity in Romania.
 
 *Related: C-10173*
 
-**N-10552** Aubrey Termination Circumstances
+**N-10506** Aubrey Termination Circumstances
 
 Aubrey's remark to Kolvet at her firing that nobody knows who Erika is.
 
 *Related: C-10198*
 
-**N-10644** Harpole Limited-Purpose Public Figure Status
+**N-10588** Harpole Limited-Purpose Public Figure Status
 
 Harpole's claim that he went on the Shawn Ryan Show only because of the host.
 
 *Related: C-10161*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Host refers to the "doctored footage" of Charlie appointing Erika as CEO.
 
 *Related: C-10190*
 
-**N-10739** Fort Huachuca Connection Question
+**N-10671** Fort Huachuca Connection Question
 
 Emails suggesting the rigged microphone could have been assembled at Fort Huachuca.
 
 *Related: C-10188*
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 Host's theory that a shaped charge in the redundant microphone was meant to hit Charlie's chest; endorsed by the EOD email.
 
 *Related: C-10176, C-10185, C-10188, C-10216, C-10217, C-10218, A-2707.1*
 
-**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness
+**N-10786** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 Host's claim that Erika Kirk is scripted and coached.
 
 *Related: C-10215*
 
-**N-10887** Las Vegas
+**N-10808** Las Vegas
 
 Location of Encounter Church, where Rob McCoy delivered the sermon.
 
 *Related: C-10202, A-2703.1*
 
-**N-10997** Brian Harpole Bloodied Bag Museum Offer
+**N-10917** Brian Harpole Bloodied Bag Museum Offer
 
 Node Type: Topic
 Investigation target: an account from Shawn Ryan's production team, as relayed by the host, that Brian Harpole offered Shawn Ryan his cross-body bag still bearing Charlie Kirk's blood as a gift for Ryan's studio museum, and that Ryan declined. A viewer asked why the bag was not in evidence.
 
 *Related: C-10162, A-2697.1, A-2709.1, N-266, N-224*
 
-**N-10991** Visual Impulse
+**N-10911** Visual Impulse
 
 Node Type: Organization
 The audio-visual company run by Terryl Farnsworth that filmed Charlie Kirk's events. The host says Charlie had its team removed from his building on July 24, 2025, and that it was welcomed back after his death. Its September 10 crew included Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards and Robert Golow.
 
 *Related: C-10164, C-10168, C-10172, C-10173, C-10174, C-10175, C-10176, A-2698.2, N-261, N-685, N-697, N-698, N-699, N-700*
 
-**N-10998** Robert Golow Identification
+**N-10918** Robert Golow Identification
 
 Node Type: Topic
 Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.
 
 *Related: C-10176, C-10177, C-10178, A-2708.1, N-700*
 
-**N-10999** Erika Kirk Staff Familiarity Discrepancy
+**N-10919** Erika Kirk Staff Familiarity Discrepancy
 
 Node Type: Topic
 Investigation target: Erika Kirk said at an Illinois summit that she had a "0% learning curve" and knew all the staff by name. The host contrasts this with a post-Super Bowl call in which Erika said she wanted to learn employees' names, and with reports from current and former staff that she does not know them.
 
 *Related: C-10191, C-10198, C-10199, A-2700.1, A-2701.1, N-2*
 
-**N-11000** Spousal CEO Succession Precedent Question
+**N-10920** Spousal CEO Succession Precedent Question
 
 Node Type: Topic
 Investigation target: the host's assertion that no wife in history has assumed her late husband's role as CEO and chairman. She says ChatGPT's examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares.
@@ -756,7 +756,7 @@ Transcript Snippet: despite the fact that I never uttered his name before he wen
 
 Anchored Artifacts:
 Mentions: N-266, N-224, N-3
-Related Nodes: N-10644
+Related Nodes: N-10588
 Supports: C-8658
 Investigative Direction: Search the host's episodes and posts before Harpole's Shawn Ryan appearance for any mention of his name, and obtain the lawsuit's allegations on this point.
 
@@ -772,7 +772,7 @@ Transcript Snippet: He offered that bag with the blood still on it to Shawn Ryan
 
 Anchored Artifacts: A-2697.1
 Mentions: N-266, N-224, N-1
-Related Nodes: N-10997
+Related Nodes: N-10917
 Investigative Direction: Ask Shawn Ryan and his production staff to confirm the offer, and establish whether the bag was ever logged as evidence.
 
 ---
@@ -801,7 +801,7 @@ Transcript Snippet: The guy who announced on camera that Charlie was dead, the g
 
 Anchored Artifacts:
 Mentions: N-261, N-1
-Related Nodes: N-10991, N-10346
+Related Nodes: N-10911, N-10324
 Supports: C-1768
 Investigative Direction: Obtain Visual Impulse's corporate records and the original selfie video.
 
@@ -817,7 +817,7 @@ Transcript Snippet: the Farnsworth family clan is a bit like a little deep Mormo
 
 Anchored Artifacts:
 Mentions: N-261, N-11
-Related Nodes: N-10383
+Related Nodes: N-10356
 Investigative Direction: Check Chandler-area high school yearbooks and alumni records for the Farnsworth and Bowyer families.
 
 ---
@@ -832,7 +832,7 @@ Transcript Snippet: Eddie Farnsworth and his brother, um, were one of the ones w
 
 Anchored Artifacts:
 Mentions: N-380, N-489, N-387, N-2, N-1
-Related Nodes: N-10383
+Related Nodes: N-10356
 Supports: C-4591
 Investigative Direction: Retrieve the Arizona House video and minutes of Lori Frantzve's presentation and any related state contracts.
 
@@ -863,7 +863,7 @@ Transcript Snippet: On July 24th, Terryl's team, at Charlie's request, was remov
 
 Anchored Artifacts:
 Mentions: N-261, N-1
-Related Nodes: N-10991, N-10000
+Related Nodes: N-10911, N-10000
 Investigative Direction: Obtain TPUSA facilities and lease records and staff testimony on the July 2025 move.
 
 ---
@@ -878,7 +878,7 @@ Transcript Snippet: Terryl is the one that is standing behind Erika during her f
 
 Anchored Artifacts: A-2698.1
 Mentions: N-261, N-2, N-1
-Related Nodes: N-10448
+Related Nodes: N-10417
 Supports: C-5723
 Investigative Direction: Obtain the full recording of the September 16, 2025 staff call and identify everyone in the room.
 
@@ -894,7 +894,7 @@ Transcript Snippet: Um I spoke to Erika. I didn't want her to relive Charlie dyi
 
 Anchored Artifacts:
 Mentions: N-261, N-2, N-1
-Related Nodes: N-10346, N-10162
+Related Nodes: N-10324, N-10156
 Investigative Direction: Obtain the SD card footage from the camera behind Charlie Kirk and the chain-of-custody record.
 
 ---
@@ -923,7 +923,7 @@ Transcript Snippet: So we know Tarrou, he's there at the top. Brian Farnsworth i
 
 Anchored Artifacts: A-2698.2
 Mentions: N-261, N-697
-Related Nodes: N-10991
+Related Nodes: N-10911
 Investigative Direction: Confirm the September 10 crew roster with Visual Impulse or event staffing records.
 
 ---
@@ -938,7 +938,7 @@ Transcript Snippet: His father is the pastor who, of course, started a charity, 
 
 Anchored Artifacts: A-2698.2
 Mentions: N-685
-Related Nodes: N-10991, N-10528
+Related Nodes: N-10911, N-10484
 Investigative Direction: Look up the charity's registration and officers in US and Romanian nonprofit records.
 
 ---
@@ -953,7 +953,7 @@ Transcript Snippet: Parker Edwards, we just dug into this guy, and it turns out 
 
 Anchored Artifacts: A-2698.2
 Mentions: N-698, N-261
-Related Nodes: N-10991, N-10383
+Related Nodes: N-10911, N-10356
 Investigative Direction: Check high school alumni records for Parker Edwards and Terryl Farnsworth.
 
 ---
@@ -968,7 +968,7 @@ Transcript Snippet: also his brother Aaron Edwards worked for Visual Impulse as 
 
 Anchored Artifacts: A-2698.2
 Mentions: N-699, N-698
-Related Nodes: N-10991, N-10383
+Related Nodes: N-10911, N-10356
 Investigative Direction: Check Visual Impulse employment records and ASU enrollment confirmation.
 
 ---
@@ -983,7 +983,7 @@ Transcript Snippet: He was brought on, I am told, of course after I stopped tour
 
 Anchored Artifacts: A-2698.2
 Mentions: N-700, N-1
-Related Nodes: N-10998, N-10991, N-10768
+Related Nodes: N-10918, N-10911, N-10697
 Investigative Direction: Obtain Visual Impulse hiring records for Golow and the date TPUSA introduced the second microphone.
 
 ---
@@ -998,7 +998,7 @@ Transcript Snippet: But he's the one that's next to him, and then he runs off, a
 
 Anchored Artifacts: A-2698.2
 Mentions: N-700, N-261, N-1
-Related Nodes: N-10998, N-10000
+Related Nodes: N-10918, N-10000
 Investigative Direction: Review September 10 crowd video for the camera position and Golow's movements, and check his current employment.
 
 ---
@@ -1013,7 +1013,7 @@ Transcript Snippet: But if you know anything about Robert Golow, um and his invo
 
 Anchored Artifacts: A-2708.1
 Mentions: N-700, N-3
-Related Nodes: N-10998
+Related Nodes: N-10918
 Investigative Direction: Follow up on tips received about Golow's background and his September 10 role.
 
 ---
@@ -1028,7 +1028,7 @@ Transcript Snippet: the people who immediately testified after Charlie got hit s
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10095
+Related Nodes: N-10091
 Investigative Direction: Compile all September 10 eyewitness media interviews and compare with the autopsy findings.
 
 ---
@@ -1043,7 +1043,7 @@ Transcript Snippet: we found out this person Tiffany Barker I think was one of t
 
 Anchored Artifacts:
 Mentions: N-75, N-61
-Related Nodes: N-10315
+Related Nodes: N-10296
 Supports: C-669
 Investigative Direction: Check Phil Lyman campaign finance and staff records for Tiffany Barker.
 
@@ -1059,7 +1059,7 @@ Transcript Snippet: I just saw it hit him in the chest and then all of a sudden 
 
 Anchored Artifacts: A-2699.1
 Mentions: N-1
-Related Nodes: N-10095
+Related Nodes: N-10091
 Investigative Direction: Identify the witness and the outlet that aired the interview, and compare with the autopsy.
 
 ---
@@ -1074,7 +1074,7 @@ Transcript Snippet: It was a direct shot to the heart. It looked like right wher
 
 Anchored Artifacts: A-2699.2
 Mentions: N-1
-Related Nodes: N-10095
+Related Nodes: N-10091
 Investigative Direction: Identify the witness and their vantage point relative to the tent.
 
 ---
@@ -1089,7 +1089,7 @@ Transcript Snippet: all of a sudden I just saw the interruption of blood, you kn
 
 Anchored Artifacts: A-2699.3
 Mentions: N-1
-Related Nodes: N-10095
+Related Nodes: N-10091
 Investigative Direction: Identify the witness and the outlet, and compare with the September 10 video.
 
 ---
@@ -1104,7 +1104,7 @@ Transcript Snippet: There was never a pooling of blood near Charlie's heart. Nev
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10095
+Related Nodes: N-10091
 Investigative Direction: Compare frame-by-frame September 10 video and the medical examiner's report against the witness descriptions.
 
 ---
@@ -1119,7 +1119,7 @@ Transcript Snippet: I think his mic, the second redundant mic, was rigged, and i
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10768
+Related Nodes: N-10697
 Investigative Direction: Obtain forensic examination of both microphones and their packs, and the autopsy wound analysis.
 
 ---
@@ -1134,7 +1134,7 @@ Transcript Snippet: They're speaking to NBC News, a pooling of blood around his 
 
 Anchored Artifacts: A-2699.1, A-2699.2, A-2699.3
 Mentions: N-1
-Related Nodes: N-10315
+Related Nodes: N-10296
 Investigative Direction: Request NBC News's sourcing for its September 10 eyewitness interviews.
 
 ---
@@ -1149,7 +1149,7 @@ Transcript Snippet: Why did you jump specifically to grab that camera's SD card 
 
 Anchored Artifacts:
 Mentions: N-261, N-14
-Related Nodes: N-10162, N-10346
+Related Nodes: N-10156, N-10324
 Contradicts: C-1358
 Investigative Direction: Review September 10 video of the camera takedown and the SD card's chain of custody.
 
@@ -1165,7 +1165,7 @@ Transcript Snippet: I'm now receiving emails from people telling me that at Fort
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10739, N-10768
+Related Nodes: N-10671, N-10697
 Investigative Direction: Identify Fort Huachuca units with signals or device-fabrication capability, and the emailers' bases of knowledge.
 
 ---
@@ -1180,7 +1180,7 @@ Transcript Snippet: She lied to everybody when she said Andrew went rogue.
 
 Anchored Artifacts:
 Mentions: N-2, N-14
-Related Nodes: N-10341
+Related Nodes: N-10319
 Investigative Direction: Compare Erika Kirk's statement about Kolvet going rogue with internal TPUSA communications on the surgeon quote.
 
 ---
@@ -1195,7 +1195,7 @@ Transcript Snippet: Everyone knew that was Charlie's plan for her to assume the 
 
 Anchored Artifacts:
 Mentions: N-2, N-1, N-46
-Related Nodes: N-10194, N-10664, N-10070
+Related Nodes: N-10186, N-10606, N-10067
 Investigative Direction: Obtain Charlie Kirk's will and TPUSA board minutes on succession.
 
 ---
@@ -1210,7 +1210,7 @@ Transcript Snippet: I didn't look at the room and say, "Hud's, who are you?" I I
 
 Anchored Artifacts: A-2700.1
 Mentions: N-2, N-1
-Related Nodes: N-10999
+Related Nodes: N-10919
 Investigative Direction: Interview current and former TPUSA staff on Erika Kirk's presence at the office before September 2025.
 
 ---
@@ -1225,7 +1225,7 @@ Transcript Snippet: She took over Tootsie Roll Industries after her husband Melv
 
 Anchored Artifacts: A-2702.1
 Mentions: N-701
-Related Nodes: N-11000
+Related Nodes: N-10920
 Investigative Direction: Check Tootsie Roll Industries SEC filings on ownership and executive history.
 
 ---
@@ -1240,7 +1240,7 @@ Transcript Snippet: Well, actually the second one they gave us is Erika Kirk, wh
 
 Anchored Artifacts: A-2702.1
 Mentions: N-2
-Related Nodes: N-11000
+Related Nodes: N-10920
 Investigative Direction: Reproduce the ChatGPT query and archive the output.
 
 ---
@@ -1255,7 +1255,7 @@ Transcript Snippet: Katharine Meyer Graham, sure enough she did take over for he
 
 Anchored Artifacts: A-2702.1
 Mentions: N-702
-Related Nodes: N-11000
+Related Nodes: N-10920
 Investigative Direction: Consult Washington Post corporate history for ownership at the time of Philip Graham's death.
 
 ---
@@ -1270,7 +1270,7 @@ Transcript Snippet: Eugene Meyer was her father, like I said, who purchased Wash
 
 Anchored Artifacts: A-2702.1
 Mentions: N-703, N-702
-Related Nodes: N-11000
+Related Nodes: N-10920
 Investigative Direction: Check the 1933 bankruptcy auction record of the Washington Post and Federal Reserve leadership history.
 
 ---
@@ -1285,7 +1285,7 @@ Transcript Snippet: We could not find a single example in human history where so
 
 Anchored Artifacts: A-2702.1
 Mentions: N-3
-Related Nodes: N-11000
+Related Nodes: N-10920
 Investigative Direction: Survey corporate succession records for spouses who became CEO and chairman after a founder's death.
 
 ---
@@ -1300,7 +1300,7 @@ Transcript Snippet: it was actually them together that had a controlling interes
 
 Anchored Artifacts: A-2702.1
 Mentions: N-298, N-704
-Related Nodes: N-11000
+Related Nodes: N-10920
 Investigative Direction: Check Las Vegas Sands SEC filings on ownership and executive officers after January 2021.
 
 ---
@@ -1315,7 +1315,7 @@ Transcript Snippet: You remember even when Aubrey got fired, she had said to And
 
 Anchored Artifacts:
 Mentions: N-550, N-14, N-2
-Related Nodes: N-10999, N-10552
+Related Nodes: N-10919, N-10506
 Investigative Direction: Obtain the recording of Aubrey Laitsch's termination meeting.
 
 ---
@@ -1330,7 +1330,7 @@ Transcript Snippet: I would love to sit down with each and every one of you indi
 
 Anchored Artifacts: A-2701.1
 Mentions: N-2
-Related Nodes: N-10999
+Related Nodes: N-10919
 Investigative Direction: Obtain the full staff call recording with its date.
 
 ---
@@ -1345,7 +1345,7 @@ Transcript Snippet: I mean, we always we had a emergency plan. Um which obviousl
 
 Anchored Artifacts: A-2700.2
 Mentions: N-2, N-1
-Related Nodes: N-10194
+Related Nodes: N-10186
 Investigative Direction: Ask TPUSA executives and board members whether any written emergency succession plan existed before September 10, 2025.
 
 ---
@@ -1360,7 +1360,7 @@ Transcript Snippet: he doesn't say Erika is involved in everything because she's
 
 Anchored Artifacts:
 Mentions: N-1, N-2, N-341, N-17
-Related Nodes: N-10398
+Related Nodes: N-10371
 Investigative Direction: Obtain the full video of Charlie Kirk's final presentation and transcribe every mention of Erika.
 
 ---
@@ -1375,7 +1375,7 @@ Transcript Snippet: Pastor Rob McCoy, Mikey McCoy's daddy. He brought down the h
 
 Anchored Artifacts: A-2703.1
 Mentions: N-17, N-190, N-3
-Related Nodes: N-10887
+Related Nodes: N-10808
 Investigative Direction: Obtain the full sermon video and date from Encounter Church.
 
 ---
@@ -1446,7 +1446,7 @@ Transcript Snippet: believe he was most likely murdered for his evolving views o
 
 Anchored Artifacts: A-2704.1
 Mentions: N-22, N-1
-Related Nodes: N-10148, N-10056
+Related Nodes: N-10143, N-10053
 Investigative Direction: Compare with charging documents and Tyler Robinson's alleged motive evidence.
 
 ---
@@ -1461,7 +1461,7 @@ Transcript Snippet: when the night before he tweeted that he was left no option 
 
 Anchored Artifacts:
 Mentions: N-1, N-55
-Related Nodes: N-10148, N-10169, N-10056
+Related Nodes: N-10143, N-10162, N-10053
 Supports: C-8851
 Investigative Direction: Obtain the full September 9, 2025 group chat and the Zoom call participant list.
 
@@ -1477,7 +1477,7 @@ Transcript Snippet: He then sends a message and says they're going to kill me
 
 Anchored Artifacts:
 Mentions: N-1, N-55
-Related Nodes: N-10169
+Related Nodes: N-10162
 Investigative Direction: Obtain the recipient, time and full text of the message from Charlie Kirk's phone records.
 
 ---
@@ -1492,7 +1492,7 @@ Transcript Snippet: new witnesses the next day at 4:00 a. m. in the morning sayi
 
 Anchored Artifacts:
 Mentions: N-1, N-2
-Related Nodes: N-10095
+Related Nodes: N-10091
 Investigative Direction: Identify the September 11, 2025 early-morning witness interviews and their broadcasters.
 
 ---
@@ -1507,7 +1507,7 @@ Transcript Snippet: Actually, those of us who knew Charlie best, a group that do
 
 Anchored Artifacts: A-2705.1
 Mentions: N-159, N-22, N-40, N-1
-Related Nodes: N-10056
+Related Nodes: N-10053
 Investigative Direction: Archive Blake Neff's tweet and confirm his prior employment with Tucker Carlson.
 
 ---
@@ -1522,7 +1522,7 @@ Transcript Snippet: some audio is going to show that the majority of people at T
 
 Anchored Artifacts:
 Mentions: N-40, N-330
-Related Nodes: N-10000, N-10508
+Related Nodes: N-10000, N-10106
 Investigative Direction: Review the promised audio when released and verify the speakers' identities.
 
 ---
@@ -1565,7 +1565,7 @@ Transcript Snippet: Mikey McCoy, Stacy Sheridan, they have been the directors he
 
 Anchored Artifacts:
 Mentions: N-190, N-186, N-2
-Related Nodes: N-10865
+Related Nodes: N-10786
 Investigative Direction: Seek production staff testimony or documents from Erika Kirk's early interviews.
 
 ---
@@ -1580,7 +1580,7 @@ Transcript Snippet: It's the main component in military and commercial blasting 
 
 Anchored Artifacts: A-2707.1
 Mentions:
-Related Nodes: N-10768
+Related Nodes: N-10697
 Investigative Direction: Check manufacturer specifications for PETN content in standard blasting caps.
 
 ---
@@ -1595,7 +1595,7 @@ Transcript Snippet: I know this won't help progress your theories, but me, along
 
 Anchored Artifacts: A-2707.1
 Mentions:
-Related Nodes: N-10768
+Related Nodes: N-10697
 Investigative Direction: Verify the emailer's EOD credentials and seek an independent explosives expert review of the wound and microphone.
 
 ---
@@ -1610,7 +1610,7 @@ Transcript Snippet: getting him accustomed to having that redundancy which was n
 
 Anchored Artifacts:
 Mentions: N-1, N-3
-Related Nodes: N-10768
+Related Nodes: N-10697
 Investigative Direction: Compare event footage from 2017–2023 and 2024–2025 for the number of microphones Charlie Kirk wore.
 
 ---
@@ -1625,7 +1625,7 @@ Transcript Snippet: The microphone didn't go into evidence. It went you know for
 
 Anchored Artifacts: A-2709.1
 Mentions: N-2, N-1
-Related Nodes: N-10229, N-10000
+Related Nodes: N-10216, N-10000
 Investigative Direction: Obtain the Utah County evidence inventory and photos from the Mar-a-Lago donor event.
 
 ---
@@ -1640,7 +1640,7 @@ Transcript Snippet: Charlie Kirk's Kirk's phone should have been kept into evide
 
 Anchored Artifacts: A-2709.1
 Mentions: N-1, N-2
-Related Nodes: N-10507, N-10229
+Related Nodes: N-10468, N-10216
 Investigative Direction: Obtain police property release records for Charlie Kirk's phone.
 
 ---
@@ -1669,7 +1669,7 @@ Transcript Snippet: people have been saying it's weird that she's never been uh 
 
 Anchored Artifacts:
 Mentions: N-2, N-40
-Related Nodes: N-10508
+Related Nodes: N-10106
 Investigative Direction: Check courtroom attendance reports for each Tyler Robinson hearing.
 
 ---

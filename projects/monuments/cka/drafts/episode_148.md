@@ -48,7 +48,7 @@ Confidence: high
 
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10055, N-10058, N-10059, N-10162, N-10193, N-10320, N-10599, N-10604, N-10651, N-10729, N-10809, N-10821, N-10826, N-10835, N-10889, N-10979
   - Hole-minted Nodes (wave1): N-350
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-159 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-329 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
@@ -512,7 +512,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12826, C-12827, C-12828, N-430, N-10657*
+*Related: C-12826, C-12827, C-12828, N-430, N-10599*
 
 ---
 
@@ -746,7 +746,7 @@ Kirk Assassination Investigation Timeline; existing topic reused for the host's 
 
 ---
 
-**N-10058** BBC
+**N-10055** BBC
 
 BBC; broadcaster of the 2013 Kanye interview clip.
 
@@ -754,7 +754,7 @@ BBC; broadcaster of the 2013 Kanye interview clip.
 
 ---
 
-**N-10061** CIA Operation Mockingbird
+**N-10058** CIA Operation Mockingbird
 
 CIA Operation Mockingbird; the host says the New York Times was involved.
 
@@ -762,7 +762,7 @@ CIA Operation Mockingbird; the host says the New York Times was involved.
 
 ---
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 Orem, Utah; location of the hospital waiting room in the Deseret News account.
 
@@ -770,7 +770,7 @@ Orem, Utah; location of the hospital waiting room in the Deseret News account.
 
 ---
 
-**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+**N-10162** Josh Hammer Pre-Death Zoom Call Verification
 
 Existing topic reused for the Zoom call claims.
 
@@ -778,7 +778,7 @@ Existing topic reused for the Zoom call claims.
 
 ---
 
-**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Existing topic reused for the funeral fireworks claims.
 
@@ -786,7 +786,7 @@ Existing topic reused for the funeral fireworks claims.
 
 ---
 
-**N-10342** Bibi Netanyahu TPUSA Funding Offer
+**N-10320** Bibi Netanyahu TPUSA Funding Offer
 
 Existing topic reused for the Netanyahu offer claims.
 
@@ -794,7 +794,7 @@ Existing topic reused for the Netanyahu offer claims.
 
 ---
 
-**N-10657** Salem Media Foreign Agent Registration Status
+**N-10599** Salem Media Foreign Agent Registration Status
 
 Existing topic reused for the Salem Media claims.
 
@@ -802,7 +802,7 @@ Existing topic reused for the Salem Media claims.
 
 ---
 
-**N-10662** 2025 FARA Propaganda Timeline Convergence
+**N-10604** 2025 FARA Propaganda Timeline Convergence
 
 Existing topic reused for the foreign agent filing claims.
 
@@ -810,7 +810,7 @@ Existing topic reused for the foreign agent filing claims.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing topic reused for the Denali and whereabouts claims.
 
@@ -818,7 +818,7 @@ Existing topic reused for the Denali and whereabouts claims.
 
 ---
 
-**N-10805** Debate Israel Focus
+**N-10729** Debate Israel Focus
 
 Existing topic reused for the debate-help explanation.
 
@@ -826,7 +826,7 @@ Existing topic reused for the debate-help explanation.
 
 ---
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Department of War; named in the host's claims about TPUSA and revenge.
 
@@ -834,7 +834,7 @@ Department of War; named in the host's claims about TPUSA and revenge.
 
 ---
 
-**N-10900** Daily Wire
+**N-10821** Daily Wire
 
 Daily Wire; the host's former employer in the Kanye statement and contract claims.
 
@@ -842,7 +842,7 @@ Daily Wire; the host's former employer in the Kanye statement and contract claim
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Existing topic reused for the New York Times apartment interview claim.
 
@@ -850,7 +850,7 @@ Existing topic reused for the New York Times apartment interview claim.
 
 ---
 
-**N-10914** Show Faith by Works LLC
+**N-10835** Show Faith by Works LLC
 
 Show Faith by Works LLC; named by the host as a FARA registrant.
 
@@ -858,7 +858,7 @@ Show Faith by Works LLC; named by the host as a FARA registrant.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 The New York Times; publisher of Erika Kirk's op-ed.
 
@@ -866,7 +866,7 @@ The New York Times; publisher of Erika Kirk's op-ed.
 
 ---
 
-**N-11061** Restaurantology Event Green Room Attendance Question
+**N-10979** Restaurantology Event Green Room Attendance Question
 
 Existing topic reused for the Restaurantology attendance claim.
 
@@ -1107,7 +1107,7 @@ Transcript Snippet: And then I saw the same people who told us that overwhelming
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-27
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:context
 Investigative Direction: Collect the posts defending funeral fireworks and the posts criticizing the Ye concert to see whether the same accounts made both arguments.
 
@@ -1123,7 +1123,7 @@ Transcript Snippet: They were like, "Charlie loved pyrotechnics." Yeah, I'm sure
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:context
 Investigative Direction: Find the TPUSA statements explaining the memorial fireworks and who authorized the pyrotechnic display.
 
@@ -1214,7 +1214,7 @@ Transcript Snippet: If you're a Kanye West fan, you're not a fan of me, you're a
 
 Anchored Artifacts: A-2342.1
 Mentions: N-27
-Related Nodes: N-10058
+Related Nodes: N-10055
 Tags: relevance:tangential
 Investigative Direction: Identify the original 2013 BBC interview and confirm the quoted passage.
 
@@ -1245,7 +1245,7 @@ Transcript Snippet: the media had the power to create and to delete people with 
 
 Anchored Artifacts: 
 Mentions: N-27
-Related Nodes: N-10888
+Related Nodes: N-10809
 Tags: relevance:tangential
 Investigative Direction: Opinion about media power; no specific budget or program is identified on air.
 
@@ -1276,7 +1276,7 @@ Transcript Snippet: they needed me to make that statement because they knew I wa
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-10900
+Related Nodes: N-10821
 Supports: C-2715
 Tags: relevance:context
 Investigative Direction: Seek corroboration of the conference-room meeting and the proposed statement text from Daily Wire staff or contemporaneous messages.
@@ -1293,7 +1293,7 @@ Transcript Snippet: literally the co-CEO banged his fists. He was like, "Why won
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Identify attendees of the meeting and whether any record or recollection confirms the exchange.
 
@@ -1309,7 +1309,7 @@ Transcript Snippet: I lost millions because of it. Yeah, they changed my contrac
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Obtain the pre- and post-incident contract language and the amendment date.
 
@@ -1340,7 +1340,7 @@ Transcript Snippet: I know what Andrew told me. BB offered to take Turning Point
 
 Anchored Artifacts: 
 Mentions: N-14, N-36
-Related Nodes: N-10342, N-10000
+Related Nodes: N-10320, N-10000
 Supports: C-4114, C-3193
 Tags: relevance:core
 Investigative Direction: Confirm with Kolvet or the other sources the host has cited in earlier episodes what exactly was offered and when.
@@ -1357,7 +1357,7 @@ Transcript Snippet: when he was at a table and offers were made to him and I thi
 
 Anchored Artifacts: 
 Mentions: N-1, N-27
-Related Nodes: N-10342
+Related Nodes: N-10320
 Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify the table, attendees and date of the meeting where offers were allegedly made (the host elsewhere points to the Hamptons retreat).
@@ -1389,7 +1389,7 @@ Transcript Snippet: I tweeted, "The rumors are true. I am finally free."
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10900
+Related Nodes: N-10821
 Tags: relevance:context
 Investigative Direction: Retrieve the original tweet and its date to confirm the wording and timing relative to the Adidas call.
 
@@ -1450,7 +1450,7 @@ Transcript Snippet: the Department of War is seeking revenge on us for doing so.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10888
+Related Nodes: N-10809
 Tags: relevance:context
 Investigative Direction: The host cites no specific action by the department; identify any official steps taken against her or her guests.
 
@@ -1528,7 +1528,7 @@ Transcript Snippet: we know that Blake got into the second rental, a Denali, wit
 
 Anchored Artifacts: 
 Mentions: N-159, N-367, N-1
-Related Nodes: N-10715
+Related Nodes: N-10651
 Supports: C-11071, C-10711
 Tags: relevance:core
 Investigative Direction: Rental agreement, vehicle GPS or security footage showing who rode in the second vehicle.
@@ -1545,7 +1545,7 @@ Transcript Snippet: We know that neither Danny or Blake attend the restaurantolo
 
 Anchored Artifacts: 
 Mentions: N-367, N-159, N-1
-Related Nodes: N-11061, N-10715
+Related Nodes: N-10979, N-10651
 Tags: relevance:core
 Investigative Direction: Event attendee list, green-room footage and the restaurant's own video of the morning.
 
@@ -1561,7 +1561,7 @@ Transcript Snippet: He didn't even remember who he was with. He had to be remind
 
 Anchored Artifacts: 
 Mentions: N-159, N-367
-Related Nodes: N-10715
+Related Nodes: N-10651
 Supports: C-10708, C-10711, C-10710
 Tags: relevance:core
 Investigative Direction: Compare Neff's own audio account with phone location records and Philip's statements.
@@ -1641,7 +1641,7 @@ Transcript Snippet: Someone said, "Candace is going to have an extreme reaction 
 
 Anchored Artifacts: A-2347.1
 Mentions: N-159, N-3
-Related Nodes: N-10062
+Related Nodes: N-10059
 Supports: C-12773
 Tags: relevance:core
 Investigative Direction: Obtain the Deseret News article and identify who the unnamed speaker was.
@@ -1690,7 +1690,7 @@ Transcript Snippet: This is in the middle of the manhunt. Nobody knew anything.
 
 Anchored Artifacts: A-2347.1
 Mentions: N-159, N-3, N-1
-Related Nodes: N-10062
+Related Nodes: N-10059
 Tags: relevance:core
 Investigative Direction: Establish the timing of the waiting-room conversation against the hospital pronouncement and the manhunt timeline.
 
@@ -1706,7 +1706,7 @@ Transcript Snippet: He won't name the person which makes me think usually when h
 
 Anchored Artifacts: A-2347.1
 Mentions: N-159, N-367
-Related Nodes: N-10715
+Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Ask Neff or the Deseret News who was in the waiting room.
 
@@ -1769,7 +1769,7 @@ Transcript Snippet: Let's start with the fact that she's even doing this in the 
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2
-Related Nodes: N-10968
+Related Nodes: N-10889
 Supports: C-12785
 Tags: relevance:core
 Investigative Direction: Confirm the paywall status and publication date of the op-ed.
@@ -1786,7 +1786,7 @@ Transcript Snippet: This was the first publication she partnered with. She opene
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10905, N-10968
+Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Date the New York Times interview and confirm the location and that it was the first such interview.
 
@@ -1802,7 +1802,7 @@ Transcript Snippet: Charlie never wrote an op-ed for the New York Times. His opi
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10968
+Related Nodes: N-10889
 Tags: relevance:core
 Investigative Direction: Search New York Times opinion archives for any byline by Kirk.
 
@@ -1818,7 +1818,7 @@ Transcript Snippet: Cuz I I want to know what the intelligentsia is saying. It's
 
 Anchored Artifacts: A-2345.1
 Mentions: N-1
-Related Nodes: N-10968
+Related Nodes: N-10889
 Supports: C-12789
 Tags: relevance:core
 Investigative Direction: Identify the original show episode and date of the clip.
@@ -1835,7 +1835,7 @@ Transcript Snippet: You work with the Department of War. You work with the deep 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10888, N-10000
+Related Nodes: N-10809, N-10000
 Tags: relevance:core
 Investigative Direction: Identify any formal agreements or events between TPUSA and the Department of War.
 
@@ -1992,7 +1992,7 @@ Transcript Snippet: Operation Mockingbird. The New York Times was involved in th
 
 Anchored Artifacts: 
 Mentions: N-707
-Related Nodes: N-10061, N-10968
+Related Nodes: N-10058, N-10889
 Tags: relevance:tangential
 Investigative Direction: Cite the Church Committee findings on press relationships; the host gives no source on air.
 
@@ -2040,7 +2040,7 @@ Transcript Snippet: Charlie was sending messages that they're going to kill him 
 
 Anchored Artifacts: A-2899.1
 Mentions: N-1, N-7
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the released text messages and Zoom call logs to confirm message times against the call.
@@ -2057,7 +2057,7 @@ Transcript Snippet: That came from Frank Turak. There were two Israeli officials
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Find Turek's public description of the call and identify the two officials.
 
@@ -2073,7 +2073,7 @@ Transcript Snippet: Rabbi Wolicki was on FaceTime call. Uh sorry, I'm saying Fac
 
 Anchored Artifacts: 
 Mentions: N-164, N-55
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain attendee lists or invitations for the call from the participants.
@@ -2090,7 +2090,7 @@ Transcript Snippet: which came on the heels to just 2 hours after Charlie said h
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Supports: C-10759, C-11205
 Tags: relevance:core
 Investigative Direction: Compare timestamps of Kirk's pro-Israel message with the Zoom start time.
@@ -2122,7 +2122,7 @@ Transcript Snippet: She was getting her nails done uh when this was going on. Th
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Compare Erika's earlier and later accounts of where she was and what she knew during the call.
 
@@ -2184,7 +2184,7 @@ Transcript Snippet: it certainly does not register as true to me that Charlie ha
 
 Anchored Artifacts: A-2350.2
 Mentions: N-1
-Related Nodes: N-10805, N-10169
+Related Nodes: N-10729, N-10162
 Tags: relevance:core
 Investigative Direction: Establish the call time in Israel and who said it was debate preparation.
 
@@ -2200,7 +2200,7 @@ Transcript Snippet: he like Josh Hammer said, he just was really interested in J
 
 Anchored Artifacts: 
 Mentions: N-55, N-1
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Find Hammer's public statement describing the call and its purpose.
 
@@ -2216,7 +2216,7 @@ Transcript Snippet: Frank Turek's on the call. Like what is he is he some grand 
 
 Anchored Artifacts: 
 Mentions: N-7, N-55
-Related Nodes: N-10169
+Related Nodes: N-10162
 Tags: relevance:core
 Investigative Direction: Ask Turek and Hammer what advice was given on the call.
 
@@ -2232,7 +2232,7 @@ Transcript Snippet: Andrew Judas Kolb that tried to make an excuse for the firew
 
 Anchored Artifacts: A-2350.3
 Mentions: N-14, N-2
-Related Nodes: N-10201
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement about who arranged the fireworks.
 
@@ -2248,7 +2248,7 @@ Transcript Snippet: Yeah, I think she got the message and the theme and she chos
 
 Anchored Artifacts: A-2350.3
 Mentions: N-2
-Related Nodes: N-10201
+Related Nodes: N-10193
 Supports: C-4446
 Tags: relevance:core
 Investigative Direction: Identify who selected the outfit and the program planned for the memorial.
@@ -2280,7 +2280,7 @@ Transcript Snippet: On September 10th of this year. Yes, Salem Media and Waterst
 
 Anchored Artifacts: A-2350.5
 Mentions: N-1
-Related Nodes: N-10657
+Related Nodes: N-10599
 Supports: C-12823
 Tags: relevance:core
 Investigative Direction: Confirm the release date from the producers.
@@ -2296,7 +2296,7 @@ Claim: The host says Salem Media and Waterstone are in an acquisition in which W
 Transcript Snippet: On September 10th of this year. Yes, Salem Media and Waterstone, they are acquiring Salem Media.
 
 Anchored Artifacts: A-2350.5
-Related Nodes: N-10657
+Related Nodes: N-10599
 Tags: relevance:core
 Investigative Direction: Check SEC filings and press releases on any acquisition of Salem Media Group.
 
@@ -2311,7 +2311,7 @@ Claim: The host says Salem Media is behind the foreign agent filings made immedi
 Transcript Snippet: we know that Salem Media is behind or the the paradox, the filings immediately after Charlie died.
 
 Anchored Artifacts: A-2900.1
-Related Nodes: N-10657, N-10662, N-10914
+Related Nodes: N-10599, N-10604, N-10835
 Supports: C-8842
 Tags: relevance:core
 Investigative Direction: FARA database entries for Clock Tower X and Show Faith by Works naming Salem outlets as targets.
@@ -2327,7 +2327,7 @@ Claim: The host says the Israeli foreign minister got involved in spending money
 Transcript Snippet: The Israeli foreign minister getting involved in spending money in America to give us the October 7th experience to tether Christians further.
 
 Anchored Artifacts: A-2900.1
-Related Nodes: N-10662, N-10657
+Related Nodes: N-10604, N-10599
 Tags: relevance:core
 Investigative Direction: FARA filings naming the Israeli Ministry of Foreign Affairs as principal and the contract amounts.
 
@@ -2343,7 +2343,7 @@ Transcript Snippet: Brad Parscale, I believe, was on the of Salem Media, or he w
 
 Anchored Artifacts: A-2900.1
 Mentions: N-430
-Related Nodes: N-10657
+Related Nodes: N-10599
 Supports: C-8843
 Tags: relevance:core
 Investigative Direction: Salem Media officer listings and Parscale's role in the Clock Tower X filings.
@@ -2359,7 +2359,7 @@ Claim: The host says she will assume the documentary will be Israeli propaganda,
 Transcript Snippet: So, I will assume that that is going to be Israeli propaganda, just judging by the far docs, Faith by Works LLC and the like.
 
 Anchored Artifacts: A-2350.5
-Related Nodes: N-10914, N-10657
+Related Nodes: N-10835, N-10599
 Tags: relevance:core
 Investigative Direction: Review the documentary's funding disclosures once released.
 

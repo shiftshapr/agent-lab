@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10174"
+            "N-10167"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -63,7 +63,7 @@
             "N-14",
             "N-161",
             "N-162",
-            "N-10179"
+            "N-10171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,7 +91,7 @@
           "related_nodes": [
             "N-163",
             "N-162",
-            "N-10179"
+            "N-10171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10174"
+            "N-10167"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10174"
+            "N-10167"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
             "N-14",
             "N-171",
             "N-1",
-            "N-10178",
+            "N-10016",
             "N-43"
           ],
           "tags": [],
@@ -253,7 +253,7 @@
           "related_nodes": [
             "N-164",
             "N-1",
-            "N-10178"
+            "N-10016"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,7 +353,7 @@
             "N-93",
             "N-167",
             "N-3",
-            "N-10176"
+            "N-10169"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -618,7 +618,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14",
-        "N-10179"
+        "N-10171"
       ]
     },
     {
@@ -643,7 +643,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-10179"
+        "N-10171"
       ]
     },
     {
@@ -690,7 +690,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10178"
+        "N-10016"
       ]
     },
     {
@@ -731,7 +731,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ]
     },
     {
@@ -751,7 +751,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ]
     },
     {
@@ -771,7 +771,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ]
     },
     {
@@ -882,7 +882,7 @@
       "related_nodes": [
         "N-1",
         "N-14",
-        "N-10178"
+        "N-10016"
       ]
     },
     {
@@ -922,7 +922,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ]
     },
     {
@@ -942,7 +942,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ]
     },
     {
@@ -967,8 +967,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10174",
-      "ref": "N-10174",
+      "@id": "N-10167",
+      "ref": "N-10167",
       "name": "Josh Hammer September 9 Retweet Context Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zarutska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10175",
-      "ref": "N-10175",
+      "@id": "N-10168",
+      "ref": "N-10168",
       "name": "UVU Left-Side Footage Black Hole",
       "type": "investigation_target",
       "description": "Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.",
@@ -1022,8 +1022,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10176",
-      "ref": "N-10176",
+      "@id": "N-10169",
+      "ref": "N-10169",
       "name": "Candace Kill Switch / Dead Man Switch",
       "type": "investigation_target",
       "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
@@ -1049,8 +1049,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10177",
-      "ref": "N-10177",
+      "@id": "N-10170",
+      "ref": "N-10170",
       "name": "Charlie Kirk Final-Days Text Communications",
       "type": "investigation_target",
       "description": "Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) \"they are going to kill me\" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.",
@@ -1069,9 +1069,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10178",
-      "ref": "N-10178",
-      "name": "Hamptons Meeting Verification",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
       "type": "investigation_target",
       "description": "Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.",
       "related_artifacts": [
@@ -1092,8 +1092,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10179",
-      "ref": "N-10179",
+      "@id": "N-10171",
+      "ref": "N-10171",
       "name": "Iryna Zarutska Murder Timeline Verification",
       "type": "investigation_target",
       "description": "Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.",
@@ -1655,8 +1655,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Existing topic reused for claims about Kirk's views on Israel.",
@@ -1685,8 +1685,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
       "type": "investigation_target",
       "description": "Existing topic reused for claims about donor pressure on Kirk.",
@@ -1704,8 +1704,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10125",
-      "ref": "N-10125",
+      "@id": "N-10120",
+      "ref": "N-10120",
       "name": "Utah",
       "type": "investigation_target",
       "description": "Utah; where the host contrasts the Mormon community's reaction.",
@@ -1722,8 +1722,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10163",
-      "ref": "N-10163",
+      "@id": "N-10157",
+      "ref": "N-10157",
       "name": "Pre-Assassination Group Chat Content",
       "type": "investigation_target",
       "description": "Existing topic reused for claims about the pre-assassination group chat.",
@@ -1742,8 +1742,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for claims about the Hammer Zoom call.",
@@ -1766,8 +1766,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10206",
-      "ref": "N-10206",
+      "@id": "N-10198",
+      "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
       "type": "investigation_target",
       "description": "Existing topic reused for the text chain.",
@@ -1784,8 +1784,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Existing topic reused for Dillon at the Hamptons.",
@@ -1801,8 +1801,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10646",
-      "ref": "N-10646",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for claims about rooftop security.",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10650",
-      "ref": "N-10650",
+      "@id": "N-10592",
+      "ref": "N-10592",
       "name": "Charlie Kirk September 9 Pre-Event Threat Text",
       "type": "investigation_target",
       "description": "Existing topic reused for the pre-event 'they are going to kill me' text.",
@@ -1837,8 +1837,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11010",
-      "ref": "N-11010",
+      "@id": "N-10930",
+      "ref": "N-10930",
       "name": "Lay-Low List Warning",
       "type": "investigation_target",
       "description": "Existing topic reused for the lay-low calls.",
@@ -1857,8 +1857,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11099",
-      "ref": "N-11099",
+      "@id": "N-11017",
+      "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
       "type": "investigation_target",
       "description": "Existing topic reused for the Australia visa claim.",
@@ -1874,8 +1874,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11219",
-      "ref": "N-11219",
+      "@id": "N-11135",
+      "ref": "N-11135",
       "name": "Charlie Kirk Security Company Ownership Question",
       "type": "topic",
       "description": "The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops.",
@@ -1903,7 +1903,7 @@
         "A-1248.1"
       ],
       "related_nodes": [
-        "N-10174"
+        "N-10167"
       ],
       "tags": [],
       "claim_timestamp": "00:06:41",
@@ -1924,7 +1924,7 @@
         "A-1237.1"
       ],
       "related_nodes": [
-        "N-10179"
+        "N-10171"
       ],
       "tags": [],
       "claim_timestamp": "00:07:48",
@@ -1944,7 +1944,7 @@
       "claim": "The host says Iryna Zarutska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10179"
+        "N-10171"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
@@ -2018,7 +2018,7 @@
         "A-1239.2"
       ],
       "related_nodes": [
-        "N-10174"
+        "N-10167"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
@@ -2037,7 +2037,7 @@
         "A-1241.1"
       ],
       "related_nodes": [
-        "N-10177"
+        "N-10170"
       ],
       "tags": [],
       "claim_timestamp": "00:20:50",
@@ -2057,8 +2057,8 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-10177",
-        "N-10178"
+        "N-10170",
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:22:12",
@@ -2079,7 +2079,7 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-10178"
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:29:05",
@@ -2099,7 +2099,7 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-10178"
+        "N-10016"
       ],
       "tags": [],
       "claim_timestamp": "00:30:17",
@@ -2138,7 +2138,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [],
       "claim_timestamp": "00:54:31",
@@ -2162,7 +2162,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [],
       "claim_timestamp": "00:54:36",
@@ -2220,7 +2220,7 @@
         "A-1240.1"
       ],
       "related_nodes": [
-        "N-10174"
+        "N-10167"
       ],
       "tags": [],
       "claim_timestamp": "00:11:02",
@@ -2255,7 +2255,7 @@
       "claim": "The host says there is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event, and that Turning Point has not released high-resolution footage of that angle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10175"
+        "N-10168"
       ],
       "tags": [],
       "claim_timestamp": "00:43:02",
@@ -2273,7 +2273,7 @@
       "claim": "Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10175"
+        "N-10168"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
@@ -2325,7 +2325,7 @@
       "claim": "The host says Josh Hammer has already admitted that he and a rabbi in Israel had a long talk with Charlie Kirk the night before Kirk died, and that Hammer was very proud of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2351,7 +2351,7 @@
         "A-1248.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2374,7 +2374,7 @@
         "A-1248.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -2397,7 +2397,7 @@
         "A-1248.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2420,7 +2420,7 @@
       "claim": "The host says the world now knows Josh Hammer had personal, intimate knowledge that Charlie Kirk's views on Israel were changing, that Hammer lied about the Hamptons meeting, and that she has told the truth about it from day one.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10178",
+        "N-10016",
         "N-10027"
       ],
       "tags": [
@@ -2443,7 +2443,7 @@
       "claim": "The host says Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's defiance against the state of Israel, and that Dillon was the more vocal of the two in pressing Charlie at the Hamptons.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
+        "N-10323",
         "N-10027"
       ],
       "tags": [
@@ -2470,7 +2470,7 @@
       "claim": "The host says it is now an established fact that Josh Hammer knew Charlie Kirk's perspectives on Israel were changing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -2513,8 +2513,8 @@
       "claim": "The host says another X user asserted that the footage of Iryna Zarutska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10179",
-        "N-10174"
+        "N-10171",
+        "N-10167"
       ],
       "tags": [
         "relevance:context"
@@ -2540,7 +2540,7 @@
         "A-1237.1"
       ],
       "related_nodes": [
-        "N-10174"
+        "N-10167"
       ],
       "tags": [
         "relevance:context"
@@ -2563,8 +2563,8 @@
       "claim": "The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zarutska case.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10174",
-        "N-10179"
+        "N-10167",
+        "N-10171"
       ],
       "tags": [
         "relevance:core"
@@ -2589,8 +2589,8 @@
       "claim": "The host says Hammer himself sent multiple tweets about the Iryna Zarutska homicide, as many users did, because it was trending after the footage appeared on September 5.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10179",
-        "N-10174"
+        "N-10171",
+        "N-10167"
       ],
       "tags": [
         "relevance:context"
@@ -2613,8 +2613,8 @@
         "A-1240.1"
       ],
       "related_nodes": [
-        "N-10174",
-        "N-10169"
+        "N-10167",
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2641,7 +2641,7 @@
         "A-1238.1"
       ],
       "related_nodes": [
-        "N-10174"
+        "N-10167"
       ],
       "tags": [
         "relevance:context"
@@ -2689,7 +2689,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -2716,7 +2716,7 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2743,7 +2743,7 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2766,7 +2766,7 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -2855,7 +2855,7 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -2881,9 +2881,9 @@
       "claim": "The host says Rabbi Wolicki was also on the text chain, so both he and Hammer knew where Charlie stood on Israel before his death, and that they already knew two weeks earlier in the Hamptons.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10163",
-        "N-10206",
-        "N-10178"
+        "N-10157",
+        "N-10198",
+        "N-10016"
       ],
       "tags": [
         "relevance:core"
@@ -2960,7 +2960,7 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3004,7 +3004,7 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3030,7 +3030,7 @@
       "claim": "The host says she previously told viewers Charlie was particularly worried that Israel was infringing on speech in America, and says she has text messages to that effect.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10177",
+        "N-10170",
         "N-10025"
       ],
       "tags": [
@@ -3055,7 +3055,7 @@
       "claim": "The host says Charlie Kirk was aware Israel had lost the PR war and that it weighed on him that he was seen as someone who simply defends Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3076,8 +3076,8 @@
       "claim": "The host says Charlie Kirk was genuinely over his pro-Israel stance toward the end because of what he called, in his words not hers, Jewish behavior leaning into stereotypes, that he did not want to be bullied, and that people around him knew he was being bullied.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10163",
-        "N-10106"
+        "N-10157",
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -3101,8 +3101,8 @@
       "claim": "The host says that less than 48 hours before he died Charlie Kirk announced in the chat that he had no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior, and she contrasts this with Hammer's account of the following day's call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10163",
-        "N-10206"
+        "N-10157",
+        "N-10198"
       ],
       "tags": [
         "relevance:core"
@@ -3128,8 +3128,8 @@
       "claim": "The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and mocks Hammer's account that the call was not a follow-up to what he had expressed to them hours earlier but a fan's call about Hammer's book, saying \"That's what Josh wants us to believe.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10163",
-        "N-10169"
+        "N-10157",
+        "N-10162"
       ],
       "tags": [
         "relevance:core"
@@ -3156,8 +3156,8 @@
       "claim": "The host says that on the same day as the Zoom call Charlie Kirk was texting people that \"they are going to kill me\", and that she is asked to believe he was calling Hammer as a fan of his book that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10177",
-        "N-10650"
+        "N-10170",
+        "N-10592"
       ],
       "tags": [
         "relevance:core"
@@ -3179,7 +3179,7 @@
       "claim": "The host says Hammer described the Zoom call as taking place at night and she thinks the New York Post reported the same.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [
         "relevance:context"
@@ -3225,7 +3225,7 @@
       "claim": "The host says that she, Tucker Carlson and others never said Israel killed Charlie Kirk, and that she has never said it because on the facts she follows she has no evidence of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3247,7 +3247,7 @@
       "claim": "The host says that almost the only compelling argument that Israel had anything to do with Charlie Kirk's death is the way Israel's supporters, including Benjamin Netanyahu, are acting now, with propaganda, lies and attacks on her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3269,8 +3269,8 @@
       "claim": "The host says Benjamin Netanyahu publicly stated, 24 hours after Charlie Kirk died, that Israel did not kill Kirk, and contrasts this with Utah's Mormon leaders, who she says did not issue such denials.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056",
-        "N-10125"
+        "N-10053",
+        "N-10120"
       ],
       "tags": [
         "relevance:core"
@@ -3294,7 +3294,7 @@
         "A-3003.1"
       ],
       "related_nodes": [
-        "N-10175"
+        "N-10168"
       ],
       "tags": [
         "relevance:core"
@@ -3317,7 +3317,7 @@
         "A-3002.1"
       ],
       "related_nodes": [
-        "N-10175"
+        "N-10168"
       ],
       "tags": [
         "relevance:core"
@@ -3403,7 +3403,7 @@
       "claim": "The host says she does not accept that Charlie Kirk lost his life because he really angered the trans lobby.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3424,7 +3424,7 @@
       "claim": "The host says that on the day Charlie died she got multiple phone calls from people saying she and Tucker Carlson should lay low because they were also on the list, and that the callers never said who specifically told them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11010"
+        "N-10930"
       ],
       "tags": [
         "relevance:core"
@@ -3446,7 +3446,7 @@
       "claim": "The host says she called Tucker Carlson and told him she was hearing that they were next, and says he will confirm it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11010"
+        "N-10930"
       ],
       "tags": [
         "relevance:core"
@@ -3467,7 +3467,7 @@
       "claim": "The host says she remembers saying, \"Did the feds say this? Who said this specifically?\", and wondered why the feds were not calling her and Tucker directly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11010"
+        "N-10930"
       ],
       "tags": [
         "relevance:core"
@@ -3488,7 +3488,7 @@
       "claim": "The host says she believes, coming out of the grief stage, that the shooting of Charlie Kirk in the throat was meant as a signal that his voice was taken out and theirs would be too.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11010"
+        "N-10930"
       ],
       "tags": [
         "relevance:core"
@@ -3510,7 +3510,7 @@
       "claim": "The host says that what she wanted to do, as she discussed the previous day and which got picked up, was to create a kill switch.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:core"
@@ -3553,7 +3553,7 @@
       "claim": "The host says Kanye West sent her all of the messages from people threatening him and that she has all of them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:context"
@@ -3574,7 +3574,7 @@
       "claim": "The host says the kill switch she wanted to create means sharing information with Max Blumenthal and people elsewhere and sending a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:core"
@@ -3600,7 +3600,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10177"
+        "N-10170"
       ],
       "tags": [
         "relevance:context"
@@ -3624,8 +3624,8 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10177",
-        "N-10650"
+        "N-10170",
+        "N-10592"
       ],
       "tags": [
         "relevance:core"
@@ -3649,7 +3649,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10169"
       ],
       "tags": [
         "relevance:context"
@@ -3675,7 +3675,7 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:context"
@@ -3698,8 +3698,8 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10177"
+        "N-10053",
+        "N-10170"
       ],
       "tags": [
         "relevance:core"
@@ -3788,7 +3788,7 @@
       "claim": "The host says that, genuinely, she and others had no proof and no rhyme or reason to suspect Israel, and that it is the insane behavior of covering up and lying that makes them question things.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [
         "relevance:core"
@@ -3808,8 +3808,8 @@
       "claim": "The host says Charlie Kirk owned the security company seen around him and actually purchased a security company outright. No document is shown.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11219",
-        "N-10646"
+        "N-11135",
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -3830,8 +3830,8 @@
       "claim": "The host says Charlie Kirk was paying a large amount for his security and that they did not check rooftops, and that someone could have been posted on a rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11219",
-        "N-10646"
+        "N-11135",
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -3937,7 +3937,7 @@
       "claim": "The host says the Mormon community has never accused her of being anti-Utah or anti-Mormon and that people in it have been assisting and want to know what happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10125"
+        "N-10120"
       ],
       "tags": [
         "relevance:context"
@@ -3959,7 +3959,7 @@
         "A-3005.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10102"
       ],
       "tags": [
         "relevance:core"
@@ -4002,7 +4002,7 @@
       "claim": "The host says she was banned from a country, that she was not even going to speak about Israel but about homeschooling, children, her backstory and race issues, and that the Zionist lobby nonetheless acted against her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11099"
+        "N-11017"
       ],
       "tags": [
         "relevance:context"

@@ -37,9 +37,9 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10833",
-            "N-10835",
-            "N-10836"
+            "N-10756",
+            "N-10758",
+            "N-10759"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -67,7 +67,7 @@
             "C-13190"
           ],
           "related_nodes": [
-            "N-10833"
+            "N-10756"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
             "C-13233"
           ],
           "related_nodes": [
-            "N-10835"
+            "N-10758"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -176,8 +176,8 @@
             "C-13260"
           ],
           "related_nodes": [
-            "N-10834",
-            "N-10837"
+            "N-10757",
+            "N-10760"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
             "C-13263"
           ],
           "related_nodes": [
-            "N-10834",
-            "N-10837"
+            "N-10757",
+            "N-10760"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-13265"
           ],
           "related_nodes": [
-            "N-10834"
+            "N-10757"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -387,8 +387,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10833",
-      "ref": "N-10833",
+      "@id": "N-10756",
+      "ref": "N-10756",
       "name": "Notice of Claim Timing Anomaly",
       "type": "investigation_target",
       "description": "Persistent target: the wrongful-death notice of claim was filed approximately one year after the incident and two days before the expected release of UVU's independent review of security failures. Investigating whether the filing is preemptive.",
@@ -412,8 +412,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10834",
-      "ref": "N-10834",
+      "@id": "N-10757",
+      "ref": "N-10757",
       "name": "Tyler Robinson 2022 Bodycam Footage Provenance Question",
       "type": "investigation_target",
       "description": "Persistent target: investigating who retained the May 31, 2022 bodycam footage for approximately three years, why it was retained past Utah's 60–90 day routine-footage retention period, and how Scripps News obtained and released it within seven days of Tyler Robinson's identification as suspect.",
@@ -438,8 +438,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10835",
-      "ref": "N-10835",
+      "@id": "N-10758",
+      "ref": "N-10758",
       "name": "Notice of Claim Text Message Omission",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the line \"I was told students have access above us,\" which materially changes the contextual reading from a general \"rooftops\" concern to a targeted walkway-above-Charlie concern.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10836",
-      "ref": "N-10836",
+      "@id": "N-10759",
+      "ref": "N-10759",
       "name": "UVU Officer Allocation Ratio for Charlie Kirk Event",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim alleges UVU assigned six of 24 total officers to the outdoor event with approximately 3,000 attendees; host calculates this is mathematically an oversupply relative to UVU's 50,000-student base.",
@@ -484,8 +484,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10837",
-      "ref": "N-10837",
+      "@id": "N-10760",
+      "ref": "N-10760",
       "name": "Utah Bodycam Routine Footage Retention Law",
       "type": "investigation_target",
       "description": "Persistent target: investigating whether the May 31, 2022 Tyler Robinson footage should have been purged under Utah's 60–90 day retention schedule for routine, non-criminal interactions.",
@@ -504,8 +504,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10838",
-      "ref": "N-10838",
+      "@id": "N-10761",
+      "ref": "N-10761",
       "name": "UVU EMS Presence at Scene Verification",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim alleges no first responders were available; host asserts UVU's state-certified emergency medical services were on scene at the vehicle with medical bags.",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Persistent target: UVU-commissioned third-party review announced September 22, 2025; findings expected imminently (host reports \"Friday\").",
@@ -545,7 +545,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ]
     },
     {
@@ -837,8 +837,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10272",
-      "ref": "N-10272",
+      "@id": "N-10256",
+      "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -854,8 +854,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -871,8 +871,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10344",
-      "ref": "N-10344",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -905,25 +905,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10356",
-      "ref": "N-10356",
-      "name": "Brian Harpole Dan Flood Text Misattribution",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-13228"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@id": "N-10394",
+      "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -941,8 +924,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10646",
-      "ref": "N-10646",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -972,8 +955,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10840",
-      "ref": "N-10840",
+      "@id": "N-10763",
+      "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -992,8 +975,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10873",
-      "ref": "N-10873",
+      "@id": "N-10794",
+      "ref": "N-10794",
       "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1015,8 +998,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10983",
-      "ref": "N-10983",
+      "@id": "N-10891",
+      "ref": "N-10891",
       "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1033,8 +1016,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11009",
-      "ref": "N-11009",
+      "@id": "N-10929",
+      "ref": "N-10929",
       "name": "Hall of Flags Activity Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1052,8 +1035,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11170",
-      "ref": "N-11170",
+      "@id": "N-11086",
+      "ref": "N-11086",
       "name": "International Fellowship of Christians and Jews",
       "type": "investigation_target",
       "description": "Existing organization reused for new claims in this episode.",
@@ -1070,8 +1053,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11264",
-      "ref": "N-11264",
+      "@id": "N-11180",
+      "ref": "N-11180",
       "name": "Utah Attorney General's Office",
       "type": "investigation_target",
       "description": "Existing organization reused for new claims in this episode.",
@@ -1088,8 +1071,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11313",
-      "ref": "N-11313",
+      "@id": "N-11229",
+      "ref": "N-11229",
       "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1476,8 +1459,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11410",
-      "ref": "N-11410",
+      "@id": "N-11326",
+      "ref": "N-11326",
       "name": "2022 Footage Imprinting Theory",
       "type": "topic",
       "description": "The host's theory that the release of the 2022 bodycam footage was planned to imprint a match with the UVU-campus footage, with an individual trained to mimic Robinson's gait, hat and sunglasses.",
@@ -1494,8 +1477,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11411",
-      "ref": "N-11411",
+      "@id": "N-11327",
+      "ref": "N-11327",
       "name": "Amphitheater Venue Selection and Traffic Control Dispute",
       "type": "topic",
       "description": "The dispute over who chose the UVU amphitheater, what UVU said about traffic control on the August 25 Teams call, and who controlled tickets.",
@@ -1525,7 +1508,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ],
       "tags": [],
       "claim_timestamp": "00:01:29",
@@ -1546,7 +1529,7 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -1565,7 +1548,7 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -1620,7 +1603,7 @@
         "A-2388.1"
       ],
       "related_nodes": [
-        "N-10835"
+        "N-10758"
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
@@ -1640,7 +1623,7 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-10835"
+        "N-10758"
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
@@ -1661,7 +1644,7 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-10835"
+        "N-10758"
       ],
       "tags": [],
       "claim_timestamp": "00:29:56",
@@ -1682,7 +1665,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -1698,7 +1681,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -1714,7 +1697,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -1734,7 +1717,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -1751,7 +1734,7 @@
         "A-2389.2"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [],
       "claim_timestamp": "00:42:50",
@@ -1770,8 +1753,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834",
-        "N-10837"
+        "N-10757",
+        "N-10760"
       ],
       "tags": [],
       "claim_timestamp": "00:42:58",
@@ -1791,7 +1774,7 @@
         "A-2390.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -1810,7 +1793,7 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -1829,7 +1812,7 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -1848,8 +1831,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834",
-        "N-10837"
+        "N-10757",
+        "N-10760"
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
@@ -1865,7 +1848,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
@@ -1882,7 +1865,7 @@
       "claim": "The host says UVU has a total of 50,000 students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -1896,7 +1879,7 @@
       "claim": "The host says UVU has a grand total of 24 police officers available to cover its campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -1928,7 +1911,7 @@
       "claim": "The host says UVU's state-certified emergency medical services were present beside the vehicle with medical bags in hand.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10838"
+        "N-10761"
       ],
       "tags": [],
       "claim_timestamp": "00:22:26",
@@ -1944,8 +1927,8 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-10839",
-        "N-10833"
+        "N-10762",
+        "N-10756"
       ],
       "tags": [],
       "claim_timestamp": "00:06:24",
@@ -1976,7 +1959,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ],
       "tags": [],
       "claim_timestamp": "00:24:37",
@@ -1992,7 +1975,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ],
       "tags": [],
       "claim_timestamp": "00:25:33",
@@ -2008,7 +1991,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ],
       "tags": [],
       "claim_timestamp": "00:33:33",
@@ -2029,7 +2012,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10833"
+        "N-10756"
       ],
       "tags": [
         "relevance:context"
@@ -2049,7 +2032,7 @@
       "claim": "The host says a notice of claim is a mandatory prerequisite for this kind of suit, giving the government a chance to concede or settle before litigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11264"
+        "N-11180"
       ],
       "tags": [
         "relevance:context"
@@ -2072,7 +2055,7 @@
       "claim": "The host says she has known since approximately last December that it was Charlie Kirk's parents who were encouraging Erika Kirk to file a wrongful death lawsuit against the state of Utah.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ],
       "tags": [
         "relevance:core"
@@ -2094,7 +2077,7 @@
       "claim": "The host says she was told at that time that suing was not something Erika herself was keen to do.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10833"
+        "N-10756"
       ],
       "tags": [
         "relevance:core"
@@ -2136,7 +2119,7 @@
       "claim": "The host says she was told the independent review's findings would be devastating to Turning Point USA and its security apparatus because the reviewers would have gathered communications.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839",
+        "N-10762",
         "N-10000"
       ],
       "tags": [
@@ -2160,8 +2143,8 @@
       "claim": "The host says the notice came on Wednesday, two days before the review was due, and that TPUSA is drumming up noise with influencers blaming the campus for the security failures.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10833",
-        "N-10839",
+        "N-10756",
+        "N-10762",
         "N-10000"
       ],
       "tags": [
@@ -2185,7 +2168,7 @@
       "claim": "The host says that in all her time doing college campuses with Charlie she never saw 12 security people brought for a campus of this size.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2209,7 +2192,7 @@
       "claim": "The host says the security team members were not police officers but highly trained military: former Navy SEALs, Marines, Army snipers and SWAT commanders who worked at the highest levels of government.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2233,13 +2216,13 @@
       "claim": "The host says she worked for Turning Point USA and, on every tour she went on thereafter, brought her own security team to each event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10344"
+        "N-10322"
       ],
       "tags": [
         "relevance:context"
       ],
       "claim_timestamp": "00:09:33",
-      "investigative_direction": "Ask the host for her tour security arrangements; compare with N-10344.",
+      "investigative_direction": "Ask the host for her tour security arrangements; compare with N-10322.",
       "transcript_snippet": "I worked for Turning Point USA. On every tour that I went on thereafter, I brought in my own security team to each and every event.",
       "mentions_person_refs": [
         "N-3",
@@ -2272,7 +2255,7 @@
       "claim": "The host says that after security asks for items such as drones or a rooftop observer, local police come back with limitations, and the team must then source the items itself or decline to hold the event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646",
+        "N-10590",
         "N-10012"
       ],
       "tags": [
@@ -2293,7 +2276,7 @@
       "claim": "The host says a contracted security team would minimally be sent days ahead to make preparations and would not arrive blind to a campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:context"
@@ -2415,7 +2398,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10646",
+        "N-10590",
         "N-10012"
       ],
       "tags": [
@@ -2437,7 +2420,7 @@
       "claim": "The host says she is told that on the August 25 Teams call UVU said the event should not be in the amphitheater because there is no traffic control and that the university could not shut the amphitheater down, and that this is not in the filing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11411",
+        "N-11327",
         "N-10012"
       ],
       "tags": [
@@ -2463,7 +2446,7 @@
       "claim": "The host says the reason for the amphitheater demand was that Charlie had recently done an event in Tennessee in March 2025 where he loved the amphitheater.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11411"
+        "N-11327"
       ],
       "tags": [
         "relevance:context"
@@ -2489,8 +2472,8 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11411",
-        "N-10833"
+        "N-11327",
+        "N-10756"
       ],
       "tags": [
         "relevance:context"
@@ -2510,7 +2493,7 @@
       "claim": "The host says TPUSA went into the event knowing there would be no traffic control, and questions why it would run a ticketed event if anyone could walk up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11411",
+        "N-11327",
         "N-10000"
       ],
       "tags": [
@@ -2534,7 +2517,7 @@
       "claim": "The host says Charlie notified his security team the night before the event that he was worried he was going to be killed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -2558,7 +2541,7 @@
       "claim": "The host says that until security arrived at 9:00 a.m. the police were mostly in contact with the TPUSA campus club, which was managing everything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646",
+        "N-10590",
         "N-10012",
         "N-10000"
       ],
@@ -2585,7 +2568,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [
         "relevance:context"
@@ -2612,7 +2595,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10836"
+        "N-10759"
       ],
       "tags": [
         "relevance:context"
@@ -2659,7 +2642,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10840"
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2679,8 +2662,8 @@
       "claim": "The host says UVU's state-certified EMS followed Charlie to the car with medical bags, and that Charlie's team chose to get in the vehicle and move on rather than have him treated and stabilized on the spot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10838",
-        "N-10840"
+        "N-10761",
+        "N-10763"
       ],
       "tags": [
         "relevance:core"
@@ -2704,7 +2687,7 @@
       "claim": "The host says, \"Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that,\" and that TPUSA is now saying UVU did not do it, washing its hands of something she knows they have always done.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10840",
+        "N-10763",
         "N-10000"
       ],
       "tags": [
@@ -2728,7 +2711,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-11411"
+        "N-11327"
       ],
       "tags": [
         "relevance:core"
@@ -2753,8 +2736,7 @@
         "A-2386.1"
       ],
       "related_nodes": [
-        "N-10356",
-        "N-10272"
+        "N-10256"
       ],
       "tags": [
         "relevance:core"
@@ -2784,8 +2766,8 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-10646",
-        "N-11009"
+        "N-10590",
+        "N-10929"
       ],
       "tags": [
         "relevance:core"
@@ -2812,8 +2794,8 @@
         "A-2388.1"
       ],
       "related_nodes": [
-        "N-10646",
-        "N-11009"
+        "N-10590",
+        "N-10929"
       ],
       "tags": [
         "relevance:core"
@@ -2840,8 +2822,8 @@
         "A-2388.1"
       ],
       "related_nodes": [
-        "N-11009",
-        "N-10646"
+        "N-10929",
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2868,8 +2850,8 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-10835",
-        "N-10646"
+        "N-10758",
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2893,7 +2875,7 @@
       "claim": "The host says Officer Bagley was sent to monitor the rooftop traffic control, one of the two things Flood asked for, and so Chief Long did have them covered.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2923,7 +2905,7 @@
       "claim": "The host says members of Charlie's own security team were allowed on the roof as well, so both options in Flood's request were met.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2950,7 +2932,7 @@
         "A-3358"
       ],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [
         "relevance:core"
@@ -2972,8 +2954,8 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10646",
-        "N-10835"
+        "N-10590",
+        "N-10758"
       ],
       "tags": [
         "relevance:context"
@@ -2999,8 +2981,8 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-10646",
-        "N-10835"
+        "N-10590",
+        "N-10758"
       ],
       "tags": [
         "relevance:context"
@@ -3021,8 +3003,8 @@
       "claim": "The host says she maintains the notice is a preemptive PR strike to distract the public from what she is told will be a devastating blow to TPUSA's shortcomings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10833",
-        "N-10839",
+        "N-10756",
+        "N-10762",
         "N-10000"
       ],
       "tags": [
@@ -3047,8 +3029,8 @@
       "claim": "The host says the review may answer why there was no ambulance on standby and may show fuller communications with the team.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10840",
-        "N-10839"
+        "N-10763",
+        "N-10762"
       ],
       "tags": [
         "relevance:core"
@@ -3109,7 +3091,7 @@
       "claim": "The host credits YouTuber Zach Costello with noticing that Tyler Robinson in the released UVU-campus footage held his fingers in his pockets in a particular way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10873"
+        "N-10794"
       ],
       "tags": [
         "relevance:context"
@@ -3131,8 +3113,8 @@
       "claim": "The host says Costello thought it reminiscent of the 2022 footage of Robinson, who also had his fingers in his pocket that way.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10873",
-        "N-10834"
+        "N-10794",
+        "N-10757"
       ],
       "tags": [
         "relevance:context"
@@ -3156,8 +3138,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834",
-        "N-10837"
+        "N-10757",
+        "N-10760"
       ],
       "tags": [
         "relevance:core"
@@ -3181,7 +3163,7 @@
       "claim": "The host says each state has laws governing automatic deletion of bodycam footage, typically on a short time frame for noncriminal interactions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10837"
+        "N-10760"
       ],
       "tags": [
         "relevance:context"
@@ -3220,8 +3202,8 @@
       "claim": "The host says she looked up Utah law and that bodycam footage without an arrest, citation, use of force or citizen complaint is typically purged between 60 and 90 days to manage storage costs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10837",
-        "N-10834"
+        "N-10760",
+        "N-10757"
       ],
       "tags": [
         "relevance:core"
@@ -3243,8 +3225,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834",
-        "N-10837"
+        "N-10757",
+        "N-10760"
       ],
       "tags": [
         "relevance:core"
@@ -3267,7 +3249,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core"
@@ -3290,7 +3272,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core"
@@ -3312,8 +3294,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834",
-        "N-10873"
+        "N-10757",
+        "N-10794"
       ],
       "tags": [
         "relevance:core"
@@ -3333,7 +3315,7 @@
       "claim": "The host says there was no dispute going to court and that Tyler Robinson was completely unknown in 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core"
@@ -3359,7 +3341,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core"
@@ -3381,7 +3363,7 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core"
@@ -3404,7 +3386,7 @@
         "A-2392.1"
       ],
       "related_nodes": [
-        "N-10421",
+        "N-10394",
         "N-10000"
       ],
       "tags": [
@@ -3429,7 +3411,7 @@
       "claim": "The host says she vaguely believes TPUSA was sharing a plane with the donor and asks to be corrected.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:context"
@@ -3452,7 +3434,7 @@
         "A-2392.1"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10394"
       ],
       "tags": [
         "relevance:context"
@@ -3476,8 +3458,8 @@
         "A-2392.1"
       ],
       "related_nodes": [
-        "N-10834",
-        "N-10873"
+        "N-10757",
+        "N-10794"
       ],
       "tags": [
         "relevance:context"
@@ -3502,8 +3484,8 @@
       "claim": "The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that it seems some decoys were going to wear the maroon shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311",
-        "N-10873"
+        "N-10293",
+        "N-10794"
       ],
       "tags": [
         "relevance:core"
@@ -3524,8 +3506,8 @@
       "claim": "The host theorizes that those behind it already planned to release the footage and had trained an individual to mimic the way Robinson walks, to imprint on the public a match with the campus footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11410",
-        "N-10873"
+        "N-11326",
+        "N-10794"
       ],
       "tags": [
         "relevance:core"
@@ -3548,8 +3530,8 @@
         "A-2390.1"
       ],
       "related_nodes": [
-        "N-10873",
-        "N-11410"
+        "N-10794",
+        "N-11326"
       ],
       "tags": [
         "relevance:context"
@@ -3572,7 +3554,7 @@
         "A-3356"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core",
@@ -3595,7 +3577,7 @@
         "A-3357"
       ],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:core",
@@ -3616,7 +3598,7 @@
       "claim": "The host asks whether Mike Mitchell was Robinson's mentor and whether Robinson might have confided to him about being pulled over.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10834"
+        "N-10757"
       ],
       "tags": [
         "relevance:context"
@@ -3725,8 +3707,8 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11264",
-        "N-10833"
+        "N-11180",
+        "N-10756"
       ],
       "tags": [
         "relevance:context"
@@ -3749,7 +3731,7 @@
       "claim": "The host says Baron Coleman will take over her principal show while she is on maternity leave.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"
@@ -3770,7 +3752,7 @@
       "claim": "The host says the show will run Monday through Wednesday while she is off air.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"
@@ -3791,7 +3773,7 @@
       "claim": "The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence, an opportunity she says was sorely missed by the incredibly insincere and disingenuous Andrew Wilson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:context"
@@ -3813,7 +3795,7 @@
       "claim": "The host says it is a few more weeks until her baby comes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11313"
+        "N-11229"
       ],
       "tags": [
         "relevance:tangential"
@@ -3890,7 +3872,7 @@
       "claim": "The host says that when she was at Tucker Carlson's in May 2025, Erika was there the night before ranting about Israel and pushing Charlie in an anti-Israel direction.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10983"
+        "N-10891"
       ],
       "tags": [
         "relevance:core"
@@ -3918,8 +3900,8 @@
       "claim": "The host says Erika has switched since May from talking about Israel as the others did to being very pro-Israel and partnered with the International Fellowship of Christians and Jews.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11170",
-        "N-10983"
+        "N-11086",
+        "N-10891"
       ],
       "tags": [
         "relevance:core"
@@ -3940,7 +3922,7 @@
       "claim": "The host says the contract with the fellowship was revealed by Max Blumenthal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11170"
+        "N-11086"
       ],
       "tags": [
         "relevance:core"

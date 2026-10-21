@@ -18,10 +18,10 @@
     "- **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11315, N-11316",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11231, N-11232",
     "  - Claim Range: C-13368–C-13444",
-    "  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-579, N-834, N-861, N-897, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-899",
-    " - New Nodes Introduced: N-10847, N-10848",
+    "  - Reused Nodes Appearing: N-10773, N-10772, N-14, N-54, N-94, N-200, N-244, N-366, N-579, N-834, N-861, N-897, N-10011, N-10012, N-10019, N-10032, N-10038, N-10048, N-10161, N-10321, N-10389, N-10416, N-10821, N-10895, N-11065, N-11084, N-899",
+    " - New Nodes Introduced: N-10770, N-10771",
     " - Reused Nodes Appearing: none (Wave 2: local ids removed), N-860",
     "",
     "# Episode Analysis – Bride of Charlie 155",
@@ -42,7 +42,7 @@
     "",
     "- Artifact Families Introduced: A-2405, A-2406, A-2407, A-2408, A-2409, A-2410, A-2411, A-2412, A-2413, A-2414, A-2415",
     "- New Nodes Introduced (people): none (Wave 2: local ids removed)",
-    "- New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850",
+    "- New Nodes Introduced (investigation targets): N-10770, N-10771, N-10772, N-10773",
     "- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: \"Kulevit\")",
     "",
     "---",
@@ -557,7 +557,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13384, N-10847, N-10848, N-10850*"
+     "raw": "*Related: C-13384, N-10770, N-10771, N-10773*"
     },
     {
      "raw": ""
@@ -641,7 +641,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13370, C-13371, N-10847, N-10850*"
+     "raw": "*Related: C-13370, C-13371, N-10770, N-10773*"
     },
     {
      "raw": ""
@@ -702,7 +702,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13399, C-13401, N-10848*"
+     "raw": "*Related: C-13399, C-13401, N-10771*"
     },
     {
      "raw": ""
@@ -763,7 +763,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13401, N-10848*"
+     "raw": "*Related: C-13401, N-10771*"
     },
     {
      "raw": ""
@@ -1074,7 +1074,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, N-3, N-10849*"
+     "raw": "*Related: C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, N-3, N-10772*"
     },
     {
      "raw": ""
@@ -1096,8 +1096,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10847",
-   "header": "**N-10847** \"Waluigi\" Unknown Driver",
+   "id": "N-10770",
+   "header": "**N-10770** \"Waluigi\" Unknown Driver",
    "label": "\"Waluigi\" Unknown Driver",
    "lines": [
     {
@@ -1129,7 +1129,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10850*"
+     "raw": "*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10773*"
     },
     {
      "raw": ""
@@ -1144,8 +1144,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10848",
-   "header": "**N-10848** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
+   "id": "N-10771",
+   "header": "**N-10771** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
    "label": "Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
    "lines": [
     {
@@ -1192,8 +1192,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10849",
-   "header": "**N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question",
+   "id": "N-10772",
+   "header": "**N-10772** Woodbury Building / Baugh Family / N88 Plane Connection Question",
    "label": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
    "lines": [
     {
@@ -1240,8 +1240,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10850",
-   "header": "**N-10850** Two Grey Dodge Challengers Discrepancy",
+   "id": "N-10773",
+   "header": "**N-10773** Two Grey Dodge Challengers Discrepancy",
    "label": "Two Grey Dodge Challengers Discrepancy",
    "lines": [
     {
@@ -1273,7 +1273,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10847*"
+     "raw": "*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10770*"
     },
     {
      "raw": ""
@@ -1926,8 +1926,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10040",
-   "header": "**N-10040** Robinson On-Campus Linger Timeline",
+   "id": "N-10038",
+   "header": "**N-10038** Robinson On-Campus Linger Timeline",
    "label": "Robinson On-Campus Linger Timeline",
    "lines": [
     {
@@ -1955,8 +1955,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10051",
-   "header": "**N-10051** Dairy Queen 6:38 Photo Verification",
+   "id": "N-10048",
+   "header": "**N-10048** Dairy Queen 6:38 Photo Verification",
    "label": "Dairy Queen 6:38 Photo Verification",
    "lines": [
     {
@@ -1984,8 +1984,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10168",
-   "header": "**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+   "id": "N-10161",
+   "header": "**N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
    "label": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
    "lines": [
     {
@@ -2013,8 +2013,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10343",
-   "header": "**N-10343** Tyler Robinson Rooftop Access Timeline",
+   "id": "N-10321",
+   "header": "**N-10321** Tyler Robinson Rooftop Access Timeline",
    "label": "Tyler Robinson Rooftop Access Timeline",
    "lines": [
     {
@@ -2042,8 +2042,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10416",
-   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "id": "N-10389",
+   "header": "**N-10389** Daily Wire Stalking Pattern",
    "label": "Daily Wire Stalking Pattern",
    "lines": [
     {
@@ -2071,8 +2071,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10447",
-   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "id": "N-10416",
+   "header": "**N-10416** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
    "lines": [
     {
@@ -2100,8 +2100,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10900",
-   "header": "**N-10900** Daily Wire",
+   "id": "N-10821",
+   "header": "**N-10821** Daily Wire",
    "label": "Daily Wire",
    "lines": [
     {
@@ -2129,8 +2129,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10974",
-   "header": "**N-10974** PETN Explosive",
+   "id": "N-10895",
+   "header": "**N-10895** PETN Explosive",
    "label": "PETN Explosive",
    "lines": [
     {
@@ -2158,8 +2158,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11149",
-   "header": "**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+   "id": "N-11065",
+   "header": "**N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss",
    "label": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
    "lines": [
     {
@@ -2187,8 +2187,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11168",
-   "header": "**N-11168** Saprea",
+   "id": "N-11084",
+   "header": "**N-11084** Saprea",
    "label": "Saprea",
    "lines": [
     {
@@ -2368,8 +2368,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11315",
-   "header": "**N-11315** Pre-Event Morning Meeting at UVU Hypothesis",
+   "id": "N-11231",
+   "header": "**N-11231** Pre-Event Morning Meeting at UVU Hypothesis",
    "label": "Pre-Event Morning Meeting at UVU Hypothesis",
    "lines": [
     {
@@ -2401,8 +2401,8 @@
   },
   {
    "kind": "node",
-   "id": "N-11316",
-   "header": "**N-11316** 2026 Midterm Outlook and Conservative Infighting Commentary",
+   "id": "N-11232",
+   "header": "**N-11232** 2026 Midterm Outlook and Conservative Infighting Commentary",
    "label": "2026 Midterm Outlook and Conservative Infighting Commentary",
    "lines": [
     {
@@ -3090,7 +3090,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10847, N-10850"
+     "v": "N-10770, N-10773"
     },
     {
      "raw": ""
@@ -3142,7 +3142,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10847, N-10850"
+     "v": "N-10770, N-10773"
     },
     {
      "raw": ""
@@ -3194,7 +3194,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10847, N-10850"
+     "v": "N-10770, N-10773"
     },
     {
      "raw": ""
@@ -3307,7 +3307,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848"
+     "v": "N-10771"
     },
     {
      "raw": ""
@@ -3363,7 +3363,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848"
+     "v": "N-10771"
     },
     {
      "raw": ""
@@ -3419,7 +3419,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "raw": ""
@@ -3647,7 +3647,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "k": "Tags",
@@ -3708,7 +3708,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10847, N-10850"
+     "v": "N-10770, N-10773"
     },
     {
      "k": "Tags",
@@ -3769,7 +3769,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10847, N-10850"
+     "v": "N-10770, N-10773"
     },
     {
      "k": "Supports",
@@ -3834,7 +3834,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850, N-10040"
+     "v": "N-10773, N-10038"
     },
     {
      "k": "Tags",
@@ -3895,7 +3895,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10040, N-11149"
+     "v": "N-10038, N-11065"
     },
     {
      "k": "Tags",
@@ -3956,7 +3956,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848"
+     "v": "N-10771"
     },
     {
      "k": "Tags",
@@ -4017,7 +4017,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10847, N-10850"
+     "v": "N-10770, N-10773"
     },
     {
      "k": "Supports",
@@ -4082,7 +4082,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "k": "Tags",
@@ -4143,7 +4143,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "k": "Tags",
@@ -4204,7 +4204,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "k": "Tags",
@@ -4265,7 +4265,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848"
+     "v": "N-10771"
     },
     {
      "k": "Tags",
@@ -4326,7 +4326,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850, N-10040"
+     "v": "N-10773, N-10038"
     },
     {
      "k": "Tags",
@@ -4387,7 +4387,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10011, N-10040"
+     "v": "N-10011, N-10038"
     },
     {
      "k": "Supports",
@@ -4452,7 +4452,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10032, N-10850"
+     "v": "N-10032, N-10773"
     },
     {
      "k": "Tags",
@@ -4513,7 +4513,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10032, N-10850"
+     "v": "N-10032, N-10773"
     },
     {
      "k": "Tags",
@@ -4574,7 +4574,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051"
+     "v": "N-10048"
     },
     {
      "k": "Supports",
@@ -4696,7 +4696,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10051"
+     "v": "N-10048"
     },
     {
      "k": "Tags",
@@ -4757,7 +4757,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10168"
+     "v": "N-10161"
     },
     {
      "k": "Tags",
@@ -4818,7 +4818,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10019, N-10343"
+     "v": "N-10019, N-10321"
     },
     {
      "k": "Tags",
@@ -4940,7 +4940,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11315, N-10012"
+     "v": "N-11231, N-10012"
     },
     {
      "k": "Tags",
@@ -5001,7 +5001,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "k": "Supports",
@@ -5066,7 +5066,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10850"
+     "v": "N-10773"
     },
     {
      "k": "Tags",
@@ -5127,7 +5127,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10019, N-10343"
+     "v": "N-10019, N-10321"
     },
     {
      "k": "Tags",
@@ -5188,7 +5188,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848, N-10019"
+     "v": "N-10771, N-10019"
     },
     {
      "k": "Tags",
@@ -5249,7 +5249,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848"
+     "v": "N-10771"
     },
     {
      "k": "Supports",
@@ -5314,7 +5314,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848"
+     "v": "N-10771"
     },
     {
      "k": "Supports",
@@ -5379,7 +5379,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10019, N-10848"
+     "v": "N-10019, N-10771"
     },
     {
      "k": "Tags",
@@ -5440,7 +5440,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10848, N-10850"
+     "v": "N-10771, N-10773"
     },
     {
      "k": "Tags",
@@ -5501,7 +5501,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10447, N-10974"
+     "v": "N-10416, N-10895"
     },
     {
      "k": "Tags",
@@ -5562,7 +5562,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10849, N-10012"
+     "v": "N-10772, N-10012"
     },
     {
      "k": "Tags",
@@ -5623,7 +5623,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10849"
+     "v": "N-10772"
     },
     {
      "k": "Tags",
@@ -5684,7 +5684,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11168, N-10849"
+     "v": "N-11084, N-10772"
     },
     {
      "k": "Supports",
@@ -5749,7 +5749,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10849, N-10012"
+     "v": "N-10772, N-10012"
     },
     {
      "k": "Supports",
@@ -5814,7 +5814,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10849, N-10012"
+     "v": "N-10772, N-10012"
     },
     {
      "k": "Tags",
@@ -5875,7 +5875,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10849, N-10012"
+     "v": "N-10772, N-10012"
     },
     {
      "k": "Supports",
@@ -5940,7 +5940,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10849"
+     "v": "N-10772"
     },
     {
      "k": "Tags",
@@ -6001,7 +6001,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10416, N-10900"
+     "v": "N-10389, N-10821"
     },
     {
      "k": "Tags",
@@ -6062,7 +6062,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10416"
+     "v": "N-10389"
     },
     {
      "k": "Supports",
@@ -6184,7 +6184,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -6245,7 +6245,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10416"
+     "v": "N-10389"
     },
     {
      "k": "Contradicts",
@@ -6367,7 +6367,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -6542,7 +6542,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -6603,7 +6603,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -6664,7 +6664,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10900"
+     "v": "N-10821"
     },
     {
      "k": "Tags",
@@ -6725,7 +6725,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11316"
+     "v": "N-11232"
     },
     {
      "k": "Supports",
@@ -6790,7 +6790,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11316"
+     "v": "N-11232"
     },
     {
      "k": "Tags",
@@ -6851,7 +6851,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11316"
+     "v": "N-11232"
     },
     {
      "k": "Tags",
@@ -6912,7 +6912,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11316"
+     "v": "N-11232"
     },
     {
      "k": "Tags",
@@ -7664,7 +7664,7 @@
     "- **Name uncertainty:** \"Andrew Kolvit\" appears as \"Andrew Kulevit\" / \"Kulvit\" at varying points. Preserved as transcribed.",
     "- **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.",
     "- **Claim failed admission test:** C-13382 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.",
-    "- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10849 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.",
+    "- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10772 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.",
     "- **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as \"approximate, prior to broadcast\" – original posting/publication dates not stated on air.",
     "- **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date (\"2025\") is recorded as a placeholder.",
     "- **Requires human verification:** Spelling normalization for \"Blake Neff,\" \"Erica/Erika Kirk,\" and \"Officer Goforth/Goforth\" against authoritative sources."

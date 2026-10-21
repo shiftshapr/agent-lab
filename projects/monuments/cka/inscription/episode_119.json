@@ -88,7 +88,7 @@
             "N-698",
             "N-699",
             "N-700",
-            "N-10991"
+            "N-10911"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -115,7 +115,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10095"
+            "N-10091"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -134,7 +134,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10095"
+            "N-10091"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10095"
+            "N-10091"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -181,7 +181,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-10999"
+            "N-10919"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -200,7 +200,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-10194"
+            "N-10186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -226,7 +226,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10999"
+            "N-10919"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -262,7 +262,7 @@
             "N-704",
             "N-298",
             "N-2",
-            "N-11000"
+            "N-10920"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -294,7 +294,7 @@
             "N-3",
             "N-266",
             "N-705",
-            "N-10887"
+            "N-10808"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -322,7 +322,7 @@
           "related_nodes": [
             "N-22",
             "N-1",
-            "N-10148"
+            "N-10143"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -402,7 +402,7 @@
             "C-10217"
           ],
           "related_nodes": [
-            "N-10768"
+            "N-10697"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -428,7 +428,7 @@
           ],
           "related_nodes": [
             "N-700",
-            "N-10998"
+            "N-10918"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -456,7 +456,7 @@
           "related_nodes": [
             "N-266",
             "N-224",
-            "N-10997"
+            "N-10917"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1313,8 +1313,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Tucker Carlson's Israel-motive claim and Blake Neff's rebuttal.",
@@ -1332,8 +1332,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Host refers back to a Daily Mail article in which Erika Kirk's succession story began to shift.",
@@ -1349,8 +1349,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10095",
-      "ref": "N-10095",
+      "@id": "N-10091",
+      "ref": "N-10091",
       "name": "9/10 Eyewitness Pattern Investigation",
       "type": "investigation_target",
       "description": "The chest-wound eyewitness accounts and the later neck-wound witnesses.",
@@ -1375,8 +1375,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "The night-before message about abandoning the pro-Israel cause and Tucker Carlson's motive claim.",
@@ -1395,8 +1395,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Host rejects the theft explanation for Farnsworth taking the SD card.",
@@ -1413,8 +1413,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10169",
-      "ref": "N-10169",
+      "@id": "N-10162",
+      "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "The night-before Zoom call with Josh Hammer and a rabbi.",
@@ -1431,8 +1431,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Erika Kirk's evolving account of the succession plan.",
@@ -1451,8 +1451,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10229",
-      "ref": "N-10229",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
       "type": "investigation_target",
       "description": "Host says evidence such as the microphone and phone was returned to TPUSA and Erika Kirk.",
@@ -1469,8 +1469,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10315",
-      "ref": "N-10315",
+      "@id": "N-10296",
+      "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
       "type": "investigation_target",
       "description": "Politically connected witnesses who spoke to NBC News and other outlets.",
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "The \"Superman\" / \"man of steel\" bullet story that the host says Erika Kirk falsely blamed on Kolvet going rogue.",
@@ -1504,8 +1504,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Farnsworth's explanation that he did not want Erika to relive the death.",
@@ -1523,8 +1523,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
       "type": "investigation_target",
       "description": "Farnsworth ties to Tyler Bowyer, Lori Frantzve and Visual Impulse personnel.",
@@ -1543,8 +1543,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
       "type": "investigation_target",
       "description": "Erika Kirk's role limited to TPUSA Faith in Charlie's final presentation, per the host.",
@@ -1560,8 +1560,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10448",
-      "ref": "N-10448",
+      "@id": "N-10417",
+      "ref": "N-10417",
       "name": "TPUSA September 16 Corporate Call Framing Pattern",
       "type": "investigation_target",
       "description": "Farnsworth standing behind Erika Kirk on the first staff Zoom call.",
@@ -1577,8 +1577,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10507",
-      "ref": "N-10507",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
       "type": "investigation_target",
       "description": "Host says Charlie Kirk's phone was returned to Erika Kirk rather than kept in evidence.",
@@ -1594,9 +1594,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10508",
-      "ref": "N-10508",
-      "name": "Tyler Robinson Evidence Sufficiency Question",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Host says TPUSA staff doubt Robinson acted alone and notes Erika Kirk's absence from the hearings.",
       "related_artifacts": [],
@@ -1612,8 +1612,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10528",
-      "ref": "N-10528",
+      "@id": "N-10484",
+      "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
       "type": "investigation_target",
       "description": "Goldsberry family charity in Romania.",
@@ -1629,8 +1629,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10552",
-      "ref": "N-10552",
+      "@id": "N-10506",
+      "ref": "N-10506",
       "name": "Aubrey Termination Circumstances",
       "type": "investigation_target",
       "description": "Aubrey's remark to Kolvet at her firing that nobody knows who Erika is.",
@@ -1646,8 +1646,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10644",
-      "ref": "N-10644",
+      "@id": "N-10588",
+      "ref": "N-10588",
       "name": "Harpole Limited-Purpose Public Figure Status",
       "type": "investigation_target",
       "description": "Harpole's claim that he went on the Shawn Ryan Show only because of the host.",
@@ -1663,8 +1663,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10606",
+      "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Host refers to the \"doctored footage\" of Charlie appointing Erika as CEO.",
@@ -1680,8 +1680,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10739",
-      "ref": "N-10739",
+      "@id": "N-10671",
+      "ref": "N-10671",
       "name": "Fort Huachuca Connection Question",
       "type": "investigation_target",
       "description": "Emails suggesting the rigged microphone could have been assembled at Fort Huachuca.",
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10768",
-      "ref": "N-10768",
+      "@id": "N-10697",
+      "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
       "type": "investigation_target",
       "description": "Host's theory that a shaped charge in the redundant microphone was meant to hit Charlie's chest; endorsed by the EOD email.",
@@ -1721,8 +1721,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10865",
-      "ref": "N-10865",
+      "@id": "N-10786",
+      "ref": "N-10786",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
       "type": "investigation_target",
       "description": "Host's claim that Erika Kirk is scripted and coached.",
@@ -1738,8 +1738,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10887",
-      "ref": "N-10887",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Las Vegas",
       "type": "investigation_target",
       "description": "Location of Encounter Church, where Rob McCoy delivered the sermon.",
@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10997",
-      "ref": "N-10997",
+      "@id": "N-10917",
+      "ref": "N-10917",
       "name": "Brian Harpole Bloodied Bag Museum Offer",
       "type": "topic",
       "description": "Investigation target: an account from Shawn Ryan's production team, as relayed by the host, that Brian Harpole offered Shawn Ryan his cross-body bag still bearing Charlie Kirk's blood as a gift for Ryan's studio museum, and that Ryan declined. A viewer asked why the bag was not in evidence.",
@@ -1781,8 +1781,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10991",
-      "ref": "N-10991",
+      "@id": "N-10911",
+      "ref": "N-10911",
       "name": "Visual Impulse",
       "type": "organization",
       "description": "The audio-visual company run by Terryl Farnsworth that filmed Charlie Kirk's events. The host says Charlie had its team removed from his building on July 24, 2025, and that it was welcomed back after his death. Its September 10 crew included Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards and Robert Golow.",
@@ -1814,8 +1814,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10998",
-      "ref": "N-10998",
+      "@id": "N-10918",
+      "ref": "N-10918",
       "name": "Robert Golow Identification",
       "type": "topic",
       "description": "Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.",
@@ -1838,8 +1838,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10999",
-      "ref": "N-10999",
+      "@id": "N-10919",
+      "ref": "N-10919",
       "name": "Erika Kirk Staff Familiarity Discrepancy",
       "type": "topic",
       "description": "Investigation target: Erika Kirk said at an Illinois summit that she had a \"0% learning curve\" and knew all the staff by name. The host contrasts this with a post-Super Bowl call in which Erika said she wanted to learn employees' names, and with reports from current and former staff that she does not know them.",
@@ -1863,8 +1863,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11000",
-      "ref": "N-11000",
+      "@id": "N-10920",
+      "ref": "N-10920",
       "name": "Spousal CEO Succession Precedent Question",
       "type": "topic",
       "description": "Investigation target: the host's assertion that no wife in history has assumed her late husband's role as CEO and chairman. She says ChatGPT's examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares.",
@@ -1968,7 +1968,7 @@
       "claim": "The host says Brian Harpole, who is suing her, claims he went on the Shawn Ryan Show only because of her harassment, but that she never said his name before that interview.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10644"
+        "N-10588"
       ],
       "tags": [],
       "claim_timestamp": "00:03:16",
@@ -1993,7 +1993,7 @@
         "A-2697.1"
       ],
       "related_nodes": [
-        "N-10997"
+        "N-10917"
       ],
       "tags": [],
       "claim_timestamp": "00:05:24",
@@ -2033,8 +2033,8 @@
       "claim": "The host describes Terryl Farnsworth as the man who announced on camera that Charlie Kirk was dead, took down the camera and runs the audio-visual company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10991",
-        "N-10346"
+        "N-10911",
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:06:37",
@@ -2056,7 +2056,7 @@
       "claim": "The host says the Farnsworth family grew up with Tyler Bowyer's family in Chandler, Arizona, and that they all went to high school together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:06:37",
@@ -2075,7 +2075,7 @@
       "claim": "The host says Eddie Farnsworth and his brother helped bring Lori Frantzve into Arizona government contracts before Erika met Charlie Kirk. She says the Arizona legislative record shows Lori presenting on the House floor with Larry Guinta.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10383"
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:06:37",
@@ -2120,7 +2120,7 @@
       "claim": "The host says Terryl Farnsworth's team, which had worked upstairs in Charlie Kirk's podcast building, was removed at Charlie's request on July 24, shortly before the assassination. She says it was welcomed back after his death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10991",
+        "N-10911",
         "N-10000"
       ],
       "tags": [],
@@ -2142,7 +2142,7 @@
         "A-2698.1"
       ],
       "related_nodes": [
-        "N-10448"
+        "N-10417"
       ],
       "tags": [],
       "claim_timestamp": "00:08:08",
@@ -2165,8 +2165,8 @@
       "claim": "The host says Terryl Farnsworth explained his SD-card removal by saying he did not want Erika to relive Charlie's death, but that the footage contained nothing gory because the bullet did not go through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346",
-        "N-10162"
+        "N-10324",
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:09:55",
@@ -2204,7 +2204,7 @@
         "A-2698.2"
       ],
       "related_nodes": [
-        "N-10991"
+        "N-10911"
       ],
       "tags": [],
       "claim_timestamp": "00:09:55",
@@ -2225,8 +2225,8 @@
         "A-2698.2"
       ],
       "related_nodes": [
-        "N-10991",
-        "N-10528"
+        "N-10911",
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:10:49",
@@ -2246,8 +2246,8 @@
         "A-2698.2"
       ],
       "related_nodes": [
-        "N-10991",
-        "N-10383"
+        "N-10911",
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:10:49",
@@ -2268,8 +2268,8 @@
         "A-2698.2"
       ],
       "related_nodes": [
-        "N-10991",
-        "N-10383"
+        "N-10911",
+        "N-10356"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31",
@@ -2290,9 +2290,9 @@
         "A-2698.2"
       ],
       "related_nodes": [
-        "N-10998",
-        "N-10991",
-        "N-10768"
+        "N-10918",
+        "N-10911",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:11:31",
@@ -2313,7 +2313,7 @@
         "A-2698.2"
       ],
       "related_nodes": [
-        "N-10998",
+        "N-10918",
         "N-10000"
       ],
       "tags": [],
@@ -2336,7 +2336,7 @@
         "A-2708.1"
       ],
       "related_nodes": [
-        "N-10998"
+        "N-10918"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
@@ -2355,7 +2355,7 @@
       "claim": "The host says the people who testified to media immediately after the shooting said they saw Charlie Kirk shot in the chest, which she says did not match where he was hit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:13:48",
@@ -2373,7 +2373,7 @@
       "claim": "The host says many of the witnesses who spoke to news outlets were politically connected, including Tiffany Barker, who she thinks worked on Phil Lyman's campaign.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [],
       "claim_timestamp": "00:13:48",
@@ -2397,7 +2397,7 @@
         "A-2699.1"
       ],
       "related_nodes": [
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:14:43",
@@ -2417,7 +2417,7 @@
         "A-2699.2"
       ],
       "related_nodes": [
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:14:43",
@@ -2437,7 +2437,7 @@
         "A-2699.3"
       ],
       "related_nodes": [
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:14:43",
@@ -2455,7 +2455,7 @@
       "claim": "The host says there was never a pooling of blood near Charlie Kirk's heart, that the blood came out sideways and that his shirt was clean. She says the witnesses provided a description that never happened.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
@@ -2473,7 +2473,7 @@
       "claim": "The host theorizes that Charlie Kirk's second, redundant microphone was rigged with a shaped charge intended to hit his chest. She says that because he was crouched, the charge instead went up into his neck.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:16:34",
@@ -2495,7 +2495,7 @@
         "A-2699.3"
       ],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [],
       "claim_timestamp": "00:16:34",
@@ -2513,8 +2513,8 @@
       "claim": "The host alleges that Terryl Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects the explanation, as relayed to Andrew Kolvet, that people were stealing equipment.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10162",
-        "N-10346"
+        "N-10156",
+        "N-10324"
       ],
       "tags": [],
       "claim_timestamp": "00:18:23",
@@ -2536,8 +2536,8 @@
       "claim": "The host says she is receiving emails saying the rigged microphone could have been assembled at Fort Huachuca, where a signals department exists, and that she is talking to people with more knowledge.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10739",
-        "N-10768"
+        "N-10671",
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:18:23",
@@ -2555,7 +2555,7 @@
       "claim": "The host alleges Erika Kirk lied when she said Andrew Kolvet \"went rogue\" with the \"man of steel\" bullet story, and says the two colluded on it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:19:21",
@@ -2574,9 +2574,9 @@
       "claim": "The host says that after the release of what she calls doctored footage of Charlie appointing Erika as CEO, Erika's story, which she told Megyn Kelly, shifted as shown in a Daily Mail article. The new version is that everyone knew it was Charlie's plan, though he never put it in his will.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10194",
-        "N-10664",
-        "N-10070"
+        "N-10186",
+        "N-10606",
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:20:00",
@@ -2598,7 +2598,7 @@
         "A-2700.1"
       ],
       "related_nodes": [
-        "N-10999"
+        "N-10919"
       ],
       "tags": [],
       "claim_timestamp": "00:21:32",
@@ -2619,7 +2619,7 @@
         "A-2702.1"
       ],
       "related_nodes": [
-        "N-11000"
+        "N-10920"
       ],
       "tags": [],
       "claim_timestamp": "00:24:13",
@@ -2639,7 +2639,7 @@
         "A-2702.1"
       ],
       "related_nodes": [
-        "N-11000"
+        "N-10920"
       ],
       "tags": [],
       "claim_timestamp": "00:24:13",
@@ -2659,7 +2659,7 @@
         "A-2702.1"
       ],
       "related_nodes": [
-        "N-11000"
+        "N-10920"
       ],
       "tags": [],
       "claim_timestamp": "00:25:17",
@@ -2679,7 +2679,7 @@
         "A-2702.1"
       ],
       "related_nodes": [
-        "N-11000"
+        "N-10920"
       ],
       "tags": [],
       "claim_timestamp": "00:26:09",
@@ -2700,7 +2700,7 @@
         "A-2702.1"
       ],
       "related_nodes": [
-        "N-11000"
+        "N-10920"
       ],
       "tags": [],
       "claim_timestamp": "00:26:09",
@@ -2720,7 +2720,7 @@
         "A-2702.1"
       ],
       "related_nodes": [
-        "N-11000"
+        "N-10920"
       ],
       "tags": [],
       "claim_timestamp": "00:26:09",
@@ -2739,8 +2739,8 @@
       "claim": "The host says current and former TPUSA employees complained that Erika Kirk does not know staff names, and that when Aubrey was fired she told Andrew Kolvet, \"Nobody knows who she is.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10999",
-        "N-10552"
+        "N-10919",
+        "N-10506"
       ],
       "tags": [],
       "claim_timestamp": "00:28:12",
@@ -2762,7 +2762,7 @@
         "A-2701.1"
       ],
       "related_nodes": [
-        "N-10999"
+        "N-10919"
       ],
       "tags": [],
       "claim_timestamp": "00:29:13",
@@ -2782,7 +2782,7 @@
         "A-2700.2"
       ],
       "related_nodes": [
-        "N-10194"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:30:38",
@@ -2801,7 +2801,7 @@
       "claim": "The host says Charlie Kirk's final presentation, about two and a half hours long, mentions Erika in one sentence, that she \"helps out with faith.\" She says Erika's contribution was TPUSA Faith and its pastors, such as Victor Marx and Rob McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10398"
+        "N-10371"
       ],
       "tags": [],
       "claim_timestamp": "00:33:09",
@@ -2824,7 +2824,7 @@
         "A-2703.1"
       ],
       "related_nodes": [
-        "N-10887"
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:36:39",
@@ -2923,8 +2923,8 @@
         "A-2704.1"
       ],
       "related_nodes": [
-        "N-10148",
-        "N-10056"
+        "N-10143",
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:41:55",
@@ -2943,9 +2943,9 @@
       "claim": "The host says that the night before his death Charlie Kirk wrote that he was left no option but to abandon the pro-Israel cause because of bullying, threats and financial pressure. She says this followed a Zoom call with Josh Hammer and Israeli rabbis.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10148",
-        "N-10169",
-        "N-10056"
+        "N-10143",
+        "N-10162",
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:41:55",
@@ -2967,7 +2967,7 @@
       "claim": "The host says that after the Zoom call with Josh Hammer and a rabbi, Charlie Kirk sent a message saying \"they're going to kill me.\" She rejects the account that he texted his security fearing a trans person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10169"
+        "N-10162"
       ],
       "tags": [],
       "claim_timestamp": "00:43:35",
@@ -2986,7 +2986,7 @@
       "claim": "The host says that, in her opinion and \"allegedly,\" Erika Kirk and others \"couldn't scramble fast enough\" and new witnesses the next day at 4:00 a.m. said Charlie Kirk \"got shot in the neck.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10095"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:44:16",
@@ -3007,7 +3007,7 @@
         "A-2705.1"
       ],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:45:07",
@@ -3029,7 +3029,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10508"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:45:07",
@@ -3088,7 +3088,7 @@
       "claim": "The host asserts as fact that scripts were handed to Erika Kirk before early interviews, and that Mikey McCoy and Stacy Sheridan have acted as directors helping her memorize her lines.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10865"
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "00:52:51",
@@ -3110,7 +3110,7 @@
         "A-2707.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:52:51",
@@ -3127,7 +3127,7 @@
         "A-2707.1"
       ],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:54:25",
@@ -3142,7 +3142,7 @@
       "claim": "The host says the redundant microphone was not a feature during the five years she toured with Charlie Kirk, and that those around him got him used to it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10768"
+        "N-10697"
       ],
       "tags": [],
       "claim_timestamp": "00:54:55",
@@ -3163,7 +3163,7 @@
         "A-2709.1"
       ],
       "related_nodes": [
-        "N-10229",
+        "N-10216",
         "N-10000"
       ],
       "tags": [],
@@ -3185,8 +3185,8 @@
         "A-2709.1"
       ],
       "related_nodes": [
-        "N-10507",
-        "N-10229"
+        "N-10468",
+        "N-10216"
       ],
       "tags": [],
       "claim_timestamp": "00:55:43",
@@ -3224,7 +3224,7 @@
       "claim": "The host says people have been saying it is weird that Erika Kirk has never been to any of Tyler Robinson's hearings, and bets she will go to the next one because she edits her behavior according to what the public says.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10508"
+        "N-10106"
       ],
       "tags": [],
       "claim_timestamp": "00:58:50",

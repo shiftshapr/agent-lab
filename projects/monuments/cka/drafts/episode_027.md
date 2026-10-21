@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-11228, N-11229, N-11230
-  - Hole-minted Nodes (reintro-ep027): N-366, N-10432
-  - Tip-minted Nodes (reintro-ep027): N-602, N-11014
+  - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-11144, N-11145, N-11146
+  - Hole-minted Nodes (reintro-ep027): N-366, N-10402
+  - Tip-minted Nodes (reintro-ep027): N-602, N-10934
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2407–C-2490
-  - New Nodes Introduced: N-227, N-229, N-230, N-231, N-232, N-233, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
-  - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104, N-228, N-10687, N-11171
+  - New Nodes Introduced: N-227, N-229, N-230, N-231, N-232, N-233, N-10216, N-10218, N-10219, N-10220, N-10221, N-10222
+  - Reused Nodes Appearing: N-3, N-99, N-10217, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10052, N-10100, N-10127, N-10168, N-10201, N-10211, N-10239, N-10300, N-10316, N-11016, N-11022, N-228, N-10625, N-11087
   - (see registers)
 
 # Episode 27 Analysis Record
@@ -36,7 +36,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
   - New Nodes Introduced (people):  N-2, N-227, N-228, N-229, N-230, N-231, N-232, N-233
-  - New Nodes Introduced (investigation targets): N-10228, N-10229, N-10230, N-10231, N-10232, N-10233, N-10234, N-10235
+  - New Nodes Introduced (investigation targets): N-10216, N-10217, N-10218, N-10219, N-10220, N-10221, N-10222
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
 
 ---
@@ -133,7 +133,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "The latest claim is that TPUSA must have been in on Charlie's murder because the UVU campus stop was approved in July. It was not approved in July. It was requested in July. And that's too short of a timeline for an event in September. That is not true. Charlie texted me at the end of August for a campus event in early November. That's about 2 months out."
 
-*Related: C-2447, N-227, N-10228*
+*Related: C-2447, N-227, N-10211*
 
 **A-1347.2** Allie Beth Stuckey follow-up tweet clarifying venue status
 
@@ -145,7 +145,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Since some of you guys are struggling, no venue yet, 2 months out." (Host notes: "There's clearly a venue because Charlie is saying in this chat, 'November 3rd at 6:30 p.m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.'")
 
-*Related: C-2448, C-2449, N-227, N-10228*
+*Related: C-2448, C-2449, N-227, N-10211*
 
 ---
 
@@ -161,7 +161,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I speak regularly on college campuses as well. As one example, I was just asked to speak at Stanford, and they were going to set the event up within 3 weeks. Oh, so it didn't happen. It didn't materialize… When I debated a few weeks ago at Yale, the event was also planned within 2 months."
 
-*Related: C-2453, C-2454, N-228, N-10228*
+*Related: C-2453, C-2454, N-228, N-10211*
 
 ---
 
@@ -205,7 +205,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I don't have direct knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit."
 
-*Related: C-2479, N-229, N-10231*
+*Related: C-2479, N-229, N-10218*
 
 ---
 
@@ -237,7 +237,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Hey guys, this is me. My teammate and I were just on campus to get food and stop by the event. We always wear silly stuff like that. Sorry, guys."
 
-*Related: C-2439, N-230, N-10232*
+*Related: C-2439, N-230, N-10219*
 
 ---
 
@@ -253,7 +253,7 @@ Confidence Level: Medium (host observation of visual frame; no on-screen caption
 
 Host characterization: "behind Jesse and Erika as they're walking backstage at the University of Mississippi event that they headlined, there was a priest looking in the corner there. I know a priest collar when I see one."
 
-*Related: C-2426, N-2, N-211, N-10233*
+*Related: C-2426, N-2, N-211, N-10220*
 
 ---
 
@@ -269,7 +269,7 @@ Confidence Level: Medium (viewer-mediated second-hand reference)
 
 Verbatim excerpt: "Andrew Klavan on Alex Clark show discussed how Charlie's heart was still beating. How did Charlie instantly go to heaven if he had a pulse? Erika first saw Charlie at an airport in Israel in May of 2018 with her mom."
 
-*Related: C-2484, N-2, N-99, N-231, N-10234, N-10235*
+*Related: C-2484, N-2, N-99, N-231, N-10221, N-10222*
 
 **A-1354.2** Arm Hanna viewer comment on forgiveness requiring knowledge of what is being forgiven
 
@@ -369,7 +369,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1347.1, A-1347.2, C-2447, C-2448, N-10228*
+*Related: A-1347.1, A-1347.2, C-2447, C-2448, N-10211*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1348.1, C-2453, C-2454, N-10228*
+*Related: A-1348.1, C-2453, C-2454, N-10211*
 
 ---
 
@@ -395,7 +395,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, A-1349.2, A-1354.1, C-2464, C-2468, C-2484, N-190, N-10234*
+*Related: A-1349.1, A-1349.2, A-1354.1, C-2464, C-2468, C-2484, N-190, N-10221*
 
 ---
 
@@ -421,7 +421,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1350.1, C-2479, N-10231*
+*Related: A-1350.1, C-2479, N-10218*
 
 ---
 
@@ -440,14 +440,14 @@ Investigative Pressure: Low
 
 **N-230** Kolby Sessions
 
-UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-10232.
+UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-10219.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (apparently resolved)
 
-*Related: A-1352.1, C-2439, N-10232*
+*Related: A-1352.1, C-2439, N-10219*
 
 ---
 
@@ -460,7 +460,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-2484, N-10234*
+*Related: A-1354.1, C-2484, N-10221*
 
 ---
 
@@ -473,7 +473,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10234*
+*Related: N-10221*
 
 ---
 
@@ -518,20 +518,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-10228** UVU Event Approval Timeline Discrepancy
-
-Dispute over whether the UVU campus stop was "approved" in July or only "requested," and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.
-
-Evidence Count: 3 (A-1347.1, A-1347.2, A-1348.1)
-Claim Count: 4
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-1347.1, A-1347.2, A-1348.1, C-2447, C-2448, C-2453, C-2454, N-227, N-228*
-
----
-
-**N-10229** Autopsy Report and Evidence Access Asymmetry
+**N-10216** Autopsy Report and Evidence Access Asymmetry
 
 Erika Kirk's stated direct access to the autopsy report and "different evidence portions," contrasted with the public record of fragmented disclosures.
 
@@ -544,7 +531,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10230** Saint Michael Pendant / Charlie Catholic-Curious Status
+**N-10217** Saint Michael Pendant / Charlie Catholic-Curious Status
 
 Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.
 
@@ -557,7 +544,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10231** TPUSA / Candace Owens NDA and Blexit Question
+**N-10218** TPUSA / Candace Owens NDA and Blexit Question
 
 Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.
 
@@ -570,7 +557,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10232** UVU Green Hoodie Person Identification (Resolved)
+**N-10219** UVU Green Hoodie Person Identification (Resolved)
 
 Kolby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.
 
@@ -583,7 +570,7 @@ Investigative Pressure: Closed
 
 ---
 
-**N-10233** Priest Presence at Ole Miss Event
+**N-10220** Priest Presence at Ole Miss Event
 
 Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.
 
@@ -592,11 +579,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1353.1, C-2426, N-2, N-211, N-10230*
+*Related: A-1353.1, C-2426, N-2, N-211, N-10217*
 
 ---
 
-**N-10234** Charlie's Heart Still Beating Question
+**N-10221** Charlie's Heart Still Beating Question
 
 Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.
 
@@ -609,7 +596,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10235** Erika–Charlie 2018 Israel Airport Meeting Question
+**N-10222** Erika–Charlie 2018 Israel Airport Meeting Question
 
 Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.
 
@@ -630,7 +617,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-11228** Candace Podcast Ranking and Operations
+**N-11144** Candace Podcast Ranking and Operations
 
 Node Type: Topic
 The host's account of the Candace podcast reaching number one worldwide, its lack of ad spend, small team and start-up conditions.
@@ -719,7 +706,7 @@ Charlie Kirk; subject of the host's statements about his faith, the UVU event an
 
 ---
 
-**N-10337** Tyler Robinson Prosecution Evidence Base
+**N-10316** Tyler Robinson Prosecution Evidence Base
 
 Tyler Robinson Prosecution Evidence Base; lone-actor question.
 
@@ -735,7 +722,7 @@ Tyler Bowyer; TPUSA chair, subject of footage and conduct remarks.
 
 ---
 
-**N-10055** Federal Footage Sweep
+**N-10052** Federal Footage Sweep
 
 Federal Footage Sweep; footage withheld, per host.
 
@@ -751,7 +738,7 @@ Utah Valley University; site of the contested event.
 
 ---
 
-**N-10175** UVU Left-Side Footage Black Hole
+**N-10168** UVU Left-Side Footage Black Hole
 
 UVU Left-Side Footage Black Hole; camera coverage question.
 
@@ -759,7 +746,7 @@ UVU Left-Side Footage Black Hole; camera coverage question.
 
 ---
 
-**N-10104** Catholic Conversion Rumor
+**N-10100** Catholic Conversion Rumor
 
 Catholic Conversion Rumor; host's Catholic-curious account.
 
@@ -767,15 +754,7 @@ Catholic Conversion Rumor; host's Catholic-curious account.
 
 ---
 
-**N-10164** Charlie Kirk Catholic Trajectory Verification
-
-Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.
-
-*Related: C-2428, C-2429, C-2442*
-
----
-
-**N-10319** .30-06 Forensic Narrative Validity
+**N-10300** .30-06 Forensic Narrative Validity
 
 .30-06 Forensic Narrative Validity; host says the neck could not have stopped it.
 
@@ -783,7 +762,7 @@ Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.
 
 ---
 
-**N-11104** Liberty University
+**N-11022** Liberty University
 
 Liberty University; venue of Charlie's slated speaking slot.
 
@@ -799,7 +778,7 @@ Turning Point USA; subject of lead-time, revenue and cover-up remarks.
 
 ---
 
-**N-11098** Alex Clark WSJ Memorial Photo Controversy
+**N-11016** Alex Clark WSJ Memorial Photo Controversy
 
 Existing node reused for new claims in this episode.
 
@@ -831,7 +810,7 @@ Donald Trump Jr.; named among those campuses want to host.
 
 ---
 
-**N-10224** UVU Event Approval Timeline Anomaly
+**N-10211** UVU Event Approval Timeline Anomaly
 
 UVU Event Approval Timeline Anomaly; booking lead-time.
 
@@ -839,7 +818,7 @@ UVU Event Approval Timeline Anomaly; booking lead-time.
 
 ---
 
-**N-11229** Yale Political Union
+**N-11145** Yale Political Union
 
 Node Type: Organization
 Yale student debating society, which the host says has existed since 1934 and hosted the Lila Rose debate she cites.
@@ -880,7 +859,7 @@ Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.
 
@@ -888,7 +867,7 @@ TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.
 
 ---
 
-**N-11230** Alex Clark Tribute Episode Ad Dispute
+**N-11146** Alex Clark Tribute Episode Ad Dispute
 
 Node Type: Topic
 Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whether the host's podcast should be criticized for running ads.
@@ -905,7 +884,7 @@ Elon Musk; DOGE did not exist before him, per host.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 TPUSA DOGE Department / Financial Audit; DOGE remark.
 
@@ -913,7 +892,7 @@ TPUSA DOGE Department / Financial Audit; DOGE remark.
 
 ---
 
-**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+**N-11087** Kirk "Internet DOGE" Money-Tracing Effort
 
 Kirk Internet DOGE Money-Tracing Effort; DOGE remark.
 
@@ -921,7 +900,7 @@ Kirk Internet DOGE Money-Tracing Effort; DOGE remark.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.
 
@@ -929,7 +908,7 @@ TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.
 
@@ -937,7 +916,7 @@ Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.
 
 ---
 
-**N-10432** TPUSA Non-Disparagement Enforcement Campaign
+**N-10402** TPUSA Non-Disparagement Enforcement Campaign
 
 TPUSA Non-Disparagement Enforcement Campaign; NDA remark.
 
@@ -953,7 +932,7 @@ Brigitte Macron; subject of the host's tangential remark.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Frank Turek CPR Claim Verification; stage remarks.
 
@@ -1060,7 +1039,7 @@ Claim: Erika Kirk states she has seen the autopsy report and various "evidence p
 Anchored Artifacts: A-1346.2
 Mentions: N-2
 
-Related Nodes: N-10229
+Related Nodes: N-10216
 
 Investigative Direction: Identify the legal pathway by which a non-lawyer spouse obtains access to autopsy and evidence; cross-check public statements by prosecutors and defense counsel.
 
@@ -1075,7 +1054,7 @@ Claim: Erika Kirk states that Charlie loved Saint Michael and that, every time h
 Anchored Artifacts: A-1346.3
 Mentions: N-2, N-1
 
-Related Nodes: N-10230
+Related Nodes: N-10217
 
 Investigative Direction: Obtain photographs of the pendant from TPUSA or family sources; verify the metals described ("bronze" with later additions).
 
@@ -1090,7 +1069,7 @@ Claim: The host says that behind Jesse Watters and Erika Kirk as they walk backs
 Anchored Artifacts: A-1353.1
 Mentions: N-2, N-211, N-1, N-3
 
-Related Nodes: N-10230, N-10233
+Related Nodes: N-10217, N-10220
 
 Investigative Direction: Obtain original footage to identify the priest and any associated institution.
 
@@ -1119,7 +1098,7 @@ Claim: Allie Beth Stuckey tweets that the UVU campus stop was "requested in July
 Anchored Artifacts: A-1347.1
 Mentions: N-227, N-1
 
-Related Nodes: N-10228
+Related Nodes: N-10211
 
 Investigative Direction: Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.
 
@@ -1134,7 +1113,7 @@ Claim: In a tweet the host reads, Allie Beth Stuckey follows up that "no venue y
 Anchored Artifacts: A-1347.2
 Mentions: N-227
 
-Related Nodes: N-10228
+Related Nodes: N-10211
 
 Investigative Direction: Obtain the underlying text thread to verify Allie's characterization of venue status.
 
@@ -1147,7 +1126,7 @@ Claim: C-2448's title says the venue was confirmed two months out, which inverts
 Transcript Snippet: She says, "Since some of you guys are struggling, no venue yet, 2 months out."
 Anchored Artifacts: A-1347.2
 Mentions: N-227
-Related Nodes: N-10228
+Related Nodes: N-10211
 Revises: C-2448
 Confidence: high
 Investigative Direction: Read with C-2448; obtain the underlying text thread to verify Allie's characterization of venue status.
@@ -1163,7 +1142,7 @@ Claim: Lila Rose tweets that she was just asked to speak at Stanford and that th
 Anchored Artifacts: A-1348.1
 Mentions: N-228
 
-Related Nodes: N-10228
+Related Nodes: N-10211
 
 Investigative Direction: Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.
 
@@ -1178,7 +1157,7 @@ Claim: Lila Rose tweets that a recent Yale debate she participated in was planne
 Anchored Artifacts: A-1348.1
 Mentions: N-228
 
-Related Nodes: N-10228
+Related Nodes: N-10211
 
 Investigative Direction: Identify the Yale debate date and verify against Yale Political Union scheduling records.
 
@@ -1221,7 +1200,7 @@ Claim: Alyssa Cordova tweets speculation that non-disparagement agreements may b
 Anchored Artifacts: A-1350.1
 Mentions: N-229, N-3
 
-Related Nodes: N-10231
+Related Nodes: N-10218
 
 Investigative Direction: Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.
 
@@ -1250,7 +1229,7 @@ Claim: Kolby Sessions posts a social media message identifying himself as the pe
 Anchored Artifacts: A-1352.1
 Mentions: N-230
 
-Related Nodes: N-10232
+Related Nodes: N-10219
 
 Investigative Direction: Verify Kolby Sessions's UVU student status and the existence of the underlying social media post.
 
@@ -1265,7 +1244,7 @@ Claim: A viewer (Tom Paul) reports that Andrew Klavan, on the Alex Clark show, d
 Anchored Artifacts: A-1354.1
 Mentions: N-1, N-99, N-231, N-232
 
-Related Nodes: N-10234
+Related Nodes: N-10221
 
 Investigative Direction: Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.
 
@@ -1310,7 +1289,7 @@ Transcript Snippet: which means we have not spent, since we started this podcast
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11228
+Related Nodes: N-11144
 Supports: C-2408
 Tags: relevance:tangential
 Investigative Direction: Compare Podscribe ranking data for the date with any ad-spend disclosures from the show.
@@ -1372,7 +1351,7 @@ Transcript Snippet: There's just four of us, uh that work on the actual podcast 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11228
+Related Nodes: N-11144
 Tags: relevance:tangential
 Investigative Direction: Compare with the staff the host later describes or lists in company filings.
 
@@ -1388,7 +1367,7 @@ Transcript Snippet: also trailed her at the event that she did with J. D. Vance 
 
 Anchored Artifacts: 
 Mentions: N-3, N-211, N-2, N-4
-Related Nodes: N-10006, N-10233
+Related Nodes: N-10006, N-10220
 Tags: relevance:context
 Investigative Direction: Obtain the Ole Miss event date, the Fox News Primetime broadcast date and any pooled footage.
 
@@ -1434,7 +1413,7 @@ Transcript Snippet: I don't believe that he was the lone person involved. I don'
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-1
-Related Nodes: N-10337
+Related Nodes: N-10316
 Tags: relevance:core
 Investigative Direction: Compare with the prosecution's evidence base and any filings naming co-participants.
 
@@ -1465,7 +1444,7 @@ Transcript Snippet: Obviously, we have none of us have seen the autopsy report.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10229
+Related Nodes: N-10216
 Supports: C-2421
 Tags: relevance:core
 Investigative Direction: Check whether the Utah autopsy record has been released or sealed.
@@ -1482,7 +1461,7 @@ Transcript Snippet: Tyler Bowyer said, we have footage in 4K all of the stuff wh
 
 Anchored Artifacts: 
 Mentions: N-3, N-11
-Related Nodes: N-10055
+Related Nodes: N-10052
 Tags: relevance:core
 Investigative Direction: Find Bowyer's original statement and ask TPUSA what 4K footage exists and who holds it.
 
@@ -1498,7 +1477,7 @@ Transcript Snippet: not the university, but somebody else was was saying that yo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10012, N-10175
+Related Nodes: N-10012, N-10168
 Tags: relevance:core
 Investigative Direction: Identify who made the claim and obtain the UVU camera inventory and retention records.
 
@@ -1514,7 +1493,7 @@ Transcript Snippet: Their excuse for not showing the public was they didn't want
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10055
+Related Nodes: N-10052
 Tags: relevance:core
 Investigative Direction: Find the official statements giving the reason and the timing of any footage releases during the manhunt.
 
@@ -1530,7 +1509,7 @@ Transcript Snippet: we were all hoping that he was going to take the step and be
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10164
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Check the tribute video and the influencers' responses against what was said.
 
@@ -1546,7 +1525,7 @@ Transcript Snippet: Like I said from the beginning, he didn't convert to Catholi
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10104, N-10164
+Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Ask Charlie's priests and Church records whether he was baptized or received into the Church.
 
@@ -1578,7 +1557,7 @@ Transcript Snippet: Number one being that he was shot by a.30-06 and stopped the
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10319
+Related Nodes: N-10300
 Tags: relevance:core
 Investigative Direction: Obtain the ballistics report, caliber finding and wound description from the official record.
 
@@ -1594,7 +1573,7 @@ Transcript Snippet: Mikey's going to take over for Charlie at his Liberty convoc
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-1
-Related Nodes: N-11104, N-10000
+Related Nodes: N-11022, N-10000
 Tags: relevance:core
 Investigative Direction: Find the Liberty University convocation schedule and any TPUSA announcement of McCoy as replacement.
 
@@ -1641,7 +1620,7 @@ Transcript Snippet: Alex Clark wanted to do the Wall Street Journal thing until 
 
 Anchored Artifacts: 
 Mentions: N-3, N-99
-Related Nodes: N-11098
+Related Nodes: N-11016
 Tags: relevance:context
 Investigative Direction: Identify the WSJ piece and Clark's statements about Catholicism that the host calls untrue.
 
@@ -1657,7 +1636,7 @@ Transcript Snippet: I then respond and I'm like, "Here's a clear image of this p
 
 Anchored Artifacts: A-3021.1
 Mentions: N-3, N-181, N-230
-Related Nodes: N-10232
+Related Nodes: N-10219
 Tags: relevance:context
 Investigative Direction: Retrieve the original post thread with timestamps.
 
@@ -1705,7 +1684,7 @@ Transcript Snippet: he was going to mass sometimes daily. He was going on Sunday
 
 Anchored Artifacts: 
 Mentions: N-3, N-227, N-1
-Related Nodes: N-10230, N-10164
+Related Nodes: N-10217, N-10100
 Supports: C-2427
 Tags: relevance:core
 Investigative Direction: Ask the priests and parishes involved for attendance records; examine the pendant in evidence inventory.
@@ -1753,7 +1732,7 @@ Transcript Snippet: these events are booked the semester before, okay? There's a
 
 Anchored Artifacts: 
 Mentions: N-3, N-33, N-1
-Related Nodes: N-10228, N-10224
+Related Nodes: N-10211
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA event-booking lead times for past semesters; the host offers semester-by-semester emails.
 
@@ -1784,7 +1763,7 @@ Transcript Snippet: it's never happened that a college makes a request over the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10228, N-10224, N-10012
+Related Nodes: N-10211, N-10012
 Supports: C-2447
 Tags: relevance:core
 Investigative Direction: Obtain the UVU request email, its dates, and TPUSA's calendar entry date.
@@ -1801,7 +1780,7 @@ Transcript Snippet: November 3rd at 6:30 p. m. Either Auburn, which has 5,000 se
 
 Anchored Artifacts: A-3022.1
 Mentions: N-3, N-227, N-1
-Related Nodes: N-10228
+Related Nodes: N-10211
 Supports: C-2447
 Tags: relevance:core
 Investigative Direction: Obtain the full screenshot with date and sender; confirm the Auburn and South Alabama event dates.
@@ -1818,7 +1797,7 @@ Transcript Snippet: They did not start planning that event when Charlie texted y
 
 Anchored Artifacts: 
 Mentions: N-3, N-227, N-1
-Related Nodes: N-10228
+Related Nodes: N-10211
 Tags: relevance:context
 Investigative Direction: Ask the Auburn and South Alabama TPUSA chapters when they submitted requests.
 
@@ -1834,7 +1813,7 @@ Transcript Snippet: I will guarantee you, and I checked, they did both of these 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10228
+Related Nodes: N-10211
 Tags: relevance:context
 Investigative Direction: Check the TPUSA fall 2025 tour listing for the two Alabama events.
 
@@ -1850,7 +1829,7 @@ Transcript Snippet: So, that Yale event that Lila Rose spoke at was with the Yal
 
 Anchored Artifacts: 
 Mentions: N-3, N-228
-Related Nodes: N-11229
+Related Nodes: N-11145
 Tags: relevance:context
 Investigative Direction: Confirm the Yale Political Union's founding date and Rose's debate date.
 
@@ -1866,7 +1845,7 @@ Transcript Snippet: she's comparing this 70 people that attended this debate to 
 
 Anchored Artifacts: A-3023.1
 Mentions: N-3, N-228
-Related Nodes: N-11229
+Related Nodes: N-11145
 Tags: relevance:context
 Investigative Direction: Obtain attendance from the Yale Political Union.
 
@@ -1882,7 +1861,7 @@ Transcript Snippet: I can do every semester from 2018 until 2024.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10228
+Related Nodes: N-10211
 Tags: relevance:context
 Investigative Direction: Await the promised semester-by-semester documentation.
 
@@ -1898,7 +1877,7 @@ Transcript Snippet: would like to know who that somebody was that made that even
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10228, N-10224, N-10012
+Related Nodes: N-10211, N-10012
 Tags: relevance:core
 Investigative Direction: Identify who at TPUSA or UVU approved the event and when.
 
@@ -1976,7 +1955,7 @@ Transcript Snippet: she wasn't traumatized when she like wore boots and stood ou
 
 Anchored Artifacts: 
 Mentions: N-3, N-99
-Related Nodes: N-11098
+Related Nodes: N-11016
 Tags: relevance:context
 Investigative Direction: Obtain the WSJ article, photo date and Clark's podcast launch date.
 
@@ -2008,7 +1987,7 @@ Transcript Snippet: he took over for Charlie who was slated to speak at Liberty 
 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-1
-Related Nodes: N-11104
+Related Nodes: N-11022
 Tags: relevance:core
 Investigative Direction: Confirm via Liberty University's convocation schedule and event coverage.
 
@@ -2024,7 +2003,7 @@ Transcript Snippet: I think uh first heard it was 70 million.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-11014
+Related Nodes: N-10000, N-10934
 Tags: relevance:context
 Investigative Direction: Find TPUSA financial disclosures or reporting on post-assassination donations and sales.
 
@@ -2040,7 +2019,7 @@ Transcript Snippet: They were selling like T-shirts at the memorial event, like 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-11014
+Related Nodes: N-10000, N-10934
 Tags: relevance:context
 Investigative Direction: Find photos or reporting of merchandise sales at the State Farm Stadium memorial.
 
@@ -2056,7 +2035,7 @@ Transcript Snippet: on our tribute episode, we ran absolutely zero ads. We didn'
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11230
+Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Check the tribute episode's monetization status in YouTube Studio.
 
@@ -2072,7 +2051,7 @@ Transcript Snippet: You postponed having to read ads and said that you made them
 
 Anchored Artifacts: 
 Mentions: N-3, N-99
-Related Nodes: N-11230
+Related Nodes: N-11146
 Contradicts: C-2468
 Tags: relevance:context
 Investigative Direction: Review Clark's later episodes for make-good ad reads and her statements about them.
@@ -2089,7 +2068,7 @@ Transcript Snippet: She's mad because she lied about me on her podcast and I cal
 
 Anchored Artifacts: 
 Mentions: N-3, N-99
-Related Nodes: N-10104
+Related Nodes: N-10100
 Tags: relevance:context
 Investigative Direction: Compare Clark's podcast statements about the host's Catholic claims with the record.
 
@@ -2105,7 +2084,7 @@ Transcript Snippet: No, you don't do a Dodge every year. You want to know how I 
 
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-118, N-1
-Related Nodes: N-10132, N-11171
+Related Nodes: N-10127, N-11087
 Tags: relevance:core
 Investigative Direction: Find Clark's original statement and any pre-2025 TPUSA financial-audit unit.
 
@@ -2138,7 +2117,7 @@ Transcript Snippet: It was because likely um you guys were more concerned with y
 
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-1
-Related Nodes: N-10000, N-10209, N-10104
+Related Nodes: N-10000, N-10201, N-10100
 Supports: C-2476
 Tags: relevance:core
 Investigative Direction: Seek donor communications about Charlie's Catholic interest; the host frames the preceding clause sarcastically.
@@ -2155,7 +2134,7 @@ Transcript Snippet: please email us at moretips@candaceowens. com and let us kno
 
 Anchored Artifacts: A-3024.1
 Mentions: N-3
-Related Nodes: N-10228, N-10012, N-10000
+Related Nodes: N-10211, N-10012, N-10000
 Tags: relevance:core
 Investigative Direction: Follow up on any tips received about the UVU event request.
 
@@ -2171,7 +2150,7 @@ Transcript Snippet: When they overreact, it's cuz we hit a nerve.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253, N-10228
+Related Nodes: N-10239, N-10211
 Tags: relevance:context
 Investigative Direction: Pattern claim; compare TPUSA's responses across the episodes.
 
@@ -2187,7 +2166,7 @@ Transcript Snippet: She can treat you really evil, but there's an NDA preventing
 
 Anchored Artifacts: 
 Mentions: N-3, N-229
-Related Nodes: N-10432
+Related Nodes: N-10402
 Tags: relevance:context
 Investigative Direction: Allegation only; ask the host for the sources behind it.
 
@@ -2218,7 +2197,7 @@ Transcript Snippet: She can see what evidence they actually have and what they'r
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10229
+Related Nodes: N-10216
 Supports: C-2421
 Tags: relevance:core
 Investigative Direction: Check the Utah victim-rights statute on access to evidence for next of kin.
@@ -2235,7 +2214,7 @@ Transcript Snippet: I think I was with Charlie by the way. That might have been 
 
 Anchored Artifacts: A-1354.1
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10235
+Related Nodes: N-10222
 Tags: relevance:context
 Investigative Direction: Check Charlie's and the host's 2018 travel against the Jerusalem embassy opening.
 
@@ -2251,7 +2230,7 @@ Transcript Snippet: Frank Turek said it on stage that he knew in the car that he
 
 Anchored Artifacts: 
 Mentions: N-3, N-7, N-1
-Related Nodes: N-10234, N-10687
+Related Nodes: N-10221, N-10625
 Tags: relevance:core
 Investigative Direction: Find the stage remarks by Turek and compare with accounts of Charlie's care.
 
@@ -2267,7 +2246,7 @@ Transcript Snippet: Because they explained that he had died instantly. It wasn't
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10234
+Related Nodes: N-10221
 Tags: relevance:core
 Investigative Direction: Obtain hospital and EMS records on pulse, time of death and any surgery.
 
@@ -2298,7 +2277,7 @@ Transcript Snippet: We can't offer you cannot offer you health insurance in the 
 
 Anchored Artifacts: 
 Mentions: N-3, N-30
-Related Nodes: N-11228
+Related Nodes: N-11144
 Tags: relevance:tangential
 Investigative Direction: No verification needed beyond the host's account.
 
@@ -2420,7 +2399,7 @@ Confidence: low
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use the global people ledger (N-3+)
-- [x] Non-person investigation targets use the 1000 series (N-10228+)
+- [x] Non-person investigation targets use the 1000 series (N-10211+)
 - [x] No speculative claims inscribed as evidence-backed claims (framing premises tracked separately)
 - [x] Names preserved as written or uncertainty noted
 - [x] Formatting consistent across registers

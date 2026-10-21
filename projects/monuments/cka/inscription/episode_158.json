@@ -32,8 +32,8 @@
             "C-13651"
           ],
           "related_nodes": [
-            "N-10864",
-            "N-10865",
+            "N-10785",
+            "N-10786",
             "N-2"
           ],
           "tags": [],
@@ -51,7 +51,7 @@
             "C-13645"
           ],
           "related_nodes": [
-            "N-10864",
+            "N-10785",
             "N-2"
           ],
           "tags": [],
@@ -77,7 +77,7 @@
             "C-13658"
           ],
           "related_nodes": [
-            "N-10866",
+            "N-10787",
             "N-2",
             "N-217"
           ],
@@ -104,7 +104,7 @@
             "C-13662"
           ],
           "related_nodes": [
-            "N-10864",
+            "N-10785",
             "N-2"
           ],
           "tags": [],
@@ -130,7 +130,7 @@
             "C-13671"
           ],
           "related_nodes": [
-            "N-10218",
+            "N-10186",
             "N-496",
             "N-190",
             "N-1",
@@ -162,8 +162,8 @@
           "related_nodes": [
             "N-22",
             "N-14",
-            "N-10056",
-            "N-10864"
+            "N-10053",
+            "N-10785"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
             "C-13692"
           ],
           "related_nodes": [
-            "N-10867",
+            "N-10788",
             "N-3",
             "N-30"
           ],
@@ -216,11 +216,11 @@
             "C-13710"
           ],
           "related_nodes": [
-            "N-10868",
+            "N-10789",
             "N-37",
             "N-36",
-            "N-10860",
-            "N-10863"
+            "N-10781",
+            "N-10784"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -274,7 +274,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10070"
+            "N-10067"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -301,7 +301,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10868"
+            "N-10789"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-11091"
+            "N-11009"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -359,7 +359,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10863"
+        "N-10784"
       ]
     },
     {
@@ -385,8 +385,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10864",
-        "N-10865"
+        "N-10785",
+        "N-10786"
       ]
     },
     {
@@ -408,7 +408,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10867"
+        "N-10788"
       ]
     },
     {
@@ -448,7 +448,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10867"
+        "N-10788"
       ]
     },
     {
@@ -468,8 +468,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10868",
-        "N-10863"
+        "N-10789",
+        "N-10784"
       ]
     },
     {
@@ -491,7 +491,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ]
     },
     {
@@ -530,8 +530,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10198",
-        "N-10218"
+        "N-10190",
+        "N-10186"
       ]
     },
     {
@@ -602,8 +602,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10839",
-        "N-10859"
+        "N-10762",
+        "N-10780"
       ]
     },
     {
@@ -660,13 +660,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10056",
-      "ref": "N-10056",
+      "@id": "N-10053",
+      "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships.",
@@ -681,13 +681,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10865"
+        "N-10786"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Reused for post-assassination office/home-office behavior contrast with shrine narrative.",
@@ -706,9 +706,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10218",
-      "ref": "N-10218",
-      "name": "McCoy Succession Plan",
+      "@id": "N-10186",
+      "ref": "N-10186",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "Reused around will-appointment timing and succession optics.",
       "related_artifacts": [],
@@ -724,8 +724,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10839",
-      "ref": "N-10839",
+      "@id": "N-10762",
+      "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Background for TPUSA non-participation contrast and post-review smear timing.",
@@ -739,13 +739,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10859"
+        "N-10780"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10859",
-      "ref": "N-10859",
+      "@id": "N-10780",
+      "ref": "N-10780",
       "name": "TPUSA Non-Participation in UVU Independent Review",
       "type": "investigation_target",
       "description": "Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Forest Group.",
@@ -759,13 +759,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10860",
-      "ref": "N-10860",
+      "@id": "N-10781",
+      "ref": "N-10781",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "investigation_target",
       "description": "Reused when plotting July 9 college-video archive against July 10 UVU ask.",
@@ -779,13 +779,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10863",
-      "ref": "N-10863",
+      "@id": "N-10784",
+      "ref": "N-10784",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
       "type": "investigation_target",
       "description": "Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay.",
@@ -799,13 +799,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10864",
-      "ref": "N-10864",
+      "@id": "N-10785",
+      "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "investigation_target",
       "description": "New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.",
@@ -827,8 +827,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10865",
-      "ref": "N-10865",
+      "@id": "N-10786",
+      "ref": "N-10786",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
       "type": "investigation_target",
       "description": "New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.",
@@ -845,13 +845,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10866",
-      "ref": "N-10866",
+      "@id": "N-10787",
+      "ref": "N-10787",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
       "type": "investigation_target",
       "description": "New topic: profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative.",
@@ -873,8 +873,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10867",
-      "ref": "N-10867",
+      "@id": "N-10788",
+      "ref": "N-10788",
       "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
       "type": "investigation_target",
       "description": "New topic: post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10868",
-      "ref": "N-10868",
+      "@id": "N-10789",
+      "ref": "N-10789",
       "name": "July 9 2025 Archive of Candace College YouTube Project",
       "type": "investigation_target",
       "description": "New topic: first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification.",
@@ -915,8 +915,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-37",
-        "N-10860",
-        "N-10863"
+        "N-10781",
+        "N-10784"
       ]
     },
     {
@@ -1051,8 +1051,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Daily Mail; source of the headline the host reads about her being in crisis.",
@@ -1069,8 +1069,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10888",
-      "ref": "N-10888",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Department of War",
       "type": "investigation_target",
       "description": "Organization the host links to attacks on her that she says double when Erika Kirk is in DC.",
@@ -1087,8 +1087,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
       "type": "investigation_target",
       "description": "Place at issue in the profile's account of Charlie's criticism and in the host's Gaza remarks.",
@@ -1106,8 +1106,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
       "type": "investigation_target",
       "description": "Existing topic reused for the review's debunking of Harpole's podcast narrative.",
@@ -1123,8 +1123,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's August 5 Hamptons phone call claim.",
@@ -1158,8 +1158,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10103",
-      "ref": "N-10103",
+      "@id": "N-10099",
+      "ref": "N-10099",
       "name": "Bulletproof Vest Absence",
       "type": "investigation_target",
       "description": "Existing topic reused for the night-before vest recommendation claim.",
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11082",
-      "ref": "N-11082",
+      "@id": "N-11000",
+      "ref": "N-11000",
       "name": "Charlie Kirk Office Shrine Claim",
       "type": "topic",
       "description": "The profile's account that Charlie's office is preserved as a shrine, set against the host's claim that Mikey McCoy used Charlie's home office for interviews 12 days after the murder.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11083",
-      "ref": "N-11083",
+      "@id": "N-11001",
+      "ref": "N-11001",
       "name": "Erika Kirk Fall 2025 Public Appearance and Wardrobe Schedule",
       "type": "topic",
       "description": "The host's dated list of Erika Kirk's public appearances and outfits between September and December 2025, used to dispute the claim that the sparkly Amfest suit was the only thing that fit.",
@@ -1214,8 +1214,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11084",
-      "ref": "N-11084",
+      "@id": "N-11002",
+      "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
       "type": "topic",
       "description": "The profile's and the host's account that TPUSA chased leaks to the host, fired employees suspected of being sources, and searched for a mole after the host's July tweets.",
@@ -1232,8 +1232,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11085",
-      "ref": "N-11085",
+      "@id": "N-11003",
+      "ref": "N-11003",
       "name": "Night-Before Security Recommendations Discussion",
       "type": "topic",
       "description": "DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.",
@@ -1249,8 +1249,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11086",
-      "ref": "N-11086",
+      "@id": "N-11004",
+      "ref": "N-11004",
       "name": "Priest Report of Marital Issues",
       "type": "topic",
       "description": "The host's claim, from a source, that the priest told people there were marital issues between Charlie and Erika Kirk.",
@@ -1266,8 +1266,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11087",
-      "ref": "N-11087",
+      "@id": "N-11005",
+      "ref": "N-11005",
       "name": "TPUSA Notice of Intent to Sue UVU",
       "type": "topic",
       "description": "The host's account of a sloppily filed TPUSA notice that it intends to sue UVU despite not participating in the independent review.",
@@ -1283,8 +1283,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11088",
-      "ref": "N-11088",
+      "@id": "N-11006",
+      "ref": "N-11006",
       "name": "George Oxford Ancient Hebrew Study",
       "type": "topic",
       "description": "The smear package's claim that George speaks Hebrew as proof he is a secret Zionist, and the host's explanation that he studied ancient Hebrew in Oxford's theology program.",
@@ -1301,8 +1301,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11089",
-      "ref": "N-11089",
+      "@id": "N-11007",
+      "ref": "N-11007",
       "name": "Hidden Accounts Smear Evidence Dispute",
       "type": "topic",
       "description": "The host's dispute of the smear's claimed MySpace, Flickr, Twitter and adult-site accounts, including the data-leak sourcing, archive dates and missing tattoos.",
@@ -1327,8 +1327,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11090",
-      "ref": "N-11090",
+      "@id": "N-11008",
+      "ref": "N-11008",
       "name": "Black Robe Mafia Judges and Lawyers Claim",
       "type": "topic",
       "description": "The host's prediction that judges and lawyers acting for the state, which she calls the black robe mafia, will be exposed.",
@@ -1344,8 +1344,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11091",
-      "ref": "N-11091",
+      "@id": "N-11009",
+      "ref": "N-11009",
       "name": "Wear Forbidden",
       "type": "organization",
       "description": "Account whose parody video of a smear strategy meeting the host plays at the end of the episode.",
@@ -1373,8 +1373,8 @@
         "A-2459.2"
       ],
       "related_nodes": [
-        "N-10864",
-        "N-10859"
+        "N-10785",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:00:08",
@@ -1394,7 +1394,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10865"
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "00:06:51",
@@ -1413,8 +1413,8 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10865",
-        "N-10056"
+        "N-10786",
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
@@ -1434,7 +1434,7 @@
         "A-2460.1"
       ],
       "related_nodes": [
-        "N-10866"
+        "N-10787"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1454,7 +1454,7 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:22:20",
@@ -1473,8 +1473,8 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-10218",
-        "N-10198"
+        "N-10186",
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:26:24",
@@ -1496,7 +1496,7 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
@@ -1517,8 +1517,8 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10865"
+        "N-10053",
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "00:28:36",
@@ -1538,8 +1538,8 @@
         "A-2464.1"
       ],
       "related_nodes": [
-        "N-10867",
-        "N-10839"
+        "N-10788",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:40:02",
@@ -1559,9 +1559,9 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-10868",
-        "N-10860",
-        "N-10863"
+        "N-10789",
+        "N-10781",
+        "N-10784"
       ],
       "tags": [],
       "claim_timestamp": "00:47:45",
@@ -1580,7 +1580,7 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ],
       "tags": [],
       "claim_timestamp": "00:49:14",
@@ -1602,7 +1602,7 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:31:10",
@@ -1620,7 +1620,7 @@
       "claim": "The host says she tweeted on July 18 that TPUSA would put Erika in a Vanity Fair spread with her children to pull at heartstrings, told readers to save the tweet, and that Blake Neff bookmarked it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:02:56",
@@ -1645,7 +1645,7 @@
         "A-2459.2"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:04:15",
@@ -1667,7 +1667,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:05:48",
@@ -1688,7 +1688,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10865"
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "00:05:48",
@@ -1712,7 +1712,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:12:25",
@@ -1733,7 +1733,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:12:14",
@@ -1754,7 +1754,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:13:14",
@@ -1774,7 +1774,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-11082"
+        "N-11000"
       ],
       "tags": [],
       "claim_timestamp": "00:15:00",
@@ -1794,8 +1794,8 @@
       "claim": "The host says that 12 days after Charlie was murdered Mikey McCoy was taking interviews and Fox News hits from Charlie's home office, which she uses to dispute the shrine account.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11082",
-        "N-10198"
+        "N-11000",
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:15:33",
@@ -1819,7 +1819,7 @@
         "A-2460.1"
       ],
       "related_nodes": [
-        "N-10866"
+        "N-10787"
       ],
       "tags": [],
       "claim_timestamp": "00:16:22",
@@ -1839,7 +1839,7 @@
         "A-2460.1"
       ],
       "related_nodes": [
-        "N-10866"
+        "N-10787"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1875,7 +1875,7 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-11083"
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:21:33",
@@ -1895,7 +1895,7 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-11083"
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:22:21",
@@ -1915,7 +1915,7 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-11083"
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:22:21",
@@ -1939,7 +1939,7 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-11083"
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:23:14",
@@ -1964,7 +1964,7 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-11083"
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:23:14",
@@ -1989,7 +1989,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-11084"
+        "N-11002"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
@@ -2013,7 +2013,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-11084"
+        "N-11002"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
@@ -2037,7 +2037,7 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-10864"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
@@ -2059,7 +2059,7 @@
       "claim": "The host alleges that Erika directs attacks on her behind the scenes, meets up with people in DC, and knows the attacks are coming.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:26:24",
@@ -2080,8 +2080,8 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-11085",
-        "N-10103"
+        "N-11003",
+        "N-10099"
       ],
       "tags": [],
       "claim_timestamp": "00:27:56",
@@ -2122,7 +2122,7 @@
       "claim": "The host says she has it on good authority that the priest has told people there were marital issues between Charlie and Erika, and says more will come as lawsuits are filed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11086"
+        "N-11004"
       ],
       "tags": [],
       "claim_timestamp": "00:28:36",
@@ -2144,8 +2144,8 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10063"
+        "N-10053",
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:28:36",
@@ -2166,8 +2166,8 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-10056",
-        "N-10063"
+        "N-10053",
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "00:28:36",
@@ -2186,7 +2186,7 @@
       "claim": "The host says the decision to make Erika CEO was made within the first 48 hours, faster than the public was made aware, and that she knew because Andrew Kolvet told her, although she says he now denies some of this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:30:49",
@@ -2213,7 +2213,7 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:31:32",
@@ -2251,7 +2251,7 @@
         "A-2805.1"
       ],
       "related_nodes": [
-        "N-10865"
+        "N-10786"
       ],
       "tags": [],
       "claim_timestamp": "00:33:14",
@@ -2274,9 +2274,9 @@
       "claim": "The host says TPUSA first produced a very sloppily filed notice that it intends to sue UVU, and then it emerged that TPUSA did not participate in the independent review.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11087",
-        "N-10839",
-        "N-10859"
+        "N-11005",
+        "N-10762",
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:36:47",
@@ -2294,7 +2294,7 @@
       "claim": "The host says Baron Coleman had the scoop that the UVU independent review was coming and that it would be very bad for Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:36:47",
@@ -2316,8 +2316,8 @@
       "claim": "The host says the independent review dedicates pages to debunking Brian Harpole's narrative on the Shawn Ryan podcast, where she says he presented a message as though it were his.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10862",
-        "N-10839"
+        "N-10783",
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:36:47",
@@ -2340,7 +2340,7 @@
       "claim": "The host says her episode on the UVU independent review went viral with about 3 million views on YouTube alone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10839"
+        "N-10762"
       ],
       "tags": [],
       "claim_timestamp": "00:37:37",
@@ -2360,8 +2360,8 @@
         "A-2806.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10867"
+        "N-10067",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:37:37",
@@ -2379,7 +2379,7 @@
       "claim": "The host says she has never in her life been on a military base and that nobody in her family has served in the military.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:38:33",
@@ -2400,7 +2400,7 @@
       "claim": "The host says Andrew Kolvet said that the reason Charlie started pulling back from her was that she was getting too crazy on the Jewish stuff, meaning Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10056"
+        "N-10053"
       ],
       "tags": [],
       "claim_timestamp": "00:39:21",
@@ -2438,7 +2438,7 @@
         "A-2464.1"
       ],
       "related_nodes": [
-        "N-10867"
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:40:02",
@@ -2459,7 +2459,7 @@
       "claim": "The host says she knows people are being paid on Discord to produce this kind of content against her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10867"
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:40:02",
@@ -2479,8 +2479,8 @@
         "A-2464.1"
       ],
       "related_nodes": [
-        "N-10867",
-        "N-11088"
+        "N-10788",
+        "N-11006"
       ],
       "tags": [],
       "claim_timestamp": "00:41:37",
@@ -2499,7 +2499,7 @@
       "claim": "The host says George majored in theology at Oxford, where students must take ancient Hebrew or ancient Greek, that he chose ancient Hebrew and got a first on his exams.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11088"
+        "N-11006"
       ],
       "tags": [],
       "claim_timestamp": "00:42:07",
@@ -2521,7 +2521,7 @@
       "claim": "The host says that as a sophomore her journalism class final was a story edit on epidemics, that she picked the Adderall epidemic on college campuses, and that she uploaded the video to YouTube as her submission.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ],
       "tags": [],
       "claim_timestamp": "00:42:07",
@@ -2539,7 +2539,7 @@
       "claim": "The host says the Flickr account found by her critics holds her entire album from a birthday party in 2015 that was also on her Facebook.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089"
+        "N-11007"
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
@@ -2557,7 +2557,7 @@
       "claim": "The host says her critics found a Twitter account she had in college that she says she has often said she wishes she could get into.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089"
+        "N-11007"
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
@@ -2575,8 +2575,8 @@
       "claim": "The host says she has never in her life had a MySpace account and that the critics' claim that she did cannot be true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089",
-        "N-10868"
+        "N-11007",
+        "N-10789"
       ],
       "tags": [],
       "claim_timestamp": "00:44:35",
@@ -2596,7 +2596,7 @@
         "A-2807.1"
       ],
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ],
       "tags": [],
       "claim_timestamp": "00:44:35",
@@ -2614,8 +2614,8 @@
       "claim": "The host says the smear alleges that she posted graphic group-hookup content across the state of Rhode Island on four different accounts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089",
-        "N-10867"
+        "N-11007",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:45:20",
@@ -2633,8 +2633,8 @@
       "claim": "The host says the smear's author claims the profile evidence came from a data leak but cannot show the leak, so readers must trust the claim.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089",
-        "N-10867"
+        "N-11007",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:46:10",
@@ -2652,8 +2652,8 @@
       "claim": "The host says the smear claims she last visited or reactivated the profile in 2022 when she was pregnant with her daughter.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089",
-        "N-10867"
+        "N-11007",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "00:46:10",
@@ -2673,8 +2673,8 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-10868",
-        "N-11089"
+        "N-10789",
+        "N-11007"
       ],
       "tags": [],
       "claim_timestamp": "00:47:45",
@@ -2695,7 +2695,7 @@
       "claim": "The host says that on the August 5 archive date Charlie was in the Hamptons receiving a phone call from Netanyahu offering to take Turning Point USA to the next level, and that Charlie said no.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10027"
       ],
       "tags": [],
@@ -2721,7 +2721,7 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ],
       "tags": [],
       "claim_timestamp": "00:48:56",
@@ -2745,8 +2745,8 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-10868",
-        "N-11089"
+        "N-10789",
+        "N-11007"
       ],
       "tags": [],
       "claim_timestamp": "00:48:56",
@@ -2783,7 +2783,7 @@
       "claim": "The host says the college project page happened to be archived when Charlie was with Bill Ackman, and asks why Ackman is interested in it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10868",
+        "N-10789",
         "N-10027"
       ],
       "tags": [],
@@ -2822,7 +2822,7 @@
       "claim": "The host says, citing a source, that Erika is in DC right now, or at least was yesterday or the day before, and that it seems that when Erika is in DC the Department of War attacks on the host start doubling.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10888"
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:59:45",
@@ -2846,7 +2846,7 @@
         "A-2807.1"
       ],
       "related_nodes": [
-        "N-10868"
+        "N-10789"
       ],
       "tags": [],
       "claim_timestamp": "00:57:49",
@@ -2864,8 +2864,8 @@
       "claim": "The host says the smear package included a video of a woman whose profile says she is Indian, which she and her husband laughed at.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089",
-        "N-10867"
+        "N-11007",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "01:00:16",
@@ -2884,8 +2884,8 @@
       "claim": "The host says the images in the smear omit two of her tattoos that would have been visible in the shot and a belly ring she has talked about, so the body shown is not hers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11089",
-        "N-10867"
+        "N-11007",
+        "N-10788"
       ],
       "tags": [],
       "claim_timestamp": "01:00:26",
@@ -2903,7 +2903,7 @@
       "claim": "The host says she believes the black robe mafia, meaning judges and lawyers working on behalf of the state, will be exposed, and points to efforts to bankrupt her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11090"
+        "N-11008"
       ],
       "tags": [],
       "claim_timestamp": "01:01:55",
@@ -2921,7 +2921,7 @@
       "claim": "The host says she will not change her mind about Gaza being a genocide and that she got fired for saying so, and points to being banned from Australia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [],
       "claim_timestamp": "01:04:55",
@@ -2941,7 +2941,7 @@
         "A-2808.1"
       ],
       "related_nodes": [
-        "N-11091"
+        "N-11009"
       ],
       "tags": [],
       "claim_timestamp": "01:05:52",
@@ -2959,8 +2959,8 @@
       "claim": "The host says, apparently and with \"who knows\", that this is a person like an old school \"graer\" (garbled in the transcript) affiliated with Andrew Wilson.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10867",
-        "N-11091"
+        "N-10788",
+        "N-11009"
       ],
       "tags": [],
       "claim_timestamp": "01:06:38",

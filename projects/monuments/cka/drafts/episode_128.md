@@ -11,15 +11,15 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11402, N-11403, N-11404, N-11405
-  - Hole-minted Nodes (reintro-ep128): N-10777
-  - Tip-minted Nodes (reintro-ep128): N-11143, N-11305
+  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11318, N-11319, N-11320, N-11321
+  - Hole-minted Nodes (reintro-ep128): N-10703
+  - Tip-minted Nodes (reintro-ep128): N-11221
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10950–C-11059
-  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-153, N-165, N-209, N-224, N-253, N-590, N-606, N-688, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
- - New Nodes Introduced: N-10732, N-10733, N-10734, N-10737, N-10738, N-10739
+  - Reused Nodes Appearing: N-10666, N-10636, N-10671, N-10086, N-10669, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-153, N-165, N-209, N-224, N-253, N-590, N-606, N-688, N-10000, N-10019, N-10032, N-10090, N-10235, N-10243, N-10255, N-10324, N-10325, N-10356, N-10390, N-10494, N-10593, N-10619, N-10625, N-10651, N-10654, N-10665, N-10678, N-10698, N-11012, N-11046
+ - New Nodes Introduced: N-10666, N-10667, N-10668, N-10670, N-10671
  - Hole-minted Nodes (wave3): N-507, N-508, N-509, N-510
- - Reused Nodes Appearing: N-10149, N-378, N-505
+ - Reused Nodes Appearing: N-10144, N-378, N-505
  - (see registers)
 
 ---
@@ -44,7 +44,7 @@
 - **Artifact Families Introduced:** A-2153, A-2154, A-2155, A-2156, A-2157, A-2158, A-2159, A-2160, A-2161, A-2162, A-2163
 - **Claim Range:** C-10953–C-11037
 - **New People Nodes Introduced:** none (Wave 2: local ids removed)
-- **New Investigation Targets Introduced:** N-10732, N-10733, N-10734, N-10735, N-10736, N-10737, N-10738, N-10739
+- **New Investigation Targets Introduced:** N-10666, N-10667, N-10668, N-10669, N-10086, N-10636, N-10670, N-10671
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:03:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10953, C-10957, N-10734*
+*Related: C-10953, C-10957, N-10668*
 
 **A-2153.2** Brigadier General Blaine Holt segment on Newsmax (spine-impact rejection)
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10957, N-10734*
+*Related: C-10957, N-10668*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:08:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10961, C-10963, N-10735*
+*Related: C-10961, C-10963, N-10669*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:12:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10970, N-10736*
+*Related: C-10970, N-10086*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:16:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (appearance not independently verified by analyst)
 
-*Related: C-10981, N-10738*
+*Related: C-10981, N-10670*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10990, N-10733*
+*Related: C-10990, N-10667*
 
 **A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital – August 18, 2025
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10996, N-10733*
+*Related: C-10996, N-10667*
 
 **A-2158.3** Judge Tony Graf appointed – May 2025
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10997, N-10733*
+*Related: C-10997, N-10667*
 
 **A-2158.4** Utah medical examiner appointment – July 2024
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (named only)
 
-*Related: N-10733*
+*Related: N-10667*
 
 **A-2158.5** Robert Bohls assumes leadership of FBI Salt Lake City Field Office – September 2, 2025
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10998, N-10733*
+*Related: C-10998, N-10667*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:31:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-11015, N-10737*
+*Related: C-11015, N-10636*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:36:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-11025, N-10732*
+*Related: C-11025, N-10666*
 
 **A-2162.2** Second Blake Neff statement – revised to Salt Lake City, no hotel name recalled
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:36:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-11025, C-11026, N-10732*
+*Related: C-11025, C-11026, N-10666*
 
 ---
 
@@ -316,7 +316,7 @@ Video Timestamp: 00:41:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-11037, N-10739*
+*Related: C-11037, N-10671*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:10:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10966, N-10090, N-153, N-3*
+*Related: C-10966, N-10086, N-153, N-3*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:14:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10974, C-10975, C-10977, C-10978, N-10019, N-10727, N-3, N-11402*
+*Related: C-10974, C-10975, C-10977, C-10978, N-10019, N-10654, N-3, N-11318*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:22:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11002, N-10738, N-3, N-505*
+*Related: C-11002, N-10670, N-3, N-505*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:26:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11011, C-11012, N-1, N-10249, N-253, N-3*
+*Related: C-11011, C-11012, N-1, N-10235, N-253, N-3*
 
 ---
 
@@ -383,7 +383,7 @@ Video Timestamp: 00:38:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11032, N-10732, N-3*
+*Related: C-11032, N-10666, N-3*
 
 ---
 
@@ -396,7 +396,7 @@ Video Timestamp: 00:41:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11039, C-11040, N-10435, N-10739, N-14, N-2, N-3*
+*Related: C-11039, C-11040, N-10390, N-10671, N-14, N-2, N-3*
 
 ---
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:48:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11046, C-11047, N-10257, N-10271, N-3, N-40, N-11402, N-11405*
+*Related: C-11046, C-11047, N-10243, N-10255, N-3, N-40, N-11318, N-11321*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:49:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11050, C-11051, N-10249, N-10346, N-10383, N-11, N-3*
+*Related: C-11050, C-11051, N-10235, N-10324, N-10356, N-11, N-3*
 
 ---
 
@@ -437,7 +437,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11054, N-1, N-10539, N-2, N-3*
+*Related: C-11054, N-1, N-10494, N-2, N-3*
 
 ---
 
@@ -450,7 +450,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11054, N-1, N-10539, N-2, N-3*
+*Related: C-11054, N-1, N-10494, N-2, N-3*
 
 ---
 
@@ -494,7 +494,7 @@ First named by the host at 00:24:14 in episode 128.
 
 
 
-**N-10732** Salt Lake City Hotel Identification Gap
+**N-10666** Salt Lake City Hotel Identification Gap
 
 Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.
 
@@ -507,7 +507,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10733** Utah Pre-Event Personnel Restructuring Pattern
+**N-10667** Utah Pre-Event Personnel Restructuring Pattern
 
 Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Beau Mason (June 19, 2025), Tony Graf (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).
 
@@ -520,7 +520,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10734** Ballistics Narrative Contradiction (O'Neill/Holt)
+**N-10668** Ballistics Narrative Contradiction (O'Neill/Holt)
 
 Public on-camera rejection by a former SEAL Team Six sniper and an Air Force Brigadier General of the official .30-06 / spine-impact ballistics explanation.
 
@@ -533,7 +533,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10735** Rooftop Clothing Change Narrative
+**N-10669** Rooftop Clothing Change Narrative
 
 Governor Cox's September 12, 2025 statement that the assassin changed clothes on the rooftop; not retracted or explained in subsequent official communications.
 
@@ -546,33 +546,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10736** Screwdriver Evidence Chain Question
-
-Recovery of a screwdriver on the rooftop with alleged shooter DNA; subsequent claim that the suspect disassembled the rifle on the roof contradicted by later discovery of the assembled weapon in the woods.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2155.1, C-10970*
-
----
-
-**N-10737** CPR Narrative Contradiction (Turek / Harpole)
-
-Brian Harpole asserts CPR was not performed in the vehicle; Frank Turek concedes he attempted CPR for the last 20–30 seconds of the ride and characterizes the divergence as emphasis rather than contradiction.
-
-Evidence Count: 1
-Claim Count: 1
-Episode Count: 1
-Investigative Pressure: Medium
-
-*Related: A-2161.1, C-11015*
-
----
-
-**N-10738** Faumuina Media Presence Anomaly
+**N-10670** Faumuina Media Presence Anomaly
 
 A sworn state law enforcement officer with FBI JTTF assignment appearing as a presenter on Netflix's *Worst Roommate Ever* and later as a podcast guest.
 
@@ -585,7 +559,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10739** Fort Huachuca Connection Question
+**N-10671** Fort Huachuca Connection Question
 
 Lt. Col. Kolvet's public X post denying any connection between his brother Andrew Kolvet and Fort Huachuca beyond a single 3-day MP unit training visit.
 
@@ -838,7 +812,7 @@ Decoy Boy Operation Analysis; the host's decoy theory.
 
 ---
 
-**N-10090** Screwdriver Evidence Question
+**N-10086** Screwdriver Evidence Question
 
 Existing topic reused for the claims below.
 
@@ -846,7 +820,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10094** LDS Church
+**N-10090** LDS Church
 
 LDS Church; context for the host's Mormon territory remark.
 
@@ -854,7 +828,7 @@ LDS Church; context for the host's Mormon territory remark.
 
 ---
 
-**N-10249** "Mormon Mafia" Allegation
+**N-10235** "Mormon Mafia" Allegation
 
 Existing topic reused for the claims below.
 
@@ -862,7 +836,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10257** Flock LPR FOIA Investigation
+**N-10243** Flock LPR FOIA Investigation
 
 Flock LPR FOIA Investigation; camera network context.
 
@@ -870,7 +844,7 @@ Flock LPR FOIA Investigation; camera network context.
 
 ---
 
-**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10255** Tyler Robinson Washington County Surveillance Footage Gap
 
 Existing topic reused for the claims below.
 
@@ -878,7 +852,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for the claims below.
 
@@ -886,7 +860,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10347** Egyptian Planes Israel Flight Pattern
+**N-10325** Egyptian Planes Israel Flight Pattern
 
 Existing topic reused for the claims below.
 
@@ -894,7 +868,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10383** Farnsworth Family Political-Military Network
+**N-10356** Farnsworth Family Political-Military Network
 
 Existing topic reused for the claims below.
 
@@ -902,7 +876,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10435** Fort Huachuca Erika Kirk Location Investigation
+**N-10390** Fort Huachuca Erika Presence Investigation
 
 Existing topic reused for the claims below.
 
@@ -910,7 +884,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+**N-10494** Charlie Kirk Iran War Opposition (June 2025)
 
 Existing topic reused for the claims below.
 
@@ -918,7 +892,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10651** Brian Harpole Lawsuit Coordination Question
+**N-10593** Brian Harpole Lawsuit Coordination Question
 
 Existing topic reused for the claims below.
 
@@ -926,7 +900,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10681** Shawn Ryan Show Interview Clip Bundle
+**N-10619** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for the claims below.
 
@@ -934,7 +908,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10687** Frank Turek CPR Claim Verification
+**N-10625** Frank Turek CPR Claim Verification
 
 Existing topic reused for the claims below.
 
@@ -942,7 +916,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10636** Brian Harpole vs Frank Turek CPR Contradiction
 
 Existing topic reused for the claims below.
 
@@ -950,7 +924,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10715** Blake Neff September 10th Movement Discrepancy
+**N-10651** Blake Neff September 10th Movement Discrepancy
 
 Existing topic reused for the claims below.
 
@@ -958,7 +932,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10727** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
+**N-10654** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
 
 Existing topic reused for the claims below.
 
@@ -966,7 +940,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10731** Screwdriver Footage Graininess Discrepancy
+**N-10665** Screwdriver Footage Graininess Discrepancy
 
 Existing topic reused for the claims below.
 
@@ -974,7 +948,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
+**N-10678** Ben Shapiro 9/10 Lunch Meeting Identification
 
 Existing topic reused for the claims below.
 
@@ -982,7 +956,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10769** Losee Center Gun Verification Gap
+**N-10698** Losee Center Gun Verification Gap
 
 Existing topic reused for the claims below.
 
@@ -990,7 +964,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-10777** Screwdriver Narrative Evolution
+**N-10703** Screwdriver Narrative Evolution
 
 Existing topic reused for the claims below.
 
@@ -998,7 +972,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-11094** Kash Patel August 17 Omaha Trip FOIA Response
+**N-11012** Kash Patel August 17 Omaha Trip FOIA Response
 
 Existing topic reused for the claims below.
 
@@ -1006,7 +980,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-11128** US and Israel Iran War Betrayal Thesis
+**N-11046** US and Israel Iran War Betrayal Thesis
 
 Existing topic reused for the claims below.
 
@@ -1014,15 +988,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-11143** Rooftop Screwdriver Claim
-
-Existing topic reused for the claims below.
-
-*Related: C-11053*
-
----
-
-**N-11305** Utah Medical Examiner Office Departures to New York
+**N-11221** Utah Medical Examiner Office Departures to New York
 
 Existing topic reused for the claims below.
 
@@ -1046,7 +1012,7 @@ Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by
 
 ---
 
-**N-11402** Rooftop Runner Black Jacket and Tactical Gear Account
+**N-11318** Rooftop Runner Black Jacket and Tactical Gear Account
 
 Node Type: Topic
 The host's account, from her own source, that the rooftop runner wore a black jacket, tactical gear and a backpack, with her theory that the object called a towel was a jacket and that the items were dropped near a bus stop by Fulton Library.
@@ -1055,7 +1021,7 @@ The host's account, from her own source, that the rooftop runner wore a black ja
 
 ---
 
-**N-11403** Faumuina Family 1995 Hawaii Homicide Case
+**N-11319** Faumuina Family 1995 Hawaii Homicide Case
 
 Node Type: Topic
 The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.
@@ -1064,7 +1030,7 @@ The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, w
 
 ---
 
-**N-11404** Franklin Cover-Up Scandal
+**N-11320** Franklin Cover-Up Scandal
 
 Node Type: Topic
 The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.
@@ -1073,7 +1039,7 @@ The Franklin credit union scandal in Omaha, Nebraska, which the host describes a
 
 ---
 
-**N-11405** Utah Statewide Camera Footage Gap
+**N-11321** Utah Statewide Camera Footage Gap
 
 Node Type: Topic
 The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.
@@ -1093,7 +1059,7 @@ Claim: Robert O'Neill publicly stated that the shirt movement on the published f
 Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1
 
-Related Nodes: N-10734
+Related Nodes: N-10668
 
 Investigative Direction: Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics.
 
@@ -1108,7 +1074,7 @@ Claim: In a clip the host plays, Brigadier General Blaine Holt says he rejects t
 Anchored Artifacts: A-2153.2
 Mentions: N-944, N-153, N-1
 
-Related Nodes: N-10734
+Related Nodes: N-10668
 
 Investigative Direction: Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials.
 
@@ -1123,7 +1089,7 @@ Claim: At the September 12, 2025 FBI briefing, Utah Governor Spencer Cox stated 
 Anchored Artifacts: A-2154.1
 Mentions: N-41
 
-Related Nodes: N-10735
+Related Nodes: N-10669
 
 Investigative Direction: Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim.
 
@@ -1153,7 +1119,7 @@ Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly t
 Anchored Artifacts: A-2155.1
 Mentions: N-46, N-378
 
-Related Nodes: N-10736
+Related Nodes: N-10086
 
 Investigative Direction: Compare the publicly released footage metadata against Bongino's "grainy" characterization and review any subsequent enhanced-release footage for consistency.
 
@@ -1168,7 +1134,7 @@ Claim: The host says Jennifer Faumuina appeared on Season 2 Episode 1 of Netflix
 Anchored Artifacts: A-2156.1
 Mentions: N-505
 
-Related Nodes: N-10738
+Related Nodes: N-10670
 
 Investigative Direction: Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.
 
@@ -1288,7 +1254,7 @@ Claim: The host says Beau "Bo" Mason was appointed Commissioner of the Utah Depa
 Anchored Artifacts: A-2158.1
 Mentions: N-507, N-41
 
-Related Nodes: N-10733
+Related Nodes: N-10667
 
 Investigative Direction: Verify appointment through the official Utah governor's office announcement or Senate confirmation record.
 
@@ -1303,7 +1269,7 @@ Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on A
 Anchored Artifacts: A-2158.2
 Mentions: N-134
 
-Related Nodes: N-10733
+Related Nodes: N-10667
 
 Investigative Direction: Confirm via hospital press releases and board minutes.
 
@@ -1318,7 +1284,7 @@ Claim: The host says Judge Tony Graf received a judicial appointment in May 2025
 Anchored Artifacts: A-2158.3
 Mentions: N-135
 
-Related Nodes: N-10733
+Related Nodes: N-10667
 
 Investigative Direction: Verify the appointment date, court, and appointing authority.
 
@@ -1333,7 +1299,7 @@ Claim: The host says Special Agent Robert Bohls took command of the FBI Salt Lak
 Anchored Artifacts: A-2158.5
 Mentions: N-133
 
-Related Nodes: N-10733
+Related Nodes: N-10667
 
 Investigative Direction: Confirm via FBI press releases and internal personnel announcements.
 
@@ -1408,7 +1374,7 @@ Claim: Frank Turek stated on a podcast that Brian Harpole's 'no CPR' account and
 Anchored Artifacts: A-2161.1
 Mentions: N-266, N-7
 
-Related Nodes: N-10737
+Related Nodes: N-10636
 
 Investigative Direction: Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment.
 
@@ -1423,7 +1389,7 @@ Claim: The host says Blake Neff initially said he spent the night in Orem, UT, t
 Anchored Artifacts: A-2162.1, A-2162.2
 Mentions: N-159
 
-Related Nodes: N-10732
+Related Nodes: N-10666
 
 Investigative Direction: Compare both statements against travel itineraries, expense reports, and credit card records.
 
@@ -1438,7 +1404,7 @@ Claim: Blake Neff stated on the record that he did not remember the name of the 
 Anchored Artifacts: A-2162.2
 Mentions: N-159
 
-Related Nodes: N-10732
+Related Nodes: N-10666
 
 Investigative Direction: Cross-check with travel booking records, expense reports, and any hotel worker testimony.
 
@@ -1453,7 +1419,7 @@ Claim: Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that
 Anchored Artifacts: A-2163.1
 Mentions: N-14, N-688
 
-Related Nodes: N-10739
+Related Nodes: N-10671
 
 Investigative Direction: Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references.
 
@@ -1501,7 +1467,7 @@ Transcript Snippet: Andrew Kolvet's big brother, Lieutenant Colonel in the milit
 
 Anchored Artifacts: A-2163.1
 Mentions: N-14, N-688, N-3
-Related Nodes: N-10739
+Related Nodes: N-10671
 Supports: C-4752
 Tags: relevance:context
 Investigative Direction: Pull the brother's X post and its date, and confirm his rank and identity against Army records or earlier public statements.
@@ -1518,7 +1484,7 @@ Transcript Snippet: The just the fact that no one started doing first aid to Cha
 
 Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1
-Related Nodes: N-10734
+Related Nodes: N-10668
 Tags: relevance:core
 Investigative Direction: Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.
 
@@ -1534,7 +1500,7 @@ Transcript Snippet: I've been told they paved it over a couple days later
 
 Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1
-Related Nodes: N-10734
+Related Nodes: N-10668
 Supports: C-1465
 Tags: relevance:core
 Investigative Direction: Obtain UVU or contractor records of when the paving at the scene was done.
@@ -1567,7 +1533,7 @@ Transcript Snippet: Absolutely not. I I I I'm with Rob. Something exploded on hi
 
 Anchored Artifacts: A-2153.2
 Mentions: N-944, N-153, N-1
-Related Nodes: N-10734
+Related Nodes: N-10668
 Tags: relevance:core
 Investigative Direction: Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.
 
@@ -1583,7 +1549,7 @@ Transcript Snippet: the garbage that was foisted upon us from the Justice Depart
 
 Anchored Artifacts: A-2153.2
 Mentions: N-944
-Related Nodes: N-10734
+Related Nodes: N-10668
 Tags: relevance:context
 Investigative Direction: Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.
 
@@ -1599,7 +1565,7 @@ Transcript Snippet: You're not going to take a.30-06 with a kid who's never kill
 
 Anchored Artifacts: A-2153.2
 Mentions: N-944, N-153, N-40
-Related Nodes: N-10734
+Related Nodes: N-10668
 Tags: relevance:context
 Investigative Direction: Review Robinson's firearms and hunting history in the charging documents.
 
@@ -1615,7 +1581,7 @@ Transcript Snippet: this is after they arrested Tyler Robinson, seized the text 
 
 Anchored Artifacts: A-2154.1
 Mentions: N-41, N-40, N-3
-Related Nodes: N-10735
+Related Nodes: N-10669
 Tags: relevance:core
 Investigative Direction: Compare the dates of Robinson's arrest and the text message seizure with the September 12 briefing.
 
@@ -1631,7 +1597,7 @@ Transcript Snippet: what would be the point of changing from a maroon shirt into
 
 Anchored Artifacts: A-2154.1
 Mentions: N-41, N-3
-Related Nodes: N-10735, N-10019
+Related Nodes: N-10669, N-10019
 Tags: relevance:core
 Investigative Direction: Check the charging documents and photos for the two garments Cox meant.
 
@@ -1664,7 +1630,7 @@ Transcript Snippet: He he says, "This isn't even the right screwdriver to take a
 
 Anchored Artifacts: A-3338.1
 Mentions: N-153, N-3
-Related Nodes: N-10090
+Related Nodes: N-10086
 Supports: C-644
 Tags: relevance:core
 Investigative Direction: Obtain the full Newsmax interview and compare with the evidence photo of the screwdriver and the rifle's fasteners.
@@ -1681,7 +1647,7 @@ Transcript Snippet: the rooftop man neither assembled or disassembled his rifle 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10090, N-10769
+Related Nodes: N-10086, N-10698
 Tags: relevance:core
 Investigative Direction: Review the investigative record on where and when the rifle was assembled.
 
@@ -1697,7 +1663,7 @@ Transcript Snippet: Did they already plant the evidence that and had to just sor
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10090, N-10777
+Related Nodes: N-10086, N-10703
 Tags: relevance:core
 Investigative Direction: Obtain the FBI DNA report on the screwdriver and its chain of custody. (Speculation framed as a question by the host.)
 
@@ -1713,7 +1679,7 @@ Transcript Snippet: Cash said that they found his what we presume was his screwd
 
 Anchored Artifacts: A-2155.1
 Mentions: N-46, N-69
-Related Nodes: N-10736, N-10090
+Related Nodes: N-10086
 Supports: C-125
 Tags: relevance:core
 Investigative Direction: Locate Patel's original statement about the screwdriver and DNA and the date it was made.
@@ -1730,7 +1696,7 @@ Transcript Snippet: I was a little hesitant in a media appearance this morning t
 
 Anchored Artifacts: A-2155.1
 Mentions: N-378
-Related Nodes: N-10736
+Related Nodes: N-10086
 Tags: relevance:core
 Investigative Direction: Review Bongino's other September 15 appearance for what he withheld and the reason he gave.
 
@@ -1746,7 +1712,7 @@ Transcript Snippet: on that roof in that corner. And when you see the camera in 
 
 Anchored Artifacts: A-2155.1
 Mentions: N-378
-Related Nodes: N-10731
+Related Nodes: N-10665
 Tags: relevance:core
 Investigative Direction: Establish when Bongino visited the roof and which camera he meant.
 
@@ -1762,7 +1728,7 @@ Transcript Snippet: that 4K HD 4D chest super duper crystal clear overwhelming f
 
 Anchored Artifacts: 
 Mentions: N-89, N-606, N-3
-Related Nodes: N-10731
+Related Nodes: N-10665
 Tags: relevance:core
 Investigative Direction: Identify when and by whom the footage was shown to the influencers and compare the resolution with the September releases.
 
@@ -1778,7 +1744,7 @@ Transcript Snippet: Said he was wearing a black jacket and tactical gear. All he
 
 Anchored Artifacts: A-3339.1
 Mentions: N-3
-Related Nodes: N-11402, N-10019
+Related Nodes: N-11318, N-10019
 Tags: relevance:core
 Investigative Direction: Obtain the source's original recording and statement and compare it with the released rooftop footage.
 
@@ -1794,7 +1760,7 @@ Transcript Snippet: I think it was never even actually a towel that we saw in th
 
 Anchored Artifacts: A-3339.1
 Mentions: N-3
-Related Nodes: N-11402
+Related Nodes: N-11318
 Tags: relevance:core
 Investigative Direction: Enhance the released rooftop frames and compare with the towel recovered with the rifle. (Theory of the host, not a finding.)
 
@@ -1810,7 +1776,7 @@ Transcript Snippet: I think it's much more likely that rooftop man was just a de
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11402, N-10032
+Related Nodes: N-11318, N-10032
 Supports: C-1470
 Tags: relevance:core
 Investigative Direction: Compare the runner's timeline against the shot time and the recovery location of the rifle. (Theory of the host, not a finding.)
@@ -1827,7 +1793,7 @@ Transcript Snippet: which was also described by my eyewitness who was never cont
 
 Anchored Artifacts: A-3339.1
 Mentions: N-3
-Related Nodes: N-11402
+Related Nodes: N-11318
 Tags: relevance:core
 Investigative Direction: Ask the FBI and Utah investigators for contact logs of witnesses who submitted rooftop video.
 
@@ -1843,7 +1809,7 @@ Transcript Snippet: I think it's plausible that while he was running, he dumped 
 
 Anchored Artifacts: A-3339.1
 Mentions: N-3
-Related Nodes: N-11402, N-10727
+Related Nodes: N-11318, N-10654
 Tags: relevance:core
 Investigative Direction: Map the location of the recovered items against the bus stop and the runner's route. (Theory of the host, not a finding.)
 
@@ -1859,7 +1825,7 @@ Transcript Snippet: And those items, as we learned, were then recovered um by Se
 
 Anchored Artifacts: 
 Mentions: N-505, N-3
-Related Nodes: N-10727
+Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Obtain the evidence log showing who recovered the backpack, gloves and jacket and when.
 
@@ -1875,7 +1841,7 @@ Transcript Snippet: Oh, you don't recall whether you signed off on the FBI not t
 
 Anchored Artifacts: 
 Mentions: N-505, N-3
-Related Nodes: N-10727
+Related Nodes: N-10654
 Tags: relevance:core
 Investigative Direction: Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.
 
@@ -1891,7 +1857,7 @@ Transcript Snippet: she moved to Ogden, Utah where she studied studied criminal 
 
 Anchored Artifacts: A-2157.2
 Mentions: N-505, N-3
-Related Nodes: N-10738
+Related Nodes: N-10670
 Tags: relevance:context
 Investigative Direction: Check Weber State alumni and institutional history for Faumuina and the school's founding by the LDS church.
 
@@ -1907,7 +1873,7 @@ Transcript Snippet: it is the only one that we can find that confirms that she w
 
 Anchored Artifacts: A-2157.4
 Mentions: N-505, N-3
-Related Nodes: N-10738
+Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Request Utah DPS employment history and certification records for Faumuina for 2013–2018.
 
@@ -1923,7 +1889,7 @@ Transcript Snippet: We couldn't find an article that mentions her before 2018 ei
 
 Anchored Artifacts: 
 Mentions: N-505, N-3
-Related Nodes: N-10738
+Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Request Weber State employment records and Utah POST certifications for Faumuina.
 
@@ -1939,7 +1905,7 @@ Transcript Snippet: in 2018 like I said we have her officially working for the U
 
 Anchored Artifacts: A-2157.5
 Mentions: N-505, N-3
-Related Nodes: N-10738
+Related Nodes: N-10670
 Tags: relevance:core
 Investigative Direction: Check the Utah state salary database for Faumuina's pay and rank by year.
 
@@ -1955,7 +1921,7 @@ Transcript Snippet: We talked in the past about the new newer, I should say, med
 
 Anchored Artifacts: A-2158.4
 Mentions: N-3
-Related Nodes: N-10733, N-11305
+Related Nodes: N-10667, N-11221
 Tags: relevance:core
 Investigative Direction: Confirm the appointment date and appointee through the Utah Department of Health and Human Services.
 
@@ -1971,7 +1937,7 @@ Transcript Snippet: We have continually raised this pattern since early on in th
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10733
+Related Nodes: N-10667
 Tags: relevance:core
 Investigative Direction: Build a table of Utah and federal appointments from 2024 to September 2025 with dates and appointing authorities.
 
@@ -1987,7 +1953,7 @@ Transcript Snippet: Kash Patel fires the person that was heading up the FBI Salt
 
 Anchored Artifacts: A-2158.5
 Mentions: N-133, N-69, N-3
-Related Nodes: N-10733
+Related Nodes: N-10667
 Supports: C-1121
 Tags: relevance:core
 Investigative Direction: Confirm the prior Salt Lake City special agent in charge, the date he left and Bowles's previous posting.
@@ -2004,7 +1970,7 @@ Transcript Snippet: he had a very long tenure up into that moment with the FBI a
 
 Anchored Artifacts: A-2158.5
 Mentions: N-133, N-3
-Related Nodes: N-10733
+Related Nodes: N-10667
 Tags: relevance:context
 Investigative Direction: Check FBI biographies and press releases for Bowles's career postings.
 
@@ -2020,7 +1986,7 @@ Transcript Snippet: She revealed that her sister was a social worker within the 
 
 Anchored Artifacts: A-3340.1
 Mentions: N-505, N-3
-Related Nodes: N-10738
+Related Nodes: N-10670
 Tags: relevance:tangential
 Investigative Direction: Identify the podcast and the date of the appearance.
 
@@ -2036,7 +2002,7 @@ Transcript Snippet: the three kids that were involved got charged with like seco
 
 Anchored Artifacts: A-2160.1
 Mentions: N-509, N-3
-Related Nodes: N-11403
+Related Nodes: N-11319
 Tags: relevance:tangential
 Investigative Direction: Obtain Hawaii court records for the 1995 case and the charges and outcomes.
 
@@ -2052,7 +2018,7 @@ Transcript Snippet: the brother was a member of this or part of this adult frien
 
 Anchored Artifacts: A-2160.2
 Mentions: N-509, N-510, N-3
-Related Nodes: N-11403
+Related Nodes: N-11319
 Tags: relevance:tangential
 Investigative Direction: Retrieve the article and any Hawaii nonprofit filings for Adult Friends for Youth.
 
@@ -2068,7 +2034,7 @@ Transcript Snippet: That Sid Rosen character, if I told you he was connected to 
 
 Anchored Artifacts: A-2160.2
 Mentions: N-510, N-3
-Related Nodes: N-11403
+Related Nodes: N-11319
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the basis of the Egypt and Israel connection and test it against public records on Rosen. (Stated by the host as a hypothetical she does not develop.)
 
@@ -2084,7 +2050,7 @@ Transcript Snippet: In later articles, Jennifer's father would claim that the th
 
 Anchored Artifacts: A-2160.1
 Mentions: N-508, N-509, N-3
-Related Nodes: N-11403
+Related Nodes: N-11319
 Tags: relevance:tangential
 Investigative Direction: Locate the later articles and the father's quoted words.
 
@@ -2100,7 +2066,7 @@ Transcript Snippet: The ward members would speak out denying that he was in a ga
 
 Anchored Artifacts: A-2160.1
 Mentions: N-509, N-508, N-3
-Related Nodes: N-11403
+Related Nodes: N-11319
 Tags: relevance:tangential
 Investigative Direction: Retrieve the 1995 and later articles with the ward members' and brother's statements.
 
@@ -2116,7 +2082,7 @@ Transcript Snippet: She kept saying it is an extension of the Zionist mafia, the
 
 Anchored Artifacts: A-3341.1
 Mentions: N-253, N-1, N-3
-Related Nodes: N-10249
+Related Nodes: N-10235
 Supports: C-2852
 Tags: relevance:tangential
 Investigative Direction: Review the host's messages with Courtney Love for the date and the exact words about the Mormon mafia.
@@ -2133,7 +2099,7 @@ Transcript Snippet: And I go back now and I read those messages and I'm going, s
 
 Anchored Artifacts: A-3341.1
 Mentions: N-253, N-3
-Related Nodes: N-10249
+Related Nodes: N-10235
 Tags: relevance:context
 Investigative Direction: Ask the host to release the Love messages or describe which statements she means.
 
@@ -2165,7 +2131,7 @@ Transcript Snippet: But that the assassination took place in Mormon territory ma
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10249, N-10094
+Related Nodes: N-10235, N-10090
 Tags: relevance:context
 Investigative Direction: Watch the next episode for the promised connections and test each against records.
 
@@ -2181,7 +2147,7 @@ Transcript Snippet: Brian is correct that most of the ride we weren't doing any 
 
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-266
-Related Nodes: N-10737, N-10699
+Related Nodes: N-10636
 Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Obtain the unedited Shawn Ryan audio and compare with Harpole's sworn statements.
@@ -2198,7 +2164,7 @@ Transcript Snippet: We got to be nearing like 8 or 9 minutes, and he's not breat
 
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-1
-Related Nodes: N-10687, N-10737
+Related Nodes: N-10625, N-10636
 Supports: C-10093
 Tags: relevance:core
 Investigative Direction: Compare with the ambulance and hospital arrival times and the length of the ride in dispatch logs.
@@ -2215,7 +2181,7 @@ Transcript Snippet: Now, maybe as we're yanking and banking into the into the uh
 
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-266
-Related Nodes: N-10737
+Related Nodes: N-10636
 Tags: relevance:core
 Investigative Direction: Compare Harpole's account of the last minute of the ride with Turek's.
 
@@ -2231,7 +2197,7 @@ Transcript Snippet: In fact, he's got a lawsuit against Candace Owens right now.
 
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-266, N-3
-Related Nodes: N-10651
+Related Nodes: N-10593
 Tags: relevance:context
 Investigative Direction: Check the Harpole docket and any protective orders that would limit his public statements.
 
@@ -2247,7 +2213,7 @@ Transcript Snippet: He told us he just got to work the whole time. That was his 
 
 Anchored Artifacts: 
 Mentions: N-266, N-3
-Related Nodes: N-10699
+Related Nodes: N-10636
 Supports: C-10327
 Tags: relevance:core
 Investigative Direction: Compare Harpole's interview and deposition statements about what he was doing in the car.
@@ -2264,7 +2230,7 @@ Transcript Snippet: because we were told the door was open because Charlie's leg
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10687
+Related Nodes: N-10625
 Supports: C-10332
 Tags: relevance:core
 Investigative Direction: Identify who first said the door was open because of Kirk's legs and compare with the layout of the vehicle seats.
@@ -2281,7 +2247,7 @@ Transcript Snippet: You just spoke for 3 hours on the Shawn Ryan show.
 
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-224, N-266
-Related Nodes: N-10681
+Related Nodes: N-10619
 Tags: relevance:context
 Investigative Direction: Check the Shawn Ryan Show episode length and date.
 
@@ -2297,7 +2263,7 @@ Transcript Snippet: The entire Turning Point team stayed in Salt Lake City.
 
 Anchored Artifacts: A-2162.2
 Mentions: N-3
-Related Nodes: N-10732, N-10000
+Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the TPUSA group booking, folio or expense records for September 10.
 
@@ -2313,7 +2279,7 @@ Transcript Snippet: The first time I talked to you, you said you spent the night
 
 Anchored Artifacts: A-2162.1
 Mentions: N-159
-Related Nodes: N-10732, N-10715
+Related Nodes: N-10666, N-10651
 Tags: relevance:core
 Investigative Direction: Obtain the first interview recording or notes and compare with the second.
 
@@ -2329,7 +2295,7 @@ Transcript Snippet: I interpreted as, "Did you stay in Utah that night?" as oppo
 
 Anchored Artifacts: A-2162.2
 Mentions: N-159
-Related Nodes: N-10732
+Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Compare with Neff's flight and return travel records for September 10 and 11.
 
@@ -2345,7 +2311,7 @@ Transcript Snippet: We were all in to my knowledge the basic the same hotel, and
 
 Anchored Artifacts: A-2162.2
 Mentions: N-159
-Related Nodes: N-10732
+Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Get TPUSA's lodging list for the trip and the hotel's guest records through legal process.
 
@@ -2361,7 +2327,7 @@ Transcript Snippet: that's confirmed on the basis of where they bought clothes
 
 Anchored Artifacts: A-2162.2
 Mentions: N-1, N-3
-Related Nodes: N-10732
+Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Identify the clothing purchases (stores, times, cardholders) referred to by the host.
 
@@ -2377,7 +2343,7 @@ Transcript Snippet: But he flew with Charlie, but we know that he didn't go, and
 
 Anchored Artifacts: 
 Mentions: N-159, N-1, N-3
-Related Nodes: N-10732, N-10000
+Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest and TPUSA's travel list for September 9 and 10.
 
@@ -2393,7 +2359,7 @@ Transcript Snippet: Maybe it's because they were anticipating that um the vice p
 
 Anchored Artifacts: 
 Mentions: N-4, N-3
-Related Nodes: N-10732
+Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Check the Vice President's September 10 and 11 schedule and Secret Service advance plans. (Speculation by the host.)
 
@@ -2409,7 +2375,7 @@ Transcript Snippet: Please send us something to moretips@candaceowens. com.
 
 Anchored Artifacts: A-3342.1
 Mentions: N-3
-Related Nodes: N-10732
+Related Nodes: N-10666
 Tags: relevance:core
 Investigative Direction: Record the tip volume and whether a hotel is later identified. (DIA tip line request.)
 
@@ -2425,7 +2391,7 @@ Transcript Snippet: We definitely know what hotel the feds were staying at. We d
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10732, N-10000
+Related Nodes: N-10666, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the FBI hotel booking records and TPUSA group lodging records.
 
@@ -2473,7 +2439,7 @@ Transcript Snippet: No one has ever accused Andrew Kolvet as at being as being a
 
 Anchored Artifacts: A-2163.1
 Mentions: N-14, N-688, N-3
-Related Nodes: N-10739
+Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Find the account the Lt. Col. was replying to and what it claimed.
 
@@ -2489,7 +2455,7 @@ Transcript Snippet: And two of those days were travel days as I visited my milit
 
 Anchored Artifacts: A-2163.1
 Mentions: N-688
-Related Nodes: N-10739
+Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Verify the unit, dates and orders for the trip through the Army or the National Guard.
 
@@ -2505,7 +2471,7 @@ Transcript Snippet: And then Andrew chimes in like, "Yeah, I can't even say it.
 
 Anchored Artifacts: A-3343.1
 Mentions: N-14, N-3
-Related Nodes: N-10739
+Related Nodes: N-10671
 Tags: relevance:core
 Investigative Direction: Pull Andrew Kolvet's reply on X with its date.
 
@@ -2521,7 +2487,7 @@ Transcript Snippet: I do think that Andrew has heard of Fort Huachuca. I do. Jus
 
 Anchored Artifacts: A-3343.1
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10739, N-10435
+Related Nodes: N-10671, N-10390
 Tags: relevance:core
 Investigative Direction: Check Kolvet's residence history and earlier public mentions of Fort Huachuca by him or the Frantzve family. (Host's inference, not a document.)
 
@@ -2537,7 +2503,7 @@ Transcript Snippet: this massive intel base, uh which directs what's going on at
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10739
+Related Nodes: N-10671
 Tags: relevance:context
 Investigative Direction: Check the Army's description of Fort Huachuca's tenants and mission, including Joint Task Force Southern Border.
 
@@ -2553,7 +2519,7 @@ Transcript Snippet: We instantly actually found out at least who went around and
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
-Related Nodes: N-10748
+Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Wait for the promised identification this week and check it against the September 10 call timeline.
 
@@ -2569,7 +2535,7 @@ Transcript Snippet: the person was willing to come forward on record and say tha
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10748
+Related Nodes: N-10678
 Tags: relevance:core
 Investigative Direction: Check the following episodes of this week for the promised disclosure.
 
@@ -2585,7 +2551,7 @@ Transcript Snippet: Uh Omaha, Nebraska, one of our Egyptian plane stops.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10347, N-11094
+Related Nodes: N-10325, N-11012
 Tags: relevance:context
 Investigative Direction: Review the Egyptian aircraft flight logs for Omaha stops.
 
@@ -2601,7 +2567,7 @@ Transcript Snippet: the scandal involving a $40 million financial fraud uh claim
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11404
+Related Nodes: N-11320
 Tags: relevance:tangential
 Investigative Direction: Consult court records and the Nebraska legislative report on the Franklin Credit Union case.
 
@@ -2617,7 +2583,7 @@ Transcript Snippet: Utah has cameras all throughout the state and yet we just ca
 
 Anchored Artifacts: A-3344.1
 Mentions: N-40, N-3
-Related Nodes: N-11405, N-10257, N-10271
+Related Nodes: N-11321, N-10243, N-10255
 Tags: relevance:core
 Investigative Direction: Request the camera inventory and retained footage for Utah County from Flock, UDOT and UVU.
 
@@ -2633,7 +2599,7 @@ Transcript Snippet: we can't even get a video of him taking the shot. And that's
 
 Anchored Artifacts: A-3344.1
 Mentions: N-3
-Related Nodes: N-11402
+Related Nodes: N-11318
 Supports: C-1470
 Tags: relevance:core
 Investigative Direction: Check whether any recorded video or audio places the rooftop man at the moment of the shot. (Belief of the host, not a finding.)
@@ -2650,7 +2616,7 @@ Transcript Snippet: And I agree with Robert O'Neill, it looks like an explosion 
 
 Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1, N-3
-Related Nodes: N-10734
+Related Nodes: N-10668
 Supports: C-10953
 Tags: relevance:core
 Investigative Direction: Commission an independent forensic analysis of the shirt motion in the published footage.
@@ -2683,7 +2649,7 @@ Transcript Snippet: Of course, Farnsworth's, big Mormon family, taking down the 
 
 Anchored Artifacts: A-3344.2
 Mentions: N-3
-Related Nodes: N-10383, N-10346
+Related Nodes: N-10356, N-10324
 Tags: relevance:core
 Investigative Direction: Obtain records of who removed the cameras at the site and who authorized it.
 
@@ -2699,7 +2665,7 @@ Transcript Snippet: Today I say it keeps coming back to the Mormons and the web 
 
 Anchored Artifacts: A-3344.2
 Mentions: N-11, N-3
-Related Nodes: N-10249
+Related Nodes: N-10235
 Tags: relevance:context
 Investigative Direction: Check public records on the Bowyer family's religious affiliation and organizations, and whether this matters to the case.
 
@@ -2731,7 +2697,7 @@ Transcript Snippet: The screwdriver that apparently can't even unscrew the weapo
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10090, N-11143
+Related Nodes: N-10086
 Supports: C-644
 Tags: relevance:core
 Investigative Direction: Test the recovered screwdriver against the rifle's fasteners.
@@ -2748,7 +2714,7 @@ Transcript Snippet: Have you seen the clip where Erika says we don't know how Ch
 
 Anchored Artifacts: A-3344.3, A-3345.1
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10539
+Related Nodes: N-10494
 Tags: relevance:core
 Investigative Direction: Locate the clip, its date and the exact words Erika Kirk used.
 
@@ -2764,7 +2730,7 @@ Transcript Snippet: Tucker, Bret Weinstein, Joe Kent have all confirmed that he 
 
 Anchored Artifacts: 
 Mentions: N-22, N-590, N-209, N-1, N-3
-Related Nodes: N-10539, N-11128
+Related Nodes: N-10494, N-11046
 Supports: C-7248
 Tags: relevance:core
 Investigative Direction: Collect the specific statements by Carlson, Weinstein and Kent and their dates.
@@ -2781,7 +2747,7 @@ Transcript Snippet: I believe she had more loyalty to people that brought her in
 
 Anchored Artifacts: 
 Mentions: N-2, N-11, N-1, N-3
-Related Nodes: N-10383
+Related Nodes: N-10356
 Tags: relevance:core
 Investigative Direction: Trace Erika Kirk's relationships and roles with Bowyer and the Farnsworths before and after the marriage. (Host's thesis.)
 

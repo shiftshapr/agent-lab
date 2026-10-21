@@ -31,8 +31,8 @@
             "C-8310"
           ],
           "related_nodes": [
-            "N-10616",
-            "N-10617"
+            "N-10554",
+            "N-10563"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
             "C-8301"
           ],
           "related_nodes": [
-            "N-10616"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
             "C-8297"
           ],
           "related_nodes": [
-            "N-10616"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "sub_items": [],
@@ -227,7 +227,7 @@
             "C-8334"
           ],
           "related_nodes": [
-            "N-10618"
+            "N-10564"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-8332"
           ],
           "related_nodes": [
-            "N-10618"
+            "N-10564"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
             "C-8332"
           ],
           "related_nodes": [
-            "N-10618"
+            "N-10564"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -285,7 +285,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10620"
+        "N-10566"
       ],
       "tags": [],
       "sub_items": [],
@@ -308,8 +308,8 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10619",
-        "N-10621"
+        "N-10565",
+        "N-10567"
       ],
       "tags": [],
       "sub_items": [],
@@ -335,7 +335,7 @@
             "C-8311"
           ],
           "related_nodes": [
-            "N-10616"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,7 +353,7 @@
             "C-8311"
           ],
           "related_nodes": [
-            "N-10616"
+            "N-10554"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [],
       "sub_items": [],
@@ -514,9 +514,9 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10616",
-      "ref": "N-10616",
-      "name": "UGA Rally Cancellation Discrepancy",
+      "@id": "N-10554",
+      "ref": "N-10554",
+      "name": "UGA No-Show Security Threat Explanation Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target: contradiction between Erika Kirk's stated reason for canceling UGA co-appearance and Secret Service determination, plus insider acknowledgment of non-security factors.",
       "related_artifacts": [
@@ -533,7 +533,8 @@
         "C-8297",
         "C-8301",
         "C-8310",
-        "C-8311"
+        "C-8311",
+        "C-8302"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -543,8 +544,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10617",
-      "ref": "N-10617",
+      "@id": "N-10563",
+      "ref": "N-10563",
       "name": "Secret Service Statement Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying Secret Service's \"no credible threats\" determination, including the off-record-to-CBS pipeline and corroboration across the federal security apparatus.",
@@ -562,8 +563,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10618",
-      "ref": "N-10618",
+      "@id": "N-10564",
+      "ref": "N-10564",
       "name": "Victor Marx IDF / Israeli Defense Group Connection",
       "type": "investigation_target",
       "description": "Persistent target: verifying text-message-attributed communications between Marx and Corby Hall referencing an Israeli Defense Group, SOCOM contract, and patent purchase.",
@@ -584,8 +585,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10619",
-      "ref": "N-10619",
+      "@id": "N-10565",
+      "ref": "N-10565",
       "name": "Bain Capital Foreign Investment Line",
       "type": "investigation_target",
       "description": "Persistent target: tracking the historical and recurring web linking Robert Maxwell / Ghislaine Maxwell / Epstein-adjacent actors to Bain Capital and adjacent financial/political networks.",
@@ -603,8 +604,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10620",
-      "ref": "N-10620",
+      "@id": "N-10566",
+      "ref": "N-10566",
       "name": "ATF Bullet Comparison Methodology",
       "type": "investigation_target",
       "description": "Persistent target: tracking the methodology and outcomes of cartridge-case matching, bullet-jacket fragment class-characteristic analysis, and the upcoming microscopic comparison in the Robinson case.",
@@ -624,8 +625,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10621",
-      "ref": "N-10621",
+      "@id": "N-10567",
+      "ref": "N-10567",
       "name": "Gun Firing Evidence Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying whether the recovered rifle was fired on September 10 via canine/bomb-dog screening and residue testing.",
@@ -641,8 +642,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10622",
-      "ref": "N-10622",
+      "@id": "N-10568",
+      "ref": "N-10568",
       "name": "Early-Death-Announcement Timeline Verification",
       "type": "investigation_target",
       "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Tsarfati tip.",
@@ -1460,8 +1461,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1479,8 +1480,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10106",
+      "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1497,8 +1498,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1516,8 +1517,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1535,8 +1536,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10443",
-      "ref": "N-10443",
+      "@id": "N-10412",
+      "ref": "N-10412",
       "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1552,8 +1553,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1569,8 +1570,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10574",
-      "ref": "N-10574",
+      "@id": "N-10525",
+      "ref": "N-10525",
       "name": "Romney–Netanyahu–Utah Connection Network",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1586,8 +1587,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@id": "N-10545",
+      "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1604,8 +1605,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10600",
-      "ref": "N-10600",
+      "@id": "N-10547",
+      "ref": "N-10547",
       "name": "Victor Marx 51% Fold AR Acquisition Attempt",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1621,8 +1622,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10601",
-      "ref": "N-10601",
+      "@id": "N-10548",
+      "ref": "N-10548",
       "name": "Victor Marx IDF 50,000 Guns Request",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1638,8 +1639,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10602",
-      "ref": "N-10602",
+      "@id": "N-10549",
+      "ref": "N-10549",
       "name": "Victor Marx Haiti Mission and Arms Request",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1655,25 +1656,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10607",
-      "ref": "N-10607",
-      "name": "UGA No-Show Security Threat Explanation Discrepancy",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8302"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10608",
-      "ref": "N-10608",
+      "@id": "N-10555",
+      "ref": "N-10555",
       "name": "TPUSA UGA Event Crowd-Size Failure",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1691,8 +1675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10613",
-      "ref": "N-10613",
+      "@id": "N-10560",
+      "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1711,8 +1695,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10646",
-      "ref": "N-10646",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1730,8 +1714,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@id": "N-10632",
+      "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1751,8 +1735,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10956",
-      "ref": "N-10956",
+      "@id": "N-10877",
+      "ref": "N-10877",
       "name": "Catholics for Catholics",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1768,8 +1752,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11054",
-      "ref": "N-11054",
+      "@id": "N-10972",
+      "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1785,8 +1769,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11128",
-      "ref": "N-11128",
+      "@id": "N-11046",
+      "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1802,8 +1786,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@id": "N-11098",
+      "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1866,8 +1850,8 @@
         "A-1981.1"
       ],
       "related_nodes": [
-        "N-10617",
-        "N-10616"
+        "N-10563",
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09",
@@ -1890,7 +1874,7 @@
         "A-1982.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27–00:13:38",
@@ -1909,7 +1893,7 @@
         "A-1982.2"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44–00:09:45",
@@ -1928,7 +1912,7 @@
         "A-1983"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:11:54–00:12:49",
@@ -1949,7 +1933,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:25:01",
@@ -2025,7 +2009,7 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-10618"
+        "N-10564"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00–00:38:02",
@@ -2047,7 +2031,7 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-10618"
+        "N-10564"
       ],
       "tags": [],
       "claim_timestamp": "00:37:17–00:38:02",
@@ -2066,7 +2050,7 @@
         "A-1989"
       ],
       "related_nodes": [
-        "N-10619"
+        "N-10565"
       ],
       "tags": [],
       "claim_timestamp": "00:40:43",
@@ -2085,7 +2069,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:43:33",
@@ -2102,7 +2086,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:43:51–00:44:37",
@@ -2119,7 +2103,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:44:37–00:45:48",
@@ -2136,7 +2120,7 @@
         "A-1991.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:21:10",
@@ -2156,7 +2140,7 @@
         "A-1991.2"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:21:34–00:22:20",
@@ -2175,7 +2159,7 @@
         "A-1992"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:28:57–00:29:30",
@@ -2192,7 +2176,7 @@
       "claim": "Host explicitly endorses Elizabeth Lane's prior post that, in Lane's opinion, \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's directing her PR team to blame the public as \"malevolent.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [],
       "claim_timestamp": "00:16:24",
@@ -2210,8 +2194,8 @@
       "claim": "The host says Erika Kirk's stated reason for canceling, a very credible threat against her life, is contradicted by CBS News reporting that the Secret Service determined there were no credible threats.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10616",
-        "N-10617"
+        "N-10554",
+        "N-10563"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09–00:13:38",
@@ -2231,7 +2215,7 @@
       "claim": "The host says bomb dogs were brought in and neither they nor the canines were able to determine that the recovered weapon had been recently fired, and she believes dogs can smell gun residue up to 7 days after a weapon is fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10621"
+        "N-10567"
       ],
       "tags": [],
       "claim_timestamp": "00:42:19–00:43:08",
@@ -2246,7 +2230,7 @@
       "claim": "The host says Victor Marx's early post announcing Charlie Kirk's death was later deleted, after he had left it up for quite a long time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2270,8 +2254,8 @@
         "A-1981.1"
       ],
       "related_nodes": [
-        "N-10617",
-        "N-10616"
+        "N-10563",
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2297,7 +2281,7 @@
         "A-1982.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2322,7 +2306,7 @@
       "claim": "The host says that at least 48 hours before the Vice President or President arrives, the airports and venue are swept and secured and advance personnel are sent ahead, so there was in her view no chance of a viable threat to Erika's travel in Georgia.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2345,7 +2329,7 @@
         "A-3135.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2370,7 +2354,7 @@
         "A-1982.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2396,7 +2380,7 @@
         "A-1982.2"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2422,7 +2406,7 @@
         "A-3136.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2444,7 +2428,7 @@
       "claim": "The host says she agrees with Baron Coleman that Erika was in the building backstage, and says Coleman pointed out that Andrew Kolvet was dressed too casually to interview the Vice President, which she takes as a sign the change was last-minute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2472,8 +2456,7 @@
         "A-1983"
       ],
       "related_nodes": [
-        "N-10616",
-        "N-10607"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2496,8 +2479,8 @@
         "A-1983"
       ],
       "related_nodes": [
-        "N-10616",
-        "N-10617"
+        "N-10554",
+        "N-10563"
       ],
       "tags": [
         "relevance:core"
@@ -2523,7 +2506,7 @@
         "A-1982.1"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2546,7 +2529,7 @@
       "claim": "The host says that when Erika did not want people to attend the Catholics for Catholics event where the host spoke, Erika made personal phone calls and cried on the phone.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10956"
+        "N-10877"
       ],
       "tags": [
         "relevance:core"
@@ -2569,7 +2552,7 @@
         "A-1982.2"
       ],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -2596,7 +2579,7 @@
         "A-1991.1"
       ],
       "related_nodes": [
-        "N-11182",
+        "N-11098",
         "N-10000"
       ],
       "tags": [
@@ -2620,8 +2603,8 @@
         "A-1991.1"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10616"
+        "N-10067",
+        "N-10554"
       ],
       "tags": [
         "relevance:core"
@@ -2646,8 +2629,8 @@
         "A-1991.2"
       ],
       "related_nodes": [
-        "N-10070",
-        "N-10608"
+        "N-10067",
+        "N-10555"
       ],
       "tags": [
         "relevance:context"
@@ -2673,8 +2656,8 @@
         "A-1991.2"
       ],
       "related_nodes": [
-        "N-10443",
-        "N-10070"
+        "N-10412",
+        "N-10067"
       ],
       "tags": [
         "relevance:core"
@@ -2697,7 +2680,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2724,7 +2707,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2747,7 +2730,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2773,7 +2756,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2798,7 +2781,7 @@
       "claim": "The host says that, like Marx, Bibi Netanyahu knew a little too soon that Charlie had been shot and commented just before the President of the United States.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2823,7 +2806,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2846,7 +2829,7 @@
         "A-3134.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2872,7 +2855,7 @@
         "A-1992"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -2896,7 +2879,7 @@
       "claim": "The host says Victor Marx still has not answered her messages even though he went on a press round almost immediately.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:core"
@@ -2920,7 +2903,7 @@
       "claim": "The host says Marx claims to be willing to sit down with her but wants to bring his wife Eileen and does not want Corby Hall present.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:core"
@@ -2948,7 +2931,7 @@
         "A-1987.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:core"
@@ -2972,7 +2955,7 @@
       "claim": "The host says Corby Hall asserted that Victor Marx wanted guns sold in Israel and never said such a sale would be illegal.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10601"
+        "N-10548"
       ],
       "tags": [
         "relevance:core"
@@ -2993,7 +2976,7 @@
       "claim": "The host says Corby Hall asserted that the Haitian arms deal would have been illegal, and that he declined and cautioned Marx against it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10602"
+        "N-10549"
       ],
       "tags": [
         "relevance:core"
@@ -3016,7 +2999,7 @@
         "A-1988.1"
       ],
       "related_nodes": [
-        "N-10618"
+        "N-10564"
       ],
       "tags": [
         "relevance:core"
@@ -3042,8 +3025,8 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-10618",
-        "N-10600"
+        "N-10564",
+        "N-10547"
       ],
       "tags": [
         "relevance:core"
@@ -3069,7 +3052,7 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10622"
+        "N-10568"
       ],
       "tags": [
         "relevance:core"
@@ -3094,7 +3077,7 @@
       "claim": "The host says that if Marx will not agree to sit with Corby Hall she is happy to have Marx alone one-on-one, and she would also host his wife.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10613"
+        "N-10560"
       ],
       "tags": [
         "relevance:core"
@@ -3169,7 +3152,7 @@
         "A-1989"
       ],
       "related_nodes": [
-        "N-10619"
+        "N-10565"
       ],
       "tags": [
         "relevance:context"
@@ -3196,8 +3179,8 @@
         "A-1989"
       ],
       "related_nodes": [
-        "N-10619",
-        "N-10574"
+        "N-10565",
+        "N-10525"
       ],
       "tags": [
         "relevance:context"
@@ -3220,8 +3203,8 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10621",
-        "N-10110"
+        "N-10567",
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3245,7 +3228,7 @@
       "claim": "The host says she believes Lance Twiggs is far more involved, is a federal asset, and as Robinson's roommate obtained Tyler Robinson's gun and casings earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10598"
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3267,9 +3250,9 @@
       "claim": "The host says she believes the gun was dropped off, maybe the day before or on September 10th, and then found, which is why bomb dogs did not detect it as recently fired.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11054",
-        "N-10621",
-        "N-10598"
+        "N-10972",
+        "N-10567",
+        "N-10545"
       ],
       "tags": [
         "relevance:core"
@@ -3294,7 +3277,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10566"
       ],
       "tags": [
         "relevance:core"
@@ -3316,7 +3299,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10110"
+        "N-10106"
       ],
       "tags": [
         "relevance:core"
@@ -3342,7 +3325,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10566"
       ],
       "tags": [
         "relevance:core"
@@ -3363,8 +3346,8 @@
       "claim": "The host says it is her opinion that the government and foreign governments were involved in the assassination and that Charlie Kirk was removed as a barrier to the Iranian war.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11128",
-        "N-10539"
+        "N-11046",
+        "N-10494"
       ],
       "tags": [
         "relevance:core"
@@ -3387,7 +3370,7 @@
         "A-3137.1"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [
         "relevance:core"
@@ -3413,7 +3396,7 @@
         "A-3137.1"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [
         "relevance:core"
@@ -3439,7 +3422,7 @@
         "A-3137.1"
       ],
       "related_nodes": [
-        "N-10646",
+        "N-10590",
         "N-10000"
       ],
       "tags": [
@@ -3462,7 +3445,7 @@
         "A-3137.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10318"
       ],
       "tags": [
         "relevance:core"
@@ -3488,7 +3471,7 @@
         "A-3137.1"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10632"
       ],
       "tags": [
         "relevance:core"
@@ -3512,7 +3495,7 @@
       "claim": "The host says Baron Coleman said on his show that he thinks Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -3536,7 +3519,7 @@
         "A-3137.2"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:context"
@@ -3558,7 +3541,7 @@
       "claim": "The host says Village Crazy Lady thinks they were trying to make J.D. Vance look bad, and the host says she thinks Erika will dump him without question.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10616"
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -3582,8 +3565,8 @@
         "A-1991.2"
       ],
       "related_nodes": [
-        "N-10608",
-        "N-10616"
+        "N-10555",
+        "N-10554"
       ],
       "tags": [
         "relevance:context"
@@ -3607,7 +3590,7 @@
       "claim": "The host speculates that TPUSA probably had students running around saying it would pay to be there, to fill the venue at the last minute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10608"
+        "N-10555"
       ],
       "tags": [
         "relevance:context"

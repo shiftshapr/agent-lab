@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq095
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep095): N-10759, N-10801, N-10808
+  - Hole-minted Nodes (reintro-ep095): N-10725, N-10732
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-10907
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-159, N-190, N-261, N-283, N-341, N-342, N-364, N-387, N-489, N-563, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-599, N-10751, N-10812, N-10799
+  - Tip-minted Nodes (skeleton): N-10828
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-159, N-190, N-261, N-283, N-341, N-342, N-364, N-387, N-489, N-563, N-10000, N-10006, N-10012, N-10022, N-10023, N-10067, N-10074, N-10282, N-10193, N-10324, N-10349, N-10521, N-10532, N-10538, N-10547, N-10560, N-10564, N-10572, N-10574, N-10606, N-10734, N-10791, N-10829, N-599, N-10681, N-10736, N-10723
   - Claim Range: C-8490–C-8546
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8493, C-8494, C-8495, N-563, N-261, N-1, N-10799, N-10908*
+*Related: C-8493, C-8494, C-8495, N-563, N-261, N-1, N-10723, N-10829*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8498, C-8501, N-261, N-3, N-10808, N-10810*
+*Related: C-8498, C-8501, N-261, N-3, N-10732, N-10734*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:12:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8506, C-8507, N-563, N-1, N-10908*
+*Related: C-8506, C-8507, N-563, N-1, N-10829*
 
 **A-2539.2** Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8508, N-1, N-10908*
+*Related: C-8508, N-1, N-10829*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:15:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, N-489, N-387, N-2, N-10907*
+*Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, N-489, N-387, N-2, N-10828*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:28:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8522, N-40, N-10070, N-10022*
+*Related: C-8522, N-40, N-10067, N-10022*
 
 **A-2541.3** Tyler Robinson text message from the charging document about his father wanting photos of the rifle (shown/read)
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:30:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8523, N-40, N-10077, N-10022*
+*Related: C-8523, N-40, N-10074, N-10022*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:49:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8542, N-3, N-1, N-10751*
+*Related: C-8542, N-3, N-1, N-10681*
 
 **A-2543.2** Viewer comment (Keeping faith with Father Joseph) offering footage, and the host's request to email it (read aloud)
 
@@ -386,152 +386,146 @@ The host ties Epstein to weapons trafficking and Iran-Contra via a former Mossad
 
 *Related: C-8519, C-8520*
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Published the family-heirloom headline the host cited to Neff.
 
 *Related: C-8522, A-2541.2*
 
-**N-10077** Robinson-Lance Text Chain Authenticity
+**N-10074** Robinson-Lance Text Chain Authenticity
 
 The rifle-photo message and newly added "pooch" line in Robinson's messages.
 
 *Related: C-8523, C-8544, A-2541.3*
 
-**N-10300** Justin Streiff Post-Assassination Phone Call
+**N-10282** Justin Streiff Post-Assassination Phone Call
 
 Streiff's call to the host's husband about whether she recorded the footage.
 
 *Related: C-8503*
 
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 The host asks whether Charlie was buried after a Catholic funeral mass or cremated.
 
 *Related: C-8541*
 
-**N-10346** Terryl Farnsworth Camera Removal Justification
+**N-10324** Terryl Farnsworth Camera Removal Justification
 
 Terryl's stated reason (protecting Erika) for removing the camera.
 
 *Related: C-8490, C-8500*
 
-**N-10376** AmFest Tent Recreation Approval Chain
+**N-10349** AmFest Tent Recreation Approval Chain
 
 The tent recreation for selfies is cited again.
 
 *Related: C-8526*
 
-**N-10570** Defense Discovery Dumping Strategy
+**N-10521** Defense Discovery Dumping Strategy
 
 600,000 files given to the defense in March and the continuance request.
 
 *Related: C-8537, C-8538*
 
-**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10532** Tyler Robinson Defense – Chain of Custody / Documents
 
 The host urges the defense to obtain the unzoomed back-camera footage.
 
 *Related: C-8505*
 
-**N-10590** Laura Loomer Influence on Trump Policy Question
+**N-10538** Laura Loomer Influence on Trump Policy Question
 
 Loomer's phone access to Trump and her role as adviser.
 
 *Related: C-8528, C-8535*
 
-**N-10600** Victor Marx 51% Fold AR Acquisition Attempt
+**N-10547** Victor Marx 51% Fold AR Acquisition Attempt
 
 Recalled as Marx wanting the patent and pushing Corby Hall out.
 
 *Related: C-8511*
 
-**N-10613** Victor Marx / Corby Hall On-Air Interview Proposal
+**N-10560** Victor Marx / Corby Hall On-Air Interview Proposal
 
 Marx declined to join; the Corby Hall interview goes ahead.
 
 *Related: C-8546*
 
-**N-10618** Victor Marx IDF / Israeli Defense Group Connection
+**N-10564** Victor Marx IDF / Israeli Defense Group Connection
 
 The host says Marx wanted the patent for Israel.
 
 *Related: C-8511*
 
-**N-10626** Erika Kirk Speedy Trial Motion (January 16)
+**N-10572** Erika Kirk Speedy Trial Motion (January 16)
 
 The host anticipates the judge refusing a continuance because Erika asserted her victim's rights.
 
 *Related: C-8538*
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 The host says Loomer cannot own a gun in any of the 50 states.
 
 *Related: C-8531*
 
-**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+**N-10606** Charlie Kirk Aspen Audio Authenticity Question
 
 Donors told the host Charlie never said the "I appoint Erika" line at Aspen.
 
 *Related: C-8524, C-8525*
 
-**N-10751** Charlie Kirk Cremation/Burial Status Verification
+**N-10681** Charlie Kirk Cremation/Burial Status Verification
 
 The host asks whether Charlie Kirk was cremated.
 
 *Related: C-8540, C-8541, C-8542, A-2543.1*
 
-**N-10759** Kirk Burial / Cremation Status
-
-The body was reportedly moved a couple of times.
-
-*Related: C-8540*
-
-**N-10799** Back-Camera Footage Discrepancy
+**N-10723** Back-Camera Footage Discrepancy
 
 Nicci's finding that the shared footage was zoomed or cropped, hiding the ground.
 
 *Related: C-8493, C-8494, C-8495, C-8504, A-2537.1*
 
-**N-10801** Terryl Post-Removal Communications
+**N-10725** Terryl Post-Removal Communications
 
 The host's September 17 and 19 calls with Terryl.
 
 *Related: C-8496, C-8497, C-8499*
 
-**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
+**N-10732** Terryl SD Card-to-Laptop Transfer Sequence
 
 The "YOLO" drive on Terryl's desktop in Scottsdale.
 
 *Related: C-8498, C-8502, A-2538.1*
 
-**N-10810** SD Card Chain-of-Custody Investigation
+**N-10734** SD Card Chain-of-Custody Investigation
 
 Whether the SD card was ever given to federal agents.
 
 *Related: C-8498, C-8499, C-8501, A-2538.1*
 
-**N-10812** Terryl Farnsworth Evidence-Handling Question
+**N-10736** Terryl Farnsworth Evidence-Handling Question
 
 Terryl's possession of the footage in Arizona.
 
 *Related: C-8499, C-8502*
 
-**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
+**N-10791** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsorship deal.
 
 *Related: C-8509*
 
-**N-10907** Lori Frantzve 2016 Gun Patent Dinner
+**N-10828** Lori Frantzve 2016 Gun Patent Dinner
 
 Node Type: Topic
 Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guinta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.
 
 *Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, C-8518, A-2540.1, N-489, N-387, N-2*
 
-**N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
+**N-10829** Back-Camera and Platform Setup Introduction (2025 Tour)
 
 Node Type: Topic
 Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Yrefy sponsorship deal.
@@ -550,7 +544,7 @@ Transcript Snippet: the one that Terryl raced the footage that he raced to take 
 
 Anchored Artifacts: 
 Mentions: N-261, N-1
-Related Nodes: N-10346
+Related Nodes: N-10324
 Investigative Direction: Time-sync the viral video of the camera takedown against the shot time on September 10, 2025.
 
 ---
@@ -595,7 +589,7 @@ Transcript Snippet: Nicci discovered that the camera footage which was shown to 
 
 Anchored Artifacts: A-2537.1
 Mentions: N-563, N-261, N-3
-Related Nodes: N-10799
+Related Nodes: N-10723
 Investigative Direction: Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.
 
 ---
@@ -610,7 +604,7 @@ Transcript Snippet: On February 28th, 2025, the American Comeback Tour did a sto
 
 Anchored Artifacts: A-2537.1
 Mentions: N-563
-Related Nodes: N-10799, N-10908
+Related Nodes: N-10723, N-10829
 Investigative Direction: Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.
 
 ---
@@ -625,7 +619,7 @@ Transcript Snippet: The camera is a wide-angle camera and was always used as suc
 
 Anchored Artifacts: A-2537.1
 Mentions: N-563, N-261
-Related Nodes: N-10799, N-10012
+Related Nodes: N-10723, N-10012
 Investigative Direction: Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.
 
 ---
@@ -640,7 +634,7 @@ Transcript Snippet: I phoned him on September the 17th because the footage start
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10801
+Related Nodes: N-10725
 Investigative Direction: Produce the host's call logs with Terryl Farnsworth for September 17–19, 2025.
 
 ---
@@ -655,7 +649,7 @@ Transcript Snippet: And then on the 19th, he sort of broke and said, "Okay, no, 
 
 Anchored Artifacts: 
 Mentions: N-261, N-2
-Related Nodes: N-10801
+Related Nodes: N-10725
 Investigative Direction: Obtain Terryl's messages with the host and with Erika Kirk between September 17 and 19, 2025.
 
 ---
@@ -670,7 +664,7 @@ Transcript Snippet: It is my suspicion that that YOLO drive that you're seeing o
 
 Anchored Artifacts: A-2538.1
 Mentions: N-261, N-3
-Related Nodes: N-10808, N-10810
+Related Nodes: N-10732, N-10734
 Investigative Direction: Have a forensic examiner review the FaceTime recording, and obtain the SD card's volume label and chain-of-custody records.
 
 ---
@@ -685,7 +679,7 @@ Transcript Snippet: Terryl and I are speaking on the 17th and on the 19th and at
 
 Anchored Artifacts: 
 Mentions: N-261, N-3
-Related Nodes: N-10810, N-10812, N-10801
+Related Nodes: N-10734, N-10736, N-10725
 Investigative Direction: Request FBI evidence logs showing whether and when the back-camera SD card was collected.
 
 ---
@@ -700,7 +694,7 @@ Transcript Snippet: And his answer was because he wanted to protect Erika. He di
 
 Anchored Artifacts: 
 Mentions: N-261, N-2
-Related Nodes: N-10346
+Related Nodes: N-10324
 Investigative Direction: Obtain Terryl's communications with Erika Kirk on September 10–11, 2025.
 
 ---
@@ -715,7 +709,7 @@ Transcript Snippet: So now we have a situation where Charlie's phone we've learn
 
 Anchored Artifacts: A-2538.1
 Mentions: N-1, N-40, N-54
-Related Nodes: N-10810
+Related Nodes: N-10734
 Investigative Direction: Request FBI and Utah evidence inventories listing devices collected from Charlie Kirk and TPUSA staff.
 
 ---
@@ -730,7 +724,7 @@ Transcript Snippet: Terryl was able to take that footage back to Arizona. He's o
 
 Anchored Artifacts: A-2538.1
 Mentions: N-261
-Related Nodes: N-10808, N-10812
+Related Nodes: N-10732, N-10736
 Investigative Direction: Establish Terryl's travel from Utah to Arizona and the file-creation timestamps on his computer.
 
 ---
@@ -745,7 +739,7 @@ Transcript Snippet: that's why they started putting pressure on um Justin Streif
 
 Anchored Artifacts: 
 Mentions: N-15, N-30, N-3
-Related Nodes: N-10300
+Related Nodes: N-10282
 Investigative Direction: Obtain the date and content of Justin Streiff's call to the host's husband.
 
 ---
@@ -760,7 +754,7 @@ Transcript Snippet: So yes, Niecy, I I agree with you um that it is very likely 
 
 Anchored Artifacts: A-2537.1
 Mentions: N-563, N-261
-Related Nodes: N-10799
+Related Nodes: N-10723
 Investigative Direction: Subpoena the native back-camera file and compare its field of view with the FaceTime version.
 
 ---
@@ -775,7 +769,7 @@ Transcript Snippet: That footage should not be zoomed in. She's correct. Turning
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10000, N-10581
+Related Nodes: N-10000, N-10532
 Investigative Direction: Defense subpoena to TPUSA for all camera media recorded at UVU on September 10, 2025.
 
 ---
@@ -790,7 +784,7 @@ Transcript Snippet: Charlie oddly is on a chair that is upon a platform that sea
 
 Anchored Artifacts: A-2539.1
 Mentions: N-1
-Related Nodes: N-10908, N-10000
+Related Nodes: N-10829, N-10000
 Investigative Direction: Obtain TPUSA event-production specifications and staging orders for 2024–2025 tabling events.
 
 ---
@@ -805,7 +799,7 @@ Transcript Snippet: we couldn't find a time before late 2024 when Charlie is tab
 
 Anchored Artifacts: A-2539.1
 Mentions: N-1
-Related Nodes: N-10908, N-10000
+Related Nodes: N-10829, N-10000
 Investigative Direction: Crowdsource and date every TPUSA tabling video to find the first appearance of the rear camera angle.
 
 ---
@@ -820,7 +814,7 @@ Transcript Snippet: And here is Charlie at Northern Arizona University on Octobe
 
 Anchored Artifacts: A-2539.2
 Mentions: N-1
-Related Nodes: N-10908
+Related Nodes: N-10829
 Investigative Direction: Verify the dates and locations of the photos against TPUSA's 2024 tour schedule.
 
 ---
@@ -834,7 +828,7 @@ Claim: The host says the rear camera angle seems to have arrived specifically wi
 Transcript Snippet: That's also seems to have arrived specifically with the big sponsorship deal with Wiyre Fy as well.
 
 Anchored Artifacts: 
-Related Nodes: N-10870, N-10908, N-10000
+Related Nodes: N-10791, N-10829, N-10000
 Investigative Direction: Compare the Yrefy sponsorship contract dates and deliverables with the first appearance of the rear camera.
 
 ---
@@ -849,7 +843,7 @@ Transcript Snippet: Similarly, Lori Frantzve and Larry were interested in a gun 
 
 Anchored Artifacts: A-2540.1
 Mentions: N-489, N-387
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Search USPTO records for interchangeable-caliber revolver patents filed around 2016 and their inventors.
 
 ---
@@ -864,7 +858,7 @@ Transcript Snippet: Victor Marx wants the patent for Israel. Let me remind you, 
 
 Anchored Artifacts: 
 Mentions: N-341, N-342
-Related Nodes: N-10600, N-10618
+Related Nodes: N-10547, N-10564
 Investigative Direction: Obtain Marx–Hall correspondence on the proposed acquisition and any named Israeli buyer.
 
 ---
@@ -879,7 +873,7 @@ Transcript Snippet: Allegedly, at this time she and Larry um meet some the guys 
 
 Anchored Artifacts: A-2540.1
 Mentions: N-489, N-387
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Identify the 2016 Salt Lake City expo's exhibitor list and G-Tech Industries' corporate filings and investors.
 
 ---
@@ -894,7 +888,7 @@ Transcript Snippet: So they set up a dinner back in Scottsdale, Arizona. Again, 
 
 Anchored Artifacts: A-2540.1
 Mentions: N-489, N-387
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Interview the patent holders and identify the restaurant and date of the dinner.
 
 ---
@@ -909,7 +903,7 @@ Transcript Snippet: So they were there to discuss only the patent, a potential d
 
 Anchored Artifacts: A-2540.1
 Mentions: N-489, N-387
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Search federal contracting databases for awards to Lori Frantzve-linked entities.
 
 ---
@@ -924,7 +918,7 @@ Transcript Snippet: My favorite part of the story is who strolls in unannounced 
 
 Anchored Artifacts: A-2540.1
 Mentions: N-2
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Corroborate the tipster's account with the second patent holder or other diners.
 
 ---
@@ -939,7 +933,7 @@ Transcript Snippet: Her mother says, "Oh, well, she's It's not known yet, but sh
 
 Anchored Artifacts: A-2540.1
 Mentions: N-489, N-2
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Interview the tipster about the exact words used and the dinner date.
 
 ---
@@ -954,7 +948,7 @@ Transcript Snippet: the person in retrospect thought that she was talking about 
 
 Anchored Artifacts: A-2540.1
 Mentions: N-2, N-364, N-1
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Establish dates of Erika Frantzve's relationship with Cabot Phillips from contemporaneous social-media posts.
 
 ---
@@ -969,7 +963,7 @@ Transcript Snippet: the person that was involved with this patent, eventually go
 
 Anchored Artifacts: 
 Mentions: N-341
-Related Nodes: N-10907
+Related Nodes: N-10828
 Investigative Direction: Search state and federal court dockets for litigation between Victor Marx and the patent holder.
 
 ---
@@ -1029,7 +1023,7 @@ Transcript Snippet: Like this one in the Daily Mail, "Tyler Robinson's father re
 
 Anchored Artifacts: A-2541.2
 Mentions: N-40, N-159
-Related Nodes: N-10070, N-10022
+Related Nodes: N-10067, N-10022
 Investigative Direction: Archive the Daily Mail and MSN articles with publication dates and sourcing.
 
 ---
@@ -1044,7 +1038,7 @@ Transcript Snippet: My dad wants photos of the rifle. He says grandpa wants to k
 
 Anchored Artifacts: A-2541.3
 Mentions: N-40
-Related Nodes: N-10077, N-10022
+Related Nodes: N-10074, N-10022
 Investigative Direction: Compare the message's timestamp with the time of the FBI's rifle-photo release.
 
 ---
@@ -1059,7 +1053,7 @@ Transcript Snippet: They claim that he never said that in Aspen.
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10664
+Related Nodes: N-10606
 Supports: C-8029
 Investigative Direction: Obtain the original Aspen recording with metadata for forensic audio analysis, and attendee statements.
 
@@ -1075,7 +1069,7 @@ Transcript Snippet: And you accused me of being a psychopath with with a with a 
 
 Anchored Artifacts: 
 Mentions: N-159, N-2, N-46, N-3
-Related Nodes: N-10664, N-10000
+Related Nodes: N-10606, N-10000
 Supports: C-7889
 Investigative Direction: Archive Neff's statement and Erika Kirk's Megyn Kelly interview remark on the video.
 
@@ -1091,7 +1085,7 @@ Transcript Snippet: you you put up a tent uh a recreation of a tent that Charlie
 
 Anchored Artifacts: 
 Mentions: N-1
-Related Nodes: N-10376, N-10000
+Related Nodes: N-10349, N-10000
 Supports: C-4448
 Investigative Direction: Collect AmFest photos and TPUSA event plans showing the tent recreation.
 
@@ -1121,7 +1115,7 @@ Transcript Snippet: According to her, multiple times a day she speaks to him on 
 
 Anchored Artifacts: 
 Mentions: N-60, N-5
-Related Nodes: N-10590
+Related Nodes: N-10538
 Investigative Direction: Locate Loomer's public statements on call frequency and the reported post-strike call.
 
 ---
@@ -1164,7 +1158,7 @@ Transcript Snippet: So, you can understand why she's not allowed to own guns.
 
 Anchored Artifacts: 
 Mentions: N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Investigative Direction: Check NICS-disqualifying records such as involuntary commitment orders in Florida.
 
 ---
@@ -1221,7 +1215,7 @@ Transcript Snippet: If he makes a conscious decision to tweet out that Tucker Ca
 
 Anchored Artifacts: 
 Mentions: N-5, N-22, N-46, N-3, N-60
-Related Nodes: N-10590
+Related Nodes: N-10538
 Investigative Direction: Archive the Truth Social post and its date.
 
 ---
@@ -1250,7 +1244,7 @@ Transcript Snippet: We looked they dumped 600,000 files on them in March.
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10570
+Related Nodes: N-10521
 Supports: C-7721
 Investigative Direction: Review the court's discovery orders and the defense's continuance motion.
 
@@ -1266,7 +1260,7 @@ Transcript Snippet: Remember, the the the defense said, "Let's not put a day on 
 
 Anchored Artifacts: 
 Mentions: N-2
-Related Nodes: N-10626, N-10570
+Related Nodes: N-10572, N-10521
 Investigative Direction: Obtain the hearing transcript in which the date was set.
 
 ---
@@ -1281,7 +1275,7 @@ Transcript Snippet: And they asked about where he was buried, and it was like, "
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10006, N-10751
+Related Nodes: N-10006, N-10681
 Supports: C-3904
 Investigative Direction: Archive the Fox News interview segment with its air date.
 
@@ -1297,7 +1291,7 @@ Transcript Snippet: And I I had wondered because I learned early on that she had
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10751, N-10759
+Related Nodes: N-10681
 Investigative Direction: Obtain Utah and Arizona burial-transit permits and funeral-home records.
 
 ---
@@ -1312,7 +1306,7 @@ Transcript Snippet: at first his body was taken to a place that was a a burial p
 
 Anchored Artifacts: 
 Mentions: N-1, N-2
-Related Nodes: N-10751, N-10323
+Related Nodes: N-10681, N-10193
 Investigative Direction: Identify the first funeral provider and check cremation authorization records.
 
 ---
@@ -1327,7 +1321,7 @@ Transcript Snippet: More tips at candaceowens. com. More tips at candaceowens. c
 
 Anchored Artifacts: A-2543.1
 Mentions: N-3, N-1
-Related Nodes: N-10751
+Related Nodes: N-10681
 Investigative Direction: Track tips received on the cremation question and corroborate with funeral records.
 
 ---
@@ -1356,7 +1350,7 @@ Transcript Snippet: they had some ellipses at various points in the messages tha
 
 Anchored Artifacts: 
 Mentions: N-40, N-54
-Related Nodes: N-10077
+Related Nodes: N-10074
 Investigative Direction: Compare the message text in the original charging document with the later affidavits line by line.
 
 ---
@@ -1385,7 +1379,7 @@ Transcript Snippet: Obviously, you know, Victor Marx uh did not want to join wit
 
 Anchored Artifacts: 
 Mentions: N-341, N-342
-Related Nodes: N-10613
+Related Nodes: N-10560
 Investigative Direction: Obtain the host's correspondence with Victor Marx on interview terms.
 
 ---
@@ -1520,7 +1514,7 @@ Confidence: medium
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
 - **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-8542, C-8543, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
 - **Name matching**: "Nicci"/"Niecy" are mapped to N-563 Nicey (YouTuber). "Terryl" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-261 Terryl Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-159). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-489 and N-387. "Xavier Boussard" is mapped to N-283 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
-- **Transcription ambiguities**: "Wiyre Fy" is read as the Yrefy sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
+- **Transcription ambiguities**: "Wiyre Fy" is read as the Yrefy sponsor (N-10791). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
 - **Tip reliability**: the 2016 dinner account (C-8510–C-8517) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
 - **Cross-episode links left out**: C-8535 may restate C-8434 (ep 94, Trump post mentioning "mentally ill") or C-7955 (ep 89). C-8511 may restate C-8168 or C-8332 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-8500 relates to C-4072 (ep 47, TPUSA defended the camera removal). C-8538 relates to C-8405 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.
 - **Not inscribed as claims (admission test)**:

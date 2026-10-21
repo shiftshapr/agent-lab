@@ -35,7 +35,7 @@
             "N-159",
             "N-1",
             "N-2",
-            "N-10313"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "N-159",
             "N-2",
             "N-1",
-            "N-10313"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -85,7 +85,7 @@
           ],
           "related_nodes": [
             "N-159",
-            "N-10313",
+            "N-10289",
             "N-2"
           ],
           "tags": [],
@@ -138,7 +138,7 @@
           "description": "John McCain addressing Ukraine protesters (Maidan material)",
           "related_claims": [],
           "related_nodes": [
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-3704"
           ],
           "related_nodes": [
-            "N-10311",
+            "N-10293",
             "N-307",
             "N-308"
           ],
@@ -187,7 +187,7 @@
           ],
           "related_nodes": [
             "N-307",
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,7 +206,7 @@
           ],
           "related_nodes": [
             "N-307",
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
           ],
           "related_nodes": [
             "N-307",
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
           "related_nodes": [
             "N-308",
             "N-309",
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
             "C-3704"
           ],
           "related_nodes": [
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -292,7 +292,7 @@
           ],
           "related_nodes": [
             "N-159",
-            "N-10313"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,7 +319,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10312"
+            "N-10294"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,7 +346,7 @@
           ],
           "related_nodes": [
             "N-310",
-            "N-10315"
+            "N-10296"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-3715"
           ],
           "related_nodes": [
-            "N-10314"
+            "N-10295"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-3659"
           ],
           "related_nodes": [
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -428,7 +428,7 @@
           "related_nodes": [
             "N-309",
             "N-308",
-            "N-10311"
+            "N-10293"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,7 +453,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10313"
+            "N-10289"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -644,7 +644,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ]
     },
     {
@@ -666,7 +666,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-159",
-        "N-10313"
+        "N-10289"
       ]
     },
     {
@@ -714,7 +714,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ]
     },
     {
@@ -738,7 +738,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-309",
-        "N-10311"
+        "N-10293"
       ]
     },
     {
@@ -761,7 +761,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-308",
-        "N-10311"
+        "N-10293"
       ]
     },
     {
@@ -783,7 +783,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ]
     },
     {
@@ -804,13 +804,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-159",
-        "N-10313"
+        "N-10289"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@id": "N-10293",
+      "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
       "type": "investigation_target",
       "description": "Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.",
@@ -834,7 +834,10 @@
         "C-3696",
         "C-3698",
         "C-3700",
-        "C-3659"
+        "C-3659",
+        "C-3693",
+        "C-3699",
+        "C-3701"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -849,8 +852,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10312",
-      "ref": "N-10312",
+      "@id": "N-10294",
+      "ref": "N-10294",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
       "type": "investigation_target",
       "description": "Persistent target tracking reported drop to #94 from prior top-10 status.",
@@ -871,9 +874,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10313",
-      "ref": "N-10313",
-      "name": "TPUSA December 15 Live Stream Event Verification",
+      "@id": "N-10289",
+      "ref": "N-10289",
+      "name": "TPUSA Phoenix Livestream Verification Question",
       "type": "investigation_target",
       "description": "Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.",
       "related_artifacts": [
@@ -889,7 +892,8 @@
         "C-3668",
         "C-3707",
         "C-3700",
-        "C-3663"
+        "C-3663",
+        "C-3669"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -905,8 +909,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10314",
-      "ref": "N-10314",
+      "@id": "N-10295",
+      "ref": "N-10295",
       "name": "Roof Shooter Video Witness Follow-up",
       "type": "investigation_target",
       "description": "Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.",
@@ -926,8 +930,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10315",
-      "ref": "N-10315",
+      "@id": "N-10296",
+      "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
       "type": "investigation_target",
       "description": "Persistent target tracking why Emmanuel Bierer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
@@ -1211,44 +1215,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10275",
-      "ref": "N-10275",
-      "name": "Maroon Shirt Coordination Theory",
-      "type": "investigation_target",
-      "description": "The host's theory that the maroon men were coordinated.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3693",
-        "C-3699",
-        "C-3701"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10307",
-      "ref": "N-10307",
-      "name": "TPUSA Phoenix Livestream Verification Question",
-      "type": "investigation_target",
-      "description": "The Phoenix studio setting of the live stream.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3669"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-11057",
-      "ref": "N-11057",
+      "@id": "N-10975",
+      "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
       "type": "investigation_target",
       "description": "The claims about his work for Tucker Carlson.",
@@ -1265,8 +1233,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11335",
-      "ref": "N-11335",
+      "@id": "N-11251",
+      "ref": "N-11251",
       "name": "FBI Footage Deletion Request Claim (TikTok User)",
       "type": "topic",
       "description": "The host reports that a TikTok user claimed that, after he submitted videos shot by a family member to the FBI, the FBI asked him to delete the footage. The host says she does not know whether it is true and that the same individual later sent her footage.",
@@ -1312,7 +1280,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:05:37",
@@ -1332,7 +1300,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",
@@ -1351,7 +1319,7 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
@@ -1388,7 +1356,7 @@
       "claim": "The host says that when she asked someone at UVU whether the school colors are maroon, he replied that they are green and white.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:20:07",
@@ -1405,7 +1373,7 @@
         "A-1505.6"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45–00:21:55",
@@ -1421,7 +1389,7 @@
         "A-1506.1"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:46:13",
@@ -1441,7 +1409,7 @@
         "A-1507.1"
       ],
       "related_nodes": [
-        "N-10312"
+        "N-10294"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -1460,7 +1428,7 @@
         "A-1508.1"
       ],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [],
       "claim_timestamp": "00:32:42–00:33:55",
@@ -1479,7 +1447,7 @@
         "A-1505.2"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:24:45",
@@ -1498,7 +1466,7 @@
         "A-1505.3"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00–00:25:35",
@@ -1517,7 +1485,7 @@
         "A-1505.4"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50–00:25:25",
@@ -1536,7 +1504,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30–00:28:00",
@@ -1556,7 +1524,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:28:00",
@@ -1575,7 +1543,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:27:51–00:28:00",
@@ -1593,7 +1561,7 @@
       "claim": "The host says Tyler Robinson, the alleged shooter, notoriously was wearing a maroon shirt at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:28:44",
@@ -1612,7 +1580,7 @@
         "A-1510.1"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10–00:23:45",
@@ -1628,7 +1596,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -1644,7 +1612,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
@@ -1660,7 +1628,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [],
       "claim_timestamp": "00:45:11",
@@ -1679,7 +1647,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
@@ -1695,7 +1663,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:05:40",
@@ -1715,7 +1683,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
@@ -1734,7 +1702,7 @@
         "A-3205.1"
       ],
       "related_nodes": [
-        "N-10313",
+        "N-10289",
         "N-10000"
       ],
       "tags": [
@@ -1757,7 +1725,7 @@
         "A-1501.1"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -1784,7 +1752,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313",
+        "N-10289",
         "N-10000"
       ],
       "tags": [
@@ -1809,7 +1777,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -1831,7 +1799,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -1854,7 +1822,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -1877,7 +1845,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -1900,7 +1868,7 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -1921,7 +1889,7 @@
       "claim": "The host says her most contentious and most viral debates have never been held in person.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:context"
@@ -1943,7 +1911,7 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-10313",
+        "N-10289",
         "N-10000"
       ],
       "tags": [
@@ -1967,7 +1935,7 @@
       "claim": "The host says her husband instantly told her she could not do Monday.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:context"
@@ -1990,8 +1958,7 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-10313",
-        "N-10307"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2015,7 +1982,7 @@
       "claim": "The host says that, if Erika Kirk approved the statement as Neff stated, it was approved even though it referred to critics as Antifa members.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2040,7 +2007,7 @@
       "claim": "The host says she would especially like to make the December event work if Erika Kirk is going to be there, which she calls a game changer.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2061,7 +2028,7 @@
       "claim": "The host says TPUSA spokesperson Andrew Kolvet seems to be on the road and is not correcting the attitudes coming out, and that Tyler Bowyer has been late-night tweeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313",
+        "N-10289",
         "N-10000"
       ],
       "tags": [
@@ -2083,7 +2050,7 @@
       "claim": "The host says her husband George shut down the idea that she could make December 15 work immediately and for a valid reason.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:context"
@@ -2191,7 +2158,7 @@
         "A-1505.1"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2213,8 +2180,8 @@
         "A-3206.1"
       ],
       "related_nodes": [
-        "N-11335",
-        "N-10311"
+        "N-11251",
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2236,8 +2203,8 @@
         "A-3206.1"
       ],
       "related_nodes": [
-        "N-11335",
-        "N-10311"
+        "N-11251",
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2260,7 +2227,7 @@
         "A-1510.1"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:context"
@@ -2285,7 +2252,7 @@
         "A-1505.2"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2309,7 +2276,7 @@
         "A-1505.2"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2331,7 +2298,7 @@
         "A-1505.4"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2356,7 +2323,7 @@
         "A-1505.3"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2377,7 +2344,7 @@
       "claim": "The host says none of Kasparian's family members posted anything about the assassination that she could find, even though he is active online and it happened in their backyard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:context"
@@ -2404,8 +2371,7 @@
         "A-1505.1"
       ],
       "related_nodes": [
-        "N-10275",
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2427,7 +2393,7 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:context"
@@ -2450,7 +2416,7 @@
         "A-1511.1"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2475,8 +2441,7 @@
       "claim": "The host says she thinks all of the footage has come from the maroon-shirted men and that a lot of it was then algorithmically boosted.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10275",
-        "N-10311"
+        "N-10293"
       ],
       "tags": [
         "relevance:core"
@@ -2501,8 +2466,7 @@
         "A-3207.1"
       ],
       "related_nodes": [
-        "N-10311",
-        "N-10275"
+        "N-10293"
       ],
       "tags": [
         "dia",
@@ -2523,7 +2487,7 @@
       "claim": "The host says Emmanuel Bierer is a former employee of Oracle, a software engineer, and she believes from Germany.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [
         "relevance:core"
@@ -2544,7 +2508,7 @@
       "claim": "The host says Bierer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [
         "relevance:core"
@@ -2568,7 +2532,7 @@
       "claim": "The host says Tiffany Barker said that being friends with a political figure the transcript renders as Phil Lyman was the reason she got the news hit that morning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [
         "relevance:context"
@@ -2595,7 +2559,7 @@
         "A-1508.1"
       ],
       "related_nodes": [
-        "N-10315"
+        "N-10296"
       ],
       "tags": [
         "relevance:core"
@@ -2719,7 +2683,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [
         "relevance:core"
@@ -2741,7 +2705,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [
         "relevance:core"
@@ -2763,7 +2727,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [
         "relevance:core"
@@ -2785,7 +2749,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10295"
       ],
       "tags": [
         "relevance:core"
@@ -2811,7 +2775,7 @@
         "A-3205.3"
       ],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:context"
@@ -2834,7 +2798,7 @@
         "A-3205.3"
       ],
       "related_nodes": [
-        "N-11057"
+        "N-10975"
       ],
       "tags": [
         "relevance:context"
@@ -2858,7 +2822,7 @@
         "A-1506.1"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2942,7 +2906,7 @@
       "claim": "The host says she will live stream TPUSA's live stream and respond to it live.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:context"
@@ -2962,7 +2926,7 @@
       "claim": "The host says the entire introduction to the live stream announcement was Neff speaking for ten minutes and assassinating her character.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -2983,7 +2947,7 @@
       "claim": "The host says Neff heavily implies that Erika Kirk sanctioned the statement; she says he obviously did not write it himself and that, as CEO, it would follow that Erika would have read it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:core"
@@ -3072,7 +3036,7 @@
       "claim": "The host says her husband said December 15 absolutely does not work when she went to him after seeing the text or tweet confirmation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10313"
+        "N-10289"
       ],
       "tags": [
         "relevance:context"

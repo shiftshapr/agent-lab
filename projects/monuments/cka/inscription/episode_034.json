@@ -30,7 +30,7 @@
             "C-2989"
           ],
           "related_nodes": [
-            "N-10259"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "2025 (rental period)",
@@ -48,7 +48,7 @@
             "C-2989"
           ],
           "related_nodes": [
-            "N-10259"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "2025 (rental period)",
@@ -66,7 +66,7 @@
             "C-2989"
           ],
           "related_nodes": [
-            "N-10259"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "2025",
@@ -84,7 +84,7 @@
             "C-2989"
           ],
           "related_nodes": [
-            "N-10259"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "2025",
@@ -102,7 +102,7 @@
             "C-2989"
           ],
           "related_nodes": [
-            "N-10259"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "2025",
@@ -128,7 +128,7 @@
             "C-2995"
           ],
           "related_nodes": [
-            "N-10261"
+            "N-10246"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11 (published day after assassination)",
@@ -154,7 +154,7 @@
             "C-2995"
           ],
           "related_nodes": [
-            "N-10261"
+            "N-10246"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -236,7 +236,7 @@
             "C-3028"
           ],
           "related_nodes": [
-            "N-10262"
+            "N-10247"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10 (date of shooting)",
@@ -286,7 +286,7 @@
             "C-3034"
           ],
           "related_nodes": [
-            "N-10264"
+            "N-10248"
           ],
           "tags": [],
           "event_timestamp": "2025 (publication month)",
@@ -360,7 +360,7 @@
             "C-3009"
           ],
           "related_nodes": [
-            "N-10263"
+            "N-10241"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -618,14 +618,15 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10259",
-      "ref": "N-10259",
-      "name": "Duncan Aviation Egyptian Rental Vehicle Network",
+      "@id": "N-10242",
+      "ref": "N-10242",
+      "name": "Duncan Aviation Rental Vehicle Investigation",
       "type": "investigation_target",
       "description": "Cluster of five rental vehicles identified by plate (A-1425.x); alleged connection to the SU-BTT passengers. Investigative direction: obtain Duncan Aviation rental records; cross-reference plate registration, renter IDs, and timeline against the Sept 4 plane arrival.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2989"
+        "C-2989",
+        "C-2988"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -635,8 +636,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10260",
-      "ref": "N-10260",
+      "@id": "N-10245",
+      "ref": "N-10245",
       "name": "Federal Military Aircraft Escort Protocol Verification",
       "type": "investigation_target",
       "description": "Claim by host (citing \"a high government source\") that foreign military jets cannot land on U.S. soil without federal escort and tracking. No documentary artifact supplied.",
@@ -652,8 +653,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10261",
-      "ref": "N-10261",
+      "@id": "N-10246",
+      "ref": "N-10246",
       "name": "UVU Pre-9/10 Rooftop Sightings",
       "type": "investigation_target",
       "description": "Reports by a UVU student (and reportedly a professor) of a man on the Losee Center roof in the week before the shooting (A-1426.1, A-1427.1).",
@@ -672,8 +673,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10262",
-      "ref": "N-10262",
+      "@id": "N-10247",
+      "ref": "N-10247",
       "name": "Post-Shooting Phone Call Timing Sequence",
       "type": "investigation_target",
       "description": "Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his mother (A-1429.2) and his narrative in A-1429.1 about Mikey McCoy's calls to Erika and to Rob McCoy.",
@@ -694,8 +695,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10263",
-      "ref": "N-10263",
+      "@id": "N-10241",
+      "ref": "N-10241",
       "name": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
       "type": "investigation_target",
       "description": "The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.",
@@ -714,8 +715,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10248",
+      "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
       "type": "investigation_target",
       "description": "Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's \"Stand with Israel\" / \"Why Jews are hated\" framing (A-1431.1).",
@@ -982,8 +983,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10254",
-      "ref": "N-10254",
+      "@id": "N-10240",
+      "ref": "N-10240",
       "name": "TPUSA Financial Filing Anomaly Investigation",
       "type": "investigation_target",
       "description": "TPUSA Financial Filing Anomaly Investigation; existing topic reused for new claims in this episode.",
@@ -999,8 +1000,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10207",
-      "ref": "N-10207",
+      "@id": "N-10199",
+      "ref": "N-10199",
       "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "SUBTT Flight Tracking Question; existing topic reused for new claims in this episode.",
@@ -1017,8 +1018,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10204",
-      "ref": "N-10204",
+      "@id": "N-10196",
+      "ref": "N-10196",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
       "type": "investigation_target",
       "description": "Egyptian Air Force SU-BTT Provo Mission Question; existing topic reused for new claims in this episode.",
@@ -1034,8 +1035,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Egyptian Military Plane Tracking Investigation; existing topic reused for new claims in this episode.",
@@ -1094,25 +1095,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10256",
-      "ref": "N-10256",
-      "name": "Duncan Aviation Rental Vehicle Investigation",
-      "type": "investigation_target",
-      "description": "Duncan Aviation Rental Vehicle Investigation; existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2988"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10208",
-      "ref": "N-10208",
+      "@id": "N-10200",
+      "ref": "N-10200",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "SUBND Flight Tracking Question; existing topic reused for new claims in this episode.",
@@ -1149,8 +1133,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10052",
-      "ref": "N-10052",
+      "@id": "N-10049",
+      "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
       "type": "investigation_target",
       "description": "Doorbell-Cam Footage Provenance; existing topic reused for new claims in this episode.",
@@ -1200,8 +1184,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10355",
-      "ref": "N-10355",
+      "@id": "N-10332",
+      "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
       "type": "investigation_target",
       "description": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute; existing topic reused for new claims in this episode.",
@@ -1239,8 +1223,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10165",
-      "ref": "N-10165",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
       "type": "investigation_target",
       "description": "Campus Footage Release Strategy Question; existing topic reused for new claims in this episode.",
@@ -1256,8 +1240,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10635",
-      "ref": "N-10635",
+      "@id": "N-10581",
+      "ref": "N-10581",
       "name": "Lead-up Footage Absence",
       "type": "investigation_target",
       "description": "Lead-up Footage Absence; existing topic reused for new claims in this episode.",
@@ -1275,8 +1259,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10043",
-      "ref": "N-10043",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Two-Person Theory (Maroon vs Stairs)",
       "type": "investigation_target",
       "description": "Two-Person Theory (Maroon vs Stairs); existing topic reused for new claims in this episode.",
@@ -1309,9 +1293,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10121",
-      "ref": "N-10121",
-      "name": "Eyewitness Roof-Description Discrepancy",
+      "@id": "N-10095",
+      "ref": "N-10095",
+      "name": "Shooter Description Contradiction",
       "type": "investigation_target",
       "description": "Eyewitness Roof-Description Discrepancy; existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1326,8 +1310,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10343",
-      "ref": "N-10343",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Tyler Robinson Rooftop Access Timeline; existing topic reused for new claims in this episode.",
@@ -1344,8 +1328,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10762",
-      "ref": "N-10762",
+      "@id": "N-10691",
+      "ref": "N-10691",
       "name": "\"Other Angle\" Rooftop Footage Existence",
       "type": "investigation_target",
       "description": "Other Angle Rooftop Footage Existence; existing topic reused for new claims in this episode.",
@@ -1397,8 +1381,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10146",
-      "ref": "N-10146",
+      "@id": "N-10141",
+      "ref": "N-10141",
       "name": "Phil Lyman Location Discrepancy",
       "type": "investigation_target",
       "description": "Phil Lyman Location Discrepancy; existing topic reused for new claims in this episode.",
@@ -1453,8 +1437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10646",
-      "ref": "N-10646",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
       "type": "investigation_target",
       "description": "TPUSA Rooftop Security Decision-Making Discrepancy; existing topic reused for new claims in this episode.",
@@ -1492,8 +1476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10769",
-      "ref": "N-10769",
+      "@id": "N-10698",
+      "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
       "type": "investigation_target",
       "description": "Losee Center Gun Verification Gap; existing topic reused for new claims in this episode.",
@@ -1509,8 +1493,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10267",
-      "ref": "N-10267",
+      "@id": "N-10251",
+      "ref": "N-10251",
       "name": "TPUSA Drone Disclosure Discrepancy",
       "type": "investigation_target",
       "description": "TPUSA Drone Disclosure Discrepancy; existing topic reused for new claims in this episode.",
@@ -1527,25 +1511,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10427",
-      "ref": "N-10427",
-      "name": "TPUSA Drone Story Discrepancy",
-      "type": "investigation_target",
-      "description": "TPUSA Drone Story Discrepancy; existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3018"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10645",
-      "ref": "N-10645",
+      "@id": "N-10589",
+      "ref": "N-10589",
       "name": "UVU Drone Authorization Records",
       "type": "investigation_target",
       "description": "UVU Drone Authorization Records; existing topic reused for new claims in this episode.",
@@ -1563,8 +1530,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10129",
-      "ref": "N-10129",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Orem Police Department",
       "type": "investigation_target",
       "description": "Orem Police Department; the department Harpole says has an active drone unit.",
@@ -1581,8 +1548,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Mikey McCoy Post-Shooting Phone Call Sequence; existing topic reused for new claims in this episode.",
@@ -1604,8 +1571,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Mikey McCoy Behavior Discrepancy (September 10, 2025); existing topic reused for new claims in this episode.",
@@ -1621,42 +1588,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10226",
-      "ref": "N-10226",
-      "name": "Mikey McCoy Phone Call Sequence Anomaly",
-      "type": "investigation_target",
-      "description": "Mikey McCoy Phone Call Sequence Anomaly; existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3025"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10482",
-      "ref": "N-10482",
-      "name": "Mikey McCoy Phone Call Sequence",
-      "type": "investigation_target",
-      "description": "Mikey McCoy Phone Call Sequence; existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3027"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
       "type": "investigation_target",
       "description": "Calvary Chapel Network Infiltration Question; existing topic reused for new claims in this episode.",
@@ -1708,8 +1641,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
       "description": "Calvary Chapel Institutional Abuse Pattern; existing topic reused for new claims in this episode.",
@@ -1725,8 +1658,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Donor Intimidation of Charlie Kirk; existing topic reused for new claims in this episode.",
@@ -1796,31 +1729,14 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11006",
-      "ref": "N-11006",
+      "@id": "N-10926",
+      "ref": "N-10926",
       "name": "Joyce Churnick Donor Identification",
       "type": "topic",
       "description": "The host's identification of the donor she says yelled and withdrew a million dollars after Charlie Kirk let Tucker Carlson speak at the July 2025 TPUSA event.",
       "related_artifacts": [],
       "related_claims": [
         "C-3039"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10496",
-      "ref": "N-10496",
-      "name": "Egyptian Planes Investigation",
-      "type": "investigation_target",
-      "description": "Egyptian Planes Investigation; existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-3040"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1847,8 +1763,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "2025 FARA Propaganda Timeline Convergence; existing topic reused for new claims in this episode.",
@@ -1864,8 +1780,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11007",
-      "ref": "N-11007",
+      "@id": "N-10927",
+      "ref": "N-10927",
       "name": "Alleged Shooter Residence Vehicle Cluster",
       "type": "topic",
       "description": "Viewer tips and the host's request for footage about many vehicles reportedly parked at the alleged shooter's home between September 4 and September 10, 2025, and whether they match the five rented vehicles.",
@@ -1899,8 +1815,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10549",
-      "ref": "N-10549",
+      "@id": "N-10503",
+      "ref": "N-10503",
       "name": "Egyptian Plane Transponding Correlation",
       "type": "investigation_target",
       "description": "Egyptian Plane Transponding Correlation; existing topic reused for new claims in this episode.",
@@ -1930,7 +1846,7 @@
         "A-1425.5"
       ],
       "related_nodes": [
-        "N-10259"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:07:12",
@@ -1950,7 +1866,7 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:12:01",
@@ -1986,7 +1902,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10262"
+        "N-10247"
       ],
       "tags": [],
       "claim_timestamp": "00:32:25",
@@ -2006,7 +1922,7 @@
         "A-1429.2"
       ],
       "related_nodes": [
-        "N-10262"
+        "N-10247"
       ],
       "tags": [],
       "claim_timestamp": "00:36:37",
@@ -2027,7 +1943,7 @@
         "A-1430.1"
       ],
       "related_nodes": [
-        "N-10264"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
@@ -2049,7 +1965,7 @@
         "A-1431.1"
       ],
       "related_nodes": [
-        "N-10264"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:41:07",
@@ -2065,7 +1981,7 @@
         "A-1432.1"
       ],
       "related_nodes": [
-        "N-10259"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:01:55",
@@ -2099,7 +2015,7 @@
         "A-1434.1"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:20:20",
@@ -2116,7 +2032,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10254"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:01:11",
@@ -2134,8 +2050,8 @@
       "claim": "The host says she has confirmed a full flight, SU-BTT, landed in Utah six days before Charlie Kirk's assassination and that 12 to 14 \"quote unquote\" Egyptians deplaned on September 4th.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10207",
-        "N-10204"
+        "N-10199",
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:03:02",
@@ -2159,8 +2075,8 @@
         "A-2715.1"
       ],
       "related_nodes": [
-        "N-10260",
-        "N-10253"
+        "N-10245",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:04:15",
@@ -2180,8 +2096,8 @@
         "A-2715.1"
       ],
       "related_nodes": [
-        "N-10260",
-        "N-10253"
+        "N-10245",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:04:58",
@@ -2203,7 +2119,7 @@
       "claim": "The host says Charlie Kirk had a photographic memory and loved military planes, so she considers it highly likely he would have recognized an Egyptian jet circling around him and Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:04:58",
@@ -2225,8 +2141,7 @@
         "A-2716.1"
       ],
       "related_nodes": [
-        "N-10259",
-        "N-10256"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:06:09",
@@ -2247,8 +2162,8 @@
       "claim": "The host says the Egyptians were not on the plane on the way out and waited for the second Egyptian military plane, SU-BND, to take them back home.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10207",
-        "N-10208"
+        "N-10199",
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:09:06",
@@ -2272,8 +2187,8 @@
       ],
       "related_nodes": [
         "N-10011",
-        "N-10052",
-        "N-10259"
+        "N-10049",
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:09:06",
@@ -2291,7 +2206,7 @@
       "claim": "The host says the press reported that Joe Kent and Tulsi Gabbard were warring with the FBI or with Kash Patel and says they could look into the rental vehicles in the footage.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10355"
+        "N-10332"
       ],
       "tags": [],
       "claim_timestamp": "00:10:12",
@@ -2313,8 +2228,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
-        "N-10165",
-        "N-10635"
+        "N-10158",
+        "N-10581"
       ],
       "tags": [],
       "claim_timestamp": "00:10:12",
@@ -2333,8 +2248,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10011",
-        "N-10635",
-        "N-10043"
+        "N-10581",
+        "N-10040"
       ],
       "tags": [],
       "claim_timestamp": "00:10:59",
@@ -2354,7 +2269,7 @@
         "A-1426.1"
       ],
       "related_nodes": [
-        "N-10261",
+        "N-10246",
         "N-10012"
       ],
       "tags": [],
@@ -2378,7 +2293,7 @@
         "A-1426.1"
       ],
       "related_nodes": [
-        "N-10261",
+        "N-10246",
         "N-10014"
       ],
       "tags": [],
@@ -2402,7 +2317,7 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00",
@@ -2422,15 +2337,15 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261",
-        "N-10121"
+        "N-10246",
+        "N-10095"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Re-interview the student and show him the released photographs and video stills.",
       "transcript_snippet": "I don't think I remember enough to really definitively say that the guy I saw is the guy in the pictures",
       "mentions_person_refs": [
-        "N-10121"
+        "N-10095"
       ]
     },
     {
@@ -2443,7 +2358,7 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261",
+        "N-10246",
         "N-10012"
       ],
       "tags": [],
@@ -2464,15 +2379,15 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261",
-        "N-10343"
+        "N-10246",
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Obtain UVU building plans and access logs for the CS concourse and roof access points.",
       "transcript_snippet": "Um my bet would be that that's how the shooter got onto the wazi center roof because that's one of a few ways I know of.",
       "mentions_person_refs": [
-        "N-10343"
+        "N-10321"
       ]
     },
     {
@@ -2485,7 +2400,7 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:16:04",
@@ -2505,7 +2420,7 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:16:44",
@@ -2525,7 +2440,7 @@
         "A-1426.1"
       ],
       "related_nodes": [
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:16:44",
@@ -2545,7 +2460,7 @@
         "A-2719.1"
       ],
       "related_nodes": [
-        "N-10261"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:17:33",
@@ -2563,8 +2478,8 @@
       "claim": "The host says every time she chases leads about the rooftop she is brought to a military person, and she reasons that if the shooting happened on September 10 there would be multiple angles that authorities would have released.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10762",
-        "N-10343"
+        "N-10691",
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:17:33",
@@ -2584,9 +2499,9 @@
         "A-2718.1"
       ],
       "related_nodes": [
-        "N-10259",
+        "N-10242",
         "N-10011",
-        "N-10146"
+        "N-10141"
       ],
       "tags": [],
       "claim_timestamp": "00:18:28",
@@ -2609,7 +2524,7 @@
       ],
       "related_nodes": [
         "N-10011",
-        "N-10635"
+        "N-10581"
       ],
       "tags": [],
       "claim_timestamp": "00:18:28",
@@ -2631,7 +2546,7 @@
         "A-2719.2"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:21:15",
@@ -2651,7 +2566,7 @@
         "A-1428.1"
       ],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [],
       "claim_timestamp": "00:23:53",
@@ -2673,7 +2588,7 @@
         "A-1428.1"
       ],
       "related_nodes": [
-        "N-10646",
+        "N-10590",
         "N-10012"
       ],
       "tags": [],
@@ -2695,7 +2610,7 @@
         "A-1428.2"
       ],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [],
       "claim_timestamp": "00:24:53",
@@ -2717,7 +2632,7 @@
       ],
       "related_nodes": [
         "N-10012",
-        "N-10769"
+        "N-10698"
       ],
       "tags": [],
       "claim_timestamp": "00:24:53",
@@ -2735,7 +2650,7 @@
       "claim": "The host says Charlie Kirk was paying millions and millions of dollars annually for his security.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10646"
+        "N-10590"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
@@ -2775,9 +2690,8 @@
         "A-1428.1"
       ],
       "related_nodes": [
-        "N-10267",
-        "N-10427",
-        "N-10645"
+        "N-10251",
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:29:05",
@@ -2797,9 +2711,9 @@
         "A-1428.1"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-10267",
-        "N-10645"
+        "N-10124",
+        "N-10251",
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
@@ -2819,8 +2733,8 @@
         "A-1428.1"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-10645"
+        "N-10124",
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:29:59",
@@ -2843,7 +2757,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:32:53",
@@ -2865,7 +2779,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:32:53",
@@ -2886,7 +2800,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10198"
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:34:05",
@@ -2907,8 +2821,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10338",
-        "N-10226"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:34:05",
@@ -2930,7 +2843,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:34:05",
@@ -2952,8 +2865,7 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10338",
-        "N-10482"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:34:05",
@@ -2975,8 +2887,8 @@
         "A-1429.2"
       ],
       "related_nodes": [
-        "N-10262",
-        "N-10338"
+        "N-10247",
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:36:37",
@@ -3000,8 +2912,8 @@
         "A-1429.2"
       ],
       "related_nodes": [
-        "N-10262",
-        "N-10338"
+        "N-10247",
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:36:37",
@@ -3027,7 +2939,7 @@
         "A-1430.1"
       ],
       "related_nodes": [
-        "N-10264"
+        "N-10248"
       ],
       "tags": [],
       "claim_timestamp": "00:39:46",
@@ -3049,8 +2961,8 @@
         "A-1431.1"
       ],
       "related_nodes": [
-        "N-10264",
-        "N-10248"
+        "N-10248",
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:40:39",
@@ -3069,8 +2981,8 @@
       "claim": "The host says Benjamin Netanyahu is involved in the Calvary Chapel churches and that she will cover it the next day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10264",
-        "N-10248"
+        "N-10248",
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:42:02",
@@ -3089,7 +3001,7 @@
       "claim": "The host says Bob Coy, a pastor from Fort Lauderdale not to be confused with Rob McCoy, got into a little bit of a scandal with sexual abuse, and that his relationship with Netanyahu will be covered tomorrow.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10246"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:42:02",
@@ -3109,7 +3021,7 @@
       "claim": "The host says Charlie told Tucker Carlson to go Max at the TPUSA Student Action Summit last July, that Tucker said Israel should not be worshiped and the Epstein files should be released, and that this caused a donor meltdown.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
+        "N-10044",
         "N-10025"
       ],
       "tags": [],
@@ -3137,7 +3049,7 @@
         "A-2721.1"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45",
@@ -3163,8 +3075,8 @@
         "A-2721.1"
       ],
       "related_nodes": [
-        "N-10047",
-        "N-11006"
+        "N-10044",
+        "N-10926"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45",
@@ -3185,8 +3097,7 @@
       "claim": "The host says she has an indication as to why the Egyptian planes were following Erika, which she wants to thoroughly vet before airing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10496"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:49:25",
@@ -3209,7 +3120,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
-        "N-10662"
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:49:25",
@@ -3230,8 +3141,8 @@
         "A-2715.1"
       ],
       "related_nodes": [
-        "N-10260",
-        "N-10253"
+        "N-10245",
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:51:06",
@@ -3255,8 +3166,8 @@
         "A-2720.2"
       ],
       "related_nodes": [
-        "N-11007",
-        "N-10259"
+        "N-10927",
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:51:06",
@@ -3276,8 +3187,8 @@
         "A-2720.2"
       ],
       "related_nodes": [
-        "N-11007",
-        "N-10259"
+        "N-10927",
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:51:51",
@@ -3364,8 +3275,8 @@
       "claim": "The host says in the coming episode she will show a picture bearing on why the SU-BND jet might have been transponding without moving at Duncan Aviation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10208",
-        "N-10549"
+        "N-10200",
+        "N-10503"
       ],
       "tags": [],
       "claim_timestamp": "00:54:21",

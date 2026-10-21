@@ -174,8 +174,8 @@
           "related_nodes": [
             "N-515",
             "N-2",
-            "N-10466",
-            "N-10469"
+            "N-10435",
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -255,7 +255,7 @@
             "C-5944"
           ],
           "related_nodes": [
-            "N-10466"
+            "N-10435"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -281,7 +281,7 @@
             "C-5952"
           ],
           "related_nodes": [
-            "N-10467"
+            "N-10436"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -308,7 +308,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10466"
+            "N-10435"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -335,7 +335,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-11014"
+            "N-10934"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -470,7 +470,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ]
     },
     {
@@ -569,13 +569,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10467"
+        "N-10436"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10466",
-      "ref": "N-10466",
+      "@id": "N-10435",
+      "ref": "N-10435",
       "name": "Cardinal Stadium RV Show Booking Question",
       "type": "investigation_target",
       "description": "Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?",
@@ -593,13 +593,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10469"
+        "N-10438"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10467",
-      "ref": "N-10467",
+      "@id": "N-10436",
+      "ref": "N-10436",
       "name": "TPUSA Donor Targeting Pattern Question",
       "type": "investigation_target",
       "description": "Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?",
@@ -625,8 +625,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10468",
-      "ref": "N-10468",
+      "@id": "N-10437",
+      "ref": "N-10437",
       "name": "Father Blank September 10 Mass Cancellation Question",
       "type": "investigation_target",
       "description": "Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.",
@@ -645,11 +645,11 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10469",
-      "ref": "N-10469",
+      "@id": "N-10438",
+      "ref": "N-10438",
       "name": "$6 Million Memorial Cost Claim Verification Question",
       "type": "investigation_target",
-      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10466).",
+      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10435).",
       "related_artifacts": [
         "A-1709.1"
       ],
@@ -662,7 +662,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10466"
+        "N-10435"
       ]
     },
     {
@@ -988,8 +988,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10059",
-      "ref": "N-10059",
+      "@id": "N-10056",
+      "ref": "N-10056",
       "name": "PBD Podcast",
       "type": "investigation_target",
       "description": "PBD Podcast; the donor networked with people orbiting it.",
@@ -1005,8 +1005,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Daily Mail; publisher of the grief-policing article.",
@@ -1022,8 +1022,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Existing topic reused: TPUSA Faith / Christian Zionist infiltration question.",
@@ -1040,8 +1040,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Epstein Files Release Status; context for the host's Bondi remark.",
@@ -1057,8 +1057,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10439",
-      "ref": "N-10439",
+      "@id": "N-10408",
+      "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
       "type": "investigation_target",
       "description": "TPUSA Termination Cause Investigation; reused for the firing claims.",
@@ -1074,8 +1074,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10492",
-      "ref": "N-10492",
+      "@id": "N-10456",
+      "ref": "N-10456",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
       "type": "investigation_target",
       "description": "TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test claim.",
@@ -1091,8 +1091,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10653",
-      "ref": "N-10653",
+      "@id": "N-10595",
+      "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
       "type": "investigation_target",
       "description": "Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geofencing claim.",
@@ -1108,8 +1108,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10869",
-      "ref": "N-10869",
+      "@id": "N-10790",
+      "ref": "N-10790",
       "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
       "type": "investigation_target",
       "description": "Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lago gala context.",
@@ -1126,8 +1126,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10899",
-      "ref": "N-10899",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Paramount Tactical; the host says it is part of TPUSA's paid orbit.",
@@ -1144,8 +1144,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11014",
-      "ref": "N-11014",
+      "@id": "N-10934",
+      "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
       "type": "investigation_target",
       "description": "TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims.",
@@ -1164,9 +1164,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11035",
-      "ref": "N-11035",
-      "name": "TPUSA Employee Purge and Leak Hunt",
+      "@id": "N-11002",
+      "ref": "N-11002",
+      "name": "TPUSA Leak Hunt and Employee Firings",
       "type": "investigation_target",
       "description": "TPUSA Employee Purge and Leak Hunt; reused for the firing claims.",
       "related_artifacts": [],
@@ -1182,8 +1182,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@id": "N-11098",
+      "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
       "type": "organization",
       "description": "The crisis PR team the host says Erika Kirk told her TPUSA hired because of Andrew Kolvet's mistakes.",
@@ -1199,8 +1199,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11183",
-      "ref": "N-11183",
+      "@id": "N-11099",
+      "ref": "N-11099",
       "name": "Kolvet Alex Clark Interview Account Dispute",
       "type": "topic",
       "description": "The dispute over Kolvet's interview with Alex Clark: the donor and the host call it untruthful, Erika Kirk allegedly said Kolvet went rogue, and a former staffer says he texted Erika during it.",
@@ -1305,7 +1305,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [],
       "claim_timestamp": "00:13:09",
@@ -1381,8 +1381,8 @@
         "A-1709.1"
       ],
       "related_nodes": [
-        "N-10466",
-        "N-10469"
+        "N-10435",
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:24:55",
@@ -1419,7 +1419,7 @@
         "A-1712.1"
       ],
       "related_nodes": [
-        "N-10466"
+        "N-10435"
       ],
       "tags": [],
       "claim_timestamp": "00:25:29",
@@ -1436,7 +1436,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [],
       "claim_timestamp": "00:31:32",
@@ -1487,7 +1487,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11182"
+        "N-11098"
       ],
       "tags": [
         "relevance:core"
@@ -1509,7 +1509,7 @@
       "claim": "The host says Turning Point USA has enough money to pay an entire orbit of people to push its talking points, and names Paramount Tactical as one of them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899",
+        "N-10820",
         "N-10000"
       ],
       "tags": [
@@ -1532,7 +1532,7 @@
         "A-1704.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [
         "relevance:context"
@@ -1651,7 +1651,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:context"
@@ -1698,7 +1698,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:context"
@@ -1707,7 +1707,7 @@
       "investigative_direction": "Check the donor's donation or event history with TPUSA; the host later says the donor is extraordinarily wealthy (00:21:52).",
       "transcript_snippet": "I was at the memorial having zero personal or prior involvement or engagement with Turning Point USA or anyone from there.",
       "mentions_person_refs": [
-        "N-10467"
+        "N-10436"
       ]
     },
     {
@@ -1720,7 +1720,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-11183"
+        "N-11099"
       ],
       "tags": [
         "relevance:context"
@@ -1807,7 +1807,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -1855,7 +1855,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -1878,7 +1878,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467",
+        "N-10436",
         "N-10000"
       ],
       "tags": [
@@ -1899,7 +1899,7 @@
       "claim": "The host says Stacy Sheridan's job is to know everything about a person before they are seated, including their net worth and their parents' net worth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -1919,7 +1919,7 @@
       "claim": "The host says Sheridan would whisper in Charlie Kirk's ear about a person, after which Charlie would go have the conversation, and that this was the whole reason TPUSA brought her on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -1942,7 +1942,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -1962,7 +1962,7 @@
       "claim": "The host says the donor's father sold a huge business, the donor runs a massive business, and the family is extraordinarily wealthy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -2028,7 +2028,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10059"
+        "N-10056"
       ],
       "tags": [
         "relevance:core"
@@ -2051,7 +2051,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467",
+        "N-10436",
         "N-10002"
       ],
       "tags": [
@@ -2074,7 +2074,7 @@
         "A-1709.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -2097,7 +2097,7 @@
         "A-1709.1"
       ],
       "related_nodes": [
-        "N-10469"
+        "N-10438"
       ],
       "tags": [
         "relevance:core"
@@ -2121,7 +2121,7 @@
       "claim": "The host says she has been told a couple of times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10466",
+        "N-10435",
         "N-10002"
       ],
       "tags": [
@@ -2147,7 +2147,7 @@
         "A-2928.1"
       ],
       "related_nodes": [
-        "N-10466"
+        "N-10435"
       ],
       "tags": [
         "relevance:core"
@@ -2167,7 +2167,7 @@
       "claim": "The host says that TPUSA obviously made a ton of money, that they geofenced everybody's phones, and that she cannot imagine what selling that data would have been worth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10653",
+        "N-10595",
         "N-10000",
         "N-10002"
       ],
@@ -2189,7 +2189,7 @@
       "claim": "The host says that, if she is correct, the priest also cancelled his mass on September 10, and later says she would like to know more.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10468"
+        "N-10437"
       ],
       "tags": [
         "relevance:core"
@@ -2212,7 +2212,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -2260,7 +2260,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467",
+        "N-10436",
         "N-10000"
       ],
       "tags": [
@@ -2283,7 +2283,7 @@
         "A-1713.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -2303,8 +2303,8 @@
       "claim": "The host says that, according to the donor, Dr. Frank Turek was on stage at the Mar-a-Lago TPUSA event, and that the host says he softened the message because the room was Jewish.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10869",
-        "N-10209"
+        "N-10790",
+        "N-10201"
       ],
       "tags": [
         "relevance:context"
@@ -2324,13 +2324,13 @@
       "claim": "The host says Mar-a-Lago is like little Israel and is a place where a lot of meetings with Zionist donors take place.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10869"
+        "N-10790"
       ],
       "tags": [
         "relevance:tangential"
       ],
       "claim_timestamp": "00:33:02",
-      "investigative_direction": "Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10869.",
+      "investigative_direction": "Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10790.",
       "transcript_snippet": "it's where a lot of the meetings take place. The Zionist donors, you know, Prager, you doing a gala down there makes perfect sense.",
       "mentions_person_refs": [
         "N-3"
@@ -2346,8 +2346,8 @@
         "A-1713.1"
       ],
       "related_nodes": [
-        "N-10209",
-        "N-10467"
+        "N-10201",
+        "N-10436"
       ],
       "tags": [
         "relevance:context"
@@ -2356,7 +2356,7 @@
       "investigative_direction": "Check for any TPUSA Catholic outreach launched afterward and the donor's account of the exchange.",
       "transcript_snippet": "And he kind of kicks the can down the road and says, \"Oh, we're going to we're planning on doing stuff in the future.\"",
       "mentions_person_refs": [
-        "N-10467"
+        "N-10436"
       ]
     },
     {
@@ -2369,7 +2369,7 @@
         "A-1713.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -2391,7 +2391,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10467"
+        "N-10436"
       ],
       "tags": [
         "relevance:core"
@@ -2434,8 +2434,8 @@
       "claim": "The host says people at TPUSA are firing employees without cause through loyalty tests because they were talking to Uber drivers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11035",
-        "N-10492",
+        "N-11002",
+        "N-10456",
         "N-10000"
       ],
       "tags": [
@@ -2504,7 +2504,7 @@
       "claim": "The host says that Pam Bondi protected Jeffrey Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2608,7 +2608,7 @@
       "claim": "The host says she realized Kolvet was the one organizing the Paramount Tactical and also the Alex Jones.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10820"
       ],
       "tags": [
         "relevance:core"
@@ -2634,8 +2634,8 @@
       "claim": "The host says she has now confirmed with people who were fired for no reason that it was Andrew Kolvet the whole time.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10439",
-        "N-11035"
+        "N-10408",
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -2658,7 +2658,7 @@
         "A-2929.1"
       ],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -2680,7 +2680,7 @@
         "A-2929.1"
       ],
       "related_nodes": [
-        "N-11014"
+        "N-10934"
       ],
       "tags": [
         "relevance:context"
@@ -2702,7 +2702,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-11183"
+        "N-11099"
       ],
       "tags": [
         "relevance:core"
@@ -2722,7 +2722,7 @@
       "claim": "The host says Erika Kirk told her to her face that Kolvet went rogue in the Alex Clark interview and that this was not true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11183"
+        "N-11099"
       ],
       "tags": [
         "relevance:core"
@@ -2745,7 +2745,7 @@
       "claim": "The host says Kolvet was texting Erika during the Alex Clark interview, according to a person who worked in his office and no longer does.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11183"
+        "N-11099"
       ],
       "tags": [
         "relevance:core"

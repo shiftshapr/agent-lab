@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-765, N-766, N-768, N-11123, N-11124, N-11125, N-11127
-  - Hole-minted Nodes (reintro-ep063): N-10492
-  - Tip-minted Nodes (reintro-ep063): N-10905
+  - Tip-minted Nodes (supplement_2026-10b): N-765, N-766, N-768, N-11041, N-11042, N-11043, N-11045
+  - Hole-minted Nodes (reintro-ep063): N-10456
+  - Tip-minted Nodes (reintro-ep063): N-10826
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5600–C-5682
-  - New Nodes Introduced: N-495, N-10443, N-10444, N-10445
-  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-767, N-10968, N-11126, N-11122
+  - New Nodes Introduced: N-495, N-10412, N-10413, N-10414
+  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10189, N-10201, N-10203, N-10193, N-10318, N-10386, N-10392, N-10395, N-10408, N-10820, N-10952, N-767, N-10889, N-11044, N-11040
   - (see registers)
 
 # Episode 63 – Analysis Record
@@ -39,7 +39,7 @@
 Episode 63 Ledger Summary:
 - Artifact Families Introduced: A-1676, A-1677, A-1678, A-1679, A-1680, A-1681, A-1682, A-1683, A-1684, A-1685
 - New Person Nodes Introduced: N-456, N-495
-- New Investigation Target Nodes Introduced: N-10443, N-10444, N-10445
+- New Investigation Target Nodes Introduced: N-10412, N-10413, N-10414
 - Existing Nodes Reused: N-2
 
 ---
@@ -78,7 +78,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:47
 
-*Related: C-5624, N-2, N-10443*
+*Related: C-5624, N-2, N-10412*
 
 **A-1676.3** Erika Kirk discussing "Vision 2030" – stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is "excited."
 
@@ -86,7 +86,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:47
 
-*Related: C-5629, C-5630, N-2, N-15, N-10444*
+*Related: C-5629, C-5630, N-2, N-15, N-10413*
 
 ---
 
@@ -135,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-5660, N-495, N-10445*
+*Related: C-5660, N-495, N-10414*
 
 ---
 
@@ -148,7 +148,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-5660, N-495, N-10445*
+*Related: C-5660, N-495, N-10414*
 
 ---
 
@@ -268,7 +268,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:45
 
-*Related: N-2, N-10443*
+*Related: N-2, N-10412*
 
 **A-1685.11** Comment from "Jess Happy" – "And to think that all I thought about on September 10th was how empty and terrified Erika must feel and how sad I was for those babies. How ironic crisis can keep going, Candace."
 
@@ -391,9 +391,9 @@ Evidence Count: 3
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1680.1, A-1681.1, A-1682.1, C-5660, C-5663, N-10445*
+*Related: A-1680.1, A-1681.1, A-1682.1, C-5660, C-5663, N-10414*
 
-**N-10443** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
+**N-10412** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
 
 Persistent investigative target: tonal and temporal gap between Erika Kirk's upbeat call presentation and the recency of Charlie Kirk's public assassination.
 
@@ -403,7 +403,7 @@ Episode Count: 1
 Investigative Pressure: High
 *Related: A-1676.1, A-1676.2, A-1685.10, C-5617, C-5624, N-2*
 
-**N-10444** TPUSA Vision 2030 Documentation Verification
+**N-10413** TPUSA Vision 2030 Documentation Verification
 
 Persistent investigative target: verification of Erika Kirk's claim that Charlie was working on a 2030 strategic plan with Justin and that she possesses his journals documenting it.
 
@@ -413,7 +413,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1676.3, C-5629, C-5630, N-2, N-15*
 
-**N-10445** Christian Zionist Threat Message Authorship Verification
+**N-10414** Christian Zionist Threat Message Authorship Verification
 
 Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Laurie Cardoza-Moore via audio voice match.
 
@@ -544,7 +544,7 @@ First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Mo
 
 ---
 
-**N-11122** Creative Children's Academy / Quest Academy
+**N-11040** Creative Children's Academy / Quest Academy
 
 Node Type: Organization
 Gifted school for preschool through eighth grade, opened in 1982 and renamed Quest Academy in 1999 per the host, who calls it Charlie Kirk's 'X-Men school'; near Palatine, Illinois.
@@ -553,7 +553,7 @@ Gifted school for preschool through eighth grade, opened in 1982 and renamed Que
 
 ---
 
-**N-11123** Northrop Grumman
+**N-11041** Northrop Grumman
 
 Node Type: Organization
 Aerospace and defense contractor the host says is a stone's throw from the academy.
@@ -562,7 +562,7 @@ Aerospace and defense contractor the host says is a stone's throw from the acade
 
 ---
 
-**N-11124** Shaklee Corporation
+**N-11042** Shaklee Corporation
 
 Node Type: Organization
 Supplement company (transcribed 'Shackley') the host says employed Helene Bartz, with an evangelical sales force and a long NASA contract.
@@ -571,7 +571,7 @@ Supplement company (transcribed 'Shackley') the host says employed Helene Bartz,
 
 ---
 
-**N-11125** NASA
+**N-11043** NASA
 
 Node Type: Organization
 Agency the host connects to the Shaklee contract, the moon landing and mass poisoning theories.
@@ -580,7 +580,7 @@ Agency the host connects to the Shaklee contract, the moon landing and mass pois
 
 ---
 
-**N-11126** Operation Paperclip
+**N-11044** Operation Paperclip
 
 Node Type: Topic
 Post-WWII program the host says brought German scientists to the US; invoked in her moon-landing and mind-control commentary.
@@ -589,7 +589,7 @@ Post-WWII program the host says brought German scientists to the US; invoked in 
 
 ---
 
-**N-11127** Kanye West Public Apology
+**N-11045** Kanye West Public Apology
 
 Node Type: Topic
 Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizing for harm he caused, as discussed by the host.
@@ -625,7 +625,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10197** TPUSA Military-Personnel Network
+**N-10189** TPUSA Military-Personnel Network
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -634,7 +634,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -643,7 +643,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10211** Lincoln, Nebraska TPUSA Chapter Origin Question
+**N-10203** Lincoln, Nebraska TPUSA Chapter Origin Question
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -652,7 +652,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -661,7 +661,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+**N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -670,7 +670,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10413** Project Looking Glass Allegation
+**N-10386** Project Looking Glass Allegation
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -679,7 +679,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10419** Erika China Residence Discrepancy
+**N-10392** Erika Kirk China Timeline Discrepancy
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -688,7 +688,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10422** GATE / Gifted Education Program Investigation
+**N-10395** GATE / Gifted Education Program Investigation
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -697,16 +697,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10428** Erika Kirk China Timeline Discrepancy
-
-Node Type: Topic
-Reused existing node; cited by the new claims in this supplement.
-
-*Related: C-5673*
-
----
-
-**N-10439** TPUSA Termination Cause Investigation
+**N-10408** TPUSA Termination Cause Investigation
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -715,7 +706,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern
+**N-10456** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -724,7 +715,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Node Type: Organization
 Reused existing node; cited by the new claims in this supplement.
@@ -733,7 +724,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+**N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -742,7 +733,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10968** The New York Times
+**N-10889** The New York Times
 
 Node Type: Organization
 Reused existing node; cited by the new claims in this supplement.
@@ -751,7 +742,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-11033** Project Monarch
+**N-10952** Project Monarch
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -768,7 +759,7 @@ Claim Timestamp: 00:11:24
 Claim: In a clip of the TPUSA corporate-wide Zoom call that the host plays, Erika Kirk opens by thanking staff and citing memorial metrics including 275,000 attendees and broadcast reach of "over 100 million"; the host describes the call's tone as upbeat, with laughter.
 Anchored Artifacts: A-1676.1
 Mentions: N-2
-Related Nodes: N-10443
+Related Nodes: N-10412
 Investigative Direction: Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.
 
 **C-5619** Erika Kirk stated staff worked 20-hour days during the week of the memorial
@@ -785,7 +776,7 @@ Claim Timestamp: 00:17:30
 Claim: In a clip the host plays, Erika Kirk tells employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also saying that leadership provided counselors, pastors and, she heard, therapy dogs during the memorial period.
 Anchored Artifacts: A-1676.2
 Mentions: N-2
-Related Nodes: N-10443
+Related Nodes: N-10412
 Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.
 
 **C-5629** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
@@ -794,7 +785,7 @@ Claim Timestamp: 00:20:47
 Claim: In a clip the host plays, Erika Kirk states Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
 Anchored Artifacts: A-1676.3
 Mentions: N-2, N-15
-Related Nodes: N-10444
+Related Nodes: N-10413
 Investigative Direction: Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.
 
 **C-5630** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
@@ -803,7 +794,7 @@ Claim Timestamp: 00:20:47
 Claim: In a clip the host plays, Erika Kirk states: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
 Anchored Artifacts: A-1676.3
 Mentions: N-2
-Related Nodes: N-10444
+Related Nodes: N-10413
 Investigative Direction: Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel.
 
 **C-5622** Erika Kirk used the phrase "Turning Point USA 2.0"
@@ -844,7 +835,7 @@ Claim Timestamp: 00:38:50
 Claim: The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.
 Anchored Artifacts: A-1680.1, A-1681.1
 Mentions: N-495, N-22
-Related Nodes: N-10445
+Related Nodes: N-10414
 Investigative Direction: Obtain independent forensic voice comparison; verify Laurie Cardoza-Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
 **C-5663** Host Says Internet Sleuths Found Laurie Cardoza-Moore's Background in Acting and Romance Hotlines
@@ -936,7 +927,7 @@ Transcript Snippet: especially the recent bout of paranoia where we had a bunch 
 
 Anchored Artifacts: A-1676.1
 Mentions: N-3, N-2
-Related Nodes: N-10000, N-10439, N-10492
+Related Nodes: N-10000, N-10408, N-10456
 Tags: relevance:core
 Investigative Direction: Obtain termination notices or severance paperwork for staff who worked on the memorial and check the stated reasons and dates.
 
@@ -984,7 +975,7 @@ Transcript Snippet: it's also less than 48 hours about 48 hours after his uh pri
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10323
+Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Establish the date, venue and attendee list of the funeral mass through the church or TPUSA statements.
 
@@ -1000,7 +991,7 @@ Transcript Snippet: Um but top paying donors were that's also odd.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10323, N-10000
+Related Nodes: N-10193, N-10000
 Tags: relevance:core
 Investigative Direction: Identify which donors attended the funeral mass and how invitations were issued.
 
@@ -1016,7 +1007,7 @@ Transcript Snippet: You remember I had to go away to Wyoming just to breathe.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10905
+Related Nodes: N-10826
 Tags: relevance:context
 Investigative Direction: Check the host's own timeline of travel and posting during September 2025 against public posts.
 
@@ -1032,7 +1023,7 @@ Transcript Snippet: The president's tone she said was soft and embracing. I coul
 
 Anchored Artifacts: A-1679.1
 Mentions: N-2, N-3
-Related Nodes: N-10905, N-10968
+Related Nodes: N-10826, N-10889
 Tags: relevance:core
 Investigative Direction: Locate the original New York Times article and confirm the wording and the date of the interview.
 
@@ -1048,7 +1039,7 @@ Transcript Snippet: now left to care for a three-year-old daughter and a one-yea
 
 Anchored Artifacts: A-1679.1
 Mentions: N-2
-Related Nodes: N-10905, N-10968
+Related Nodes: N-10826, N-10889
 Tags: relevance:context
 Investigative Direction: Confirm the children's ages in the published article and against other reporting.
 
@@ -1064,7 +1055,7 @@ Transcript Snippet: On the 20th, we have the funeral mass which is held at a chu
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10323, N-10002
+Related Nodes: N-10193, N-10002
 Tags: relevance:core
 Investigative Direction: Confirm the funeral mass date, time and venue through the church or contemporaneous reporting.
 
@@ -1144,7 +1135,7 @@ Transcript Snippet: I know several staff that didn't even sleep.
 
 Anchored Artifacts: A-1676.1
 Mentions: N-2
-Related Nodes: N-10000, N-10439
+Related Nodes: N-10000, N-10408
 Tags: relevance:core
 Investigative Direction: Interview staff who worked on the memorial about hours and sleep, and compare with payroll or badge records.
 
@@ -1240,7 +1231,7 @@ Transcript Snippet: So basically what the employees said to me was that they got
 
 Anchored Artifacts: A-1676.2
 Mentions: N-3, N-2
-Related Nodes: N-10000, N-10443
+Related Nodes: N-10000, N-10412
 Tags: relevance:core
 Investigative Direction: Interview employees who were on the call, preferably on the record, about how the paid time off message was received.
 
@@ -1256,7 +1247,7 @@ Transcript Snippet: I remember phone calls when Charlie and I would take our nig
 
 Anchored Artifacts: A-1676.3
 Mentions: N-2, N-1, N-15
-Related Nodes: N-10444
+Related Nodes: N-10413
 Tags: relevance:core
 Investigative Direction: Ask Justin Streiff and TPUSA board members to confirm the 2030 planning conversations and the timing of his COO appointment.
 
@@ -1272,7 +1263,7 @@ Transcript Snippet: the board and I are working with Justin and the executive le
 
 Anchored Artifacts: A-1676.3
 Mentions: N-2, N-15
-Related Nodes: N-10444, N-10000
+Related Nodes: N-10413, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain board minutes and executive team announcements on the 2030 plan.
 
@@ -1288,7 +1279,7 @@ Transcript Snippet: And it's weird to say I'm excited. I I really hesitate sayin
 
 Anchored Artifacts: A-1676.3
 Mentions: N-2
-Related Nodes: N-10000, N-10443
+Related Nodes: N-10000, N-10412
 Tags: relevance:core
 Investigative Direction: Compare Erika's tone on this call with her public statements from the same period.
 
@@ -1304,7 +1295,7 @@ Transcript Snippet: She was in the office every day with Stacy Sheridan, running
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-186
-Related Nodes: N-10000, N-10439
+Related Nodes: N-10000, N-10408
 Tags: relevance:core
 Investigative Direction: Interview former staff about Erika's office attendance in September 2025, and check badge or calendar records and Sheridan's role at TPUSA.
 
@@ -1320,7 +1311,7 @@ Transcript Snippet: On my episode, I posited that the military was keeping its e
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10422, N-10413
+Related Nodes: N-10395, N-10386
 Tags: relevance:tangential
 Investigative Direction: Identify any documentation that a military or intelligence program tracked GATE or gifted children in the Chicago area; the host presents this as a theory.
 
@@ -1382,7 +1373,7 @@ Transcript Snippet: Bill Montgomery was Air Force. He's in the Air Force reserve
 
 Anchored Artifacts: 
 Mentions: N-3, N-456
-Related Nodes: N-10211
+Related Nodes: N-10203
 Tags: relevance:core
 Investigative Direction: Obtain Montgomery's military service record, obituary and Nebraska residence history.
 
@@ -1398,7 +1389,7 @@ Transcript Snippet: we do know that he moved to the Chicago area thereafter, whi
 
 Anchored Artifacts: 
 Mentions: N-3, N-456, N-1
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:core
 Investigative Direction: Establish when and why Montgomery moved to the Chicago area using public records and obituaries.
 
@@ -1414,7 +1405,7 @@ Transcript Snippet: was actually called Creative Children's Academy. It opened i
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11122, N-10422
+Related Nodes: N-11040, N-10395
 Tags: relevance:context
 Investigative Direction: Confirm the school's founding year, rename and Charlie Kirk's enrollment through school records, state filings or alumni statements.
 
@@ -1430,7 +1421,7 @@ Transcript Snippet: It tells us uh on its website or I'm sorry, in a past articl
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:context
 Investigative Direction: Locate the article and the school's tax filings and donor lists to identify corporate funders.
 
@@ -1446,7 +1437,7 @@ Transcript Snippet: What we do know is that it's a stones throw from Northrup Gr
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11122, N-11123
+Related Nodes: N-11040, N-11041
 Tags: relevance:context
 Investigative Direction: Map the academy's address against Northrop Grumman facilities and check for any funding or personnel link.
 
@@ -1462,7 +1453,7 @@ Transcript Snippet: was founded by a woman named Helene Bartz. Okay. Her husband
 
 Anchored Artifacts: 
 Mentions: N-3, N-765
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:context
 Investigative Direction: Verify the founders through Illinois corporation filings and school history sources.
 
@@ -1478,7 +1469,7 @@ Transcript Snippet: Helene Bartz was actually good friends with Bill Montgomery 
 
 Anchored Artifacts: A-2847.1
 Mentions: N-3, N-765, N-456, N-766
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:context
 Investigative Direction: Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.
 
@@ -1509,7 +1500,7 @@ Transcript Snippet: she was actually the person that started the school with Hel
 
 Anchored Artifacts: A-2847.1
 Mentions: N-3, N-766, N-765
-Related Nodes: N-11122
+Related Nodes: N-11040
 Tags: relevance:context
 Investigative Direction: Compare school founding documents and archived web pages for any mention of Edith Walker.
 
@@ -1525,7 +1516,7 @@ Transcript Snippet: The person claims that Bill and his wife and a certain Rober
 
 Anchored Artifacts: A-2847.1
 Mentions: N-3, N-456, N-766, N-470, N-270
-Related Nodes: N-11124
+Related Nodes: N-11042
 Tags: relevance:context
 Investigative Direction: Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.
 
@@ -1541,7 +1532,7 @@ Transcript Snippet: The Shackley Corporation was the first company that ever cre
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11124
+Related Nodes: N-11042
 Tags: relevance:context
 Investigative Direction: Check Shaklee's corporate history for the multivitamin claim.
 
@@ -1557,7 +1548,7 @@ Transcript Snippet: it grew to be a massive company that engaged in a 25-year co
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11124, N-11125
+Related Nodes: N-11042, N-11043
 Tags: relevance:context
 Investigative Direction: Search NASA contract archives and Shaklee corporate history for any 25-year supplement contract.
 
@@ -1573,7 +1564,7 @@ Transcript Snippet: I confirmed that she did indeed prior to worked at Shackley.
 
 Anchored Artifacts: 
 Mentions: N-3, N-765
-Related Nodes: N-11124, N-11122
+Related Nodes: N-11042, N-11040
 Tags: relevance:context
 Investigative Direction: Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.
 
@@ -1589,7 +1580,7 @@ Transcript Snippet: Charlie told me the story that they wanted to drug him when 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11122, N-10422
+Related Nodes: N-11040, N-10395
 Supports: C-5073
 Tags: relevance:core
 Investigative Direction: Seek confirmation from Charlie's family or school records; the host relays a private conversation.
@@ -1622,7 +1613,7 @@ Transcript Snippet: Operation Paperclip was when we went over and we got these q
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11126
+Related Nodes: N-11044
 Tags: relevance:tangential
 Investigative Direction: Operation Paperclip is historically documented; verify any link to the specific people discussed against primary records.
 
@@ -1638,7 +1629,7 @@ Transcript Snippet: because I don't believe we went to the moon
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11125, N-11126
+Related Nodes: N-11043, N-11044
 Tags: relevance:tangential
 Investigative Direction: Host's stated belief; contrary to extensive public documentation of the Apollo missions.
 
@@ -1654,7 +1645,7 @@ Transcript Snippet: project Monarch which was the precursor to MK Ultra
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11033, N-10001
+Related Nodes: N-10952, N-10001
 Tags: relevance:tangential
 Investigative Direction: Project Monarch is contested in the historical record; verify against declassified MKUltra documents.
 
@@ -1670,7 +1661,7 @@ Transcript Snippet: Laurie Cardoza-Moore The Brave Report pulled up as an evange
 
 Anchored Artifacts: A-2849.1
 Mentions: N-3, N-495
-Related Nodes: N-10445, N-10209
+Related Nodes: N-10414, N-10201
 Tags: relevance:core
 Investigative Direction: Locate the Brave Report posts and Moore's own statements on her background.
 
@@ -1686,7 +1677,7 @@ Transcript Snippet: I had three couples reach out to me who had been to the Turn
 
 Anchored Artifacts: A-1681.1
 Mentions: N-495, N-22, N-767
-Related Nodes: N-10445, N-10209
+Related Nodes: N-10414, N-10201
 Tags: relevance:core
 Investigative Direction: Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.
 
@@ -1702,7 +1693,7 @@ Transcript Snippet: She said 10% in the room got up and walked out on her.
 
 Anchored Artifacts: A-1681.1
 Mentions: N-495, N-767, N-1, N-22
-Related Nodes: N-10445, N-10209
+Related Nodes: N-10414, N-10201
 Tags: relevance:core
 Investigative Direction: Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.
 
@@ -1733,7 +1724,7 @@ Transcript Snippet: Uh, also went to go work for NASA if if his Wikipedia is to 
 
 Anchored Artifacts: A-2850.1
 Mentions: N-3, N-768
-Related Nodes: N-11125
+Related Nodes: N-11043
 Tags: relevance:context
 Investigative Direction: Read the Wikipedia article and its sources for the NASA employment claim.
 
@@ -1765,7 +1756,7 @@ Transcript Snippet: Turning Point is, you know, shooting their Super Bowl commer
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10197
+Related Nodes: N-10000, N-10189
 Tags: relevance:context
 Investigative Direction: Identify the production company and its CEO's biography; confirm TPUSA's Super Bowl advertising plans.
 
@@ -1796,7 +1787,7 @@ Transcript Snippet: about Kanye taking out a full page in the Wall Street Journa
 
 Anchored Artifacts: A-1683.1
 Mentions: N-3, N-27
-Related Nodes: N-11127
+Related Nodes: N-11045
 Tags: relevance:tangential
 Investigative Direction: Locate the Wall Street Journal ad and confirm its date and text.
 
@@ -1812,7 +1803,7 @@ Transcript Snippet: He speaks about his bipolar episode. Said that he is on new 
 
 Anchored Artifacts: A-1684.1
 Mentions: N-3, N-27
-Related Nodes: N-11127
+Related Nodes: N-11045
 Tags: relevance:tangential
 Investigative Direction: Obtain the Vanity Fair piece and check the quoted statements.
 
@@ -1828,7 +1819,7 @@ Transcript Snippet: this has nothing to do with my viewpoints whatsoever on Isra
 
 Anchored Artifacts: 
 Mentions: N-3, N-27
-Related Nodes: N-11127
+Related Nodes: N-11045
 Tags: relevance:tangential
 Investigative Direction: Host's stated position; compare against her prior statements about Ye.
 
@@ -1844,7 +1835,7 @@ Transcript Snippet: I lived in China. No, I didn't live I never lived in China.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10419, N-10428
+Related Nodes: N-10392
 Tags: relevance:core
 Investigative Direction: Compare Erika's recorded statements about China with her documented residences; the host presents this as a lie.
 
@@ -1875,7 +1866,7 @@ Transcript Snippet: since we caught Andrew Kolvet with the parent tact parent pa
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
-Related Nodes: N-10899
+Related Nodes: N-10820
 Tags: relevance:core
 Investigative Direction: Review the earlier episode on the Paramount Tactical tweet and Kolvet's response.
 
@@ -1891,7 +1882,7 @@ Transcript Snippet: They had no access to her. It didn't feel like Charlie.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10439
+Related Nodes: N-10408
 Tags: relevance:core
 Investigative Direction: Interview former employees about access to Erika; the host relays second-hand accounts.
 
@@ -1954,7 +1945,7 @@ Transcript Snippet: the true reason that NASA came together, mass poisoning peop
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11125
+Related Nodes: N-11043
 Tags: relevance:tangential
 Investigative Direction: Host's stated belief; test against historical records of NASA's founding.
 
@@ -1970,7 +1961,7 @@ Transcript Snippet: I'm less inclined to believe that Andrew Kolvet and Dan Floo
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-270, N-2, N-1
-Related Nodes: N-10340
+Related Nodes: N-10318
 Tags: relevance:core
 Investigative Direction: Ask Kolvet, Flood and the FBI when Erika was told of Charlie's night-before messages and fears.
 

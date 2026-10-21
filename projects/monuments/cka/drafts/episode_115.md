@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq115
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep115): N-10704, N-10732
+  - Hole-minted Nodes (reintro-ep115): N-10640, N-10666
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-675, N-676, N-677, N-679, N-10971, N-10972, N-10973, N-10974, N-10976, N-10977, N-10978, N-10979, N-10980, N-10981, N-10982, N-10983
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-104, N-105, N-159, N-190, N-268, N-270, N-378, N-624, N-665, N-10000, N-10014, N-10015, N-10026, N-10027, N-10075, N-10202, N-10482, N-10495, N-10505, N-10588, N-10700, N-10724, N-10768, N-10888, N-10923, N-10694, N-678, N-10975, N-10705
+  - Tip-minted Nodes (skeleton): N-675, N-676, N-677, N-679, N-10892, N-10893, N-10894, N-10895, N-10897, N-10898, N-10899, N-10900, N-10901, N-10902, N-10903
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-104, N-105, N-159, N-190, N-268, N-270, N-378, N-624, N-665, N-10000, N-10014, N-10015, N-10026, N-10027, N-10072, N-10194, N-10214, N-10458, N-10466, N-10536, N-10637, N-10659, N-10697, N-10809, N-10844, N-10632, N-678, N-10896, N-10641
   - Claim Range: C-9926–C-9976
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9927, C-9928, C-9929, N-1, N-5, N-10588*
+*Related: C-9927, C-9928, C-9929, N-1, N-5, N-10536*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:06:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9932, C-9933, N-675, N-676, N-10972*
+*Related: C-9932, C-9933, N-675, N-676, N-10893*
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:12:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9943, C-9944, N-10977, N-10978*
+*Related: C-9943, C-9944, N-10898, N-10899*
 
 **A-2660.2** 60 Minutes clip of Mossad agents describing the pager operation (played)
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9945, C-9946, N-10015, N-10704, N-10977, N-10979*
+*Related: C-9945, C-9946, N-10015, N-10640, N-10898, N-10900*
 
 **A-2660.3** Reuters graphic showing the PETN detonation material inside a rigged pager (shown)
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:16:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9947, N-10974, N-10977, N-10980*
+*Related: C-9947, N-10895, N-10898, N-10901*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:19:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9948, C-9949, C-9950, N-10974, N-10768*
+*Related: C-9948, C-9949, C-9950, N-10895, N-10697*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:27:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9956, C-9958, N-10982, N-10014*
+*Related: C-9956, C-9958, N-10903, N-10014*
 
 **A-2662.2** Host's FOIA request for Kash Patel's official schedule and travel for September 7–10, 2025 (read aloud)
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:28:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9959, N-69, N-10971, N-10700*
+*Related: C-9959, N-69, N-10892, N-10637*
 
 **A-2662.3** FBI response invoking "unusual circumstances" for the request (read aloud)
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:30:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9961, N-10014, N-10971, N-10700*
+*Related: C-9961, N-10014, N-10892, N-10637*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:30:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9962, N-159, N-10971*
+*Related: C-9962, N-159, N-10892*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:36:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9963, C-9966, N-2, N-10888, N-10923*
+*Related: C-9963, C-9966, N-2, N-10809, N-10844*
 
 ---
 
@@ -412,182 +412,182 @@ Site of the dinner where the host says Erika Kirk sat across from Bill Ackman.
 
 *Related: C-9970*
 
-**N-10075** White House
+**N-10072** White House
 
 Site of Netanyahu's golden-pager gift; the host asks why Erika's clip was boosted there.
 
 *Related: C-9951, C-9966*
 
-**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10194** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 The Patel schedule request is another thread in the host's scrutiny of the FBI.
 
 *Related: C-9959*
 
-**N-10482** Mikey McCoy Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 The host restates that McCoy called his wife rather than 911.
 
 *Related: C-9930*
 
-**N-10495** BB Netanyahu Hamptons Dinner Allegation
+**N-10458** BB Netanyahu Hamptons Dinner Allegation
 
 The host restates that Netanyahu was called during the Hamptons dinner attended by Erika Kirk.
 
 *Related: C-9970*
 
-**N-10505** Erika Kirk Post-Assassination Conduct Composite
+**N-10466** Erika Kirk Post-Assassination Conduct Composite
 
 Her return to the office, trademarks and pro-Israel turn after the assassination.
 
 *Related: C-9971, C-9973, C-9974*
 
-**N-10588** Butler PA Investigation Closure Verification
+**N-10536** Butler PA Investigation Closure Verification
 
 Charlie Kirk's video, Trump's satisfaction and the Comperatore family's dissatisfaction with the Butler investigation.
 
 *Related: C-9927, C-9928, C-9929, C-9954, C-9955, A-2658.1*
 
-**N-10694** Dan Flood Role and Behavior Assessment
+**N-10632** Dan Flood Role and Behavior Assessment
 
 The host says Flood was given a raise after the assassination.
 
 *Related: C-9931*
 
-**N-10700** Pending FOIA Requests
+**N-10637** Pending FOIA Requests
 
 The Kash Patel schedule request and the FBI's "unusual circumstances" reply are added to the host's FOIA trail.
 
 *Related: C-9959, C-9961, C-9963, A-2662.2, A-2662.3*
 
-**N-10704** Mossad "Truman Show" Analogy Application
+**N-10640** Mossad "Truman Show" Analogy Application
 
 The 60 Minutes Mossad clip describing a "Truman show" is replayed.
 
 *Related: C-9945, C-9946, A-2660.2*
 
-**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
+**N-10641** Charlie's Road Microphone Glass Origin Investigation Target
 
 The PETN road-microphone theory is raised alongside the explosive test video.
 
 *Related: C-9950*
 
-**N-10724** Butler Shooting Insider Involvement Claim
+**N-10659** Butler Shooting Insider Involvement Claim
 
 The host's questions about who escorted the Comperatore family to the front.
 
 *Related: C-9940*
 
-**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+**N-10697** Shaped Charge / Exploding Microphone Hypothesis
 
 The host links the PETN test video to the theory that Charlie Kirk's Rode microphone was rigged with PETN.
 
 *Related: C-9950, A-2661.1*
 
-**N-10732** Salt Lake City Hotel Identification Gap
+**N-10666** Salt Lake City Hotel Identification Gap
 
 Charlie Kirk's September 10 morning stop in Salt Lake City is raised again.
 
 *Related: C-9957*
 
-**N-10888** Department of War
+**N-10809** Department of War
 
 Named by the host as the source of the "emotional asset" email that asked for Erika Kirk's clip to be the number one clip by morning.
 
 *Related: C-9966, A-2666.1*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the internal email that, per the host, called Erika Kirk an "emotional asset" and asked that her clip be the number one clip by morning, within an hour of the WHCD shooting. In this episode the host says Andrew Kolvet implied the email was made up and that her team filed and followed up on a FOIA request about it.
 
-*Related: C-9963, C-9966, A-2666.1, N-2, N-10888*
+*Related: C-9963, C-9966, A-2666.1, N-2, N-10809*
 
-**N-10971** Kash Patel September 7–10, 2025 Schedule FOIA Request
+**N-10892** Kash Patel September 7–10, 2025 Schedule FOIA Request
 
 Node Type: Topic
 Investigation target: the host's FOIA request for FBI Director Kash Patel's official schedule, calendar, meetings and travel from September 7 to September 10, 2025, including travel authorizations, flight records and visitor logs. The FBI replied that "unusual circumstances" apply and that it may not decide within 20 days. Blake Neff mocked the request on X.
 
 *Related: C-9959, C-9960, C-9961, C-9962, A-2662.2, A-2662.3, A-2663.1, N-69*
 
-**N-10972** Mark Liti Burn Barrel Death
+**N-10893** Mark Liti Burn Barrel Death
 
 Node Type: Topic
 Investigation target: the August 23, 2022 death of Mark Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.
 
 *Related: C-9932, C-9933, C-9934, C-9935, C-9936, C-9937, C-9938, C-9939, C-9942, A-2659.1, N-675, N-105*
 
-**N-10973** Surefire Wireline LLC
+**N-10894** Surefire Wireline LLC
 
 Node Type: Organization
 Kittanning, Pennsylvania oil and gas services company specializing in pump-down perforating; the host says Mark Liti was a supervisor there.
 
 *Related: C-9934, C-9935, N-675*
 
-**N-10974** PETN Explosive
+**N-10895** PETN Explosive
 
 Node Type: Topic
 The explosive PETN, which the host says is used in well perforating, was used in the 2024 pager attack (about six grams per pager per Reuters), and in a 20-gram test mimicked a .30-06 gunshot. She connects it to the theory about Charlie Kirk's Rode microphone.
 
 *Related: C-9935, C-9936, C-9944, C-9947, C-9948, C-9950, A-2660.3, A-2661.1*
 
-**N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+**N-10896** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Node Type: Organization
 Federal agency the host says was investigating Mark Liti over explosives taken from work.
 
 *Related: C-9937, N-675, N-677*
 
-**N-10976** Corey Comperatore Front-Row Escort Question
+**N-10897** Corey Comperatore Front-Row Escort Question
 
 Node Type: Topic
 Investigation target: the identity and authority of the unknown woman who, according to the host, asked Corey Comperatore's family, who held regular tickets, whether they wanted to be escorted to the front of the Butler rally on July 13, 2024.
 
 *Related: C-9940, N-105*
 
-**N-10977** September 2024 Lebanon Pager Attack
+**N-10898** September 2024 Lebanon Pager Attack
 
 Node Type: Topic
 The September 17–18, 2024 explosions of PETN-rigged pagers across Lebanon and Syria, which the host says wounded more than 3,000 people and killed 12, including two children. She attributes the attack to Israel through shell companies supplying Hezbollah.
 
 *Related: C-9943, C-9944, C-9945, C-9946, C-9947, C-9951, C-9952, A-2660.1, A-2660.2, A-2660.3*
 
-**N-10978** Hezbollah
+**N-10899** Hezbollah
 
 Node Type: Organization
 Intended target of the pager attack, per the host and the news clip.
 
 *Related: C-9944, C-9945, A-2660.1*
 
-**N-10979** Gold Apollo
+**N-10900** Gold Apollo
 
 Node Type: Organization
 Taiwanese company whose pager brand was used; the Mossad agents in the 60 Minutes clip say it had "zero clue" it was working with the Mossad.
 
 *Related: C-9946, A-2660.2*
 
-**N-10980** Reuters
+**N-10901** Reuters
 
 Node Type: Organization
 News agency whose graphic estimated six grams of PETN per rigged pager.
 
 *Related: C-9947, A-2660.3*
 
-**N-10981** Netanyahu Golden Pager Gift to Trump
+**N-10902** Netanyahu Golden Pager Gift to Trump
 
 Node Type: Topic
 Investigation target: the golden pager Benjamin Netanyahu presented to Donald Trump at the White House on February 4, 2025. The host asks what it signified, given that Biden was president at the time of the pager operation, and whether the United States assisted.
 
 *Related: C-9951, C-9952, N-36, N-5*
 
-**N-10982** FBI Plane Richmond–Salt Lake City September 8, 2025 Flight
+**N-10903** FBI Plane Richmond–Salt Lake City September 8, 2025 Flight
 
 Node Type: Topic
 Investigation target: an FBI plane the host says left Richmond, Virginia at 9:50 a.m. on September 8, 2025, reached Salt Lake City at 12:00 p.m. and left about an hour later. She says it partly prompted her request for Kash Patel's schedule and does not show that Patel was aboard.
 
 *Related: C-9956, C-9958, A-2662.1, N-10014, N-69*
 
-**N-10983** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
+**N-10891** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
 
 Node Type: Topic
 Investigation target: the host's account that Tucker Carlson told her and her husband during a one-day visit to his Maine house that, at a summer 2025 dinner with Charlie and Erika Kirk, Erika was "very hardcore against Israel," more so than Charlie, and hated the pastors around him. The host contrasts this with Erika's attendance at the Hamptons summit and her later pro-Israel stance.
@@ -606,7 +606,7 @@ Transcript Snippet: I mean, I was contacted immediately by people who knew the r
 
 Anchored Artifacts:
 Mentions: N-105, N-3
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Identify the sources who contacted the host and confirm their relationship to Corey Comperatore.
 
 ---
@@ -621,7 +621,7 @@ Transcript Snippet: We now know that the shooter was identified by Secret Servic
 
 Anchored Artifacts: A-2658.1
 Mentions: N-1, N-5
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Compare with the Senate and House task force reports on the Secret Service timeline for July 13, 2024 and with the original date of Kirk's video.
 
 ---
@@ -636,7 +636,7 @@ Transcript Snippet: Oh, and even one more local law enforcement climbed up the l
 
 Anchored Artifacts: A-2658.1
 Mentions: N-1
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Check the Butler Township officer's statement and the congressional task force findings on the roof encounter.
 
 ---
@@ -651,7 +651,7 @@ Transcript Snippet: No one has resigned and no one will probably be held account
 
 Anchored Artifacts: A-2658.1
 Mentions: N-1
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Compare the video's recording date with Secret Service personnel actions and resignations after July 13, 2024.
 
 ---
@@ -666,7 +666,7 @@ Transcript Snippet: No one called 911. Mikey McCoy didn't call. He called his wi
 
 Anchored Artifacts:
 Mentions: N-190, N-1
-Related Nodes: N-10482
+Related Nodes: N-10214
 Supports: C-6107
 Investigative Direction: Obtain Mikey McCoy's call log for September 10, 2025 and the Orem/UVU 911 dispatch records.
 
@@ -682,7 +682,7 @@ Transcript Snippet: your wife is actually going to offer your members in your se
 
 Anchored Artifacts:
 Mentions: N-2, N-270, N-1
-Related Nodes: N-10694
+Related Nodes: N-10632
 Investigative Direction: Obtain TPUSA compensation records for security staff before and after September 10, 2025.
 
 ---
@@ -697,7 +697,7 @@ Transcript Snippet: There was a man named Mark A. Leiti, and he died in a rather
 
 Anchored Artifacts: A-2659.1
 Mentions: N-675
-Related Nodes: N-10972
+Related Nodes: N-10893
 Investigative Direction: Obtain the coroner's report, police incident report and local news coverage of the August 23, 2022 death.
 
 ---
@@ -712,7 +712,7 @@ Transcript Snippet: The lady family still doesn't know what ignited inside the b
 
 Anchored Artifacts: A-2659.1
 Mentions: N-676, N-675
-Related Nodes: N-10972
+Related Nodes: N-10893
 Investigative Direction: Check whether investigators, the ATF or the coroner identified the explosive material.
 
 ---
@@ -727,7 +727,7 @@ Transcript Snippet: Mark Liti, not mentioned here in that news clip, was a super
 
 Anchored Artifacts:
 Mentions: N-675
-Related Nodes: N-10972, N-10973
+Related Nodes: N-10893, N-10894
 Investigative Direction: Confirm Liti's employment and role through Surefire Wireline, his obituary or Pennsylvania business records.
 
 ---
@@ -742,7 +742,7 @@ Transcript Snippet: Because that technique requires the use of a very specific e
 
 Anchored Artifacts:
 Mentions: 
-Related Nodes: N-10973, N-10974
+Related Nodes: N-10894, N-10895
 Investigative Direction: Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.
 
 ---
@@ -757,7 +757,7 @@ Transcript Snippet: Allegedly, Mark Liti had confessed to his longtime high scho
 
 Anchored Artifacts:
 Mentions: N-675
-Related Nodes: N-10972, N-10974
+Related Nodes: N-10893, N-10895
 Investigative Direction: Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.
 
 ---
@@ -772,7 +772,7 @@ Transcript Snippet: The ATF was apparently investigating for this, investigating
 
 Anchored Artifacts:
 Mentions: N-675, N-677
-Related Nodes: N-10975, N-10972
+Related Nodes: N-10896, N-10893
 Investigative Direction: FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.
 
 ---
@@ -787,7 +787,7 @@ Transcript Snippet: What I do know is what happened on July 13th, 2024, just 30 
 
 Anchored Artifacts:
 Mentions: N-5
-Related Nodes: N-10972
+Related Nodes: N-10893
 Investigative Direction: Confirm the driving distance between Kittanning and the Butler Farm Show grounds.
 
 ---
@@ -802,7 +802,7 @@ Transcript Snippet: Mark Le's friend's name was Cory Comparator. Yes, it was Cor
 
 Anchored Artifacts:
 Mentions: N-105, N-675
-Related Nodes: N-10972
+Related Nodes: N-10893
 Investigative Direction: Confirm the friendship through school records, social media and the families, and identify who relayed the confession.
 
 ---
@@ -817,7 +817,7 @@ Transcript Snippet: So, they were quite surprised when while waiting in a large 
 
 Anchored Artifacts:
 Mentions: N-105
-Related Nodes: N-10976, N-10724
+Related Nodes: N-10897, N-10659
 Investigative Direction: Review rally footage, campaign staff lists and the Comperatore family's statements to identify the woman.
 
 ---
@@ -832,7 +832,7 @@ Transcript Snippet: That's that's that's a big authority, right? Cory Comparator
 
 Anchored Artifacts:
 Mentions: N-105
-Related Nodes: N-10588
+Related Nodes: N-10536
 Supports: C-784
 Investigative Direction: Check the autopsy and the FBI's Butler investigative findings.
 
@@ -848,7 +848,7 @@ Transcript Snippet: It's worth noting that Mark a lady is also friends with vari
 
 Anchored Artifacts:
 Mentions: N-675
-Related Nodes: N-10972
+Related Nodes: N-10893
 Investigative Direction: Archive Liti's Facebook friend list and check which Crooks family members appear.
 
 ---
@@ -863,7 +863,7 @@ Transcript Snippet: there was a massive series of pager explosions across Lebano
 
 Anchored Artifacts: A-2660.1
 Mentions:
-Related Nodes: N-10977
+Related Nodes: N-10898
 Investigative Direction: Compare with Lebanese Health Ministry casualty figures for September 17–18, 2024.
 
 ---
@@ -878,7 +878,7 @@ Transcript Snippet: Okay, so you should know that the pagers were rigged as I to
 
 Anchored Artifacts: A-2660.1
 Mentions:
-Related Nodes: N-10977, N-10978, N-10974
+Related Nodes: N-10898, N-10899, N-10895
 Investigative Direction: Check Reuters and Lebanese investigation findings on the explosive used in the pagers.
 
 ---
@@ -893,7 +893,7 @@ Transcript Snippet: they interrupted the supply chain of pagers by creating a bu
 
 Anchored Artifacts: A-2660.2
 Mentions:
-Related Nodes: N-10977, N-10978, N-10015, N-10026, N-10704
+Related Nodes: N-10898, N-10899, N-10015, N-10026, N-10640
 Investigative Direction: Review investigative reporting and corporate registries on the shell entities tied to the pager supply chain.
 
 ---
@@ -908,7 +908,7 @@ Transcript Snippet: Gold Apollo had zero clue that they are working with the Mos
 
 Anchored Artifacts: A-2660.2
 Mentions:
-Related Nodes: N-10979, N-10015, N-10704
+Related Nodes: N-10900, N-10015, N-10640
 Investigative Direction: Check the 60 Minutes segment and Gold Apollo's statements on its licensing arrangement.
 
 ---
@@ -923,7 +923,7 @@ Transcript Snippet: This graphic was provided by Reuters who estimated uh that t
 
 Anchored Artifacts: A-2660.3
 Mentions:
-Related Nodes: N-10980, N-10974, N-10977
+Related Nodes: N-10901, N-10895, N-10898
 Investigative Direction: Locate the Reuters graphic and its sourcing for the six-gram estimate.
 
 ---
@@ -938,7 +938,7 @@ Transcript Snippet: It's about the same as a gunshot from a 306 if you shot it a
 
 Anchored Artifacts: A-2661.1
 Mentions:
-Related Nodes: N-10974
+Related Nodes: N-10895
 Investigative Direction: Identify the channel and original upload and compare with ballistic and explosive test data.
 
 ---
@@ -953,7 +953,7 @@ Transcript Snippet: In fact, it was published back in May of 2025. Charlie was v
 
 Anchored Artifacts: A-2661.1
 Mentions: N-1
-Related Nodes: N-10974
+Related Nodes: N-10895
 Investigative Direction: Confirm the upload date on YouTube or through an archive.
 
 ---
@@ -968,7 +968,7 @@ Transcript Snippet: especially given the persistent conspiracy theory that Charl
 
 Anchored Artifacts: A-2661.1
 Mentions: N-1
-Related Nodes: N-10768, N-10705, N-10974
+Related Nodes: N-10697, N-10641, N-10895
 Investigative Direction: Obtain the evidence inventory and forensic reports on the microphone and wound from the Tyler Robinson case.
 
 ---
@@ -983,7 +983,7 @@ Transcript Snippet: BB Netanyahu enters the White House and presents President T
 
 Anchored Artifacts:
 Mentions: N-36, N-5
-Related Nodes: N-10981, N-10977, N-10075, N-10015
+Related Nodes: N-10902, N-10898, N-10072, N-10015
 Investigative Direction: Check White House and Israeli Prime Minister's Office records of the February 4, 2025 gift exchange.
 
 ---
@@ -998,7 +998,7 @@ Transcript Snippet: Because Donald Trump was not president when the pager operat
 
 Anchored Artifacts:
 Mentions: N-678, N-5
-Related Nodes: N-10981, N-10977
+Related Nodes: N-10902, N-10898
 Investigative Direction: Confirm the timeline: pager attack September 17–18, 2024; Trump inaugurated January 20, 2025.
 
 ---
@@ -1028,7 +1028,7 @@ Transcript Snippet: Most of all, Dan Bongino's strange reaction to it, uh, Trump
 
 Anchored Artifacts:
 Mentions: N-5, N-378
-Related Nodes: N-10588
+Related Nodes: N-10536
 Supports: C-7996
 Investigative Direction: Collect Trump's and Bongino's public statements on the Butler investigation and the FBI's closure status.
 
@@ -1044,7 +1044,7 @@ Transcript Snippet: The widow of Corey Comperatore and the family of Cory Compar
 
 Anchored Artifacts:
 Mentions: N-105
-Related Nodes: N-10588
+Related Nodes: N-10536
 Investigative Direction: Seek public statements from Corey Comperatore's widow or the family's representatives.
 
 ---
@@ -1059,7 +1059,7 @@ Transcript Snippet: because there was this FBI plane, definitively an FBI plane 
 
 Anchored Artifacts: A-2662.1
 Mentions: N-69
-Related Nodes: N-10982, N-10014
+Related Nodes: N-10903, N-10014
 Investigative Direction: Identify the tail number and pull ADS-B history and FAA records for the flight.
 
 ---
@@ -1074,7 +1074,7 @@ Transcript Snippet: remember he first went to Salt Lake City on the morning of t
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10732
+Related Nodes: N-10666
 Investigative Direction: Obtain flight records for Kirk's September 10, 2025 arrival in Salt Lake City and the interview host's records.
 
 ---
@@ -1089,7 +1089,7 @@ Transcript Snippet: Uh, but it leaves Richmond, Virginia at 9:50 a. m. It gets i
 
 Anchored Artifacts: A-2662.1
 Mentions: N-69
-Related Nodes: N-10982, N-10014
+Related Nodes: N-10903, N-10014
 Investigative Direction: Pull ADS-B departure and arrival data and request the passenger manifest via FOIA.
 
 ---
@@ -1104,7 +1104,7 @@ Transcript Snippet: We listed that I request copies of records reflecting the of
 
 Anchored Artifacts: A-2662.2
 Mentions: N-69, N-3
-Related Nodes: N-10971, N-10700, N-10202
+Related Nodes: N-10892, N-10637, N-10194
 Investigative Direction: Obtain the FBI FOIA tracking number and submission date.
 
 ---
@@ -1119,7 +1119,7 @@ Transcript Snippet: In fact, we're we're even paying for his girlfriend's securi
 
 Anchored Artifacts:
 Mentions: N-69
-Related Nodes: N-10971
+Related Nodes: N-10892
 Investigative Direction: Check FBI and DOJ records and reporting on security details assigned to the director's partner.
 
 ---
@@ -1134,7 +1134,7 @@ Transcript Snippet: Unfortunately, here's what we received back. Please be advis
 
 Anchored Artifacts: A-2662.3
 Mentions: N-3
-Related Nodes: N-10971, N-10700, N-10014
+Related Nodes: N-10892, N-10637, N-10014
 Investigative Direction: Track the request's status and any later determination or appeal.
 
 ---
@@ -1149,7 +1149,7 @@ Transcript Snippet: Here we can see the latest thing that Candace will fixate on
 
 Anchored Artifacts: A-2663.1
 Mentions: N-159, N-3
-Related Nodes: N-10971, N-10000
+Related Nodes: N-10892, N-10000
 Investigative Direction: Archive Blake Neff's X post and its date.
 
 ---
@@ -1164,7 +1164,7 @@ Transcript Snippet: despite uh Andrew Kolvet lying and trying uh to uh I guess a
 
 Anchored Artifacts: A-2666.1
 Mentions: N-14, N-2, N-3
-Related Nodes: N-10923, N-10700
+Related Nodes: N-10844, N-10637
 Investigative Direction: Obtain the FOIA request and agency replies on the email, and Kolvet's statements about it.
 
 ---
@@ -1193,7 +1193,7 @@ Transcript Snippet: This time it was on her show with James, Pastor James Kaddis
 
 Anchored Artifacts: A-2665.1
 Mentions: N-2, N-665, N-3
-Related Nodes: N-10505
+Related Nodes: N-10466
 Investigative Direction: Locate the episode of Erika Kirk's show and the viewer question.
 
 ---
@@ -1208,7 +1208,7 @@ Transcript Snippet: Why the Department of War is saying this needs to be the num
 
 Anchored Artifacts: A-2666.1
 Mentions: N-2
-Related Nodes: N-10923, N-10888, N-10075
+Related Nodes: N-10844, N-10809, N-10072
 Investigative Direction: Obtain the original email headers and distribution list through FOIA to the Department of War and the White House.
 
 ---
@@ -1223,7 +1223,7 @@ Transcript Snippet: I was not on vacation in Maine. I just went up for one day b
 
 Anchored Artifacts:
 Mentions: N-3, N-22
-Related Nodes: N-10983
+Related Nodes: N-10891
 Investigative Direction: Confirm the date of the visit through travel records or the participants.
 
 ---
@@ -1238,7 +1238,7 @@ Transcript Snippet: he told us that he had dinner with Charlie and Erika and bef
 
 Anchored Artifacts:
 Mentions: N-22, N-2, N-1, N-30, N-3
-Related Nodes: N-10983, N-10026
+Related Nodes: N-10891, N-10026
 Investigative Direction: Seek Tucker Carlson's own account of the dinner and its date.
 
 ---
@@ -1253,7 +1253,7 @@ Transcript Snippet: He also said she hated the the pastors that were around him.
 
 Anchored Artifacts:
 Mentions: N-22, N-2, N-1
-Related Nodes: N-10983
+Related Nodes: N-10891
 Investigative Direction: Seek Carlson's confirmation and identify the pastors in Charlie Kirk's circle in summer 2025.
 
 ---
@@ -1268,7 +1268,7 @@ Transcript Snippet: She goes with him to the Hamptons and sits across uh from Bi
 
 Anchored Artifacts:
 Mentions: N-2, N-37, N-36, N-1
-Related Nodes: N-10027, N-10495, N-10983
+Related Nodes: N-10027, N-10458, N-10891
 Investigative Direction: Interview Hamptons attendees and check phone records for a Netanyahu call during the August 2025 gathering.
 
 ---
@@ -1283,7 +1283,7 @@ Transcript Snippet: she has a complete 180 and says, "People that ask questions 
 
 Anchored Artifacts:
 Mentions: N-2, N-40
-Related Nodes: N-10983, N-10505, N-10026
+Related Nodes: N-10891, N-10466, N-10026
 Investigative Direction: Locate Erika Kirk's "brain rot" statement and its date.
 
 ---
@@ -1298,7 +1298,7 @@ Transcript Snippet: That is what Tucker said to us after we got off air. He had 
 
 Anchored Artifacts:
 Mentions: N-22, N-2, N-1
-Related Nodes: N-10983, N-10026
+Related Nodes: N-10891, N-10026
 Investigative Direction: Seek Tucker Carlson's on-record account of the dinner.
 
 ---
@@ -1313,7 +1313,7 @@ Transcript Snippet: Erika has a ton of trademarks for Charlie Kirk and CK and st
 
 Anchored Artifacts: A-2667.1
 Mentions: N-2, N-1
-Related Nodes: N-10505
+Related Nodes: N-10466
 Investigative Direction: Search USPTO records for "Charlie Kirk" and "CK" marks and their filing dates and applicants.
 
 ---
@@ -1328,7 +1328,7 @@ Transcript Snippet: like she got back and she was in the office every day and he
 
 Anchored Artifacts:
 Mentions: N-2, N-17, N-1
-Related Nodes: N-10505
+Related Nodes: N-10466
 Investigative Direction: Corroborate with TPUSA staff accounts of Erika Kirk's presence at headquarters in late September 2025.
 
 ---
@@ -1343,7 +1343,7 @@ Transcript Snippet: But it was it is 100% true. Um and my husband was present co
 
 Anchored Artifacts:
 Mentions: N-22, N-30, N-3
-Related Nodes: N-10983
+Related Nodes: N-10891
 Investigative Direction: Seek confirmation from Carlson and from team members present.
 
 ---

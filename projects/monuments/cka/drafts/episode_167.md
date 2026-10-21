@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq167
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (daily-2026-10-20): N-969, N-970, N-11445, N-11446, N-11447
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-27, N-40, N-41, N-68, N-82, N-277, N-330, N-352, N-353, N-591, N-875, N-955, N-960, N-961, N-968, N-10000, N-10006, N-10012, N-10013, N-10074, N-10167, N-10533, N-10637, N-10827, N-10832, N-10880, N-10882, N-10886, N-10889, N-10891, N-10915, N-10923, N-10925, N-11110, N-11111, N-11218, N-11297, N-11313, N-11426, N-11434, N-11435, N-11443
+  - Tip-minted Nodes (daily-2026-10-20): N-969, N-970, N-11356, N-11357, N-11358
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-27, N-40, N-41, N-68, N-82, N-277, N-330, N-352, N-353, N-591, N-875, N-955, N-960, N-961, N-968, N-10000, N-10006, N-10012, N-10013, N-10071, N-10160, N-10488, N-10582, N-10750, N-10755, N-10801, N-10803, N-10807, N-10810, N-10812, N-10836, N-10844, N-10846, N-11028, N-11029, N-11134, N-11213, N-11229, N-11338, N-11340, N-11348, N-11354
   - Claim Range: C-14398–C-14474
   - (see registers)
 
@@ -41,7 +41,7 @@ Video Timestamp: 00:02:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14401, N-10827*
+*Related: C-14401, N-10750*
 
 **A-3409.2** Host verbal reference to an emailed tip that Blake Wynn's father was raided in 2004
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14437, N-352, N-970, N-11445*
+*Related: C-14437, N-352, N-970, N-11356*
 
 **A-3409.3** Host verbal request for tips on the Timpanogos Hospital board members, at the "more tips" email
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:20:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14449, N-11218, N-11447*
+*Related: C-14449, N-11134, N-11358*
 
 **A-3409.4** Host verbal reference to many emails from parents at a school where Erika Kirk is scheduled to speak
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:32:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14463, N-2, N-11297*
+*Related: C-14463, N-2, N-11213*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:06:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14413, C-14414, C-14415, C-14416, C-14417, C-14418, N-11, N-10827, N-10167*
+*Related: C-14413, C-14414, C-14415, C-14416, C-14417, C-14418, N-11, N-10750, N-10160*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:11:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14422, C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, N-330, N-10880, N-10013, N-11446*
+*Related: C-14422, C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, N-330, N-10801, N-10013, N-11357*
 
 **A-3412.2** Discord message about a missing "$10 incentive" for the "AL" White House Correspondents' Dinner clip
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:15:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14433, C-14434, C-14435, N-10013, N-10880, N-10923, N-10637*
+*Related: C-14433, C-14434, C-14435, N-10013, N-10801, N-10844, N-10582*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:18:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, N-970, N-353, N-11445*
+*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, N-970, N-353, N-11356*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:20:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14445, C-14446, C-14447, N-955, N-11218, N-11447*
+*Related: C-14445, C-14446, C-14447, N-955, N-11134, N-11358*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:27:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14459, C-14460, C-14461, N-277, N-960, N-591, N-968, N-11443*
+*Related: C-14459, C-14460, C-14461, N-277, N-960, N-591, N-968, N-11354*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:32:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14464, C-14465, C-14466, C-14467, N-2, N-11297*
+*Related: C-14464, C-14465, C-14466, C-14467, N-2, N-11213*
 
 ---
 
@@ -343,99 +343,99 @@ Platform where the clipping messages were found.
 
 *Related: C-14423, C-14433, A-3412.1, A-3412.2*
 
-**N-10074** Provo, Utah
+**N-10071** Provo, Utah
 
 Val Peterson once sat on the Provo airport board.
 
 *Related: C-14446*
 
-**N-10167** Tyler Bowyer X Defense Pattern
+**N-10160** Tyler Bowyer X Defense Pattern
 
 Bowyer's DMs defending the organization.
 
 *Related: C-14413, C-14415*
 
-**N-10533** Club America High School Pushback
+**N-10488** Club America High School Pushback
 
 *Related: C-14462*
 
-**N-10637** WHCD Incident Reconstruction
+**N-10582** WHCD Incident Reconstruction
 
 *Related: C-14408, C-14430, C-14431, C-14433*
 
-**N-10827** Statue Vandalism Investigation
+**N-10750** Statue Vandalism Investigation
 
 *Related: C-14400, C-14401, C-14402, C-14403, C-14409, C-14410, C-14412, C-14413, C-14414, C-14415, C-14416, C-14417, C-14418, C-14419, C-14469*
 
-**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-10755** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 *Related: C-14437, C-14443*
 
-**N-10880** Monster Lab / Clippet
+**N-10801** Monster Lab / Clippet
 
 *Related: C-14421, C-14422, C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, C-14432, C-14433, C-14434*
 
-**N-10882** Enclave and Key
+**N-10803** Enclave and Key
 
 *Related: C-14432, C-14436*
 
-**N-10886** Latvia
+**N-10807** Latvia
 
 *Related: C-14423*
 
-**N-10889** Atlantic Elephant Clipping Expose
+**N-10810** Atlantic Elephant Clipping Expose
 
 *Related: C-14421*
 
-**N-10891** Erika Kirk September 15 2025 Google Drive Clip Seed
+**N-10812** Erika Kirk September 15 2025 Google Drive Clip Seed
 
 *Related: C-14436, C-14470*
 
-**N-10915** White House Ballroom Talking-Point Convergence
+**N-10836** White House Ballroom Talking-Point Convergence
 
 *Related: C-14408*
 
-**N-10923** White House Military Office Erika Kirk Amplification Email
+**N-10844** White House Military Office Erika Kirk Amplification Email
 
 *Related: C-14430, C-14435, C-14436*
 
-**N-10925** Turning Point Action
+**N-10846** Turning Point Action
 
 *Related: C-14403, C-14417*
 
-**N-11110** Erika Kirk and Tyler Bowyer First-Meeting Account
+**N-11028** Erika Kirk and Tyler Bowyer First-Meeting Account
 
 *Related: C-14405*
 
-**N-11111** Tyler Bowyer Legal and Debt History Claims
+**N-11029** Tyler Bowyer Legal and Debt History Claims
 
 *Related: C-14404*
 
-**N-11218** Timpanogos Regional Hospital
+**N-11134** Timpanogos Regional Hospital
 
 *Related: C-14445, C-14447, C-14448, C-14449*
 
-**N-11297** TPUSA Mandatory Student Attendance at Erika Kirk Events
+**N-11213** TPUSA Mandatory Student Attendance at Erika Kirk Events
 
 *Related: C-14462, C-14463, C-14464, C-14465, C-14466, C-14467*
 
-**N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting
+**N-11229** Candace Owens Leave and Baron Coleman Substitute Hosting
 
 *Related: C-14399, C-14400, C-14471, C-14474*
 
-**N-11426** Val Peterson September 10 Whereabouts
+**N-11338** Val Peterson September 10 Whereabouts
 
 *Related: C-14450, C-14451*
 
-**N-11434** Katie Zacharia Lawyer Credential Question
+**N-11340** Katie Zacharia Lawyer Credential Question
 
 *Related: C-14398, C-14453, C-14454, C-14459*
 
-**N-11435** Turning Point Action Funds Depletion Email
+**N-11348** Turning Point Action Funds Depletion Email
 
 *Related: C-14417*
 
-**N-11443** Fort Hood Shooter Execution Livestream Question
+**N-11354** Fort Hood Shooter Execution Livestream Question
 
 *Related: C-14457, C-14458, C-14461*
 
@@ -451,26 +451,26 @@ First named by the host at 00:17:30 in episode 167. Brother of Steve Wynn; the h
 
 *Related: C-14437, C-14438, C-14439, C-14440, A-3413.1*
 
-**N-11445** Kenneth Wynn 2004 Child Pornography Investigation
+**N-11356** Kenneth Wynn 2004 Child Pornography Investigation
 
 Node Type: Topic
 The 2004 federal (ICE Operation Predator) child pornography investigation in which Kenny Wynn's home computer was reportedly seized. The host raises it as part of a child-abuse pattern in the TPUSA orbit.
 
 *Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, A-3413.1, N-970, N-352*
 
-**N-11446** Monster Lab Erika Kirk Name Ban
+**N-11357** Monster Lab Erika Kirk Name Ban
 
 Node Type: Topic
 Discord messages in which Monster Lab clippers were allegedly told to delete messages, not use Erika Kirk's name, and use "EK", with bans for mentioning her. Surfaced by Baron Coleman via a misspelled "Ekka Kirk" message.
 
-*Related: C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, A-3412.1, N-10880*
+*Related: C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, A-3412.1, N-10801*
 
-**N-11447** Timpanogos Hospital Board Membership Question
+**N-11358** Timpanogos Hospital Board Membership Question
 
 Node Type: Topic
 Who sits or sat on the board of Timpanogos Regional Hospital, where Charlie Kirk was taken, given Val Peterson's former seat. The host says the membership is not public.
 
-*Related: C-14445, C-14447, C-14448, C-14449, A-3414.1, N-955, N-11218*
+*Related: C-14445, C-14447, C-14448, C-14449, A-3414.1, N-955, N-11134*
 
 ---
 
@@ -486,7 +486,7 @@ Transcript Snippet: Katie Zacharia, press secretary, the one I had only just beg
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: White House announcements and press coverage of Zacharia's departure in October 2026.
 
@@ -502,7 +502,7 @@ Transcript Snippet: We only have four more episodes before my maternity leave.
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-11313
+Related Nodes: N-11229
 Tags: relevance:tangential
 Investigative Direction: The show's episode schedule over the following week.
 
@@ -518,7 +518,7 @@ Transcript Snippet: I received an update on Thursday and I was so very excited t
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10827, N-11313
+Related Nodes: N-10750, N-11229
 Tags: relevance:core
 Investigative Direction: The source and date of the Tyler Bowyer DM exchange shown later in the episode.
 
@@ -534,7 +534,7 @@ Transcript Snippet: Special shout out to a sleuth out in Alaska named Jenny.
 
 Anchored Artifacts: A-3409.1
 Mentions: N-3
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The show's tip correspondence about the statue update.
 
@@ -550,7 +550,7 @@ Transcript Snippet: I messaged Bobby Sauce at take naps on on uh Instagram and I
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:tangential
 Investigative Direction: The Instagram account referenced and its posts on the statue.
 
@@ -566,7 +566,7 @@ Transcript Snippet: Turning Point Actions Tyler Bowyer is the one who had the Ch
 
 Anchored Artifacts:
 Mentions: N-11, N-1
-Related Nodes: N-10925, N-10827
+Related Nodes: N-10846, N-10750
 Supports: C-14352
 Tags: relevance:core
 Investigative Direction: TPUSA and Turning Point Action announcements of the statue unveiling in September 2026.
@@ -583,7 +583,7 @@ Transcript Snippet: is a sexual deviant who would potentially even be in federal
 
 Anchored Artifacts:
 Mentions: N-11, N-5
-Related Nodes: N-11111
+Related Nodes: N-11029
 Supports: C-14345
 Tags: relevance:context
 Investigative Direction: The November 2025 presidential pardon list for the 2020 alternate electors and the Arizona fake-elector case docket.
@@ -600,7 +600,7 @@ Transcript Snippet: He's also the person who happened to introduce Erica to Char
 
 Anchored Artifacts:
 Mentions: N-11, N-2, N-1
-Related Nodes: N-11110
+Related Nodes: N-11028
 Tags: relevance:core
 Investigative Direction: Erika Kirk's and TPUSA's public accounts of how she met Charlie Kirk.
 
@@ -648,7 +648,7 @@ Transcript Snippet: And they started doing the thing again um following the Whit
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10000, N-10637, N-10915
+Related Nodes: N-10000, N-10582, N-10836
 Tags: relevance:core
 Investigative Direction: TPUSA emails and social posts in the days after the WHCD and after the statue vandalism.
 
@@ -664,7 +664,7 @@ Transcript Snippet: they might be orchestrating red paint to be put in the exact
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Photos of the vandalized statue and the police report.
 
@@ -680,7 +680,7 @@ Transcript Snippet: it sure is weird that they're refusing to release any furthe
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10000, N-10827
+Related Nodes: N-10000, N-10750
 Supports: C-14354
 Tags: relevance:core
 Investigative Direction: Phoenix police report on the vandalism and any TPUSA statement on suspect descriptions.
@@ -713,7 +713,7 @@ Transcript Snippet: But now it's been over a month since the incident took place
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The date of the vandalism and TPUSA headquarters' camera coverage.
 
@@ -729,7 +729,7 @@ Transcript Snippet: And while someone was live watching this show on Thursday an
 
 Anchored Artifacts: A-3411.1
 Mentions: N-11
-Related Nodes: N-10827, N-10167
+Related Nodes: N-10750, N-10160
 Tags: relevance:core
 Investigative Direction: The original DM screenshots and the viewer who sent them.
 
@@ -745,7 +745,7 @@ Transcript Snippet: And Tyler says, "The cops investigated, but the gang bangers
 
 Anchored Artifacts: A-3411.1
 Mentions: N-11
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Phoenix police case file on the statue vandalism.
 
@@ -761,7 +761,7 @@ Transcript Snippet: How does more cameras help with people that were wearing hoo
 
 Anchored Artifacts: A-3411.1
 Mentions: N-11
-Related Nodes: N-10827, N-10167
+Related Nodes: N-10750, N-10160
 Tags: relevance:core
 Investigative Direction: The DM screenshots and any TPUSA surveillance footage of the incident.
 
@@ -777,7 +777,7 @@ Transcript Snippet: So, we know there's more than one person. And they also cove
 
 Anchored Artifacts: A-3411.1
 Mentions: N-11
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Phoenix police case status for the statue vandalism.
 
@@ -793,7 +793,7 @@ Transcript Snippet: "What's crazier is running out of financial resources and ne
 
 Anchored Artifacts: A-3411.1
 Mentions: N-11
-Related Nodes: N-10925, N-11435, N-10827
+Related Nodes: N-10846, N-11348, N-10750
 Tags: relevance:core
 Investigative Direction: The Turning Point Action funds email and the organization's FEC filings.
 
@@ -809,7 +809,7 @@ Transcript Snippet: "Yes, the statue is near and dear to me because I worked wit
 
 Anchored Artifacts: A-3411.1
 Mentions: N-11
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: The statue's commissioning records and the sculptor's statements.
 
@@ -825,7 +825,7 @@ Transcript Snippet: As I said, the case is closed.
 
 Anchored Artifacts:
 Mentions: N-3
-Related Nodes: N-10827
+Related Nodes: N-10750
 Tags: relevance:core
 Investigative Direction: Whether any police or TPUSA statement has closed the vandalism case.
 
@@ -857,7 +857,7 @@ Transcript Snippet: this entire website, Monster Lab, which appears to have been
 
 Anchored Artifacts:
 Mentions: N-2, N-1
-Related Nodes: N-10880, N-10889
+Related Nodes: N-10801, N-10810
 Supports: C-13937
 Tags: relevance:core
 Investigative Direction: Wayback Machine captures of the Monster Lab domain and The Atlantic's reporting.
@@ -874,7 +874,7 @@ Transcript Snippet: Baron Coleman found a relic of a campaign from February of t
 
 Anchored Artifacts: A-3412.1
 Mentions: N-330
-Related Nodes: N-10880
+Related Nodes: N-10801
 Tags: relevance:core
 Investigative Direction: The original Discord server archive Coleman used.
 
@@ -890,7 +890,7 @@ Transcript Snippet: It looks like the Latvian Dweeb was working to bolster Erica
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2
-Related Nodes: N-10880, N-10886, N-10013, N-11446
+Related Nodes: N-10801, N-10807, N-10013, N-11357
 Tags: relevance:core
 Investigative Direction: Monster Lab Discord rules channel and the operator's identity.
 
@@ -906,7 +906,7 @@ Transcript Snippet: Because they didn't spell her name correctly. It was Ekka Ki
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2, N-330
-Related Nodes: N-10880, N-11446
+Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord message itself, its server and its author.
 
@@ -922,7 +922,7 @@ Transcript Snippet: Now, notice this is February 22nd, 2026. The Erika Kirk AmFe
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2
-Related Nodes: N-10880, N-11446
+Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The message timestamp and AmericaFest 2025 dates.
 
@@ -938,7 +938,7 @@ Transcript Snippet: Delete the message. Why are they telling this person to dele
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2
-Related Nodes: N-10880, N-11446
+Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord replies and the moderator accounts that posted them.
 
@@ -954,7 +954,7 @@ Transcript Snippet: What's a good way to get kicked out of this thing? Let peopl
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2
-Related Nodes: N-10880, N-11446
+Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord thread and server rules.
 
@@ -970,7 +970,7 @@ Transcript Snippet: They're using the stop emoji. I lowkey need my staff tag. I 
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2
-Related Nodes: N-10880, N-11446
+Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: The Discord messages showing the emoji reactions and "EK" instruction.
 
@@ -986,7 +986,7 @@ Transcript Snippet: You're gonna get banned for mentioning Erika Kirk's name.
 
 Anchored Artifacts: A-3412.1
 Mentions: N-2
-Related Nodes: N-10880, N-11446
+Related Nodes: N-10801, N-11357
 Tags: relevance:core
 Investigative Direction: Discord moderation logs and ban records for the campaign.
 
@@ -1002,7 +1002,7 @@ Transcript Snippet: the email that went out on the night of the White House corr
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10923, N-10637
+Related Nodes: N-10844, N-10582
 Supports: C-9546
 Tags: relevance:core
 Investigative Direction: FOIA responses for the White House Military Office / Department of War email.
@@ -1019,7 +1019,7 @@ Transcript Snippet: Blake Wynn, Erica's dear friend, was by her side when she ut
 
 Anchored Artifacts:
 Mentions: N-352, N-2
-Related Nodes: N-10637
+Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Full footage of Erika Kirk leaving the WHCD and who filmed the clip.
 
@@ -1035,7 +1035,7 @@ Transcript Snippet: Blake's company, Enclave and Key, is exactly the company tha
 
 Anchored Artifacts:
 Mentions: N-352, N-2
-Related Nodes: N-10882, N-10880
+Related Nodes: N-10803, N-10801
 Supports: C-13981
 Tags: relevance:core
 Investigative Direction: Enclave and Key's client agreements with Monster Lab and The Atlantic's reporting.
@@ -1052,7 +1052,7 @@ Transcript Snippet: Somebody wrote, "I don't think we've gotten the $10 incentiv
 
 Anchored Artifacts: A-3412.2
 Mentions: N-2
-Related Nodes: N-10013, N-10880, N-10637
+Related Nodes: N-10013, N-10801, N-10582
 Tags: relevance:core
 Investigative Direction: The Discord message, its date and the "anti-left" campaign listing.
 
@@ -1068,7 +1068,7 @@ Transcript Snippet: that clipping campaign is called anti-left.
 
 Anchored Artifacts: A-3412.2
 Mentions:
-Related Nodes: N-10880
+Related Nodes: N-10801
 Tags: relevance:core
 Investigative Direction: Monster Lab campaign listings archived for spring 2026.
 
@@ -1084,7 +1084,7 @@ Transcript Snippet: it lines up exactly with the email that we intercepted which
 
 Anchored Artifacts: A-3412.2
 Mentions:
-Related Nodes: N-10923
+Related Nodes: N-10844
 Supports: C-9267
 Tags: relevance:core
 Investigative Direction: The intercepted email's distribution list and any matching Monster Lab payout records.
@@ -1101,7 +1101,7 @@ Transcript Snippet: Blake's enclaving key which had already been providing the G
 
 Anchored Artifacts:
 Mentions: N-352, N-2
-Related Nodes: N-10882, N-10891, N-10923
+Related Nodes: N-10803, N-10812, N-10844
 Supports: C-13915
 Tags: relevance:core
 Investigative Direction: Monster Lab campaign funding records and Enclave and Key payments.
@@ -1118,7 +1118,7 @@ Transcript Snippet: someone emailed us a tip that Blake's father, Blake's father
 
 Anchored Artifacts: A-3409.2, A-3413.1
 Mentions: N-352, N-970
-Related Nodes: N-11445, N-10832
+Related Nodes: N-11356, N-10755
 Tags: relevance:tangential
 Investigative Direction: Public records on Blake Wynn's parentage and the 2004 Las Vegas Sun reports.
 
@@ -1134,7 +1134,7 @@ Transcript Snippet: Kenny Wynn, the brother of hotel casino developer Steve Wynn
 
 Anchored Artifacts: A-3413.1
 Mentions: N-970, N-353
-Related Nodes: N-11445
+Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Las Vegas Sun, February 26 and March 4, 2004; ICE records. The coverage found reports no charges filed.
 
@@ -1150,7 +1150,7 @@ Transcript Snippet: came under suspicion when investigators taking part in Opera
 
 Anchored Artifacts: A-3413.1
 Mentions: N-970
-Related Nodes: N-11445
+Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: The search warrant application and the Regpay investigation records.
 
@@ -1166,7 +1166,7 @@ Transcript Snippet: authorities confiscated a computer from Kenny Wynn Kenny Wyn
 
 Anchored Artifacts: A-3413.1
 Mentions: N-970
-Related Nodes: N-11445
+Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Search warrant return and any later charging decision.
 
@@ -1182,7 +1182,7 @@ Transcript Snippet: Operation Predator started in July under the Bureau of Immig
 
 Anchored Artifacts: A-3413.1
 Mentions:
-Related Nodes: N-11445
+Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: ICE's July 2003 Operation Predator announcement.
 
@@ -1198,7 +1198,7 @@ Transcript Snippet: The operation has led to more than 1,700 arrests in the Unit
 
 Anchored Artifacts: A-3413.1
 Mentions:
-Related Nodes: N-11445
+Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: ICE Operation Predator statistics for early 2004.
 
@@ -1214,7 +1214,7 @@ Transcript Snippet: Definitely makes you think about what he was going through g
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10832
+Related Nodes: N-10755
 Supports: C-14261
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's phone records and accounts of White House contacts in summer 2025.
@@ -1247,7 +1247,7 @@ Transcript Snippet: according to Val's current government biography and the UVU 
 
 Anchored Artifacts: A-3414.1
 Mentions: N-955, N-1
-Related Nodes: N-11218, N-11447
+Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: Val Peterson's Utah legislature biography and UVU profile.
 
@@ -1263,7 +1263,7 @@ Transcript Snippet: And at one point, he also sat on the board of Provo airport.
 
 Anchored Artifacts: A-3414.1
 Mentions: N-955
-Related Nodes: N-10074
+Related Nodes: N-10071
 Tags: relevance:context
 Investigative Direction: Provo Municipal Airport advisory board records.
 
@@ -1279,7 +1279,7 @@ Transcript Snippet: So he is no longer on the board as of 2019.
 
 Anchored Artifacts: A-3414.1
 Mentions: N-955
-Related Nodes: N-11218, N-11447
+Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: Timpanogos Regional Hospital governing board records.
 
@@ -1295,7 +1295,7 @@ Transcript Snippet: who else is on the board of Timpanogos Hospital? And unfortu
 
 Anchored Artifacts:
 Mentions:
-Related Nodes: N-11218, N-11447
+Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: HCA Healthcare / MountainStar disclosures of Timpanogos board members.
 
@@ -1311,7 +1311,7 @@ Transcript Snippet: Please email us at moretips@candaceowens.com.
 
 Anchored Artifacts: A-3409.3
 Mentions: N-3
-Related Nodes: N-11218, N-11447
+Related Nodes: N-11134, N-11358
 Tags: relevance:core
 Investigative Direction: Tips received at moretips@candaceowens.com.
 
@@ -1327,7 +1327,7 @@ Transcript Snippet: we have been informed as I told you by two extremely reliabl
 
 Anchored Artifacts:
 Mentions: N-955, N-41
-Related Nodes: N-11426
+Related Nodes: N-11338
 Supports: C-14330
 Tags: relevance:core
 Investigative Direction: Cox's September 10, 2025 calendar and golf course records.
@@ -1344,7 +1344,7 @@ Transcript Snippet: We reached out to Governor Cox's office last week on Sat on 
 
 Anchored Artifacts:
 Mentions: N-41
-Related Nodes: N-11426
+Related Nodes: N-11338
 Tags: relevance:core
 Investigative Direction: The show's inquiry and any reply from the governor's office.
 
@@ -1376,7 +1376,7 @@ Transcript Snippet: relative to Trump being feeling some embarrassment which is 
 
 Anchored Artifacts:
 Mentions: N-960, N-5
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: News reports on the reasons for Zacharia's departure.
 
@@ -1392,7 +1392,7 @@ Transcript Snippet: where she passed the bar exam when she said that, you know, 
 
 Anchored Artifacts:
 Mentions: N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Supports: C-14284
 Tags: relevance:context
 Investigative Direction: The White House briefing video and transcript.
@@ -1441,7 +1441,7 @@ Transcript Snippet: He was a fan of Katie Zacharia and he also had the same pers
 
 Anchored Artifacts:
 Mentions: N-277, N-960
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:tangential
 Investigative Direction: The Tim Dillon Show episode covering both topics.
 
@@ -1457,7 +1457,7 @@ Transcript Snippet: Pete Hegseth's plan for a live execution
 
 Anchored Artifacts:
 Mentions: N-591, N-277, N-960
-Related Nodes: N-11443
+Related Nodes: N-11354
 Supports: C-14379
 Tags: relevance:context
 Investigative Direction: Hegseth's announcement and Trump's later Truth Social post.
@@ -1474,7 +1474,7 @@ Transcript Snippet: Katie Zacharia out, I believe that's her name. She was the p
 
 Anchored Artifacts: A-3416.1
 Mentions: N-277, N-960
-Related Nodes: N-11434
+Related Nodes: N-11340
 Tags: relevance:context
 Investigative Direction: The Tim Dillon Show episode.
 
@@ -1506,7 +1506,7 @@ Transcript Snippet: the Fort Hood shooter would get shot in the head. But that w
 
 Anchored Artifacts: A-3416.1
 Mentions: N-277, N-968
-Related Nodes: N-11443
+Related Nodes: N-11354
 Tags: relevance:context
 Investigative Direction: Department of War and Army statements on Hasan's execution.
 
@@ -1522,7 +1522,7 @@ Transcript Snippet: this frankly bizarre pursuit of middle school audiences now 
 
 Anchored Artifacts:
 Mentions: N-2
-Related Nodes: N-10533, N-11297
+Related Nodes: N-10488, N-11213
 Supports: C-14266
 Tags: relevance:core
 Investigative Direction: School invitations and TPUSA booking records for Erika Kirk school appearances.
@@ -1539,7 +1539,7 @@ Transcript Snippet: We have received a ton of emails from parents at a school
 
 Anchored Artifacts: A-3409.4
 Mentions: N-2
-Related Nodes: N-11297
+Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The parent emails and the school's event announcement.
 
@@ -1555,7 +1555,7 @@ Transcript Snippet: we're talking prek through 12 for a Veterans Day assembly.
 
 Anchored Artifacts: A-3417.1
 Mentions: N-2
-Related Nodes: N-11297
+Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The school's event calendar.
 
@@ -1571,7 +1571,7 @@ Transcript Snippet: It's another Christian school and they're announcing her as 
 
 Anchored Artifacts: A-3417.1
 Mentions: N-2
-Related Nodes: N-11297
+Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The school's flyer and chapel schedule.
 
@@ -1587,7 +1587,7 @@ Transcript Snippet: We we warmly invite veterans and active military members. An
 
 Anchored Artifacts: A-3417.1
 Mentions: N-2
-Related Nodes: N-11297
+Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The unredacted flyer.
 
@@ -1603,7 +1603,7 @@ Transcript Snippet: parents are allowed to opt their kids out of this schoolwide
 
 Anchored Artifacts: A-3417.1
 Mentions: N-2
-Related Nodes: N-11297
+Related Nodes: N-11213
 Tags: relevance:core
 Investigative Direction: The school's parent communication on the assembly.
 
@@ -1635,7 +1635,7 @@ Transcript Snippet: It's interesting how Turning Point USA immediately offered a
 
 Anchored Artifacts:
 Mentions: N-1
-Related Nodes: N-10000, N-10827
+Related Nodes: N-10000, N-10750
 Supports: C-14358
 Tags: relevance:core
 Investigative Direction: TPUSA's reward announcements after the vandalism and after the assassination.
@@ -1652,7 +1652,7 @@ Transcript Snippet: It was Tyler Robinson and he was forgiven 11 days on, which 
 
 Anchored Artifacts:
 Mentions: N-40
-Related Nodes: N-10891
+Related Nodes: N-10812
 Tags: relevance:core
 Investigative Direction: The date of Erika Kirk's memorial forgiveness remarks against the September 15 clip seed.
 
@@ -1668,7 +1668,7 @@ Transcript Snippet: I'll join Baron for an episode or two.
 
 Anchored Artifacts:
 Mentions: N-3, N-330
-Related Nodes: N-11313
+Related Nodes: N-11229
 Tags: relevance:tangential
 Investigative Direction: Show episodes during the host's leave.
 
@@ -1716,7 +1716,7 @@ Transcript Snippet: we now have the substitute teacher crew neck. We have the mu
 
 Anchored Artifacts:
 Mentions: N-330
-Related Nodes: N-11313
+Related Nodes: N-11229
 Tags: relevance:tangential
 Investigative Direction: The candaceowens.com store listings.
 
@@ -1937,9 +1937,9 @@ Confidence: high
 - MISTRANSCRIPTION: "Blake Win" / "Blake Wynn" / "Blake W" -> "Blake Wynn" (00:14:39, 00:16:18, 00:17:30) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=879 (N-352).
 - MISTRANSCRIPTION: "Kenneth Wynn" / "Kenny Wynn" / "Kenny Wynn" / "Win Brother" -> "Kenneth (Kenny) Wynn" / "Wynn brother" (00:17:30, 00:18:11) source: https://lasvegassun.com/news/2004/feb/26/feds-search-house-of-steve-wynns-brother/
 - MISTRANSCRIPTION: "Steve Wynn" -> "Steve Wynn" (00:17:30) source: https://lasvegassun.com/news/2004/feb/26/feds-search-house-of-steve-wynns-brother/ (N-353).
-- MISTRANSCRIPTION: "Enclave and Key" / "enclaving key" -> "Enclave and Key" (00:15:10, 00:16:53) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=910 (N-10882).
+- MISTRANSCRIPTION: "Enclave and Key" / "enclaving key" -> "Enclave and Key" (00:15:10, 00:16:53) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=910 (N-10803).
 - MISTRANSCRIPTION: "AmFest" / "AmFest" -> "AmFest" (AmericaFest) (00:11:58, 00:12:29) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=718
-- MISTRANSCRIPTION: "Timpanogos Hospital" -> "Timpanogos Hospital" (00:19:56) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1196 (N-11218).
+- MISTRANSCRIPTION: "Timpanogos Hospital" -> "Timpanogos Hospital" (00:19:56) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1196 (N-11134).
 - MISTRANSCRIPTION: "Katie Zacharia" / "Katie Zacharia" -> "Katie Zacharia" (00:24:46, 00:27:18, 00:27:48, 00:37:32) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1486 (N-960).
 - MISTRANSCRIPTION: "Pete Hegseth" / "Hegseth" -> "Pete Hegseth" (00:27:18, 00:28:19) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1638 (N-591).
 - MISTRANSCRIPTION: "Fort Hood shooter" -> "Fort Hood shooter" (00:29:53) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1793 (N-968).

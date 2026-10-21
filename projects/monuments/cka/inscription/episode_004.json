@@ -1105,8 +1105,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10038",
-      "ref": "N-10038",
+      "@id": "N-10037",
+      "ref": "N-10037",
       "name": "Text Message Language Anomaly",
       "type": "topic",
       "description": "Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-year-old casual texting.",
@@ -1126,9 +1126,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10039",
-      "ref": "N-10039",
-      "name": "Missing Text Message Timestamps",
+      "@id": "N-10030",
+      "ref": "N-10030",
+      "name": "Text Message Timestamp Discrepancy",
       "type": "topic",
       "description": "Indictment text messages released without timestamps, blocking independent chronology.",
       "related_artifacts": [
@@ -1152,8 +1152,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10040",
-      "ref": "N-10040",
+      "@id": "N-10038",
+      "ref": "N-10038",
       "name": "Robinson On-Campus Linger Timeline",
       "type": "topic",
       "description": "Allegation that Robinson lingered on campus for hours after the shooting attempting to retrieve rifle.",
@@ -1179,8 +1179,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10041",
-      "ref": "N-10041",
+      "@id": "N-10039",
+      "ref": "N-10039",
       "name": "Note Under Keyboard Disposal",
       "type": "topic",
       "description": "Note directing Lance to look under keyboard was destroyed after a photograph was taken.",
@@ -1199,9 +1199,9 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10042",
-      "ref": "N-10042",
-      "name": "Outfit Change Claim",
+      "@id": "N-10019",
+      "ref": "N-10019",
+      "name": "Robinson Outfit Change Discrepancy",
       "type": "topic",
       "description": "Robinson's text references changing outfits and leaving rifle in bush; alleged inconsistency with Cox's same-outfit-for-33-hours claim.",
       "related_artifacts": [
@@ -1223,8 +1223,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10043",
-      "ref": "N-10043",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Two-Person Theory (Maroon vs Stairs)",
       "type": "topic",
       "description": "Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person shown walking the stairs.",
@@ -1245,8 +1245,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10044",
-      "ref": "N-10044",
+      "@id": "N-10041",
+      "ref": "N-10041",
       "name": "Lance Twiggs Protection Allegation",
       "type": "topic",
       "description": "Allegation that Lance was quickly released despite apartment raid and seizure of electronics; family claims feds were dishonest.",
@@ -1267,8 +1267,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10045",
-      "ref": "N-10045",
+      "@id": "N-10042",
+      "ref": "N-10042",
       "name": "Stanford Psychology Family Pattern",
       "type": "topic",
       "description": "Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a 'running theme' in fed ops.",
@@ -1285,8 +1285,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10046",
-      "ref": "N-10046",
+      "@id": "N-10043",
+      "ref": "N-10043",
       "name": "Federal Conspiracy Allegation",
       "type": "topic",
       "description": "Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, framing the episode's investigation.",
@@ -1305,8 +1305,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "topic",
       "description": "Allegation that donors financially pressured Charlie over Candace's invitation to Turning Point conference.",
@@ -1529,8 +1529,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10034",
-      "ref": "N-10034",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Lance Twiggs Family Allegations",
       "type": "investigation_target",
       "description": "Existing topic on what Lance's family says; reused here.",
@@ -1549,8 +1549,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10062",
-      "ref": "N-10062",
+      "@id": "N-10059",
+      "ref": "N-10059",
       "name": "Orem, Utah",
       "type": "investigation_target",
       "description": "City where UVU sits; place Robinson texts that he was stuck in.",
@@ -1566,8 +1566,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10076",
-      "ref": "N-10076",
+      "@id": "N-10073",
+      "ref": "N-10073",
       "name": "Cameragate Investigation",
       "type": "investigation_target",
       "description": "Existing topic for the camera-removal investigation; reused here.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@id": "N-10093",
+      "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
       "type": "investigation_target",
       "description": "Existing topic on Zinn's custody timing; reused here.",
@@ -1603,8 +1603,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Existing topic for the host's pastor operation framing; reused here.",
@@ -1623,8 +1623,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10165",
-      "ref": "N-10165",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
       "type": "investigation_target",
       "description": "Existing topic on releasing campus footage; reused here for the host's footage demands.",
@@ -1644,8 +1644,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10201",
-      "ref": "N-10201",
+      "@id": "N-10193",
+      "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Existing funeral topic; reused here for the funeral remarks claim.",
@@ -1661,8 +1661,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10898",
-      "ref": "N-10898",
+      "@id": "N-10819",
+      "ref": "N-10819",
       "name": "New York Post",
       "type": "investigation_target",
       "description": "Outlet that published the gun photo exclusive and asked for comment.",
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10934",
-      "ref": "N-10934",
+      "@id": "N-10855",
+      "ref": "N-10855",
       "name": "Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
       "type": "investigation_target",
       "description": "Existing topic on donor and sponsor pressure about the host; reused here.",
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-11002",
-      "ref": "N-11002",
+      "@id": "N-10922",
+      "ref": "N-10922",
       "name": "Warner Valley, Utah",
       "type": "place",
       "description": "Area next to St. George where the host's source says Robinson was to be picked up.",
@@ -1714,8 +1714,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11003",
-      "ref": "N-11003",
+      "@id": "N-10923",
+      "ref": "N-10923",
       "name": "American Jewish Committee",
       "type": "organization",
       "description": "Organization Tucker Carlson says called Charlie Kirk an anti-semite in a statement.",
@@ -1731,8 +1731,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11004",
-      "ref": "N-11004",
+      "@id": "N-10924",
+      "ref": "N-10924",
       "name": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
       "type": "topic",
       "description": "Host's source claim that $150 million of Netanyahu money was spent on the first operation against Carlson and the host.",
@@ -1748,8 +1748,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11005",
-      "ref": "N-11005",
+      "@id": "N-10925",
+      "ref": "N-10925",
       "name": "Donor Requests for Funeral Remarks",
       "type": "topic",
       "description": "Host's report that people were offering donations to secure speaking roles at Charlie Kirk's funeral.",
@@ -1776,7 +1776,7 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-10038"
+        "N-10037"
       ],
       "tags": [],
       "claim_timestamp": "00:00:41",
@@ -1804,8 +1804,8 @@
         "A-1106.3"
       ],
       "related_nodes": [
-        "N-10039",
-        "N-10046"
+        "N-10030",
+        "N-10043"
       ],
       "tags": [
         "open_source_investigation"
@@ -1828,7 +1828,7 @@
         "A-1104.1"
       ],
       "related_nodes": [
-        "N-10041"
+        "N-10039"
       ],
       "tags": [],
       "claim_timestamp": "00:05:27",
@@ -1852,7 +1852,7 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:08:15",
@@ -1880,7 +1880,7 @@
         "A-1106.1"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:10:04",
@@ -1901,7 +1901,7 @@
         "A-1104.4"
       ],
       "related_nodes": [
-        "N-10042"
+        "N-10019"
       ],
       "tags": [
         "open_source_investigation"
@@ -1926,7 +1926,7 @@
         "A-1105.3"
       ],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:26:12",
@@ -1949,8 +1949,8 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-10042",
-        "N-10046"
+        "N-10019",
+        "N-10043"
       ],
       "tags": [],
       "claim_timestamp": "00:29:45",
@@ -1975,8 +1975,8 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-10043",
-        "N-10046"
+        "N-10040",
+        "N-10043"
       ],
       "tags": [],
       "claim_timestamp": "00:33:19",
@@ -1996,7 +1996,7 @@
       "claim": "The host says Lance Twiggs's mother received a bachelor of science in psychology from Stanford University, says it seems a running theme in 'fed ops' that there is psychology somewhere in the family, and says she is not saying the mother has anything to do with anything.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10045"
+        "N-10042"
       ],
       "tags": [],
       "claim_timestamp": "00:36:23",
@@ -2022,7 +2022,7 @@
         "A-1109.1"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45",
@@ -2045,7 +2045,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45–00:46:15",
@@ -2086,7 +2086,7 @@
       "claim": "The host says the Robinson-Twiggs texts are written in very proper English with commas and correct punctuation, which she calls a striking contrast with the meme-style text inscribed on the cartridge casings.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10038"
+        "N-10037"
       ],
       "tags": [],
       "claim_timestamp": "00:04:15",
@@ -2111,7 +2111,7 @@
         "A-2710.1"
       ],
       "related_nodes": [
-        "N-10041"
+        "N-10039"
       ],
       "tags": [],
       "claim_timestamp": "00:05:59",
@@ -2136,8 +2136,8 @@
         "A-2710.2"
       ],
       "related_nodes": [
-        "N-10040",
-        "N-10062"
+        "N-10038",
+        "N-10059"
       ],
       "tags": [],
       "claim_timestamp": "00:06:23",
@@ -2159,7 +2159,7 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:06:46",
@@ -2180,7 +2180,7 @@
         "A-2711.1"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [],
       "claim_timestamp": "00:07:37",
@@ -2202,7 +2202,7 @@
         "A-2711.1"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:08:10",
@@ -2225,7 +2225,7 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:08:42",
@@ -2249,7 +2249,7 @@
         "A-2711.2"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10093"
       ],
       "tags": [],
       "claim_timestamp": "00:08:59",
@@ -2269,7 +2269,7 @@
         "A-2710.4"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:11:16",
@@ -2289,7 +2289,7 @@
         "A-2710.5"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:11:46",
@@ -2309,7 +2309,7 @@
         "A-2711.3"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:13:57",
@@ -2330,7 +2330,7 @@
         "A-1106.2"
       ],
       "related_nodes": [
-        "N-10042"
+        "N-10019"
       ],
       "tags": [],
       "claim_timestamp": "00:14:50",
@@ -2351,8 +2351,8 @@
       "claim": "The host says Robinson walked onto campus at 8:07 a.m. and is seen walking back onto campus at 11:51, leaving about four hours unaccounted for.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10042",
-        "N-10165"
+        "N-10019",
+        "N-10158"
       ],
       "tags": [],
       "claim_timestamp": "00:15:26",
@@ -2373,8 +2373,8 @@
       "claim": "The host says the campus is covered with cameras and that the feds have not released footage of Robinson leaving campus and then returning in a different outfit.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10165",
-        "N-10042"
+        "N-10158",
+        "N-10019"
       ],
       "tags": [],
       "claim_timestamp": "00:15:46",
@@ -2394,7 +2394,7 @@
         "A-1104.7"
       ],
       "related_nodes": [
-        "N-10040"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:17:04",
@@ -2417,7 +2417,7 @@
       ],
       "related_nodes": [
         "N-10013",
-        "N-10039"
+        "N-10030"
       ],
       "tags": [],
       "claim_timestamp": "00:17:20",
@@ -2457,7 +2457,7 @@
         "A-1106.1"
       ],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [],
       "claim_timestamp": "00:19:08",
@@ -2478,7 +2478,7 @@
       ],
       "related_nodes": [
         "N-10014",
-        "N-10043"
+        "N-10040"
       ],
       "tags": [],
       "claim_timestamp": "00:19:20",
@@ -2493,7 +2493,7 @@
       "claim": "The host says that everything her source has told her about moments when the public was lied to has proven correct, and that Lance's family is confirming what the source tells her about what happened after the photos were released.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:19:43",
@@ -2639,7 +2639,7 @@
         "A-1104.10"
       ],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:22:52",
@@ -2658,7 +2658,7 @@
       "claim": "The host says her source reports that around 7:00 p.m. everybody locally began receiving text messages that Tyler Robinson was in custody and was being picked up in Warner Valley.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11002",
+        "N-10922",
         "N-10021"
       ],
       "tags": [],
@@ -2695,7 +2695,7 @@
       "claim": "The host says that what Lance's family says about when Lance was picked up and when the home they own was raided matches what her source says, and she hedges with \"allegedly\".",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:24:49",
@@ -2713,7 +2713,7 @@
       "claim": "The host says that apparently Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:25:21",
@@ -2731,8 +2731,8 @@
       "claim": "The host says Lance's family told her the feds seized his electronics, that he is deep on the internet, and that there will definitely be something on the devices.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10044",
-        "N-10034"
+        "N-10041",
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:25:56",
@@ -2812,7 +2812,7 @@
       "claim": "The host says Tyler Robinson's classmate reached out to say wearing the same outfit for so long was incredibly odd because he was very tidy and very clean.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10042"
+        "N-10019"
       ],
       "tags": [],
       "claim_timestamp": "00:29:50",
@@ -2832,7 +2832,7 @@
         "A-2713.1"
       ],
       "related_nodes": [
-        "N-10042"
+        "N-10019"
       ],
       "tags": [],
       "claim_timestamp": "00:30:34",
@@ -2877,8 +2877,8 @@
       ],
       "related_nodes": [
         "N-10013",
-        "N-10039",
-        "N-10046"
+        "N-10030",
+        "N-10043"
       ],
       "tags": [],
       "claim_timestamp": "00:31:57",
@@ -2898,7 +2898,7 @@
         "A-2712.2"
       ],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:32:09",
@@ -2917,8 +2917,8 @@
       "claim": "The host says officials should have footage of Robinson waiting in his Dodge Challenger and drone footage of the manhunt, and that none has been shown.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10165",
-        "N-10040"
+        "N-10158",
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:34:08",
@@ -2936,7 +2936,7 @@
       "claim": "The host says there is no way the feds would release Lance immediately, or intentionally purge him from the released messages, and that the excuse that he is cooperative does not justify it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10044"
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:35:59",
@@ -2957,8 +2957,8 @@
       "claim": "The host says Lance's family, whom she spoke to the day before and again that day, thinks it odd that the feds moved on from him so quickly and felt the feds were dishonest from the start.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10034",
-        "N-10044"
+        "N-10033",
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:36:55",
@@ -2979,7 +2979,7 @@
         "A-1105.4"
       ],
       "related_nodes": [
-        "N-10043",
+        "N-10040",
         "N-10014"
       ],
       "tags": [],
@@ -2998,7 +2998,7 @@
       "claim": "The host says she now believes there is a federal level of corruption and conspiracy involved in the murder, citing unanswered questions from George Zinn to Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10046"
+        "N-10043"
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
@@ -3044,7 +3044,7 @@
         "A-1107.1"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:42:51",
@@ -3124,7 +3124,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-10047",
+        "N-10044",
         "N-10000"
       ],
       "tags": [],
@@ -3169,7 +3169,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-11003"
+        "N-10923"
       ],
       "tags": [],
       "claim_timestamp": "00:46:04",
@@ -3214,7 +3214,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:47:31",
@@ -3239,7 +3239,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:48:20",
@@ -3260,7 +3260,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:49:02",
@@ -3282,7 +3282,7 @@
       "claim": "The host says to Josh Hammer that she knows how he was messaging Charlie and calls on him to release all of his threads with Charlie in the 48 hours leading up to his death.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:49:58",
@@ -3305,7 +3305,7 @@
       "claim": "The host says that when donors first pressured Charlie about her last year she told him not to fight them and to let them think they won, because she had been publicly fired and had to rebuild her life.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10934"
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:50:17",
@@ -3324,8 +3324,8 @@
       "claim": "The host says it was not just Candace, that the people pressuring Charlie also wanted Tucker pulled, and that Charlie realized it was never enough with them.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047",
-        "N-10934"
+        "N-10044",
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:50:35",
@@ -3345,7 +3345,7 @@
       "claim": "The host says that the same people who pressured, threatened and called Charlie an anti-semite then became the fastest to eulogize him and to say look no further, that he effectively died for Netanyahu.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:50:49",
@@ -3367,7 +3367,7 @@
         "A-1109.1"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:51:17",
@@ -3388,7 +3388,7 @@
         "A-1107.3"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:52:17",
@@ -3426,7 +3426,7 @@
       "claim": "The host says that, because she recognized one of the individuals, she was able to figure out who took the camera down and moved his chair about four minutes after Charlie was shot, and that she reached out to that individual.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10076"
+        "N-10073"
       ],
       "tags": [],
       "claim_timestamp": "00:53:53",
@@ -3445,8 +3445,8 @@
       "claim": "The host says she asked a person she has known a long time to let her see the footage from about four or five cameras on that day, without publishing it, so she can tell the world nothing odd happened if that is so.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10076",
-        "N-10165"
+        "N-10073",
+        "N-10158"
       ],
       "tags": [],
       "claim_timestamp": "00:54:02",
@@ -3480,8 +3480,8 @@
       "claim": "The host says she put in a formal request to see all footage from every angle and was told they would speak to the lawyers, and that she believes the world will trust her to say whether there was funny business.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10165",
-        "N-10076"
+        "N-10158",
+        "N-10073"
       ],
       "tags": [],
       "claim_timestamp": "00:55:28",
@@ -3499,8 +3499,8 @@
       "claim": "The host says a source told her that $150 million was spent on the first time they went after Tucker Carlson and Candace Owens and that it came from BB Netanyahu, and she says she wants to confirm it and is not sure it is true.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11004",
-        "N-10139"
+        "N-10924",
+        "N-10134"
       ],
       "tags": [],
       "claim_timestamp": "00:56:01",
@@ -3522,7 +3522,7 @@
         "A-1108.1"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [],
       "claim_timestamp": "00:56:30",
@@ -3543,7 +3543,7 @@
         "A-1108.1"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [],
       "claim_timestamp": "00:57:05",
@@ -3565,7 +3565,7 @@
         "A-1108.1"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [],
       "claim_timestamp": "00:57:46",
@@ -3585,7 +3585,7 @@
       "claim": "The host says that because she feels it is a federal-level conspiracy, there may be somebody else, maybe somebody close to Charlie, who could be involved, and she will say so publicly if she is satisfied there is no conspiracy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10046"
+        "N-10043"
       ],
       "tags": [],
       "claim_timestamp": "00:58:35",
@@ -3604,8 +3604,8 @@
       "claim": "The host says that she has heard people are trying to buy their way to speak, with the message that they have given this much money and want to say remarks about Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11005",
-        "N-10201"
+        "N-10925",
+        "N-10193"
       ],
       "tags": [],
       "claim_timestamp": "00:59:03",
@@ -3624,7 +3624,7 @@
       "claim": "The host says some donors were making threats against Charlie up until the very last minute and that these were financial threats, and says some people are lying that she said a donor tried to kill him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "01:04:29",
@@ -3646,7 +3646,7 @@
       "claim": "The host says she woke up to Bill Ackman's cronies and the New York Post asking whether she would like to comment, and that she told the Post they are just feds and she did not feel like commenting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898"
+        "N-10819"
       ],
       "tags": [],
       "claim_timestamp": "01:04:55",

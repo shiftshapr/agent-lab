@@ -58,7 +58,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -77,7 +77,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -96,7 +96,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -132,7 +132,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -159,8 +159,8 @@
             "C-8992"
           ],
           "related_nodes": [
-            "N-10914",
-            "N-10662"
+            "N-10835",
+            "N-10604"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -208,9 +208,9 @@
           "related_nodes": [
             "N-2",
             "N-370",
-            "N-10913",
-            "N-10637",
-            "N-10638"
+            "N-10834",
+            "N-10582",
+            "N-10583"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -337,7 +337,7 @@
             "C-9005"
           ],
           "related_nodes": [
-            "N-10913",
+            "N-10834",
             "N-10000"
           ],
           "tags": [],
@@ -355,7 +355,7 @@
             "C-9006"
           ],
           "related_nodes": [
-            "N-10913"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -381,7 +381,7 @@
           ],
           "related_nodes": [
             "N-222",
-            "N-10915"
+            "N-10836"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -399,7 +399,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-10915"
+            "N-10836"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -417,7 +417,7 @@
           ],
           "related_nodes": [
             "N-589",
-            "N-10915"
+            "N-10836"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -451,10 +451,10 @@
             "N-298",
             "N-608",
             "N-609",
-            "N-10083",
-            "N-10916",
-            "N-10917",
-            "N-10918"
+            "N-10070",
+            "N-10837",
+            "N-10838",
+            "N-10839"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -512,7 +512,7 @@
             "C-9030"
           ],
           "related_nodes": [
-            "N-10070",
+            "N-10067",
             "N-610",
             "N-612"
           ],
@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10070",
-      "ref": "N-10070",
+      "@id": "N-10067",
+      "ref": "N-10067",
       "name": "Daily Mail",
       "type": "investigation_target",
       "description": "Published the article on Jessica Reed Kraus's marriage and the escort-review allegation.",
@@ -1219,8 +1219,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10081",
-      "ref": "N-10081",
+      "@id": "N-10078",
+      "ref": "N-10078",
       "name": "Israel Influence on US Politics",
       "type": "investigation_target",
       "description": "The FARA propaganda spending and the Israeli-lobby money in Thomas Massie's primary.",
@@ -1238,8 +1238,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10083",
-      "ref": "N-10083",
+      "@id": "N-10070",
+      "ref": "N-10070",
       "name": "AIPAC",
       "type": "investigation_target",
       "description": "Named by the host as teaming up with Trump against Massie, and by Massie as a source of the outside money.",
@@ -1258,8 +1258,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
       "type": "investigation_target",
       "description": "The 35-day-old request to see footage of Charlie Kirk naming Erika Kirk as chairman and CEO.",
@@ -1276,8 +1276,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10341",
-      "ref": "N-10341",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "The host calls the \"steel neck\" surgeon quote the biggest lie.",
@@ -1293,8 +1293,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
       "type": "investigation_target",
       "description": "The host contrasts Erika Kirk's \"Andrew went rogue\" account with Erika initiating a three-way call.",
@@ -1311,14 +1311,16 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10583",
-      "ref": "N-10583",
-      "name": "Aspen Donor Audio Integrity Question",
+      "@id": "N-10606",
+      "ref": "N-10606",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Donors are said to say the CEO-succession video is AI.",
       "related_artifacts": [],
       "related_claims": [
-        "C-9037"
+        "C-9037",
+        "C-8986",
+        "C-9038"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1328,8 +1330,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10637",
-      "ref": "N-10637",
+      "@id": "N-10582",
+      "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "The White House Correspondents' Dinner shooting and Erika Kirk's exit.",
@@ -1348,8 +1350,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10638",
-      "ref": "N-10638",
+      "@id": "N-10583",
+      "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
       "type": "investigation_target",
       "description": "The host doubts that Sidner recorded the exit video and suspects it was sent to her.",
@@ -1367,8 +1369,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10651",
-      "ref": "N-10651",
+      "@id": "N-10593",
+      "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "The host cites evidence of possible contact between Kolvet and Harpole through military-bro YouTubers.",
@@ -1384,8 +1386,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@id": "N-10604",
+      "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "The Show Faith by Works filing and the increased Israeli propaganda spend.",
@@ -1406,27 +1408,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
-      "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
-      "description": "The CEO-appointment footage that the host says has not been produced.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-8986",
-        "C-9037",
-        "C-9038"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10862",
-      "ref": "N-10862",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
       "type": "investigation_target",
       "description": "Erika Kirk told the host Harpole's Shawn Ryan appearance was unauthorized.",
@@ -1442,8 +1425,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10913",
-      "ref": "N-10913",
+      "@id": "N-10834",
+      "ref": "N-10834",
       "name": "Erika Kirk WHCD Exit Video Staging Question",
       "type": "topic",
       "description": "Investigation target: whether the viral video of Erika Kirk saying \"I just want to go home\" as she left the 2026 White House Correspondents' Dinner after shots were fired was staged. The host's $10,000 bounty produced a tip from a person in politics who offered a sworn affidavit and named the alleged recorder. That person is described as a freelancing political operative who had done work with Turning Point USA and was positioned in advance. The tipster says the clip was shared among digital media teams to make it go viral. A second tipster holds an unseen 30-second angle. The host says she will withhold the operative's name until it is confirmed.",
@@ -1476,13 +1459,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-10638"
+        "N-10583"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-10914",
-      "ref": "N-10914",
+      "@id": "N-10835",
+      "ref": "N-10835",
       "name": "Show Faith by Works LLC",
       "type": "organization",
       "description": "FARA-registered entity that the host describes as a propaganda arm of the Israeli Foreign Ministry. Its filing includes a detailed plan aimed at evangelical Christians. Part of that plan is a mobile VR \"October 7th experience\" trailer to be set up in church parking lots, built with Hollywood set designers and paired with biblical calls to action.",
@@ -1500,13 +1483,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10662"
+        "N-10604"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-10915",
-      "ref": "N-10915",
+      "@id": "N-10836",
+      "ref": "N-10836",
       "name": "White House Ballroom Talking-Point Convergence",
       "type": "topic",
       "description": "Investigation target: the near-simultaneous posts by Randy Fine, Andrew Kolvet, Meghan McCain and others after the White House Correspondents' Dinner shooting, each saying the shooting showed why President Trump needs a White House ballroom. The host argues the uniform messaging suggests coordination.",
@@ -1533,8 +1516,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10916",
-      "ref": "N-10916",
+      "@id": "N-10837",
+      "ref": "N-10837",
       "name": "Thomas Massie Kentucky Primary Outside Spending",
       "type": "topic",
       "description": "Investigation target: the roughly $10 million spent against Representative Thomas Massie in his Republican primary in Kentucky. Massie says at least 95% of it came from the Israeli lobby, including the RJC, AIPAC and a PAC called MAGA Kentucky funded by Miriam Adelson, Paul Singer and John Paulson. He says the race has narrowed to a single-point lead.",
@@ -1559,8 +1542,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10917",
-      "ref": "N-10917",
+      "@id": "N-10838",
+      "ref": "N-10838",
       "name": "Republican Jewish Coalition",
       "type": "organization",
       "description": "Named by Thomas Massie as one of the Israeli-lobby proxies funding opposition to him.",
@@ -1578,8 +1561,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10918",
-      "ref": "N-10918",
+      "@id": "N-10839",
+      "ref": "N-10839",
       "name": "MAGA Kentucky",
       "type": "organization",
       "description": "PAC that Thomas Massie says was funded jointly by Miriam Adelson, Paul Singer and John Paulson to oppose him, and that he calls \"neither MAGA nor Kentucky.\"",
@@ -1602,8 +1585,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10919",
-      "ref": "N-10919",
+      "@id": "N-10840",
+      "ref": "N-10840",
       "name": "Andrew Kolvet / House Inhabit PR Collaboration Question",
       "type": "topic",
       "description": "Investigation target: the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband.",
@@ -1633,8 +1616,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10194",
-        "N-10664"
+        "N-10186",
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1674,7 +1657,7 @@
         "A-2556.1"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:00:54",
@@ -1698,8 +1681,8 @@
         "A-2557.1"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10662",
+        "N-10835",
+        "N-10604",
         "N-10026"
       ],
       "tags": [],
@@ -1717,8 +1700,8 @@
         "A-2557.1"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10662"
+        "N-10835",
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:01:56",
@@ -1737,8 +1720,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10081",
-        "N-10662"
+        "N-10078",
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:02:40",
@@ -1755,8 +1738,8 @@
         "A-2557.1"
       ],
       "related_nodes": [
-        "N-10914",
-        "N-10662"
+        "N-10835",
+        "N-10604"
       ],
       "tags": [],
       "claim_timestamp": "00:04:14",
@@ -1776,7 +1759,7 @@
         "A-2556.2"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:05:41",
@@ -1818,8 +1801,8 @@
         "A-2558.2"
       ],
       "related_nodes": [
-        "N-10913",
-        "N-10637"
+        "N-10834",
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -1897,7 +1880,7 @@
         "A-2559.4"
       ],
       "related_nodes": [
-        "N-10637"
+        "N-10582"
       ],
       "tags": [],
       "claim_timestamp": "00:08:50",
@@ -1936,7 +1919,7 @@
         "A-2556.3"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:11:18",
@@ -1957,7 +1940,7 @@
         "A-2556.3"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:11:18",
@@ -1977,7 +1960,7 @@
         "A-2560.1"
       ],
       "related_nodes": [
-        "N-10913",
+        "N-10834",
         "N-10000"
       ],
       "tags": [],
@@ -1996,7 +1979,7 @@
         "A-2558.2"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:12:52",
@@ -2014,7 +1997,7 @@
         "A-2558.2"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:12:52",
@@ -2032,7 +2015,7 @@
         "A-2558.2"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:12:52",
@@ -2049,8 +2032,8 @@
         "A-2558.2"
       ],
       "related_nodes": [
-        "N-10638",
-        "N-10913"
+        "N-10583",
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:13:49",
@@ -2074,7 +2057,7 @@
         "A-2561.1"
       ],
       "related_nodes": [
-        "N-10915"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:16:21",
@@ -2094,7 +2077,7 @@
         "A-2561.2"
       ],
       "related_nodes": [
-        "N-10915"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:16:21",
@@ -2114,7 +2097,7 @@
         "A-2561.3"
       ],
       "related_nodes": [
-        "N-10915"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:16:21",
@@ -2135,7 +2118,7 @@
         "A-2556.4"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:20:38",
@@ -2153,9 +2136,9 @@
       "claim": "The host says President Trump is openly teaming up with AIPAC to unseat Thomas Massie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10083",
-        "N-10916",
-        "N-10081"
+        "N-10070",
+        "N-10837",
+        "N-10078"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
@@ -2176,7 +2159,7 @@
         "A-2562.1"
       ],
       "related_nodes": [
-        "N-10916"
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:22:49",
@@ -2197,7 +2180,7 @@
         "A-2562.1"
       ],
       "related_nodes": [
-        "N-10916"
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:22:49",
@@ -2218,10 +2201,10 @@
         "A-2562.1"
       ],
       "related_nodes": [
-        "N-10916",
-        "N-10917",
-        "N-10083",
-        "N-10081",
+        "N-10837",
+        "N-10838",
+        "N-10070",
+        "N-10078",
         "N-10026"
       ],
       "tags": [],
@@ -2245,8 +2228,8 @@
         "A-2562.1"
       ],
       "related_nodes": [
-        "N-10918",
-        "N-10916"
+        "N-10839",
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:23:39",
@@ -2269,7 +2252,7 @@
         "A-2562.1"
       ],
       "related_nodes": [
-        "N-10916"
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:24:27",
@@ -2289,7 +2272,7 @@
       "claim": "The host alleges that Andrew Kolvet works with YouTubers and \"really nasty people\", including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10919",
+        "N-10840",
         "N-10000"
       ],
       "tags": [],
@@ -2381,7 +2364,7 @@
         "A-2563.1"
       ],
       "related_nodes": [
-        "N-10919"
+        "N-10840"
       ],
       "tags": [],
       "claim_timestamp": "00:28:23",
@@ -2422,7 +2405,7 @@
         "A-2564.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:29:01",
@@ -2480,7 +2463,7 @@
         "A-2564.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:30:36",
@@ -2500,7 +2483,7 @@
         "A-2564.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:30:36",
@@ -2520,7 +2503,7 @@
         "A-2564.1"
       ],
       "related_nodes": [
-        "N-10070"
+        "N-10067"
       ],
       "tags": [],
       "claim_timestamp": "00:31:51",
@@ -2576,7 +2559,7 @@
       "claim": "The host says there seems to be evidence, shown the previous day, that Andrew Kolvet may have been in contact with Brian Harpole, possibly through \"military bros\" YouTubers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10651"
+        "N-10593"
       ],
       "tags": [],
       "claim_timestamp": "00:36:02",
@@ -2595,7 +2578,7 @@
       "claim": "The host says Erika Kirk told her that Brian Harpole appeared on Shawn Ryan's show without TPUSA's permission, and that the host believes this.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10862",
+        "N-10783",
         "N-10000"
       ],
       "tags": [],
@@ -2617,8 +2600,8 @@
       "claim": "The host says the biggest lie was the claim that the surgeon said Charlie Kirk had a steel neck. She alleges Erika Kirk and Andrew Kolvet put words in the surgeon's mouth.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10341",
-        "N-10447"
+        "N-10319",
+        "N-10416"
       ],
       "tags": [],
       "claim_timestamp": "00:37:12",
@@ -2638,7 +2621,7 @@
       "claim": "The host says Erika Kirk claimed Andrew Kolvet \"went rogue\" when, according to the host, Erika initiated the phone call and it was a three-way call.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10447"
+        "N-10416"
       ],
       "tags": [],
       "claim_timestamp": "00:37:12",
@@ -2657,9 +2640,8 @@
       "claim": "The host says TPUSA claims to have a video of Charlie Kirk naming Erika as his successor but has not presented it. She says donors who were present call it completely AI and say Charlie never said it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664",
-        "N-10583",
-        "N-10194"
+        "N-10606",
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:38:15",
@@ -2678,7 +2660,7 @@
       "claim": "The host says Charlie Kirk was very good at mimicking voices and could \"do anyone's voice\". She says he told her he was always practicing voices, which she thinks dates from when he was young.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10664"
+        "N-10606"
       ],
       "tags": [],
       "claim_timestamp": "00:39:44",
@@ -2732,7 +2714,7 @@
         "A-2556.5"
       ],
       "related_nodes": [
-        "N-10913"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:47:36",

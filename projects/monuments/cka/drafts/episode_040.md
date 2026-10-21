@@ -11,19 +11,19 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-711, N-712, N-11015
-  - Hole-minted Nodes (reintro-ep040): N-375, N-498, N-10387, N-10683
+  - Tip-minted Nodes (supplement_2026-10): N-711, N-712, N-10935
+  - Hole-minted Nodes (reintro-ep040): N-375, N-498, N-10360, N-10621
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3509–C-3604
-  - New Nodes Introduced: N-302, N-303, N-304, N-10307, N-10308
-  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-167, N-190, N-224, N-266, N-377, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-713, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014, N-484, N-11013
+  - New Nodes Introduced: N-302, N-303, N-304, N-10289, N-10290
+  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-167, N-190, N-224, N-266, N-377, N-10000, N-10012, N-10061, N-10075, N-10083, N-10096, N-10127, N-10156, N-10190, N-10205, N-10219, N-10234, N-10239, N-10254, N-10272, N-10276, N-10297, N-10214, N-10783, N-713, N-10404, N-10434, N-10293, N-10420, N-10574, N-10934, N-484, N-10933
   - (see registers), N-11
 
 # Episode 40 – Ledger Summary
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-3561–C-3588
-New Nodes Introduced:  N-302, N-303, N-304, N-10307, N-10308
+New Nodes Introduced:  N-302, N-303, N-304, N-10289, N-10290
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -68,7 +68,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-3561, C-3538, C-3539, C-3550, N-159, N-10307, N-11*
+*Related: C-3561, C-3538, C-3539, C-3550, N-159, N-10289, N-11*
 
 ---
 
@@ -132,7 +132,7 @@ Confidence Level: Medium
 
 Host verbally references the call (timed to 6:45 PM French time / 10:45 AM Utah time) and credits "the internet sleuths and the YouTubers" for assembling the information. Calendar entry not directly displayed on air.
 
-*Related: C-3588, N-10308*
+*Related: C-3588, N-10290*
 
 ---
 
@@ -199,7 +199,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1489.1, C-3561, C-3538, C-3539, C-3550, N-10307*
+*Related: A-1489.1, C-3561, C-3538, C-3539, C-3550, N-10289*
 
 ---
 
@@ -255,7 +255,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10307** TPUSA Phoenix Livestream Verification Question
+**N-10289** TPUSA Phoenix Livestream Verification Question
 
 Persistent investigable target: whether and when the announced Phoenix livestream actually occurs, who participates, and what is answered.
 
@@ -268,7 +268,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10308** Macron-Trump 09/10 Phone Call Timing Verification
+**N-10290** Macron-Trump 09/10 Phone Call Timing Verification
 
 Persistent investigable target: verification of the September 10, 2025 phone call between Emmanuel Macron and Donald Trump (6:45 PM French time / 10:45 AM Utah time) as recorded in Macron's public calendar.
 
@@ -314,7 +314,7 @@ Utah Valley University, venue of the September 10 event.
 
 ---
 
-**N-10064** The Pentagon
+**N-10061** The Pentagon
 
 The Pentagon, setting of the press corps discussion.
 
@@ -322,7 +322,7 @@ The Pentagon, setting of the press corps discussion.
 
 ---
 
-**N-10078** TPUSA Financial Apparatus Investigation
+**N-10075** TPUSA Financial Apparatus Investigation
 
 TPUSA finances, topic of the host's response to Neff.
 
@@ -330,7 +330,7 @@ TPUSA finances, topic of the host's response to Neff.
 
 ---
 
-**N-10087** UVU Underground Tunnel / Pipeline Investigation
+**N-10083** UVU Underground Tunnel / Pipeline Investigation
 
 UVU tunnel topic, one of the allegations Neff lists.
 
@@ -338,7 +338,7 @@ UVU tunnel topic, one of the allegations Neff lists.
 
 ---
 
-**N-10100** TPUSA SD Card Removal
+**N-10096** TPUSA SD Card Removal
 
 SD card removal topic.
 
@@ -346,7 +346,7 @@ SD card removal topic.
 
 ---
 
-**N-10132** TPUSA DOGE Department / Financial Audit
+**N-10127** TPUSA DOGE Department / Financial Audit
 
 TPUSA DOGE department topic.
 
@@ -354,7 +354,7 @@ TPUSA DOGE department topic.
 
 ---
 
-**N-10162** SD Card Removal Narrative Discrepancy
+**N-10156** SD Card Removal Narrative Discrepancy
 
 SD card removal narrative discrepancy topic.
 
@@ -362,7 +362,7 @@ SD card removal narrative discrepancy topic.
 
 ---
 
-**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10190** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Mikey McCoy's behavior on September 10.
 
@@ -370,7 +370,7 @@ Mikey McCoy's behavior on September 10.
 
 ---
 
-**N-10213** Rob McCoy / Tyler Bowyer Background Verification
+**N-10205** Rob McCoy / Tyler Bowyer Background Verification
 
 Rob McCoy / Tyler Bowyer background verification topic.
 
@@ -378,7 +378,7 @@ Rob McCoy / Tyler Bowyer background verification topic.
 
 ---
 
-**N-10232** UVU Green Hoodie Person Identification (Resolved)
+**N-10219** UVU Green Hoodie Person Identification (Resolved)
 
 Green hoodie person identification topic.
 
@@ -386,7 +386,7 @@ Green hoodie person identification topic.
 
 ---
 
-**N-10248** Calvary Chapel Network Infiltration Question
+**N-10234** Calvary Chapel Network Infiltration Question
 
 Calvary Chapel network infiltration question.
 
@@ -394,7 +394,7 @@ Calvary Chapel network infiltration question.
 
 ---
 
-**N-10253** Egyptian Military Plane Tracking Investigation
+**N-10239** Egyptian Military Plane Tracking Investigation
 
 Egyptian aircraft tracking investigation.
 
@@ -402,7 +402,7 @@ Egyptian aircraft tracking investigation.
 
 ---
 
-**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+**N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
 Macron lawsuit topic.
 
@@ -410,7 +410,7 @@ Macron lawsuit topic.
 
 ---
 
-**N-10290** French Foreign Legion US Training August 2025
+**N-10272** French Foreign Legion US Training August 2025
 
 French Foreign Legion US training topic.
 
@@ -418,7 +418,7 @@ French Foreign Legion US training topic.
 
 ---
 
-**N-10294** Brigitte Macron Schedule Gap September 4–10, 2025
+**N-10276** Brigitte Macron Schedule Gap September 4–10, 2025
 
 Brigitte Macron schedule gap topic.
 
@@ -426,7 +426,7 @@ Brigitte Macron schedule gap topic.
 
 ---
 
-**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+**N-10293** Maroon Shirt Pattern at UVU September 10 Event
 
 Maroon shirt pattern topic.
 
@@ -434,7 +434,7 @@ Maroon shirt pattern topic.
 
 ---
 
-**N-10316** France / Macron Couple Involvement in Kirk Assassination
+**N-10297** France / Macron Couple Involvement in Kirk Assassination
 
 France / Macron couple involvement topic.
 
@@ -442,7 +442,7 @@ France / Macron couple involvement topic.
 
 ---
 
-**N-10387** Tyler Bowyer Investigation Question
+**N-10360** Tyler Bowyer Investigation Question
 
 Tyler Bowyer investigation question.
 
@@ -450,7 +450,7 @@ Tyler Bowyer investigation question.
 
 ---
 
-**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+**N-10404** Charlie Kirk DOGE Pre-Death Establishment
 
 Charlie Kirk DOGE pre-death establishment topic.
 
@@ -458,7 +458,7 @@ Charlie Kirk DOGE pre-death establishment topic.
 
 ---
 
-**N-10451** USS Liberty Incident Cover-up Investigation
+**N-10420** USS Liberty Incident Cover-up Investigation
 
 USS Liberty incident cover-up investigation.
 
@@ -466,7 +466,7 @@ USS Liberty incident cover-up investigation.
 
 ---
 
-**N-10465** Calvary Chapel Church CIA Connection Question
+**N-10434** Calvary Chapel Church CIA Connection Question
 
 Calvary Chapel CIA connection question.
 
@@ -474,7 +474,7 @@ Calvary Chapel CIA connection question.
 
 ---
 
-**N-10482** Mikey McCoy Phone Call Sequence
+**N-10214** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Mikey McCoy phone call sequence topic.
 
@@ -482,7 +482,7 @@ Mikey McCoy phone call sequence topic.
 
 ---
 
-**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+**N-10574** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 Laura Loomer involuntary psychiatric holds and firearm prohibition topic.
 
@@ -490,7 +490,7 @@ Laura Loomer involuntary psychiatric holds and firearm prohibition topic.
 
 ---
 
-**N-10683** Brian Harpole ER Story Plausibility
+**N-10621** Brian Harpole ER Story Plausibility
 
 Brian Harpole ER story plausibility topic.
 
@@ -498,7 +498,7 @@ Brian Harpole ER story plausibility topic.
 
 ---
 
-**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Harpole Shawn Ryan statements topic.
 
@@ -700,7 +700,7 @@ First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder
 
 ---
 
-**N-11013** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
+**N-10933** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
 
 Node Type: Topic
 Persistent investigable target: whether text messages exist in which Charlie Kirk told TPUSA staff and security guards the day before his death that he thought they would kill him the next day, as the host alleges.
@@ -709,7 +709,7 @@ Persistent investigable target: whether text messages exist in which Charlie Kir
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 Node Type: Topic
 Persistent investigable target: the host's claim that TPUSA made $80 million plus in merchandise sales in the first three weeks after September 10 and its whole annual budget in the first couple of weeks.
@@ -718,7 +718,7 @@ Persistent investigable target: the host's claim that TPUSA made $80 million plu
 
 ---
 
-**N-11015** Pentagon Press Corps Credentialing Overhaul
+**N-10935** Pentagon Press Corps Credentialing Overhaul
 
 Node Type: Topic
 Persistent investigable target: the Pentagon's late-2025 press corps change, who was credentialed (including Laura Loomer and Cam Higby), and the criteria used.
@@ -737,7 +737,7 @@ Claim: TPUSA, via Blake Neff's video statement, announced a planned Phoenix live
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159
-Related Nodes: N-10307
+Related Nodes: N-10289
 Investigative Direction: Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.
 
 ---
@@ -858,7 +858,7 @@ Claim: Per host reference, Emmanuel Macron's public calendar records a phone cal
 
 Anchored Artifacts: A-1493.1
 Mentions: N-5, N-377
-Related Nodes: N-10308
+Related Nodes: N-10290
 Investigative Direction: Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.
 
 ---
@@ -873,7 +873,7 @@ Transcript Snippet: they at long last issued a public invitation or a challenge.
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10307
+Related Nodes: N-10000, N-10289
 Supports: C-3561
 Investigative Direction: Archive the host's on-air acceptance and any written reply to TPUSA; compare with TPUSA's own account of what was offered.
 
@@ -919,7 +919,7 @@ Transcript Snippet: He's been the only person that has been responding in a way 
 
 Anchored Artifacts: 
 Mentions: N-159, N-190, N-3
-Related Nodes: N-10198
+Related Nodes: N-10190
 Investigative Direction: Collect Neff's prior public statements about McCoy's conduct on September 10 and compare them with this statement.
 
 ---
@@ -978,7 +978,7 @@ Transcript Snippet: I do believe that Mikey McCoy should have to answer for who 
 
 Anchored Artifacts: 
 Mentions: N-3, N-190
-Related Nodes: N-10482
+Related Nodes: N-10214
 Investigative Direction: Obtain McCoy's call log or his account of the call he was on at the moment of the shot.
 
 ---
@@ -1007,7 +1007,7 @@ Transcript Snippet: tried to sanitize someone who spent time in prison for being
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10213
+Related Nodes: N-10205
 Investigative Direction: Identify the person in the played clip, check court records for the conviction, and review the original clip of McCoy's remarks.
 
 ---
@@ -1052,7 +1052,7 @@ Transcript Snippet: Definitely never said Turning Point lied because you never r
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Related Nodes: N-10253
+Related Nodes: N-10239
 Investigative Direction: Review earlier episodes for any host statement that TPUSA lied about aircraft.
 
 ---
@@ -1067,7 +1067,7 @@ Transcript Snippet: We then obviously realized that they were tracking TPUSA fai
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Related Nodes: N-10253
+Related Nodes: N-10239
 Supports: C-2917, C-2074
 Investigative Direction: Re-plot the Egyptian-registered aircraft movements against Erika Kirk's public schedule.
 
@@ -1097,7 +1097,7 @@ Transcript Snippet: They did not issue him first aid when he fell down. There wa
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10683
+Related Nodes: N-10621
 Supports: C-2363
 Investigative Direction: Review the available footage and Harpole's own interview for any first-aid attempt.
 
@@ -1113,7 +1113,7 @@ Transcript Snippet: In a sitdown with Shawn Ryan, Brian Harpole said it was beca
 
 Anchored Artifacts: 
 Mentions: N-266, N-224
-Related Nodes: N-10862
+Related Nodes: N-10783
 Investigative Direction: Check the Shawn Ryan interview for the exact Harpole statement on first aid.
 
 ---
@@ -1128,7 +1128,7 @@ Transcript Snippet: Andrew Kolvet sat next to you and said it was because people
 
 Anchored Artifacts: 
 Mentions: N-14, N-159
-Related Nodes: N-10100
+Related Nodes: N-10096
 Supports: C-1358
 Investigative Direction: Find the Kolvet statement on SD card removal and compare it with the other accounts of who took the card and why.
 
@@ -1144,7 +1144,7 @@ Transcript Snippet: People were stealing. you probably would want to grab the ve
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10100, N-10162
+Related Nodes: N-10096, N-10156
 Investigative Direction: Establish what was livestreamed, what equipment was present, and who removed the card.
 
 ---
@@ -1159,7 +1159,7 @@ Transcript Snippet: I didn't say that he abused him. I didn't say it was not con
 
 Anchored Artifacts: 
 Mentions: N-3, N-11
-Related Nodes: N-10387
+Related Nodes: N-10360
 Investigative Direction: Compare with the earlier episode where the host first raised the Bowyer allegation.
 
 ---
@@ -1174,7 +1174,7 @@ Transcript Snippet: And yeah, I can give you the exact name of the intern that h
 
 Anchored Artifacts: A-2732.1
 Mentions: N-3, N-11
-Related Nodes: N-10387
+Related Nodes: N-10360
 Investigative Direction: The host would need to supply the intern's name and corroboration; treat as an unverified allegation.
 
 ---
@@ -1189,7 +1189,7 @@ Transcript Snippet: people that are currently um working for Turning Point USA w
 
 Anchored Artifacts: A-2732.1
 Mentions: N-3, N-11
-Related Nodes: N-10387, N-10000
+Related Nodes: N-10360, N-10000
 Investigative Direction: Unverified allegation from unnamed sources; seek independent corroboration and a response from Bowyer.
 
 ---
@@ -1204,7 +1204,7 @@ Transcript Snippet: She has suggested that TPUSA faith affiliated pastors like t
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-7, N-17, N-3
-Related Nodes: N-10248
+Related Nodes: N-10234
 Investigative Direction: Compare against the host's earlier statements about military ties of Turek and McCoy.
 
 ---
@@ -1219,7 +1219,7 @@ Transcript Snippet: I do believe the Calvary Chapel uh their history with Chuck 
 
 Anchored Artifacts: 
 Mentions: N-3, N-713
-Related Nodes: N-10465, N-10248
+Related Nodes: N-10434, N-10234
 Investigative Direction: Identify the documents or historical sources for a CIA role in Calvary Chapel's founding.
 
 ---
@@ -1234,7 +1234,7 @@ Transcript Snippet: people at Turning Point USA are in possession of text messag
 
 Anchored Artifacts: A-2731.1
 Mentions: N-3, N-1
-Related Nodes: N-11013, N-10000
+Related Nodes: N-10933, N-10000
 Investigative Direction: Obtain the text messages or the host's source; ask TPUSA to confirm or deny that such messages exist.
 
 ---
@@ -1292,7 +1292,7 @@ Transcript Snippet: Charlie made sure the organization was audited by a third pa
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-1
-Related Nodes: N-10078
+Related Nodes: N-10075
 Investigative Direction: Obtain TPUSA's annual audited financial statements and auditor name.
 
 ---
@@ -1307,7 +1307,7 @@ Transcript Snippet: most people are not able to read those forms and won't under
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10078
+Related Nodes: N-10075
 Investigative Direction: Review TPUSA and Turning Point Action Form 990 and LLC filings for the $80 million figure the host references.
 
 ---
@@ -1322,7 +1322,7 @@ Transcript Snippet: I am struck by the fact that you're still trying to conflate
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10132, N-10434
+Related Nodes: N-10127, N-10404
 Supports: C-2136
 Investigative Direction: Obtain the internal TPUSA memo or message that established the DOGE department and its date.
 
@@ -1338,7 +1338,7 @@ Transcript Snippet: inside sources at your own company say it was because he did
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10132
+Related Nodes: N-10127
 Supports: C-2136
 Investigative Direction: Test through the host's sources and the DOGE memo; seek TPUSA's explanation of the department's purpose.
 
@@ -1354,7 +1354,7 @@ Transcript Snippet: Candace has made other stranger allegations involving French
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-3
-Related Nodes: N-10253, N-10087, N-10311
+Related Nodes: N-10239, N-10083, N-10293
 Investigative Direction: Compare each listed item with the host's original statements.
 
 ---
@@ -1369,7 +1369,7 @@ Transcript Snippet: today it broke that like the Saudi king was this plane at so
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10253
+Related Nodes: N-10239
 Investigative Direction: Find the report about the Saudi king and the aircraft and check the tail number and date.
 
 ---
@@ -1384,7 +1384,7 @@ Transcript Snippet: Saying that I went after somebody for wearing a green hoodie
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10232
+Related Nodes: N-10219
 Investigative Direction: Review the host's shows and posts for any discussion of the green hoodie person.
 
 ---
@@ -1399,7 +1399,7 @@ Transcript Snippet: And the person wearing the green hoodie was not even upset a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10232
+Related Nodes: N-10219
 Investigative Direction: Locate the green-hoodie person's response and the post that carried it.
 
 ---
@@ -1414,7 +1414,7 @@ Transcript Snippet: I completely stand by what I said about the people that are 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Investigative Direction: Identify the maroon-shirt individuals and any unit affiliation from public records.
 
 ---
@@ -1429,7 +1429,7 @@ Transcript Snippet: I'm very close to figuring out exactly which military unit t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10311
+Related Nodes: N-10293
 Investigative Direction: Follow later episodes for the unit identification and its evidence.
 
 ---
@@ -1474,7 +1474,7 @@ Transcript Snippet: we shouldn't have to answer questions about secret tunnels o
 
 Anchored Artifacts: A-1489.1
 Mentions: N-159, N-3
-Related Nodes: N-10087, N-10253
+Related Nodes: N-10083, N-10239
 Investigative Direction: Check whether TPUSA ever answered the Egyptian-plane questions in later statements.
 
 ---
@@ -1517,7 +1517,7 @@ Transcript Snippet: they were selling kit of what Charlie died in to the tune of
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11014, N-10000
+Related Nodes: N-10934, N-10000
 Investigative Direction: Obtain TPUSA merchandise sales figures and Form 990 revenue for the period after September 10.
 
 ---
@@ -1532,7 +1532,7 @@ Transcript Snippet: They made their entire budget for the year in the first coup
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11014, N-10000
+Related Nodes: N-10934, N-10000
 Investigative Direction: Compare TPUSA's budgeted annual revenue with post-September 10 receipts.
 
 ---
@@ -1575,7 +1575,7 @@ Transcript Snippet: Sometimes it's Brigitte and why we are colluding uh with nat
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Review the public records and the Macron defamation filings; this is a disputed and litigated claim.
 
 ---
@@ -1650,7 +1650,7 @@ Transcript Snippet: you are not forthcoming about the information that you have 
 
 Anchored Artifacts: A-2731.1
 Mentions: N-3, N-1
-Related Nodes: N-11013, N-10000
+Related Nodes: N-10933, N-10000
 Investigative Direction: Obtain the texts or the host's source; ask TPUSA whether such messages exist.
 
 ---
@@ -1680,7 +1680,7 @@ Transcript Snippet: We could schedule a live stream. We can raise money for Turn
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10000, N-10307
+Related Nodes: N-10000, N-10289
 Investigative Direction: Keep the host's offer text and TPUSA's reply to confirm terms.
 
 ---
@@ -1695,7 +1695,7 @@ Transcript Snippet: So I accept it with whistles and bells. Everything I fully a
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10307, N-10000
+Related Nodes: N-10289, N-10000
 Supports: C-3509
 Investigative Direction: Verify whether TPUSA responded to the proposed date and whether a livestream followed.
 
@@ -1711,7 +1711,7 @@ Transcript Snippet: they decided to undergo a quote unquote press corps makeover
 
 Anchored Artifacts: 
 Mentions: N-3, N-167, N-71
-Related Nodes: N-10064, N-11015
+Related Nodes: N-10061, N-10935
 Investigative Direction: Obtain the Pentagon's press credential policy and list of newly credentialed outlets.
 
 ---
@@ -1726,7 +1726,7 @@ Transcript Snippet: our government, the Pentagon, decide to credential her at th
 
 Anchored Artifacts: 
 Mentions: N-3, N-60
-Related Nodes: N-10064, N-11015
+Related Nodes: N-10061, N-10935
 Supports: C-2389
 Investigative Direction: Confirm Loomer's credential date from the Pentagon press office.
 
@@ -1756,7 +1756,7 @@ Transcript Snippet: she is apparently not allowed to own a gun because of variou
 
 Anchored Artifacts: 
 Mentions: N-3, N-60
-Related Nodes: N-10628
+Related Nodes: N-10574
 Investigative Direction: Seek court or licensing records; the host herself hedges with 'apparently'. This is a health-related allegation about a named person.
 
 ---
@@ -1771,7 +1771,7 @@ Transcript Snippet: Literally a couple of weeks before he died, she called Charl
 
 Anchored Artifacts: A-2733.1
 Mentions: N-3, N-60, N-1, N-39
-Related Nodes: N-10064
+Related Nodes: N-10061
 Investigative Direction: Retrieve the Loomer post and date, and the Smith and Hammer debate it referred to.
 
 ---
@@ -1800,7 +1800,7 @@ Transcript Snippet: she was beside herself with Glee this morning sharing news t
 
 Anchored Artifacts: A-1490.1
 Mentions: N-3, N-60, N-302, N-303
-Related Nodes: N-10064
+Related Nodes: N-10061
 Investigative Direction: Locate Loomer's post sharing the Higby clip and its time.
 
 ---
@@ -1815,7 +1815,7 @@ Transcript Snippet: I obviously reported that the French Foreign Legion were app
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10290
+Related Nodes: N-10272
 Investigative Direction: Compare with the earlier episodes reporting Foreign Legion presence and the French Ministry's denial.
 
 ---
@@ -1844,7 +1844,7 @@ Transcript Snippet: by the way, I have evidence they had French foreign legion o
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10290
+Related Nodes: N-10272
 Investigative Direction: Obtain the evidence the host cites (the Foreign Legion presence) for independent review.
 
 ---
@@ -1859,7 +1859,7 @@ Transcript Snippet: because the president played of France allegedly paid $1.5 m
 
 Anchored Artifacts: 
 Mentions: N-3, N-377
-Related Nodes: N-10316
+Related Nodes: N-10297
 Investigative Direction: The host must identify the source and the accounts; no evidence is shown. Treat as an unverified allegation.
 
 ---
@@ -1874,7 +1874,7 @@ Transcript Snippet: which is a 6.5 million square foot residence office building
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10064
+Related Nodes: N-10061
 Investigative Direction: Verify the Pentagon's floor area and its ranking among office buildings.
 
 ---
@@ -1889,7 +1889,7 @@ Transcript Snippet: Thus far in the Brigitte Macron lawsuit, we have paid over a
 
 Anchored Artifacts: 
 Mentions: N-3, N-82, N-377
-Related Nodes: N-10270
+Related Nodes: N-10254
 Investigative Direction: Review the Delaware docket and the host's disclosures on legal costs.
 
 ---
@@ -1904,7 +1904,7 @@ Transcript Snippet: we can't find the answer as to where Rajit Macron was on the
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
-Related Nodes: N-10294, N-10253
+Related Nodes: N-10276, N-10239
 Investigative Direction: Reconstruct Brigitte Macron's public schedule for September 4 to 10, 2025.
 
 ---
@@ -1919,7 +1919,7 @@ Transcript Snippet: an hour and a half before Charlie Kirk was assassinated in U
 
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-377, N-1
-Related Nodes: N-10308
+Related Nodes: N-10290
 Supports: C-3588
 Investigative Direction: Locate Macron's released calendar entry for September 10 and compare against the time of the shooting.
 
@@ -1935,7 +1935,7 @@ Transcript Snippet: we also know that there's been a lot of discussion about Ukr
 
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-377
-Related Nodes: N-10308
+Related Nodes: N-10290
 Qualifies: C-3588
 Investigative Direction: Ask the Elysee and the White House for the call readout.
 
@@ -2095,7 +2095,7 @@ Transcript Snippet: you could feel a spiritual movement in this room when we int
 
 Anchored Artifacts: 
 Mentions: N-3, N-498
-Related Nodes: N-10451
+Related Nodes: N-10420
 Investigative Direction: Find the Phil Tourney interview episode and its view count.
 
 ---
@@ -2110,7 +2110,7 @@ Transcript Snippet: I'll do this tomorrow. I don't have to be in person. We can 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10307
+Related Nodes: N-10289
 Supports: C-3568
 Investigative Direction: Check whether the livestream was scheduled and how TPUSA answered.
 

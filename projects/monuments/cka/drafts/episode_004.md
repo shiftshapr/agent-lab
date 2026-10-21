@@ -15,14 +15,14 @@
 - **Transcript SHA-256**: 01827eb532b7317b128eba25a70f6def2108e8ca79fdbe46bd399b76d5e2e53f
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11002, N-11003, N-11004, N-11005
-  - Hole-minted Nodes (reintro-ep004): N-180, N-10062, N-10076, N-10139, N-10201
-  - Tip-minted Nodes (reintro-ep004): N-10898, N-10934
+  - Tip-minted Nodes (supplement_2026-10): N-10922, N-10923, N-10924, N-10925
+  - Hole-minted Nodes (reintro-ep004): N-180, N-10059, N-10073, N-10134, N-10193
+  - Tip-minted Nodes (reintro-ep004): N-10819, N-10855
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-300–C-390
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
-  - New Nodes Introduced: N-69, N-70, N-71, N-10038, N-10039, N-10040, N-10041, N-10042, N-10043, N-10044, N-10045, N-10046
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41, N-5, N-37, N-10000, N-10006, N-10013, N-10014, N-10018, N-10021, N-10022, N-10029, N-10034, N-10097, N-10165, N-10047
+  - New Nodes Introduced: N-69, N-70, N-71, N-10037, N-10038, N-10039, N-10040, N-10041, N-10042, N-10043
+  - Reused Nodes Appearing: N-10019, N-10030, N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41, N-5, N-37, N-10000, N-10006, N-10013, N-10014, N-10018, N-10021, N-10022, N-10029, N-10033, N-10093, N-10158, N-10044
 
 ## 2. Executive Summary
 
@@ -545,7 +545,7 @@ Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.
 
 ---
 
-**N-10038** Text Message Language Anomaly
+**N-10037** Text Message Language Anomaly
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -555,7 +555,7 @@ Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-yea
 
 ---
 
-**N-10039** Missing Text Message Timestamps
+**N-10030** Text Message Timestamp Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -565,7 +565,7 @@ Indictment text messages released without timestamps, blocking independent chron
 
 ---
 
-**N-10040** Robinson On-Campus Linger Timeline
+**N-10038** Robinson On-Campus Linger Timeline
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -575,7 +575,7 @@ Allegation that Robinson lingered on campus for hours after the shooting attempt
 
 ---
 
-**N-10041** Note Under Keyboard Disposal
+**N-10039** Note Under Keyboard Disposal
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -585,7 +585,7 @@ Note directing Lance to look under keyboard was destroyed after a photograph was
 
 ---
 
-**N-10042** Outfit Change Claim
+**N-10019** Robinson Outfit Change Discrepancy
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -595,7 +595,7 @@ Robinson's text references changing outfits and leaving rifle in bush; alleged i
 
 ---
 
-**N-10043** Two-Person Theory (Maroon vs Stairs)
+**N-10040** Two-Person Theory (Maroon vs Stairs)
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -605,7 +605,7 @@ Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person 
 
 ---
 
-**N-10044** Lance Twiggs Protection Allegation
+**N-10041** Lance Twiggs Protection Allegation
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -615,7 +615,7 @@ Allegation that Lance was quickly released despite apartment raid and seizure of
 
 ---
 
-**N-10045** Stanford Psychology Family Pattern
+**N-10042** Stanford Psychology Family Pattern
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -625,7 +625,7 @@ Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a
 
 ---
 
-**N-10046** Federal Conspiracy Allegation
+**N-10043** Federal Conspiracy Allegation
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -635,7 +635,7 @@ Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, f
 
 ---
 
-**N-10047** Donor Intimidation of Charlie Kirk
+**N-10044** Donor Intimidation of Charlie Kirk
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -733,7 +733,7 @@ Office Cox says received the family friend's information.
 
 ---
 
-**N-10034** Lance Twiggs Family Allegations
+**N-10033** Lance Twiggs Family Allegations
 
 Existing topic on what Lance's family says; reused here.
 
@@ -741,7 +741,7 @@ Existing topic on what Lance's family says; reused here.
 
 ---
 
-**N-10062** Orem, Utah
+**N-10059** Orem, Utah
 
 City where UVU sits; place Robinson texts that he was stuck in.
 
@@ -749,7 +749,7 @@ City where UVU sits; place Robinson texts that he was stuck in.
 
 ---
 
-**N-10076** Cameragate Investigation
+**N-10073** Cameragate Investigation
 
 Existing topic for the camera-removal investigation; reused here.
 
@@ -757,7 +757,7 @@ Existing topic for the camera-removal investigation; reused here.
 
 ---
 
-**N-10097** George Zinn Arrest Location/Timing
+**N-10093** George Zinn Arrest Location/Timing
 
 Existing topic on Zinn's custody timing; reused here.
 
@@ -765,7 +765,7 @@ Existing topic on Zinn's custody timing; reused here.
 
 ---
 
-**N-10139** Operation Mocking Pastor
+**N-10134** Operation Mocking Pastor
 
 Existing topic for the host's pastor operation framing; reused here.
 
@@ -773,7 +773,7 @@ Existing topic for the host's pastor operation framing; reused here.
 
 ---
 
-**N-10165** Campus Footage Release Strategy Question
+**N-10158** Campus Footage Release Strategy Question
 
 Existing topic on releasing campus footage; reused here for the host's footage demands.
 
@@ -781,7 +781,7 @@ Existing topic on releasing campus footage; reused here for the host's footage d
 
 ---
 
-**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Existing funeral topic; reused here for the funeral remarks claim.
 
@@ -789,7 +789,7 @@ Existing funeral topic; reused here for the funeral remarks claim.
 
 ---
 
-**N-10898** New York Post
+**N-10819** New York Post
 
 Outlet that published the gun photo exclusive and asked for comment.
 
@@ -797,7 +797,7 @@ Outlet that published the gun photo exclusive and asked for comment.
 
 ---
 
-**N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
+**N-10855** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
 
 Existing topic on donor and sponsor pressure about the host; reused here.
 
@@ -805,7 +805,7 @@ Existing topic on donor and sponsor pressure about the host; reused here.
 
 ---
 
-**N-11002** Warner Valley, Utah
+**N-10922** Warner Valley, Utah
 
 Node Type: Place
 Area next to St. George where the host's source says Robinson was to be picked up.
@@ -814,7 +814,7 @@ Area next to St. George where the host's source says Robinson was to be picked u
 
 ---
 
-**N-11003** American Jewish Committee
+**N-10923** American Jewish Committee
 
 Node Type: Organization
 Organization Tucker Carlson says called Charlie Kirk an anti-semite in a statement.
@@ -823,7 +823,7 @@ Organization Tucker Carlson says called Charlie Kirk an anti-semite in a stateme
 
 ---
 
-**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
+**N-10924** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
 
 Node Type: Topic
 Host's source claim that $150 million of Netanyahu money was spent on the first operation against Carlson and the host.
@@ -832,7 +832,7 @@ Host's source claim that $150 million of Netanyahu money was spent on the first 
 
 ---
 
-**N-11005** Donor Requests for Funeral Remarks
+**N-10925** Donor Requests for Funeral Remarks
 
 Node Type: Topic
 Host's report that people were offering donations to secure speaking roles at Charlie Kirk's funeral.
@@ -850,7 +850,7 @@ Claim: The host says the alleged Robinson-Twiggs text messages use words like 'r
 Transcript Snippet: I played this game with with my entire staff and um I was able to find since dating back for the last three years two messages where someone used that term. The first person was somebody that was former military and the second person was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
 Mentions: N-40, N-54
-Related Nodes: N-10038
+Related Nodes: N-10037
 Confidence: medium
 Investigative Direction: Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.
 
@@ -863,7 +863,7 @@ Claim: The host says the text messages released in the Robinson indictment have 
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3
 Mentions: N-40
-Related Nodes: N-10039, N-10046
+Related Nodes: N-10030, N-10043
 Confidence: high
 Investigative Direction: FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.
 
@@ -877,7 +877,7 @@ Claim: The host says the feds have told the public that the note Lance Twiggs fo
 Transcript Snippet: even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.
 Anchored Artifacts: A-1104.1
 Mentions: N-40, N-54
-Related Nodes: N-10041
+Related Nodes: N-10039
 Confidence: medium
 Investigative Direction: Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.
 
@@ -890,7 +890,7 @@ Claim: The host says that because Robinson's text references 'similar clothing' 
 Transcript Snippet: the earliest that that message could have been sent out is after 5:30 p.m.
 Anchored Artifacts: A-1104.2, A-1105.2, A-1110.1
 Mentions: N-40, N-41
-Related Nodes: N-10040
+Related Nodes: N-10038
 Confidence: medium
 Investigative Direction: Recover device timestamps and confirm Cox press transcript.
 
@@ -903,7 +903,7 @@ Claim: Per the text messages in the indictment that the host reads, Robinson dep
 Transcript Snippet: I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.
 Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, A-1106.1
 Mentions: N-40
-Related Nodes: N-10040
+Related Nodes: N-10038
 Confidence: medium
 Investigative Direction: Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.
 
@@ -916,7 +916,7 @@ Claim: Robinson's text states he changed outfits and left the rifle (referred to
 Transcript Snippet: I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.
 Anchored Artifacts: A-1104.4
 Mentions: N-40
-Related Nodes: N-10042
+Related Nodes: N-10019
 Confidence: high
 Investigative Direction: Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.
 
@@ -930,7 +930,7 @@ Claim: The host says she has been told that Lance Twiggs was released to his par
 Transcript Snippet: Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?
 Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
 Mentions: N-54
-Related Nodes: N-10044
+Related Nodes: N-10041
 Confidence: medium
 Investigative Direction: Obtain the arrest/release log for Lance Twiggs and the inventory of seized devices; compare with standard 24-hour detention practice.
 
@@ -943,7 +943,7 @@ Claim: The host says Governor Cox's statement that Robinson kept the same maroon
 Transcript Snippet: for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.
 Anchored Artifacts: A-1105.2, A-1106.2, A-1110.1
 Mentions: N-40, N-41
-Related Nodes: N-10042, N-10046
+Related Nodes: N-10019, N-10043
 Confidence: low
 Uncertainty: Source-based claim; no independent corroboration presented in episode.
 Investigative Direction: Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.
@@ -957,7 +957,7 @@ Claim: The host says, as a gut feeling, that the person in the maroon t-shirt fi
 Transcript Snippet: I think the person in the maroon that's walking is different from the person that's walking up the stairs.
 Anchored Artifacts: A-1105.4, A-1106.2, A-1110.1
 Mentions: N-40
-Related Nodes: N-10043, N-10046
+Related Nodes: N-10040, N-10043
 Confidence: low
 Uncertainty: Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented.
 Investigative Direction: Release full unedited video from both camera angles; forensic gait/posture analysis.
@@ -971,7 +971,7 @@ Claim: The host says Lance Twiggs's mother received a bachelor of science in psy
 Transcript Snippet: I already don't like that mom… received a bachelor of science from Stanford University in psychology.
 Anchored Artifacts: 
 Mentions: N-70, N-54
-Related Nodes: N-10045
+Related Nodes: N-10042
 Confidence: low
 Uncertainty: Degree claim not independently sourced; presented as host assertion.
 Investigative Direction: Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.
@@ -985,7 +985,7 @@ Claim: In a clip the host plays, Tucker Carlson says that a small, very intense 
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
 Mentions: N-1, N-22
-Related Nodes: N-10047
+Related Nodes: N-10044
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.
 
@@ -998,7 +998,7 @@ Claim: The clips played at 43:09 and 45:45 are Tucker Carlson speaking. He says 
 Transcript Snippet: two days before he died, he lost a $2 million donation because he had publicly pledged to bring me to the next Turning Point conference in December.
 Anchored Artifacts: A-1107.1, A-1107.2
 Mentions: N-1, N-22
-Related Nodes: N-10047
+Related Nodes: N-10044
 Contradicts: C-361
 Confidence: high
 Investigative Direction: Read C-361 together with this claim: re-attribute the donor-pressure account to Tucker Carlson's live show clip, then verify the $2M donation loss and the December Turning Point speaking pledge against TPUSA event flyers and donor records.
@@ -1030,7 +1030,7 @@ Transcript Snippet: He's got commas in there. It's like perfect English. And tha
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54
-Related Nodes: N-10038
+Related Nodes: N-10037
 Supports: C-300
 Investigative Direction: Compare grammar and punctuation in the released texts against authenticated Robinson writing and the casing inscriptions, using the raw message files.
 
@@ -1046,7 +1046,7 @@ Transcript Snippet: the note said, "I had the opportunity to take out Charlie Ki
 
 Anchored Artifacts: A-2710.1
 Mentions: N-54, N-40, N-1
-Related Nodes: N-10041
+Related Nodes: N-10039
 Supports: C-194
 Investigative Direction: Obtain the photograph of the note and Lance's full reply thread from the indictment exhibits or discovery.
 
@@ -1062,7 +1062,7 @@ Transcript Snippet: It shouldn't be long until I can come home, but I got to gra
 
 Anchored Artifacts: A-2710.2
 Mentions: N-40, N-54
-Related Nodes: N-10040, N-10062
+Related Nodes: N-10038, N-10059
 Investigative Direction: Obtain the full thread with device timestamps to place this message against the lockdown and manhunt.
 
 ---
@@ -1077,7 +1077,7 @@ Transcript Snippet: And Robin says, Robinson says, "I am. I'm sorry." And the ro
 
 Anchored Artifacts: A-2710.3, A-1104.2
 Mentions: N-54, N-40
-Related Nodes: N-10040
+Related Nodes: N-10038
 Investigative Direction: Obtain the complete unredacted exchange with timestamps from the indictment exhibits.
 
 ---
@@ -1092,7 +1092,7 @@ Transcript Snippet: we learn about about 30 minutes after that George Zinn, the 
 
 Anchored Artifacts: A-2711.1
 Mentions: N-42, N-3, N-1
-Related Nodes: N-10097
+Related Nodes: N-10093
 Investigative Direction: Pull Utah police and UVU statements and press logs to fix the exact time Zinn was announced as a suspect in custody.
 
 ---
@@ -1107,7 +1107,7 @@ Transcript Snippet: m. mentions that the second suspect who is a person of inter
 
 Anchored Artifacts: A-2711.1
 Mentions: N-41
-Related Nodes: N-10040
+Related Nodes: N-10038
 Supports: C-309
 Investigative Direction: Obtain the video and transcript of the Governor Cox September 10 press conference and check what was said about the second person of interest.
 
@@ -1123,7 +1123,7 @@ Transcript Snippet: Okay. Nobody in the press conference says uh we picked him u
 
 Anchored Artifacts: A-1104.2
 Mentions: N-40, N-3
-Related Nodes: N-10040
+Related Nodes: N-10038
 Supports: C-309
 Investigative Direction: Search all Utah and FBI press statements of September 10 for any 'similar clothing' description before the 5:30 p.m. conference.
 
@@ -1139,7 +1139,7 @@ Transcript Snippet: And we then know Kash Patel tweets that the subject in custo
 
 Anchored Artifacts: A-2711.2
 Mentions: N-69
-Related Nodes: N-10097
+Related Nodes: N-10093
 Investigative Direction: Retrieve the Kash Patel X post and its timestamp and match it to the release of the first detained man.
 
 ---
@@ -1154,7 +1154,7 @@ Transcript Snippet: Okay. He then says, "Yeah, I've been planning this for a bit
 
 Anchored Artifacts: A-2710.4
 Mentions: N-40
-Related Nodes: N-10040
+Related Nodes: N-10038
 Investigative Direction: Compare the planning timeline in the texts with the 'weeks' of planning officials described and with any recorded scouting visits.
 
 ---
@@ -1169,7 +1169,7 @@ Transcript Snippet: I don't even know if that's if it had a serial number. Weird
 
 Anchored Artifacts: A-2710.5
 Mentions: N-40
-Related Nodes: N-10040
+Related Nodes: N-10038
 Investigative Direction: Trace the recovered rifle's serial number and ownership through ATF and family records.
 
 ---
@@ -1184,7 +1184,7 @@ Transcript Snippet: which I want to be clear, the campus is 4 hours, 3 to four h
 
 Anchored Artifacts: A-2711.3
 Mentions: N-40, N-54
-Related Nodes: N-10040
+Related Nodes: N-10038
 Investigative Direction: Verify the residence address and compute the drive time to UVU; compare with when the texts say he planned to return home.
 
 ---
@@ -1199,7 +1199,7 @@ Transcript Snippet: curiously what they've removed from this indictment again re
 
 Anchored Artifacts: A-1106.2
 Mentions: N-41
-Related Nodes: N-10042
+Related Nodes: N-10019
 Supports: C-173
 Investigative Direction: Compare the indictment's description of the suspect's clothing with Cox's September 12 remarks and the TMZ 8:07 a.m. footage.
 
@@ -1215,7 +1215,7 @@ Transcript Snippet: What did he do, by the way, from 8:07 a. m. when he walked o
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10042, N-10165
+Related Nodes: N-10019, N-10158
 Supports: C-169
 Investigative Direction: Request campus camera footage between 8:07 and 11:51 a.m. on September 10 showing where the maroon-shirted man went.
 
@@ -1231,7 +1231,7 @@ Transcript Snippet: Can we get him leaving campus? We know the place is covered 
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10165, N-10042
+Related Nodes: N-10158, N-10019
 Investigative Direction: Request UVU and Orem camera inventories and footage of the claimed outfit change on September 10.
 
 ---
@@ -1246,7 +1246,7 @@ Transcript Snippet: he doesn't do that. He's not going to tell him to delete the
 
 Anchored Artifacts: A-1104.7
 Mentions: N-40, N-54, N-3
-Related Nodes: N-10040
+Related Nodes: N-10038
 Investigative Direction: Review the full indictment exhibit of the thread for any delete request dated September 10.
 
 ---
@@ -1260,7 +1260,7 @@ Claim: The host says Discord is going to say later that the messages were not co
 Transcript Snippet: And by the way, we know that Discord is going to later say that those messages were not coordinated on their server,
 
 Anchored Artifacts: A-1106.3
-Related Nodes: N-10013, N-10039
+Related Nodes: N-10013, N-10030
 Supports: C-141
 Investigative Direction: Obtain Discord's statement and any law-enforcement request records regarding the Robinson-Twigs account.
 
@@ -1291,7 +1291,7 @@ Transcript Snippet: They publish at 9:21 a. m., two hours after that first pre p
 
 Anchored Artifacts: A-1106.1
 Mentions: N-3
-Related Nodes: N-10898
+Related Nodes: N-10819
 Investigative Direction: Retrieve the New York Post article's publication timestamp and its sourcing line.
 
 ---
@@ -1305,7 +1305,7 @@ Claim: The host says that seven minutes after the NY Post article, FBI Salt Lake
 Transcript Snippet: And then just 7 minutes later, um the FBI, Salt Lake City, drops static images of the alleged shooter walking up the stairs.
 
 Anchored Artifacts: A-1105.4
-Related Nodes: N-10014, N-10043
+Related Nodes: N-10014, N-10040
 Investigative Direction: Retrieve the FBI Salt Lake City post with its timestamp and the original image resolution.
 
 ---
@@ -1320,7 +1320,7 @@ Transcript Snippet: Okay, I have a source and everything the source has told me 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10034
+Related Nodes: N-10033
 Investigative Direction: This can be tested only through the host's source and the family; ask for documents corroborating the 10:30 a.m. to 7 p.m. sequence.
 
 ---
@@ -1428,7 +1428,7 @@ Transcript Snippet: Right? They got to tell you he's cuz Tyler told him. Duh.
 
 Anchored Artifacts: A-1104.10
 Mentions: N-54, N-40
-Related Nodes: N-10044
+Related Nodes: N-10041
 Investigative Direction: Verify Lance's public statements and any attorney representation after September 11.
 
 ---
@@ -1443,7 +1443,7 @@ Transcript Snippet: Our source informs us that it was around 7:00 p. m. when eve
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11002, N-10021
+Related Nodes: N-10922, N-10021
 Investigative Direction: Collect the local text messages or screenshots from that evening and the sheriff's custody log for September 11.
 
 ---
@@ -1474,7 +1474,7 @@ Transcript Snippet: it's matching. Okay, so I'm I'm feeling good about this. We'
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10034
+Related Nodes: N-10033
 Investigative Direction: Obtain the search warrant return and the booking and release records for Lance.
 
 ---
@@ -1489,7 +1489,7 @@ Transcript Snippet: m. ish, we'll tell you around 11:00 p. m. Lance Twiggs is br
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10044
+Related Nodes: N-10041
 Investigative Direction: Obtain the search warrant return time and the log of when Lance was brought in and released.
 
 ---
@@ -1504,7 +1504,7 @@ Transcript Snippet: They say that he's deep on the internet web. Uh that there's
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10044, N-10034
+Related Nodes: N-10041, N-10033
 Investigative Direction: Ask the family or the court for the inventory of seized devices and what extraction was done.
 
 ---
@@ -1564,7 +1564,7 @@ Transcript Snippet: Now, remember I told you that Tyler Robinson's classmate rea
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10042
+Related Nodes: N-10019
 Investigative Direction: Identify and interview the classmate; check for jail intake photos showing clothing.
 
 ---
@@ -1579,7 +1579,7 @@ Transcript Snippet: tips. com because I am I'm struck by this. this is what we s
 
 Anchored Artifacts: A-2713.1
 Mentions: N-3
-Related Nodes: N-10042
+Related Nodes: N-10019
 Investigative Direction: Confirm the tip address spoken and any follow-up tips received about Robinson's clothing at pickup.
 
 ---
@@ -1610,7 +1610,7 @@ Transcript Snippet: And if Discord's saying they don't exist, this signals to me
 
 Anchored Artifacts: A-1106.3
 Mentions: N-3
-Related Nodes: N-10013, N-10039, N-10046
+Related Nodes: N-10013, N-10030, N-10043
 Investigative Direction: Obtain Discord's statement and the original message files with metadata.
 
 ---
@@ -1625,7 +1625,7 @@ Transcript Snippet: And we got them. It's over and we can turn the page with fin
 
 Anchored Artifacts: A-2712.2
 Mentions: N-41, N-54
-Related Nodes: N-10044
+Related Nodes: N-10041
 Investigative Direction: Compare Cox's September 12 remarks with the search warrant return time for the raid.
 
 ---
@@ -1640,7 +1640,7 @@ Transcript Snippet: Very easy. You should have footage of him in that Dodge Chal
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10165, N-10040
+Related Nodes: N-10158, N-10038
 Investigative Direction: Request manhunt drone footage and UVU parking-lot camera footage of the Challenger on September 10.
 
 ---
@@ -1655,7 +1655,7 @@ Transcript Snippet: There's no way that you intentionally purge him out of these
 
 Anchored Artifacts: 
 Mentions: N-54
-Related Nodes: N-10044
+Related Nodes: N-10041
 Supports: C-338
 Investigative Direction: Ask for Lance's full replies and the official reason for his release; compare with practice for suspects who cooperate.
 
@@ -1671,7 +1671,7 @@ Transcript Snippet: They think it's odd that the feds moved on from him so quick
 
 Anchored Artifacts: 
 Mentions: N-54, N-3
-Related Nodes: N-10034, N-10044
+Related Nodes: N-10033, N-10041
 Investigative Direction: Interview the family on record or document their statements about Lance's questioning and release.
 
 ---
@@ -1686,7 +1686,7 @@ Transcript Snippet: And I'm further uh believing that because I think it's weird
 
 Anchored Artifacts: A-1105.4
 Mentions: N-3
-Related Nodes: N-10043, N-10014
+Related Nodes: N-10040, N-10014
 Investigative Direction: Request the original video and still resolution from the FBI.
 
 ---
@@ -1701,7 +1701,7 @@ Transcript Snippet: I now believe there is a federal level of corruption and con
 
 Anchored Artifacts: 
 Mentions: N-3, N-42, N-54
-Related Nodes: N-10046
+Related Nodes: N-10043
 Investigative Direction: Treat as the host's stated belief; test against the specific footage, device and timeline records she demands.
 
 ---
@@ -1732,7 +1732,7 @@ Transcript Snippet: He also brought in Megyn Kelly and other people and he spoke
 
 Anchored Artifacts: A-1107.1
 Mentions: N-22, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Investigative Direction: Ask Carlson for the date and location of his last meeting with Charlie.
 
 ---
@@ -1789,7 +1789,7 @@ Transcript Snippet: I have no donors. He had $100 million worth of donors and so
 
 Anchored Artifacts: A-1107.2
 Mentions: N-22, N-1
-Related Nodes: N-10047, N-10000
+Related Nodes: N-10044, N-10000
 Investigative Direction: Review TPUSA donor disclosures and Form 990 for the scale of donor funding.
 
 ---
@@ -1820,7 +1820,7 @@ Transcript Snippet: The American Jewish Committee called in a statement Charlie 
 
 Anchored Artifacts: A-1107.2
 Mentions: N-22, N-1
-Related Nodes: N-11003
+Related Nodes: N-10923
 Supports: C-261
 Investigative Direction: Find the American Jewish Committee statement naming Charlie Kirk and its date.
 
@@ -1851,7 +1851,7 @@ Transcript Snippet: Seth Dillon was out there demanding that Charlie Kirk take m
 
 Anchored Artifacts: A-1107.2
 Mentions: N-38, N-22, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Supports: C-239
 Investigative Direction: Obtain Seth Dillon's public posts or messages about Carlson's Turning Point appearance and ask Dillon to respond.
 
@@ -1867,7 +1867,7 @@ Transcript Snippet: So time after time, Charlie would call me or come to see me 
 
 Anchored Artifacts: A-1107.2
 Mentions: N-22, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Investigative Direction: Ask Carlson to produce the texts Charlie showed him.
 
 ---
@@ -1882,7 +1882,7 @@ Transcript Snippet: By the way, I'm not accusing anyone of being involved in tha
 
 Anchored Artifacts: A-1107.2
 Mentions: N-22, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Qualifies: C-361
 Investigative Direction: Read this qualifier alongside C-361 when assessing how the donor-pressure clip relates to the killing.
 
@@ -1898,7 +1898,7 @@ Transcript Snippet: Josh Hammer, I know how you were messaging him.
 
 Anchored Artifacts: 
 Mentions: N-55, N-1, N-3
-Related Nodes: N-10047
+Related Nodes: N-10044
 Supports: C-239
 Investigative Direction: Ask Hammer to release his Charlie Kirk message threads for September 8 to 10 and check Hammer's public statements.
 
@@ -1914,7 +1914,7 @@ Transcript Snippet: Don't even fight your donors. Like, just let them think they
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10934
+Related Nodes: N-10855
 Investigative Direction: Identify which donors pressured Charlie about the host in 2024 and any messages between Charlie and the host.
 
 ---
@@ -1929,7 +1929,7 @@ Transcript Snippet: Wasn't just Candace. They wanted Tucker.
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-1
-Related Nodes: N-10047, N-10934
+Related Nodes: N-10044, N-10855
 Investigative Direction: Compare dates of donor pressure about the host and about Carlson in Charlie's communications.
 
 ---
@@ -1944,7 +1944,7 @@ Transcript Snippet: then became the fastest people to try to eulogize him and to
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
-Related Nodes: N-10047
+Related Nodes: N-10044
 Investigative Direction: List the public tributes to Charlie by the people named as pressuring him and compare with their earlier statements.
 
 ---
@@ -1959,7 +1959,7 @@ Transcript Snippet: I have personal knowledge as to many of the claims Tucker is
 
 Anchored Artifacts: A-1109.1
 Mentions: N-71, N-22
-Related Nodes: N-10047
+Related Nodes: N-10044
 Investigative Direction: Retrieve the Gaetz tweet with its timestamp.
 
 ---
@@ -1974,7 +1974,7 @@ Transcript Snippet: Charlie is not the only one who's been threatened or was thr
 
 Anchored Artifacts: A-1107.3
 Mentions: N-46, N-22, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Investigative Direction: Retrieve the Tucker Carlson and Megyn Kelly episode and ask Kelly who pressured her.
 
 ---
@@ -2003,7 +2003,7 @@ Transcript Snippet: I was able to figure out who that person was because I recog
 
 Anchored Artifacts: 
 Mentions: N-3, N-180
-Related Nodes: N-10076
+Related Nodes: N-10073
 Investigative Direction: Ask the host to name the person or other witnesses; compare with footage of the camera removal.
 
 ---
@@ -2018,7 +2018,7 @@ Transcript Snippet: you know, I've known you for a long time and I would like to
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10076, N-10165
+Related Nodes: N-10073, N-10158
 Investigative Direction: Ask the host who holds the footage and whether she has been granted access.
 
 ---
@@ -2047,7 +2047,7 @@ Transcript Snippet: if if I'm putting in this formal request and they said they 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10165, N-10076
+Related Nodes: N-10158, N-10073
 Investigative Direction: Ask TPUSA or the host for the request letter and any response.
 
 ---
@@ -2062,7 +2062,7 @@ Transcript Snippet: that $150 million was spent on that, and it came from BB Net
 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-36
-Related Nodes: N-11004, N-10139
+Related Nodes: N-10924, N-10134
 Investigative Direction: Ask the host's source for documents; check FARA registrations and campaign disclosures for the alleged $150 million spend.
 
 ---
@@ -2077,7 +2077,7 @@ Transcript Snippet: This is what Charlie's pastor passed around to all of the pe
 
 Anchored Artifacts: A-1108.1
 Mentions: N-17, N-1
-Related Nodes: N-10139
+Related Nodes: N-10134
 Investigative Direction: Ask McCoy whom he sent the statement to and when; ask the host for her source for the circulation.
 
 ---
@@ -2092,7 +2092,7 @@ Transcript Snippet: though he disagreed with her. He never operated nor entertai
 
 Anchored Artifacts: A-1108.1
 Mentions: N-17, N-1, N-3
-Related Nodes: N-10139
+Related Nodes: N-10134
 Investigative Direction: Retrieve the original McCoy statement and its date and channel of release.
 
 ---
@@ -2107,7 +2107,7 @@ Transcript Snippet: Least of all because he was being emotionally manipulated by
 
 Anchored Artifacts: A-1108.1
 Mentions: N-17, N-36, N-1
-Related Nodes: N-10139
+Related Nodes: N-10134
 Investigative Direction: Ask McCoy whether Charlie told him about specific donors and Netanyahu.
 
 ---
@@ -2122,7 +2122,7 @@ Transcript Snippet: maybe somebody close to Charlie that could be involved in th
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10046
+Related Nodes: N-10043
 Investigative Direction: Treat as the host's hypothesis; test it against specific people and records.
 
 ---
@@ -2137,7 +2137,7 @@ Transcript Snippet: until the state funeral, until, as I have heard, people are 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-11005, N-10201
+Related Nodes: N-10925, N-10193
 Investigative Direction: Ask TPUSA and funeral organizers for the speaker selection process and any donor requests.
 
 ---
@@ -2152,7 +2152,7 @@ Transcript Snippet: Financial threats I'm referring to obviously some people are
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10047
+Related Nodes: N-10044
 Supports: C-361
 Investigative Direction: Compare the host's actual wording on donors with the claims attributed to her.
 
@@ -2168,7 +2168,7 @@ Transcript Snippet: You know, their new thing that went around is today I woke u
 
 Anchored Artifacts: 
 Mentions: N-3, N-37
-Related Nodes: N-10898
+Related Nodes: N-10819
 Investigative Direction: Identify the NY Post comment requests and any story that followed.
 
 ---

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep066): N-10653
+  - Hole-minted Nodes (reintro-ep066): N-10595
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5906–C-5978
   - (see registers)
@@ -35,8 +35,8 @@
 **Episode 66 Ledger Summary**
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
-  - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10466, N-10468, N-10469
-  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
+  - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10435, N-10437, N-10438
+  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10056, N-10067, N-10201, N-10303, N-10408, N-10456, N-10790, N-10820, N-10934, N-11002, N-10436, N-11098, N-11099
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -133,7 +133,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5941, N-515, N-2, N-10466, N-10469*
+*Related: C-5941, N-515, N-2, N-10435, N-10438*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:26:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-5944, N-10466, A-1709.1*
+*Related: C-5944, N-10435, A-1709.1*
 
 ---
 
@@ -189,7 +189,7 @@ Video Timestamp: 00:32:17–00:34:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-5952, N-10467*
+*Related: C-5952, N-10436*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5943, N-3, N-10466*
+*Related: C-5943, N-3, N-10435*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:54:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5972, C-5973, N-3, N-11014*
+*Related: C-5972, C-5973, N-3, N-10934*
 
 ---
 
@@ -300,7 +300,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-5941, N-10467*
+*Related: A-1709.1, C-5941, N-10436*
 
 ---
 
@@ -365,11 +365,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-10467*
+*Related: N-2, N-10436*
 
 ---
 
-**N-10466** Cardinal Stadium RV Show Booking Question
+**N-10435** Cardinal Stadium RV Show Booking Question
 
 Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?
 
@@ -378,11 +378,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1709.1, A-1712.1, C-5941, C-5944, N-10469*
+*Related: A-1709.1, A-1712.1, C-5941, C-5944, N-10438*
 
 ---
 
-**N-10467** TPUSA Donor Targeting Pattern Question
+**N-10436** TPUSA Donor Targeting Pattern Question
 
 Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?
 
@@ -395,7 +395,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10468** Father Blank September 10 Mass Cancellation Question
+**N-10437** Father Blank September 10 Mass Cancellation Question
 
 Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.
 
@@ -408,16 +408,16 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10469** $6 Million Memorial Cost Claim Verification Question
+**N-10438** $6 Million Memorial Cost Claim Verification Question
 
-Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10466).
+Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10435).
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-5941, N-10466*
+*Related: A-1709.1, C-5941, N-10435*
 
 ---
 
@@ -533,7 +533,7 @@ Israel; context for the host's Zionism and Mar-a-Lago remarks.
 
 ---
 
-**N-10059** PBD Podcast
+**N-10056** PBD Podcast
 
 PBD Podcast; the donor networked with people orbiting it.
 
@@ -541,7 +541,7 @@ PBD Podcast; the donor networked with people orbiting it.
 
 ---
 
-**N-10070** Daily Mail
+**N-10067** Daily Mail
 
 Daily Mail; publisher of the grief-policing article.
 
@@ -549,7 +549,7 @@ Daily Mail; publisher of the grief-policing article.
 
 ---
 
-**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+**N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
 Existing topic reused: TPUSA Faith / Christian Zionist infiltration question.
 
@@ -557,7 +557,7 @@ Existing topic reused: TPUSA Faith / Christian Zionist infiltration question.
 
 ---
 
-**N-10324** Epstein Files Release Status
+**N-10303** Epstein Files Release Status
 
 Epstein Files Release Status; context for the host's Bondi remark.
 
@@ -565,7 +565,7 @@ Epstein Files Release Status; context for the host's Bondi remark.
 
 ---
 
-**N-10439** TPUSA Termination Cause Investigation
+**N-10408** TPUSA Termination Cause Investigation
 
 TPUSA Termination Cause Investigation; reused for the firing claims.
 
@@ -573,7 +573,7 @@ TPUSA Termination Cause Investigation; reused for the firing claims.
 
 ---
 
-**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern
+**N-10456** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
 TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test claim.
 
@@ -581,7 +581,7 @@ TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test
 
 ---
 
-**N-10653** Turning Point Geofencing / Show Faith by Works Link
+**N-10595** Turning Point Geofencing / Show Faith by Works Link
 
 Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geofencing claim.
 
@@ -589,7 +589,7 @@ Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geo
 
 ---
 
-**N-10869** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
+**N-10790** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List
 
 Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lago gala context.
 
@@ -597,7 +597,7 @@ Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lag
 
 ---
 
-**N-10899** Paramount Tactical
+**N-10820** Paramount Tactical
 
 Paramount Tactical; the host says it is part of TPUSA's paid orbit.
 
@@ -605,7 +605,7 @@ Paramount Tactical; the host says it is part of TPUSA's paid orbit.
 
 ---
 
-**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+**N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
 TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims.
 
@@ -613,7 +613,7 @@ TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims.
 
 ---
 
-**N-11035** TPUSA Employee Purge and Leak Hunt
+**N-11002** TPUSA Leak Hunt and Employee Firings
 
 TPUSA Employee Purge and Leak Hunt; reused for the firing claims.
 
@@ -621,7 +621,7 @@ TPUSA Employee Purge and Leak Hunt; reused for the firing claims.
 
 ---
 
-**N-11182** TPUSA Crisis PR Team
+**N-11098** TPUSA Crisis PR Team
 
 Node Type: Organization
 The crisis PR team the host says Erika Kirk told her TPUSA hired because of Andrew Kolvet's mistakes.
@@ -630,7 +630,7 @@ The crisis PR team the host says Erika Kirk told her TPUSA hired because of Andr
 
 ---
 
-**N-11183** Kolvet Alex Clark Interview Account Dispute
+**N-11099** Kolvet Alex Clark Interview Account Dispute
 
 Node Type: Topic
 The dispute over Kolvet's interview with Alex Clark: the donor and the host call it untruthful, Erika Kirk allegedly said Kolvet went rogue, and a former staffer says he texted Erika during it.
@@ -697,7 +697,7 @@ Claim: A Catholic donor emailed the host describing how she was seated next to F
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-186, N-514
-Related Nodes: N-10467
+Related Nodes: N-10436
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
 ---
@@ -746,7 +746,7 @@ Claim: Per a text message the host shows, a contact introducing the donor to TPU
 
 Anchored Artifacts: A-1709.1
 Mentions: N-515
-Related Nodes: N-10466, N-10469
+Related Nodes: N-10435, N-10438
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
 ---
@@ -770,7 +770,7 @@ Claim Timestamp: 00:25:29
 Claim: The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend.
 
 Anchored Artifacts: A-1712.1
-Related Nodes: N-10466
+Related Nodes: N-10435
 Investigative Direction: Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed.
 
 ---
@@ -782,7 +782,7 @@ Claim Timestamp: 00:31:32
 Claim: The host says another top TPUSA fundraiser, who delivered the relic, offered to visit the donor in the Chicago area, met her and her father, and invited her to the Mar-a-Lago gala where, she says, they were going to raise about $42 million; per a text the host reads, he then asked to call her about the gala.
 
 Anchored Artifacts: A-1713.1, A-1706.1
-Related Nodes: N-10467
+Related Nodes: N-10436
 Investigative Direction: Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures.
 
 ---
@@ -821,7 +821,7 @@ Transcript Snippet: I was told that actually by Erika that they hired a crisis P
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Related Nodes: N-10000, N-11182
+Related Nodes: N-10000, N-11098
 Tags: relevance:core
 Investigative Direction: Identify the crisis PR firm and its engagement date through TPUSA filings, press reports or the host's sources; ask TPUSA to confirm or deny the hire.
 
@@ -837,7 +837,7 @@ Transcript Snippet: Enough money to have not just a PR person, but then to have 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10899, N-10000
+Related Nodes: N-10820, N-10000
 Tags: relevance:context
 Investigative Direction: Look for payment records, sponsorship disclosures or contract documents between TPUSA or its vendors and Paramount Tactical.
 
@@ -853,7 +853,7 @@ Transcript Snippet: Dr. Wolf similarly suspects that Kirk's insistence on gettin
 
 Anchored Artifacts: A-1704.1
 Mentions: N-512, N-2
-Related Nodes: N-10070
+Related Nodes: N-10067
 Supports: C-5909
 Tags: relevance:context
 Investigative Direction: Retrieve the Daily Mail article and confirm the Wolft attribution and wording; confirm whether the quoted experts had any contact with Kirk or TPUSA.
@@ -935,7 +935,7 @@ Transcript Snippet: I got an email from a woman, Catholic woman, back in October
 
 Anchored Artifacts: A-1706.1
 Mentions: N-3
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:context
 Investigative Direction: Check the date of the original email in the host's inbox; compare with the host's later remark at 00:20:53 that she sent her reply back in October.
 
@@ -967,7 +967,7 @@ Transcript Snippet: I was at the memorial having zero personal or prior involvem
 
 Anchored Artifacts: A-1706.1
 Mentions: 
-Related Nodes: N-10000, N-10467
+Related Nodes: N-10000, N-10436
 Tags: relevance:context
 Investigative Direction: Check the donor's donation or event history with TPUSA; the host later says the donor is extraordinarily wealthy (00:21:52).
 
@@ -983,7 +983,7 @@ Transcript Snippet: I had to pause it when you played Alex Clark's interview bec
 
 Anchored Artifacts: A-1706.1
 Mentions: N-99, N-3
-Related Nodes: N-11183
+Related Nodes: N-11099
 Tags: relevance:context
 Investigative Direction: Identify the Alex Clark interview the host played and the specific statements the donor found untruthful; compare with TPUSA's account.
 
@@ -1045,7 +1045,7 @@ Transcript Snippet: A minute or two later, as I was still in prayer, I had a tap
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-186
-Related Nodes: N-10467
+Related Nodes: N-10436
 Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Ask the donor to confirm in writing who tapped her and how she learned the woman's name, since the email as read does not name her.
@@ -1077,7 +1077,7 @@ Transcript Snippet: I knew that Stacy would have only done that if the girl who 
 
 Anchored Artifacts: A-1706.1
 Mentions: N-186, N-3
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Ask the donor to confirm Sheridan was the woman who tapped her; review Sheridan's role in TPUSA donor relations through staff accounts.
 
@@ -1093,7 +1093,7 @@ Transcript Snippet: I knew that they had that girl clocked before she walked int
 
 Anchored Artifacts: A-1706.1
 Mentions: N-3
-Related Nodes: N-10467, N-10000
+Related Nodes: N-10436, N-10000
 Tags: relevance:core
 Investigative Direction: Look for pre-memorial donor lists or briefing notes; the donor's account of how she got in (00:23:14) is the test of whether she was pre-identified.
 
@@ -1109,7 +1109,7 @@ Transcript Snippet: Stacy Sheridan's job literally is to know everything about t
 
 Anchored Artifacts: 
 Mentions: N-186
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Obtain Sheridan's job description and any donor-profile documents from former TPUSA staff; ask TPUSA to describe her role.
 
@@ -1125,7 +1125,7 @@ Transcript Snippet: She would tell Charlie. She whisper in Charlie's ear.
 
 Anchored Artifacts: 
 Mentions: N-186, N-1
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Ask former TPUSA event staff to describe the donor hand-off routine at events; check the host's earlier references to this in ep 19 (C-1723).
 
@@ -1141,7 +1141,7 @@ Transcript Snippet: I'm going to assume you have a lot of money, and it breaks m
 
 Anchored Artifacts: A-1706.1
 Mentions: N-3
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Obtain the host's reply and the donor's response in writing to confirm the donor's own conclusion.
 
@@ -1157,7 +1157,7 @@ Transcript Snippet: She runs a massive business. They are wealthy. Extraordinari
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: The donor is unnamed on air; verify her wealth through the host's sources without naming her publicly.
 
@@ -1204,7 +1204,7 @@ Transcript Snippet: It was it was a conference event with some people that were 
 
 Anchored Artifacts: A-1706.1
 Mentions: N-57, N-1
-Related Nodes: N-10059
+Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Identify the marketing conference and the attendees; ask the donor which contacts there introduced her to TPUSA.
 
@@ -1220,7 +1220,7 @@ Transcript Snippet: And that person then hooked her up directly with somebody th
 
 Anchored Artifacts: A-1706.1
 Mentions: 
-Related Nodes: N-10467, N-10002
+Related Nodes: N-10436, N-10002
 Tags: relevance:core
 Investigative Direction: Obtain the donor's introduction text thread (A-1709.1 shows part of it) to identify the intermediary and the TPUSA contact.
 
@@ -1236,7 +1236,7 @@ Transcript Snippet: I'm going to introduce you via text to TPUSA's Blank who tra
 
 Anchored Artifacts: A-1709.1
 Mentions: N-515, N-1
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA staffer and the sender of the text from the donor's screenshot; check the staffer's travel with Charlie.
 
@@ -1252,7 +1252,7 @@ Transcript Snippet: Blank says that Erika has been getting more death threats ev
 
 Anchored Artifacts: A-1709.1
 Mentions: N-2, N-515
-Related Nodes: N-10469
+Related Nodes: N-10438
 Supports: C-5941
 Tags: relevance:core
 Investigative Direction: Obtain the full text; check Erika Kirk's reported threat environment and who raised the memorial funds.
@@ -1269,7 +1269,7 @@ Transcript Snippet: We've been told the story a couple of times now that the Whi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10466, N-10002
+Related Nodes: N-10435, N-10002
 Supports: C-1155
 Tags: relevance:core
 Investigative Direction: Obtain stadium booking and White House correspondence on the memorial venue through records requests.
@@ -1286,7 +1286,7 @@ Transcript Snippet: Please email more tips. com. I need to know more about this 
 
 Anchored Artifacts: A-2928.1
 Mentions: N-3
-Related Nodes: N-10466
+Related Nodes: N-10435
 Tags: relevance:core
 Investigative Direction: Track whether tips about the RV show or cancellation emails are cited in later episodes.
 
@@ -1302,7 +1302,7 @@ Transcript Snippet: Obviously, we know they made a ton of money. They geofenced 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10653, N-10000, N-10002
+Related Nodes: N-10595, N-10000, N-10002
 Tags: relevance:core
 Investigative Direction: Look for TPUSA privacy policies, ticketing terms and any ad-tech or data-broker disclosures tied to the memorial geofence.
 
@@ -1318,7 +1318,7 @@ Transcript Snippet: If I am correct, he also cancelled his mass on September 10t
 
 Anchored Artifacts: 
 Mentions: N-514, N-3
-Related Nodes: N-10468
+Related Nodes: N-10437
 Tags: relevance:core
 Investigative Direction: Check the parish bulletin and mass schedule; note the host dates the donor's Monday mass to September 10 though the memorial was on a Sunday, so confirm which date she means.
 
@@ -1334,7 +1334,7 @@ Transcript Snippet: What moved Stacy Sheridan to tap on this person's shoulder? 
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-186, N-1
-Related Nodes: N-10467
+Related Nodes: N-10436
 Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Ask Sheridan and Erika Kirk's team whether the approach was requested; the host offers this as inference.
@@ -1366,7 +1366,7 @@ Transcript Snippet: another top fundraiser at Turning Point USA met her there an
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2
-Related Nodes: N-10467, N-10000
+Related Nodes: N-10436, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the fundraiser; compare with the later Chicago meeting text (A-1713.1).
 
@@ -1382,7 +1382,7 @@ Transcript Snippet: Erika repeated how much she loved meeting you again.
 
 Anchored Artifacts: A-1713.1
 Mentions: N-2
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and ask Erika Kirk's team whether she spoke about the donor.
 
@@ -1398,7 +1398,7 @@ Transcript Snippet: you got Dr. Frank Turek and apparently, according to her, he
 
 Anchored Artifacts: 
 Mentions: N-7
-Related Nodes: N-10869, N-10209
+Related Nodes: N-10790, N-10201
 Tags: relevance:context
 Investigative Direction: Check the Mar-a-Lago event program and speaker list; ask the donor what Turek said on stage.
 
@@ -1414,9 +1414,9 @@ Transcript Snippet: it's where a lot of the meetings take place. The Zionist don
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10869
+Related Nodes: N-10790
 Tags: relevance:tangential
-Investigative Direction: Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10869.
+Investigative Direction: Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10790.
 
 ---
 
@@ -1430,7 +1430,7 @@ Transcript Snippet: And he kind of kicks the can down the road and says, "Oh, we
 
 Anchored Artifacts: A-1713.1
 Mentions: 
-Related Nodes: N-10209, N-10467
+Related Nodes: N-10201, N-10436
 Tags: relevance:context
 Investigative Direction: Check for any TPUSA Catholic outreach launched afterward and the donor's account of the exchange.
 
@@ -1446,7 +1446,7 @@ Transcript Snippet: Are you available the second or third week of February?
 
 Anchored Artifacts: A-1713.1
 Mentions: 
-Related Nodes: N-10467
+Related Nodes: N-10436
 Supports: C-5952
 Tags: relevance:core
 Investigative Direction: Obtain the texts with dates; confirm no donation was made.
@@ -1463,7 +1463,7 @@ Transcript Snippet: I think I was actually targeted. And she was targeted.
 
 Anchored Artifacts: A-1706.1
 Mentions: N-3
-Related Nodes: N-10467
+Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Test the targeting claim against TPUSA's donor-outreach procedures.
 
@@ -1495,7 +1495,7 @@ Transcript Snippet: People that are firing employees without cause through some 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-11035, N-10492, N-10000
+Related Nodes: N-11002, N-10456, N-10000
 Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify the employees and the Uber driver incident through the host's sources and TPUSA termination records.
@@ -1544,7 +1544,7 @@ Transcript Snippet: You protected Jeffrey Epstein.
 
 Anchored Artifacts: 
 Mentions: N-85, N-9
-Related Nodes: N-10324
+Related Nodes: N-10303
 Tags: relevance:context
 Investigative Direction: Review Epstein files release records and DOJ statements.
 
@@ -1623,7 +1623,7 @@ Transcript Snippet: and then I realized he's the one organizing the Paramount Ta
 
 Anchored Artifacts: 
 Mentions: N-14, N-93, N-3
-Related Nodes: N-10899
+Related Nodes: N-10820
 Supports: C-4488, C-5675
 Tags: relevance:core
 Investigative Direction: Obtain communications between Kolvet, Paramount Tactical and Alex Jones; the host says she has confirmed the Alex Jones contact elsewhere.
@@ -1640,7 +1640,7 @@ Transcript Snippet: which I've now confirmed with uh people that they fired for 
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Related Nodes: N-10439, N-11035
+Related Nodes: N-10408, N-11002
 Tags: relevance:core
 Investigative Direction: The sentence is garbled; identify which firings the host means and ask the fired staff to confirm Kolvet's role.
 
@@ -1656,7 +1656,7 @@ Transcript Snippet: I received my TPUSA hat today, lol. Most likely only because
 
 Anchored Artifacts: A-2929.1
 Mentions: N-3
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:context
 Investigative Direction: Locate the contract wording and the leaked call being referenced; compare with the host's merch coverage.
 
@@ -1672,7 +1672,7 @@ Transcript Snippet: Yeah, I got a lot of emails that never even received the hat
 
 Anchored Artifacts: A-2929.1
 Mentions: N-3
-Related Nodes: N-11014
+Related Nodes: N-10934
 Tags: relevance:context
 Investigative Direction: Ask viewers for order dates and delivery dates.
 
@@ -1688,7 +1688,7 @@ Transcript Snippet: when she saw this strange lie coming from Andrew Coven about
 
 Anchored Artifacts: A-1706.1
 Mentions: N-14
-Related Nodes: N-11183
+Related Nodes: N-11099
 Tags: relevance:core
 Investigative Direction: Identify the Kolvet statement about Catholic faith that the donor saw, probably in the Alex Clark interview.
 
@@ -1704,7 +1704,7 @@ Transcript Snippet: Andrew Kolvet again went rogue in that interview with Alex C
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-99, N-3
-Related Nodes: N-11183
+Related Nodes: N-11099
 Tags: relevance:core
 Investigative Direction: Obtain the Alex Clark interview and the host's recording or notes of what Erika Kirk said about it.
 
@@ -1720,7 +1720,7 @@ Transcript Snippet: he was in communication with her during that interview, acco
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-99
-Related Nodes: N-11183
+Related Nodes: N-11099
 Tags: relevance:core
 Investigative Direction: Identify the former staffer and obtain any screenshot of the texts; ask Kolvet and Erika Kirk's team to confirm or deny.
 
@@ -1901,7 +1901,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.
 - **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-5911 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.
-- **Host claim without artifact anchor:** N-10468 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
+- **Host claim without artifact anchor:** N-10437 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
 - **Transcript ambiguity:** Host refers to "Andrew Coven" (in comment section) and "Andrew Kouvet" (in interview discussion); same person referenced by all variants.
 - **Claim passed admission test with host-interpretation caveat:** C-5911 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.
 
@@ -1915,7 +1915,7 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] People nodes use global people ledger (N-512+)
-- [x] Non-person investigation targets use 1000+ series (N-10466+)
+- [x] Non-person investigation targets use 1000+ series (N-10435+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent across all registers

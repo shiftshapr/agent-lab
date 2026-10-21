@@ -19,8 +19,8 @@
     "- **Model Version**: claude-manual-extract-seq106",
     "",
     "- **Episode Ledger Summary**:",
-    "  - Tip-minted Nodes (skeleton): N-631, N-632, N-633, N-634, N-10937, N-10938, N-10939, N-10940, N-10941",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-33, N-34, N-46, N-69, N-97, N-159, N-160, N-266, N-278, N-374, N-606, N-614, N-620, N-625, N-10000, N-10070, N-10075, N-10577, N-10578, N-10637, N-10643, N-10664, N-10888, N-10899, N-10923, N-10936",
+    "  - Tip-minted Nodes (skeleton): N-631, N-632, N-633, N-634, N-10858, N-10859, N-10860, N-10861, N-10862",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-33, N-34, N-46, N-69, N-97, N-159, N-160, N-266, N-278, N-374, N-606, N-614, N-620, N-625, N-10000, N-10067, N-10072, N-10528, N-10529, N-10582, N-10347, N-10606, N-10809, N-10820, N-10844, N-10857",
     "  - Claim Range: C-9310–C-9359",
     "  - (see registers)",
     "",
@@ -241,7 +241,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9319, N-2, N-46, N-1, N-10936*"
+     "raw": "*Related: C-9319, N-2, N-46, N-1, N-10857*"
     },
     {
      "raw": ""
@@ -301,7 +301,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9324, C-9325, C-9326, N-633, N-10070, N-10936*"
+     "raw": "*Related: C-9324, C-9325, C-9326, N-633, N-10067, N-10857*"
     },
     {
      "raw": ""
@@ -344,7 +344,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9327, N-10070, N-2, N-1*"
+     "raw": "*Related: C-9327, N-10067, N-2, N-1*"
     },
     {
      "raw": ""
@@ -387,7 +387,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9330, N-10070, N-10936*"
+     "raw": "*Related: C-9330, N-10067, N-10857*"
     },
     {
      "raw": ""
@@ -430,7 +430,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9331, N-10070, N-10000, N-10936*"
+     "raw": "*Related: C-9331, N-10067, N-10000, N-10857*"
     },
     {
      "raw": ""
@@ -636,7 +636,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9341, N-634, N-10940, N-10941*"
+     "raw": "*Related: C-9341, N-634, N-10861, N-10862*"
     },
     {
      "raw": ""
@@ -679,7 +679,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9342, C-9343, N-606, N-14, N-159, N-10940*"
+     "raw": "*Related: C-9342, C-9343, N-606, N-14, N-159, N-10861*"
     },
     {
      "raw": ""
@@ -722,7 +722,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9344, N-10941, N-10075*"
+     "raw": "*Related: C-9344, N-10862, N-10072*"
     },
     {
      "raw": ""
@@ -765,7 +765,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9346, C-9347, C-9349, N-160, N-625, N-620, N-2, N-10923*"
+     "raw": "*Related: C-9346, C-9347, C-9349, N-160, N-625, N-620, N-2, N-10844*"
     },
     {
      "raw": ""
@@ -818,7 +818,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9350, C-9353, N-10899, N-614, N-10888, N-10937*"
+     "raw": "*Related: C-9350, C-9353, N-10820, N-614, N-10809, N-10858*"
     },
     {
      "raw": ""
@@ -1594,8 +1594,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10070",
-   "header": "**N-10070** Daily Mail",
+   "id": "N-10067",
+   "header": "**N-10067** Daily Mail",
    "label": "Daily Mail",
    "lines": [
     {
@@ -1617,8 +1617,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10075",
-   "header": "**N-10075** White House",
+   "id": "N-10072",
+   "header": "**N-10072** White House",
    "label": "White House",
    "lines": [
     {
@@ -1640,8 +1640,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10577",
-   "header": "**N-10577** Built Inc. Federal Contracting Pattern",
+   "id": "N-10528",
+   "header": "**N-10528** Built Inc. Federal Contracting Pattern",
    "label": "Built Inc. Federal Contracting Pattern",
    "lines": [
     {
@@ -1663,8 +1663,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10578",
-   "header": "**N-10578** Decoy Subject Investigation (Qureshi)",
+   "id": "N-10529",
+   "header": "**N-10529** Decoy Subject Investigation (Qureshi)",
    "label": "Decoy Subject Investigation (Qureshi)",
    "lines": [
     {
@@ -1686,8 +1686,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10637",
-   "header": "**N-10637** WHCD Incident Reconstruction",
+   "id": "N-10582",
+   "header": "**N-10582** WHCD Incident Reconstruction",
    "label": "WHCD Incident Reconstruction",
    "lines": [
     {
@@ -1709,9 +1709,9 @@
   },
   {
    "kind": "node",
-   "id": "N-10643",
-   "header": "**N-10643** Harpole Fort Huachuca Alibi Question",
-   "label": "Harpole Fort Huachuca Alibi Question",
+   "id": "N-10347",
+   "header": "**N-10347** Brian Harpole Fort Huachuca Presence Verification",
+   "label": "Brian Harpole Fort Huachuca Presence Verification",
    "lines": [
     {
      "raw": ""
@@ -1732,8 +1732,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10664",
-   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "id": "N-10606",
+   "header": "**N-10606** Charlie Kirk Aspen Audio Authenticity Question",
    "label": "Charlie Kirk Aspen Audio Authenticity Question",
    "lines": [
     {
@@ -1755,8 +1755,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10888",
-   "header": "**N-10888** Department of War",
+   "id": "N-10809",
+   "header": "**N-10809** Department of War",
    "label": "Department of War",
    "lines": [
     {
@@ -1778,8 +1778,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10899",
-   "header": "**N-10899** Paramount Tactical",
+   "id": "N-10820",
+   "header": "**N-10820** Paramount Tactical",
    "label": "Paramount Tactical",
    "lines": [
     {
@@ -1801,8 +1801,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10936",
-   "header": "**N-10936** Aspen CEO-Appointment Video Non-Release",
+   "id": "N-10857",
+   "header": "**N-10857** Aspen CEO-Appointment Video Non-Release",
    "label": "Aspen CEO-Appointment Video Non-Release",
    "lines": [
     {
@@ -1820,7 +1820,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9319, C-9320, C-9321, C-9322, C-9323, C-9324, C-9325, C-9326, C-9330, C-9331, C-9332, C-9335, C-9336, A-2592.1, A-2593.1, A-2593.3, A-2593.4, N-2, N-1, N-10664*"
+     "raw": "*Related: C-9319, C-9320, C-9321, C-9322, C-9323, C-9324, C-9325, C-9326, C-9330, C-9331, C-9332, C-9335, C-9336, A-2592.1, A-2593.1, A-2593.3, A-2593.4, N-2, N-1, N-10606*"
     },
     {
      "raw": ""
@@ -1829,8 +1829,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10937",
-   "header": "**N-10937** Paramount Tactical September 2025 DoD Payments",
+   "id": "N-10858",
+   "header": "**N-10858** Paramount Tactical September 2025 DoD Payments",
    "label": "Paramount Tactical September 2025 DoD Payments",
    "lines": [
     {
@@ -1848,7 +1848,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9350, C-9353, C-9354, A-2596.1, N-10899, N-614, N-10888*"
+     "raw": "*Related: C-9350, C-9353, C-9354, A-2596.1, N-10820, N-614, N-10809*"
     },
     {
      "raw": ""
@@ -1857,8 +1857,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10938",
-   "header": "**N-10938** Erika Kirk Corporate Will and Inheritance Question",
+   "id": "N-10859",
+   "header": "**N-10859** Erika Kirk Corporate Will and Inheritance Question",
    "label": "Erika Kirk Corporate Will and Inheritance Question",
    "lines": [
     {
@@ -1885,8 +1885,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10939",
-   "header": "**N-10939** TPUSA Hollywood AI Company Meeting",
+   "id": "N-10860",
+   "header": "**N-10860** TPUSA Hollywood AI Company Meeting",
    "label": "TPUSA Hollywood AI Company Meeting",
    "lines": [
     {
@@ -1913,8 +1913,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10923",
-   "header": "**N-10923** White House Military Office Erika Kirk Amplification Email",
+   "id": "N-10844",
+   "header": "**N-10844** White House Military Office Erika Kirk Amplification Email",
    "label": "White House Military Office Erika Kirk Amplification Email",
    "lines": [
     {
@@ -1932,7 +1932,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9339, C-9340, C-9341, C-9342, C-9343, C-9344, C-9345, C-9346, C-9347, C-9348, C-9349, A-2595.4, N-10637*"
+     "raw": "*Related: C-9339, C-9340, C-9341, C-9342, C-9343, C-9344, C-9345, C-9346, C-9347, C-9348, C-9349, A-2595.4, N-10582*"
     },
     {
      "raw": ""
@@ -1941,8 +1941,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10940",
-   "header": "**N-10940** Axios",
+   "id": "N-10861",
+   "header": "**N-10861** Axios",
    "label": "Axios",
    "lines": [
     {
@@ -1968,8 +1968,8 @@
   },
   {
    "kind": "node",
-   "id": "N-10941",
-   "header": "**N-10941** White House Military Office",
+   "id": "N-10862",
+   "header": "**N-10862** White House Military Office",
    "label": "White House Military Office",
    "lines": [
     {
@@ -1986,7 +1986,7 @@
      "raw": ""
     },
     {
-     "raw": "*Related: C-9341, C-9344, C-9345, A-2595.1, A-2595.3, N-10075*"
+     "raw": "*Related: C-9341, C-9344, C-9345, A-2595.1, A-2595.3, N-10072*"
     },
     {
      "raw": ""
@@ -2509,7 +2509,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936, N-10000"
+     "v": "N-10857, N-10000"
     },
     {
      "k": "Supports",
@@ -2570,7 +2570,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936, N-10664"
+     "v": "N-10857, N-10606"
     },
     {
      "k": "Supports",
@@ -2631,7 +2631,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10664, N-10936, N-10000"
+     "v": "N-10606, N-10857, N-10000"
     },
     {
      "k": "Supports",
@@ -2692,7 +2692,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936, N-10000"
+     "v": "N-10857, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -2749,7 +2749,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936, N-10000"
+     "v": "N-10857, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -2806,7 +2806,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10936, N-10000"
+     "v": "N-10067, N-10857, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -2859,7 +2859,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10936"
+     "v": "N-10067, N-10857"
     },
     {
      "k": "Investigative Direction",
@@ -2912,7 +2912,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10936"
+     "v": "N-10067, N-10857"
     },
     {
      "k": "Investigative Direction",
@@ -2969,7 +2969,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10000, N-10938"
+     "v": "N-10067, N-10000, N-10859"
     },
     {
      "k": "Investigative Direction",
@@ -3026,7 +3026,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10938, N-10000"
+     "v": "N-10859, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3083,7 +3083,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10938"
+     "v": "N-10859"
     },
     {
      "k": "Investigative Direction",
@@ -3140,7 +3140,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070, N-10936, N-10000"
+     "v": "N-10067, N-10857, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3193,7 +3193,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936, N-10000, N-10070"
+     "v": "N-10857, N-10000, N-10067"
     },
     {
      "k": "Investigative Direction",
@@ -3250,7 +3250,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936, N-10000"
+     "v": "N-10857, N-10000"
     },
     {
      "k": "Supports",
@@ -3307,7 +3307,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10939, N-10000"
+     "v": "N-10860, N-10000"
     },
     {
      "k": "Investigative Direction",
@@ -3364,7 +3364,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10939"
+     "v": "N-10860"
     },
     {
      "k": "Investigative Direction",
@@ -3421,7 +3421,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936"
+     "v": "N-10857"
     },
     {
      "k": "Investigative Direction",
@@ -3478,7 +3478,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10936"
+     "v": "N-10857"
     },
     {
      "k": "Investigative Direction",
@@ -3535,7 +3535,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10070"
+     "v": "N-10067"
     },
     {
      "k": "Investigative Direction",
@@ -3645,7 +3645,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10637, N-10075"
+     "v": "N-10844, N-10582, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -3702,7 +3702,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -3759,7 +3759,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10940, N-10941, N-10923, N-10075"
+     "v": "N-10861, N-10862, N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -3816,7 +3816,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10940, N-10923, N-10899"
+     "v": "N-10861, N-10844, N-10820"
     },
     {
      "k": "Investigative Direction",
@@ -3873,7 +3873,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -3930,7 +3930,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10941, N-10923, N-10075"
+     "v": "N-10862, N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -3987,7 +3987,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10941, N-10923"
+     "v": "N-10862, N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -4044,7 +4044,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10075"
+     "v": "N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -4101,7 +4101,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10075"
+     "v": "N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -4158,7 +4158,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923"
+     "v": "N-10844"
     },
     {
      "k": "Investigative Direction",
@@ -4215,7 +4215,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10923, N-10075"
+     "v": "N-10844, N-10072"
     },
     {
      "k": "Investigative Direction",
@@ -4272,7 +4272,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10888, N-10937"
+     "v": "N-10820, N-10809, N-10858"
     },
     {
      "k": "Investigative Direction",
@@ -4329,7 +4329,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10000, N-10643"
+     "v": "N-10820, N-10000, N-10347"
     },
     {
      "k": "Investigative Direction",
@@ -4386,7 +4386,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10643, N-10899, N-10000"
+     "v": "N-10347, N-10820, N-10000"
     },
     {
      "k": "Supports",
@@ -4447,7 +4447,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10888, N-10937"
+     "v": "N-10820, N-10809, N-10858"
     },
     {
      "k": "Investigative Direction",
@@ -4504,7 +4504,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10899, N-10888, N-10937"
+     "v": "N-10820, N-10809, N-10858"
     },
     {
      "k": "Investigative Direction",
@@ -4561,7 +4561,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10577, N-10578, N-10888"
+     "v": "N-10528, N-10529, N-10809"
     },
     {
      "k": "Supports",
@@ -5396,8 +5396,8 @@
     "",
     "- **DIA beats**: no hits for any DIA trigger phrase (tips, tip line, candaceowens.com, send us an email, decentralized intelligence, DCIA, bounty) in this transcript, so no M-12 or M-14 occurrence was added.",
     "- **Artifacts verbally referenced but not shown**: the original WHCD email and the host's retyped post of it; Erika Kirk's first Charlie Kirk Show appearance (C-9334); Paramount Tactical's website (C-9354); the Built contract records (C-9355). The Megyn Kelly interview (A-2592.1) appears to be on screen (\"look at the tears in her eye\"), but the exact clip is unclear, hence Medium confidence.",
-    "- **Name matching**: \"Bryan Hubble\" (37:55) is matched to N-266 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-9135/C-9136. \"Andrew Kolvet\"/\"Andrew Kolvet\" map to N-14, and \"Laky Neff\"/\"Blakey fake and F\" map to N-159 Blake Neff. \"Eric and Kirk\" (33:08) is read as Erika Kirk. \"Ryan Rippeon\" (35:13) and \"Ryan Rippeon\" (36:27) are treated as one new person, N-620, with spelling unverified. \"Gary\" and \"Gary Melton\" are treated as the Paramount Tactical operator (N-614). Paramount Tactical is mapped to the existing organization N-10899 \"Paramount Tactical Valhalla\". Prior claim C-9136 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.",
-    "- **Decoy boy number two**: the host does not name him or his father; C-9355 links to N-10577/N-10578 and Supports C-7793 (Built Inc. Air Force/Navy awards) on the shared proposition. Mentions of Ahmed Qureshi were left out because he is not named on air.",
+    "- **Name matching**: \"Bryan Hubble\" (37:55) is matched to N-266 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-9135/C-9136. \"Andrew Kolvet\"/\"Andrew Kolvet\" map to N-14, and \"Laky Neff\"/\"Blakey fake and F\" map to N-159 Blake Neff. \"Eric and Kirk\" (33:08) is read as Erika Kirk. \"Ryan Rippeon\" (35:13) and \"Ryan Rippeon\" (36:27) are treated as one new person, N-620, with spelling unverified. \"Gary\" and \"Gary Melton\" are treated as the Paramount Tactical operator (N-614). Paramount Tactical is mapped to the existing organization N-10820 \"Paramount Tactical Valhalla\". Prior claim C-9136 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.",
+    "- **Decoy boy number two**: the host does not name him or his father; C-9355 links to N-10528/N-10529 and Supports C-7793 (Built Inc. Air Force/Navy awards) on the shared proposition. Mentions of Ahmed Qureshi were left out because he is not named on air.",
     "- **Transcription ambiguities**: \"Brigitte doll\" (00:00:01, 03:44) is kept as spoken and not matched to any node. \"pointing her ICO\" (48:43) is presumably \"appointing her CEO\". \"Hollywood companies that specialize in IA\" is kept as spoken. \"Phil Tourney\" is named only as the host's top-ranked interview, so no claim cites him.",
     "- **Cross-episode links left out**: the WHCD email story itself was first broken in an earlier episode (\"last week\"), but no matching claim appears in claims_index.tsv (episodes 103–105 have no indexed claims), so C-9339/C-9340 carry no Supports link. C-9345 (the Military Office may not have sent the email) may qualify the host's earlier attribution; it is left unlinked for the same reason. C-9322 (TPUSA released the audio) relates to C-9053 but is not the same proposition.",
     "- **Not inscribed as claims (admission test)**: The following fail the admission test as framing, opinion or rhetoric:",

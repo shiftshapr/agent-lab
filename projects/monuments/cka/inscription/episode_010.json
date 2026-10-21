@@ -135,8 +135,8 @@
             "C-879"
           ],
           "related_nodes": [
-            "N-10124",
-            "N-10129"
+            "N-10119",
+            "N-10124"
           ],
           "tags": [],
           "event_timestamp": "2025-09-15",
@@ -153,8 +153,8 @@
             "C-883"
           ],
           "related_nodes": [
-            "N-10124",
-            "N-10129"
+            "N-10119",
+            "N-10124"
           ],
           "tags": [],
           "video_timestamp": "00:15:24–00:16:47",
@@ -181,7 +181,7 @@
           "related_nodes": [
             "N-115",
             "N-1",
-            "N-10130"
+            "N-10125"
           ],
           "tags": [],
           "video_timestamp": "00:04:45–00:06:00",
@@ -199,7 +199,7 @@
           ],
           "related_nodes": [
             "N-115",
-            "N-10130"
+            "N-10125"
           ],
           "tags": [],
           "video_timestamp": "00:06:34–00:07:06",
@@ -249,7 +249,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-10131"
+            "N-10126"
           ],
           "tags": [],
           "video_timestamp": "00:31:20–00:32:00",
@@ -300,7 +300,7 @@
           "related_nodes": [
             "N-122",
             "N-115",
-            "N-10130"
+            "N-10125"
           ],
           "tags": [],
           "event_timestamp": "2025-08-06",
@@ -326,7 +326,7 @@
           ],
           "related_nodes": [
             "N-37",
-            "N-10130"
+            "N-10125"
           ],
           "tags": [],
           "video_timestamp": "00:03:05–00:03:46",
@@ -455,7 +455,7 @@
             "C-937"
           ],
           "related_nodes": [
-            "N-10140",
+            "N-10135",
             "N-1"
           ],
           "tags": [],
@@ -473,7 +473,7 @@
             "C-941"
           ],
           "related_nodes": [
-            "N-10138"
+            "N-10133"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1161,8 +1161,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10129",
-      "ref": "N-10129",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Orem Police Department",
       "type": "organization",
       "description": "Local Utah police department that received the second rooftop witness's footage on day one of the assassination.",
@@ -1181,8 +1181,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10130",
-      "ref": "N-10130",
+      "@id": "N-10125",
+      "ref": "N-10125",
       "name": "Department of Government Efficiency (DOGE)",
       "type": "organization",
       "description": "Referenced as federal initiative by Musk/Ramaswamy and as the model for Charlie Kirk's TPUSA-internal DOGE audit announced September 2, 2025.",
@@ -1201,8 +1201,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10124",
-      "ref": "N-10124",
+      "@id": "N-10119",
+      "ref": "N-10119",
       "name": "Riverbend Ranch",
       "type": "organization",
       "description": "Organization that produced tribute video for Charlie Kirk, aired in episode.",
@@ -1219,8 +1219,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "organization",
       "description": "Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Streit.",
@@ -1238,8 +1238,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
       "type": "topic",
       "description": "Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, anchored by the September 2 internal memo and host's receipt of insider leaks.",
@@ -1259,8 +1259,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10133",
-      "ref": "N-10133",
+      "@id": "N-10128",
+      "ref": "N-10128",
       "name": "Federal Investigation Conduct Question",
       "type": "topic",
       "description": "Open question of why federal authorities did not contact the two rooftop-footage witnesses until September 15, anchored by direct testimonials.",
@@ -1281,8 +1281,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10134",
-      "ref": "N-10134",
+      "@id": "N-10129",
+      "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
       "type": "topic",
       "description": "August 2025 weekend retreat at which pressure was reportedly applied to Charlie Kirk on Israel/Netanyahu positioning; characterized by Charlie as 'moral blackmail'.",
@@ -1306,8 +1306,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10135",
-      "ref": "N-10135",
+      "@id": "N-10130",
+      "ref": "N-10130",
       "name": "Doorbell Footage Completeness Question",
       "type": "topic",
       "description": "Tip-based investigation thread alleging that publicly released doorbell footage of Tyler Robinson is incomplete and shows him with an unidentified woman changing clothes.",
@@ -1327,8 +1327,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10136",
-      "ref": "N-10136",
+      "@id": "N-10131",
+      "ref": "N-10131",
       "name": "Muzzle Flash Theory (Range Day Bro)",
       "type": "topic",
       "description": "Range Day Bro's claim that a muzzle flash is visible inside the flag hall; partially rebutted by host via window-doesn't-open argument.",
@@ -1348,8 +1348,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10137",
-      "ref": "N-10137",
+      "@id": "N-10132",
+      "ref": "N-10132",
       "name": "Suspicious Bush Theory (Range Day Bro)",
       "type": "topic",
       "description": "Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; corroborated by host's ground photographs showing translucency.",
@@ -1368,8 +1368,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10138",
-      "ref": "N-10138",
+      "@id": "N-10133",
+      "ref": "N-10133",
       "name": "Bullet Casing Engraving Pattern",
       "type": "topic",
       "description": "Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.",
@@ -1384,8 +1384,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "topic",
       "description": "Host asserts this is 'a real thing' when discussing financially motivated pastors around Charlie Kirk.",
@@ -1400,8 +1400,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10140",
-      "ref": "N-10140",
+      "@id": "N-10135",
+      "ref": "N-10135",
       "name": "Amazon Pre-Event Book Listing (Sep 9)",
       "type": "topic",
       "description": "Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.",
@@ -1438,8 +1438,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10062",
-      "ref": "N-10062",
+      "@id": "N-10059",
+      "ref": "N-10059",
       "name": "Orem, Utah",
       "type": "place",
       "description": "City where the assassination occurred and where Orem PD received the rooftop footage on day one; Lance Robinson's home was raided here.",
@@ -1509,9 +1509,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10033",
-      "ref": "N-10033",
-      "name": "Hamptons Donor Pressure Investigation",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the financial threats claim.",
       "related_artifacts": [],
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10052",
-      "ref": "N-10052",
+      "@id": "N-10049",
+      "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
       "type": "investigation_target",
       "description": "Existing topic reused for the doorbell footage tip.",
@@ -1543,8 +1543,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@id": "N-10075",
+      "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for the finance and leak claims.",
@@ -1566,8 +1566,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
       "type": "investigation_target",
       "description": "Existing topic reused for the footage-release claims.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@id": "N-10102",
+      "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
       "type": "investigation_target",
       "description": "Existing topic reused for the moral blackmail remark and workshop framing.",
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for the host's hex and priest claim.",
@@ -1622,8 +1622,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Existing topic reused for Charlie's distrust of the feds.",
@@ -1639,8 +1639,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for the offer claim.",
@@ -1656,8 +1656,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Existing topic reused for the Dillon and Hammer claims.",
@@ -1674,8 +1674,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "investigation_target",
       "description": "Existing topic reused for the September 2 announcement.",
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
       "type": "investigation_target",
       "description": "Existing topic reused for the necklace claim.",
@@ -1708,8 +1708,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11097",
-      "ref": "N-11097",
+      "@id": "N-11015",
+      "ref": "N-11015",
       "name": "TPUSA Post-Assassination Fundraising Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for the fundraising email claims.",
@@ -1728,8 +1728,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11371",
-      "ref": "N-11371",
+      "@id": "N-11287",
+      "ref": "N-11287",
       "name": "TPUSA Contractor Double-Dealing Allegation",
       "type": "topic",
       "description": "The host's report, from unnamed TPUSA sources, that contractors and other people around the organization took money both ways, earning commissions on both sides of contracts, which she links to Charlie's concern about disappearing money.",
@@ -1757,8 +1757,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10130",
-        "N-10132"
+        "N-10125",
+        "N-10127"
       ],
       "tags": [],
       "claim_timestamp": "00:20:52",
@@ -1781,7 +1781,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10132"
+        "N-10127"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -1804,7 +1804,7 @@
         "A-1166.1"
       ],
       "related_nodes": [
-        "N-10136"
+        "N-10131"
       ],
       "tags": [],
       "claim_timestamp": "00:29:09",
@@ -1848,7 +1848,7 @@
         "A-1163.3"
       ],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [],
       "claim_timestamp": "00:30:20",
@@ -1869,7 +1869,7 @@
         "A-1164.2"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [],
       "claim_timestamp": "00:13:53",
@@ -1890,9 +1890,9 @@
         "A-1164.3"
       ],
       "related_nodes": [
-        "N-10129",
-        "N-10133",
-        "N-10062"
+        "N-10124",
+        "N-10128",
+        "N-10059"
       ],
       "tags": [
         "open_source_investigation"
@@ -1918,7 +1918,7 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10027"
       ],
       "tags": [],
@@ -1942,7 +1942,7 @@
       ],
       "related_nodes": [
         "N-10027",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [],
       "claim_timestamp": "00:03:59",
@@ -1968,7 +1968,7 @@
         "A-1169.1"
       ],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10027"
       ],
       "tags": [],
@@ -1993,7 +1993,7 @@
       ],
       "related_nodes": [
         "N-10027",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [],
       "claim_timestamp": "00:07:17",
@@ -2018,7 +2018,7 @@
         "A-1167.1"
       ],
       "related_nodes": [
-        "N-10135"
+        "N-10130"
       ],
       "tags": [
         "calls_for_tips",
@@ -2043,7 +2043,7 @@
         "A-1170.1"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [],
       "claim_timestamp": "00:03:05",
@@ -2066,7 +2066,7 @@
         "A-1170.1"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [],
       "claim_timestamp": "00:03:05",
@@ -2239,8 +2239,8 @@
       "claim": "The host says Josh Hammer and Seth Dillon have not been honest or forthcoming about the pressure that they and others put on Charlie Kirk, and that she views lies by omission as lies.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
-        "N-10134"
+        "N-10323",
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2267,7 +2267,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10018",
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2292,7 +2292,7 @@
       "claim": "The host says the word \"intervention\" for the Hamptons weekend is how Charlie himself described it, and that Bill Ackman's 959-word reply did not address that point.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2317,7 +2317,7 @@
       "claim": "The host says Netanyahu made an offer to take Turning Point to the next level financially, and that no one wants to address that point.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10342",
+        "N-10320",
         "N-10000"
       ],
       "tags": [
@@ -2339,7 +2339,7 @@
       "claim": "The host says that people thought Charlie's ideas were trending in the wrong direction, and that no one wants to address her points because she was being honest.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2360,7 +2360,7 @@
       "claim": "The host says the response videos and tweets that followed disclosure of the Hamptons weekend look as if a PR crisis was under way; at 00:08:25 she adds that you could sense there was a PR panic once people began speaking about the weekend.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2382,7 +2382,7 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2405,8 +2405,8 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-10106",
-        "N-10134"
+        "N-10102",
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2429,7 +2429,7 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2453,8 +2453,8 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-10106",
-        "N-10134"
+        "N-10102",
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2477,8 +2477,8 @@
         "A-1165.1"
       ],
       "related_nodes": [
-        "N-10106",
-        "N-10134"
+        "N-10102",
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2499,8 +2499,8 @@
       "claim": "The host says Seth Dillon and Josh Hammer were unhappy with Charlie at the end of the Hamptons weekend because they saw his positions on Netanyahu and Israel shifting, and that they were being accusatory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10345",
-        "N-10134"
+        "N-10323",
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2526,7 +2526,7 @@
       "claim": "The host says that the day after the Hamptons weekend Charlie vented to Megyn Kelly about being wrongly labeled anti-Semitic, and that this was pushing him away and was not good for Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2550,7 +2550,7 @@
       "claim": "The host says the Hamptons weekend was kept hush hush, which she calls extraordinarily unusual for a Turning Point event, and that this was one of the big questions she asked.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10000"
       ],
       "tags": [
@@ -2571,7 +2571,7 @@
       "claim": "The host says TPUSA flew influencers out for the Hamptons weekend, that they did not post about it until they were rumbled, and that DuRousseau offered an explanation for the delay.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10000"
       ],
       "tags": [
@@ -2595,7 +2595,7 @@
         "A-1165.2"
       ],
       "related_nodes": [
-        "N-10134"
+        "N-10129"
       ],
       "tags": [
         "relevance:context"
@@ -2617,7 +2617,7 @@
         "A-1165.2"
       ],
       "related_nodes": [
-        "N-10134",
+        "N-10129",
         "N-10000",
         "N-10027"
       ],
@@ -2642,7 +2642,7 @@
         "A-2520.2"
       ],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -2663,8 +2663,8 @@
       "claim": "The host says Charlie was literally facing financial threats over his speech, and likens it to what happened to her a year earlier.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10106",
-        "N-10033"
+        "N-10102",
+        "N-10016"
       ],
       "tags": [
         "relevance:context"
@@ -2689,7 +2689,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -2710,7 +2710,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -2732,7 +2732,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -2752,7 +2752,7 @@
       "claim": "The host says Charlie did not trust the feds and did not believe the public was getting the truth about the Epstein files.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10324"
+        "N-10303"
       ],
       "tags": [
         "relevance:context"
@@ -2816,7 +2816,7 @@
       "claim": "The host says there has been no update whatsoever on the raid of Lance's house, where Tyler Robinson was living at the time of the crime, and that Lance has completely fallen to the wayside.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10062"
+        "N-10059"
       ],
       "tags": [
         "relevance:core"
@@ -2838,7 +2838,7 @@
       "claim": "The host says her instinct has always been that the feds injected themselves into the case immediately because they were staging a cover-up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2858,7 +2858,7 @@
       "claim": "The host says that with the information she is about to give about the rooftop footage witnesses, she feels she can almost establish as a fact that the feds were staging a cover-up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2880,7 +2880,7 @@
         "A-1164.1"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2902,7 +2902,7 @@
         "A-1164.1"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2924,7 +2924,7 @@
         "A-1164.1"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2946,7 +2946,7 @@
         "A-1164.2"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2968,7 +2968,7 @@
         "A-1164.2"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -2990,7 +2990,7 @@
         "A-1164.2"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3012,7 +3012,7 @@
         "A-1164.3"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3034,7 +3034,7 @@
         "A-1164.3"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3060,7 +3060,7 @@
         "A-1164.3"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3084,7 +3084,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:core"
@@ -3126,7 +3126,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3147,7 +3147,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3169,7 +3169,7 @@
         "A-3278.1"
       ],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3195,7 +3195,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3217,7 +3217,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10078"
+        "N-10075"
       ],
       "tags": [
         "relevance:context"
@@ -3237,7 +3237,7 @@
       "claim": "The host says that, allegedly, Charlie came to feel that money was disappearing and that the excuses he was given did not add up, and that she thinks there is some proof of it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3262,7 +3262,7 @@
       "claim": "The host says, according to sources, that Charlie felt the company was burning through cash too quickly and set out to find out why and how.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3287,9 +3287,9 @@
       "claim": "The host says that on September 2, one week before his death, Charlie surprised the company by announcing that he was putting together a DOGE department.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10434",
-        "N-10132",
-        "N-10130"
+        "N-10404",
+        "N-10127",
+        "N-10125"
       ],
       "tags": [
         "relevance:core"
@@ -3340,7 +3340,7 @@
         "A-1162.1"
       ],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3365,8 +3365,8 @@
       "claim": "The host says what she understands is that there were a lot of contractors and other people at TPUSA taking money both ways and cutting deals, and that the money simply looked funny.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11371",
-        "N-10132",
+        "N-11287",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3389,8 +3389,8 @@
         "A-3278.2"
       ],
       "related_nodes": [
-        "N-10132",
-        "N-10078"
+        "N-10127",
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3410,7 +3410,7 @@
       "claim": "The host says her sources at Turning Point told her Charlie was concerned not just about where the money was going but also about where it was coming from.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3432,7 +3432,7 @@
       "claim": "The host offers a possible meaning of the concern about where money came from: companies flooding the zone with money in order to gain more influence, about which Charlie had questions.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3454,8 +3454,8 @@
       "claim": "The host says it sounds like there were people at TPUSA who were effectively double agents making money on commissions on both sides of a contract.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11371",
-        "N-10132",
+        "N-11287",
+        "N-10127",
         "N-10000"
       ],
       "tags": [
@@ -3476,8 +3476,8 @@
       "claim": "The host says she will allow reports from other people who have seized on the TPUSA finance question to come out the following week.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
-        "N-10078"
+        "N-10127",
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -3499,7 +3499,7 @@
         "A-1168.1"
       ],
       "related_nodes": [
-        "N-10124"
+        "N-10119"
       ],
       "tags": [
         "relevance:tangential"
@@ -3523,7 +3523,7 @@
         "A-1163.1"
       ],
       "related_nodes": [
-        "N-10136"
+        "N-10131"
       ],
       "tags": [
         "relevance:core"
@@ -3546,7 +3546,7 @@
         "A-1163.2"
       ],
       "related_nodes": [
-        "N-10136"
+        "N-10131"
       ],
       "tags": [
         "relevance:core"
@@ -3569,7 +3569,7 @@
         "A-1163.2"
       ],
       "related_nodes": [
-        "N-10136"
+        "N-10131"
       ],
       "tags": [
         "relevance:core"
@@ -3592,7 +3592,7 @@
         "A-1163.2"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10492"
       ],
       "tags": [
         "relevance:core"
@@ -3619,7 +3619,7 @@
         "A-1166.1"
       ],
       "related_nodes": [
-        "N-10136"
+        "N-10131"
       ],
       "tags": [
         "relevance:core"
@@ -3645,7 +3645,7 @@
         "A-1163.3"
       ],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [
         "relevance:core"
@@ -3668,7 +3668,7 @@
         "A-1163.3"
       ],
       "related_nodes": [
-        "N-10137"
+        "N-10132"
       ],
       "tags": [
         "relevance:core"
@@ -3690,8 +3690,8 @@
         "A-1167.1"
       ],
       "related_nodes": [
-        "N-10135",
-        "N-10052"
+        "N-10130",
+        "N-10049"
       ],
       "tags": [
         "relevance:core"
@@ -3716,7 +3716,7 @@
         "A-1167.1"
       ],
       "related_nodes": [
-        "N-10135"
+        "N-10130"
       ],
       "tags": [
         "relevance:core"
@@ -3738,8 +3738,8 @@
         "A-1167.1"
       ],
       "related_nodes": [
-        "N-10135",
-        "N-10133"
+        "N-10130",
+        "N-10128"
       ],
       "tags": [
         "relevance:core"
@@ -3761,7 +3761,7 @@
         "A-3279.1"
       ],
       "related_nodes": [
-        "N-11097",
+        "N-11015",
         "N-10000"
       ],
       "tags": [
@@ -3807,7 +3807,7 @@
         "A-3279.1"
       ],
       "related_nodes": [
-        "N-11097",
+        "N-11015",
         "N-10000"
       ],
       "tags": [
@@ -3829,7 +3829,7 @@
       "claim": "The host says she has had fundraising emails go out with her face and her name on them that she did not author, and that such emails are the work of an entire department.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11097"
+        "N-11015"
       ],
       "tags": [
         "relevance:context"
@@ -3872,7 +3872,7 @@
         "A-3279.1"
       ],
       "related_nodes": [
-        "N-11097",
+        "N-11015",
         "N-10000"
       ],
       "tags": [
@@ -3894,7 +3894,7 @@
       "claim": "The host says Erika is a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10117"
+        "N-10113"
       ],
       "tags": [
         "relevance:core"
@@ -4013,8 +4013,8 @@
       "claim": "The host says she thinks a lot of the pastors around Charlie were not exactly honest about whether they were financially motivated to say certain things, and that Christian and Jewish organizations and funds coming together have been interesting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139",
-        "N-10078"
+        "N-10134",
+        "N-10075"
       ],
       "tags": [
         "relevance:core"
@@ -4035,7 +4035,7 @@
       "claim": "The host says Operation Mocking Pastor is a real thing, in the context of pastors around Charlie and the funds behind the organizations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:core"
@@ -4079,7 +4079,7 @@
         "A-3276.1"
       ],
       "related_nodes": [
-        "N-10140"
+        "N-10135"
       ],
       "tags": [
         "relevance:core"
@@ -4104,7 +4104,7 @@
         "A-3276.1"
       ],
       "related_nodes": [
-        "N-10140"
+        "N-10135"
       ],
       "tags": [
         "relevance:core"
@@ -4126,7 +4126,7 @@
         "A-3277.1"
       ],
       "related_nodes": [
-        "N-10133"
+        "N-10128"
       ],
       "tags": [
         "relevance:context",
@@ -4172,7 +4172,7 @@
         "A-3276.2"
       ],
       "related_nodes": [
-        "N-10138"
+        "N-10133"
       ],
       "tags": [
         "relevance:core"

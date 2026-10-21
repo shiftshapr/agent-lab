@@ -134,7 +134,7 @@
           "related_nodes": [
             "N-550",
             "N-493",
-            "N-10492"
+            "N-10456"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
             "C-6300"
           ],
           "related_nodes": [
-            "N-10492"
+            "N-10456"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -354,7 +354,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-493",
-        "N-10492"
+        "N-10456"
       ]
     },
     {
@@ -404,8 +404,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10492",
-      "ref": "N-10492",
+      "@id": "N-10456",
+      "ref": "N-10456",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.",
@@ -431,9 +431,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10493",
-      "ref": "N-10493",
-      "name": "Pierre / French Donor Investigation",
+      "@id": "N-10280",
+      "ref": "N-10280",
+      "name": "Pierre Dupont Donor Identity Verification Question",
       "type": "investigation_target",
       "description": "Unconfirmed French individual, alleged by host to have committed \"billions\" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.",
       "related_artifacts": [],
@@ -445,13 +445,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10494"
+        "N-10457"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10494",
-      "ref": "N-10494",
+      "@id": "N-10457",
+      "ref": "N-10457",
       "name": "Erika Kirk September 10 Morning Itinerary Discrepancy",
       "type": "investigation_target",
       "description": "Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.",
@@ -472,8 +472,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10495",
-      "ref": "N-10495",
+      "@id": "N-10458",
+      "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
       "type": "investigation_target",
       "description": "Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding \"taking Turning Point USA to the next level\"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.",
@@ -491,9 +491,9 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10496",
-      "ref": "N-10496",
-      "name": "Egyptian Planes Investigation",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Host-raised investigative target referencing \"Egyptian planes\" that allegedly departed Delaware; no artifact anchor in this episode.",
       "related_artifacts": [],
@@ -504,7 +504,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10494"
+        "N-10457"
       ]
     },
     {
@@ -996,8 +996,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10075",
-      "ref": "N-10075",
+      "@id": "N-10072",
+      "ref": "N-10072",
       "name": "White House",
       "type": "investigation_target",
       "description": "Place; the host says it never answered her French Foreign Legion inquiry.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10122",
-      "ref": "N-10122",
+      "@id": "N-10117",
+      "ref": "N-10117",
       "name": "Jezebel",
       "type": "investigation_target",
       "description": "Existing organization reused for the host's account of Charlie Kirk's fear.",
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10117",
-      "ref": "N-10117",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1082,8 +1082,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10252",
+      "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for the AmFest pay-to-play claim.",
@@ -1099,8 +1099,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10290",
-      "ref": "N-10290",
+      "@id": "N-10272",
+      "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@id": "N-10297",
+      "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10317",
-      "ref": "N-10317",
+      "@id": "N-10298",
+      "ref": "N-10298",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1152,8 +1152,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10342",
-      "ref": "N-10342",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1187,8 +1187,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1204,8 +1204,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@id": "N-10395",
+      "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1239,8 +1239,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10456",
-      "ref": "N-10456",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10483",
-      "ref": "N-10483",
+      "@id": "N-10449",
+      "ref": "N-10449",
       "name": "Erika's Mother Medical Narrative",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10510",
-      "ref": "N-10510",
+      "@id": "N-10470",
+      "ref": "N-10470",
       "name": "TPUSA All-American Halftime Show Authenticity Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1290,8 +1290,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Tarmac Hug Account Discrepancy",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10549",
-      "ref": "N-10549",
+      "@id": "N-10503",
+      "ref": "N-10503",
       "name": "Egyptian Plane Transponding Correlation",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1325,26 +1325,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10560",
-      "ref": "N-10560",
-      "name": "Tarmac Hug Timeline Reconciliation Question",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6285",
-        "C-6286"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10806",
-      "ref": "N-10806",
+      "@id": "N-10730",
+      "ref": "N-10730",
       "name": "Charlie Kirk Pre-Event Text Messages",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1365,27 +1347,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10816",
-      "ref": "N-10816",
-      "name": "Charlie Kirk September 9, 2025 Text Messages",
-      "type": "investigation_target",
-      "description": "Existing topic reused for new claims in this episode.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-6258",
-        "C-6259",
-        "C-6311"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10905",
-      "ref": "N-10905",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
@@ -1401,8 +1364,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11038",
-      "ref": "N-11038",
+      "@id": "N-10956",
+      "ref": "N-10956",
       "name": "Shaffer Security",
       "type": "investigation_target",
       "description": "Existing organization; the host's 'Shaffer security' in the transcript.",
@@ -1435,8 +1398,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11184",
-      "ref": "N-11184",
+      "@id": "N-11100",
+      "ref": "N-11100",
       "name": "Candace Owens 2019 TPUSA Resignation Account",
       "type": "topic",
       "description": "The host's account of her May 2019 resignation as TPUSA communications director and her stated reason, that Charlie Kirk lied to her about money.",
@@ -1453,8 +1416,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11185",
-      "ref": "N-11185",
+      "@id": "N-11101",
+      "ref": "N-11101",
       "name": "Charlie Kirk Mar-a-Lago Fundraising Meeting Concealment",
       "type": "topic",
       "description": "The host's account of a fundraising lunch between Charlie Kirk and 'Ike' at Mar-a-Lago that she says he concealed from her and then denied in an elevator.",
@@ -1471,8 +1434,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11186",
-      "ref": "N-11186",
+      "@id": "N-11102",
+      "ref": "N-11102",
       "name": "Angolagate",
       "type": "topic",
       "description": "The arms-sales affair the host connects to Pierre Falcone when guessing the identity of the donor Pierre.",
@@ -1570,7 +1533,7 @@
         "A-1746.2"
       ],
       "related_nodes": [
-        "N-10494"
+        "N-10457"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42–00:20:30",
@@ -1607,7 +1570,7 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10456"
       ],
       "tags": [],
       "claim_timestamp": "00:26:00",
@@ -1628,7 +1591,7 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10456"
       ],
       "tags": [],
       "claim_timestamp": "00:27:35",
@@ -1702,7 +1665,7 @@
         "A-1749.1"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10456"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:03",
@@ -1755,7 +1718,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11184"
+        "N-11100"
       ],
       "tags": [
         "relevance:context"
@@ -1777,7 +1740,7 @@
       "claim": "The host says the real reason she resigned was not antisemitism or a Kanye West disagreement, as the media claimed, but that Charlie Kirk lied to her face about money.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11184",
+        "N-11100",
         "N-10004"
       ],
       "tags": [
@@ -1800,7 +1763,7 @@
       "claim": "The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11185"
+        "N-11101"
       ],
       "tags": [
         "relevance:context"
@@ -1822,7 +1785,7 @@
       "claim": "The host says that in an elevator at the Trump Hotel in DC Charlie Kirk told her he had not heard from Ike (Perlmutter) in two weeks, and when she said he had lunch with him at Mar-a-Lago the day before, his face dropped and he tried to explain it away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11185"
+        "N-11101"
       ],
       "tags": [
         "relevance:context"
@@ -1867,8 +1830,8 @@
       "claim": "The host says she warned Charlie Kirk about Shaffer Security and Dan Flood, and tells Erika Kirk that the text messages are in Erika's possession.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11038",
-        "N-10806"
+        "N-10956",
+        "N-10730"
       ],
       "tags": [
         "relevance:core"
@@ -1975,8 +1938,7 @@
       "claim": "The host says Erika Kirk has Charlie Kirk's phone and that the host earlier revealed he had predicted his own death in remarkable detail.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10806",
-        "N-10816"
+        "N-10730"
       ],
       "tags": [
         "relevance:core"
@@ -1998,8 +1960,7 @@
       "claim": "The host says she holds further messages from Charlie Kirk that she has not revealed to the public and that they are terrifying because they are precise and feel prophetic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10806",
-        "N-10816"
+        "N-10730"
       ],
       "tags": [
         "relevance:core"
@@ -2020,9 +1981,9 @@
       "claim": "The host says a Jezebel article did not upset Charlie Kirk; rather he called a priest to pray over him, thought someone was going to kill him and expressed that in writing, and that Erika did not lose those text messages.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10122",
         "N-10117",
-        "N-10806"
+        "N-10113",
+        "N-10730"
       ],
       "tags": [
         "relevance:core"
@@ -2044,7 +2005,7 @@
       "claim": "The host says she and Charlie Kirk talked about his third eye, strange things in their childhood, the testing they endured, astral projection and sleep paralysis, and notes Erika Kirk spoke in the article about streetlamps that went off when he ran and the special school he attended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10422"
+        "N-10395"
       ],
       "tags": [
         "relevance:tangential"
@@ -2085,7 +2046,7 @@
       "claim": "The host says Erika Kirk said in an interview that the next morning Charlie Kirk snuck in and grabbed his wedding band, and the host asks why the ring was off.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10905"
+        "N-10826"
       ],
       "tags": [
         "relevance:core"
@@ -2109,7 +2070,7 @@
         "A-2931.1"
       ],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2133,7 +2094,7 @@
         "A-2931.1"
       ],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2161,8 +2122,8 @@
         "A-2931.1"
       ],
       "related_nodes": [
-        "N-10493",
-        "N-10317"
+        "N-10280",
+        "N-10298"
       ],
       "tags": [
         "relevance:core"
@@ -2188,7 +2149,7 @@
         "A-2931.1"
       ],
       "related_nodes": [
-        "N-10493",
+        "N-10280",
         "N-10000"
       ],
       "tags": [
@@ -2211,7 +2172,7 @@
       "claim": "The host says Pierre somehow knew Charlie Kirk was dead before the rest of the world did, even though he was not yet a Turning Point USA donor, and asks why he was given priority.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2232,7 +2193,7 @@
       "claim": "The host says she knows that after Charlie Kirk died, the Pierre deal went through.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2253,10 +2214,10 @@
       "claim": "The host says the White House never got back to her about the French Foreign Legion being involved in Charlie Kirk's assassination, and speculates that Pierre may explain a French angle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10290",
-        "N-10316",
-        "N-10493",
-        "N-10075"
+        "N-10272",
+        "N-10297",
+        "N-10280",
+        "N-10072"
       ],
       "tags": [
         "relevance:core"
@@ -2277,8 +2238,8 @@
       "claim": "The host says her best guess is that Pierre is Pierre Falcone of Angolagate, and describes France, Israel, the United States and Egypt working together.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11186",
-        "N-10317",
+        "N-11102",
+        "N-10298",
         "N-10026"
       ],
       "tags": [
@@ -2303,8 +2264,8 @@
       "claim": "The host alleges Erika Kirk was lying to cover BB Netanyahu's tracks, linking this to what she portrays as Erika's dismissive \"little joke\" about the Egyptian planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10496",
-        "N-10342"
+        "N-10239",
+        "N-10320"
       ],
       "tags": [
         "relevance:core"
@@ -2326,10 +2287,10 @@
       "claim": "The host says Andrew Kolvet told her that BB Netanyahu offered to take Turning Point USA to the next level and that Charlie Kirk turned him down in the Hamptons at a dinner Erika Kirk attended.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10495",
-        "N-10342",
+        "N-10458",
+        "N-10320",
         "N-10027",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -2377,7 +2338,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10446"
+        "N-10415"
       ],
       "tags": [
         "relevance:core"
@@ -2420,7 +2381,7 @@
       "claim": "The host says that, according to Andrew Kolvet, Charlie Kirk declined to have BB Netanyahu on his podcast when Netanyahu went on a PR tour.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10456"
+        "N-10425"
       ],
       "tags": [
         "relevance:core"
@@ -2464,8 +2425,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10316",
-        "N-10493"
+        "N-10297",
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2488,7 +2449,7 @@
         "A-2932.1"
       ],
       "related_nodes": [
-        "N-10494"
+        "N-10457"
       ],
       "tags": [
         "relevance:core"
@@ -2511,8 +2472,8 @@
         "A-2932.1"
       ],
       "related_nodes": [
-        "N-10494",
-        "N-10483"
+        "N-10457",
+        "N-10449"
       ],
       "tags": [
         "relevance:core"
@@ -2533,8 +2494,7 @@
       "claim": "The host says Andrew Kolvet told her that when he deplaned he and Erika Kirk embraced on the tarmac and he cried in her arms because of pent-up anxiety.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10560"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2559,8 +2519,7 @@
       "claim": "The host says Erika Kirk confirmed to her which plane Andrew was on and which she was on, and that this implies she waited about an hour for Andrew's plane to land.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10548",
-        "N-10560"
+        "N-10502"
       ],
       "tags": [
         "relevance:core"
@@ -2582,8 +2541,8 @@
       "claim": "The host asks who was on the Egyptian planes, who took off from Delaware and who stayed behind to communicate on a second plane that was transponding for no reason.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10496",
-        "N-10549"
+        "N-10239",
+        "N-10503"
       ],
       "tags": [
         "relevance:core"
@@ -2648,7 +2607,7 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10456"
       ],
       "tags": [
         "relevance:core"
@@ -2671,7 +2630,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10386"
+        "N-10359"
       ],
       "tags": [
         "relevance:context"
@@ -2695,7 +2654,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",
-        "N-10268"
+        "N-10252"
       ],
       "tags": [
         "relevance:context"
@@ -2741,7 +2700,7 @@
         "A-2930.1"
       ],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2784,7 +2743,7 @@
         "A-2931.1"
       ],
       "related_nodes": [
-        "N-10493"
+        "N-10280"
       ],
       "tags": [
         "relevance:core"
@@ -2893,7 +2852,7 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10456"
       ],
       "tags": [
         "relevance:core"
@@ -2915,7 +2874,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10492"
+        "N-10456"
       ],
       "tags": [
         "relevance:context"
@@ -2937,8 +2896,7 @@
         "A-2933.1"
       ],
       "related_nodes": [
-        "N-10806",
-        "N-10816"
+        "N-10730"
       ],
       "tags": [
         "relevance:core"
@@ -2962,8 +2920,8 @@
         "A-2933.1"
       ],
       "related_nodes": [
-        "N-10340",
-        "N-10806"
+        "N-10318",
+        "N-10730"
       ],
       "tags": [
         "relevance:core"
@@ -2986,7 +2944,7 @@
       "claim": "The host says Turning Point USA made an announcement about a halftime show, and that she will not watch it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10510",
+        "N-10470",
         "N-10000"
       ],
       "tags": [

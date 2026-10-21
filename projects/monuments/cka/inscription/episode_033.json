@@ -116,7 +116,7 @@
             "N-1",
             "N-2",
             "N-67",
-            "N-10253"
+            "N-10239"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10253"
+            "N-10239"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10253"
+            "N-10239"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10254"
+            "N-10240"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,7 +218,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10254",
+            "N-10240",
             "N-41"
           ],
           "tags": [],
@@ -238,8 +238,8 @@
           ],
           "related_nodes": [
             "N-41",
-            "N-10896",
-            "N-10254"
+            "N-10817",
+            "N-10240"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -267,7 +267,7 @@
           ],
           "related_nodes": [
             "N-260",
-            "N-10256"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
           ],
           "related_nodes": [
             "N-260",
-            "N-10256"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -307,7 +307,7 @@
           ],
           "related_nodes": [
             "N-260",
-            "N-10256"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-260",
-            "N-10256"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -354,7 +354,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10255"
+            "N-10241"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -381,7 +381,7 @@
           ],
           "related_nodes": [
             "N-263",
-            "N-10257"
+            "N-10243"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -426,7 +426,7 @@
           "related_nodes": [
             "N-1",
             "N-264",
-            "N-10253"
+            "N-10239"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,7 +453,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10255"
+            "N-10241"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -471,7 +471,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10256"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -489,7 +489,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10256"
+            "N-10242"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -515,7 +515,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-11334"
+            "N-11250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -540,7 +540,7 @@
             "C-2978"
           ],
           "related_nodes": [
-            "N-10896"
+            "N-10817"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -636,7 +636,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ]
     },
     {
@@ -664,7 +664,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10256"
+        "N-10242"
       ]
     },
     {
@@ -708,7 +708,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-10253"
+        "N-10239"
       ]
     },
     {
@@ -735,8 +735,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking allegations that Egyptian military aircraft SUBND and SUBTT conducted sustained surveillance of Erika Kirk (and sometimes Charlie Kirk) from 2022 through September 2025, with concentrated activity on the day of the assassination.",
@@ -767,8 +767,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10254",
-      "ref": "N-10254",
+      "@id": "N-10240",
+      "ref": "N-10240",
       "name": "TPUSA Financial Filing Anomaly Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking missing IRS Form 990 filings for three of four TPUSA-related entities for FY2024, the $8.56M transfer to America's Turning Point, and the timing of audit requests relative to Charlie Kirk's death.",
@@ -792,14 +792,14 @@
       "related_nodes": [
         "N-2",
         "N-41",
-        "N-10896"
+        "N-10817"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10255",
-      "ref": "N-10255",
-      "name": "N560TW Flight Pattern Investigation",
+      "@id": "N-10241",
+      "ref": "N-10241",
+      "name": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
       "type": "investigation_target",
       "description": "Investigation target tracking the September 10 Scottsdale–Provo–Santa Barbara–Scottsdale round trip of tail N560TW, flagged by host as warranting public tip submissions.",
       "related_artifacts": [
@@ -819,8 +819,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10256",
-      "ref": "N-10256",
+      "@id": "N-10242",
+      "ref": "N-10242",
       "name": "Duncan Aviation Rental Vehicle Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking four rental vehicles with documented plates rented from the Duncan Aviation FBO prior to the assassination, with public tip requests issued.",
@@ -845,8 +845,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10257",
-      "ref": "N-10257",
+      "@id": "N-10243",
+      "ref": "N-10243",
       "name": "Flock LPR FOIA Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking the potential use of FOIA-accessible Flock automated license plate reader data to cross-reference rental vehicles and UVU-area camera footage.",
@@ -865,8 +865,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10258",
-      "ref": "N-10258",
+      "@id": "N-10244",
+      "ref": "N-10244",
       "name": "Andrew Kolvet Hospital Threat Disclosure Question",
       "type": "investigation_target",
       "description": "Investigation target tracking host's verbal claim that Andrew Kolvet disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.",
@@ -1028,8 +1028,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10896",
-      "ref": "N-10896",
+      "@id": "N-10817",
+      "ref": "N-10817",
       "name": "Baker Tilly",
       "type": "organization",
       "description": "External auditor cited in the Wolves and Finance analysis as having issued a clean audit opinion for TPUSA and affiliates. Matters because of the audit-vs-missing-990 tension.",
@@ -1045,14 +1045,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10254"
+        "N-10240"
       ],
       "organization_kind": "company"
     },
     {
       "@type": "Organization",
-      "@id": "N-11331",
-      "ref": "N-11331",
+      "@id": "N-11247",
+      "ref": "N-11247",
       "name": "Turning Point Endowment",
       "type": "organization",
       "description": "Turning Point USA affiliate described in the Wolves and Finance video as an endowment that received millions of dollars of transfers from TPUSA until 2021, held $61 million in assets as of fiscal year 2023, and whose fiscal year 2024 Form 990 is described as missing.",
@@ -1071,8 +1071,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11332",
-      "ref": "N-11332",
+      "@id": "N-11248",
+      "ref": "N-11248",
       "name": "America's Turning Point",
       "type": "organization",
       "description": "Turning Point USA affiliate that the Wolves and Finance video says received $8,560,625 from TPUSA in fiscal year 2024, reports zero employees and has no fiscal year 2024 Form 990 posted.",
@@ -1092,8 +1092,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11333",
-      "ref": "N-11333",
+      "@id": "N-11249",
+      "ref": "N-11249",
       "name": "Charlie Kirk Salt Lake City Diversion Question",
       "type": "topic",
       "description": "Persistent question raised by the host about why Charlie Kirk flew into Salt Lake City at 9:23 a.m. on September 10 rather than the closer Provo airport, and who arranged the interview that she says explained the detour.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11334",
-      "ref": "N-11334",
+      "@id": "N-11250",
+      "ref": "N-11250",
       "name": "SUBND Transponder Time Zone Offset Question",
       "type": "topic",
       "description": "Dispute over whether the SUBND transponder windows on September 10 should be converted from UTC with minus 7 hours (as presented on air) or minus 6 hours (Mountain Daylight Time), and whether the host's first October 11 plane post had a time-zone error.",
@@ -1379,8 +1379,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10061",
-      "ref": "N-10061",
+      "@id": "N-10058",
+      "ref": "N-10058",
       "name": "CIA Operation Mockingbird",
       "type": "investigation_target",
       "description": "Program the host invokes in her opening history.",
@@ -1396,8 +1396,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10074",
-      "ref": "N-10074",
+      "@id": "N-10071",
+      "ref": "N-10071",
       "name": "Provo, Utah",
       "type": "investigation_target",
       "description": "Airport and city where the Egyptian planes and Kolvet's tarmac arrival are located.",
@@ -1414,8 +1414,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
       "type": "investigation_target",
       "description": "Topic on which the Farnsworth SD card claims bear.",
@@ -1433,8 +1433,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
       "type": "investigation_target",
       "description": "Topic for the internal DOGE audit discussed with the Wolves video.",
@@ -1452,8 +1452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10139",
-      "ref": "N-10139",
+      "@id": "N-10134",
+      "ref": "N-10134",
       "name": "Operation Mocking Pastor",
       "type": "investigation_target",
       "description": "Host's framing of the McCoy clip as an influence operation.",
@@ -1469,8 +1469,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Topic on which the Farnsworth SD card claims bear.",
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10167",
-      "ref": "N-10167",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
       "type": "investigation_target",
       "description": "Topic for Bowyer's X posts pointing to the annual audit.",
@@ -1504,8 +1504,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10208",
-      "ref": "N-10208",
+      "@id": "N-10200",
+      "ref": "N-10200",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Aircraft whose September 10 behaviour is described.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
       "type": "investigation_target",
       "description": "Topic for the dispute over what Shapiro attributed to the host.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10299",
-      "ref": "N-10299",
+      "@id": "N-10281",
+      "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
       "type": "investigation_target",
       "description": "Topic on TPUSA's silence about the planes.",
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "investigation_target",
       "description": "Topic for the claim that Charlie wanted to establish a DOGE a week before his death.",
@@ -1575,8 +1575,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
       "type": "investigation_target",
       "description": "Topic the host invokes by analogy.",
@@ -1592,8 +1592,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10488",
-      "ref": "N-10488",
+      "@id": "N-10453",
+      "ref": "N-10453",
       "name": "Egyptian Plane Communication Investigation",
       "type": "investigation_target",
       "description": "Topic for the encrypted communications hypothesis.",
@@ -1609,8 +1609,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10810",
-      "ref": "N-10810",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
       "type": "investigation_target",
       "description": "Topic on which the Farnsworth SD card claims bear.",
@@ -1626,8 +1626,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10925",
-      "ref": "N-10925",
+      "@id": "N-10846",
+      "ref": "N-10846",
       "name": "Turning Point Action",
       "type": "investigation_target",
       "description": "TPUSA affiliate named among the entities audited by Baker Tilly.",
@@ -1714,7 +1714,7 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:19:57–00:21:54",
@@ -1736,7 +1736,7 @@
         "A-1419.2"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
@@ -1757,7 +1757,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:17:05",
@@ -1776,7 +1776,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:17:14",
@@ -1792,7 +1792,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:18:42",
@@ -1809,7 +1809,7 @@
       "claim": "Host states that Andrew Kolvet, while in the hospital on September 10, told her that there was a \"credible threat\" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10258"
+        "N-10244"
       ],
       "tags": [],
       "claim_timestamp": "00:23:51–00:25:54",
@@ -1830,7 +1830,7 @@
         "A-1422.1"
       ],
       "related_nodes": [
-        "N-10255"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:26:19–00:27:30",
@@ -1850,7 +1850,7 @@
         "A-1421.4"
       ],
       "related_nodes": [
-        "N-10256"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
@@ -1872,7 +1872,7 @@
         "A-1421.4"
       ],
       "related_nodes": [
-        "N-10256"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
@@ -1888,7 +1888,7 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-10254"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:34:07–00:35:11",
@@ -1907,7 +1907,7 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-10254"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29–00:39:37",
@@ -1927,7 +1927,7 @@
         "A-1420.3"
       ],
       "related_nodes": [
-        "N-10254"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:35:11–00:36:30",
@@ -1947,7 +1947,7 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-10254"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:43:40",
@@ -1966,7 +1966,7 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-10254"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:42:25",
@@ -1987,7 +1987,7 @@
         "A-1423.1"
       ],
       "related_nodes": [
-        "N-10257"
+        "N-10243"
       ],
       "tags": [],
       "claim_timestamp": "00:52:35–00:54:00",
@@ -2003,7 +2003,7 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00–00:21:54",
@@ -2075,7 +2075,7 @@
         "A-1424.2"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:12:50",
@@ -2095,7 +2095,7 @@
       "claim": "The host says that after the 1963 killing of President JFK the CIA established Operation Mockingbird, spending heavily to control the press and the narrative so that the public would stop asking questions about Dallas.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10061"
+        "N-10058"
       ],
       "tags": [
         "relevance:tangential"
@@ -2117,7 +2117,7 @@
         "A-1415.1"
       ],
       "related_nodes": [
-        "N-10139"
+        "N-10134"
       ],
       "tags": [
         "relevance:context"
@@ -2138,8 +2138,8 @@
       "claim": "The host says her gut told her that the people attacking her suddenly began panicking when she discovered the Egyptian planes, and that their over-reaction (which she calls 'pre-bunking') foreshadows something they do not want known.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10299"
+        "N-10239",
+        "N-10281"
       ],
       "tags": [
         "relevance:context"
@@ -2159,9 +2159,9 @@
       "claim": "The host says that on October 11 she tweeted about an Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination and that she got the time zone wrong by a couple of hours.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10074",
-        "N-11334"
+        "N-10239",
+        "N-10071",
+        "N-11250"
       ],
       "tags": [
         "relevance:core"
@@ -2182,8 +2182,8 @@
       "claim": "The host says an account that did not previously exist posted that her time zone was wrong, that the post trended, and that critics pretended the plane story had been officially debunked just because the departure time was wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-11334"
+        "N-10239",
+        "N-11250"
       ],
       "tags": [
         "relevance:context"
@@ -2312,7 +2312,7 @@
       "claim": "The host says that after her plane work struck 'even more fear into the nest of mocking birds', 'they sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:context"
@@ -2334,7 +2334,7 @@
       "claim": "The host says that after the Crowder episode she discovered the Egyptian planes had been tracking Charlie, and that her team created and showed a document organizing SUBND (blue plane) and SUBTT (yellow plane).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2357,8 +2357,8 @@
         "A-1424.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10162"
+        "N-10096",
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2381,7 +2381,7 @@
         "A-1424.1"
       ],
       "related_nodes": [
-        "N-10100"
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -2405,9 +2405,9 @@
         "A-1424.1"
       ],
       "related_nodes": [
-        "N-10100",
-        "N-10162",
-        "N-10810"
+        "N-10096",
+        "N-10156",
+        "N-10734"
       ],
       "tags": [
         "relevance:core"
@@ -2430,8 +2430,8 @@
         "A-1424.2"
       ],
       "related_nodes": [
-        "N-11333",
-        "N-10253"
+        "N-11249",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2455,7 +2455,7 @@
       "claim": "The host says Charlie Kirk was obsessed with planes and knew far too many facts about every aircraft he boarded.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -2495,7 +2495,7 @@
       "claim": "The host says Charlie Kirk landed in Salt Lake City at 9:23 a.m. local time on September 10.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11333"
+        "N-11249"
       ],
       "tags": [
         "relevance:core"
@@ -2518,7 +2518,7 @@
         "A-1419.2"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2542,7 +2542,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10299"
+        "N-10281"
       ],
       "tags": [
         "relevance:context"
@@ -2566,7 +2566,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2587,8 +2587,8 @@
       "claim": "The host says that on the day of the assassination the yellow plane took off in the morning but the blue plane, SUBND, did not, though it powered on.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10253",
-        "N-10208"
+        "N-10239",
+        "N-10200"
       ],
       "tags": [
         "relevance:core"
@@ -2611,7 +2611,7 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -2633,8 +2633,8 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10253",
-        "N-11334"
+        "N-10239",
+        "N-11250"
       ],
       "tags": [
         "relevance:core"
@@ -2657,7 +2657,7 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -2680,8 +2680,8 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10488",
-        "N-10253"
+        "N-10453",
+        "N-10239"
       ],
       "tags": [
         "relevance:context"
@@ -2702,8 +2702,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10299",
-        "N-10253"
+        "N-10281",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -2723,7 +2723,7 @@
       "claim": "The host says Andrew Kolvet told her something very specific about what happened when he arrived at the Provo tarmac on September 10, and that it keeps playing in her mind and does not add up.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10074"
+        "N-10071"
       ],
       "tags": [
         "relevance:core"
@@ -2744,7 +2744,7 @@
       "claim": "The host says Andrew Kolvet told her at the hospital that she and Tucker Carlson were on a list and that, as a friend, he was telling her they should lay low.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10258"
+        "N-10244"
       ],
       "tags": [
         "relevance:core"
@@ -2769,7 +2769,7 @@
       "claim": "The host says that after her call with Kolvet she immediately called Tucker Carlson, terrified, and told him they had to lay low because of a credible threat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10258"
+        "N-10244"
       ],
       "tags": [
         "relevance:core"
@@ -2791,7 +2791,7 @@
       "claim": "The host says Kolvet did not tell her who the threat came from, that she assumes the feds told him, and she asks why the feds would not call her directly if there was a threat against her life.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10258"
+        "N-10244"
       ],
       "tags": [
         "relevance:core"
@@ -2838,7 +2838,7 @@
         "A-3202.1"
       ],
       "related_nodes": [
-        "N-10255"
+        "N-10241"
       ],
       "tags": [
         "relevance:core"
@@ -2860,7 +2860,7 @@
         "A-3202.2"
       ],
       "related_nodes": [
-        "N-10256",
+        "N-10242",
         "N-10012"
       ],
       "tags": [
@@ -2923,7 +2923,7 @@
       "claim": "The host says the last time a narrative blaming Egypt ran was probably the USS Liberty, when the plan was to make Americans think Egypt had attacked the ship although she says Israel attacked it.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10451",
+        "N-10420",
         "N-10026"
       ],
       "tags": [
@@ -2945,7 +2945,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10254"
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -2968,7 +2968,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10254"
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -2990,8 +2990,8 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-10254",
-        "N-10167"
+        "N-10240",
+        "N-10160"
       ],
       "tags": [
         "relevance:context"
@@ -3012,8 +3012,8 @@
       "claim": "The host says that seven days before Charlie died he said he wanted to establish a DOGE at Turning Point.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10434",
-        "N-10132"
+        "N-10404",
+        "N-10127"
       ],
       "tags": [
         "relevance:core"
@@ -3034,7 +3034,7 @@
       "claim": "The host says that Tyler Bowyer said the audit was 'just totally regular' and that Alex Clark said every year since she has been there this is what they do, and the host calls Bowyer's answer a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132"
+        "N-10127"
       ],
       "tags": [
         "relevance:context"
@@ -3059,8 +3059,8 @@
       "claim": "The host says Charlie was not just concerned about where TPUSA's money was going but about where it was coming from.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
-        "N-10434"
+        "N-10127",
+        "N-10404"
       ],
       "tags": [
         "relevance:core"
@@ -3087,7 +3087,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10254"
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3110,7 +3110,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10254"
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3132,9 +3132,9 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-11332",
+        "N-11248",
         "N-10000",
-        "N-10254"
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3156,9 +3156,9 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-11331",
-        "N-11332",
-        "N-10254"
+        "N-11247",
+        "N-11248",
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3180,8 +3180,8 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-11331",
-        "N-10254"
+        "N-11247",
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3203,8 +3203,8 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-11332",
-        "N-10254"
+        "N-11248",
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3226,8 +3226,8 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-11332",
-        "N-10254"
+        "N-11248",
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3249,10 +3249,10 @@
         "A-1420.3"
       ],
       "related_nodes": [
-        "N-10896",
-        "N-10925",
-        "N-11331",
-        "N-11332"
+        "N-10817",
+        "N-10846",
+        "N-11247",
+        "N-11248"
       ],
       "tags": [
         "relevance:context"
@@ -3274,8 +3274,8 @@
         "A-1420.3"
       ],
       "related_nodes": [
-        "N-10896",
-        "N-10254"
+        "N-10817",
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3297,8 +3297,8 @@
         "A-1420.3"
       ],
       "related_nodes": [
-        "N-10896",
-        "N-10254"
+        "N-10817",
+        "N-10240"
       ],
       "tags": [
         "relevance:context"
@@ -3344,7 +3344,7 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-11331",
+        "N-11247",
         "N-10000"
       ],
       "tags": [
@@ -3367,8 +3367,8 @@
         "A-3203.1"
       ],
       "related_nodes": [
-        "N-11334",
-        "N-10253"
+        "N-11250",
+        "N-10239"
       ],
       "tags": [
         "relevance:core"
@@ -3449,7 +3449,7 @@
         "A-1423.1"
       ],
       "related_nodes": [
-        "N-10257"
+        "N-10243"
       ],
       "tags": [
         "relevance:context"
@@ -3468,7 +3468,7 @@
         "A-1423.1"
       ],
       "related_nodes": [
-        "N-10257"
+        "N-10243"
       ],
       "tags": [
         "relevance:context"
@@ -3487,8 +3487,8 @@
         "A-3202.3"
       ],
       "related_nodes": [
-        "N-10256",
-        "N-10257"
+        "N-10242",
+        "N-10243"
       ],
       "tags": [
         "relevance:core"
@@ -3531,7 +3531,7 @@
         "A-3204.1"
       ],
       "related_nodes": [
-        "N-10896"
+        "N-10817"
       ],
       "tags": [
         "relevance:context"
@@ -3548,7 +3548,7 @@
       "claim": "The host says, while stressing that it is an allegation, that the Wolves and Finance video went deeper into lawsuits the accounting firm was facing for not auditing things correctly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10896"
+        "N-10817"
       ],
       "tags": [
         "relevance:context"

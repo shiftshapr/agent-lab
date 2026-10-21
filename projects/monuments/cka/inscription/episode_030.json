@@ -190,7 +190,7 @@
           ],
           "related_nodes": [
             "N-208",
-            "N-10244"
+            "N-10230"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -309,7 +309,7 @@
             "C-2668"
           ],
           "related_nodes": [
-            "N-10243"
+            "N-10229"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -605,7 +605,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10244"
+        "N-10230"
       ]
     },
     {
@@ -652,7 +652,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ]
     },
     {
@@ -716,8 +716,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10243",
-      "ref": "N-10243",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the late (July 18) UVU Turning Point chapter request, the rapid dispatch of scouts in early August, and Turning Point USA's decision to override UVU's safety-based recommendation against the outdoor amphitheater.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10244",
-      "ref": "N-10244",
+      "@id": "N-10230",
+      "ref": "N-10230",
       "name": "Pre-Event Old Man Near Bush Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turek.",
@@ -760,8 +760,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10245",
-      "ref": "N-10245",
+      "@id": "N-10231",
+      "ref": "N-10231",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaffer and other content creators over \"honeypot\" allegations, including the Hen Mazzig X post and Schaefer photograph cited within the complaint.",
@@ -1181,8 +1181,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10047",
-      "ref": "N-10047",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "investigation_target",
       "description": "Reused for the donor items.",
@@ -1200,8 +1200,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10063",
-      "ref": "N-10063",
+      "@id": "N-10060",
+      "ref": "N-10060",
       "name": "Gaza",
       "type": "investigation_target",
       "description": "Reused for the host's casino remark.",
@@ -1217,8 +1217,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@id": "N-10096",
+      "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
       "type": "investigation_target",
       "description": "Reused for the camera and SD card lies.",
@@ -1235,8 +1235,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10131",
-      "ref": "N-10131",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "PragerU",
       "type": "investigation_target",
       "description": "Reused for the Streit introductions and Wilkins remark.",
@@ -1254,8 +1254,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10132",
-      "ref": "N-10132",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
       "type": "investigation_target",
       "description": "Reused for lie nine.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10162",
-      "ref": "N-10162",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Reused for the hats explanation.",
@@ -1288,8 +1288,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
       "type": "investigation_target",
       "description": "Reused for the call-first and 911 items.",
@@ -1306,8 +1306,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10196",
-      "ref": "N-10196",
+      "@id": "N-10188",
+      "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
       "type": "investigation_target",
       "description": "Reused for the hospital items.",
@@ -1325,8 +1325,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10198",
-      "ref": "N-10198",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Reused for the lie list.",
@@ -1343,8 +1343,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@id": "N-10224",
+      "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
       "type": "investigation_target",
       "description": "Reused for Shapiro and Kelly items.",
@@ -1363,8 +1363,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
       "type": "investigation_target",
       "description": "Reused for Hibbs and the academy purchase.",
@@ -1381,8 +1381,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Reused for the Hamptons items.",
@@ -1399,8 +1399,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Reused for the police instruction lie.",
@@ -1416,8 +1416,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "investigation_target",
       "description": "Reused for lie nine.",
@@ -1433,8 +1433,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
       "description": "Reused for the Hibbs military-family item.",
@@ -1450,27 +1450,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10770",
-      "ref": "N-10770",
-      "name": "Utah Valley Hospital File Anomaly",
-      "type": "investigation_target",
-      "description": "Reused for the hospital system items.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-2685",
-        "C-2686",
-        "C-2687"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 3,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "InvestigationTarget",
-      "@id": "N-10817",
-      "ref": "N-10817",
+      "@id": "N-10740",
+      "ref": "N-10740",
       "name": "Butch Hibbs UVU Recording Behavior",
       "type": "investigation_target",
       "description": "Reused for his arrival with Kirk.",
@@ -1486,8 +1467,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10870",
-      "ref": "N-10870",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
       "description": "Possible match for the sponsor transcribed 'Rei'.",
@@ -1520,8 +1501,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11064",
-      "ref": "N-11064",
+      "@id": "N-10982",
+      "ref": "N-10982",
       "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
       "type": "investigation_target",
       "description": "Reused for the bad-blood lie.",
@@ -1537,8 +1518,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11080",
-      "ref": "N-11080",
+      "@id": "N-10998",
+      "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
       "type": "investigation_target",
       "description": "Setting of the backstage exchange.",
@@ -1556,8 +1537,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11084",
-      "ref": "N-11084",
+      "@id": "N-11002",
+      "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
       "type": "investigation_target",
       "description": "Reused for the leak items.",
@@ -1575,8 +1556,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11121",
-      "ref": "N-11121",
+      "@id": "N-11039",
+      "ref": "N-11039",
       "name": "Hollywood Gang Claim",
       "type": "investigation_target",
       "description": "Reused for the Kanye Hollywood remark.",
@@ -1592,8 +1573,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11167",
-      "ref": "N-11167",
+      "@id": "N-11083",
+      "ref": "N-11083",
       "name": "Operation Underground Railroad",
       "type": "investigation_target",
       "description": "Ballard's organization.",
@@ -1609,8 +1590,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11171",
-      "ref": "N-11171",
+      "@id": "N-11087",
+      "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
       "type": "investigation_target",
       "description": "Reused for lie nine.",
@@ -1789,8 +1770,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11232",
-      "ref": "N-11232",
+      "@id": "N-11148",
+      "ref": "N-11148",
       "name": "TPUSA Email Fingerprinting Software Claim",
       "type": "topic",
       "description": "Persistent target: the host's report that tech people found TPUSA may use software that varies the wording of each employee's copy of an email to trace leaks.",
@@ -1806,8 +1787,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11233",
-      "ref": "N-11233",
+      "@id": "N-11149",
+      "ref": "N-11149",
       "name": "Mikey McCoy Identity and Family Ties Inquiry",
       "type": "topic",
       "description": "Persistent target: the host's questions about Mikey McCoy's legal first name, local recognition of him, and his wife's role as a TPUSA events director.",
@@ -1826,8 +1807,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11234",
-      "ref": "N-11234",
+      "@id": "N-11150",
+      "ref": "N-11150",
       "name": "Rob McCoy Christian Academy Ownership and Teacher Lawsuit",
       "type": "topic",
       "description": "Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it, the 2009 Calvary Chapel purchase and the teacher firing lawsuit.",
@@ -1846,8 +1827,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11235",
-      "ref": "N-11235",
+      "@id": "N-11151",
+      "ref": "N-11151",
       "name": "Female Jewish Donor Confrontation of Kirk After Tucker Speech",
       "type": "topic",
       "description": "Persistent target: the host's unnamed female donor who allegedly yelled at Charlie Kirk after Tucker Carlson's July speech.",
@@ -1971,7 +1952,7 @@
         "A-1384.1"
       ],
       "related_nodes": [
-        "N-10244"
+        "N-10230"
       ],
       "tags": [],
       "claim_timestamp": "00:32:57",
@@ -2031,7 +2012,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14",
@@ -2050,7 +2031,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14",
@@ -2066,7 +2047,7 @@
         "A-1385.1"
       ],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [],
       "claim_timestamp": "00:37:38",
@@ -2181,7 +2162,7 @@
       "claim": "The host says Ben Shapiro never recanted, modified or corrected his claim that she accused Erika Kirk of murder in the days after the Megyn Kelly tour appearance, which she calls a premeditated and postmeditated lie meant to pressure Kelly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -2207,7 +2188,7 @@
       "claim": "The host says that on stage Megyn Kelly asked Ben Shapiro whether he was sure Candace Owens had said it, and he answered yes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -2234,7 +2215,7 @@
         "A-1379.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -2263,7 +2244,7 @@
         "A-1379.1"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10224"
       ],
       "tags": [
         "relevance:core"
@@ -2352,7 +2333,7 @@
       "claim": "The host says that after Charlie Kirk died it was basically only she, Tucker Carlson and Megyn Kelly saying something was going on, that Kirk felt a lot of peer pressure in the weeks before his death, and that Zionists claimed this was all a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10047"
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -2380,8 +2361,8 @@
         "A-1381.1"
       ],
       "related_nodes": [
-        "N-11080",
-        "N-10047"
+        "N-10998",
+        "N-10044"
       ],
       "tags": [
         "relevance:core"
@@ -2431,7 +2412,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11080"
+        "N-10998"
       ],
       "tags": [
         "relevance:core"
@@ -2478,9 +2459,9 @@
       "claim": "The host says a female Jewish donor was waiting for Charlie Kirk after Tucker Carlson got off stage and yelled at Kirk, and that the host will be outing her later.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11235",
-        "N-10047",
-        "N-11080"
+        "N-11151",
+        "N-10044",
+        "N-10998"
       ],
       "tags": [
         "relevance:core"
@@ -2545,8 +2526,8 @@
       "claim": "The host says it is a lie that Mikey McCoy called his dad first and that Pastor Rob McCoy told that lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10198"
+        "N-10185",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2568,8 +2549,8 @@
       "claim": "The host says it is not true that Terryl, the AV staffer, was told by police to remove the cameras, says she has every second of his movements, and names Tyler Bowyer as the offender.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10346",
-        "N-10100"
+        "N-10324",
+        "N-10096"
       ],
       "tags": [
         "relevance:core"
@@ -2594,8 +2575,8 @@
       "claim": "The host says Andrew Kolvet's explanation that Terryl moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100",
-        "N-10162"
+        "N-10096",
+        "N-10156"
       ],
       "tags": [
         "relevance:core"
@@ -2619,7 +2600,7 @@
       "claim": "The host says it is a lie that Ben Shapiro and Charlie Kirk never had any bad blood between them, that the offender was Alex Clark, and that Shapiro appeared on her show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11064"
+        "N-10982"
       ],
       "tags": [
         "relevance:core"
@@ -2641,9 +2622,9 @@
       "claim": "The host says it is a lie that Charlie Kirk's establishing DOGE was not unusual because Turning Point financially audits itself every year, saying DOGE was entirely different from a financial self-audit, which a 501(c)(3) of that size is recommended or in some states required to have.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10132",
-        "N-10434",
-        "N-11171"
+        "N-10127",
+        "N-10404",
+        "N-11087"
       ],
       "tags": [
         "relevance:core"
@@ -2666,8 +2647,8 @@
       "claim": "The host says Mikey McCoy's actions were limited to quick phone calls that, in her telling, did not include 911, and she therefore lists calling him a hero as a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10193",
-        "N-10198"
+        "N-10185",
+        "N-10190"
       ],
       "tags": [
         "relevance:core"
@@ -2711,7 +2692,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10229"
       ],
       "tags": [
         "relevance:core"
@@ -2737,7 +2718,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10243",
+        "N-10229",
         "N-10000"
       ],
       "tags": [
@@ -2763,7 +2744,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10243",
+        "N-10229",
         "N-10012"
       ],
       "tags": [
@@ -2789,7 +2770,7 @@
         "A-3027.1"
       ],
       "related_nodes": [
-        "N-10243",
+        "N-10229",
         "N-10000"
       ],
       "tags": [
@@ -2810,9 +2791,9 @@
       "claim": "The host says she knows Mikey McCoy's wife is one of Turning Point USA's events directors, while saying she does not know whether she was involved in planning the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11233",
+        "N-11149",
         "N-10000",
-        "N-10243"
+        "N-10229"
       ],
       "tags": [
         "relevance:core"
@@ -2833,7 +2814,7 @@
       "claim": "The host says she received a tip from someone who knew Pastor Rob McCoy in Thousand Oaks that some locals had never heard of his son Mikey McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11233"
+        "N-11149"
       ],
       "tags": [
         "relevance:core"
@@ -2855,7 +2836,7 @@
       "claim": "The host says someone inside Turning Point told her that Mikey, or Michael, is not Mikey McCoy's first name but a middle name, and that she wants to know his real name.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11233"
+        "N-11149"
       ],
       "tags": [
         "relevance:core"
@@ -2878,7 +2859,7 @@
         "A-3027.2"
       ],
       "related_nodes": [
-        "N-11233"
+        "N-11149"
       ],
       "tags": [
         "relevance:core"
@@ -2921,7 +2902,7 @@
       "claim": "The host says the Erickson brothers were involved in bringing on a major sponsor behind Charlie Kirk (transcribed as Rei) and that demands got interesting once the sponsor was on board.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10870",
+        "N-10791",
         "N-10000"
       ],
       "tags": [
@@ -2945,7 +2926,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10345"
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -2972,7 +2953,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",
-        "N-10345"
+        "N-10323"
       ],
       "tags": [
         "relevance:core"
@@ -2998,7 +2979,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -3018,9 +2999,9 @@
       "claim": "The host says tech people alerted her that Turning Point USA appears to have implemented software that makes each employee's copy of an email differ by one word so that a leaked image of the email identifies the source, and she advises leaking content but not the actual email.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11232",
+        "N-11148",
         "N-10000",
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -3060,8 +3041,7 @@
       "claim": "The host says Timpanogos Hospital is owned by HCA and uses a charting system she transcribes as VDI, while Utah Valley Hospital is owned by IHC and runs on Epic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770",
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -3081,8 +3061,7 @@
       "claim": "The host says the Timpanogos and Utah Valley hospitals are not interlinked, so a patient who has only been to Utah Valley would not appear in Timpanogos's system, and that she can now confirm they do not share information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770",
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -3102,8 +3081,7 @@
       "claim": "The host says she cannot explain why Charlie Kirk had a file at Utah Valley Hospital and why nurses were notified not to touch the file.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10770",
-        "N-10196"
+        "N-10188"
       ],
       "tags": [
         "relevance:core"
@@ -3124,7 +3102,7 @@
       "claim": "The host says an early tip from students on the ground described an old man talking to a bush at the event, and she noted that many of the older attendees were the ones speaking to news media.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10244"
+        "N-10230"
       ],
       "tags": [
         "relevance:core"
@@ -3146,7 +3124,7 @@
         "A-1384.1"
       ],
       "related_nodes": [
-        "N-10244"
+        "N-10230"
       ],
       "tags": [
         "relevance:core"
@@ -3171,7 +3149,7 @@
         "A-1383.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10234"
       ],
       "tags": [
         "relevance:core"
@@ -3195,8 +3173,8 @@
       "claim": "The host says Butch Hibbs is behind Charlie Kirk when Kirk gets out of his car and arrives at the event with Mikey McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10817",
-        "N-10244"
+        "N-10740",
+        "N-10230"
       ],
       "tags": [
         "relevance:core"
@@ -3240,7 +3218,7 @@
       "claim": "The host says the Hibbs family is a military family and that Butch Hibbs senior was in the Navy, though what he did there is unclear to her.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10436"
+        "N-10405"
       ],
       "tags": [
         "relevance:core"
@@ -3261,7 +3239,7 @@
       "claim": "The host says Jack Hibbs was someone Marissa Streit flagged for her as a guest she wanted the host to have on her show.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131"
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -3283,8 +3261,8 @@
       "claim": "The host says the man who runs, or ran, Operation Underground before a scandal, Tim Ballard, was also introduced to her by Marissa Streit, and describes the organization as a sex trafficking charity.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11167",
-        "N-10131"
+        "N-11083",
+        "N-10126"
       ],
       "tags": [
         "relevance:context"
@@ -3308,7 +3286,7 @@
         "A-1386.1"
       ],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:tangential"
@@ -3331,7 +3309,7 @@
         "A-1385.1"
       ],
       "related_nodes": [
-        "N-10245",
+        "N-10231",
         "N-10015"
       ],
       "tags": [
@@ -3358,7 +3336,7 @@
         "A-1385.3"
       ],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3384,7 +3362,7 @@
         "A-1385.1"
       ],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3405,7 +3383,7 @@
       "claim": "The host says Alexis Wilkins might not be a honeypot, that the host has never made that claim, and that there is no evidence of it other than people saying she works for Marissa Streit at PragerU.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10245"
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3426,8 +3404,8 @@
       "claim": "The host says the only support for the honeypot idea is people saying Alexis Wilkins works for Marissa Streit at PragerU, who the host says is formerly of an IDF intelligence unit; the pronoun reference in the transcript is ambiguous.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10131",
-        "N-10245"
+        "N-10126",
+        "N-10231"
       ],
       "tags": [
         "relevance:context"
@@ -3450,7 +3428,7 @@
         "A-3028.1"
       ],
       "related_nodes": [
-        "N-11234"
+        "N-11150"
       ],
       "tags": [
         "relevance:context"
@@ -3472,7 +3450,7 @@
         "A-3028.1"
       ],
       "related_nodes": [
-        "N-11234"
+        "N-11150"
       ],
       "tags": [
         "relevance:context"
@@ -3494,8 +3472,8 @@
         "A-1388.1"
       ],
       "related_nodes": [
-        "N-11234",
-        "N-10248"
+        "N-11150",
+        "N-10234"
       ],
       "tags": [
         "relevance:context"
@@ -3514,7 +3492,7 @@
         "A-1388.1"
       ],
       "related_nodes": [
-        "N-11234"
+        "N-11150"
       ],
       "tags": [
         "relevance:context"
@@ -3557,7 +3535,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-11084"
+        "N-11002"
       ],
       "tags": [
         "relevance:core"
@@ -3609,7 +3587,7 @@
       ],
       "related_nodes": [
         "N-10004",
-        "N-11121"
+        "N-11039"
       ],
       "tags": [
         "relevance:tangential"
@@ -3690,7 +3668,7 @@
       "claim": "The host says Trump needs a casino, Jared is doing deals, and they want beachfront properties in the context of Gaza.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10063"
+        "N-10060"
       ],
       "tags": [
         "relevance:tangential"
