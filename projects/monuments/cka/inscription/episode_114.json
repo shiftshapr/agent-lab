@@ -1826,7 +1826,9 @@
         "N-378",
         "N-5",
         "N-643"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1849,7 +1851,9 @@
         "N-22",
         "N-104",
         "N-265"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1871,7 +1875,9 @@
         "N-378",
         "N-22",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1891,7 +1897,9 @@
         "N-378",
         "N-69",
         "N-104"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1913,7 +1921,9 @@
         "N-378",
         "N-22",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1937,7 +1947,9 @@
         "N-673",
         "N-104",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1959,7 +1971,9 @@
         "N-378",
         "N-104",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1981,7 +1995,9 @@
         "N-378",
         "N-22",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2002,7 +2018,9 @@
       "mentions_person_refs": [
         "N-378",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2020,7 +2038,9 @@
       "transcript_snippet": "If you almost get assassinated, uh, and you do not fire the Secret Service agents that failed to protect you on that day",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2038,7 +2058,9 @@
       "transcript_snippet": "It actually had nothing to do with the person that it was blamed on. Um, and Trump did escape with his life and it was a warning.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2056,7 +2078,9 @@
         "N-5",
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2078,7 +2102,9 @@
       "mentions_person_refs": [
         "N-378",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2098,7 +2124,9 @@
         "N-9",
         "N-5",
         "N-298"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2117,7 +2145,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2139,7 +2169,9 @@
         "N-22",
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2162,7 +2194,9 @@
         "N-5",
         "N-85",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2185,7 +2219,9 @@
         "N-1",
         "N-22",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2209,7 +2245,9 @@
         "N-1",
         "N-5",
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2227,7 +2265,9 @@
         "N-1",
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2245,7 +2285,9 @@
         "N-1",
         "N-22",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2265,7 +2307,9 @@
       "transcript_snippet": "we know that that's the student action summit, Turning Point USA student action summit in Tampa Bay, Florida. Uh, Charlie's first speech is at 4 p. m. on Friday.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2330,9 @@
         "N-1",
         "N-37",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2357,9 @@
         "N-418",
         "N-674",
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2331,7 +2379,9 @@
       "transcript_snippet": "James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith.",
       "mentions_person_refs": [
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2397,9 @@
       "transcript_snippet": "The first and foremost I realized Erika didn't show up to ZAS which was unusual.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2369,7 +2421,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2389,7 +2443,9 @@
       "transcript_snippet": "This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.",
       "mentions_person_refs": [
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2414,7 +2470,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2435,7 +2493,9 @@
         "N-2",
         "N-190",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2455,7 +2515,9 @@
       "transcript_snippet": "why Rei comes in as the number one sponsor for Charlie Kirk's fall tour this is a total Israel coded company",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2474,7 +2536,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2496,7 +2560,9 @@
         "N-3",
         "N-9",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2517,7 +2583,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2537,7 +2605,9 @@
         "N-22",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2556,7 +2626,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2576,7 +2648,9 @@
         "N-99",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2601,7 +2675,9 @@
         "N-1",
         "N-2",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2623,7 +2699,9 @@
         "N-36",
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2644,7 +2722,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2663,7 +2743,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-6"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2681,7 +2763,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2701,7 +2785,9 @@
         "N-2",
         "N-278",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2721,7 +2807,9 @@
       "mentions_person_refs": [
         "N-433",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2743,7 +2831,9 @@
         "N-266",
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2764,7 +2854,9 @@
       "transcript_snippet": "And then he flew from Tucson to Fort Huachuca on a most crucial date um September 8th.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2787,7 +2879,9 @@
       ],
       "revises_claim_refs": [
         "C-9556"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2807,7 +2901,9 @@
       "transcript_snippet": "Bradley Hansell remained on the ground the longest there for 19 hours. That's the longest stop in his trip.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2828,7 +2924,9 @@
         "N-361",
         "N-2",
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2850,7 +2948,9 @@
       "mentions_person_refs": [
         "N-433",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2868,7 +2968,9 @@
       "tags": [],
       "claim_timestamp": "00:45:15",
       "investigative_direction": "Ask the FOIA office which agencies are being consulted, and appeal the delay.",
-      "transcript_snippet": "we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request."
+      "transcript_snippet": "we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2888,7 +2990,9 @@
       "transcript_snippet": "He works for the Department of War and it was the flight was booked from his office. I've confirmed that.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2905,7 +3009,9 @@
       "tags": [],
       "claim_timestamp": "00:47:32",
       "investigative_direction": "Check the agency's annual FOIA report for its complex-queue backlog.",
-      "transcript_snippet": "Our current administrative workload is approximately 3,534 open requests."
+      "transcript_snippet": "Our current administrative workload is approximately 3,534 open requests.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2924,7 +3030,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2944,7 +3052,9 @@
       "transcript_snippet": "This is like the end of her speech when she got heckled and called a pedophile protector.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2966,7 +3076,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2983,7 +3095,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3002,7 +3116,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3021,7 +3137,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

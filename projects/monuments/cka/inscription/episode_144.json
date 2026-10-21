@@ -1584,7 +1584,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1605,7 +1607,9 @@
         "N-261",
         "N-1",
         "N-685"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1626,7 +1630,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-203"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1645,7 +1651,9 @@
       "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
       "mentions_person_refs": [
         "N-860"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1665,7 +1673,9 @@
       "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1683,7 +1693,9 @@
       "tags": [],
       "claim_timestamp": "00:16:30–00:17:30",
       "investigative_direction": "Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1712,9 @@
       "tags": [],
       "claim_timestamp": "00:17:30–00:18:30",
       "investigative_direction": "Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1717,7 +1731,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:30–00:20:30",
-      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit."
+      "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1735,7 +1751,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1754,7 +1772,9 @@
         "N-18",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1771,7 +1791,9 @@
       "investigative_direction": "Obtain the full unedited segment; note any surrounding context that may complicate the read.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1795,7 +1817,9 @@
         "N-36",
         "N-270",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1821,7 +1845,9 @@
       "mentions_person_refs": [
         "N-37",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1842,7 +1868,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1861,7 +1889,9 @@
         "N-18",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1878,7 +1908,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1901,7 +1933,9 @@
         "N-14",
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1922,7 +1956,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-203"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1940,7 +1976,9 @@
       "transcript_snippet": "altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the proceeding or investigation.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1959,7 +1997,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1978,7 +2018,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2000,7 +2042,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2021,7 +2065,9 @@
       "mentions_person_refs": [
         "N-860",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2044,7 +2090,9 @@
         "N-261",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2066,7 +2114,9 @@
         "N-261",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2087,7 +2137,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2112,7 +2164,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2135,7 +2189,9 @@
         "N-748",
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2157,7 +2213,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2180,7 +2238,9 @@
         "N-261",
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2263,9 @@
         "N-261",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2224,7 +2286,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2247,7 +2311,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2269,7 +2335,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2289,7 +2357,9 @@
       "transcript_snippet": "the correct way to describe this what was done to the footage is not to say that it was uh compressed.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2312,7 +2382,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2333,7 +2405,9 @@
       "transcript_snippet": "I go online and I have that unhinged Canadian lawyer claiming that I used AI, claiming that I'm lying",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2356,7 +2430,9 @@
         "N-860",
         "N-578",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2381,7 +2457,9 @@
         "N-18",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2402,7 +2480,9 @@
       "mentions_person_refs": [
         "N-749",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2420,7 +2500,9 @@
       "transcript_snippet": "The FBI is aware of this. The FBI took a statement from the Odor.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2438,7 +2520,9 @@
       "transcript_snippet": "I know that this completely blows up everything and that's why you guys are trying to convince the public that this is a this didn't happen, but I spoke to the owner.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2456,7 +2540,9 @@
       "transcript_snippet": "Uh the server has been has given an interview. There is a receipt.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2474,7 +2560,9 @@
       "transcript_snippet": "back during the one in April, they kept saying that they did not get granted discovery that they had so many things that they needed to go through",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2492,7 +2580,9 @@
       "transcript_snippet": "Podcasters who were investigating stumbled upon this and like I said, the FBI was contacted.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2513,7 +2603,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2534,7 +2626,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2552,7 +2646,9 @@
       "transcript_snippet": "2023, 2024, she actually becomes obsessed with the Jews all the time.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2666,9 @@
       "transcript_snippet": "I think it was the Christ Church shooter in New Zealand that like said she was this guy was inspired by Candace.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2593,7 +2691,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2612,7 +2712,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2633,7 +2735,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2655,7 +2759,9 @@
         "N-159",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2677,7 +2783,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2807,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2722,7 +2832,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2747,7 +2859,9 @@
         "N-1",
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2772,7 +2886,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2792,7 +2908,9 @@
         "N-30",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2815,7 +2933,9 @@
         "N-1",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2834,7 +2954,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2854,7 +2976,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2876,7 +3000,9 @@
         "N-14",
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2899,7 +3025,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2917,7 +3045,9 @@
       "transcript_snippet": "Everyone remembers the moment that I went to France and I wore the White Lives Matter t-shirt.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2933,7 +3063,9 @@
       "transcript_snippet": "I had just also released a documentary on Black Lives Matter. I had stumped so many college campuses for Turning Point USA, raising money",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2952,7 +3084,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2971,7 +3105,9 @@
       "mentions_person_refs": [
         "N-101",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2992,7 +3128,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3012,7 +3150,9 @@
         "N-14",
         "N-4",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3035,7 +3175,9 @@
         "N-159",
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3054,7 +3196,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3076,7 +3220,9 @@
         "N-14",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3097,7 +3243,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3125,7 +3273,9 @@
         "N-1",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3151,7 +3301,9 @@
         "N-270",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3324,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3199,7 +3353,9 @@
         "N-36",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3220,7 +3376,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3243,7 +3401,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3268,7 +3428,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3290,6 +3452,10 @@
         "N-3",
         "N-14",
         "N-2"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-12438"
       ]
     },
     {
@@ -3311,7 +3477,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3327,7 +3495,9 @@
       "transcript_snippet": "So that's really why we started doing the six weeks on, one week off structure",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3349,7 +3519,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3371,7 +3543,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3393,7 +3567,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3412,7 +3588,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3430,7 +3608,9 @@
       "transcript_snippet": "open to thinking that there are multiple people that are wearing maroon shirts.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3450,7 +3630,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3469,7 +3651,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3491,7 +3675,9 @@
         "N-54",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3507,7 +3693,9 @@
       "transcript_snippet": "But they are in such a place of anger and spending money to just have people try to destroy me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3525,7 +3713,9 @@
         "N-1",
         "N-31",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

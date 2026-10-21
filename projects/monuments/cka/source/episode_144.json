@@ -7227,6 +7227,14 @@
      "v": "N-10737"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-12438"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Authenticate her reply in the message thread or call context."
     },

@@ -1917,7 +1917,9 @@
         "N-7",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1935,7 +1937,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1952,7 +1956,9 @@
       "investigative_direction": "Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1971,7 +1977,9 @@
       "investigative_direction": "Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +1997,9 @@
       "mentions_person_refs": [
         "N-249",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2009,7 +2019,9 @@
       "mentions_person_refs": [
         "N-249",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2026,7 +2038,9 @@
       "investigative_direction": "Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2046,7 +2060,9 @@
       "mentions_person_refs": [
         "N-249",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2064,7 +2080,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2085,7 +2103,9 @@
         "N-277",
         "N-212",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2122,9 @@
       "investigative_direction": "Obtain and analyze all available footage of the immediate post-shot interval from multiple angles; compare against official event security rosters; cross-reference with any forensic evidence collection from the scene.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2120,7 +2142,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2136,7 +2160,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:59:30",
-      "investigative_direction": "Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced."
+      "investigative_direction": "Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2156,7 +2182,9 @@
         "N-7",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2178,7 +2206,9 @@
         "N-7",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2233,9 @@
         "N-7",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2226,7 +2258,9 @@
       ],
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2246,7 +2280,9 @@
       "transcript_snippet": "I have done second by-c timelines. I have done minute-by-minute timelines. I have presented webs of people and their connections.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2265,7 +2301,9 @@
       "mentions_person_refs": [
         "N-227",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2284,7 +2322,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2310,7 +2350,9 @@
         "N-190",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2372,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2351,7 +2395,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2370,7 +2416,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2393,7 +2441,9 @@
       "mentions_person_refs": [
         "N-249",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2418,7 +2468,9 @@
       ],
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2443,7 +2495,9 @@
       ],
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2468,7 +2522,9 @@
         "N-17",
         "N-249",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2487,7 +2543,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2513,7 +2571,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2535,7 +2595,9 @@
       "transcript_snippet": "And then they just keep asking her leading question after leading question and the kid's not giving them what they want.",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2619,9 @@
       "transcript_snippet": "They get 11 of them, which kind sounds kind of bad until you read what it is.",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2579,7 +2643,9 @@
       "transcript_snippet": "they say they have footprints, forensic evidence, footprints and a palm print of yours that they lifted from a scene",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2604,7 +2670,9 @@
       ],
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2694,9 @@
       "transcript_snippet": "Yes, we agree. They broke the law twice out of out of the three points and they violated your rights.",
       "mentions_person_refs": [
         "N-249"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2648,7 +2718,9 @@
       "transcript_snippet": "Calvary Chapel Full Stop has a long history of claims of intentionally putting pedophiles in positions of power, giving them access to children.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2672,7 +2744,9 @@
         "N-756",
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2694,7 +2768,9 @@
       "transcript_snippet": "In 2024, a lead pastor was arrested after a sting operation into online sex abuse against children.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2716,7 +2792,9 @@
       "transcript_snippet": "the lead pastor, resigned amid allegations of incest with his own son, bullying, drug addiction, and the misuse of funds.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2738,7 +2816,9 @@
       "transcript_snippet": "Calvary Chapel in Orange County, the lead pastor named Mission Viejo, was convicted of abusing two girls.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2761,7 +2841,9 @@
       "mentions_person_refs": [
         "N-757",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2785,7 +2867,9 @@
         "N-758",
         "N-759",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2808,7 +2892,9 @@
       "transcript_snippet": "Orphanages everywhere. For some reason, these churchs are getting involved in orphanages.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2831,7 +2917,9 @@
       "mentions_person_refs": [
         "N-760",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2853,7 +2941,9 @@
       "transcript_snippet": "This is not the lead pastor, but an employee who was arrested after authorities say they found numerous downloaded images and videos of child pornography in his home computer.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2876,7 +2966,9 @@
       "mentions_person_refs": [
         "N-761",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2895,7 +2987,9 @@
       "mentions_person_refs": [
         "N-762",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2915,7 +3009,9 @@
         "N-27",
         "N-762",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2935,7 +3031,9 @@
       "transcript_snippet": "the Calvary Church Association funded a ministry which came to be known as Potter's Field Ministries.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2955,7 +3053,9 @@
       "transcript_snippet": "in 2019, the ministry came under a scandal with reports of financial abuse, psychological abuse.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2978,7 +3078,9 @@
       "mentions_person_refs": [
         "N-763",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3000,7 +3102,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3022,7 +3126,9 @@
       "transcript_snippet": "The organization that was about free markets and capitalism suddenly became faith faith faith faith faith faith faith.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3149,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3064,7 +3172,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3090,7 +3200,9 @@
         "N-246",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3112,7 +3224,9 @@
         "N-208",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3133,7 +3247,9 @@
       "mentions_person_refs": [
         "N-713",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3153,7 +3269,9 @@
         "N-1",
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3173,7 +3291,9 @@
         "N-1",
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3195,7 +3315,9 @@
         "N-82",
         "N-377",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3214,7 +3336,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3235,7 +3359,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3256,7 +3382,9 @@
       "mentions_person_refs": [
         "N-205",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3276,7 +3404,9 @@
       "transcript_snippet": "all of these churches which have way too many military men who come from a long line of powerful military families",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3298,7 +3428,9 @@
         "N-9",
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3320,7 +3452,9 @@
         "N-85",
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3339,7 +3473,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3359,7 +3495,9 @@
       "transcript_snippet": "What we have discovered is actually so big that I had to go through the proper channels to get this information to government first.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3377,7 +3515,9 @@
       "transcript_snippet": "It kind of feels like the government is implicated in trying to stop us from getting the truth about what happened on that day.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3537,9 @@
       "transcript_snippet": "Yes, this is an $80 million company.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3418,7 +3560,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3442,7 +3586,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3464,7 +3610,9 @@
         "N-46",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3488,7 +3636,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3508,7 +3658,9 @@
       "transcript_snippet": "If you're telling me that because the US government or some law enforcement agency issues a statement that doesn't even make sense that I'm required somehow morally to accept that and not ask any questions",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3528,7 +3680,9 @@
         "N-227",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3550,7 +3704,9 @@
         "N-212",
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3574,7 +3730,9 @@
       "mentions_person_refs": [
         "N-212",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3594,7 +3752,9 @@
       "transcript_snippet": "Uh, also the Babylon B guy, I can't think of his name right now, is also involved in the Calvary Chapel.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3619,7 +3779,9 @@
         "N-212",
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3642,7 +3804,9 @@
         "N-82",
         "N-377",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3665,7 +3829,9 @@
       "mentions_person_refs": [
         "N-98",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3684,7 +3850,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3704,7 +3872,9 @@
       "transcript_snippet": "that's Henry Kenry Kissinger's war. And um the truth about that, it's always been a war against Christians.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3725,7 +3895,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-613"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3749,7 +3921,9 @@
       "mentions_person_refs": [
         "N-67",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3769,7 +3943,9 @@
       "transcript_snippet": "What's compelling is when you can't see them when they're on the ground.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3792,7 +3968,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3814,7 +3992,9 @@
         "N-298",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3838,7 +4018,9 @@
         "N-298",
         "N-579",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3858,7 +4040,9 @@
       "transcript_snippet": "I actually need to to refresh myself on her last name because it's uh saved in my phone.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3881,7 +4065,9 @@
       "transcript_snippet": "Then they killed JFK and suddenly the Calvary Church is born and you got all these military men",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

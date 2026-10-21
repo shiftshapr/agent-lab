@@ -1015,6 +1015,8 @@ Anchored Artifacts: A-2531.1
 Mentions: N-2
 Related Nodes: N-10446, N-10449
 Supports: C-6105
+Verification: revised-by-host
+Verification Evidence: C-11384
 Investigative Direction: Archive Erika Kirk's Instagram post history to confirm the exact date of the post and the date of the prior post featuring her mother.
 
 ---

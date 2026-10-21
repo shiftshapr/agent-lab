@@ -1573,7 +1573,9 @@
       ],
       "contradicts_claim_refs": [
         "C-13241"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1592,7 +1594,9 @@
       "investigative_direction": "Obtain UVU planning documents directly; verify timing of each revision; identify whether any \"1,500\" update exists in any retained form.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1612,7 +1616,9 @@
       "investigative_direction": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1634,7 +1640,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1657,7 +1665,9 @@
         "N-2",
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1677,7 +1687,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1697,7 +1709,9 @@
       "investigative_direction": "Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1716,7 +1730,9 @@
       "investigative_direction": "Cross-check TPUSA claim against school attendance records and parent reports.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1735,7 +1751,9 @@
       "investigative_direction": "Verify whether the cited \"opt-out\" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1754,7 +1772,9 @@
       "investigative_direction": "Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1773,7 +1793,9 @@
         "N-1",
         "N-159",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1791,7 +1813,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1811,7 +1835,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1831,7 +1857,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1846,7 +1874,9 @@
       "tags": [],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Verify corporate filings and Pulse Films tenure via public records.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1870,7 +1900,9 @@
       "investigative_direction": "Verify each production's distribution platform, release date, and reception.",
       "mentions_person_refs": [
         "N-47"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1888,7 +1920,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1908,7 +1942,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1926,7 +1962,9 @@
       "mentions_person_refs": [
         "N-25",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1943,7 +1981,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1962,7 +2002,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1982,7 +2024,9 @@
       "transcript_snippet": "First and foremost, I'm I'm very pregnant, so I'm just feeling chubby.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2006,7 +2050,9 @@
       "transcript_snippet": "TPUSA in mid July to be precise on July 18th uh filled out a form to host this event",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2033,7 +2079,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2054,7 +2102,9 @@
       "transcript_snippet": "3,000 people show up for this event, which was barely advertised.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2082,7 +2132,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2107,7 +2159,9 @@
         "N-271",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2182,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2151,7 +2207,9 @@
       "transcript_snippet": "someone with a UVU email address whose name was redacted by the school suggested that the event be held elsewhere on campus.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2178,7 +2236,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2202,7 +2262,9 @@
       "transcript_snippet": "Because TPUSA's safety team staffed up for the event to 12 security on site, up from the usual 8 to9, a team comprised of ex-military and law enforcement personnel trained and equipped with a full emergency medical kit",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2290,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2251,7 +2315,9 @@
       "transcript_snippet": "now the Kirk family lawyer is filing a document that the decision not to have an ambulance on standby was negligent and amounted to a wrongful death.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2273,6 +2339,12 @@
         "N-14",
         "N-1",
         "N-3"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-13308",
+        "C-13309",
+        "C-13365"
       ]
     },
     {
@@ -2298,7 +2370,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2323,7 +2397,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2423,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2366,7 +2444,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2390,7 +2470,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2413,7 +2495,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2437,7 +2521,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2460,7 +2546,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2488,7 +2576,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2512,7 +2602,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2536,7 +2628,9 @@
       "transcript_snippet": "they called it secret because the the high school told them",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2654,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2582,7 +2678,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2604,7 +2702,9 @@
         "N-69",
         "N-591",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2730,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2651,7 +2753,9 @@
       "transcript_snippet": "the parents were wondering, are we paying for this?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2777,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2698,7 +2804,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2828,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2743,7 +2853,9 @@
       "mentions_person_refs": [
         "N-47",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2765,7 +2877,9 @@
       "transcript_snippet": "explicitly states that Monroe was not murdered.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2787,7 +2901,9 @@
       "transcript_snippet": "many people who claim that she was actually investigating a pedophile network at the BBC, which included Jimmy Savile.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2812,7 +2928,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2835,7 +2953,9 @@
         "N-159",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2977,9 @@
         "N-159",
         "N-731",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +2999,9 @@
       "transcript_snippet": "Blake Knap was involved in this racism scandal for being a total creep online",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2900,7 +3024,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2924,7 +3050,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2946,7 +3074,9 @@
       "transcript_snippet": "there's no maximalist position on free speech anymore than there is on pregnancy.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2968,7 +3098,9 @@
       "transcript_snippet": "Probably because they spend way too much time on social media and they read every attack on themselves and they get more paranoid.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2995,7 +3127,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3021,7 +3155,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3179,9 @@
         "N-18",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3063,7 +3201,9 @@
       "transcript_snippet": "You'll make a person publish a hit piece. You've got money you can spend to have somebody attacked. You'll launch lawsuits to shut people up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3086,7 +3226,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3107,7 +3249,9 @@
       "mentions_person_refs": [
         "N-25",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3132,7 +3276,9 @@
       "mentions_person_refs": [
         "N-25",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3153,7 +3299,9 @@
       "transcript_snippet": "January 6th was a fed operation.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3171,7 +3319,9 @@
       ],
       "claim_timestamp": "00:57:59",
       "investigative_direction": "The host offers no documents; compare the retention practice for the Cole and Robinson footage with ordinary retention rules.",
-      "transcript_snippet": "they're keeping them in a file in case the feds need to commit a crime and pin it on them."
+      "transcript_snippet": "they're keeping them in a file in case the feds need to commit a crime and pin it on them.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3193,7 +3343,9 @@
         "N-587",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3219,7 +3371,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3246,7 +3400,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

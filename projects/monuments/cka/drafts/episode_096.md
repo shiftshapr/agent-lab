@@ -2206,6 +2206,8 @@ Anchored Artifacts:
 Mentions: N-341, N-3
 Related Nodes: N-10560
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-9153
 Investigative Direction: The host's Instagram messages and Marx's response, if any.
 
 ---

@@ -1667,7 +1667,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1684,7 +1686,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
-      "investigative_direction": "Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records."
+      "investigative_direction": "Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1704,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:39",
-      "investigative_direction": "Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials."
+      "investigative_direction": "Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1719,7 +1725,9 @@
       "investigative_direction": "Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1738,7 +1746,9 @@
       "investigative_direction": "Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1761,7 +1771,9 @@
         "N-14",
         "N-15",
         "N-550"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1780,7 +1792,9 @@
       "investigative_direction": "Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1801,7 +1815,9 @@
         "N-14",
         "N-1",
         "N-805"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1820,7 +1836,9 @@
       "investigative_direction": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting.",
       "mentions_person_refs": [
         "N-213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1839,7 +1857,9 @@
         "N-1",
         "N-209",
         "N-806"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1857,7 +1877,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1873,7 +1895,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:50",
-      "investigative_direction": "Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020."
+      "investigative_direction": "Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1894,7 +1918,9 @@
         "N-14",
         "N-1",
         "N-805"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1940,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1929,7 +1957,9 @@
       "investigative_direction": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +1979,9 @@
         "N-1",
         "N-550",
         "N-493"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1969,7 +2001,9 @@
         "N-3",
         "N-2",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1992,7 +2026,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2014,7 +2050,9 @@
       "transcript_snippet": "But I do three shows accusing you of leaving Santa Barbara before Charlie got shot or banged or whatever happened to him? And you're just dead silent?",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2034,7 +2072,9 @@
       "transcript_snippet": "I simply cannot reveal to you how I came across this information. In other words, what I'm saying to be is there's no way for me to protect the source.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2055,7 +2095,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2076,7 +2118,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2097,7 +2141,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2119,7 +2165,9 @@
         "N-3",
         "N-2",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2141,7 +2189,9 @@
       "transcript_snippet": "it's a a luxury aircraft brokerage. Like where you go to buy planes. They're brokers for planes. Uh they have locations in Canada and in Scottsdale.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2214,9 @@
       "transcript_snippet": "Hopkinson Aircraft Sales uh also with Atlantic Aviation and then also this Ross Aviation.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2185,7 +2237,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2208,7 +2262,9 @@
         "N-14",
         "N-2",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2232,7 +2288,9 @@
         "N-3",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2313,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2341,9 @@
         "N-15",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2302,7 +2364,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2394,9 @@
         "N-14",
         "N-550",
         "N-689"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2350,7 +2416,9 @@
       "transcript_snippet": "when your plane gets low enough, you suddenly start to receive all of your messages at once.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2374,7 +2442,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2397,7 +2467,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2417,7 +2489,9 @@
       "transcript_snippet": "It costs, just so you understand, $300,000 just to install Wi-Fi aboard a jet. And then you're looking at an approximate uh, 30 to 50,000 dollars a month to run it.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2441,7 +2515,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2469,7 +2545,9 @@
         "N-1",
         "N-14",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2492,7 +2570,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2516,7 +2596,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2540,7 +2622,9 @@
         "N-3",
         "N-14",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2564,7 +2648,9 @@
         "N-3",
         "N-213",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2674,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2610,7 +2698,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2633,7 +2723,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2656,7 +2748,9 @@
       "transcript_snippet": "If you have any information regarding this, please email us at moretips@candaceowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2680,7 +2774,9 @@
         "N-3",
         "N-2",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2704,7 +2800,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2728,7 +2826,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2751,7 +2851,9 @@
         "N-3",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2875,9 @@
         "N-3",
         "N-5",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2798,7 +2902,9 @@
         "N-209",
         "N-806",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2823,7 +2929,9 @@
         "N-14",
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2853,7 +2961,9 @@
         "N-159",
         "N-14",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +2988,9 @@
         "N-159",
         "N-14",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2901,7 +3013,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2925,7 +3039,9 @@
         "N-14",
         "N-40",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2953,7 +3069,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2981,7 +3099,9 @@
         "N-159",
         "N-14",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3006,7 +3126,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3027,7 +3149,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3051,7 +3175,9 @@
         "N-3",
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3077,7 +3203,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3096,7 +3224,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3121,7 +3251,9 @@
         "N-3",
         "N-69",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3142,7 +3274,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3164,7 +3298,9 @@
         "N-3",
         "N-1",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3188,7 +3324,9 @@
         "N-1",
         "N-97",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3209,7 +3347,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-807"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3233,7 +3373,9 @@
         "N-159",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3252,7 +3394,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-496"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3277,7 +3421,9 @@
         "N-3",
         "N-209",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3296,7 +3442,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

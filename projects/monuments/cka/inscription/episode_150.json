@@ -965,7 +965,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -984,7 +986,9 @@
         "N-1",
         "N-154",
         "N-155"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1001,7 +1005,9 @@
       "investigative_direction": "Verify letter text and any official response from investigative authorities.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1019,7 +1025,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1037,7 +1045,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1055,7 +1065,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1073,7 +1085,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1091,7 +1105,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1109,7 +1125,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1128,7 +1146,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1146,7 +1166,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1164,7 +1186,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1180,7 +1204,9 @@
       "mentions_person_refs": [
         "N-3"
       ],
-      "transcript_snippet": "And obviously I wish I also wasn't 8 months pregnant doing this when I'm already in a heightened emotional state."
+      "transcript_snippet": "And obviously I wish I also wasn't 8 months pregnant doing this when I'm already in a heightened emotional state.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1198,7 +1224,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1219,7 +1247,9 @@
         "N-1",
         "N-3",
         "N-131"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1237,7 +1267,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1255,7 +1287,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1272,7 +1306,9 @@
       "investigative_direction": "Confirm via public reporting.",
       "mentions_person_refs": [
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1289,7 +1325,9 @@
       "investigative_direction": "Verify letter text and signatories.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1307,7 +1345,9 @@
       "investigative_direction": "Verify with the named team or any documentation of the meeting. *Possible transcription error: \"Ace team\" identity unclear.*",
       "mentions_person_refs": [
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1328,7 +1368,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1349,7 +1391,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1373,7 +1417,9 @@
         "N-1",
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1396,7 +1442,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1418,7 +1466,9 @@
       "transcript_snippet": "Facebook, TikTok, X, suddenly all of their preventative measures that are designed to catch and remove violence from their platforms immediately malfunctioned that day.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1438,7 +1488,9 @@
       "transcript_snippet": "I had not had a spell of anorexia since my early 20s, but the very first thing I did was I just stopped eating.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1460,7 +1512,9 @@
         "N-1",
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1482,7 +1536,9 @@
       "transcript_snippet": "people who hated you, selling t-shirts and mugs in your name.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1507,7 +1563,9 @@
         "N-154",
         "N-155",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1531,7 +1589,9 @@
       "mentions_person_refs": [
         "N-154",
         "N-155"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1552,7 +1612,9 @@
       "mentions_person_refs": [
         "N-154",
         "N-155"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1574,7 +1636,9 @@
         "N-154",
         "N-155",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1596,7 +1660,9 @@
       "transcript_snippet": "So, I started this organization when I was 18 years old. Born and raised in Chicago, Illinois.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1617,7 +1683,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1638,7 +1706,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1664,7 +1734,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1686,7 +1758,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1707,7 +1781,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1734,7 +1810,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1758,7 +1836,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1783,7 +1863,9 @@
         "N-1",
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1807,7 +1889,9 @@
         "N-1",
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1911,9 @@
       "transcript_snippet": "He took home a Grammy for best rap album, for My Beautiful Dark Twisted Fan- Fantasy.",
       "mentions_person_refs": [
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1847,7 +1933,9 @@
       "transcript_snippet": "the word exciting actually turns into suicide.",
       "mentions_person_refs": [
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1872,7 +1960,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1983,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1916,7 +2008,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1939,7 +2033,9 @@
         "N-3",
         "N-60",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1961,7 +2057,9 @@
       "transcript_snippet": "the tent that you died beneath, the microphone that you were holding.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1983,7 +2081,9 @@
         "N-1",
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2006,7 +2106,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2029,7 +2131,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2052,7 +2156,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1907,7 +1907,9 @@
       "investigative_direction": "Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.",
       "mentions_person_refs": [
         "N-260"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1924,7 +1926,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:01",
-      "investigative_direction": "Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof."
+      "investigative_direction": "Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1944,7 +1948,9 @@
         "N-1",
         "N-266",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1964,7 +1970,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1985,7 +1993,9 @@
         "N-159",
         "N-67",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2007,7 +2017,9 @@
         "N-3",
         "N-1",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2023,7 +2035,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:07",
-      "investigative_direction": "Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain."
+      "investigative_direction": "Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2039,7 +2053,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:55",
-      "investigative_direction": "Verify the post URL; document whether the post remains public; identify Eyal Yakoby's institutional affiliations."
+      "investigative_direction": "Verify the post URL; document whether the post remains public; identify Eyal Yakoby's institutional affiliations.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2057,7 +2073,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-56"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2073,7 +2091,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:20",
-      "investigative_direction": "Pull the FAA / ADS-B flight record for tail number; obtain the T.W. Lewis Foundation filings and grant log to TPUSA; identify passengers."
+      "investigative_direction": "Pull the FAA / ADS-B flight record for tail number; obtain the T.W. Lewis Foundation filings and grant log to TPUSA; identify passengers.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2094,7 +2114,9 @@
       "transcript_snippet": "the filing deadline if you filed for an extension, which we can assume Turning Point did, was November 15th for this year",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2117,7 +2139,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2138,7 +2162,9 @@
       "transcript_snippet": "this person in the State Department confirmed that a foreign military jet actually can't just land on American soil without the federal government paying attention.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2189,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2183,7 +2211,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2206,7 +2236,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2260,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2250,7 +2284,9 @@
       "transcript_snippet": "it's therefore possible that some of those cars that we are looking at could be the rented vehicles, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2271,7 +2307,9 @@
         "N-329",
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2291,7 +2329,9 @@
       "transcript_snippet": "the reason that UVU has denied every request not just to release footage of the day of the assassination but also to release footage of the days leading up to the assassination.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2351,9 @@
       "transcript_snippet": "it's possible that they could have staged some of that, which they eventually edited maybe a bit and released it to TMZ in in that time frame.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2335,7 +2377,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2359,7 +2403,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2379,7 +2425,9 @@
       "transcript_snippet": "This is by the way taken on September 11th. So this is a day after the shooting.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2448,9 @@
       "transcript_snippet": "I don't think I remember enough to really definitively say that the guy I saw is the guy in the pictures",
       "mentions_person_refs": [
         "N-10095"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2471,9 @@
       "transcript_snippet": "And he walked over that railing and started wandering around the ledge.",
       "mentions_person_refs": [
         "N-10012"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2442,7 +2494,9 @@
       "transcript_snippet": "Um my bet would be that that's how the shooter got onto the wazi center roof because that's one of a few ways I know of.",
       "mentions_person_refs": [
         "N-10321"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2516,9 @@
       "transcript_snippet": "he comes from below and he shouts up, but the guy he asks like, \"Are you okay?\"",
       "supports_claim_refs": [
         "C-2996"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2482,7 +2538,9 @@
       "transcript_snippet": "The second time I saw him do the same thing. He hopped the railings, started wandering around.",
       "supports_claim_refs": [
         "C-2995"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2502,7 +2560,9 @@
       "transcript_snippet": "I don't know why CNN declined to publish his name, but I was able to figure out who the student was.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2522,7 +2582,9 @@
       "transcript_snippet": "If you are a student and you saw someone up on the rooftop in the days or in the week leading up to the assassination, we want to hear from you. More tips at candace Owens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2541,7 +2603,9 @@
       "transcript_snippet": "every time I have tried to chase down the leads regarding the rooftop, I am brought to a military person",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2565,7 +2629,9 @@
         "N-3",
         "N-61",
         "N-188"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2654,9 @@
         "N-3",
         "N-61",
         "N-188"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2608,7 +2676,9 @@
       "transcript_snippet": "we want to hear from you. More tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2700,9 @@
         "N-266",
         "N-1",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2652,7 +2724,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2747,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2694,7 +2770,9 @@
       "transcript_snippet": "for edification the Sorensen Center was the building in front of the Losee Center.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2791,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2812,9 @@
       "mentions_person_refs": [
         "N-271",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2753,7 +2835,9 @@
       "transcript_snippet": "I spent thousands of dollars on drones last year and one and got the guy's license but if the area lies in the Provo Utah airspace case. I can't fly it.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2775,7 +2859,9 @@
       "transcript_snippet": "now the school could have flown drones, the PD, but they didn't have them, right? And then and then so but ORM PD has a an a drone unit active and professional",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2799,7 +2885,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2821,7 +2909,9 @@
         "N-159",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2842,7 +2932,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2863,7 +2955,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2885,7 +2979,9 @@
         "N-159",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2907,7 +3003,9 @@
         "N-159",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2929,7 +3027,9 @@
         "N-159",
         "N-190",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2954,7 +3054,9 @@
         "N-190",
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2981,6 +3083,11 @@
         "N-2",
         "N-159",
         "N-3"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-4108",
+        "C-6196"
       ]
     },
     {
@@ -3003,7 +3110,9 @@
         "N-17",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3025,7 +3134,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3045,7 +3156,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3065,7 +3178,9 @@
         "N-756",
         "N-17",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3091,7 +3206,9 @@
         "N-1",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3117,7 +3234,9 @@
         "N-1",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3141,7 +3260,9 @@
         "N-22",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3163,7 +3284,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3183,7 +3306,9 @@
       "mentions_person_refs": [
         "N-707",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3207,7 +3332,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3229,7 +3356,9 @@
       "transcript_snippet": "Several people said there was a lot of vehicles at the home of the alleged shooter around the week before the shooting. Right. That's another tip. You are correct and I should explore that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3250,7 +3379,9 @@
       "transcript_snippet": "So relevant time frame would be from 94 up until 910 looking for these vehicles these five vehicles that we have now shown you.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3269,7 +3400,9 @@
       "mentions_person_refs": [
         "N-267",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3286,7 +3419,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3303,7 +3438,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3319,7 +3456,9 @@
       "transcript_snippet": "Make him a sandwich. com has the unsigned books.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3342,7 +3481,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-260"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

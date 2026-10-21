@@ -1219,6 +1219,8 @@ Anchored Artifacts: A-2498.1
 Mentions: N-351
 Related Nodes: N-10801, N-10802
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-13988
 Investigative Direction: Count campaign creators on the Monster Lab site and confirm Servius's account in Discord.
 
 ---

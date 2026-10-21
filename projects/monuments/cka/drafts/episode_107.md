@@ -974,6 +974,8 @@ Transcript Snippet: At 18, Victor joined the Marine Corps, served for 2 years be
 Anchored Artifacts: 
 Mentions: N-341, N-3
 Related Nodes: N-10551
+Verification: revised-by-host
+Verification Evidence: C-9409
 Investigative Direction: Obtain Marx's DD-214 for enlistment and separation dates.
 
 ---

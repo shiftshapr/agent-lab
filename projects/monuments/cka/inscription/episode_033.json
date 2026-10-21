@@ -1712,7 +1712,9 @@
         "N-3",
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1735,9 @@
         "N-3",
         "N-259",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1754,7 +1758,9 @@
         "N-3",
         "N-259",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1775,7 +1781,9 @@
         "N-3",
         "N-67",
         "N-260"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1797,7 +1805,9 @@
         "N-1",
         "N-2",
         "N-263"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1816,7 +1826,9 @@
       "investigative_direction": "Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1832,7 +1844,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:14",
-      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution."
+      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1851,7 +1865,9 @@
       "investigative_direction": "Request the host's underlying statistical model and assumptions; replicate the calculation independently.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1870,7 +1886,9 @@
         "N-3",
         "N-14",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1887,7 +1905,9 @@
       "tags": [],
       "claim_timestamp": "00:26:19–00:27:30",
       "investigative_direction": "Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1909,7 +1929,9 @@
       "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.",
       "mentions_person_refs": [
         "N-260"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1928,7 +1950,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
-      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records."
+      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1947,7 +1971,9 @@
       "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1966,7 +1992,9 @@
       "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1987,7 +2015,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2006,7 +2036,9 @@
       "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2059,9 @@
         "N-1",
         "N-2",
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2043,7 +2077,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:52:35–00:54:00",
-      "investigative_direction": "Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data."
+      "investigative_direction": "Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2062,7 +2098,9 @@
       "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2079,7 +2117,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2097,7 +2137,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-263"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2115,7 +2157,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-263"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2137,7 +2181,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-264"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2157,7 +2203,9 @@
       "transcript_snippet": "It was after the public execution of sitting president JFK in 1963 that the CIA established operation mockingb bird.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2180,7 +2228,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2201,7 +2251,9 @@
       "transcript_snippet": "And my gut started to tell me that they suddenly began panicking when I discovered the Egyptian planes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2224,7 +2276,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2245,7 +2299,9 @@
       "transcript_snippet": "Next thing you know, it was trending and uh they pretended it had been officially debunked just because the departure time was wrong.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2266,7 +2322,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2288,7 +2346,9 @@
         "N-1",
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2309,7 +2369,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2332,7 +2394,9 @@
         "N-2",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2354,7 +2418,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2376,7 +2442,9 @@
         "N-97",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2397,7 +2465,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2491,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2517,9 @@
         "N-261",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2470,7 +2544,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2497,7 +2573,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2518,7 +2596,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2537,7 +2617,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2558,7 +2640,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2583,7 +2667,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2606,7 +2692,9 @@
         "N-55",
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2629,7 +2717,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2651,7 +2741,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2765,9 @@
       "transcript_snippet": "all the flight radar websites only show when the plane is actually in the air. But if the plane is on the ground and transmitting that data from the ADSB transponder still goes out.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2697,7 +2791,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2816,9 @@
       "mentions_person_refs": [
         "N-260",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2743,7 +2841,9 @@
       "transcript_snippet": "a military jet, particularly one from a foreign country, would likely be equipped with encrypted satellite-based communications capabilities.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2765,7 +2865,9 @@
       "transcript_snippet": "my point is that these planes were known to Turning Point USA and we all deserve to know why they were on the ground on that day",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2786,7 +2888,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2811,7 +2915,9 @@
         "N-14",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2833,7 +2939,9 @@
         "N-22",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2965,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +2988,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2900,7 +3012,9 @@
       "transcript_snippet": "somebody saw something and I'm asking you to email us more tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2923,7 +3037,9 @@
       "transcript_snippet": "And of course, the email address to send it to is more tips@candice. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2945,7 +3061,9 @@
         "N-36",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2965,7 +3083,9 @@
       "transcript_snippet": "Israel is growing increasingly alarming in terms of legislation that they're trying to get past, trying to censor our speech, trying to take over social media campaigns.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2986,7 +3106,9 @@
       "transcript_snippet": "You know, the last time that narrative ran was probably the USS Liberty. That was the plan, right? To make us think Egypt had attacked us. But it wasn't actually Egypt that attacked that ship. It was Israel.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3007,7 +3129,9 @@
       "transcript_snippet": "an organization of that size that misses their deadline, their tax deadline for the first time, that's a little weird.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3030,7 +3154,9 @@
       "transcript_snippet": "not just they filed for an extension and then miss the extension deadline to file?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3054,7 +3180,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3076,7 +3204,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3101,7 +3231,9 @@
         "N-11",
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3126,7 +3258,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3149,7 +3283,9 @@
       "transcript_snippet": "I think that was October 15th was a tax extension deadline. They have missed them both and that is completely abnormal.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3308,9 @@
       "transcript_snippet": "If you go back and you look at Turning Point USA's filings before they always file all of them at the same time.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3196,7 +3334,9 @@
       "transcript_snippet": "They are sending it to their own shell company. Now, this is not necessarily illegal except for the fact that the financial statement for the other organization is missing.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3220,7 +3360,9 @@
       "transcript_snippet": "This stopped in 2021 and they started ramping up sending money to America's Turning Point.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3243,7 +3385,9 @@
       "transcript_snippet": "As of fiscal year 2023, they had $61 million of assets in the endowment, which was generating $1.9 million a year of investment income.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3266,7 +3410,9 @@
       "transcript_snippet": "If we look at the prior year, the majority of the money was spent on other salaries and wages. How is this possible when America's Turning Point reports zero employees?",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3289,7 +3435,9 @@
       "transcript_snippet": "I think there are fake people on the payroll.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3314,7 +3462,9 @@
       "transcript_snippet": "they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA merch.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3337,7 +3487,9 @@
       "transcript_snippet": "Baker Tilly's audit opinion letter is signed after Turning Point missed the filing date with the IRS.",
       "mentions_person_refs": [
         "N-472"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3360,7 +3512,9 @@
       "transcript_snippet": "it is possible that when they used that outside auditor, that they showed them all of the documentation and then they gave him a clean bill of health and then for whatever reason, Turning Point decided not to file.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3384,7 +3538,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3407,7 +3563,9 @@
       "transcript_snippet": "who are now learning how this organization functions by routing the bulk of their money or to a lot of their money rather, not the bulk of it into their endowment fund, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3434,7 +3592,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3452,7 +3612,9 @@
       "transcript_snippet": "Yeah, they are definitely running an operation on X. It's obviously military bots.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3471,7 +3633,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3489,7 +3653,9 @@
       "transcript_snippet": "cuz they tried to incentivize me with all these things before.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3508,7 +3674,9 @@
       ],
       "claim_timestamp": "00:52:35",
       "investigative_direction": "Check state public-records law and Flock's contract terms; FOIA access to Flock data varies by agency and state and may be restricted.",
-      "transcript_snippet": "I was today today years old when I learned that anyone can FOIA all flock license plate cameras, locations, and data points."
+      "transcript_snippet": "I was today today years old when I learned that anyone can FOIA all flock license plate cameras, locations, and data points.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3527,7 +3695,9 @@
       ],
       "claim_timestamp": "00:52:35",
       "investigative_direction": "Review Flock's published coverage figures and the transparency portals of Utah County agencies.",
-      "transcript_snippet": "There's a a network run by a company called Flock of Automated license plate readers that are dotted throughout pretty much every town in the United States."
+      "transcript_snippet": "There's a a network run by a company called Flock of Automated license plate readers that are dotted throughout pretty much every town in the United States.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3550,7 +3720,9 @@
       "transcript_snippet": "More tips at canowens. com. We have to be faster than them, smarter than them.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3571,7 +3743,9 @@
       "mentions_person_refs": [
         "N-224",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3590,7 +3764,9 @@
       ],
       "claim_timestamp": "00:54:44",
       "investigative_direction": "Check the preparer block on TPUSA's filed Form 990; separately check independence rules for a firm that both prepares returns and audits.",
-      "transcript_snippet": "Baker Tilly also is the company that files their 990s per the first page. Their audits are not considered valid. a separate company has to do an independent audit."
+      "transcript_snippet": "Baker Tilly also is the company that files their 990s per the first page. Their audits are not considered valid. a separate company has to do an independent audit.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3611,7 +3787,9 @@
       "mentions_person_refs": [
         "N-472",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3630,7 +3808,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

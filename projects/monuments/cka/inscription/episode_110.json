@@ -1842,7 +1842,9 @@
       "investigative_direction": "Verify the Department of War website listing for Bradley Hansell; cross-check Senate confirmation record and July 25, 2025 swearing-in.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1860,7 +1862,9 @@
       "investigative_direction": "Verify Senate roll-call vote and swearing-in date via official Senate records.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1877,7 +1881,9 @@
       "investigative_direction": "Verify service record via official DoD / Army Special Forces sources.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1896,7 +1902,9 @@
       "investigative_direction": "Verify NSC roster for Trump's first term.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1916,7 +1924,9 @@
       "investigative_direction": "Verify BCG alumni records and LinkedIn-style biographies.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1934,7 +1944,9 @@
       "tags": [],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Retrieve original Financial Times article and Project Aurora documents.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1952,7 +1964,9 @@
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Confirm $4M figure against leaked internal documents referenced by Financial Times.",
       "mentions_person_refs": [],
-      "transcript_snippet": "Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million."
+      "transcript_snippet": "Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1969,7 +1983,9 @@
       "tags": [],
       "claim_timestamp": "00:16:50",
       "investigative_direction": "Verify model parameters against FT-published leaked documents.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1986,7 +2002,9 @@
       "tags": [],
       "claim_timestamp": "00:17:00",
       "investigative_direction": "Verify model parameters against FT-published leaked documents.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2003,7 +2021,9 @@
       "tags": [],
       "claim_timestamp": "00:17:10",
       "investigative_direction": "Verify cost ranges against FT-published leaked documents.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2039,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
-      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting."
+      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2038,7 +2060,9 @@
       "investigative_direction": "Locate Schweizer's original statement in Financial Times coverage.",
       "mentions_person_refs": [
         "N-434"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2058,7 +2082,9 @@
       "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\").",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2074,7 +2100,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:40",
-      "investigative_direction": "Verify Jake Wood's resignation date and public statement."
+      "investigative_direction": "Verify Jake Wood's resignation date and public statement.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2091,7 +2119,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:05",
-      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents."
+      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2108,7 +2138,9 @@
       "tags": [],
       "claim_timestamp": "00:34:20",
       "investigative_direction": "Identify primary outlet (host references \"elsewhere\"); confirm Fort Huachuca stationing date.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2126,7 +2158,9 @@
       "mentions_person_refs": [
         "N-28",
         "N-448"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2177,9 @@
       "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\"",
       "mentions_person_refs": [
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2160,7 +2196,9 @@
       "investigative_direction": "Locate the @PierreDeleto account or its archived screenshots; cross-reference with prior reporting on Romney's French-language social media activity.",
       "mentions_person_refs": [
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2180,7 +2218,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2199,7 +2239,9 @@
       "investigative_direction": "Obtain the actual UVU event submission paperwork; identify the requesting student organization.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2219,7 +2261,9 @@
       "mentions_person_refs": [
         "N-28",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2240,7 +2284,9 @@
         "N-28",
         "N-47",
         "N-48"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2256,7 +2302,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents."
+      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2273,7 +2321,9 @@
       "tags": [],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Verify the existence and nature of the Tacit/Tachlith Institute; flag uncertain spelling.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2289,7 +2339,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Phil Reilly's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting."
+      "investigative_direction": "Verify Phil Reilly's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2307,7 +2359,9 @@
       "transcript_snippet": "Without a single dollar spent on advertising, zero dollars. That's actually just an incredible feat. No outside investors, no secret funding from foreign countries",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2328,7 +2382,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2352,7 +2408,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2380,7 +2438,9 @@
         "N-59",
         "N-57",
         "N-58"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2461,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2483,9 @@
       "transcript_snippet": "not sat down with an American podcaster in years since 2023 to be precise when he sat down with Lex Fridman. And I should make it clear that he made Lex Fridman fly to his office in Israel",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2441,7 +2505,9 @@
       "transcript_snippet": "And there was a more appropriate context. He was hawking his crappy book.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2464,7 +2530,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2485,7 +2553,9 @@
       "transcript_snippet": "they tend to turn off their transponders when they're making short trips around Cairo, about an hour and a half flights, and then they return back uh to Cairo",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2506,7 +2576,9 @@
       "transcript_snippet": "when I calculate that distance precisely of where these planes could be going in the amount of in the allotted time frame, I keep coming up with either Israel or Jordan.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2526,7 +2598,9 @@
       "transcript_snippet": "the Egyptian plane SUBTU, which I describe as my purple plane, uh flew from Cairo at 8:50 a. m. shortly after the attacks began.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2546,7 +2620,9 @@
       "transcript_snippet": "They flew to P they flew from Cairo to Paris and Okay, random fact. Then it flew from Paris to St. Louis, Missouri. Stays for 5 days.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2566,7 +2642,9 @@
       "transcript_snippet": "that same Egyptian plane took off, flew from Cairo always to Paris, and it stayed there for six days.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2585,7 +2663,9 @@
       "mentions_person_refs": [
         "N-28",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2605,7 +2685,9 @@
       "transcript_snippet": "I told you guys that Mitt Romney's presidential campaign team actually went over to BYU Jerusalem where, as it turns out, a lot of CIA agents are recruited from.",
       "mentions_person_refs": [
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2625,7 +2707,9 @@
       "transcript_snippet": "Air Force plane given the designation SAM because it is carrying a VIP.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2731,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2668,7 +2754,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2689,7 +2777,9 @@
       "transcript_snippet": "who who's leaving um Fort Huachuca and heading for El Paso, Texas in a time frame that would work with this alleged meeting um on the morning of September 9th.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2711,7 +2801,9 @@
       "transcript_snippet": "now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansell.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2826,9 @@
       "transcript_snippet": "in the very month that Mr. Hansell was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2753,7 +2847,9 @@
       ],
       "claim_timestamp": "00:18:10",
       "investigative_direction": "Check the Financial Times and BCG statements of July 2025 for the halt order and the partners' conduct.",
-      "transcript_snippet": "But the firm would then say that two senior partners continued the project in defiance of their directives uh maintaining an unofficial team and billing through alternative structures."
+      "transcript_snippet": "But the firm would then say that two senior partners continued the project in defiance of their directives uh maintaining an unofficial team and billing through alternative structures.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2772,7 +2868,9 @@
       ],
       "claim_timestamp": "00:18:28",
       "investigative_direction": "Find the first Financial Times publication date on Project Aurora; the host's own timeline later gives July 4.",
-      "transcript_snippet": "Project continued through May of 2025 when the Financial Times story broke."
+      "transcript_snippet": "Project continued through May of 2025 when the Financial Times story broke.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2789,7 +2887,9 @@
       ],
       "claim_timestamp": "00:19:50",
       "investigative_direction": "Review UN, medical and press records on shootings at GHF distribution sites and the videos she refers to.",
-      "transcript_snippet": "you might recall that it was that it was then discovered these were effectively just killing fields. The videos are horrific."
+      "transcript_snippet": "you might recall that it was that it was then discovered these were effectively just killing fields. The videos are horrific.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2812,7 +2912,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2832,7 +2934,9 @@
       "transcript_snippet": "He would eventually abandon the project November. There was no fixing it.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2851,7 +2955,9 @@
       ],
       "claim_timestamp": "00:25:55",
       "investigative_direction": "Check news coverage of BCG's exit from the GHF (the Times of Israel piece she cites).",
-      "transcript_snippet": "Boston Consulting Group abandoning the Gaza Humanitarian Foundation in June."
+      "transcript_snippet": "Boston Consulting Group abandoning the Gaza Humanitarian Foundation in June.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2873,7 +2979,9 @@
       "transcript_snippet": "this person on the Egyptian plane who goes by Wed Mahmoud. Okay, he is aboard on June 2nd, 2025.",
       "mentions_person_refs": [
         "N-305"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2896,7 +3004,9 @@
       "mentions_person_refs": [
         "N-305",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2918,7 +3028,9 @@
       "transcript_snippet": "On June 3rd, Reverend Johnnie Moore is announced to take over as chairman of the Gaza Humanitarian Aid Project",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2939,7 +3051,9 @@
       ],
       "claim_timestamp": "00:27:32",
       "investigative_direction": "Identify the flight school, its operator on the Tucson-Fort Huachuca leg, and the CEO's correct name.",
-      "transcript_snippet": "it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bromberg who is connected to Raytheon and Northrop Grumman."
+      "transcript_snippet": "it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bromberg who is connected to Raytheon and Northrop Grumman.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2956,7 +3070,9 @@
       ],
       "claim_timestamp": "00:27:50",
       "investigative_direction": "Check the public record for the start of the June 2025 Iran-Israel war.",
-      "transcript_snippet": "June 13th, we have Iran and Israel's 12day war."
+      "transcript_snippet": "June 13th, we have Iran and Israel's 12day war.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2980,7 +3096,9 @@
         "N-1",
         "N-590",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3002,7 +3120,9 @@
       "transcript_snippet": "and Charlie emerges the temporary winner of that. Trump moves to limit his involvement.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3021,7 +3141,9 @@
       ],
       "claim_timestamp": "00:28:50",
       "investigative_direction": "Public record: US strikes on Iranian nuclear sites, June 22, 2025.",
-      "transcript_snippet": "On June 22nd, uh, Operation Midnight Hammer, which is when America bombs U Iran nuclear sites, that's limited military"
+      "transcript_snippet": "On June 22nd, uh, Operation Midnight Hammer, which is when America bombs U Iran nuclear sites, that's limited military",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3047,7 +3169,9 @@
       ],
       "mentions_person_refs": [
         "N-753"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3075,7 +3199,9 @@
       "mentions_person_refs": [
         "N-753",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3097,7 +3223,9 @@
       "transcript_snippet": "On July 2nd, Rob McCoy formerly resigns as the lead pastor of Calvary Church. He's intending to move to Arizona.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3120,7 +3248,9 @@
       "transcript_snippet": "Uh July 4th, the Financial Times article comes out about the Boston Consulting Group and Project Aurora.",
       "contradicts_claim_refs": [
         "C-9632"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3144,7 +3274,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3168,7 +3300,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3191,7 +3325,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3209,7 +3345,9 @@
       "transcript_snippet": "That's interesting because James Kaddis heads up the Turning Point USA faith department.",
       "mentions_person_refs": [
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3230,7 +3368,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3253,7 +3393,9 @@
       "transcript_snippet": "This is not when a campus tour comes together. You don't submit and then you're instantly honored. There is a very long waiting list um to get Charlie to speak",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3276,7 +3418,9 @@
       "transcript_snippet": "We have our yellow plane then comes in from Cairo to through to Paris as always uh to Omaha, Nebraska and then to Lincoln, Nebraska.",
       "supports_claim_refs": [
         "C-3268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3299,7 +3443,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3323,7 +3469,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3345,7 +3493,9 @@
       "transcript_snippet": "it is announced that Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media.",
       "mentions_person_refs": [
         "N-279"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3364,7 +3514,9 @@
       ],
       "claim_timestamp": "00:33:28",
       "investigative_direction": "Obtain the sponsorship contract and addendum and compare with the tour announcements.",
-      "transcript_snippet": "It's weird because they had already signed a contract for the entire year. What I mean by that is they signed a contract which included Amfest, included YWLS."
+      "transcript_snippet": "It's weird because they had already signed a contract for the entire year. What I mean by that is they signed a contract which included Amfest, included YWLS.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3387,7 +3539,9 @@
       "transcript_snippet": "August 5th through to the 7th is the now infamous Hampton's retreat and quote unquote intervention. Charlie's words not mine over Israel where Charlie held the line",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3410,7 +3564,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3433,7 +3589,9 @@
       ],
       "claim_timestamp": "00:35:20",
       "investigative_direction": "Retrieve the FARA registration or filing for Havas Media and Clock Tower LLC and its date.",
-      "transcript_snippet": "August 27th, we told you about Dhillon Law Group drafting paperwork for uh Havas Media on behalf of Clock Tower LLC."
+      "transcript_snippet": "August 27th, we told you about Dhillon Law Group drafting paperwork for uh Havas Media on behalf of Clock Tower LLC.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3456,7 +3614,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3480,7 +3640,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3498,7 +3660,9 @@
       "transcript_snippet": "Turning Point says he meant on a rooftop. That's what he meant. I I don't think so. I don't think that he was worried about transgendered people.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3517,7 +3681,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3538,7 +3704,9 @@
       "mentions_person_refs": [
         "N-28",
         "N-448"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3558,7 +3726,9 @@
       "transcript_snippet": "Romney, who was seriously injured in the crash on June 16th, 1968, uh was briefly thought to have been killed",
       "mentions_person_refs": [
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3578,7 +3748,9 @@
       "transcript_snippet": "has long said that there was nothing that he could have done to avoid the tragedy. Interviews with survivors and people who were directly involved in the accident aftermath largely confirm his description.",
       "mentions_person_refs": [
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3598,7 +3770,9 @@
       "transcript_snippet": "many of the Mormons that are familiar with the accident say they believe that the priest could have been inebriated, but that assertion could not be confirmed.",
       "mentions_person_refs": [
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3617,7 +3791,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3640,7 +3816,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3663,7 +3841,9 @@
         "N-2",
         "N-1",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3682,7 +3862,9 @@
       ],
       "claim_timestamp": "00:42:50",
       "investigative_direction": "Compare archived feeds and platform listings before and after November 2025 to identify removed episodes, tweets and Q&As.",
-      "transcript_snippet": "Turning Point moved to mysteriously delete all of these episodes. They deleted certain tweets. They deleted Q&A sessions from the internet. That is a fact, by the way."
+      "transcript_snippet": "Turning Point moved to mysteriously delete all of these episodes. They deleted certain tweets. They deleted Q&A sessions from the internet. That is a fact, by the way.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3704,7 +3886,9 @@
       "transcript_snippet": "People at Turning Point told me when they began deleting episodes, they thought it was so strange. And then a flurry of emails came in of people alerting me that they had saved a link of Charlie cuz they had loved this episode and now it's gone and they can't access it.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3721,7 +3905,9 @@
       ],
       "claim_timestamp": "00:43:25",
       "investigative_direction": "Check Apple Podcasts' actual per-feed episode limits, and compare the Charlie Kirk Show feed history.",
-      "transcript_snippet": "this stuff is still up on Rumble. We didn't delete anything. Apple has a limit. You can only put a hundred episodes at a time."
+      "transcript_snippet": "this stuff is still up on Rumble. We didn't delete anything. Apple has a limit. You can only put a hundred episodes at a time.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3742,7 +3928,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3762,7 +3950,9 @@
       "transcript_snippet": "So if you have access or you are familiar with what I'm talking about, please email us tips@canniswowens. com or more tips@canniswowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3784,7 +3974,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3803,7 +3995,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3820,7 +4014,9 @@
       ],
       "claim_timestamp": "00:48:22",
       "investigative_direction": "Check Nevada court and DOJ records for the arrest, release and departure of Alexandrovich.",
-      "transcript_snippet": "Why was Tom Artiom Alexandrovich allowed to leave the United States and return to Israel after being arrested in in Nevada on felony childuring charges"
+      "transcript_snippet": "Why was Tom Artiom Alexandrovich allowed to leave the United States and return to Israel after being arrested in in Nevada on felony childuring charges",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3837,7 +4033,9 @@
       ],
       "claim_timestamp": "00:48:50",
       "investigative_direction": "Identify the defendant and check federal court dockets and DOJ statements on dismissal.",
-      "transcript_snippet": "In fact, didn't I just see yesterday that they also released the Israeli citizen that was caught operating illegal biolabs?"
+      "transcript_snippet": "In fact, didn't I just see yesterday that they also released the Israeli citizen that was caught operating illegal biolabs?",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3855,7 +4053,9 @@
       "transcript_snippet": "It was Qatar for a very long time. I was working for Russia, Qatar, Iran, Pakistan. They never bring a shred of proof because they can't.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3874,7 +4074,9 @@
       ],
       "claim_timestamp": "00:50:15",
       "investigative_direction": "Collect the screenshot of the text and sender number; check political-texting vendors.",
-      "transcript_snippet": "Over this past weekend, I received a text from a Virginia area code asking how Utah folks feel about the United States relationship with Israel."
+      "transcript_snippet": "Over this past weekend, I received a text from a Virginia area code asking how Utah folks feel about the United States relationship with Israel.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3897,7 +4099,9 @@
       "transcript_snippet": "Well, read those FARA docs. This is what it's about. You're somewhere. They're geofencing you. They're following up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3914,7 +4118,9 @@
       ],
       "claim_timestamp": "00:52:00",
       "investigative_direction": "Ask the host to name the actors; no document is cited.",
-      "transcript_snippet": "Yeah, we definitely know who is uh taking out all these Catholics for sure."
+      "transcript_snippet": "Yeah, we definitely know who is uh taking out all these Catholics for sure.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3931,7 +4137,9 @@
       ],
       "claim_timestamp": "00:52:45",
       "investigative_direction": "Ask the host to specify who 'they' are; no document is cited.",
-      "transcript_snippet": "Needed America to be Protestant and Zionist. And now that broader project seems to be failing and people are waking up uh to the Zionist agenda in many of these mega churches."
+      "transcript_snippet": "Needed America to be Protestant and Zionist. And now that broader project seems to be failing and people are waking up uh to the Zionist agenda in many of these mega churches.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3952,7 +4160,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3975,7 +4185,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3997,7 +4209,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4015,7 +4229,9 @@
       "transcript_snippet": "reminding you that next week I will be dark uh because I will be in St. Petersburg.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -90,7 +90,12 @@ These rules apply to drafts, inscriptions and anything published. The privacy li
 - When a private individual becomes central (for example, a named eyewitness), keep the claims, but stay with what the host alleges about the event, not their personal life.
 
 ## 11. Verification status
-Every claim carries a verification status, set by evidence, never by opinion. The schema arrives in ROADMAP Phase 4; until then, every claim is `unverified`.
+Every claim carries a verification status, set by evidence, never by opinion. In the episode JSON (and its rendered
+draft), a claim's status is set with a `Verification:` line, plus `Verification Evidence:` citing claim ids (C-…) or
+source ids (S-…). A claim with no `Verification:` line is `unverified`. CI (`cka_source.py check`) rejects any other
+value, and any status except `unverified` that has no evidence. `scripts/verification/derive_status.py` sets
+`revised-by-host` from host-against-herself Revises and Contradicts links, and copies each status into the
+inscriptions and the companion.
 - `unverified`: no independent evidence linked yet (the default).
 - `corroborated`: at least one independent primary or reputable secondary source agrees, and is cited.
 - `disputed`: credible sources conflict, and both are cited.

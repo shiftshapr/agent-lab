@@ -1528,7 +1528,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1548,7 +1550,9 @@
         "N-190",
         "N-159",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1568,7 +1572,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1590,7 +1596,9 @@
         "N-563",
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1611,7 +1619,9 @@
       "transcript_snippet": "On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.",
       "mentions_person_refs": [
         "N-563"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1633,7 +1643,9 @@
       "mentions_person_refs": [
         "N-563",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1652,7 +1664,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1671,7 +1685,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1693,7 +1709,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1714,7 +1732,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1753,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1755,7 +1777,9 @@
         "N-1",
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1776,7 +1800,9 @@
       "transcript_snippet": "Terryl was able to take that footage back to Arizona. He's opening that on his desktop in Arizona back in Scottsdale.",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1796,7 +1822,9 @@
         "N-15",
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1817,7 +1845,9 @@
       "mentions_person_refs": [
         "N-563",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1836,7 +1866,9 @@
       "transcript_snippet": "That footage should not be zoomed in. She's correct. Turning Point has that footage.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1857,7 +1889,9 @@
       "transcript_snippet": "Charlie oddly is on a chair that is upon a platform that seats him above the table.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1878,7 +1912,9 @@
       "transcript_snippet": "we couldn't find a time before late 2024 when Charlie is table in and there's a camera directly behind his head. That appears to have arrived in 2025.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1898,7 +1934,9 @@
       "transcript_snippet": "And here is Charlie at Northern Arizona University on October 15th, 2024. Again, the brainwashed tour. There is no camera behind his head.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1915,7 +1953,9 @@
       "tags": [],
       "claim_timestamp": "00:15:38",
       "investigative_direction": "Compare the Yrefy sponsorship contract dates and deliverables with the first appearance of the rear camera.",
-      "transcript_snippet": "That's also seems to have arrived specifically with the big sponsorship deal with Wiyre Fy as well."
+      "transcript_snippet": "That's also seems to have arrived specifically with the big sponsorship deal with Wiyre Fy as well.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1936,7 +1976,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1956,7 +1998,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1977,7 +2021,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1998,7 +2044,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2067,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2039,7 +2089,9 @@
       "transcript_snippet": "My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2112,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2082,7 +2136,9 @@
         "N-2",
         "N-364",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2100,7 +2156,9 @@
       "transcript_snippet": "the person that was involved with this patent, eventually got into a little uh lawsuit with Victor Marx.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2118,7 +2176,9 @@
       "transcript_snippet": "Jeffrey Epstein, we we speak about the files and we talk about the blackmail and we talk about the sex, but Jeffrey Epstein began his career in weapons trafficking.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2138,7 +2198,9 @@
         "N-9",
         "N-48",
         "N-283"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2160,7 +2222,9 @@
         "N-159",
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2182,7 +2246,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2269,9 @@
       "transcript_snippet": "My dad wants photos of the rifle. He says grandpa wants to know who has what. The feds released a photo of the rifle and it is very unique.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2225,7 +2293,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2250,7 +2320,9 @@
         "N-2",
         "N-46",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2272,7 +2344,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2367,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2312,7 +2388,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2408,9 @@
       "transcript_snippet": "I had really bad anxiety and depression and then I started to basically deal with depression by doing cocaine.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2348,7 +2428,9 @@
         "N-599",
         "N-60",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2366,7 +2448,9 @@
       "transcript_snippet": "So, you can understand why she's not allowed to own guns.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2467,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2487,9 @@
       "transcript_snippet": "I became addicted to social media. I kind of lived off of the adrenaline.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2420,7 +2508,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2442,7 +2532,9 @@
         "N-46",
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2459,7 +2551,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2480,7 +2574,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2499,7 +2595,9 @@
       "transcript_snippet": "Remember, the the the defense said, \"Let's not put a day on the calendar until we have our discovery stuff and we we'll have a better idea.\"",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2522,7 +2620,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2541,7 +2641,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2561,7 +2663,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2582,7 +2686,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2706,9 @@
       "transcript_snippet": "Keeping faith with Father Joseph writes, Candace, I have footage that could change the investigation. DM me. Email it to us.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2619,7 +2727,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2635,7 +2745,9 @@
       "transcript_snippet": "And I feel like Kash Patel right now suing um is it The Atlantic because they said that he's a drunk.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2654,7 +2766,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1153,6 +1153,8 @@ Transcript Snippet: It was on March 13th, 2024 that I did the very first ever ep
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-10931
+Verification: revised-by-host
+Verification Evidence: C-3164
 Investigative Direction: Check the episode's upload date and Daily Wire's separation date against her timeline.
 
 ---
@@ -1487,6 +1489,8 @@ Transcript Snippet: BTT then comes in to from Cairo through Paris and lands in O
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10250, N-10239
+Verification: revised-by-host
+Verification Evidence: C-3268
 Investigative Direction: Pull flight-tracking history for SU-BTT for July 2025, including origin airports and Wilmington ground time.
 
 ---
@@ -1502,6 +1506,8 @@ Transcript Snippet: They stay in Wilmington for six days. Okay, that happens to 
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10250
+Verification: revised-by-host
+Verification Evidence: C-3269
 Investigative Direction: Confirm arrival and departure times at Wilmington for SU-BTT from flight-tracking and airport records.
 
 ---
@@ -1594,6 +1600,8 @@ Anchored Artifacts:
 Mentions: N-36, N-1
 Related Nodes: N-10320
 Supports: C-84
+Verification: revised-by-host
+Verification Evidence: C-4497
 Investigative Direction: Identify the host's source for the offer and any written record of the offer and its refusal.
 
 ---
@@ -1624,6 +1632,8 @@ Transcript Snippet: It's Paris Design Week and she's photographed uh with the Mi
 Anchored Artifacts: A-2726.1
 Mentions: N-82
 Related Nodes: N-10276
+Verification: revised-by-host
+Verification Evidence: C-3388
 Investigative Direction: Obtain the dated photographs of the September 3 event and the Paris departure record for SU-BTT on September 4.
 
 ---

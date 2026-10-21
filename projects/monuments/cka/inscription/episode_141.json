@@ -1434,7 +1434,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1453,7 +1455,9 @@
         "N-18",
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1471,7 +1475,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1488,7 +1494,9 @@
       "investigative_direction": "Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).",
       "mentions_person_refs": [
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1508,7 +1516,9 @@
         "N-18",
         "N-3",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1526,7 +1536,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1543,7 +1555,9 @@
       "investigative_direction": "Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1562,7 +1576,9 @@
         "N-18",
         "N-3",
         "N-560"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1580,7 +1596,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-560"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1600,7 +1618,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1618,7 +1638,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1635,7 +1657,9 @@
       "investigative_direction": "Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.",
       "mentions_person_refs": [
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1679,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1678,7 +1704,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1695,7 +1723,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1714,7 +1744,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1731,7 +1763,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1748,7 +1782,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1769,7 +1805,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1789,7 +1827,9 @@
       "transcript_snippet": "they then declare that they would like a contract and an escrow account for the funds.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1810,7 +1850,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1830,7 +1872,9 @@
       "transcript_snippet": "They offer me a luxury car to accommodate my pregnancy and I say no.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1849,7 +1893,9 @@
         "N-18",
         "N-101",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1870,7 +1916,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1888,7 +1936,9 @@
         "N-3",
         "N-18",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1909,7 +1959,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1927,7 +1979,9 @@
       "transcript_snippet": "contract gets officially signed on Thursday.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +2003,9 @@
         "N-3",
         "N-18",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1970,7 +2026,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1992,7 +2050,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2013,7 +2073,9 @@
         "N-18",
         "N-259",
         "N-747"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2094,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2051,7 +2115,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-747"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2068,7 +2134,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2089,7 +2157,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-747"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2105,7 +2175,9 @@
       "transcript_snippet": "knowingly moving out of this house in a couple of weeks or so",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2125,7 +2197,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2149,7 +2223,9 @@
         "N-3",
         "N-18",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2171,7 +2247,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2193,7 +2271,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2222,7 +2302,9 @@
         "N-2",
         "N-237",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2240,7 +2322,9 @@
         "N-3",
         "N-2",
         "N-237"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2344,9 @@
         "N-3",
         "N-2",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2368,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2301,7 +2389,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2321,7 +2411,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2342,7 +2434,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2362,7 +2456,9 @@
         "N-3",
         "N-18",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2380,7 +2476,9 @@
       "transcript_snippet": "yeah, we allow this at this stage, it's probitative",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2499,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-329"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2521,9 @@
       "transcript_snippet": "we cannot say for certainty that Israel called the shots and this is how it happened.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2440,7 +2542,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2463,7 +2567,9 @@
         "N-18",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2480,7 +2586,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2503,7 +2611,9 @@
         "N-18",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2525,7 +2635,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2549,7 +2661,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2569,7 +2683,9 @@
         "N-3",
         "N-2",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2587,7 +2703,9 @@
         "N-3",
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2607,7 +2725,9 @@
         "N-3",
         "N-18",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2629,7 +2749,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2648,7 +2770,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2668,7 +2792,9 @@
         "N-3",
         "N-18",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2686,7 +2812,9 @@
       "transcript_snippet": "I made $41863 during that 16-second silence.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2705,7 +2833,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2725,7 +2855,9 @@
         "N-3",
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2745,7 +2877,9 @@
         "N-3",
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2767,7 +2901,9 @@
         "N-3",
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2791,7 +2927,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2812,7 +2950,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2836,7 +2976,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2856,7 +2998,9 @@
         "N-3",
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +3021,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2894,7 +3040,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2913,7 +3061,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2935,7 +3085,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2956,7 +3108,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2976,7 +3130,9 @@
       "transcript_snippet": "I texted nobody during the entire debate because I I was focused.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2996,7 +3152,9 @@
         "N-259",
         "N-18",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3018,7 +3176,9 @@
         "N-3",
         "N-18",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3039,7 +3199,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3061,7 +3223,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3082,7 +3246,9 @@
         "N-101",
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3103,7 +3269,9 @@
         "N-159",
         "N-14",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3120,7 +3288,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3137,7 +3307,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3156,7 +3328,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-113"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3346,9 @@
       "transcript_snippet": "We do have that available on our website.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3192,7 +3368,9 @@
         "N-3",
         "N-18",
         "N-560"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3215,7 +3393,9 @@
         "N-3",
         "N-2",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3237,7 +3417,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3254,7 +3436,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3273,7 +3457,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3296,7 +3482,9 @@
         "N-3",
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3313,7 +3501,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3522,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

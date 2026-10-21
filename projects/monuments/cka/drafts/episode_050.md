@@ -1866,6 +1866,8 @@ Transcript Snippet: Nicole Rothstein was like, "I'm her cousin. She's half Jewis
 
 Anchored Artifacts: A-2752.2
 Mentions: N-3, N-573, N-2
+Verification: revised-by-host
+Verification Evidence: C-10480
 Investigative Direction: Locate the comment and the account; confirm the kinship and whether the comment was posted by the person named.
 
 ---

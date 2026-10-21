@@ -490,6 +490,8 @@ Transcript Snippet: the shooting took place at 8:36 p. m. Eastern. Okay, that's 
 
 Anchored Artifacts:
 Related Nodes: N-10582
+Verification: revised-by-host
+Verification Evidence: C-9262
 Investigative Direction: Obtain the Secret Service and MPD incident timeline for the WHCD shooting and any after-action report on shots fired.
 
 ---

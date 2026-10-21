@@ -2643,7 +2643,9 @@
         "N-266",
         "N-270",
         "N-10"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2666,7 +2668,9 @@
         "N-2",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2689,7 +2693,9 @@
         "N-8",
         "N-1",
         "N-10"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2711,7 +2717,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2742,9 @@
       "mentions_person_refs": [
         "N-224",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2755,7 +2765,9 @@
       "investigative_direction": "Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2774,7 +2786,9 @@
       "investigative_direction": "FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2795,7 +2809,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2818,7 +2834,9 @@
         "N-1",
         "N-2",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2838,7 +2856,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-12"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2860,7 +2880,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2880,7 +2902,9 @@
       "investigative_direction": "Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2898,7 +2922,9 @@
       "transcript_snippet": "The Department of War has executed a campaign, an online campaign, paying people to attack every single day",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2921,7 +2947,9 @@
       "mentions_person_refs": [
         "N-10762",
         "N-10994"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2943,7 +2971,9 @@
         "N-270",
         "N-266",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2963,7 +2993,9 @@
       "transcript_snippet": "And she participated online in the major events assessment committee planning meeting that was held on August 25th regarding the September 10th TPUSA event.",
       "mentions_person_refs": [
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2984,7 +3016,9 @@
       "transcript_snippet": "a Utah riskmanagement official had communications with an executive of Turning Point USA and urged that the above named individuals who were associated with TPUSA on September 10th cooperate with the assessment",
       "mentions_person_refs": [
         "N-10762"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3002,7 +3036,9 @@
       "tags": [],
       "claim_timestamp": "00:09:31",
       "investigative_direction": "Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.",
-      "transcript_snippet": "It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk"
+      "transcript_snippet": "It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3024,7 +3060,9 @@
       "transcript_snippet": "However, several key event security decisions were deferred to Turning Point USA's field representative.",
       "mentions_person_refs": [
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3045,7 +3083,9 @@
       "transcript_snippet": "Those decisions placed the event in an area that was more difficult to control and limited UVU's ability to obtain reliable real-time information regarding anticipated attendance and crowd size.",
       "mentions_person_refs": [
         "N-10762"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3066,7 +3106,9 @@
       "transcript_snippet": "UVU should have retained decision-making authority over key security related issues, including the venue selection, the ticketing and access control",
       "mentions_person_refs": [
         "N-10762"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3084,7 +3126,9 @@
         "N-227",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3103,7 +3147,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3123,7 +3169,9 @@
       "transcript_snippet": "And he didn't even know why he was requesting it. Stunning.",
       "mentions_person_refs": [
         "N-10"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3148,7 +3196,9 @@
       "mentions_person_refs": [
         "N-10",
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3169,7 +3219,9 @@
       "transcript_snippet": "submits an event request and the event is described as an appearance by Charlie Kirk to discuss current events",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3190,7 +3242,9 @@
       "transcript_snippet": "On July 28th, the club's office advises that Turning Point USA's club and annual registration had to be completed.",
       "mentions_person_refs": [
         "N-10614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3208,7 +3262,9 @@
       "tags": [],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Compare the 600-attendee figure and registration counts held by TPUSA National before the event.",
-      "transcript_snippet": "at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees."
+      "transcript_snippet": "at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3229,7 +3285,9 @@
       "transcript_snippet": "the first time now it's been approved tentatively that Jeff Long, the chief of police at UVU became aware of the event.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3248,7 +3306,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3270,7 +3330,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3288,7 +3350,9 @@
       "tags": [],
       "claim_timestamp": "00:21:34",
       "investigative_direction": "Obtain the MEAC attendee list and confirm whether any TPUSA security representative was invited.",
-      "transcript_snippet": "Guess who didn't attend this meeting? Not a single member of Turning Points Security attended this crucial meeting."
+      "transcript_snippet": "Guess who didn't attend this meeting? Not a single member of Turning Points Security attended this crucial meeting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3305,7 +3369,9 @@
       "tags": [],
       "claim_timestamp": "00:22:35",
       "investigative_direction": "Obtain the MEAC record of the stated headcount and compare with the personnel TPUSA actually fielded on September 10.",
-      "transcript_snippet": "TPOSA advised UVU that it would have approximately eight security personnel."
+      "transcript_snippet": "TPOSA advised UVU that it would have approximately eight security personnel.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3325,7 +3391,9 @@
       "transcript_snippet": "Chief Long requested contact with that security leadership.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3346,7 +3414,9 @@
       "transcript_snippet": "Then we learn that the free speech committee discussed possible EOC activation.",
       "mentions_person_refs": [
         "N-10995"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3363,7 +3433,9 @@
       "tags": [],
       "claim_timestamp": "00:22:35",
       "investigative_direction": "Obtain the formal approval record, approver and date from UVU event services.",
-      "transcript_snippet": "And then on the 27th is when it's formally approved."
+      "transcript_snippet": "And then on the 27th is when it's formally approved.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3380,7 +3452,9 @@
       "tags": [],
       "claim_timestamp": "00:23:46",
       "investigative_direction": "Obtain the complaint log and any record of the anonymous call.",
-      "transcript_snippet": "they had an anonymous caller that demanded that the event be cancelled."
+      "transcript_snippet": "they had an anonymous caller that demanded that the event be cancelled.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3400,7 +3474,9 @@
       "transcript_snippet": "UVU President Tuminez requested updates regarding event planning on the 31st.",
       "mentions_person_refs": [
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3420,7 +3496,9 @@
       "transcript_snippet": "we're a week away from this event and uh no sec I've received no security requests from Turning Point USA.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3441,7 +3519,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3462,7 +3542,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3485,7 +3567,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3510,7 +3594,9 @@
         "N-2",
         "N-270",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3534,7 +3620,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3554,7 +3642,9 @@
       "transcript_snippet": "whose family was super involved with EMPs? Lorie Frantzve EMPs.",
       "mentions_person_refs": [
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3574,7 +3664,9 @@
       "transcript_snippet": "9:00 a. m. the security arrives to campus.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3596,7 +3688,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3614,7 +3708,9 @@
       "transcript_snippet": "Additional Charlie Kirk staff arrive onto campus at 9:28.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3633,7 +3729,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3656,7 +3754,9 @@
       ],
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3677,7 +3777,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3692,7 +3794,9 @@
       "tags": [],
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Compare the review's protester timeline with video of the Hall of Flags walkway between 11:20 and 11:30.",
-      "transcript_snippet": "That's between 11:20 and 11:30 and that the protesters did move away and then the officers blocked them off with security tape"
+      "transcript_snippet": "That's between 11:20 and 11:30 and that the protesters did move away and then the officers blocked them off with security tape",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3712,7 +3816,9 @@
       "transcript_snippet": "Chief Long goes up to the second floor of the Fugal Gateway building because he established a command post",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3733,7 +3839,9 @@
       "transcript_snippet": "when they Charlie got to the hospital, there was a fire chief that performed CPR.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3754,7 +3862,9 @@
       "transcript_snippet": "UVU officials suggested alternative locations such as the Fulton Library, the quad, or interior locations where access could be more effectively controlled.",
       "supports_claim_refs": [
         "C-13566"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3775,7 +3885,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3797,7 +3909,9 @@
         "N-8",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3817,7 +3931,9 @@
       "transcript_snippet": "indicating that it provided answers straight from the TPUSA team.",
       "mentions_person_refs": [
         "N-10"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3838,7 +3954,9 @@
       "transcript_snippet": "Straight from the TPUSA team, 600 attendees, primarily student focus, some potential public interests, no risk factors or safety security concerns or need for emergency medical services.",
       "mentions_person_refs": [
         "N-10"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3861,7 +3979,9 @@
       ],
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3885,7 +4005,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3910,7 +4032,9 @@
         "N-266",
         "N-270",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3931,7 +4055,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3951,7 +4077,9 @@
       "transcript_snippet": "Harpole stated that his first meeting to discuss September 10th TPS USA event occurred on August 24th.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3972,7 +4100,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3993,7 +4123,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4013,7 +4145,9 @@
       "transcript_snippet": "In the podcast, Harpole gave no indication that he considered requesting an on-site pre-event meeting with campus police to evaluate vulnerabilities and make security assignments.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4038,7 +4172,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4059,7 +4195,9 @@
       "transcript_snippet": "a drone from the neighboring Orem Police Department could have been requested.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4079,7 +4217,9 @@
       "transcript_snippet": "Officer Bagley identified the elevated roof area of the Loy Center as a possible source location of the asalent.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4099,7 +4239,9 @@
       "transcript_snippet": "he locates a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4119,7 +4261,9 @@
       "transcript_snippet": "Officer Bagley, whose body cam footage went off, um lost the battery.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4140,7 +4284,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4160,7 +4306,9 @@
       "transcript_snippet": "There was limited time between chief long first learning of the event and the event date.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4182,7 +4330,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4199,7 +4349,9 @@
       "tags": [],
       "claim_timestamp": "00:51:54",
       "investigative_direction": "Review UVU camera system access logs and dispatch staffing for September 10.",
-      "transcript_snippet": "There also was not a dedicated assignment for real-time security video monitoring by UVUPD dispatch personnel or others from another operational location during the event."
+      "transcript_snippet": "There also was not a dedicated assignment for real-time security video monitoring by UVUPD dispatch personnel or others from another operational location during the event.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4216,7 +4368,9 @@
       "tags": [],
       "claim_timestamp": "00:51:54",
       "investigative_direction": "Obtain the registration platform data and communications showing what was shared with UVUPD.",
-      "transcript_snippet": "we learned that Turning Point never actually issued any tickets"
+      "transcript_snippet": "we learned that Turning Point never actually issued any tickets",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4237,7 +4391,9 @@
       "transcript_snippet": "The review states that there was no formal credentiing process for VIPs.",
       "mentions_person_refs": [
         "N-10762"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4257,7 +4413,9 @@
       "transcript_snippet": "somebody from Turning Point National handing out wristbands to people that were sitting in the section to the right of Charlie",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4274,7 +4432,9 @@
       "tags": [],
       "claim_timestamp": "00:53:40",
       "investigative_direction": "Compile identities of wristbanded attendees and match them to later media interviews and footage.",
-      "transcript_snippet": "A lot of people, by the way, who recorded footage in particular, a lot of people, the same crowd of people who are speaking to the press thereafter."
+      "transcript_snippet": "A lot of people, by the way, who recorded footage in particular, a lot of people, the same crowd of people who are speaking to the press thereafter.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4295,7 +4455,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-59"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4319,7 +4481,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4340,7 +4504,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4359,7 +4525,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4381,7 +4549,9 @@
         "N-5",
         "N-1",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4403,7 +4573,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4427,7 +4599,9 @@
         "N-378",
         "N-85",
         "N-535"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4449,7 +4623,9 @@
         "N-1",
         "N-22",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4471,7 +4647,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4493,7 +4671,9 @@
         "N-2",
         "N-665",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4514,7 +4694,9 @@
       "transcript_snippet": "And then we have our Egyptian planes that come into Omaha, Nebraska, and then head to Lincoln, Nebraska.",
       "mentions_person_refs": [
         "N-10259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4537,7 +4719,9 @@
         "N-217",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4557,7 +4741,9 @@
       "transcript_snippet": "he had already Wyi had already signed a contract in January which covered events through the end of the year.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4578,7 +4764,9 @@
       "transcript_snippet": "It departs Wilmington, Delaware, heads back to Cairo.",
       "mentions_person_refs": [
         "N-10325"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4600,7 +4788,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4626,7 +4816,9 @@
         "N-37",
         "N-1",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4653,7 +4845,9 @@
         "N-36",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4679,7 +4873,9 @@
         "N-14",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4700,7 +4896,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4721,7 +4919,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4742,7 +4942,9 @@
       "transcript_snippet": "What happens next on August 19th is Kash Patel visits the Omaha, Nebraska field office.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4763,7 +4965,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4783,7 +4987,9 @@
       "transcript_snippet": "On the military side of things, Operation Valhalla Strike begins between civilians and the military in Minnesota.",
       "supports_claim_refs": [
         "C-3262"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4805,7 +5011,9 @@
         "N-8",
         "N-271",
         "N-10"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4826,7 +5034,9 @@
         "N-8",
         "N-331",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4846,7 +5056,9 @@
       "transcript_snippet": "They never communicated this to the police at UVU.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4865,7 +5077,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4887,7 +5101,9 @@
       "mentions_person_refs": [
         "N-12",
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4905,7 +5121,9 @@
       "transcript_snippet": "He was accused of touching himself in a classroom while watching explicit adult content in 2024.",
       "mentions_person_refs": [
         "N-12"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4925,7 +5143,9 @@
       "mentions_person_refs": [
         "N-752",
         "N-12"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4943,7 +5163,9 @@
       "transcript_snippet": "The case centered on allegations that Crofts exposed himself while watching explicit material in a Caldwell High School classroom with a 14-year-old student present.",
       "mentions_person_refs": [
         "N-12"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4959,7 +5181,9 @@
       "transcript_snippet": "cuz that's where she's doing the rounds now at middle schools.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4979,7 +5203,9 @@
       "transcript_snippet": "They're willing to speak to CBS News, ABC News, official spokespersons",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4999,7 +5225,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-331"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5017,7 +5245,9 @@
         "N-331",
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5039,7 +5269,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5062,7 +5294,9 @@
         "N-11",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5084,7 +5318,9 @@
         "N-190",
         "N-1",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5102,7 +5338,9 @@
         "N-11",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5123,7 +5361,9 @@
         "N-266",
         "N-3",
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5147,7 +5387,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5168,7 +5410,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-226"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5189,7 +5433,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-226"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5206,7 +5452,9 @@
       "tags": [],
       "claim_timestamp": "01:26:32",
       "investigative_direction": "Obtain UVU's records of the June 2025 drill date and participating agencies.",
-      "transcript_snippet": "That drill was on June 17th."
+      "transcript_snippet": "That drill was on June 17th.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5229,7 +5477,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5249,7 +5499,9 @@
       "transcript_snippet": "And then we had Operation Midnight Hammer, which was Trump agreed to do to bomb Ford and nuclear sites.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5270,7 +5522,9 @@
       "transcript_snippet": "on June 26th is when suddenly Claire Guinan writes her first article for Jezebel.",
       "mentions_person_refs": [
         "N-753"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

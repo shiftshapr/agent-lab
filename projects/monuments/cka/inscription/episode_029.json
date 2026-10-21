@@ -1875,7 +1875,9 @@
       "investigative_direction": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.",
       "mentions_person_refs": [
         "N-240"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1894,7 +1896,9 @@
       "investigative_direction": "Retrieve the full source video to verify exact wording, context, and date.",
       "mentions_person_refs": [
         "N-240"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1911,7 +1915,9 @@
       "investigative_direction": "Retrieve the full source audio/podcast to verify exact wording and full context.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1932,7 +1938,9 @@
         "N-236",
         "N-237",
         "N-238"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1952,7 +1960,9 @@
       "mentions_person_refs": [
         "N-238",
         "N-239"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1971,7 +1981,9 @@
         "N-242",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +2001,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2007,7 +2021,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2026,7 +2042,9 @@
         "N-241",
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2045,7 +2063,9 @@
         "N-243",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2063,7 +2083,9 @@
       "mentions_person_refs": [
         "N-227",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2081,7 +2103,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-244"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2099,7 +2123,9 @@
       "mentions_person_refs": [
         "N-245",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2115,7 +2141,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:45",
-      "investigative_direction": "Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting."
+      "investigative_direction": "Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2134,7 +2162,9 @@
       "investigative_direction": "Verify via FOIA requests, hospital records, contemporaneous reporting, or independent witness testimony.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2152,7 +2182,9 @@
       "transcript_snippet": "it's kind of weird how the only people that seem to believe the Fed story are Zionists",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2174,7 +2206,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2196,7 +2230,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2216,7 +2252,9 @@
       "transcript_snippet": "not a single person who captured them pulling up, nothing, despite the fact that there were news cameras outside waiting, oddly from like new a New York news channel",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2276,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2262,7 +2302,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2285,7 +2327,9 @@
       "transcript_snippet": "If you maybe were somebody who has footage and saw that black SUV pull up at the hospital, please get that to us at moretips@candaceowens. com",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2305,7 +2349,9 @@
       "transcript_snippet": "I'm starting to wonder if every major publicly traumatizing event may have actually just been organized by the Feds",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2332,7 +2378,9 @@
         "N-236",
         "N-237",
         "N-238"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2401,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2375,7 +2425,9 @@
       "transcript_snippet": "The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave.",
       "mentions_person_refs": [
         "N-238"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2396,7 +2448,9 @@
       "transcript_snippet": "four out of the six uh protest permits that were issued on January 6th were issued to independent charismatic Christian groups",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2418,7 +2472,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2442,7 +2498,9 @@
       "mentions_person_refs": [
         "N-240",
         "N-205"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2463,7 +2521,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-240"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2550,9 @@
         "N-240",
         "N-795",
         "N-796"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2511,7 +2573,9 @@
       "transcript_snippet": "Turning Point Faith, everywhere that I'm investigating, Turning Point Faith keeps coming up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2536,7 +2600,9 @@
         "N-7",
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2556,7 +2622,9 @@
       "transcript_snippet": "Lance Wallnau, he's no different. He graduated from a military academy.",
       "mentions_person_refs": [
         "N-240"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2577,7 +2645,9 @@
       "mentions_person_refs": [
         "N-240",
         "N-797"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2601,7 +2671,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2624,7 +2696,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2648,7 +2722,9 @@
         "N-240",
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2670,7 +2746,9 @@
         "N-240",
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2691,7 +2769,9 @@
       "mentions_person_refs": [
         "N-66",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2711,7 +2791,9 @@
       "transcript_snippet": "58 people were murdered. More than 600 others were injured. And they told us that it was just a lone shooter, Stephen Paddock",
       "mentions_person_refs": [
         "N-225"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2813,9 @@
       "transcript_snippet": "Conspiracy theorists said it was a military operation and there was a ton of evidence to support that, okay?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2752,7 +2836,9 @@
       "transcript_snippet": "Oddly, uh about 40 people who were at the Las Vegas shooting were all at the Borderline bar one night",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2859,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2795,7 +2883,9 @@
       "transcript_snippet": "a victim of that bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2815,7 +2905,9 @@
       "transcript_snippet": "one survivor said that the group of them were meeting up for a second time in about a year having, I guess, like a little Las Vegas reunion and that's why they were all there",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2835,7 +2927,9 @@
       "transcript_snippet": "a month after this, Rob McCoy then gets elected mayor of um of Thousand Oaks. He's mayor for a year.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2949,9 @@
       "transcript_snippet": "I shared something over the weekend about Romanian sex trafficking on my on my X feed",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +2974,9 @@
       ],
       "mentions_person_refs": [
         "N-451"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2899,7 +2997,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +3019,9 @@
       "transcript_snippet": "You went after my sponsors. You emailed people. You got me banned from Australia.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2941,7 +3043,9 @@
       "transcript_snippet": "I am never on the side of people that cheer on kids being killed and uh churches being bombed and and insinuate as he did that even the Christians in Gaza should uh aren't really human beings",
       "mentions_person_refs": [
         "N-241"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2964,7 +3068,9 @@
         "N-97",
         "N-46",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2991,7 +3097,9 @@
         "N-97",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3014,7 +3122,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3032,7 +3142,9 @@
       "transcript_snippet": "I was very clear at the beginning of this entire thing, no fakeness and no gayness.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3054,7 +3166,9 @@
         "N-227",
         "N-229",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3075,7 +3189,9 @@
       "mentions_person_refs": [
         "N-227",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3096,7 +3212,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3118,7 +3236,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3143,7 +3263,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3164,7 +3286,9 @@
       "transcript_snippet": "I worked for Turning Point USA, and I know what does not make sense in terms of the timeline of how this event came together",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3188,7 +3312,9 @@
       "mentions_person_refs": [
         "N-243",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3208,7 +3334,9 @@
       "transcript_snippet": "when I tell you on Wednesday what we discovered about those Egyptian military I think some more people are going to be on the run",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3229,7 +3357,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3255,7 +3385,9 @@
       "mentions_person_refs": [
         "N-244",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3277,7 +3409,9 @@
         "N-244",
         "N-22",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3296,7 +3430,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3319,7 +3455,9 @@
       "mentions_person_refs": [
         "N-245",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3342,7 +3480,9 @@
       "mentions_person_refs": [
         "N-245",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3365,7 +3505,9 @@
       "mentions_person_refs": [
         "N-245",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3385,7 +3527,9 @@
       "transcript_snippet": "if you go back any fed operation, COVID, whenever you don't follow the federal narrative, if you don't listen to the government, they always diagnose you",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3406,7 +3550,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3430,7 +3576,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3451,7 +3599,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3478,7 +3628,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3503,7 +3655,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3528,7 +3682,9 @@
       "mentions_person_refs": [
         "N-240",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3549,7 +3705,9 @@
       "transcript_snippet": "we will be have having a guest join us that will speak on Friday about Turning Point's finances",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3573,7 +3731,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3594,7 +3754,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3616,7 +3778,9 @@
         "N-234",
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

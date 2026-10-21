@@ -2310,7 +2310,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:00:49",
-      "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release."
+      "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2329,7 +2331,9 @@
       "mentions_person_refs": [
         "N-42",
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2343,7 +2347,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:01:30",
-      "investigative_direction": "Cross-check White House and TPUSA communications logs; verify the RV-show organizer account."
+      "investigative_direction": "Cross-check White House and TPUSA communications logs; verify the RV-show organizer account.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2364,7 +2370,9 @@
         "N-40",
         "N-128",
         "N-142"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2391,7 +2399,9 @@
         "N-135",
         "N-41",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2408,7 +2418,9 @@
       "investigative_direction": "Verify through official medical examiner channels or court filings.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2425,7 +2437,9 @@
       "investigative_direction": "Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2444,7 +2458,9 @@
         "N-139",
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2461,7 +2477,9 @@
       "investigative_direction": "Locate the full exchange; verify the exact statements against the unedited clip.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2478,7 +2496,9 @@
       "investigative_direction": "Verify the full quote in its original-language form; identify the context (who prompted the metaphor).",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2497,7 +2517,9 @@
         "N-137",
         "N-3",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2518,7 +2540,9 @@
         "N-46",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2539,7 +2563,9 @@
         "N-22",
         "N-3",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2556,7 +2582,9 @@
       "investigative_direction": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.",
       "mentions_person_refs": [
         "N-136"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2598,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:19",
-      "investigative_direction": "Verify against FBI press releases; identify the shared facility; check for any state or federal disclosure."
+      "investigative_direction": "Verify against FBI press releases; identify the shared facility; check for any state or federal disclosure.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2618,9 @@
       "mentions_person_refs": [
         "N-141",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2634,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:41:41",
-      "investigative_direction": "Obtain independent attendee statements; compare against TPUSA's published event format."
+      "investigative_direction": "Obtain independent attendee statements; compare against TPUSA's published event format.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2622,7 +2656,9 @@
         "N-3",
         "N-40",
         "N-125"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2644,7 +2680,9 @@
         "N-3",
         "N-46",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2665,7 +2703,9 @@
       "mentions_person_refs": [
         "N-42",
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2685,7 +2725,9 @@
       "transcript_snippet": "although that was not the nearest hospital from the university and it also ranked extremely low in terms of the most uh best equipped hospital",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2710,7 +2752,9 @@
         "N-3",
         "N-1",
         "N-134"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2775,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2754,7 +2800,9 @@
       "transcript_snippet": "someone paid money uh to inform us that there was footage that the FBI was hiding.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2774,7 +2822,9 @@
       "transcript_snippet": "He has been forthcoming about the fact that his family owned that property.",
       "mentions_person_refs": [
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2794,7 +2844,9 @@
       "transcript_snippet": "UVU in many ways purchased uh the university from his family, right? That the the acreage from his family for that university.",
       "mentions_person_refs": [
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2815,7 +2867,9 @@
       "transcript_snippet": "you should recall that the very next morning on September the 11th, TMZ already had the doorbell cam footage.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2840,7 +2894,9 @@
         "N-3",
         "N-142",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2917,9 @@
       "transcript_snippet": "during this 33-hour manhunt, not to inform the public that they were also looking for a woman",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2882,7 +2940,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2906,7 +2966,9 @@
         "N-3",
         "N-61",
         "N-129"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2928,7 +2990,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3015,9 @@
       "transcript_snippet": "if you have any tips pertaining to who the woman was that was caught, uh, please let me know.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2972,7 +3038,9 @@
       "transcript_snippet": "there's only so much data that an inbox can take and we might have to just make a second a second line is what I think we should do.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2993,7 +3061,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3014,7 +3084,9 @@
       "mentions_person_refs": [
         "N-61",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3035,7 +3107,9 @@
       "transcript_snippet": "A person going by the name Robbie Hild who is allegedly from Washington.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3056,7 +3130,9 @@
       "transcript_snippet": "even the president, I'm I'm blanking on her name, it like majored in Soviet studies.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3076,7 +3152,9 @@
       "transcript_snippet": "I'm starting to get a stronger than a theory and more of a hunch that this was a a military operation and people that executed this are actually from overseas.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3097,7 +3175,9 @@
       "transcript_snippet": "the New York Times has reported on uh Russian Ukrainian spies that are building new lives from themselves with new IDs uh in America, in Brazil",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3118,7 +3198,9 @@
       "transcript_snippet": "when you look at UVU campus and their strong ties um to the CIA, things start to get really interesting",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3140,7 +3222,9 @@
       "transcript_snippet": "it is telling about white lotus sect of all things.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3161,7 +3245,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3183,7 +3269,9 @@
         "N-22",
         "N-93",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3204,7 +3292,9 @@
       "mentions_person_refs": [
         "N-139",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3228,7 +3318,9 @@
         "N-139",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3250,7 +3342,9 @@
       "transcript_snippet": "A lot of this is done with money. Money of NOS's vast money of governments faster.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3270,7 +3364,9 @@
       "transcript_snippet": "give direction to the Jewish people and give direction to our non-Jewish friends",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3290,7 +3386,9 @@
       "transcript_snippet": "No, you wanted to hand it over to your Zionist friends.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3310,7 +3408,9 @@
       "transcript_snippet": "it's Larry Ellison who has made he's very clear about the fact that he's a agent of Israel.",
       "mentions_person_refs": [
         "N-140"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3432,9 @@
       "mentions_person_refs": [
         "N-193",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3353,7 +3455,9 @@
       "transcript_snippet": "just like the ADL spokesperson said when he was caught um on the mic was like, \"We need to do something about Tik Tok",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3374,7 +3478,9 @@
       "transcript_snippet": "we saw instantly that our content was getting strikes you can't say anything bad right now about Israel on TikTok",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3503,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3422,7 +3530,9 @@
         "N-1",
         "N-137",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3443,7 +3553,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3467,7 +3579,9 @@
         "N-46",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3490,7 +3604,9 @@
         "N-117",
         "N-49",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3510,7 +3626,9 @@
         "N-32",
         "N-49",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3533,7 +3651,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3554,7 +3674,9 @@
       "mentions_person_refs": [
         "N-138",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3576,7 +3698,9 @@
         "N-46",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3599,7 +3723,9 @@
       "transcript_snippet": "I got received other emails of people saying that um they felt that it was very much controlled",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3623,7 +3749,9 @@
       "transcript_snippet": "they're handing out TPUSA faith packets and like Israel is mentioned eight times. Someone submitted it to me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3646,7 +3774,9 @@
       "transcript_snippet": "It's ridiculous. And I know who's behind that. I do.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3668,7 +3798,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3689,7 +3821,9 @@
       "transcript_snippet": "And it was their behavior that turned him against them.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3712,7 +3846,9 @@
         "N-57",
         "N-58",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3733,7 +3869,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3756,7 +3894,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3777,7 +3917,9 @@
       "transcript_snippet": "the amount of money that they were making off of Charlie because Charlie ended up buying Turning Point USA, ended up taking on that security firm.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3794,7 +3936,9 @@
       ],
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Check jail records for 1987.",
-      "transcript_snippet": "Ramirez was in the same jail as Sean Penn in 1987, who was serving 33 days."
+      "transcript_snippet": "Ramirez was in the same jail as Sean Penn in 1987, who was serving 33 days.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3818,7 +3962,9 @@
         "N-3",
         "N-40",
         "N-141"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3843,7 +3989,9 @@
       "transcript_snippet": "I hope you guys uh know that they share a building, I think, in Connecticut.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3862,7 +4010,9 @@
       ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Check ownership records of ExpressVPN and other VPN companies.",
-      "transcript_snippet": "Israel is taking over ExpressVPN and other VPN websites"
+      "transcript_snippet": "Israel is taking over ExpressVPN and other VPN websites",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3883,7 +4033,9 @@
       "transcript_snippet": "I used to read ads for them, ExpressVPN, when I was uh working for Daily Wire.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3903,7 +4055,9 @@
       "transcript_snippet": "once I found that it was started by an Israeli billionaire",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3927,7 +4081,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3949,7 +4105,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3969,7 +4127,9 @@
       "transcript_snippet": "And I got question marks about a couple of people over at Turning Point USA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3990,7 +4150,9 @@
       "transcript_snippet": "they take money from an agent of Israel or an organization like the you know international fellowship of Christian and Jews",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4011,7 +4173,9 @@
       "transcript_snippet": "but then they have you like um gathering pastors and paying off people.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4032,7 +4196,9 @@
       "transcript_snippet": "only if you have a tip uh that can help us crack this mystery",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4050,7 +4216,9 @@
       "transcript_snippet": "We actually are not funded uh by any outside groups.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

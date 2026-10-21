@@ -1692,7 +1692,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1711,7 +1713,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1729,7 +1733,9 @@
       "transcript_snippet": "I'm 9 months pregnant and still the attacks are unceasing.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1753,7 +1759,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1775,7 +1783,9 @@
         "N-159",
         "N-367",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1802,7 +1812,9 @@
         "N-159",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1839,9 @@
         "N-190",
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1864,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1872,7 +1888,9 @@
         "N-159",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1911,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1912,7 +1932,9 @@
       ],
       "claim_timestamp": "00:06:45",
       "investigative_direction": "Rental agreements for the TPUSA vehicles at UVU on September 10.",
-      "transcript_snippet": "because they had three additional black SUV rentals in their possession."
+      "transcript_snippet": "because they had three additional black SUV rentals in their possession.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1935,7 +1957,9 @@
       "mentions_person_refs": [
         "N-951",
         "N-952"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1958,7 +1982,9 @@
       "mentions_person_refs": [
         "N-492",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1981,7 +2007,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2002,7 +2030,9 @@
       "mentions_person_refs": [
         "N-954",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2022,7 +2052,9 @@
       "transcript_snippet": "after that interview with her, what Mikey does is he dips into an SUV, presumably to make a phone call someplace quiet.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2043,7 +2075,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2094,9 @@
       ],
       "claim_timestamp": "00:09:38",
       "investigative_direction": "Identity of the agencies and drivers of the white vehicles at UVU.",
-      "transcript_snippet": "they are escorted by what appears to be federal officers into completely different vehicles."
+      "transcript_snippet": "they are escorted by what appears to be federal officers into completely different vehicles.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2084,7 +2120,9 @@
         "N-159",
         "N-367",
         "N-504"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2107,7 +2145,9 @@
         "N-159",
         "N-504",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2134,7 +2174,9 @@
         "N-896",
         "N-953",
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2157,7 +2199,9 @@
       "transcript_snippet": "It's a um employee parking lot that's just behind the Hall of Flags.",
       "mentions_person_refs": [
         "N-11335"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2176,7 +2220,9 @@
       ],
       "claim_timestamp": "00:11:40",
       "investigative_direction": "Registration of the white vehicles parked at the UVU roundabout.",
-      "transcript_snippet": "they're all the vehicles are white. And this I have learned is a federal officer thing. They drive these unmarked white vehicles."
+      "transcript_snippet": "they're all the vehicles are white. And this I have learned is a federal officer thing. They drive these unmarked white vehicles.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2199,7 +2245,9 @@
         "N-504",
         "N-953",
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2222,7 +2270,9 @@
       ],
       "mentions_person_refs": [
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2250,7 +2300,9 @@
         "N-953",
         "N-896",
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2274,7 +2326,9 @@
         "N-367",
         "N-159",
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2298,7 +2352,9 @@
         "N-190",
         "N-159",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2328,7 +2384,9 @@
         "N-159",
         "N-504",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2351,7 +2409,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2370,7 +2430,9 @@
       ],
       "claim_timestamp": "00:18:25",
       "investigative_direction": "Tip responses; agency assignment records for Timpanogos on September 10.",
-      "transcript_snippet": "if anybody recognizes or and can ID that police officer that's walking them into Timpanogos who drove them, um please email us at moretips@candaceowens.com."
+      "transcript_snippet": "if anybody recognizes or and can ID that police officer that's walking them into Timpanogos who drove them, um please email us at moretips@candaceowens.com.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2394,7 +2456,9 @@
         "N-953",
         "N-896",
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2415,7 +2479,9 @@
       "transcript_snippet": "And we don't see them arriving at the hospital with Blake, so we can safely assume that they didn't just follow them",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2432,7 +2498,9 @@
       ],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Rental return records and UVU impound or evidence logs.",
-      "transcript_snippet": "Especially since their rental cars are left behind at the UVU scene."
+      "transcript_snippet": "Especially since their rental cars are left behind at the UVU scene.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2456,7 +2524,9 @@
       "mentions_person_refs": [
         "N-896",
         "N-953"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2476,7 +2546,9 @@
       "transcript_snippet": "But Christopher Rhoades, Charlie's driver, will not be wearing scrubs.",
       "mentions_person_refs": [
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2500,7 +2572,9 @@
       "mentions_person_refs": [
         "N-951",
         "N-504"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2521,7 +2595,9 @@
       "transcript_snippet": "were the hospital scrubs actually even given to them by the hospital staff?",
       "mentions_person_refs": [
         "N-11335"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2543,7 +2619,9 @@
         "N-504",
         "N-367",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2564,7 +2642,9 @@
       "mentions_person_refs": [
         "N-951",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2585,7 +2665,9 @@
       "transcript_snippet": "there is another security member by the exact same name that works for the new security team at Turning Point USA, FRG security.",
       "mentions_person_refs": [
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2606,7 +2688,9 @@
       "mentions_person_refs": [
         "N-951",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2710,9 @@
       "transcript_snippet": "that was the very first person that we've ever tried to to identify on the show with so much difficulty.",
       "mentions_person_refs": [
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2733,9 @@
       "mentions_person_refs": [
         "N-951",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2668,7 +2756,9 @@
       "transcript_snippet": "it it sounded like you guys were rushing to the hospital, and I don't think that really was the circumstance. Actually, I I can verify it wasn't the circumstance.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2690,7 +2780,9 @@
       "transcript_snippet": "exactly 1 month ago on September 8th, 2026, Frank Turek published a book appropriately entitled The War on Reality.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2714,7 +2806,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2738,7 +2832,9 @@
         "N-7",
         "N-266",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2763,7 +2859,9 @@
         "N-487",
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2786,7 +2884,9 @@
       "transcript_snippet": "When we get about halfway there, an ambulance is barreling toward us in the opposite direction from the hospital. We debate stopping for half a second, but think better of it and press on.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2810,7 +2910,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2836,7 +2938,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2860,7 +2964,9 @@
         "N-266",
         "N-224",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2883,7 +2989,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2907,7 +3015,9 @@
         "N-266",
         "N-7",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2934,7 +3044,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2957,7 +3069,9 @@
       "transcript_snippet": "We burst into the hospital yelling for help into what felt like an empty emergency room.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2980,7 +3094,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3006,7 +3122,9 @@
       ],
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3027,7 +3145,9 @@
       "transcript_snippet": "it's been alleged that they moved everybody out a couple of hours before for reasons that are not yet clear.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3050,7 +3170,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3074,7 +3196,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3097,7 +3221,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3120,7 +3246,9 @@
         "N-270",
         "N-271",
         "N-58"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3140,7 +3268,9 @@
       "transcript_snippet": "Nobody at the hospital should have known that the shot came from a rooftop that quickly because they were still investigating.",
       "mentions_person_refs": [
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3168,7 +3298,9 @@
         "N-190",
         "N-2",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3191,7 +3323,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3214,7 +3348,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3237,7 +3373,9 @@
         "N-190",
         "N-2",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3257,7 +3395,9 @@
       "transcript_snippet": "According to my timeline, Mikey should not have been there for that announcement.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3276,7 +3416,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3296,7 +3438,9 @@
         "N-2",
         "N-7",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3320,7 +3464,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3340,7 +3486,9 @@
       "transcript_snippet": "We actually received a different tip about that necklace. And I'm told it was a totally different version of events that took place at the hospital.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3365,7 +3513,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3384,7 +3534,9 @@
       ],
       "claim_timestamp": "00:42:00",
       "investigative_direction": "Station 2 shift roster for September 10.",
-      "transcript_snippet": "We are down to two possibilities, but we want an absolute confirmation. You can email us more tips@candaceowens.com."
+      "transcript_snippet": "We are down to two possibilities, but we want an absolute confirmation. You can email us more tips@candaceowens.com.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3411,7 +3563,9 @@
         "N-951",
         "N-896",
         "N-953"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3430,7 +3584,9 @@
       ],
       "claim_timestamp": "00:44:55",
       "investigative_direction": "Campus exit camera footage for the second white vehicle.",
-      "transcript_snippet": "The security vehicle goes around the um little roundabout there, and then seems as if it's heading um the opposite direction."
+      "transcript_snippet": "The security vehicle goes around the um little roundabout there, and then seems as if it's heading um the opposite direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3451,7 +3607,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3473,7 +3631,9 @@
         "N-2",
         "N-10",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3491,7 +3651,9 @@
       "transcript_snippet": "We have more exciting news that we'll update you on in a in a bit",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3509,7 +3671,9 @@
       "transcript_snippet": "I think like already over 2 million people have watched it. It's just been up for 2 days.",
       "mentions_person_refs": [
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3530,7 +3694,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-594"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3553,7 +3719,9 @@
       "transcript_snippet": "I can't I can't believe that we've got people in Latvia that just gave us everything we need to know about this guy.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3573,7 +3741,9 @@
       "transcript_snippet": "Join the decentralized intelligent agency which operates in every country all around the the Probably not in Israel, to be honest.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3593,7 +3763,9 @@
       "transcript_snippet": "I would love to learn a little bit more about Christopher Rhoades and to establish connection.",
       "mentions_person_refs": [
         "N-951"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3614,7 +3786,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

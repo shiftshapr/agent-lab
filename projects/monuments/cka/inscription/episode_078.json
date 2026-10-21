@@ -2224,7 +2224,9 @@
       "investigative_direction": "Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2244,7 +2246,9 @@
       "investigative_direction": "Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2261,7 +2265,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
-      "investigative_direction": "Confirm Corcoran's listing history for 301 East 66th Street and identify the Corcoran president referenced in Epstein files as a Rothschild."
+      "investigative_direction": "Confirm Corcoran's listing history for 301 East 66th Street and identify the Corcoran president referenced in Epstein files as a Rothschild.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2280,7 +2286,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2300,7 +2308,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-580"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2320,7 +2330,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2340,7 +2352,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2359,7 +2373,9 @@
       "investigative_direction": "Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.",
       "mentions_person_refs": [
         "N-583"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2380,7 +2396,9 @@
         "N-583",
         "N-588",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2418,9 @@
       "investigative_direction": "Obtain high-resolution originals; have forensic imaging analysts characterize the scattered material and compare to TPUSA's account of vehicle interior condition.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2441,9 @@
       "investigative_direction": "Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erika Kirk, Frank, and Brian Harpole (as referenced by host).",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2440,7 +2462,9 @@
       "investigative_direction": "Engage forensic video analysts to assess the blood pattern in the displayed footage against expected wound ballistics for a .30-06 round.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2459,7 +2483,9 @@
       "investigative_direction": "Compare video evidence to prior commentary alleging he grabbed an item from the table; verify resolution of that sub-theory.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2479,7 +2505,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2498,7 +2526,9 @@
       "investigative_direction": "Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.",
       "mentions_person_refs": [
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2518,7 +2548,9 @@
       "mentions_person_refs": [
         "N-579",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2539,7 +2571,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2558,7 +2592,9 @@
       "investigative_direction": "Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.",
       "mentions_person_refs": [
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2578,7 +2614,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2597,7 +2635,9 @@
       "investigative_direction": "Identify the individual referred to as \"Dan\" via displayed video and corroborate identity with official event staff rosters.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2618,7 +2658,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2637,7 +2679,9 @@
       "investigative_direction": "Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.",
       "mentions_person_refs": [
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2656,7 +2700,9 @@
       "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.",
       "mentions_person_refs": [
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2675,7 +2721,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2747,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2721,7 +2771,9 @@
       "mentions_person_refs": [
         "N-581",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2743,7 +2795,9 @@
       "transcript_snippet": "the underage girls that he trafficked more than a dozen also cycled between wealthy guests, notable foreign dignitaries, and Epstein staffers.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2765,7 +2819,9 @@
       "transcript_snippet": "It was relatively small and there was Danone yogurt in the fridge and a basket of fruit and cookies on the counter.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2787,7 +2843,9 @@
       "transcript_snippet": "And civil filings allege the condos were used to house young women brought from overseas and provided with living quarters, uh transportation, and other benefits to secure compliance.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2871,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2837,7 +2897,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2923,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2883,7 +2947,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2906,7 +2972,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2928,7 +2996,9 @@
       "mentions_person_refs": [
         "N-579",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3021,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2975,7 +3047,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2998,7 +3072,9 @@
       "mentions_person_refs": [
         "N-584",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3017,7 +3093,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-178"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3036,7 +3114,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-178"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3058,7 +3138,9 @@
         "N-584",
         "N-585",
         "N-586"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3083,7 +3165,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3108,7 +3192,9 @@
         "N-69",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3132,7 +3218,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3152,7 +3240,9 @@
       "transcript_snippet": "And now it seems they're taking it a step further trying to get Erika's Turning Point into high schools all across America. That's been the push. They're even trying to establish something in Ireland.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3178,7 +3268,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3205,7 +3297,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3225,7 +3319,9 @@
       "transcript_snippet": "She's been involved with this orphanage for over a decade. That signals to me that the kids know something about her.",
       "mentions_person_refs": [
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3247,7 +3343,9 @@
       "transcript_snippet": "It was founded by evangelist David Berg, born in California in 1919.",
       "mentions_person_refs": [
         "N-583"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3269,7 +3367,9 @@
       "transcript_snippet": "Berg claimed that he maintained relationships with the entire pantheon of pagan goddesses, including Aphrodite, Diana, the goddesses of Atlantis",
       "mentions_person_refs": [
         "N-583"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3292,7 +3392,9 @@
       "mentions_person_refs": [
         "N-583",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3314,7 +3416,9 @@
       "mentions_person_refs": [
         "N-582",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3337,7 +3441,9 @@
       ],
       "mentions_person_refs": [
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3359,7 +3465,9 @@
       "transcript_snippet": "she says you she defends the cult, cult which was subsequently instructed to disperse and hide themselves in the world of nonprofit, according to the investigative piece.",
       "mentions_person_refs": [
         "N-582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3378,7 +3486,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3400,7 +3510,9 @@
         "N-2",
         "N-211",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3418,7 +3530,9 @@
       "transcript_snippet": "Zionists are in there. They didn't kill him. But they are going to now force people that Charlie didn't like at the helm of this company, right?",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3436,7 +3550,9 @@
       "transcript_snippet": "I believe Charlie's death, the setting of it, everything, was planned down to the T. I believe he was sacrificed. Okay?",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3455,7 +3571,9 @@
       ],
       "claim_timestamp": "00:31:14",
       "investigative_direction": "Find the TPUSA or witness account of the gauze and supplies used in the transport vehicle.",
-      "transcript_snippet": "they had told us the story about how they had so much gauze, and so much and all this stuff."
+      "transcript_snippet": "they had told us the story about how they had so much gauze, and so much and all this stuff.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3474,7 +3592,9 @@
       ],
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Have the photo compared against Instaclot packaging and obtain the original image with metadata.",
-      "transcript_snippet": "that kind of looks like a UPS ticket. Um like a UPS, yeah, I guess you could say a UPS package ticket. What that is is actually Instaclot."
+      "transcript_snippet": "that kind of looks like a UPS ticket. Um like a UPS, yeah, I guess you could say a UPS package ticket. What that is is actually Instaclot.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3493,7 +3613,9 @@
       ],
       "claim_timestamp": "00:32:03",
       "investigative_direction": "Obtain all vehicle interior photos and the inventory of medical supplies used on September 10.",
-      "transcript_snippet": "So, unless he opened one, and then put the rest of the packaging in his bag, which would be unusual, there's only one on the floor there that we could see."
+      "transcript_snippet": "So, unless he opened one, and then put the rest of the packaging in his bag, which would be unusual, there's only one on the floor there that we could see.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3517,7 +3639,9 @@
       ],
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3538,7 +3662,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3559,7 +3685,9 @@
       "transcript_snippet": "And by the way, I think at some point they said they didn't have the footage. They have the footage, okay? This is Terryl was at his office when he showed me this.",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3581,7 +3709,9 @@
       "transcript_snippet": "didn't even cause any sort of a mess. His perfectly white T-shirt was white uh until the moment that he hit the ground.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3603,7 +3733,9 @@
       "transcript_snippet": "the bullet didn't go through. Not only did not go through, didn't even cause any sort of a mess.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3627,7 +3759,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3648,7 +3782,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3672,7 +3808,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3697,7 +3835,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3720,7 +3860,9 @@
       "transcript_snippet": "Jon Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory",
       "mentions_person_refs": [
         "N-681"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3743,7 +3885,9 @@
       "transcript_snippet": "the Rode microphone is what was shattered in the back seat of the car.",
       "mentions_person_refs": [
         "N-681"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3765,7 +3909,9 @@
       "transcript_snippet": "Only, as you can see, on his hand, because blood went forward, is only place that you see any blood drops here.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3787,7 +3933,9 @@
       "transcript_snippet": "There's a book. It looks like maybe Charlie had a notebook.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3804,7 +3952,9 @@
       ],
       "claim_timestamp": "00:40:22",
       "investigative_direction": "Ask for scholarly sources equating these movements and for any case link to the Kirk investigation.",
-      "transcript_snippet": "It's Frankism. It's a Sabbatianism. It's child of God. Uh but really, what is manifesting is the same ideology sort of redressing itself as something else."
+      "transcript_snippet": "It's Frankism. It's a Sabbatianism. It's child of God. Uh but really, what is manifesting is the same ideology sort of redressing itself as something else.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3826,7 +3976,9 @@
         "N-11",
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3845,7 +3997,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3867,7 +4021,9 @@
       "transcript_snippet": "And they're shouting out Thomas Massie as being a rhino because he won't vote for more funding to go to Ukraine and Israel.",
       "mentions_person_refs": [
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3887,7 +4043,9 @@
         "N-244",
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3908,7 +4066,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3931,7 +4091,9 @@
       "transcript_snippet": "students all over the country are revolting in protest of Turning Point and Erika Kirk. They don't want them speaking at their schools, churches, or mandating high school chapters.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3953,7 +4115,9 @@
       "transcript_snippet": "I did see they were protesting that in Arkansas. Good. Okay, they don't need a proclamation from a Huckabee to decide if they want to open a student club.",
       "mentions_person_refs": [
         "N-580"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3970,7 +4134,9 @@
       ],
       "claim_timestamp": "00:50:07",
       "investigative_direction": "Collect examples of TPUSA donor mailings after September 10 and their solicitation frequency.",
-      "transcript_snippet": "I have been donating to Turning Point USA since before Charlie's death, ever since I received letters at least once every couple of weeks asking for more money to help continue Charlie's vision."
+      "transcript_snippet": "I have been donating to Turning Point USA since before Charlie's death, ever since I received letters at least once every couple of weeks asking for more money to help continue Charlie's vision.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3994,7 +4160,9 @@
         "N-33",
         "N-280",
         "N-163"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4013,7 +4181,9 @@
       ],
       "claim_timestamp": "00:52:08",
       "investigative_direction": "Search Army and local news for the Fort Campbell drone theft report and its date.",
-      "transcript_snippet": "four drones were stolen from Fort Campbell, first reported 20 hours ago."
+      "transcript_snippet": "four drones were stolen from Fort Campbell, first reported 20 hours ago.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4032,7 +4202,9 @@
       ],
       "claim_timestamp": "00:52:08",
       "investigative_direction": "Wait for any Army CID or base statement on the theft and recovery; no evidence is offered for the host's guess.",
-      "transcript_snippet": "The four drones were not stolen from a military base. They were given um, to someone from somebody on the military base and it's probably Israel."
+      "transcript_snippet": "The four drones were not stolen from a military base. They were given um, to someone from somebody on the military base and it's probably Israel.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4053,7 +4225,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4074,7 +4248,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4095,7 +4271,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-590"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4115,7 +4293,9 @@
       "transcript_snippet": "I know that he has spoken up and said that some of the things make entirely no sense.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4133,7 +4313,9 @@
       "transcript_snippet": "the reasonable position to have is that they are lying to us about everything, uh, which implies that this was a deep state assassination",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4151,7 +4333,9 @@
       "transcript_snippet": "the likes of which have not been seen since the assassination of JFK, which also involved Israel.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4172,7 +4356,9 @@
       "transcript_snippet": "Jon Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.",
       "mentions_person_refs": [
         "N-681"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4198,7 +4384,9 @@
         "N-460",
         "N-681",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4218,7 +4406,9 @@
       "transcript_snippet": "I saw her give an interview where she said that it was because her first husband cheated on her a lot with like sex workers and that made her want to understand the sex workers.",
       "mentions_person_refs": [
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4238,7 +4428,9 @@
       "transcript_snippet": "the Buckman family with factories, not that specific one that blew up, but factories in Tennessee for sure",
       "mentions_person_refs": [
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4259,7 +4451,9 @@
       "transcript_snippet": "please email us more tips at candaceowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4283,7 +4477,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4301,7 +4497,9 @@
       "transcript_snippet": "Look up old Vienna, uh, Sigmund Freud and his boys and what they were doing to kids there and then just in time, world war.",
       "mentions_person_refs": [
         "N-50"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4325,7 +4523,9 @@
       "mentions_person_refs": [
         "N-377",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4350,7 +4550,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4369,7 +4571,9 @@
       "mentions_person_refs": [
         "N-178",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

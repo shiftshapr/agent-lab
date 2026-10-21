@@ -1963,6 +1963,8 @@ Anchored Artifacts:
 Mentions: N-3, N-5
 Related Nodes: N-11062
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-8717
 Investigative Direction: Compare casualty counts and US statements on the Minab school strike with the host's figure.
 
 ---
@@ -2044,6 +2046,8 @@ Mentions: N-36, N-3
 Related Nodes: N-10499
 Supports: C-7118
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-7230
 Investigative Direction: Obtain proof-of-life reporting and Israeli government statements on his whereabouts.
 
 ---

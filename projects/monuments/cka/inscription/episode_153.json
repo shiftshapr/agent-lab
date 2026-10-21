@@ -1548,7 +1548,9 @@
         "N-1",
         "N-271",
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1567,7 +1569,9 @@
       "investigative_direction": "Cross-reference UVU board minutes and the AP wire story against UVU press releases from September 22, 2025.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1586,7 +1590,9 @@
       "investigative_direction": "Retrieve Tuminez's original emailed statement to confirm exact wording.",
       "mentions_person_refs": [
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1604,7 +1610,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1621,7 +1629,9 @@
       "investigative_direction": "Compare against TPUSA's security manifest and the eventual independent review findings.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1642,7 +1652,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1662,7 +1674,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1684,7 +1698,9 @@
         "N-270",
         "N-271",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1716,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
-      "investigative_direction": "Cross-reference UVU PD staffing logs from September 10, 2025."
+      "investigative_direction": "Cross-reference UVU PD staffing logs from September 10, 2025.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1716,7 +1734,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
-      "investigative_direction": "Compare against UVU venue capacity records, ticketing data, and aerial footage crowd estimates."
+      "investigative_direction": "Compare against UVU venue capacity records, ticketing data, and aerial footage crowd estimates.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1736,7 +1756,9 @@
       "mentions_person_refs": [
         "N-271",
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1752,7 +1774,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
-      "investigative_direction": "Retrieve Tuminez's contemporaneous internal communications and PD shift logs."
+      "investigative_direction": "Retrieve Tuminez's contemporaneous internal communications and PD shift logs.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1772,7 +1796,9 @@
       "investigative_direction": "Confirm Scripps News publication date and Tyler Robinson's public identification date.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1792,7 +1818,9 @@
       "investigative_direction": "Verify the timestamp metadata on the released footage.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1812,7 +1840,9 @@
       "investigative_direction": "Retrieve Scripps News editorial sourcing notes and FOIAA / records-request logs.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1831,7 +1861,9 @@
       "investigative_direction": "Confirm corporate registration records for Scripps News and Newsy's corporate history.",
       "mentions_person_refs": [
         "N-946"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1882,9 @@
       "investigative_direction": "Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.",
       "mentions_person_refs": [
         "N-946"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1867,7 +1901,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
-      "investigative_direction": "Confirm agency identification via officer's uniform markings and incident report cross-reference."
+      "investigative_direction": "Confirm agency identification via officer's uniform markings and incident report cross-reference.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1886,7 +1922,9 @@
       "investigative_direction": "Cross-reference against birth records / official DOB.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1900,7 +1938,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
-      "investigative_direction": "Verify against UVU's official enrollment figures."
+      "investigative_direction": "Verify against UVU's official enrollment figures.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1954,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
-      "investigative_direction": "Verify against UVU PD staffing rosters and Utah public-safety salary records."
+      "investigative_direction": "Verify against UVU PD staffing rosters and Utah public-safety salary records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1932,7 +1974,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1946,7 +1990,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:26",
-      "investigative_direction": "Review UVU EMS bodycam footage and any contemporaneous dispatch logs."
+      "investigative_direction": "Review UVU EMS bodycam footage and any contemporaneous dispatch logs.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1963,7 +2009,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:24",
-      "investigative_direction": "Monitor UVU press releases and the Utah Attorney General's office."
+      "investigative_direction": "Monitor UVU press releases and the Utah Attorney General's office.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1978,7 +2026,9 @@
       "investigative_direction": "Compare against UVU PD visitor logs and hotel / travel records of the security detail.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1994,7 +2044,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:37",
-      "investigative_direction": "Compare allegation text against UVU's pre-event security plan submission (if any)."
+      "investigative_direction": "Compare allegation text against UVU's pre-event security plan submission (if any).",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2010,7 +2062,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:33",
-      "investigative_direction": "Verify ticket-sales authority and UVU event-permit conditions."
+      "investigative_direction": "Verify ticket-sales authority and UVU event-permit conditions.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2086,9 @@
       ],
       "contradicts_claim_refs": [
         "C-13293"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2053,7 +2109,9 @@
       "transcript_snippet": "there is basically wall-to-wall coverage regarding a pending wrongful death lawsuit that the Kirk family intends to file against the state of Utah, among others.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2076,7 +2134,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2098,7 +2158,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2119,7 +2181,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2140,7 +2204,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2230,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2189,7 +2257,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2213,7 +2283,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2237,7 +2309,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2258,7 +2332,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-10000"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2276,7 +2352,9 @@
       "transcript_snippet": "So, you might say, as I did at a recent event, we want bomb dogs.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2297,7 +2375,9 @@
       "transcript_snippet": "And then the local police will then come back at you with potential limitations.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2320,7 +2400,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2343,7 +2425,9 @@
       "transcript_snippet": "So, they tell us that in 2025, Turning Point USA planned its largest ever campus tour.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2367,7 +2451,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2391,7 +2477,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2417,7 +2505,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2441,7 +2531,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2559,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2491,7 +2585,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2514,7 +2610,9 @@
       "transcript_snippet": "They're not like they're not suggesting they didn't request it.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2538,7 +2636,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2562,7 +2662,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2587,7 +2689,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2614,7 +2718,9 @@
         "N-3",
         "N-271",
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2641,7 +2747,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2661,7 +2769,9 @@
       "transcript_snippet": "based on the crowd that we saw, those weren't even students that were at the event. There were so many adults.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2683,7 +2793,9 @@
       "transcript_snippet": "there were no first responders made available because that's just not true.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2708,7 +2820,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2729,7 +2843,9 @@
       "transcript_snippet": "Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2755,7 +2871,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2785,7 +2903,9 @@
         "N-224",
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2933,9 @@
         "N-3",
         "N-270",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2841,7 +2963,9 @@
         "N-3",
         "N-266",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2869,7 +2993,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2896,7 +3022,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2926,7 +3054,9 @@
         "N-506",
         "N-271",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3081,9 @@
         "N-3",
         "N-1",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2973,7 +3105,9 @@
       "transcript_snippet": "We know Richard Bracie was up there on the rooftop.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3000,7 +3134,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3024,7 +3160,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3050,7 +3188,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3071,7 +3211,9 @@
       "transcript_snippet": "Maybe we get some answers to the questions of why there was no ambulance on standby.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3090,7 +3232,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-420"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3112,7 +3256,9 @@
         "N-3",
         "N-270",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3280,9 @@
         "N-3",
         "N-40",
         "N-945"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3157,7 +3305,9 @@
         "N-3",
         "N-40",
         "N-945"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3184,7 +3334,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3204,7 +3356,9 @@
       "transcript_snippet": "So, state by state, there exists laws that govern when body cam footage is to be automatically deleted.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3223,7 +3377,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3244,7 +3400,9 @@
       "transcript_snippet": "That body cam duration for routine footage that does not involve either an arrest, a citation, a use of force, or a citizen complaint is usually and typically automatically purged from their system between 60 and 90 days.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3268,7 +3426,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3291,7 +3451,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3313,7 +3475,9 @@
       "transcript_snippet": "There was no ambulance. There was no paramedics. Nobody was pretending to be hurt.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3336,7 +3500,9 @@
       "transcript_snippet": "So I found myself going, who ordered the footage and held on to it for 3 years?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3360,7 +3526,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3382,7 +3550,9 @@
       "transcript_snippet": "Like I said, both drivers were cooperative. There was no subsequent lawsuit or fight.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3405,7 +3575,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3432,7 +3604,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3453,7 +3627,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3476,7 +3652,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3505,7 +3683,9 @@
         "N-3",
         "N-946",
         "N-460"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3527,7 +3707,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3549,7 +3731,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3573,7 +3757,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3596,7 +3782,9 @@
       "transcript_snippet": "More tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3619,7 +3807,9 @@
       "transcript_snippet": "More tips at canowens. com or you can email us at tips@canowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3641,7 +3831,9 @@
         "N-3",
         "N-125",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3661,7 +3853,9 @@
         "N-3",
         "N-832",
         "N-833"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3679,7 +3873,9 @@
       "transcript_snippet": "They just like human sacrifice. They love they have this blood lust. They love killing children.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3702,7 +3898,9 @@
         "N-3",
         "N-154",
         "N-155"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3726,7 +3924,9 @@
         "N-154",
         "N-155",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3752,7 +3952,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3773,7 +3975,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3794,7 +3998,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3816,7 +4022,9 @@
         "N-3",
         "N-330",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3836,7 +4044,9 @@
       "transcript_snippet": "We are just got a few more weeks here until this baby comes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3855,7 +4065,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-203"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3875,7 +4087,9 @@
         "N-3",
         "N-330",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3893,7 +4107,9 @@
       "transcript_snippet": "there has been a lot of satanic abuse claims full stop in Utah outside of David Ov. a steep history of those sorts of things",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3921,7 +4137,9 @@
         "N-2",
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3943,7 +4161,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3964,7 +4184,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-49"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3984,7 +4206,9 @@
         "N-3",
         "N-947",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

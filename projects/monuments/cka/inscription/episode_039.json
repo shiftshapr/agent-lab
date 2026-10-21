@@ -1960,7 +1960,9 @@
       "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.",
       "mentions_person_refs": [
         "N-292"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1980,7 +1982,9 @@
       "mentions_person_refs": [
         "N-292",
         "N-300"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2000,7 +2004,9 @@
       "mentions_person_refs": [
         "N-292",
         "N-293"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2025,9 @@
       "investigative_direction": "Obtain the plea agreement and original charging documents.",
       "mentions_person_refs": [
         "N-292"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2039,7 +2047,9 @@
       "mentions_person_refs": [
         "N-294",
         "N-299"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2070,9 @@
         "N-295",
         "N-296",
         "N-294"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2077,7 +2089,9 @@
       "investigative_direction": "Obtain the original text record or phone screenshot for verification of exact wording.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2095,7 +2109,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2114,7 +2130,9 @@
         "N-3",
         "N-82",
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2131,7 +2149,9 @@
       "investigative_direction": "No investigative direction; capture as audience signal.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2168,9 @@
       "investigative_direction": "Confirm live Amazon listing and stock status.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2169,7 +2191,9 @@
       "mentions_person_refs": [
         "N-15",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2186,7 +2210,9 @@
       "tags": [],
       "claim_timestamp": "00:30:22",
       "investigative_direction": "Obtain the underlying communications with the named TPUSA sources.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2229,11 @@
       "tags": [],
       "claim_timestamp": "00:30:35",
       "investigative_direction": "Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-4550"
+      ]
     },
     {
       "@type": "Claim",
@@ -2222,7 +2252,9 @@
       "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2270,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:19",
-      "investigative_direction": "Identify the federal source and corroborate with any contemporaneous communications."
+      "investigative_direction": "Identify the federal source and corroborate with any contemporaneous communications.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2294,9 @@
         "N-14",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2277,7 +2313,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2298,7 +2336,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-291"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2318,7 +2358,9 @@
       "transcript_snippet": "You Americans know nothing of your own history. Your country was founded by Freemasons.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2338,7 +2380,9 @@
       "transcript_snippet": "Freemasons who caused all of those revolutions against really the Christian Empire across Europe.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2360,7 +2404,9 @@
       "transcript_snippet": "was asserting that the FBI had these offices, these kind of hidden offices, maybe kind of in buildings that appeared to be in part controlled by French American families",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2381,7 +2427,9 @@
       "transcript_snippet": "people in Wilmington saying, uh, yeah, no, they own kind of everything, like everything, hospitals, schools, buildings, you name it, it is theirs.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2448,9 @@
       "mentions_person_refs": [
         "N-876",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2423,7 +2473,9 @@
       "mentions_person_refs": [
         "N-292",
         "N-300"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2497,9 @@
       "transcript_snippet": "Richards, who is unemployed and supported by a trust fund, owns a 5800 ft mansion in Greenville that he bought for $1.8 million in 2005.",
       "mentions_person_refs": [
         "N-292"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2468,7 +2522,9 @@
       "mentions_person_refs": [
         "N-292",
         "N-293"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2489,7 +2545,9 @@
       "transcript_snippet": "Hey Candace, is that the law firm that's filing the paperwork for you? And the answer to that is yes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2513,7 +2571,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-293"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2533,7 +2593,9 @@
       "transcript_snippet": "that is what they specialize in, chemicals, chemicals that are used in war.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2555,7 +2617,9 @@
       "transcript_snippet": "was instead released on a $60,000 bail and eventually cpped a plea deal that involved him admitting that he had abused his children",
       "mentions_person_refs": [
         "N-292"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2576,7 +2640,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2597,7 +2663,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2623,7 +2691,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2717,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2670,7 +2742,9 @@
       "transcript_snippet": "this red crane at 1100 North King Street and that's BRC Bridge complex which is supposed to house Insight headquarters and they've got a French CEO.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2691,7 +2765,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2789,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2810,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2752,7 +2832,9 @@
         "N-3",
         "N-1",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2855,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2794,7 +2878,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2816,7 +2902,9 @@
       "transcript_snippet": "We learn about this French and Israeli uh ACE Partners being the second largest shareholder of Satys.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2840,7 +2928,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2859,7 +2949,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2886,7 +2978,9 @@
         "N-22",
         "N-9",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2913,7 +3007,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2939,7 +3035,9 @@
       ],
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2964,7 +3062,9 @@
       ],
       "mentions_person_refs": [
         "N-279"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2990,7 +3090,9 @@
       ],
       "mentions_person_refs": [
         "N-10259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3015,7 +3117,9 @@
         "N-1",
         "N-190",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3037,7 +3141,9 @@
       "transcript_snippet": "Yrefy comes in as the number one sponsor of the Charlie Kirk fall tour.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3059,7 +3165,9 @@
       "transcript_snippet": "they are planning them at least a semester ahead and then it was like mass panic.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3079,7 +3187,9 @@
         "N-228",
         "N-227",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3103,7 +3213,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3125,7 +3237,9 @@
       "transcript_snippet": "August 2nd is when we have our French legionnaires arriving in America for a 3-week training session in California which is going to end on the 25th.",
       "supports_claim_refs": [
         "C-3352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3150,7 +3264,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3288,9 @@
       "transcript_snippet": "And we know that the influencers were paid for by Bill Ackman, but I don't think that that's particularly a big deal.",
       "mentions_person_refs": [
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3199,7 +3317,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3226,7 +3346,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3252,7 +3374,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3274,7 +3398,9 @@
       "transcript_snippet": "We have our yellow planes then returning on the 24th again always through Wilmington to Egypt.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3297,7 +3423,9 @@
       "transcript_snippet": "operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.",
       "mentions_person_refs": [
         "N-10262"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3320,7 +3448,9 @@
       "transcript_snippet": "TPUSA, UVU, and a local BYU chapter share a graphic announcing that Charlie is coming to UVU, but there are no location details mentioned on that graphic.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3342,7 +3472,9 @@
       "transcript_snippet": "On the 29th, we have Operation Brightar, which commences that joint operation that we told you about",
       "supports_claim_refs": [
         "C-3354"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3370,7 +3502,9 @@
         "N-1",
         "N-15",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3392,7 +3526,9 @@
       "transcript_snippet": "we have the first known public going out in local media that Charlie's coming to town and that it is going to take place in the courtyard.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3414,7 +3550,9 @@
       "transcript_snippet": "Charlie is in Korea for a couple of days. He comes back on September 10th and he gets assassinated.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3439,7 +3577,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3464,7 +3604,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3482,7 +3624,9 @@
       "transcript_snippet": "we had so many people from Turning Point USA that were just venting in our tip box and telling us that they didn't like the way management was acting and things were weird.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3505,7 +3649,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3525,7 +3671,9 @@
       "transcript_snippet": "or like the $90 million that Turning Point USA raised in the first couple of weeks following Charlie's assassination.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3543,7 +3691,9 @@
       ],
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Interview donations staff and the host's sources about who knew of the arrangement.",
-      "transcript_snippet": "just a handful of people were allowed to even know about this that this was happening."
+      "transcript_snippet": "just a handful of people were allowed to even know about this that this was happening.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3564,7 +3714,9 @@
       "transcript_snippet": "people began to find out about this because of just an unfortunate conversation that had been left unattended to.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3584,7 +3736,9 @@
       "transcript_snippet": "this happened so early following the assassination. I am talking before I even went to Wyoming.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3610,7 +3764,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3630,7 +3786,9 @@
       "transcript_snippet": "Obviously, it wouldn't be on this year's taxes. You're not going to find those on on this year's taxes, but they would be on next year's, but we can ask now.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3649,7 +3807,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3668,7 +3828,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3691,7 +3853,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3712,7 +3876,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3734,7 +3900,9 @@
       "transcript_snippet": "the United States and France were carrying out a series of military strikes involving an aircraft and these ship-based missiles against multimate multiple government sites in Syria.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3753,7 +3921,9 @@
       ],
       "claim_timestamp": "00:43:32",
       "investigative_direction": "Compare the OPCW investigation of the Douma incident with the host's account; this is the host's belief, not a documented finding.",
-      "transcript_snippet": "if Assad was telling the truth, and I believe he was, because I think there is a war on Christians that's happening, then the West and the United States were implicated in part by a false flag attack"
+      "transcript_snippet": "if Assad was telling the truth, and I believe he was, because I think there is a war on Christians that's happening, then the West and the United States were implicated in part by a false flag attack",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3772,7 +3942,9 @@
       ],
       "claim_timestamp": "00:43:56",
       "investigative_direction": "Check French presidency and foreign ministry statements of April 14, 2018.",
-      "transcript_snippet": "France had said in a statement on that morning on April 14th that France's red line had been crossed."
+      "transcript_snippet": "France had said in a statement on that morning on April 14th that France's red line had been crossed.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3794,7 +3966,9 @@
       "transcript_snippet": "This is not the thing that's coming, but this is a preview of the thing that's coming.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3813,7 +3987,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3831,7 +4007,9 @@
       "transcript_snippet": "I was having uh this dreams and visions about bees and organization that was happening in America.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3849,7 +4027,9 @@
       "transcript_snippet": "these inexplicable events like the Malibu fires, these sort of coastal events, uh the Texas floods, that this is not happening by accident.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3867,7 +4047,9 @@
       "transcript_snippet": "I feel that we are headed toward war. That they want war by any means necessary",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3889,7 +4071,9 @@
         "N-11",
         "N-297",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3911,7 +4095,9 @@
         "N-1",
         "N-7",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3929,7 +4115,9 @@
       "transcript_snippet": "I think these bullshiks are here in America.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3947,7 +4135,9 @@
       "transcript_snippet": "And they are Bolsheviks and they believe uh murder is their right.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3966,7 +4156,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3988,7 +4180,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4008,7 +4202,9 @@
       "transcript_snippet": "I think the federal government is trying to bankrupt me a thousand different ways.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4026,7 +4222,9 @@
       "transcript_snippet": "maybe Turning Point will have some very clear answers. They haven't given us any thus far.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4045,7 +4243,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4065,7 +4265,9 @@
       "transcript_snippet": "I voted for my taxpayer funds to go from the CIA towards the Canada's Intelligence Agency for all of her investigative work",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4085,7 +4287,9 @@
       "transcript_snippet": "there are some good feds. There is an underground movement that is happening",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

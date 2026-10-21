@@ -2075,7 +2075,9 @@
       "mentions_person_refs": [
         "N-83",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2099,7 +2101,9 @@
       "mentions_person_refs": [
         "N-83",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2120,7 +2124,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2148,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2175,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2188,7 +2198,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2212,7 +2224,9 @@
         "N-84",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2234,7 +2248,9 @@
         "N-37",
         "N-57",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2276,9 @@
       "uncertainty_note": "The transcript does not mark speaker turns and the guest is not named in this clip; the attribution rests on the guest's third-person reference to Ackman.",
       "contradicts_claim_refs": [
         "C-531"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2288,7 +2306,9 @@
         "N-3",
         "N-57",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2331,9 @@
         "N-85",
         "N-86",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2333,7 +2355,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-87"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2377,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-87"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2375,7 +2401,9 @@
       "claim_timestamp": "00:17:47",
       "investigative_direction": "Verify public statements and contracts from each named agency regarding valve/SCADA monitoring.",
       "transcript_snippet": "intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2395,7 +2423,9 @@
       "claim_timestamp": "00:18:34",
       "investigative_direction": "Verify company registration, address, and project portfolio via Utah business filings and the company website.",
       "transcript_snippet": "companies like Caldera Engineering in Provo, Utah manufacture specialized industrial valves and control systems",
-      "confidence": "medium"
+      "confidence": "medium",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2417,7 +2447,9 @@
       "uncertainty_note": "Connection is host's claim based on visible photos; not independently artifact-anchored in this episode.",
       "mentions_person_refs": [
         "N-84"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2441,7 +2473,9 @@
       "mentions_person_refs": [
         "N-92",
         "N-87"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2496,9 @@
         "N-90",
         "N-91",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2484,7 +2520,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2512,7 +2550,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2537,7 +2577,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2602,9 @@
         "N-40",
         "N-54",
         "N-88"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2579,7 +2623,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2599,7 +2645,9 @@
       "uncertainty_note": "Claim referenced as a findable clip but not shown in this episode.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2616,7 +2664,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2636,7 +2686,9 @@
       "uncertainty_note": "Pattern invoked implicitly; explicit 'conspiracy theorist' label not directly stated.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2659,7 +2711,9 @@
         "N-3",
         "N-1",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2687,7 +2741,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2711,7 +2767,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2735,7 +2793,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2760,7 +2820,9 @@
         "N-3",
         "N-1",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2785,7 +2847,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2810,7 +2874,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2830,7 +2896,9 @@
       "transcript_snippet": "Most people that certainly uh have the credibility are ballistics experts that are saying that what we see in the front is an exit wound,",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2850,7 +2918,9 @@
       "transcript_snippet": "I'm getting inundated with messages from people that hunt, people that are in the military saying that this had to come have come from another direction.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +2948,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2904,7 +2976,9 @@
         "N-2",
         "N-1",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2928,7 +3002,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-83"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3027,9 @@
       "transcript_snippet": "but like I thought the feds were saying they were looking for a bullet at some point,",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2975,7 +3053,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2996,7 +3076,9 @@
       "transcript_snippet": "I know some of you guys were uh insinuating. I got a lot of emails that it could have been a flechette.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3021,7 +3103,9 @@
         "N-3",
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3047,7 +3131,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3071,7 +3157,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3096,7 +3184,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-80"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3117,7 +3207,9 @@
       "transcript_snippet": "likely the CIA, those of you who have worked at those industries, telling me that there are even certain valves that are exclusively uh manufactured in Israel uh and that they tend to be involved in this.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3138,7 +3230,9 @@
       "transcript_snippet": "even by the way on Calira's website they noted that they have worked in Israel they have a map that they that they note every country that they have done engineering projects in",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3165,7 +3259,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3187,7 +3283,9 @@
       "transcript_snippet": "All of them were asking specifically for me to confirm that I was going.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3214,7 +3312,9 @@
         "N-14",
         "N-37",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3247,7 +3347,9 @@
         "N-3",
         "N-57",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3275,7 +3377,9 @@
         "N-3",
         "N-1",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3302,7 +3406,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3438,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3354,7 +3462,9 @@
       "transcript_snippet": "uh, which the feds are organizing, is probably a very good idea. I'm good.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3374,7 +3484,9 @@
       "transcript_snippet": "but it was kind of me saying, especially since three months earlier, I had gotten fired from the Daily Wire.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3509,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3421,7 +3535,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3445,7 +3561,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3467,7 +3585,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3490,7 +3610,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3517,7 +3639,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3541,7 +3665,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3562,7 +3688,9 @@
       "transcript_snippet": "the financial apparatus at Turning Point. There was definitely some weird activity leading up to this moment happening at the organization.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3583,7 +3711,9 @@
       "transcript_snippet": "And I've been able to verify it. I have been given names and I intend to now embark on this lengthier investigation which I need more help on.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3603,7 +3733,9 @@
       "transcript_snippet": "I've reached out to some journalists. I'm sharing the information with them.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3632,7 +3764,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3653,7 +3787,9 @@
       "transcript_snippet": "Turning Point had some big changes, some odd changes as they are describing it to me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3677,7 +3813,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3699,7 +3837,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3721,7 +3861,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3746,7 +3888,9 @@
         "N-3",
         "N-87",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3769,7 +3913,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-87"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3791,7 +3937,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-87"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3813,7 +3961,9 @@
         "N-3",
         "N-87",
         "N-930"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3834,7 +3984,9 @@
       "transcript_snippet": "Tik Tok, by the way, did you guys see this? Um, Israel's pretty much taking over Tik Tok.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3855,7 +4007,9 @@
       "transcript_snippet": "No, Tik Tok was going pro Palestine and a bunch of hedge fun hedge fund people who are pro-Israel got involved.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3883,7 +4037,9 @@
         "N-3",
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3905,7 +4061,9 @@
       "transcript_snippet": "Um you are correct. That's when that movie came out and that's when they were scheduled to remove those ads.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3927,7 +4085,9 @@
       "transcript_snippet": "uh July, just so you guys understand, there is not a place in the world that would have the bandwidth to keep 24-hour footage inside of their restaurant dating back months.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3953,7 +4113,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3976,7 +4138,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3997,7 +4161,9 @@
       "transcript_snippet": "some programs that they had been running, that there's a pipeline from people at UVU to people that go and work for the CIA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4017,7 +4183,9 @@
       "transcript_snippet": "any photos, you know where to send them. Candace, I mean, that's not right.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4046,7 +4214,9 @@
         "N-3",
         "N-14",
         "N-57"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

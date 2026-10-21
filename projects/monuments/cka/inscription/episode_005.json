@@ -1948,6 +1948,11 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-40"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-4526",
+        "C-4530"
       ]
     },
     {
@@ -1969,7 +1974,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1990,7 +1997,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2020,9 @@
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.",
       "transcript_snippet": "TMZ is the first on September 10th. That tells us that there is doorbell cam footage.",
-      "confidence": "high"
+      "confidence": "high",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2033,7 +2044,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-74"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2059,7 +2072,9 @@
         "N-76",
         "N-77",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2082,7 +2097,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2110,7 +2127,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2136,7 +2155,9 @@
         "N-3",
         "N-37",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2184,9 @@
         "N-37",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2188,7 +2211,9 @@
       "uncertainty_note": "Listing reported via viewer tip; Amazon statement via producer note.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2210,7 +2235,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2231,7 +2258,9 @@
       "uncertainty_note": "Single anonymous local source relayed by host.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,7 +2281,9 @@
       "confidence": "low",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2271,7 +2302,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-74"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2294,7 +2327,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2316,7 +2351,9 @@
         "N-3",
         "N-5",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2336,7 +2373,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2359,7 +2398,9 @@
         "N-73",
         "N-78",
         "N-79"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2427,9 @@
         "N-1",
         "N-3",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2446,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2422,7 +2467,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2441,7 +2488,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-80"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2465,7 +2514,9 @@
         "N-36",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2486,7 +2537,9 @@
       "mentions_person_refs": [
         "N-37",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2512,7 +2565,9 @@
         "N-3",
         "N-72",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2535,7 +2590,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2555,7 +2612,9 @@
       "transcript_snippet": "There's no images that we can see that have been released of his Dodge Challenger that's supposed to be idling nearby the campus for a very long time,",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2576,7 +2635,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2601,7 +2662,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2622,7 +2685,9 @@
       "transcript_snippet": "I think someone actually in Congress had to fight to get any footage released.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2712,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2740,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2696,7 +2765,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2791,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2741,7 +2814,9 @@
       "transcript_snippet": "Source tells me that they saw him dropping well near the Dairy Queen that there's a cemetery and he was dropping clothes into that cemetery.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2767,7 +2842,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2787,7 +2864,9 @@
       "transcript_snippet": "the mainstream media has been controlled by the CIA since Operation Mockingbird.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2808,7 +2887,9 @@
       ],
       "claim_timestamp": "00:14:12",
       "investigative_direction": "Locate the camera position and mounting height at the house and compare it with the TMZ frame.",
-      "transcript_snippet": "immediately actually I was wondering why were we ever told that it was doorbell cam footage."
+      "transcript_snippet": "immediately actually I was wondering why were we ever told that it was doorbell cam footage.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2832,7 +2913,9 @@
       "transcript_snippet": "So TMZ had already publicized that footage and so that strikes me as a little odd.",
       "mentions_person_refs": [
         "N-73"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2938,9 @@
       "transcript_snippet": "But Irwin is saying that he lives in that house, but actually we found some other steels that live in that house.",
       "mentions_person_refs": [
         "N-73"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2876,7 +2961,9 @@
       "transcript_snippet": "a place that makes uh called Caldera Engineering. It's a company called Caldera Engineering and ostensibly they manufacture valves.",
       "mentions_person_refs": [
         "N-73"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2898,7 +2985,9 @@
       "transcript_snippet": "a local source told me that virtually everyone on that block works for that company.",
       "mentions_person_refs": [
         "N-73"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2923,7 +3012,9 @@
         "N-74",
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2945,7 +3036,9 @@
       "transcript_snippet": "for some reason, the BBC is not publishing this video, a loud voice, which she said belongs to the authorities,",
       "mentions_person_refs": [
         "N-74"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2969,7 +3062,9 @@
       "mentions_person_refs": [
         "N-74",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2992,7 +3087,9 @@
       "mentions_person_refs": [
         "N-54",
         "N-74"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3014,7 +3111,9 @@
       "transcript_snippet": "We do know according uh to the indictment that there were children that witnessed that were there uh for the shooting.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3036,7 +3135,9 @@
       "transcript_snippet": "I can tell you the family is very heavily involved in politics.",
       "mentions_person_refs": [
         "N-75"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3059,7 +3160,9 @@
       "mentions_person_refs": [
         "N-75",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3081,7 +3184,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3101,7 +3206,9 @@
       "transcript_snippet": "I don't know how they can tell you it's not yours anymore since uh don't forget Governor Cox said it's all wrapped up.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3123,7 +3230,9 @@
       "transcript_snippet": "So, um yeah, if you know anything, please email tips@candice. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3146,7 +3255,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3169,7 +3280,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3189,7 +3302,9 @@
       "transcript_snippet": "I they are all paring the same talking points. They're clearly collaborating. I can tell you it's a Zionist attack.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3209,7 +3324,9 @@
       "transcript_snippet": "That Zionists control a lot of publications in America. That is just a reality.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3234,7 +3351,9 @@
         "N-22",
         "N-46",
         "N-39"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3261,7 +3380,9 @@
         "N-36",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3288,7 +3409,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3312,7 +3435,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3339,7 +3464,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3362,7 +3489,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3389,7 +3518,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3412,7 +3543,9 @@
       "transcript_snippet": "Now, some are peddling these disgusting rumors, perhaps out of obsession, perhaps with Qatari funding.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3435,7 +3568,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3459,7 +3594,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3481,7 +3618,9 @@
         "N-50",
         "N-81",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3508,7 +3647,9 @@
         "N-36",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3535,7 +3676,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3560,7 +3703,9 @@
         "N-1",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3582,7 +3727,9 @@
       "mentions_person_refs": [
         "N-37",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3607,7 +3754,9 @@
         "N-3",
         "N-37",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3633,7 +3782,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3658,7 +3809,9 @@
         "N-3",
         "N-1",
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3682,7 +3835,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3705,7 +3860,9 @@
       "transcript_snippet": "You're on the board of Turning Point. >> Yeah. >> Okay.",
       "mentions_person_refs": [
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3728,7 +3885,9 @@
       "mentions_person_refs": [
         "N-72",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3755,7 +3914,9 @@
       "mentions_person_refs": [
         "N-72",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3782,7 +3943,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3804,7 +3967,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3829,7 +3994,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3849,7 +4016,9 @@
       "transcript_snippet": "I I I literally I'm banned from Australia because I stood up to Zionist.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3871,7 +4040,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3889,7 +4060,9 @@
       "transcript_snippet": "Tell them whatever you need them to tell them. And I'm going to focus on trying to rebuild my life because they also had me canceled from YouTube.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3915,7 +4088,9 @@
         "N-22",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3941,7 +4116,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3965,7 +4142,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3989,7 +4168,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4010,7 +4191,9 @@
       "transcript_snippet": "And that started in real earnest, I can tell you, in Q4 of last year.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4031,7 +4214,9 @@
       "transcript_snippet": "It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4054,7 +4239,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4080,7 +4267,9 @@
       ],
       "mentions_person_refs": [
         "N-72"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4106,7 +4295,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4131,7 +4322,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4152,7 +4345,9 @@
       "transcript_snippet": "Nope. Just donors. And the donors at Turning Point need to be investigated because what I'm hearing,",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4173,7 +4368,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4194,7 +4391,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4215,7 +4414,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4233,7 +4434,9 @@
       "transcript_snippet": "The dad MAGA. He's been more MAGA than ever. Some one of the commenters pointed out,",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4255,7 +4458,9 @@
         "N-3",
         "N-5",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4279,7 +4484,9 @@
       ],
       "mentions_person_refs": [
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4300,7 +4507,9 @@
       "transcript_snippet": "in large part, from what I understand, being controlled by the White House.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4321,7 +4530,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4340,7 +4551,9 @@
       "mentions_person_refs": [
         "N-43",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4358,7 +4571,9 @@
       "transcript_snippet": "I've never had donations this big on YouTube and I just want to thank all of you guys for that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4383,7 +4598,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4406,7 +4623,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

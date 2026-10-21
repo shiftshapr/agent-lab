@@ -1892,7 +1892,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:05:52",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1907,7 +1909,9 @@
       "tags": [],
       "claim_timestamp": "00:05:52",
       "investigative_direction": "Cross-check statement against dismissed-employee reporting and prior production staffing rosters.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1922,7 +1926,9 @@
       "tags": [],
       "claim_timestamp": "00:05:52",
       "investigative_direction": "Verify against LinkedIn/public hiring records and any DC bureau disclosures.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1939,7 +1945,9 @@
       "investigative_direction": "Verify via third-party YouTube analytics services (e.g., Social Blade).",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1954,7 +1962,9 @@
       "tags": [],
       "claim_timestamp": "00:11:55",
       "investigative_direction": "Independently query LayoffHedge.com archive and corroborate with WARN Act filings in Tennessee.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1971,7 +1981,9 @@
       "investigative_direction": "Cross-check via YouTube studio public metrics.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1988,7 +2000,9 @@
       "investigative_direction": "Confirm sponsors listed match actual podcast ad-read sponsors.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2004,7 +2018,9 @@
       "claim_timestamp": "00:24:13",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2024,7 +2040,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2041,7 +2059,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:02",
-      "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database."
+      "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2080,9 @@
       "claim_timestamp": "00:37:43",
       "mentions_person_refs": [
         "N-429"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2078,7 +2100,9 @@
       "claim_timestamp": "00:36:17",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2099,7 +2123,9 @@
       "investigative_direction": "Confirm contract date and counterparty from FARA filing.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2118,7 +2144,9 @@
       "claim_timestamp": "00:40:12",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2137,7 +2165,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2156,7 +2186,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2177,7 +2209,9 @@
       "mentions_person_refs": [
         "N-859",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2197,7 +2231,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2217,7 +2253,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2237,7 +2275,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2295,9 @@
       "claim_timestamp": "00:49:25",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2271,7 +2313,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:20",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2292,7 +2336,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2313,7 +2359,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2336,7 +2384,9 @@
         "N-97",
         "N-859",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2358,7 +2408,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2379,7 +2431,9 @@
       "transcript_snippet": "Like they were monitoring my likes back when you could see likes on X.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2454,9 @@
       "transcript_snippet": "regarding The Daily Wire layoffs, which began, I am told, on Thursday, actually continued through Friday.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2477,9 @@
       "transcript_snippet": "I'm talking entire departments, big people at the firm, lawyers at the firm, uh the chief operating officer, the executive vice president, virtually the entire marketing department",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2442,7 +2500,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2463,7 +2523,9 @@
       "transcript_snippet": "Uh we knew that they had brought in private equity uh sometime ago, last 2 years.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2483,6 +2545,10 @@
       "transcript_snippet": "first they shuttered Ben Key Kids, which was obviously massive layoffs that were done. Then they quietly got rid of their sports department.",
       "mentions_person_refs": [
         "N-3"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-8914"
       ]
     },
     {
@@ -2505,7 +2571,9 @@
       "transcript_snippet": "Um people in DC also got fired, so it's not because they're suddenly pivoting and building in DC.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2527,7 +2595,9 @@
       "transcript_snippet": "Early 2025, co-founder Jeremy Boreing stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.",
       "mentions_person_refs": [
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2549,7 +2619,9 @@
       "transcript_snippet": "Another 60,000 subscribers gone in the last 90 days alone.",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2642,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2592,7 +2666,9 @@
       "transcript_snippet": "Matt Walsh's Am I Racist? was a top-grossing documentary of 2024, but most of it didn't.",
       "mentions_person_refs": [
         "N-163"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2613,7 +2689,9 @@
       "transcript_snippet": "I went on to work with Turning Point all the way through until this year, actually, uh contractually.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2634,7 +2712,9 @@
       "transcript_snippet": "They brought back my social channels to mock me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2655,7 +2735,9 @@
       "transcript_snippet": "they attempted to create an entire show dedicated to making fun of this show.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2676,7 +2758,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-231"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2698,7 +2782,9 @@
         "N-97",
         "N-146",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2806,9 @@
         "N-97",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2745,7 +2833,9 @@
         "N-97",
         "N-101",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2768,7 +2858,9 @@
         "N-97",
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2792,7 +2884,9 @@
         "N-46",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2814,7 +2908,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2836,7 +2932,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2955,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2880,7 +2980,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2901,7 +3003,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2922,7 +3026,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2950,7 +3056,9 @@
         "N-2",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2972,7 +3080,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2993,7 +3103,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3019,7 +3131,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-859"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3040,7 +3154,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-859"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3065,7 +3181,9 @@
         "N-859",
         "N-97",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3086,7 +3204,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3106,7 +3226,9 @@
       "transcript_snippet": "Dhillon Law Group is Harmeet Dhillon's law firm. She currently works for the Department of Justice.",
       "mentions_person_refs": [
         "N-373"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3126,7 +3248,9 @@
       "transcript_snippet": "I think uh transferred the stake in her in the company to her brother while she's currently serving the Department of Justice.",
       "mentions_person_refs": [
         "N-373"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3145,7 +3269,9 @@
       "mentions_person_refs": [
         "N-373",
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3165,7 +3291,9 @@
       "transcript_snippet": "but her law firm is heavily involved in a lot of legal um issues on behalf of Israel, right?",
       "mentions_person_refs": [
         "N-373"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3188,7 +3316,9 @@
       "transcript_snippet": "Uh the principal of the company, to be clear, is Israel's Ministry of Foreign Affairs.",
       "mentions_person_refs": [
         "N-10594"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3211,7 +3341,9 @@
       "transcript_snippet": "Their stated purpose is to target Christians in the United States with anti-Palestinian and pro-Israel messaging.",
       "mentions_person_refs": [
         "N-10595"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3230,7 +3362,9 @@
       ],
       "claim_timestamp": "00:37:02",
       "investigative_direction": "Retrieve the Times of Israel article and the FARA exhibit.",
-      "transcript_snippet": "will execute what it bills as the quote largest Christian church geofencing campaign in US history."
+      "transcript_snippet": "will execute what it bills as the quote largest Christian church geofencing campaign in US history.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3249,7 +3383,9 @@
       ],
       "claim_timestamp": "00:37:02",
       "investigative_direction": "Retrieve the FARA exhibit describing the mobile experience.",
-      "transcript_snippet": "while dispatching a mobile quote October 7th experience to church parking lots."
+      "transcript_snippet": "while dispatching a mobile quote October 7th experience to church parking lots.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3269,7 +3405,9 @@
       "transcript_snippet": "complementing a $1.5 million per a month contract for AI-driven social media activity with former Trump campaign strategist Brad Parscale",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3288,7 +3426,9 @@
       ],
       "claim_timestamp": "00:38:09",
       "investigative_direction": "FARA filing for Bridges Partners.",
-      "transcript_snippet": "a contract with a firm called Bridges Partners to create an influencer network called the Esther project."
+      "transcript_snippet": "a contract with a firm called Bridges Partners to create an influencer network called the Esther project.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3305,7 +3445,9 @@
       ],
       "claim_timestamp": "00:38:09",
       "investigative_direction": "Israeli budget documents and the cited article.",
-      "transcript_snippet": "after the Foreign Ministry was allocated $150 million in this year's budget for public relations efforts."
+      "transcript_snippet": "after the Foreign Ministry was allocated $150 million in this year's budget for public relations efforts.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3326,7 +3468,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3352,7 +3496,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3373,7 +3519,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-373"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3396,7 +3544,9 @@
       "transcript_snippet": "they specifically note that they are going to be doing that geofencing and targeting in Tucson, Phoenix, and Las Vegas.",
       "mentions_person_refs": [
         "N-10595"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3417,7 +3567,9 @@
       "transcript_snippet": "I would be very surprised if this was not the company that was working with one of the partners of Turning Point USA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3439,7 +3591,9 @@
       "transcript_snippet": "including the Dream City Church where Charlie spoke at once a month",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3462,7 +3616,9 @@
       "transcript_snippet": "email us tips@candaceowens. com, more tips@candaceowens. com, and we will keep running that narrative",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3481,7 +3637,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3503,7 +3661,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3526,7 +3686,9 @@
         "N-3",
         "N-266",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3545,7 +3707,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3568,7 +3732,9 @@
         "N-266",
         "N-270",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3592,7 +3758,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3610,7 +3778,9 @@
       "transcript_snippet": "we are on track for this to be the biggest day in our merch sale history on the website.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3633,7 +3803,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3655,7 +3827,9 @@
         "N-485",
         "N-891",
         "N-892"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3676,7 +3850,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-893"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3696,7 +3872,9 @@
       "transcript_snippet": "I don't think he ever actually was found guilty because they I think he played like anti-Semitism or something like that.",
       "mentions_person_refs": [
         "N-893"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3720,7 +3898,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3739,7 +3919,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3760,7 +3942,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

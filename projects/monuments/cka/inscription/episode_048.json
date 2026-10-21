@@ -1517,7 +1517,9 @@
         "N-195",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1536,7 +1538,9 @@
       "investigative_direction": "Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1555,7 +1559,9 @@
       "investigative_direction": "Verify against any chain-of-custody documentation for Charlie's personal effects.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1574,7 +1580,9 @@
       "investigative_direction": "Cross-check against USAF flight plan records and ATC telephonic call sign logs.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1594,7 +1602,9 @@
       "investigative_direction": "Obtain raw flight plan and ATC records to verify origin, call sign, and destination.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1614,7 +1624,9 @@
       "investigative_direction": "Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1633,7 +1645,9 @@
       "investigative_direction": "Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1653,7 +1667,9 @@
       "investigative_direction": "Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1673,7 +1689,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1690,7 +1708,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1711,7 +1731,9 @@
         "N-1",
         "N-378",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1730,7 +1752,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1749,7 +1773,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1772,7 +1798,9 @@
         "N-195",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1791,7 +1819,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-195"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1810,7 +1840,9 @@
       "mentions_person_refs": [
         "N-195",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1833,7 +1865,9 @@
         "N-195",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1855,7 +1889,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1874,7 +1910,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1931,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1913,7 +1953,9 @@
         "N-195",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1932,7 +1974,9 @@
       "mentions_person_refs": [
         "N-195",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1951,7 +1995,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1969,7 +2015,9 @@
       "transcript_snippet": "the feds are not just at the hospital trying to take cameras down from inside the hospital, as we learned they seized the cameras on that day",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1988,7 +2036,9 @@
       "transcript_snippet": "Wooded area? No, that's actually uh not the right topography surrounding UVU.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2006,7 +2056,9 @@
       "transcript_snippet": "That area had already been searched. Not just by veteran police officers who told me that the way they do this is they sort of lock arms",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2024,7 +2076,9 @@
       "transcript_snippet": "In that exact area where ultimately the gun is going to later be discovered. The bomb dogs didn't turn up with anything",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2042,7 +2096,9 @@
       "transcript_snippet": "Their sense of of smell is like what literally up to 100,000 times more than a human scent",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2116,9 @@
       "transcript_snippet": "over 19 billion dollars has been spent on research and development of technology that can detect explosives",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2078,7 +2136,9 @@
       "transcript_snippet": "They can pick up a scent of a fired weapon days days after it was triggered.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2097,7 +2157,9 @@
       "transcript_snippet": "These dogs belong to the sheriff's department in Pleasant Grove, by the way.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2115,7 +2177,9 @@
       "transcript_snippet": "federal officers direct three police officers who I'm told, between the three of these officers, they had less than a year and a half on the force, okay?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2136,7 +2200,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2156,7 +2222,9 @@
       "transcript_snippet": "I have the names of the officers who were involved in that discovery. I do not intend on releasing those names at this moment in time",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2175,7 +2243,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2193,7 +2263,9 @@
       "transcript_snippet": "conducted something that was described to me as a condensed scent trace.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2212,7 +2284,9 @@
       "transcript_snippet": "and the feds were sort of directing the show",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2232,7 +2306,9 @@
       "transcript_snippet": "I had received a tip a while ago from a few police officers, a tip that I would like to confirm",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,7 +2328,9 @@
       "transcript_snippet": "there's an officer who catches a speeding car shortly after the shot is fired, and this officer is convinced that this this is the killer.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2273,7 +2351,9 @@
       "transcript_snippet": "The officer pulls over the Toyota RAV4, and when the officer gets to the window, the driver of the RAV4 flashes an FBI badge.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2296,7 +2376,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2319,7 +2401,9 @@
         "N-3",
         "N-5",
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2341,7 +2425,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2359,7 +2445,9 @@
       "transcript_snippet": "I click on this person, and they just created an account.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2377,7 +2465,9 @@
       "transcript_snippet": "it was towed to a towing facility that's just kind of really around the corner from the hospital.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2395,7 +2485,9 @@
       "transcript_snippet": "on Monday, they had another uh tow truck come and take that car so that it could get a cleaning and be immediately put up for auction.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2413,7 +2505,9 @@
       "transcript_snippet": "The first end is that this was a rental vehicle, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2431,7 +2525,9 @@
       "transcript_snippet": "the owner of the company was in California at the time. He gets a phone call, and he's just like, \"No. Never want to see this vehicle ever again at our facility.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2449,7 +2545,9 @@
       "transcript_snippet": "especially because they didn't even require insurance to come which would make sense.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2565,9 @@
       "transcript_snippet": "To cover everything up including sending US Marshals on a wild goose chase.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2486,7 +2586,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2504,7 +2606,9 @@
       "transcript_snippet": "They don't actually feel like they wanted to solve the crime, but rather to create hurdles",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2522,7 +2626,9 @@
       "transcript_snippet": "I saw these military grade bot bots when they wanted me canceled from Australia.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2541,7 +2647,9 @@
       "transcript_snippet": "we recognized this increase in this botted activity after we started speaking about Fort Huachuca.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2668,9 @@
       "transcript_snippet": "And then we were able to verify his story. People that are currently stationed there.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2690,9 @@
       "transcript_snippet": "That key piece of evidence is a jet that's used exclusively by very few people.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2605,7 +2717,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2624,7 +2738,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2642,7 +2758,9 @@
       "transcript_snippet": "When the president is on board, the radio call sign instantly becomes Air Force One.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2666,7 +2784,9 @@
       ],
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2683,7 +2803,9 @@
       "tags": [],
       "claim_timestamp": "00:39:24",
       "investigative_direction": "Verify call-sign usage rules with Air Mobility Command documentation.",
-      "transcript_snippet": "the special air mission designation is usually when there's very high ranking or very important people on board."
+      "transcript_snippet": "the special air mission designation is usually when there's very high ranking or very important people on board.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2700,7 +2822,9 @@
       "tags": [],
       "claim_timestamp": "00:40:40",
       "investigative_direction": "Check military airlift call-sign documentation for Venus.",
-      "transcript_snippet": "the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots."
+      "transcript_snippet": "the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2723,7 +2847,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2741,7 +2867,9 @@
       "transcript_snippet": "It's a decentralized command model for the company.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2762,7 +2890,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2782,7 +2912,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2805,7 +2937,9 @@
       "mentions_person_refs": [
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2826,7 +2960,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2847,7 +2983,9 @@
       "transcript_snippet": "This is where they train people that are in the intelligence community for covert missions.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2871,7 +3009,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2890,7 +3030,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2909,7 +3051,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2928,7 +3072,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2947,7 +3093,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2965,7 +3113,9 @@
       "transcript_snippet": "this is one more plane SUBTV that had the longest of flight logs for the Egyptian planes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2985,7 +3135,9 @@
       "transcript_snippet": "I do feel confident in stating that those Egyptian planes are linked to Israel and that fully explains the mass freak out.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3004,7 +3156,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-118"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3024,7 +3178,9 @@
         "N-3",
         "N-267",
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3199,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3063,7 +3221,9 @@
         "N-3",
         "N-22",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3081,7 +3241,9 @@
       "transcript_snippet": "if you'd like to just give a gift to support our security and what we're doing, you now have that option.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3100,7 +3262,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3119,7 +3283,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3137,7 +3303,9 @@
       "transcript_snippet": "you've got like the mafia involved. There were Cubans that were involved.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3157,7 +3325,9 @@
       "transcript_snippet": "AIPAC implied, obviously, or whatever their name was before they became AIPAC. They changed their name after.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3174,7 +3344,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3192,7 +3364,9 @@
         "N-3",
         "N-204",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3210,7 +3384,9 @@
       "transcript_snippet": "Of course I would hand it over. Of course.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3230,7 +3406,9 @@
         "N-3",
         "N-69",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3249,7 +3427,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3267,7 +3447,9 @@
       "transcript_snippet": "This is what the police officers that were there that day believe.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3288,7 +3470,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3311,7 +3495,9 @@
         "N-3",
         "N-190",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3335,7 +3521,9 @@
         "N-159",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3353,7 +3541,9 @@
         "N-3",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3372,7 +3562,9 @@
         "N-4",
         "N-5",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3393,7 +3585,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3414,7 +3608,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

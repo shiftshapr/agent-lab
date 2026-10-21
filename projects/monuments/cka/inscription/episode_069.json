@@ -1436,7 +1436,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-548"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1453,7 +1455,9 @@
       "investigative_direction": "Identify the redacted recipient \"Sultan\" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1473,7 +1477,9 @@
       "mentions_person_refs": [
         "N-541",
         "N-547"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1492,7 +1498,9 @@
       "investigative_direction": "Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1512,7 +1520,9 @@
       "mentions_person_refs": [
         "N-545",
         "N-546"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1531,7 +1541,9 @@
       "investigative_direction": "Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.",
       "mentions_person_refs": [
         "N-546"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1551,7 +1563,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1569,7 +1583,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1587,7 +1603,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1604,7 +1622,9 @@
       "investigative_direction": "Trace the historical origins of the \"passport in mint condition\" claim and its media treatment; assess the rhetorical parallel independently.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1621,7 +1641,9 @@
       "investigative_direction": "Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1635,7 +1657,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:55",
-      "investigative_direction": "Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing."
+      "investigative_direction": "Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1652,7 +1676,9 @@
       "investigative_direction": "Identify the production-staff role, if any, of \"Benjamin\" referenced by host; resolve the Ben / Benjamin discrepancy.",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1668,7 +1694,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
-      "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis."
+      "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1682,7 +1710,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:50",
-      "investigative_direction": "This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment."
+      "investigative_direction": "This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1730,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1721,7 +1753,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1744,7 +1778,9 @@
         "N-377",
         "N-3",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1768,7 +1804,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1787,7 +1825,9 @@
       "mentions_person_refs": [
         "N-548",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1807,7 +1847,9 @@
       "transcript_snippet": "in 2005, the now bankrupt company 23 andMe came together where people began sending in those DNA kits to figure out their ancestry.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1869,9 @@
       "transcript_snippet": "we invaded, as I mentioned yesterday, mid 2003 and we extracted Gilgamesh, Gilgamesh's tomb roughly two years later.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1846,7 +1890,9 @@
       "mentions_person_refs": [
         "N-541",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1864,7 +1910,9 @@
       "transcript_snippet": "this man, it is alleged, was actually murdered for some of the research and the pieces that he were putting together",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1883,7 +1931,9 @@
       "mentions_person_refs": [
         "N-541",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1901,7 +1951,9 @@
       "transcript_snippet": "I explain to you that all of the elites are obsessed with Babylon and any research that I do. It's all about Babylon.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1919,7 +1971,9 @@
       "transcript_snippet": "this tower that was being built was a technology because they wanted to get back into the heavenly realm.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1941,7 +1995,9 @@
       "transcript_snippet": "It's very interesting that it actually forms the shape of a goat.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1964,7 +2020,9 @@
       "mentions_person_refs": [
         "N-547",
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1987,7 +2045,9 @@
       "mentions_person_refs": [
         "N-541",
         "N-547"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2009,7 +2069,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2029,7 +2091,9 @@
       "transcript_snippet": "You were looking at a picture of the Rothschilds at their surrealist ball.",
       "mentions_person_refs": [
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2047,7 +2111,9 @@
       "transcript_snippet": "the elites are obsessed with goat heads, ball worship. None of this is a conspiracy.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2065,7 +2131,9 @@
       "transcript_snippet": "you're not an ape. You can throw away that chart.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2151,9 @@
       "transcript_snippet": "Satan is struck down by the archangel St. cycle after a battle of good versus evil in heaven",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2101,7 +2171,9 @@
       "transcript_snippet": "They produce nephilim giants and their demonic pursuit never actually ends.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2124,7 +2196,9 @@
       ],
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2144,7 +2218,9 @@
       "transcript_snippet": "he believes that the elites view Nimrod and or Gilgamesh as the antichrist that they are working to try to resurrect for exactly that reason.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2166,7 +2242,9 @@
       "transcript_snippet": "their stated objective is to recreate the Big Bang.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2189,7 +2267,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2213,7 +2293,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2232,7 +2314,9 @@
       "mentions_person_refs": [
         "N-50",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2250,7 +2334,9 @@
       "transcript_snippet": "They weren't creating a vaccine that guarded you against COVID.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2270,7 +2356,9 @@
       "transcript_snippet": "What was this mass campaign to effectively collect everybody on Earth's DNA by saying,",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2292,7 +2380,9 @@
       "transcript_snippet": "Imagine the startling proposition that the Nephilim, the giants, the mighty men of old, the gods and children of the watchers could somehow rise up",
       "mentions_person_refs": [
         "N-545"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2312,7 +2402,9 @@
       "transcript_snippet": "Interesting that the US military started its military occupation phase of Iraq one month later.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2332,7 +2424,9 @@
       "transcript_snippet": "established 500 military bases in the largest embassy of any other embassy on the entire planet in Babylon.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2352,7 +2446,9 @@
       "transcript_snippet": "I have a feeling we found the weapon of mass destruction.",
       "mentions_person_refs": [
         "N-541"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2374,7 +2470,9 @@
       "mentions_person_refs": [
         "N-521",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2392,7 +2490,9 @@
       "transcript_snippet": "This push and the marketing toward IVF.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2510,9 @@
       "transcript_snippet": "Actually, I I've heard that even that could be uh ancient in terms of what they are trying to get and what they are trying to find.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2434,7 +2536,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2458,7 +2562,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2479,7 +2585,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2504,7 +2612,9 @@
         "N-2",
         "N-1",
         "N-237"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2526,7 +2636,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2551,7 +2663,9 @@
         "N-1",
         "N-14",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2687,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2593,7 +2709,9 @@
       "transcript_snippet": "And they're telling us he just wanted tips on how to debate and and then of of course uh he got tips on how to debate and was super happy but then said they're going to kill me.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2616,7 +2734,9 @@
         "N-14",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2641,7 +2761,9 @@
         "N-270",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2668,7 +2790,9 @@
       ],
       "revises_claim_refs": [
         "C-3030"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2691,7 +2815,9 @@
       ],
       "mentions_person_refs": [
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2839,9 @@
         "N-190",
         "N-217",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2862,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2759,7 +2889,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2781,7 +2913,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2805,7 +2939,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2825,7 +2961,9 @@
         "N-1",
         "N-46",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2844,7 +2982,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2863,7 +3003,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2882,7 +3024,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2904,7 +3048,9 @@
         "N-544",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2924,7 +3070,9 @@
       "transcript_snippet": "she is regularly at Dream City Church.",
       "mentions_person_refs": [
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2944,7 +3092,9 @@
       "transcript_snippet": "He would do that weekly at Dream City Church. This began with COVID.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2965,7 +3115,9 @@
       "transcript_snippet": "Kind of begins with Rob McCoy and then Dream City Church and lockdowns.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2989,7 +3141,9 @@
         "N-2",
         "N-190",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3011,7 +3165,9 @@
         "N-2",
         "N-489",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3034,7 +3190,9 @@
       "mentions_person_refs": [
         "N-544",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3054,7 +3212,9 @@
         "N-544",
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3072,7 +3232,9 @@
       "transcript_snippet": "She has been following her to Romania. This woman grew up wealthy, by the way.",
       "mentions_person_refs": [
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3092,7 +3254,9 @@
       "transcript_snippet": "she's from Missouri, which has been, you know, one of those regular stops on the Egyptian plains.",
       "mentions_person_refs": [
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3112,7 +3276,9 @@
       "transcript_snippet": "I'm also unable to determine what exactly it is that her husband does.",
       "mentions_person_refs": [
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3133,7 +3299,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3157,7 +3325,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3177,7 +3347,9 @@
       "transcript_snippet": "People have emailed me about Dream City Church and about that pastor Luke and his involvement and things that he said on stage afterward.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3195,7 +3367,9 @@
       ],
       "claim_timestamp": "00:31:10",
       "investigative_direction": "Compare TPUSA content and messaging before and after 2020.",
-      "transcript_snippet": "the radical shift almost that Turning Point made from discussing free markets and capitalism to being all about faith and the pastors"
+      "transcript_snippet": "the radical shift almost that Turning Point made from discussing free markets and capitalism to being all about faith and the pastors",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3218,7 +3392,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3239,7 +3415,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-389"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3260,7 +3438,9 @@
       ],
       "mentions_person_refs": [
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3284,7 +3464,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3304,7 +3486,9 @@
       "transcript_snippet": "if you don't want your communications to be tracked, you'd get on a foreign plane and communicate that way.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3327,7 +3511,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3352,7 +3538,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3370,7 +3558,9 @@
       "transcript_snippet": "available for free on our website today and tomorrow only.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3391,7 +3581,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3412,7 +3604,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3430,7 +3624,9 @@
       "transcript_snippet": "And they can't connect the gun to Charlie because the 306 was supposed to go through",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3449,7 +3645,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3467,7 +3665,9 @@
       "transcript_snippet": "we're going to feed you pornography, which is literally a spiritual weapon.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

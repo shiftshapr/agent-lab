@@ -1800,7 +1800,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1820,7 +1822,9 @@
       "transcript_snippet": "Yesterday evening, Blake Neff joined an X live space.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1841,7 +1845,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1865,7 +1871,9 @@
         "N-159",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1893,9 @@
       "transcript_snippet": "probably on some level she probably like dislikes like white women. She probably dislikes other pretty women.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1909,7 +1919,9 @@
         "N-159",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1931,7 +1943,9 @@
       "transcript_snippet": "pretty sure I said I'm pretty sure I said marrying Charlie.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1950,7 +1964,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1968,7 +1984,9 @@
       "transcript_snippet": "my assistant lasted 6 years, actually, the one that we were just trying to replace. And also, my other assistant lasted 5 years and went on to become my manager.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +2007,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2012,7 +2032,9 @@
       "transcript_snippet": "The amazing Wear Forbidden account already has a video out documenting this incident.",
       "mentions_person_refs": [
         "N-11328"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2030,7 +2052,9 @@
       "transcript_snippet": "And it typically happens when we do big episodes that expose their lies or make them nervous.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2056,7 +2080,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2080,7 +2106,9 @@
       ],
       "mentions_person_refs": [
         "N-10000"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2101,7 +2129,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2123,7 +2153,9 @@
         "N-948",
         "N-352",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2144,7 +2176,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2198,9 @@
       "transcript_snippet": "What's up, Charlie? Uh these just came. I'm sending them to you tomorrow",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2188,7 +2224,9 @@
       ],
       "mentions_person_refs": [
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2211,7 +2249,9 @@
       "transcript_snippet": "we regret to inform you that if you are in the United States, that website is now blocked. You can't see it without a VPN.",
       "mentions_person_refs": [
         "N-11329"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2234,7 +2274,9 @@
       "transcript_snippet": "And we tried it in other countries, and we could see the website. It's particularly taken down in the United States.",
       "mentions_person_refs": [
         "N-11329"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2257,7 +2299,9 @@
       ],
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2277,7 +2321,9 @@
       "transcript_snippet": "His real name, the person running this, is Matiss Tabuns",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2297,7 +2343,9 @@
       "transcript_snippet": "He's from a small town there known as Talsi, where he allegedly dropped out of high school in his junior year.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2317,7 +2365,9 @@
       "transcript_snippet": "He's flushed with cash, according to his Instagram.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2337,7 +2387,9 @@
       "transcript_snippet": "He's in his early 20s. Here he is in Vietnam filming his buddy putting money into a stripper's bra.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2360,7 +2412,9 @@
       "transcript_snippet": "Clip It LLC um was filed for on May 28th of 2025.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2382,7 +2436,9 @@
       "transcript_snippet": "It was filed for in Wyoming.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2405,7 +2461,9 @@
       "transcript_snippet": "a registered agent who's apparently running nearly 3,000 businesses out of this dump of a house falling apart.",
       "mentions_person_refs": [
         "N-11331"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2427,7 +2485,9 @@
       "mentions_person_refs": [
         "N-949",
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2444,7 +2504,9 @@
       ],
       "claim_timestamp": "00:17:05",
       "investigative_direction": "ICIJ reporting on resignations following the Pandora Papers.",
-      "transcript_snippet": "politicians, prime ministers had to resigned uh had to resign in in 2021."
+      "transcript_snippet": "politicians, prime ministers had to resigned uh had to resign in in 2021.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2465,7 +2527,9 @@
       "transcript_snippet": "there was essentially a massive leak of approximately 12 million financial records.",
       "mentions_person_refs": [
         "N-11332"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2486,7 +2550,9 @@
       "transcript_snippet": "35 current at the time and former world leaders were implicated.",
       "mentions_person_refs": [
         "N-11332"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2507,7 +2573,9 @@
       "transcript_snippet": "was anywhere between 6 and 32 trillion dollars.",
       "mentions_person_refs": [
         "N-11332"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2529,7 +2597,9 @@
       "mentions_person_refs": [
         "N-949",
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2551,7 +2621,9 @@
       "transcript_snippet": "The gatekeepers who help open America to oligarchs and scammers.",
       "mentions_person_refs": [
         "N-949"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2645,9 @@
       "transcript_snippet": "year-old Cindy Jackson is the official gatekeeper for more than 350 companies that operate in the United States and around the world.",
       "mentions_person_refs": [
         "N-949"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2596,7 +2670,9 @@
       "mentions_person_refs": [
         "N-949",
         "N-950"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2616,7 +2692,9 @@
       "transcript_snippet": "Just like an Israeli-Ukrainian billionaire ties to the Chabad-Lubavitch.",
       "mentions_person_refs": [
         "N-950"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2635,7 +2713,9 @@
       "mentions_person_refs": [
         "N-950",
         "N-709"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2658,7 +2738,9 @@
       ],
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2683,7 +2765,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2705,7 +2789,9 @@
         "N-97",
         "N-259",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2726,7 +2812,9 @@
       "transcript_snippet": "I received a flurry of emails last night from people who work at UVU informing me that the rumor was, which I was able to confirm by getting in touch with these individuals, that Chief Jeff Long has resigned.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2750,7 +2838,9 @@
       ],
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2772,7 +2862,9 @@
         "N-266",
         "N-224",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2796,7 +2888,9 @@
         "N-266",
         "N-224",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2819,7 +2913,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2842,7 +2938,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2864,7 +2962,9 @@
       "transcript_snippet": "Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpool was severely misrepresenting things.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2885,7 +2985,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2905,7 +3007,9 @@
       "transcript_snippet": "That's That's the message that we've been told. She didn't know about the threats the night before.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2923,7 +3027,9 @@
       "transcript_snippet": "Frank Turek apparently got the text message he said while he was in the hospital. He also said it was a couple of days after.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2946,7 +3052,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2967,7 +3075,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2988,7 +3098,9 @@
       "mentions_person_refs": [
         "N-271",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3009,7 +3121,9 @@
       "mentions_person_refs": [
         "N-271",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3033,7 +3147,9 @@
       ],
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3053,7 +3169,9 @@
       "transcript_snippet": "Jeff Long is the one person who did a lot to try to correct course on the day when he realized there was more people. He called in more guys.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3072,7 +3190,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3093,7 +3213,9 @@
       "transcript_snippet": "A second person who I've learned is resigning or has resigned.",
       "mentions_person_refs": [
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3111,7 +3233,9 @@
       "transcript_snippet": "that is the UVU emergency management director or was the UVU emergency management director.",
       "mentions_person_refs": [
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3258,9 @@
       "mentions_person_refs": [
         "N-750",
         "N-8"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3158,7 +3284,9 @@
       "mentions_person_refs": [
         "N-8",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3180,7 +3308,9 @@
       "transcript_snippet": "some of the MEAC members continued to express reservations including Robin Ebmeyer, UVU's director of emergency management and safety.",
       "mentions_person_refs": [
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3202,7 +3332,9 @@
       "transcript_snippet": "Robin Ebmeyer was actually absent from the university on September 10th.",
       "mentions_person_refs": [
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3222,7 +3354,9 @@
       "transcript_snippet": "Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Robin Ebmeyer resigned.",
       "mentions_person_refs": [
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3244,7 +3378,9 @@
       "mentions_person_refs": [
         "N-271",
         "N-750"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3265,7 +3401,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-223"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3285,7 +3423,9 @@
       "transcript_snippet": "Typically, you get the red and the green accept or deny colors, okay?",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3308,7 +3448,9 @@
       "mentions_person_refs": [
         "N-614",
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3331,7 +3473,9 @@
       "mentions_person_refs": [
         "N-130",
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3354,7 +3498,9 @@
       "mentions_person_refs": [
         "N-614",
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3374,7 +3520,9 @@
       "transcript_snippet": "The as the Vanity Fair article pointed out, the sun sort of revolved around Charlie there.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3392,7 +3540,9 @@
       "transcript_snippet": "We are not funded by Qatari money.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3415,7 +3565,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3435,7 +3587,9 @@
       "transcript_snippet": "When web starts start websites start being taken down or rather um blocked in America even though they are America-focused, we're we are onto something.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3455,7 +3609,9 @@
       "transcript_snippet": "I think there's something else going on and I think that he is working on behalf of someone else.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3477,7 +3633,9 @@
       "transcript_snippet": "So I will say if you uh know anything more about Matiss, please email us. More tips at candaceowens.com.",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3503,7 +3661,9 @@
       "mentions_person_refs": [
         "N-10812",
         "N-10802"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3524,7 +3684,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3546,7 +3708,9 @@
       "transcript_snippet": "I think it was in March. They had Erika opening their Vegas office, right?",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3566,7 +3730,9 @@
       "transcript_snippet": "Tyler Bowyer was allegedly telling prepping people that Turning Point is going to get into housing.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3589,7 +3755,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3606,7 +3774,9 @@
       ],
       "claim_timestamp": "00:49:02",
       "investigative_direction": "USPTO search for \"grieving widow\" filings and their dates.",
-      "transcript_snippet": "Grieving widow is a registered trademark since No way. Since November Sorry, since um September 9th, 2025."
+      "transcript_snippet": "Grieving widow is a registered trademark since No way. Since November Sorry, since um September 9th, 2025.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3626,7 +3796,9 @@
       "transcript_snippet": "Erika quote text me the names of the heavy hitters.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3648,7 +3820,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3663,7 +3837,9 @@
       ],
       "claim_timestamp": "00:51:12",
       "investigative_direction": "U.S. military presence in Romania and its stated rationale.",
-      "transcript_snippet": "There's a lot of leaders are corrupt and that's why people go there. That is why America built a base there, actually."
+      "transcript_snippet": "There's a lot of leaders are corrupt and that's why people go there. That is why America built a base there, actually.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3682,7 +3858,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

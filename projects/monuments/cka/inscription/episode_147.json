@@ -1600,7 +1600,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1622,7 +1624,9 @@
         "N-40",
         "N-54",
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1639,7 +1643,9 @@
       "tags": [],
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1659,7 +1665,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1679,7 +1687,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1696,7 +1706,9 @@
       "investigative_direction": "Verify against the court's docket entry; track any subsequent plea amendments.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1713,7 +1725,9 @@
       "investigative_direction": "Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1747,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1754,7 +1770,9 @@
         "N-367",
         "N-190",
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1773,7 +1791,9 @@
       "investigative_direction": "Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1792,7 +1812,9 @@
       "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1808,7 +1830,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1828,7 +1852,9 @@
       "mentions_person_refs": [
         "N-504",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1846,7 +1872,9 @@
       "tags": [],
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Cross-reference against security radio logs and Christopher's own timeline.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1868,7 +1896,9 @@
       "mentions_person_refs": [
         "N-10745",
         "N-10746"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1915,9 @@
       "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1904,7 +1936,9 @@
       "investigative_direction": "Cross-reference with TPUSA-published security team rosters, event staffing contracts, and 9/10 security team statements.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1923,7 +1957,9 @@
       "investigative_direction": "Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.",
       "mentions_person_refs": [
         "N-163"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1940,7 +1976,9 @@
       "investigative_direction": "This is a host-stance claim; verification would require Walsh's reply or retraction.",
       "mentions_person_refs": [
         "N-163"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1959,7 +1997,9 @@
       "investigative_direction": "Locate the specific post; verify timestamp.",
       "mentions_person_refs": [
         "N-333"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1980,7 +2020,9 @@
         "N-1",
         "N-40",
         "N-606"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2000,7 +2042,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2022,7 +2066,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2042,7 +2088,9 @@
       "investigative_direction": "Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2063,7 +2111,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2082,7 +2132,9 @@
       "investigative_direction": "Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2154,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2122,7 +2176,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2204,9 @@
         "N-2",
         "N-159",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2170,7 +2228,9 @@
         "N-17",
         "N-208",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2247,9 @@
         "N-1",
         "N-266",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2265,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-125"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2220,7 +2284,9 @@
         "N-37",
         "N-40",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2304,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2257,7 +2325,9 @@
         "N-2",
         "N-190",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2276,7 +2346,9 @@
       "investigative_direction": "Cross-reference against his prior and subsequent statements; verify which SUV he is referring to.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2365,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2312,7 +2386,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2329,7 +2405,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2350,7 +2428,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-163"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2376,7 +2456,9 @@
         "N-40",
         "N-3",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2483,9 @@
         "N-40",
         "N-3",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2425,7 +2509,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2443,7 +2529,9 @@
       "transcript_snippet": "the defense only filed to have three of the seven charges dismissed based on the laws on the books",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2466,7 +2554,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2491,7 +2581,9 @@
         "N-40",
         "N-3",
         "N-775"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2512,7 +2604,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2533,7 +2627,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2653,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-952"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2678,9 @@
       "transcript_snippet": "send us a email to tips@candaceowens. com",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2604,7 +2704,9 @@
         "N-492",
         "N-270",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2628,7 +2730,9 @@
       "mentions_person_refs": [
         "N-492",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2651,7 +2755,9 @@
       "transcript_snippet": "the core security team was was not with Charlie Kirk in Salt Lake City",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2675,7 +2781,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2807,9 @@
       "mentions_person_refs": [
         "N-367",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2723,7 +2833,9 @@
         "N-159",
         "N-367",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2745,7 +2857,9 @@
       "transcript_snippet": "that is the TPUSA vehicle and that kind of stays parked on the far right side",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2768,7 +2882,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2791,7 +2907,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2811,7 +2929,9 @@
       "transcript_snippet": "Charlie's main security person who he shows up with is this person, Christopher.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2835,7 +2955,9 @@
         "N-330",
         "N-504",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2979,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2879,7 +3003,9 @@
       "transcript_snippet": "That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know.",
       "mentions_person_refs": [
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2898,7 +3024,9 @@
       ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Frame-by-frame review of the footage for any exchange of keys or request for them.",
-      "transcript_snippet": "No nobody's going, \"Hey, where's Chris? We need the keys.\" It's just open and ready for them."
+      "transcript_snippet": "No nobody's going, \"Hey, where's Chris? We need the keys.\" It's just open and ready for them.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2922,7 +3050,9 @@
         "N-159",
         "N-367",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2941,7 +3071,9 @@
       ],
       "claim_timestamp": "00:25:30",
       "investigative_direction": "Review the parking footage to see who parked where and in what order.",
-      "transcript_snippet": "You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out."
+      "transcript_snippet": "You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2967,7 +3099,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2991,7 +3125,9 @@
         "N-159",
         "N-367",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3015,7 +3151,9 @@
         "N-159",
         "N-1",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3038,7 +3176,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3062,7 +3202,9 @@
         "N-159",
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3086,7 +3228,9 @@
         "N-159",
         "N-190",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3107,7 +3251,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3128,7 +3274,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3151,7 +3299,9 @@
       "mentions_person_refs": [
         "N-163",
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3171,7 +3321,9 @@
       "transcript_snippet": "You're going to keep seeing this mandate go out where things are going to be taken out of context and it's supposed to outrage you.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3195,7 +3347,9 @@
       "mentions_person_refs": [
         "N-425",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3219,7 +3373,9 @@
         "N-425",
         "N-54",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3243,7 +3399,9 @@
         "N-425",
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3264,7 +3422,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3287,7 +3447,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3310,7 +3472,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3331,7 +3495,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3358,7 +3524,9 @@
         "N-190",
         "N-1",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3378,7 +3546,9 @@
       "transcript_snippet": "when he is easily the most community noted employee of the Charlie Kirk Show.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3398,7 +3568,9 @@
       "transcript_snippet": "When I see a story and it doesn't click, our guts are usually right.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3421,7 +3593,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3444,7 +3618,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3468,7 +3644,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3489,7 +3667,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3510,7 +3690,9 @@
       "mentions_person_refs": [
         "N-202",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3531,7 +3713,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3550,7 +3734,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3569,7 +3755,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3590,7 +3778,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3616,7 +3806,9 @@
         "N-1",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

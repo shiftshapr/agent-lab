@@ -1230,7 +1230,9 @@
       "investigative_direction": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.",
       "mentions_person_refs": [
         "N-454"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1246,7 +1248,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:12",
-      "investigative_direction": "Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents."
+      "investigative_direction": "Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1262,7 +1266,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:07",
-      "investigative_direction": "Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that \"the script for The Matrix was stolen allegedly.\""
+      "investigative_direction": "Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that \"the script for The Matrix was stolen allegedly.\"",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1281,7 +1287,9 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "00:36:29",
-      "investigative_direction": "Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened."
+      "investigative_direction": "Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1299,7 +1307,9 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "00:37:29",
-      "investigative_direction": "Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified."
+      "investigative_direction": "Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1318,7 +1328,9 @@
       "investigative_direction": "Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1335,7 +1347,9 @@
       "investigative_direction": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.",
       "mentions_person_refs": [
         "N-455"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1355,7 +1369,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1374,7 +1390,9 @@
       "investigative_direction": "Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1391,7 +1409,9 @@
       "investigative_direction": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.",
       "mentions_person_refs": [
         "N-457"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1408,7 +1428,9 @@
       "investigative_direction": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.",
       "mentions_person_refs": [
         "N-458"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1429,7 +1451,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1447,7 +1471,9 @@
       "transcript_snippet": "you guys tried to convince us that Fruit of the Loom never had a cornucopia, right? There was one. We all know that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1466,7 +1492,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1486,7 +1514,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-456"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1506,7 +1536,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-456"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1528,7 +1560,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1546,7 +1580,9 @@
       "transcript_snippet": "when he was really young, they wanted to drug him, but his mother said no.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1565,7 +1601,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1583,7 +1621,9 @@
         "N-3",
         "N-30",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1605,7 +1645,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1622,7 +1664,9 @@
       "tags": [],
       "claim_timestamp": "00:08:22",
       "investigative_direction": "Check contemporaneous estimates of global Y2K remediation spending (for example US Commerce Department and Gartner figures) against the clip's 300 billion dollar number.",
-      "transcript_snippet": "Governments and corporations spent over $300 billion updating systems. It was one of the largest coordinated tech efforts in history."
+      "transcript_snippet": "Governments and corporations spent over $300 billion updating systems. It was one of the largest coordinated tech efforts in history.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1642,7 +1686,9 @@
       ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Check the publisher's spelling history for the series and any survey data on how people remember the spelling.",
-      "transcript_snippet": "Millions remember it as Berenstein with an E. But every book says Berenstain with an A."
+      "transcript_snippet": "Millions remember it as Berenstein with an E. But every book says Berenstain with an A.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1662,7 +1708,9 @@
       ],
       "claim_timestamp": "00:09:57",
       "investigative_direction": "Trace the origin of the term 'Mandela effect' to Fiona Broome's 2009 coinage and compare with the clip's account.",
-      "transcript_snippet": "named after people who remembered Nelson Mandela dying in prison years before he actually did."
+      "transcript_snippet": "named after people who remembered Nelson Mandela dying in prison years before he actually did.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1680,7 +1728,9 @@
       "tags": [],
       "claim_timestamp": "00:09:57",
       "investigative_direction": "Identify the speaker and the original interview; the claim is metaphysical and has no documentary test, so attribution is the checkable element.",
-      "transcript_snippet": "As we go through our conscious progression, as we raise consciousness, the way we perceive the world and therefore all that will exist in our world will morph to that new resonance as a sympathetic resonance."
+      "transcript_snippet": "As we go through our conscious progression, as we raise consciousness, the way we perceive the world and therefore all that will exist in our world will morph to that new resonance as a sympathetic resonance.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1750,9 @@
       "transcript_snippet": "Pikachu had black at the end of his tail, obviously.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1720,7 +1772,9 @@
       "transcript_snippet": "they stole a device from the ancient Sumerian civilization that's located in modern modern day Iraq.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1746,7 +1800,9 @@
       ],
       "mentions_person_refs": [
         "N-454"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1764,7 +1820,9 @@
       "transcript_snippet": "That was backed up, by the way, by a lot of different things. Mayan civilization, the calendar, you remember that whole scare?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1785,7 +1843,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1803,7 +1863,9 @@
       "tags": [],
       "claim_timestamp": "00:18:12",
       "investigative_direction": "No documentary test exists for the numbers claim; confirm only that the clip makes it and identify the clip's source.",
-      "transcript_snippet": "Some people even report seeing repeating numbers everywhere like 1111, 222, 444, almost like little glitches or signals hidden in everyday life."
+      "transcript_snippet": "Some people even report seeing repeating numbers everywhere like 1111, 222, 444, almost like little glitches or signals hidden in everyday life.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1824,7 +1886,9 @@
       "transcript_snippet": "Some whistleblowers claimed that a confidential briefing took place where certain agencies acknowledged the shift, a kind of convergence in human potential.",
       "supports_claim_refs": [
         "C-5088"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1847,7 +1911,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1866,7 +1932,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1953,9 @@
       "transcript_snippet": "And then he goes, \"You know what? Take the money. Take the money out of the organization.\" And they panicked.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1904,7 +1974,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1920,7 +1992,9 @@
       "transcript_snippet": "Maybe like people like Peter Thiel, he's like going around giving interviews asking about the Antichrist.",
       "mentions_person_refs": [
         "N-521"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1936,7 +2010,9 @@
       "transcript_snippet": "They produced a report and brought in doctors to assert why Christ is king is wrong.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1952,7 +2028,9 @@
       "transcript_snippet": "removing the Bible from the classroom, creating Hollywood in general, which was supposed to mirror a Babylonian culture, training us to worship stars.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1970,7 +2048,9 @@
       "transcript_snippet": "I lost a job in part for saying that pornography is a spiritual weapon against men and that we needed to look into the history of pornography.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1991,7 +2071,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2093,9 @@
       "transcript_snippet": "just go back and watch on the moon landing and the rituals that they were doing.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2111,9 @@
       "transcript_snippet": "there was actually a really good article in the spect in in the spectator UK regarding how they tried to establish co to mirror a religion",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2047,7 +2133,9 @@
       "transcript_snippet": "CERN was basically established in 1954 to research particle physics.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2065,7 +2153,9 @@
       "transcript_snippet": "in 1964 a group of scientists theorized that there's something called a Higs Bzon.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2085,7 +2175,9 @@
       "transcript_snippet": "the Large Hydron Collider, which is based in Geneva, Switzerland, and is a 17-mi tunnel underground up to 600 feet underground in some places",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2105,7 +2197,9 @@
       "transcript_snippet": "in 2012, they observed a reaction that's consistent with this particle that was theorized back in 1964",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2222,9 @@
       "transcript_snippet": "this ceremony which again is taking place under a uh Hindu deity",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2154,7 +2250,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2180,7 +2278,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2206,7 +2306,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2330,9 @@
       "transcript_snippet": "You then hear heavy breathing and you hear a guy saying f doesn't seem like it was a prank to him.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2249,7 +2353,9 @@
       "transcript_snippet": "it's just been going on for two years consistently behind the scenes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2272,7 +2378,9 @@
         "N-22",
         "N-455",
         "N-532"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2294,7 +2402,9 @@
         "N-3",
         "N-455",
         "N-532"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2319,7 +2429,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-455"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2342,7 +2454,9 @@
       ],
       "mentions_person_refs": [
         "N-455"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2365,7 +2479,9 @@
       ],
       "mentions_person_refs": [
         "N-455"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2387,7 +2503,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-455"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2521,9 @@
       "transcript_snippet": "we also have channels in Spanish, Portuguese, and French.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2424,7 +2544,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2567,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2465,7 +2589,9 @@
       "transcript_snippet": "That's why we ended up building the Candace Owens website was because they knocked us. They demonetized us on YouTube. They were throttling us.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2485,7 +2611,9 @@
       "transcript_snippet": "we wanted to go on tour and so I could speak and they banned me from a country again.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2505,7 +2633,9 @@
       "transcript_snippet": "calling people up and threatening them for hosting me on stage.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2528,7 +2658,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-716"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2547,7 +2679,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2565,7 +2699,9 @@
       "transcript_snippet": "Why would I want Zionists to have control, which they already have since they killed JFK, of our military today",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2582,7 +2718,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2740,9 @@
       "transcript_snippet": "I was in gate as a kid. The pink drink.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2624,7 +2764,9 @@
       "transcript_snippet": "that it burns your pineal glands.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2644,7 +2786,9 @@
       "transcript_snippet": "my cousin thinks that even when they make us take hearing tests that they're actually doing frequency tests and if certain kids can hear certain frequencies, they mark them.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2664,7 +2808,9 @@
       "transcript_snippet": "He called the teen girls some that are 13 and 14 barely legal",
       "mentions_person_refs": [
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2685,7 +2831,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2705,7 +2853,9 @@
         "N-3",
         "N-1",
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2728,7 +2878,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

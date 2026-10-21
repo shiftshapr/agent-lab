@@ -52,5 +52,19 @@ class TestSource(unittest.TestCase):
         self.assertTrue(any("missing Claim Timestamp" in e for e in cs.validate(doc)))
 
 
+class TestVerification(unittest.TestCase):
+    """ROADMAP 4.4: five-value status; anything but unverified cites evidence."""
+
+    def _doc(self, extra):
+        return cs.parse_md(SAMPLE.replace("Mentions: N-3\n", "Mentions: N-3\n" + extra), 7)
+
+    def test_valid_and_invalid(self):
+        self.assertEqual(cs.validate(self._doc("Verification: revised-by-host\nVerification Evidence: C-13\n")), [])
+        self.assertTrue(cs.validate(self._doc("Verification: maybe\n")))
+        self.assertTrue(cs.validate(self._doc("Verification: corroborated\n")))
+        self.assertTrue(cs.validate(self._doc("Verification: revised-by-host\nVerification Evidence: S-4\n")))
+        self.assertEqual(cs.validate(self._doc("Verification: contradicted-by-record\nVerification Evidence: S-4.2\n")), [])
+
+
 if __name__ == "__main__":
     unittest.main()

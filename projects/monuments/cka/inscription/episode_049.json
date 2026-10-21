@@ -1225,7 +1225,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:00",
-      "investigative_direction": "Obtain official DoD documentation confirming Fort Huachuca's current training mission and course catalog."
+      "investigative_direction": "Obtain official DoD documentation confirming Fort Huachuca's current training mission and course catalog.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1242,7 +1244,9 @@
       "investigative_direction": "Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1263,7 +1267,9 @@
       "investigative_direction": "Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1282,7 +1288,9 @@
       "investigative_direction": "Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1303,7 +1311,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1324,7 +1334,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1345,7 +1357,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-363"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1364,7 +1378,9 @@
       "investigative_direction": "Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students.",
       "mentions_person_refs": [
         "N-362"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1380,7 +1396,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:38–00:17:14",
-      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices."
+      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1400,7 +1418,9 @@
       "investigative_direction": "Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components).",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1420,7 +1440,9 @@
       "mentions_person_refs": [
         "N-319",
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1438,7 +1460,9 @@
       "transcript_snippet": "I received a flood of emails from law enforcement officers, military guys that were just like",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1460,7 +1484,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1478,7 +1504,9 @@
       "transcript_snippet": "I am hesitant, by the way, to put up the rest of the photos. Kind of still going through that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1497,7 +1525,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1516,7 +1546,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1535,7 +1567,9 @@
       "transcript_snippet": "has not been contacted by the lawyers or the investigators on either side of this trial",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1554,7 +1588,9 @@
       "transcript_snippet": "this individual is an instructor at a gun range. He claims the weapon that he saw looked more like a.223.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1572,7 +1608,9 @@
       "transcript_snippet": "wearing what seemed to him to be black tactical gear plus a face mask, and he describes that person as looking like a like a professional",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1591,7 +1629,9 @@
       "transcript_snippet": "The bomb dogs were unable to locate the weapon in the field where it was eventually discovered despite the fact that they had crawled over that area.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1609,7 +1649,9 @@
       "transcript_snippet": "Instead, what happened was federal agents directed local officers to the weapon.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1628,7 +1670,9 @@
       "transcript_snippet": "The canines were not provided with the scent of the weapon once it was discovered.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1647,7 +1691,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1670,7 +1716,9 @@
         "N-261",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1690,7 +1738,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1708,7 +1758,9 @@
       "transcript_snippet": "Federal agents removed the hospital surveillance footage.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1726,7 +1778,9 @@
       "transcript_snippet": "the vehicle in which Charlie was transported to Timpanogos or Timpanogos Hospital was not impounded by law enforcement.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1748,7 +1802,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1767,7 +1823,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1788,7 +1846,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1807,7 +1867,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1826,7 +1888,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1845,7 +1909,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1863,7 +1929,9 @@
       "transcript_snippet": "there's just way too much of a habit of establishing former pedophiles and drug traffickers as lead pastors of churches.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1882,7 +1950,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1900,7 +1970,9 @@
       "transcript_snippet": "Similarly, there are so many conservative media companies who are run by former military intelligence. People that leave naval intelligence, people that leave the Mossad.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1918,7 +1990,9 @@
       "transcript_snippet": "I have been suggesting to you all that faith has been infiltrated by the military and people laughed.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1939,7 +2013,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1959,7 +2035,9 @@
       "transcript_snippet": "their story begins in May of 2013. They are two recently baptized Christians.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1979,7 +2057,9 @@
       "transcript_snippet": "this couple over time effectively staged something akin to a hostile takeover of their company.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1999,7 +2079,9 @@
       "transcript_snippet": "This young woman described Bruce as, quote, \"the most evil man that she had ever met.\"",
       "mentions_person_refs": [
         "N-362"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2101,9 @@
       "transcript_snippet": "My ears perked up when I heard his name as I immediately remembered the incident with his wife.",
       "mentions_person_refs": [
         "N-362"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2039,7 +2123,9 @@
       "transcript_snippet": "I have to wonder if the infiltration and the destruction of our gym was actually a training exercise or field assignment.",
       "mentions_person_refs": [
         "N-362"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2061,7 +2147,9 @@
       "mentions_person_refs": [
         "N-362",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2085,7 +2173,9 @@
       "mentions_person_refs": [
         "N-362",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2103,7 +2193,9 @@
       "transcript_snippet": "I keep telling you that all roads, including the Egyptian here Israeli uh planes lead to the front door of Turning Point USA Faith.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2123,7 +2215,9 @@
       "transcript_snippet": "please email moretips@candaceowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2141,7 +2235,9 @@
       "transcript_snippet": "we suddenly have been experiencing wall-to-wall panic ever since we mentioned Fort Huachuca.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2158,7 +2254,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2178,7 +2276,9 @@
       "transcript_snippet": "we were part of a mission going down to um down to the border of JTF6, assigned from 10th Mountain.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2198,7 +2298,9 @@
       "transcript_snippet": "I think we put in like 80 sensors or so along the border",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2218,7 +2320,9 @@
       "transcript_snippet": "we could triangulate the um triangulate the signals and be able to pinpoint the location.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2342,9 @@
       "transcript_snippet": "one of the commanders that was um with the border patrol um was actually posed with a photo um that was found on the Mexican side um after the tunnel apparently had been built",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2258,7 +2364,9 @@
       "transcript_snippet": "the federal government knew that 80% I think it was 60 to 80% of the cocaine was coming through the Douglas Arizona area",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2279,7 +2387,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2299,7 +2409,9 @@
       "transcript_snippet": "I got to got the honor of incinerating all the uh uh it's about a ton of cocaine it was and bunch of guns bunch of money",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2319,7 +2431,9 @@
       "transcript_snippet": "I was too stupid I didn't understand why this person was coming up or why they had personal information on me",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2339,7 +2453,9 @@
       "transcript_snippet": "the photos from the Mexican side had made their way to the American side and and they were able to put together how my information got got fed um to the other side.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2360,7 +2476,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2380,7 +2498,9 @@
       "transcript_snippet": "that's what led me to going down to Fort Huachuca was just to get the original records and find out you know why wasn't the FBI updated as what my status was",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2405,7 +2525,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2425,7 +2547,9 @@
       "transcript_snippet": "no typically you can as long as you have your your ID your insurance and you have a purpose for being there",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2569,9 @@
       "transcript_snippet": "that was actually the barracks that I had when I was there in in AIT training but they converted it",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2466,7 +2592,9 @@
       "transcript_snippet": "one guy that was sitting on the couch he just had a sheen to him uh looked like he had a professional military sheen to him",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2487,7 +2615,9 @@
       "transcript_snippet": "there was a vehicle parked out front, uh big green truck. G- It looked like a real shiny GSA type.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2507,7 +2637,9 @@
       "transcript_snippet": "ran into some 10th Mountain people there. Um they said they were there for JTF.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2530,7 +2662,9 @@
       ],
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2550,7 +2684,9 @@
       "transcript_snippet": "some of the military lieutenant colonels there and the and the unit sergeant major escorted them out. Um they got into one of the GSAs",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2706,9 @@
       "transcript_snippet": "Some of those vehicles there, they're reserved uh at any GSA where they have VIPs that come in.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2591,7 +2729,9 @@
       "transcript_snippet": "I did catch that there was yet another I don't know if it was the same GSA vehicle returning or a different one, but that did pull up to the building. Uh, I see who got in it.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2611,7 +2751,9 @@
       "transcript_snippet": "and then they mentioned a bomb threat. They wanted to check my vehicle.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2635,7 +2777,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2655,7 +2799,9 @@
       "transcript_snippet": "they didn't answer any of the questions I was there for. Uh, they didn't give me the documentation I wanted.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2675,7 +2821,9 @@
       "transcript_snippet": "they were looking for any excuse to try and um hold me up for like 24 hours.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2696,7 +2844,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2870,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2739,7 +2891,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2764,7 +2918,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2788,7 +2944,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2807,7 +2965,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2826,7 +2986,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2844,7 +3006,9 @@
       "transcript_snippet": "being sued by a transatlantic president overseas for just trying to tell the truth",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2863,7 +3027,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2880,7 +3046,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2897,7 +3065,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2916,7 +3086,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2933,7 +3105,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2950,7 +3124,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

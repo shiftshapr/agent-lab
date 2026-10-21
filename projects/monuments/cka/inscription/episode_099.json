@@ -2189,7 +2189,9 @@
       "investigative_direction": "Obtain the original 2018 text record or corroborating screenshots; compare wording to other contemporaneous Kirk statements.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2206,7 +2208,9 @@
       "investigative_direction": "Corroborate the second message via original device records or screenshots.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2223,7 +2227,9 @@
       "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2242,7 +2248,9 @@
         "N-36",
         "N-44",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2261,7 +2269,9 @@
         "N-36",
         "N-44",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2279,7 +2289,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:07",
-      "investigative_direction": "Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties."
+      "investigative_direction": "Pull the FARA filing directly from DOJ FARA public registry; confirm registration date and contracting parties.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2296,7 +2308,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:08",
-      "investigative_direction": "Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings."
+      "investigative_direction": "Compare filing scope to actual deployed activities via FOIA or FARA supplemental filings.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2315,7 +2329,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:34",
-      "investigative_direction": "Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope."
+      "investigative_direction": "Pull original FARA filing from DOJ registry; confirm contracting parties and stated scope.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2334,7 +2350,9 @@
       "investigative_direction": "Verify corporate registration records for Clock Tower X LLC.",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2350,7 +2368,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
-      "investigative_direction": "Obtain full filing exhibit; verify exact quoted language and listed platforms."
+      "investigative_direction": "Obtain full filing exhibit; verify exact quoted language and listed platforms.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2370,7 +2390,9 @@
       "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.",
       "mentions_person_refs": [
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2389,7 +2411,9 @@
       "investigative_direction": "Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.",
       "mentions_person_refs": [
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2409,7 +2433,9 @@
       "mentions_person_refs": [
         "N-33",
         "N-374"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2428,7 +2454,9 @@
       "investigative_direction": "Verify MxM News corporate filings; confirm 30% acquisition price and structure.",
       "mentions_person_refs": [
         "N-33"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2451,7 +2479,9 @@
       "mentions_person_refs": [
         "N-85",
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2471,7 +2501,9 @@
       "mentions_person_refs": [
         "N-85",
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2522,9 @@
       "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
       "mentions_person_refs": [
         "N-373"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2509,7 +2543,9 @@
       "tags": [],
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Verify via FARA filing registrant of record and any disclosed outside counsel.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2526,7 +2562,9 @@
       "investigative_direction": "Obtain the original group text record; verify the participant list and exact wording.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2547,7 +2585,9 @@
       "investigative_direction": "Cross-check with FARA activity reports; obtain any device-level data on geofence delivery.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2563,7 +2603,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:40",
-      "investigative_direction": "Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures."
+      "investigative_direction": "Locate primary source for Project 545 budget figure; cross-check against FARA contract disclosures.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2583,7 +2625,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2646,9 @@
       "investigative_direction": "Verify against Lively's official public statement archive.",
       "mentions_person_refs": [
         "N-484"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2621,7 +2667,9 @@
       "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text.",
       "mentions_person_refs": [
         "N-484"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2639,7 +2687,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2656,7 +2706,9 @@
       "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material.",
       "mentions_person_refs": [
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2674,7 +2726,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2694,7 +2748,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2769,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2733,7 +2791,9 @@
       "transcript_snippet": "They are going to be upping their spend on American propaganda to almost a billion dollars this year.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2754,7 +2814,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2782,7 +2844,9 @@
         "N-14",
         "N-270",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2808,7 +2872,9 @@
         "N-266",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2831,7 +2897,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2852,7 +2920,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2872,7 +2942,9 @@
         "N-22",
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2894,7 +2966,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2916,7 +2990,9 @@
         "N-1",
         "N-31",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2936,7 +3012,9 @@
         "N-36",
         "N-44",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2963,7 +3041,9 @@
       ],
       "mentions_person_refs": [
         "N-10595"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2982,7 +3062,9 @@
       "mentions_person_refs": [
         "N-707",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3004,7 +3086,9 @@
         "N-430",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3030,7 +3114,9 @@
       "mentions_person_refs": [
         "N-11267",
         "N-10657"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3056,7 +3142,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3080,7 +3168,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3102,7 +3192,9 @@
         "N-46",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3124,7 +3216,9 @@
         "N-46",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3150,7 +3244,9 @@
         "N-46",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3172,7 +3268,9 @@
         "N-55",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3198,7 +3296,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3219,7 +3319,9 @@
       "transcript_snippet": "And somehow on October 15th, he's given a a a show on the Salem Podcast Network. The same network that hosts the Charlie Kirk show.",
       "mentions_person_refs": [
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3239,7 +3341,9 @@
       "transcript_snippet": "I remember learning that that Salem was struggling financially. That they they were not able to like they were looking for a buyer, looking for a deal",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3262,7 +3366,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3284,7 +3390,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3307,7 +3415,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3330,7 +3440,9 @@
         "N-159",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3350,7 +3462,9 @@
       "transcript_snippet": "They even have their own separate building on the property of the Turning Point USA campus.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3372,7 +3486,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3513,9 @@
         "N-1",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3426,7 +3544,9 @@
         "N-1",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3446,7 +3566,9 @@
         "N-33",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3468,7 +3590,9 @@
       "transcript_snippet": "ensuring that the Knesset's 2018 plan to skirt FARA could proceed with min- minimal risk of prosecution.",
       "mentions_person_refs": [
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3490,7 +3614,9 @@
       "transcript_snippet": "the Counterintelligence and Export Control Section, including the FARA Unit, shall focus on civil enforcement, regulatory initiatives, and public guidance.",
       "mentions_person_refs": [
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3516,7 +3642,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3543,7 +3671,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3567,7 +3697,9 @@
       "transcript_snippet": "And on October 23rd, the Josh Hammer Show joins the Salem Podcast Network through a new distribution partnership with Newspeak with Newsweek.",
       "mentions_person_refs": [
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3587,7 +3719,9 @@
       "transcript_snippet": "the Dhillon Law Group firm, uh which has been privately suing me for 2 years.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3606,7 +3740,9 @@
       ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Read the Show Faith by Works filing scope for any reference to schools.",
-      "transcript_snippet": "Show Faith by Works LLC is going to target the churches, they're going to target the schools."
+      "transcript_snippet": "Show Faith by Works LLC is going to target the churches, they're going to target the schools.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3627,7 +3763,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3648,7 +3786,9 @@
       "mentions_person_refs": [
         "N-253",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3669,7 +3809,9 @@
       "mentions_person_refs": [
         "N-226",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3690,7 +3832,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3712,7 +3856,9 @@
         "N-891",
         "N-485",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3735,7 +3881,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-918"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3758,7 +3906,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-918"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3780,7 +3930,9 @@
       "transcript_snippet": "Even in the featured artwork for the book that they created to go along with the movie, they included this passive-aggressive passage and a description regarding nice pool.",
       "mentions_person_refs": [
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3802,7 +3954,9 @@
         "N-375",
         "N-376",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3825,7 +3979,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3848,7 +4004,9 @@
       ],
       "mentions_person_refs": [
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3870,7 +4028,9 @@
         "N-484",
         "N-485",
         "N-486"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3891,7 +4051,9 @@
       "transcript_snippet": "the harassment that I have gone through privately with the Daily Wire throughout the court system that now I'm actually kind of happy some of this is spilling into public",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3914,7 +4076,9 @@
         "N-14",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3935,7 +4099,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3959,7 +4125,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3983,7 +4151,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4004,7 +4174,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4025,7 +4197,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4047,7 +4221,9 @@
         "N-190",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4072,7 +4248,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4094,7 +4272,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4116,7 +4296,9 @@
       "mentions_person_refs": [
         "N-15",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4137,7 +4319,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4161,7 +4345,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4183,7 +4369,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4203,7 +4391,9 @@
       "transcript_snippet": "They can also send uh 3,000 emails on a dime if you have an event.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4226,7 +4416,9 @@
       ],
       "revises_claim_refs": [
         "C-8741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4244,7 +4436,9 @@
       "transcript_snippet": "we did have the number one day our our top sales merchandising sales yesterday.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4265,7 +4459,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4286,7 +4482,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4307,7 +4505,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4328,7 +4528,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4346,7 +4548,9 @@
       "transcript_snippet": "I think her daughter died drowning in a bathtub. I think Brittany Murphy died drowning in a bathtub.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

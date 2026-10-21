@@ -1482,6 +1482,8 @@ Anchored Artifacts:
 Mentions: N-5, N-2
 Related Nodes: N-10908
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-10105
 Investigative Direction: Verify which pageant Erika won (the host also says Miss Arizona USA) and the ownership of that pageant in 2011.
 
 ---

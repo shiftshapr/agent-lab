@@ -868,6 +868,8 @@ Anchored Artifacts: A-3392.2
 Mentions: N-41, N-957
 Related Nodes: N-11343
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-14311
 Investigative Direction: The governor's published schedule for September 2, 2025.
 
 ---

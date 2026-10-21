@@ -1477,7 +1477,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1501,7 +1503,9 @@
         "N-190",
         "N-2",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1520,7 +1524,9 @@
       "mentions_person_refs": [
         "N-897",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1538,7 +1544,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1558,7 +1566,9 @@
         "N-159",
         "N-1",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1578,7 +1588,9 @@
         "N-3",
         "N-159",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1596,7 +1608,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1613,7 +1627,9 @@
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1627,7 +1643,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:42:43",
-      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp."
+      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1641,7 +1659,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:50",
-      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording, timestamp, and the specific prediction market referenced."
+      "investigative_direction": "Retrieve the original post via web archive to confirm exact wording, timestamp, and the specific prediction market referenced.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1658,7 +1678,9 @@
       "investigative_direction": "Identify the original venue/date of the Vance clip to anchor sourcing.",
       "mentions_person_refs": [
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1675,7 +1697,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:52–00:05:41",
-      "investigative_direction": "Obtain parking-garage entry/exit logs and timestamped surveillance footage to independently verify the arrivals of two distinct grey Challengers."
+      "investigative_direction": "Obtain parking-garage entry/exit logs and timestamped surveillance footage to independently verify the arrivals of two distinct grey Challengers.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1692,7 +1716,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:41",
-      "investigative_direction": "Obtain the original admin-lot surveillance footage to verify the number of attempts and any identifying characteristics of the driver."
+      "investigative_direction": "Obtain the original admin-lot surveillance footage to verify the number of attempts and any identifying characteristics of the driver.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1709,7 +1735,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:33–00:13:00",
-      "investigative_direction": "Obtain the full top-of-structure surveillance footage to verify the eight-minute duration and any subject activity during that window."
+      "investigative_direction": "Obtain the full top-of-structure surveillance footage to verify the eight-minute duration and any subject activity during that window.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1726,7 +1754,9 @@
       "investigative_direction": "Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1746,7 +1776,9 @@
       "mentions_person_refs": [
         "N-898",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1766,7 +1798,9 @@
       "investigative_direction": "Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.",
       "mentions_person_refs": [
         "N-860"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1784,7 +1818,9 @@
       "mentions_person_refs": [
         "N-899",
         "N-861"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1801,7 +1837,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1820,7 +1858,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1843,7 +1883,9 @@
         "N-159",
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1866,7 +1908,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1889,7 +1933,9 @@
       "transcript_snippet": "And he has exceptionally tall legs and he looks to me like he's shaped like Waluigi.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1915,7 +1961,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1936,7 +1984,9 @@
       "transcript_snippet": "we have actually no idea what either of these two people did for an approximate hour and a half on campus",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1957,7 +2007,9 @@
       "transcript_snippet": "All we got from the pre preliminary hearing is that Maroon Boy parked went up to a Turning Point USA employee and asked her if this is where the event was going to be held.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1981,7 +2033,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-860"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2007,7 +2061,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2031,7 +2087,9 @@
         "N-860",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2051,7 +2109,9 @@
       "transcript_snippet": "There are no photos or videos of an identifiable Dodge Challenger parked off campus.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2072,7 +2132,9 @@
       "mentions_person_refs": [
         "N-861",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2095,7 +2157,9 @@
       "mentions_person_refs": [
         "N-860",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2118,7 +2182,9 @@
       "transcript_snippet": "there's only one time where I observe what and I'm going to show you that what looks to me like he's I don't know maybe picking up something down by his feet",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2145,7 +2211,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2169,7 +2237,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2192,7 +2262,9 @@
       "transcript_snippet": "That was the decoy boy's literal job was to make sure that this car gets captured on camera throughout the parking structure.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2216,7 +2288,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2236,7 +2310,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2259,7 +2335,9 @@
       "transcript_snippet": "Please email us more tips@canniswowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2359,9 @@
         "N-40",
         "N-54",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2303,7 +2383,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2406,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2345,7 +2429,9 @@
       "transcript_snippet": "I think there could have been a morning meeting that happened at UVU ahead of what was in my opinion a very carefully planned assassination.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2369,7 +2455,9 @@
       "mentions_person_refs": [
         "N-899",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2389,7 +2477,9 @@
       "transcript_snippet": "I suspect that those people were driving a rental car",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2411,7 +2501,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2435,7 +2527,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2556,9 @@
         "N-860",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2489,7 +2585,9 @@
         "N-860",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2513,7 +2611,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2535,7 +2635,9 @@
       "mentions_person_refs": [
         "N-899",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2659,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2684,9 @@
       "transcript_snippet": "There was a lot of people who early on kept saying that they thought that they saw things happening on top of the Woodberry built building.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2708,9 @@
       "transcript_snippet": "There was also that person that was arrested who was taking photos outside of the Woodbury building that nobody really talks about anymore uh the very next day who was wearing a medical coat",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2738,9 @@
         "N-94",
         "N-200",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2658,7 +2768,9 @@
         "N-94",
         "N-200",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2683,7 +2795,9 @@
         "N-834",
         "N-900",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2711,7 +2825,9 @@
         "N-834",
         "N-900",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2850,9 @@
       "transcript_snippet": "reach back out to us at more tips@candis. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2757,7 +2875,9 @@
         "N-366",
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2783,7 +2903,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2805,7 +2927,9 @@
         "N-897",
         "N-1",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2828,7 +2952,9 @@
       "mentions_person_refs": [
         "N-897",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2981,9 @@
         "N-897",
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2876,7 +3004,9 @@
         "N-366",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2897,7 +3027,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +3051,9 @@
         "N-159",
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2941,7 +3075,9 @@
         "N-22",
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2962,7 +3098,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2988,7 +3126,9 @@
         "N-190",
         "N-14",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3010,7 +3150,9 @@
       "transcript_snippet": "andor I'm not sure which, but certainly Candace has crossed all those lines.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3035,7 +3177,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3056,7 +3200,9 @@
       "mentions_person_refs": [
         "N-244",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3077,7 +3223,9 @@
       "mentions_person_refs": [
         "N-579",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3098,7 +3246,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3117,7 +3267,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3136,7 +3288,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1680,7 +1680,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1703,7 +1705,9 @@
         "N-7",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1726,7 +1730,9 @@
       "mentions_person_refs": [
         "N-595",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1747,7 +1753,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1773,7 +1781,9 @@
         "N-14",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1792,7 +1802,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1813,7 +1825,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1833,7 +1847,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1854,7 +1870,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1876,7 +1894,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1898,7 +1918,9 @@
         "N-14",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1919,7 +1941,9 @@
         "N-2",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1941,7 +1965,9 @@
         "N-14",
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1963,7 +1989,9 @@
         "N-2",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1982,7 +2010,9 @@
       "mentions_person_refs": [
         "N-596",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2002,7 +2032,9 @@
       "transcript_snippet": "I'm putting this out as my theory that Andrew departed from Santa Barbara headed for Scottsdale um at approximately 1:03 according to his memory.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2024,7 +2056,9 @@
         "N-2",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2045,7 +2079,9 @@
       "transcript_snippet": "there's this mysterious flight that I know nothing about uh but I think it's relevant. We saw it today that departs from Page, Arizona for Provo",
       "supports_claim_refs": [
         "C-1676"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2071,7 +2107,9 @@
         "N-493",
         "N-550",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2093,7 +2131,9 @@
         "N-15",
         "N-550",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2113,7 +2153,9 @@
       "transcript_snippet": "2:31, Charlie's plane I believe with all of them on it departs from Scottsdale and heads for Utah.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2134,7 +2176,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2159,7 +2203,9 @@
         "N-11",
         "N-186",
         "N-597"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2183,7 +2229,9 @@
         "N-186",
         "N-597",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2251,9 @@
       "transcript_snippet": "But that has been sort of a dead end since they sent me the cease and desist.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2278,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,6 +2304,10 @@
       ],
       "mentions_person_refs": [
         "N-2"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-11384"
       ]
     },
     {
@@ -2271,7 +2327,9 @@
       "transcript_snippet": "Erika's mother was not in [clears throat] the hospital on September 8th. She was not in the hospital on September 9th. And she was not in the hospital on September 10th.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2351,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2316,7 +2376,9 @@
         "N-2",
         "N-3",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2337,7 +2399,9 @@
       "mentions_person_refs": [
         "N-217",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2359,7 +2423,9 @@
         "N-2",
         "N-211",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2378,7 +2444,9 @@
       "mentions_person_refs": [
         "N-594",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2397,7 +2465,9 @@
       "mentions_person_refs": [
         "N-243",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2416,7 +2486,9 @@
       "mentions_person_refs": [
         "N-106",
         "N-594"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2435,7 +2507,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2456,7 +2530,9 @@
       "transcript_snippet": "You can get Scott Bessent to issue a letter and say, \"Turning Point is in great financial standing.\"",
       "mentions_person_refs": [
         "N-598"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2479,7 +2555,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2503,7 +2581,9 @@
         "N-361",
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2524,7 +2604,9 @@
       "transcript_snippet": "It left Pierre, South Dakota, at 2:40 p. m. It landed in Chicago at 4:06 p. m. Less than an hour later, it it left for Provo.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2544,7 +2626,9 @@
       "transcript_snippet": "This is Fort Huachuca. Atlanta to Fort Huachuca. It lands at 9:33 a. m. And it's there all day. It does not leave until 4:39 p. m.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2565,7 +2649,9 @@
       "mentions_person_refs": [
         "N-246",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2587,7 +2673,9 @@
         "N-4",
         "N-1",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2607,7 +2695,9 @@
       "transcript_snippet": "Cool. Okay, I was really wrong. N582MM is that tail number.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2716,9 @@
       "transcript_snippet": "I should also mention that the Egyptian planes are back in town in Provo, just in time for Brigitte to be back in town.",
       "mentions_person_refs": [
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2647,7 +2739,9 @@
         "N-14",
         "N-209",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2669,7 +2763,9 @@
         "N-217",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2690,7 +2786,9 @@
       "mentions_person_refs": [
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2709,7 +2807,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2727,7 +2827,9 @@
       "transcript_snippet": "We haven't had his arraignment, guys. How are we saying Tyler Robinson did it?",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

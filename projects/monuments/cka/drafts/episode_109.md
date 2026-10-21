@@ -832,6 +832,8 @@ Transcript Snippet: on September 9th, it left Fort Huachuca at 11:43 a. m. local
 Anchored Artifacts: A-2611.1
 Mentions:
 Related Nodes: N-10611
+Verification: revised-by-host
+Verification Evidence: C-9913
 Investigative Direction: ADS-B and FAA flight records for the aircraft using call sign SAM 702 on September 9, 2025.
 
 ---

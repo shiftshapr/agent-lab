@@ -1872,6 +1872,8 @@ Transcript Snippet: In January, she's telling employees via a conference call sh
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10974
+Verification: revised-by-host
+Verification Evidence: C-10288
 Investigative Direction: Obtain a recording or transcript of the January all-staff call.
 
 ---

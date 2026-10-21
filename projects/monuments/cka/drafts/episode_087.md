@@ -1412,6 +1412,8 @@ Mentions: N-134
 
 Related Nodes: N-10527
 
+Verification: revised-by-host
+Verification Evidence: C-10996
 Investigative Direction: Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.
 
 ---

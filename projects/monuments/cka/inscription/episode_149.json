@@ -1897,7 +1897,9 @@
       "investigative_direction": "Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.",
       "mentions_person_refs": [
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1916,9 @@
       "investigative_direction": "Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).",
       "mentions_person_refs": [
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1931,7 +1935,9 @@
       "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.",
       "mentions_person_refs": [
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1948,7 +1954,9 @@
       "investigative_direction": "Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1965,7 +1973,9 @@
       "investigative_direction": "Compare the Paramount statement with the Shawn Ryan \"car crash\" interview; obtain transcripts and verify continuity.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1983,7 +1993,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1998,7 +2010,9 @@
       "tags": [],
       "claim_timestamp": "00:16:39",
       "investigative_direction": "Locate the original witness video/post; cross-reference with the September 10 security footage of the SUV's hospital arrival.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2015,7 +2029,9 @@
       "investigative_direction": "Obtain higher-resolution frame stills; cross-check with independent footage sources.",
       "mentions_person_refs": [
         "N-896"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2035,7 +2051,9 @@
         "N-896",
         "N-492",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2052,7 +2070,9 @@
       "investigative_direction": "Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.",
       "mentions_person_refs": [
         "N-896"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2069,7 +2089,9 @@
       "investigative_direction": "Identify scrubs source; obtain hospital records/logs.",
       "mentions_person_refs": [
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2086,7 +2108,9 @@
       "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
       "mentions_person_refs": [
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2104,7 +2128,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2121,7 +2147,9 @@
       "investigative_direction": "Higher-resolution frame analysis; cross-reference with clothing inventories.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2137,7 +2165,9 @@
       "tags": [],
       "claim_timestamp": "00:33:02",
       "investigative_direction": "Obtain the original receipt, forensic authentication (printing analysis, timestamp verification), and confirmation from the restaurant's point-of-sale system.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2154,7 +2184,9 @@
       "investigative_direction": "Obtain the precise timestamp from the receipt/POS system; verify against Tyler Robinson's movements.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2174,7 +2206,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2192,7 +2226,9 @@
       "investigative_direction": "Identify the underlying source(s) raising the host's confidence; obtain evidence admissible in court.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2210,7 +2246,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-899"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2225,7 +2263,9 @@
       "tags": [],
       "claim_timestamp": "00:33:40",
       "investigative_direction": "Document the review pattern (volume, timing, account origins); consult the restaurant's records.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2240,7 +2280,9 @@
       "tags": [],
       "claim_timestamp": "00:33:40",
       "investigative_direction": "Confirm with FBI 302 forms or other official records; interview both owner and server directly.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2297,9 @@
       "tags": [],
       "claim_timestamp": "00:44:20",
       "investigative_direction": "Identify who \"Blakey\" refers to; obtain original recording or corroborating testimony; flag the comment as uncorroborated hearsay.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2275,7 +2319,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2294,7 +2340,9 @@
       "investigative_direction": "Retrieve the original article from Fox News archives; verify URL and publication date.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2359,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2380,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2399,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2365,7 +2419,9 @@
       "transcript_snippet": "I'm only a few weeks away from giving birth.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2384,7 +2440,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2404,7 +2462,9 @@
       "transcript_snippet": "This individual who we initially named as Chester Barnes, someone that we thought was working with Integrity Solutions",
       "mentions_person_refs": [
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2426,7 +2486,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2444,7 +2506,9 @@
       "transcript_snippet": "Derek Pepper Williams, a former Navy Seal who worked in Naval Special Warfare Operations.",
       "mentions_person_refs": [
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2531,9 @@
       ],
       "mentions_person_refs": [
         "N-269"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2488,7 +2554,9 @@
       "transcript_snippet": "the same department that we have learned is oddly married to the Charlie Kirk assassination in ways that we didn't expect, instructing influencers to attack me over our investigation.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2507,7 +2575,9 @@
       "mentions_person_refs": [
         "N-432",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2526,7 +2596,9 @@
       "mentions_person_refs": [
         "N-432",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2548,7 +2620,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2572,7 +2646,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2595,7 +2671,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2614,7 +2692,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2644,7 +2724,9 @@
         "N-55",
         "N-159",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2667,7 +2749,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2689,7 +2773,9 @@
         "N-55",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2712,7 +2798,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2820,9 @@
         "N-14",
         "N-329",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2754,7 +2844,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2776,7 +2868,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2796,7 +2890,9 @@
       "transcript_snippet": "Consider them telling us that Charlie was so long that they had to leave the door open and his legs had to hang out.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2820,7 +2916,9 @@
       ],
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2845,7 +2943,9 @@
         "N-266",
         "N-224",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2866,7 +2966,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2890,7 +2992,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2912,7 +3016,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2934,7 +3040,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2958,7 +3066,9 @@
       ],
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2981,7 +3091,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3004,7 +3116,9 @@
         "N-266",
         "N-487",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3022,7 +3136,9 @@
       "transcript_snippet": "The police came because Charlie's feet were hanging out.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3162,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3071,7 +3189,9 @@
       "mentions_person_refs": [
         "N-208",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3095,7 +3215,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-208"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3115,7 +3237,9 @@
       "transcript_snippet": "there was just one eyewitness that came forward that we could find who claimed to see them arriving at the hospital.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3258,9 @@
       ],
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Verify the witness's presence through his original post metadata and any lot or camera footage.",
-      "transcript_snippet": "he was sitting in the parking lot eating his lunch at Timpanogos and he described seeing a man get out of crucially the trunk."
+      "transcript_snippet": "he was sitting in the parking lot eating his lunch at Timpanogos and he described seeing a man get out of crucially the trunk.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3157,7 +3283,9 @@
       ],
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3181,7 +3309,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3203,7 +3333,9 @@
       "transcript_snippet": "We aren't going to reveal to you footage from inside of the hospital. Not yet, at least.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3227,7 +3359,9 @@
       "mentions_person_refs": [
         "N-492",
         "N-896"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3252,7 +3386,9 @@
         "N-7",
         "N-896",
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3273,7 +3409,9 @@
       "mentions_person_refs": [
         "N-270",
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3294,7 +3432,9 @@
       "mentions_person_refs": [
         "N-896",
         "N-492"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3315,7 +3455,9 @@
       "transcript_snippet": "It seems like a risk to just be handing out surgical scrubs to everyone apparently uh for no reason.",
       "mentions_person_refs": [
         "N-10524"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3335,7 +3477,9 @@
       "transcript_snippet": "They're also allowing Brian Harpole to jump on patients and cut their shirts. That doesn't seem to follow protocol.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3355,7 +3499,9 @@
       "transcript_snippet": "That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3375,7 +3521,9 @@
       "transcript_snippet": "Blake Gibson and surgical scrubs. That's who you see up in the top there.",
       "mentions_person_refs": [
         "N-953"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3545,9 @@
       "transcript_snippet": "I don't know about this story about Mikey handing out surgical scrubs.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3419,7 +3569,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3436,7 +3588,9 @@
       ],
       "claim_timestamp": "00:26:38",
       "investigative_direction": "Check Pre-Born published annual figures against the 60,000 claim; sponsor read recorded as said.",
-      "transcript_snippet": "this year alone, God has used pre-born to save nearly 60,000 babies from abortion"
+      "transcript_snippet": "this year alone, God has used pre-born to save nearly 60,000 babies from abortion",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3459,7 +3613,9 @@
       "transcript_snippet": "there was allegedly a disagreement uh during or immediately after the surg surgery where this doctor felt the need to recuse himself and completely remove himself from the situation altogether.",
       "mentions_person_refs": [
         "N-10524"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3482,7 +3638,9 @@
       "transcript_snippet": "he asked to have all of his name his name removed from anything to do with it off all of the records",
       "mentions_person_refs": [
         "N-10527"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3504,7 +3662,9 @@
         "N-18",
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3526,7 +3686,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3549,7 +3711,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3566,7 +3730,9 @@
       ],
       "claim_timestamp": "00:32:09",
       "investigative_direction": "Map the dates of influencer posts attempting to debunk the receipt against the preliminary hearing date.",
-      "transcript_snippet": "Suddenly, this six-month-old story became a focal point ahead of the preliminary hearing."
+      "transcript_snippet": "Suddenly, this six-month-old story became a focal point ahead of the preliminary hearing.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3590,7 +3756,9 @@
       ],
       "mentions_person_refs": [
         "N-10937"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3613,7 +3781,9 @@
       ],
       "mentions_person_refs": [
         "N-365"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3630,7 +3800,9 @@
       ],
       "claim_timestamp": "00:33:02",
       "investigative_direction": "Collect the named debunking posts and what evidence each cited.",
-      "transcript_snippet": "a bunch of people then insisting at various times that the receipt was fake, that the receipt was non-existent, that the story had somehow been debunked"
+      "transcript_snippet": "a bunch of people then insisting at various times that the receipt was fake, that the receipt was non-existent, that the story had somehow been debunked",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3647,7 +3819,9 @@
       ],
       "claim_timestamp": "00:33:02",
       "investigative_direction": "Interview the owner and the servers on shift to establish who personally served the customer.",
-      "transcript_snippet": "he didn't claim to be there that night. He basically told the story."
+      "transcript_snippet": "he didn't claim to be there that night. He basically told the story.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3664,7 +3838,9 @@
       ],
       "claim_timestamp": "00:33:40",
       "investigative_direction": "Analyze the review accounts' creation dates and activity patterns; the host offers this as a guess.",
-      "transcript_snippet": "My guess would be it would be the feds sloppers doing that."
+      "transcript_snippet": "My guess would be it would be the feds sloppers doing that.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3688,7 +3864,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3711,7 +3889,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3733,7 +3913,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3755,7 +3937,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3780,7 +3964,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3799,7 +3985,9 @@
       "mentions_person_refs": [
         "N-899",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3817,7 +4005,9 @@
       "transcript_snippet": "they're now pulling back on their narrative and I haven't pulled back one inch on mine.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3834,7 +4024,9 @@
       ],
       "claim_timestamp": "00:38:51",
       "investigative_direction": "Obtain the bank or card-network record of the transaction to remove reliance on witness memory.",
-      "transcript_snippet": "this relies on the memory of the server, right? Or the servers. It doesn't necessarily make it true."
+      "transcript_snippet": "this relies on the memory of the server, right? Or the servers. It doesn't necessarily make it true.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3857,7 +4049,9 @@
       ],
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3880,7 +4074,9 @@
         "N-361",
         "N-2",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3900,7 +4096,9 @@
       "transcript_snippet": "Was somebody dressed like him, looked like him, but had his credit card? That's a possibility I'm open to.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3921,7 +4119,9 @@
       "transcript_snippet": "So, I'm not just putting this on the timeline, unofficial timeline. I'm bolding that now.",
       "mentions_person_refs": [
         "N-10354"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3941,7 +4141,9 @@
       "transcript_snippet": "what I am going to suggest will come out uh during this trial that it was Tyler Robinson's card that was swiped at the cowboy smokehouse on that night.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3962,7 +4164,9 @@
       "transcript_snippet": "It is now the job of Tyler Robinson's defense team to confirm or deny what I am saying. Electronic record is not something that can just be lied about and wiped away.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3979,7 +4183,9 @@
       ],
       "claim_timestamp": "00:41:00",
       "investigative_direction": "Check Paleo Valley's published sourcing claims; sponsor read recorded as said.",
-      "transcript_snippet": "Paleo Valley uses 100% grass-fed and grass-finish beef sourced from American Family Farms."
+      "transcript_snippet": "Paleo Valley uses 100% grass-fed and grass-finish beef sourced from American Family Farms.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3996,7 +4202,9 @@
       ],
       "claim_timestamp": "00:42:29",
       "investigative_direction": "Check the cited research on C15 and cellular aging; sponsor read recorded as said.",
-      "transcript_snippet": "Researchers have found that low levels of C-15 may impact how well our cells age and function over time."
+      "transcript_snippet": "Researchers have found that low levels of C-15 may impact how well our cells age and function over time.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4017,7 +4225,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4038,7 +4248,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4060,7 +4272,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4084,7 +4298,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4106,7 +4322,9 @@
       "transcript_snippet": "It's so crazy that they would even have him training students.",
       "mentions_person_refs": [
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4126,7 +4344,9 @@
       "transcript_snippet": "he speaks to a lot of Only Fans models.",
       "mentions_person_refs": [
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4146,7 +4366,9 @@
       "transcript_snippet": "Remember when Seth Dillon cried about that and was like, I got death threats because of a thumbnail?",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4172,7 +4394,9 @@
       "mentions_person_refs": [
         "N-845",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4192,7 +4416,9 @@
       "transcript_snippet": "Kanye also is the other person who's banned there.",
       "mentions_person_refs": [
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4212,7 +4438,9 @@
       "transcript_snippet": "I really um respected deeply the dedication and the persistence of Tom O'Neill and writing the book Chaos",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4230,7 +4458,9 @@
       "transcript_snippet": "Anti-cannism cups are sold out as they should be because people are activists",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4251,7 +4481,9 @@
       "transcript_snippet": "Email us more tips at kennace. com. Tell us what you know.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4275,7 +4507,9 @@
       "mentions_person_refs": [
         "N-896",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4298,7 +4532,9 @@
         "N-896",
         "N-487",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4317,7 +4553,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

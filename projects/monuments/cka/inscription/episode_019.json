@@ -1613,7 +1613,9 @@
       "investigative_direction": "Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1633,7 +1635,9 @@
       "investigative_direction": "Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1654,7 +1658,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1673,7 +1679,9 @@
       "investigative_direction": "Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1693,7 +1701,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1713,7 +1723,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1745,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1751,7 +1765,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1769,7 +1785,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1786,7 +1804,9 @@
       "investigative_direction": "Identify any direct verbatim text within A-1266.1 that matches the precise phrasing \"Turning Point was going to be the death of him.\"",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1803,7 +1823,9 @@
       "investigative_direction": "Authenticate text message source and timestamp (referenced as having been shown in prior episode; verify against original).",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1820,7 +1842,9 @@
       "investigative_direction": "Identify the date, venue, and full transcript of the UVU exchange.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1840,7 +1864,9 @@
         "N-3",
         "N-1",
         "N-393"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1856,7 +1882,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1874,7 +1902,9 @@
       "mentions_person_refs": [
         "N-184",
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1923,9 @@
       "investigative_direction": "Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing.",
       "mentions_person_refs": [
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1909,7 +1941,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1926,7 +1960,9 @@
         "N-11",
         "N-14",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1942,7 +1978,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1958,7 +1996,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1975,7 +2015,9 @@
         "N-7",
         "N-130",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1992,7 +2034,9 @@
       "investigative_direction": "Locate original comment thread.",
       "mentions_person_refs": [
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2010,7 +2054,9 @@
       "mentions_person_refs": [
         "N-185",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2029,7 +2075,9 @@
       "investigative_direction": "Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2045,7 +2093,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2062,7 +2112,9 @@
       "investigative_direction": "Document the scenarios considered and rejected.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2082,7 +2134,9 @@
         "N-182",
         "N-130",
         "N-183"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2100,7 +2154,9 @@
       "mentions_person_refs": [
         "N-187",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2121,7 +2177,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2200,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2224,9 @@
         "N-1",
         "N-3",
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2185,7 +2247,9 @@
       "mentions_person_refs": [
         "N-27",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2205,7 +2269,9 @@
         "N-3",
         "N-1",
         "N-931"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2223,7 +2289,9 @@
       "transcript_snippet": "Foster Friess funeral who was a big- time donor to Turning Point USA still is I believe",
       "mentions_person_refs": [
         "N-931"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2242,7 +2310,9 @@
       "mentions_person_refs": [
         "N-27",
         "N-931"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2330,9 @@
       "transcript_snippet": "It's now been 47 days since my friend Charlie Kirk was executed in front of the world because that's what it was, a public execution.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2283,7 +2355,9 @@
         "N-11",
         "N-14",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2304,7 +2378,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2322,7 +2398,9 @@
       "transcript_snippet": "She's like the chief money person essentially at Turning Point USA.",
       "mentions_person_refs": [
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2345,7 +2423,9 @@
         "N-11",
         "N-14",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2443,9 @@
       "transcript_snippet": "back at headquarters, I am told it's business as usual",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2468,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2494,9 @@
         "N-17",
         "N-179",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2435,7 +2521,9 @@
         "N-17",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2458,7 +2546,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2479,7 +2569,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2501,7 +2593,9 @@
       "transcript_snippet": "But he stops himself. He says, \"I was watching.\" Watching what exactly. What were you watching?",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2526,7 +2620,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2548,7 +2644,9 @@
       "transcript_snippet": "The next time that you're going to see Mikey McCoy, as we just showed you, is in just under two and a half seconds on the other side of the tent. He's on a phone call.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2571,7 +2669,9 @@
       "transcript_snippet": "maybe we missed it because that seems that seems automatic, right? 0834. That seems pretty quick. And no, no, he doesn't do that.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2596,7 +2696,9 @@
       ],
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2617,7 +2719,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2637,7 +2741,9 @@
       "transcript_snippet": "I actually know it better than most because I helped build that organization.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2658,7 +2764,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2681,7 +2789,9 @@
         "N-3",
         "N-1",
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2708,7 +2818,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2843,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2755,7 +2869,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2779,7 +2895,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2804,7 +2922,9 @@
         "N-3",
         "N-1",
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2827,7 +2947,9 @@
       "transcript_snippet": "He then told me that he needed to speak with Turning Point lawyers first to see about releasing the footage.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2850,7 +2972,9 @@
       "transcript_snippet": "He then said, \"Okay, yeah, I do own the footage. I just wanted, you know, just coordinate, check, whatever.\"",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2873,7 +2997,9 @@
       "transcript_snippet": "He said, \"I don't know how to send the footage.\" Like the file was too large.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2896,7 +3022,9 @@
       "transcript_snippet": "I don't want to just send the footage over the internet uh that's behind Charlie's head because I'm worried that Google might hack me.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2922,7 +3050,9 @@
       ],
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2948,7 +3078,9 @@
       ],
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2971,7 +3103,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2999,7 +3133,9 @@
         "N-3",
         "N-11",
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3024,7 +3160,9 @@
         "N-180",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3047,7 +3185,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3069,7 +3209,9 @@
       "transcript_snippet": "chose to run just a few yards away up to a grassy knoll to take out his phone.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3092,7 +3234,9 @@
       "mentions_person_refs": [
         "N-180",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3115,7 +3259,9 @@
       "transcript_snippet": "A minute after this ends is when he goes and gets the cameras.",
       "mentions_person_refs": [
         "N-180"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3137,7 +3283,9 @@
         "N-3",
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3163,7 +3311,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3187,7 +3337,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3208,7 +3360,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3235,7 +3389,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3260,7 +3416,9 @@
         "N-3",
         "N-27",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3284,7 +3442,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3308,7 +3468,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3494,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3356,7 +3520,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3376,7 +3542,9 @@
       "transcript_snippet": "podcasters, people that make videos, people that are taking money, tell people don't look over there.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3565,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3416,7 +3586,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3436,7 +3608,9 @@
       "transcript_snippet": "the many people that are involved in this, not the lone shooter at different stages, people that are involved, people that know things",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3457,7 +3631,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3475,7 +3651,9 @@
       "transcript_snippet": "Decentralization, publish your own books. Uh because the publishers also have a lot of power in changing history.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3493,7 +3671,9 @@
       "transcript_snippet": "There's a chapter called Beyond the Pale, the Pale Settlement of Russia, who brought over that feminist movement.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3516,7 +3696,9 @@
         "N-3",
         "N-1",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3537,7 +3719,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3557,7 +3741,9 @@
       "transcript_snippet": "nobody from Turning Point defended me and said like that's a lie and what she's saying is true.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3575,7 +3761,9 @@
       "transcript_snippet": "The amount of money that was spent on telling those lies, and I barely had to defend myself",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3597,7 +3785,9 @@
       "transcript_snippet": "How was Mikey McCoy confident enough to stay standing and walking? Nobody knows.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

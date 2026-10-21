@@ -1479,7 +1479,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1498,7 +1500,9 @@
       "investigative_direction": "Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1517,7 +1521,9 @@
       "investigative_direction": "Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1536,7 +1542,9 @@
       "investigative_direction": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1554,7 +1562,9 @@
       "mentions_person_refs": [
         "N-89",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1569,7 +1579,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:38:05",
-      "investigative_direction": "Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases."
+      "investigative_direction": "Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1586,7 +1598,9 @@
       "investigative_direction": "Identify the original Levin broadcast (date, program) for full context.",
       "mentions_person_refs": [
         "N-244"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1604,7 +1618,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1621,7 +1637,9 @@
       "investigative_direction": "Confirm via Daily Mail editorial record or correspondence log.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1640,7 +1658,9 @@
       "investigative_direction": "Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1675,9 @@
       "investigative_direction": "Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1672,7 +1694,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1691,7 +1715,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1710,7 +1736,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1730,7 +1758,9 @@
         "N-159",
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1755,7 +1785,9 @@
         "N-3",
         "N-506",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1775,7 +1807,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1797,7 +1831,9 @@
         "N-7",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1818,7 +1854,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1839,7 +1877,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1861,7 +1901,9 @@
         "N-40",
         "N-125",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1880,7 +1922,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1902,7 +1946,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1922,7 +1968,9 @@
         "N-1",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1944,7 +1992,9 @@
         "N-7",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1965,7 +2015,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1988,7 +2040,9 @@
       "mentions_person_refs": [
         "N-681",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2013,7 +2067,9 @@
         "N-783",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2035,7 +2091,9 @@
       "transcript_snippet": "that week the senator had to cancel very early on in the week due to the National Defense Authorization Act",
       "mentions_person_refs": [
         "N-783"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2053,7 +2111,9 @@
       "transcript_snippet": "His father was actually the founding dean of BYU's law school program.",
       "mentions_person_refs": [
         "N-783"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2078,7 +2138,9 @@
         "N-783",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2164,9 @@
       "mentions_person_refs": [
         "N-783",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2125,7 +2189,9 @@
       "mentions_person_refs": [
         "N-783",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2214,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2171,7 +2239,9 @@
       "mentions_person_refs": [
         "N-783",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2195,7 +2265,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2213,7 +2285,9 @@
       "transcript_snippet": "posting people on your platform that are calling for my home to be raided for sharing the video of the guy who certainly looks like he's got some military experience on the rooftop.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2312,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2259,7 +2335,9 @@
         "N-69",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2364,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2314,7 +2394,9 @@
         "N-69",
         "N-378",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2338,7 +2420,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2447,9 @@
       ],
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2388,7 +2474,9 @@
       ],
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2412,7 +2500,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2434,7 +2524,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2460,7 +2552,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2487,7 +2581,9 @@
         "N-748",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2514,7 +2610,9 @@
         "N-506",
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2533,7 +2631,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2657,9 @@
         "N-506",
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2583,7 +2685,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2605,7 +2709,9 @@
       "transcript_snippet": "We had a person reach out who is in the country music world who does not want to be named or get any credit and he is going to pay for the entire thing",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2627,7 +2733,9 @@
       "transcript_snippet": "also to Russia's Ministry of Health, how grateful we are, everybody that was involved in this",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2652,7 +2760,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2677,7 +2787,9 @@
         "N-159",
         "N-367",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2704,7 +2816,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2732,7 +2846,9 @@
         "N-11",
         "N-89",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2753,7 +2869,9 @@
       "transcript_snippet": "156 people were murdered, including 120 students and 26 teachers.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2777,7 +2895,9 @@
         "N-5",
         "N-591",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2799,7 +2919,9 @@
       "transcript_snippet": "Sky News did an entire investigation. You should watch the entire piece. They debunked every attempt that uh the US tried to put out.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2822,7 +2944,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2841,7 +2965,9 @@
       ],
       "claim_timestamp": "00:39:34",
       "investigative_direction": "Review the full Sky News report and any DoD inquiry findings about the 2019 analyst note.",
-      "transcript_snippet": "One analyst reviewing intelligence on potential targets did reportedly spot the school in 2019."
+      "transcript_snippet": "One analyst reviewing intelligence on potential targets did reportedly spot the school in 2019.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2987,9 @@
       "transcript_snippet": "They knew every body that was moving in that school and they chose to bomb it.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2882,7 +3010,9 @@
       "transcript_snippet": "My honest belief, my honest belief is because we are looking at people who worship Bal and it was a sacrifice to demons.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2903,7 +3033,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2923,7 +3055,9 @@
       "transcript_snippet": "bombing their bridges and striking their water so they can't drink water",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2945,7 +3079,9 @@
         "N-5",
         "N-244",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2969,7 +3105,9 @@
         "N-159",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2992,7 +3130,9 @@
         "N-159",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3020,7 +3160,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3185,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3065,7 +3209,9 @@
       "transcript_snippet": "Kate Grand Rapids writes, \"Uh, no other rooftop officers had body cam.\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3085,7 +3231,9 @@
         "N-7",
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

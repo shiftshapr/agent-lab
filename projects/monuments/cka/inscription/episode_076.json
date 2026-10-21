@@ -1972,7 +1972,9 @@
       "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1994,7 +1996,9 @@
         "N-190",
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2014,7 +2018,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2038,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2052,7 +2060,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-568"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2072,7 +2082,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-568"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2089,7 +2101,9 @@
       "investigative_direction": "Search Epstein-files email corpus for Corcoran/Lynn Forester de Rothschild references.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2108,7 +2122,9 @@
       "investigative_direction": "Verify Lynn Forester de Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
       "mentions_person_refs": [
         "N-556"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2129,7 +2145,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2166,9 @@
       "investigative_direction": "Obtain the Jezebel article URL with timestamp metadata; verify publication time.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2187,9 @@
       "investigative_direction": "Obtain Erika Kirk's tweet via Wayback Machine or X API; verify timestamp metadata.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2186,7 +2208,9 @@
       "investigative_direction": "Cross-reference Bears–Vikings September 8, 2025 game clock with Charlie's commentary timestamps.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2206,7 +2230,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2225,7 +2251,9 @@
         "N-1",
         "N-2",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2243,7 +2271,9 @@
       "investigative_direction": "Compare the Twitter stream version to the Rumble-hosted version directly.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2261,7 +2291,9 @@
       "mentions_person_refs": [
         "N-570",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2313,9 @@
       "mentions_person_refs": [
         "N-1"
       ],
-      "transcript_snippet": "At 10:00 a. m. Charlie appears from his home studio live on Charlie Kirk."
+      "transcript_snippet": "At 10:00 a. m. Charlie appears from his home studio live on Charlie Kirk.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2300,7 +2334,9 @@
       "investigative_direction": "Obtain the September 8, 2025 Ingraham Angle episode and verify timestamp.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2322,7 +2358,9 @@
         "N-2",
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2343,7 +2381,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2403,9 @@
       "transcript_snippet": "They're also tasked with providing an annual annual report regarding the military institute's morale, its finances, its financial state, and its academics.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2425,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2401,7 +2445,9 @@
       "transcript_snippet": "Remember his plan initially was to get into West Point, but then he established Turning Point and it drove his life into a different direction.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2467,9 @@
       "transcript_snippet": "And sure, that organization was taking $100 million in annually.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2442,7 +2490,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2463,7 +2513,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2483,7 +2535,9 @@
       "transcript_snippet": "This was always about eugenics. The goal was eugenics.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2501,7 +2555,9 @@
       "transcript_snippet": "A lot of women today are struggling with fertility issues. That's a real thing and that is not by accident, that is by design.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2519,7 +2575,9 @@
       "transcript_snippet": "These people are literally summing summoning demons and they're making blood sacrifices.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2542,7 +2600,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2630,9 @@
         "N-190",
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2596,7 +2658,9 @@
         "N-856",
         "N-152",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2618,7 +2682,9 @@
       "transcript_snippet": "The cabinet meeting had just let out 15 minutes prior to.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2643,7 +2709,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2666,7 +2734,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2692,7 +2762,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2715,7 +2787,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2736,6 +2810,10 @@
       "mentions_person_refs": [
         "N-5",
         "N-2"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-10105"
       ]
     },
     {
@@ -2759,7 +2837,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2778,7 +2858,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2798,7 +2880,9 @@
       "transcript_snippet": "Jeffrey Epstein was specifically trafficking women from Eastern Europe through modeling agencies.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2817,7 +2901,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-857"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2838,7 +2924,9 @@
       "mentions_person_refs": [
         "N-529",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2949,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2885,7 +2975,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2909,7 +3001,9 @@
       "mentions_person_refs": [
         "N-735",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2930,7 +3024,9 @@
       "transcript_snippet": "It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Busher.",
       "mentions_person_refs": [
         "N-687"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3047,9 @@
       "transcript_snippet": "Tyler Bowyer goes out to Constanta, Romania, and he's hanging out, and he's partying, and he's drinking with Romanian models and parliament politicians.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2971,7 +3069,9 @@
       "transcript_snippet": "that same year Jeffrey Epstein begins giving money to Arizona State University, specifically for their Origins Project.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2991,7 +3091,9 @@
       "transcript_snippet": "in May of 2011, Tyler Bowyer is going to get unusually elected to the Board of Regents",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3011,7 +3113,9 @@
       "transcript_snippet": "Erika is going to enroll into ASU for her final year of college. From 2011 to 2012, and immediately 2 months after that, after the semester begins, she wins Miss Arizona USA, right? In November.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3036,7 +3140,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3061,7 +3167,9 @@
       "mentions_person_refs": [
         "N-687",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3079,7 +3187,9 @@
       "transcript_snippet": "Erika begins tweeting uh that she's a casting casting director or casting recruiter in Los Angeles.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3099,7 +3209,9 @@
         "N-2",
         "N-440",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3119,7 +3231,9 @@
         "N-2",
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3143,7 +3257,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-440"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3166,7 +3282,9 @@
       "mentions_person_refs": [
         "N-568",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3189,7 +3307,9 @@
       "mentions_person_refs": [
         "N-568",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3212,7 +3332,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3234,7 +3356,9 @@
       "transcript_snippet": "Next Model Management apparently um had tons of Eastern European girls all around the office",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3256,7 +3380,9 @@
       "transcript_snippet": "with people with direct knowledge that Erika Kirk was a multiple times taking office uh taking meetings at Next Model Management",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3280,7 +3406,9 @@
         "N-2",
         "N-9",
         "N-568"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3302,7 +3430,9 @@
       "transcript_snippet": "and nobody knew what the context of these meetings were.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3325,7 +3455,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3347,7 +3479,9 @@
         "N-571",
         "N-2",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3370,7 +3504,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3393,7 +3529,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3419,7 +3557,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3439,7 +3579,9 @@
       "transcript_snippet": "no one can even confirm that she did graduate summa laude from ASU. Uh, but by the way, she has since removed that from her bio.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3460,7 +3602,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3485,7 +3629,9 @@
         "N-361",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3506,7 +3652,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3532,7 +3680,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3557,7 +3707,9 @@
         "N-7",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3579,7 +3731,9 @@
       "transcript_snippet": "I even put in my group chat. I said, \"The Bears are winning by 14 points.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3601,7 +3755,9 @@
       "transcript_snippet": "And then some rocket scientist on the Bears I'm screaming at my TV. I woke up everyone.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3626,7 +3782,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3650,7 +3808,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3673,7 +3833,9 @@
       "transcript_snippet": "Um but Erika will allege that that's she arrives home at 5:24.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3697,7 +3859,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3720,7 +3884,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3747,7 +3913,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3774,7 +3942,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3798,7 +3968,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3821,7 +3993,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3844,7 +4018,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3865,7 +4041,9 @@
       "mentions_person_refs": [
         "N-544",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3887,7 +4065,9 @@
         "N-361",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3908,7 +4088,9 @@
       "mentions_person_refs": [
         "N-711",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

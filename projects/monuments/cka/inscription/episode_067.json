@@ -2502,7 +2502,9 @@
       "mentions_person_refs": [
         "N-50",
         "N-519"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2520,7 +2522,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2537,7 +2541,9 @@
       "investigative_direction": "Locate the underlying email between Epstein and Roger Schank in DOJ releases.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2551,7 +2557,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:37",
-      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana."
+      "investigative_direction": "Obtain the underlying email and any corroborating testimony from Svetlana.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2569,7 +2577,9 @@
       "mentions_person_refs": [
         "N-47",
         "N-528"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2585,7 +2595,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2604,7 +2616,9 @@
         "N-9",
         "N-182",
         "N-525"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2622,7 +2636,9 @@
       "mentions_person_refs": [
         "N-525",
         "N-182"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2640,7 +2656,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2658,7 +2676,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2677,7 +2697,9 @@
         "N-97",
         "N-524",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2696,7 +2718,9 @@
         "N-97",
         "N-524",
         "N-274"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2737,9 @@
       "investigative_direction": "Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).",
       "mentions_person_refs": [
         "N-522"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2733,7 +2759,9 @@
         "N-521",
         "N-527",
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2751,7 +2779,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-521"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2772,7 +2802,9 @@
         "N-55",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2792,7 +2824,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2847,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2833,7 +2869,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2851,7 +2889,9 @@
       "mentions_person_refs": [
         "N-530",
         "N-531"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2872,7 +2912,9 @@
         "N-270",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2894,7 +2936,9 @@
         "N-270",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2915,7 +2959,9 @@
         "N-7",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2933,7 +2979,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +2999,9 @@
       "mentions_person_refs": [
         "N-532",
         "N-533"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2968,7 +3018,9 @@
       "investigative_direction": "Not applicable (commentary only).",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2985,7 +3037,9 @@
       "investigative_direction": "Not applicable (commentary only).",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3002,7 +3056,9 @@
       "investigative_direction": "Not applicable (commentary only).",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3020,7 +3076,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3037,7 +3095,9 @@
       "investigative_direction": "Verify against Charleston historical society records; verify \"Checkmate\" name for the slave market.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3057,7 +3117,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-182"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3075,7 +3137,9 @@
       "transcript_snippet": "Well, how how could you have the Star of David once upon a time, what was it before 1914, that was the flag of Morocco?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3094,7 +3158,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-519"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3118,7 +3184,9 @@
         "N-3",
         "N-50",
         "N-843"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3141,7 +3209,9 @@
         "N-3",
         "N-50",
         "N-519"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3159,7 +3229,9 @@
       "transcript_snippet": "The Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3180,7 +3252,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-933"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3203,7 +3277,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-792"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3221,7 +3297,9 @@
       "transcript_snippet": "Israel, the same nation-state that is having a bunch of women say that they were ritualistically abused in a forest by rabbis. That's happening in the Knesset right now.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3244,7 +3322,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3267,7 +3347,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3290,7 +3372,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-934"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3312,7 +3396,9 @@
       "transcript_snippet": "In 2017, Epstein has a conversation talking about if you want to hire the best people, you have to hire only Jews. Only hire those who can prove they are genetically Jewish.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3334,7 +3420,9 @@
         "N-3",
         "N-97",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3354,7 +3442,9 @@
       "transcript_snippet": "Well, I should let you know the FBI has already formally uh formally acknowledged that pizza is used as a code word amongst pedophiles.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3375,7 +3465,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3399,7 +3491,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-535"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3426,7 +3520,9 @@
         "N-97",
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3453,7 +3549,9 @@
         "N-97",
         "N-524",
         "N-274"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3473,7 +3571,9 @@
         "N-3",
         "N-298",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3496,7 +3596,9 @@
         "N-523",
         "N-226",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3517,7 +3619,9 @@
       "transcript_snippet": "even when we showed you the CERN activity that was happening, which somebody caught on tape, they just came out and were like, \"Oh, we were just faking.\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3536,7 +3640,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-50"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3558,7 +3664,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-521"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3580,7 +3688,9 @@
         "N-3",
         "N-521",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3603,7 +3713,9 @@
         "N-3",
         "N-521",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3627,7 +3739,9 @@
         "N-521",
         "N-9",
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3651,7 +3765,9 @@
         "N-3",
         "N-521",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3672,7 +3788,9 @@
       "transcript_snippet": "He also had Palantir boys were put onto Fort Huachuca airbase in July. We'll get into that later.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3692,7 +3810,9 @@
         "N-3",
         "N-9",
         "N-935"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3714,7 +3834,9 @@
         "N-3",
         "N-4",
         "N-521"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3740,7 +3862,9 @@
         "N-816",
         "N-48",
         "N-178"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3761,7 +3885,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3782,7 +3908,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3806,7 +3934,9 @@
         "N-3",
         "N-14",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3830,7 +3960,9 @@
         "N-69",
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3851,7 +3983,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3877,7 +4011,9 @@
         "N-529",
         "N-9",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3899,7 +4035,9 @@
         "N-3",
         "N-2",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3920,7 +4058,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3941,7 +4081,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-533"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3959,7 +4101,9 @@
       "transcript_snippet": "The Kiddush cup, that is the traditional symbol of Judaism. It even says this on Wikipedia that this did not emerge until the 17th century, right, 1666 was when that guy who was a mystic declared himself to be the Messiah",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3980,7 +4124,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-770"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4003,7 +4149,9 @@
         "N-3",
         "N-9",
         "N-520"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4030,7 +4178,9 @@
         "N-55",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4050,7 +4200,9 @@
         "N-3",
         "N-1",
         "N-611"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4074,7 +4226,9 @@
         "N-3",
         "N-1",
         "N-936"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4103,7 +4257,9 @@
         "N-1",
         "N-55",
         "N-164"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4126,7 +4282,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4151,7 +4309,9 @@
         "N-3",
         "N-1",
         "N-98"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4178,7 +4338,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4202,7 +4364,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4229,7 +4393,9 @@
         "N-1",
         "N-14",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4256,7 +4422,9 @@
         "N-2",
         "N-270",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4281,7 +4449,9 @@
         "N-3",
         "N-2",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4305,7 +4475,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4329,7 +4501,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4354,7 +4528,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4379,7 +4555,9 @@
         "N-3",
         "N-1",
         "N-689"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4403,7 +4581,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4426,7 +4606,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4450,7 +4632,9 @@
         "N-3",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4474,7 +4658,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4499,7 +4685,9 @@
         "N-3",
         "N-2",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4520,7 +4708,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4541,7 +4731,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4563,7 +4755,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4590,7 +4784,9 @@
         "N-1",
         "N-14",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4613,7 +4809,9 @@
         "N-3",
         "N-2",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4634,7 +4832,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4660,7 +4860,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4681,7 +4883,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4706,7 +4910,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

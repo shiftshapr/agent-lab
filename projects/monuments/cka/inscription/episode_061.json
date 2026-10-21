@@ -1436,7 +1436,9 @@
       "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1456,7 +1458,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1476,7 +1480,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1495,7 +1501,9 @@
       "investigative_direction": "Identify the specific personnel Owens considers \"military operatives\" and determine whether any verifiable affiliation exists.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1514,7 +1522,9 @@
       "investigative_direction": "Compare the TPUSA letter's characterization with Owens's actual on-air wording to assess whether the paraphrase is fair.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1534,7 +1544,9 @@
       "investigative_direction": "Identify the specific published list and each underlying claim to determine which items TPUSA disputes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1553,7 +1565,9 @@
       "investigative_direction": "Obtain the executed speaking agreement to verify the existence, scope, and duration of the non-disparagement clause.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1572,7 +1586,9 @@
       "investigative_direction": "Obtain the December 15, 2025 communication and any prior December 2 and December 4 letters referenced in the cease and desist.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1593,7 +1609,9 @@
       "mentions_person_refs": [
         "N-277",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1615,7 +1633,9 @@
       "mentions_person_refs": [
         "N-277",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1634,7 +1654,9 @@
       "investigative_direction": "Obtain the original contract and any amendments to verify the start date.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1653,7 +1675,9 @@
       "investigative_direction": "Cross-reference with the cease and desist letter's stated termination date and obtain a termination confirmation document.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1673,7 +1697,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1690,7 +1716,9 @@
       "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred.",
       "mentions_person_refs": [
         "N-480"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1709,7 +1737,9 @@
         "N-480",
         "N-481",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1728,7 +1758,9 @@
         "N-480",
         "N-482",
         "N-483"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1747,7 +1779,9 @@
         "N-480",
         "N-481",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1768,7 +1802,9 @@
         "N-481",
         "N-482",
         "N-880"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1786,7 +1822,9 @@
       "mentions_person_refs": [
         "N-480",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1803,7 +1841,9 @@
       "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.",
       "mentions_person_refs": [
         "N-880"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1822,7 +1862,9 @@
         "N-484",
         "N-485",
         "N-486"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1840,7 +1882,9 @@
       "mentions_person_refs": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1859,7 +1903,9 @@
       "investigative_direction": "Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1879,7 +1925,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1906,7 +1954,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1929,7 +1979,9 @@
       "transcript_snippet": "we moved to terminate that agreement which was supposed to go on for another couple of years.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1952,7 +2004,9 @@
       "transcript_snippet": "she has stated that she quote doesn't feel any differently about people that she mentioned on the show and she thinks that there are shady people at Turning Point USA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1976,7 +2030,9 @@
         "N-3",
         "N-2",
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2003,7 +2059,9 @@
         "N-3",
         "N-2",
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2085,9 @@
       "transcript_snippet": "We are currently working to calculate the full extent to date of the still acrewing damages.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2051,7 +2111,9 @@
       "transcript_snippet": "not to make any disparaging, false, misleading, or otherwise defamatory comments about Turning Point USA and/or its employees, agents, directors, officers, affiliate programs, or services.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2075,7 +2137,9 @@
       "transcript_snippet": "Turning Point USA's executives have repeatedly made themselves available via phone, text, and in-person meetings to provide information and documentation.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2100,7 +2164,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2123,7 +2189,9 @@
       "transcript_snippet": "she has continued to make statements in violation of her contractual obligations in a manner that is reckless, knowing, and intentional.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2150,7 +2218,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2174,7 +2244,9 @@
         "N-3",
         "N-266",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2198,6 +2270,10 @@
         "N-2",
         "N-1",
         "N-237"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-5455"
       ]
     },
     {
@@ -2229,7 +2305,9 @@
         "N-2",
         "N-270",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2333,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2278,7 +2358,9 @@
       "transcript_snippet": "Yes, I do know there are people at Turning Point USA who are not good people. I stand by that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2301,7 +2383,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2323,7 +2407,9 @@
       "transcript_snippet": "But to date, they haven't sent me what I asked for. So I told the truth.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2433,9 @@
       "transcript_snippet": "Miss Owens Farmers has not put an end to what she has expressly admitted to be a flood of allegations against people at Turning Point USA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2367,7 +2455,9 @@
       "transcript_snippet": "So because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2388,7 +2478,9 @@
       "transcript_snippet": "I'm not saying that's case turning point USA. We've barely covered their finances actually",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2409,7 +2501,9 @@
       "transcript_snippet": "The thrust of this is looking into the people that are taking over Turning Point USA, their backgrounds, and I'm going to continue to be honest about that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2431,7 +2525,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2452,7 +2548,9 @@
       "transcript_snippet": "But I told my lawyer, \"Here's what you do. Go back to them and say, \"How much money do you want?\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2473,7 +2571,9 @@
       "transcript_snippet": "I'm going to go online, start a GoFundMe, and raise it overnight.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2494,7 +2594,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-486"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2519,7 +2621,9 @@
         "N-486",
         "N-484",
         "N-879"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2540,7 +2644,9 @@
         "N-27",
         "N-359",
         "N-486"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2666,9 @@
         "N-3",
         "N-486",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2585,7 +2693,9 @@
         "N-486",
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2609,7 +2719,9 @@
         "N-3",
         "N-486",
         "N-484"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2634,7 +2746,9 @@
         "N-486",
         "N-484",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2657,7 +2771,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-485"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2680,7 +2796,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-480"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2704,7 +2822,9 @@
         "N-3",
         "N-481",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2728,7 +2848,9 @@
         "N-3",
         "N-480",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2756,7 +2878,9 @@
         "N-480",
         "N-481",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2781,7 +2905,9 @@
         "N-480",
         "N-482",
         "N-483"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2804,7 +2930,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-480"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2828,7 +2956,9 @@
         "N-3",
         "N-480",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2851,7 +2981,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-480"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +3007,9 @@
         "N-3",
         "N-480",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2902,7 +3036,9 @@
         "N-3",
         "N-480",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2926,7 +3062,9 @@
         "N-3",
         "N-480",
         "N-483"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2950,7 +3088,9 @@
         "N-3",
         "N-480",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2977,7 +3117,9 @@
         "N-3",
         "N-880",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3001,7 +3143,9 @@
         "N-3",
         "N-480",
         "N-482"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3026,7 +3170,9 @@
         "N-480",
         "N-483",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3051,7 +3197,9 @@
         "N-480",
         "N-482",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3074,7 +3222,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-480"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3098,7 +3248,9 @@
         "N-3",
         "N-481",
         "N-881"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3121,7 +3273,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-481"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3143,7 +3297,9 @@
         "N-3",
         "N-481",
         "N-882"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3163,7 +3319,9 @@
         "N-3",
         "N-481",
         "N-883"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3183,7 +3341,9 @@
         "N-3",
         "N-481",
         "N-884"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3204,7 +3364,9 @@
         "N-481",
         "N-885",
         "N-542"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3226,7 +3388,9 @@
         "N-3",
         "N-483",
         "N-480"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3248,7 +3412,9 @@
       "transcript_snippet": "I just live saw that this is trending on X.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3271,7 +3437,9 @@
       "transcript_snippet": "And we have a lot that we are getting and researching uh because more people are now speaking because that's not the best solution.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3293,7 +3461,9 @@
       "transcript_snippet": "I will say I did not hear that it was 40 people, but I did hear that it was a lot of people.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3317,7 +3487,9 @@
         "N-3",
         "N-159",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3340,7 +3512,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3365,7 +3539,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3385,7 +3561,9 @@
       "transcript_snippet": "The politics is all about who you can blackmail, who you can lie on, stepping on someone's head to get ahead.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3406,7 +3584,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-32"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3428,7 +3608,9 @@
       "transcript_snippet": "Could you imagine all of the text messages I would have access to, the timeline that I could put together?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3451,7 +3633,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3474,7 +3658,9 @@
       "transcript_snippet": "which is we're happy to pay you since you care about money.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

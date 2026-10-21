@@ -1499,7 +1499,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1516,7 +1518,9 @@
       "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bongino interview transcripts.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1536,7 +1540,9 @@
       "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1555,7 +1561,9 @@
       "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1575,7 +1583,9 @@
       "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1595,7 +1605,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1615,7 +1627,9 @@
       "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1635,7 +1649,9 @@
       "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews.",
       "mentions_person_refs": [
         "N-555"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1652,7 +1668,9 @@
       "investigative_direction": "Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1669,7 +1687,9 @@
       "investigative_direction": "Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1688,7 +1708,9 @@
       "investigative_direction": "Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1707,7 +1729,9 @@
       "investigative_direction": "Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1724,7 +1748,9 @@
       "tags": [],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Obtain the original CNN article and any underlying Pentagon / CENTCOM releases; identify the originating office and the recipient distribution list.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1742,7 +1768,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1759,7 +1787,9 @@
       "investigative_direction": "Locate the original source videos (date, outlet, full clip) to confirm context and that the clips are unedited.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1776,7 +1806,9 @@
       "investigative_direction": "Source the original archived segment to verify date, venue, and full context of the statement.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1794,7 +1826,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1815,7 +1849,9 @@
       "mentions_person_refs": [
         "N-506",
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1837,7 +1873,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1863,7 +1901,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1925,9 @@
         "N-190",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1909,7 +1951,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1929,7 +1973,9 @@
       "transcript_snippet": "He tells a story about how the nurse wiped it off of his face.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1955,7 +2001,9 @@
       "mentions_person_refs": [
         "N-487",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1976,7 +2024,9 @@
       "mentions_person_refs": [
         "N-487",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1998,7 +2048,9 @@
       "mentions_person_refs": [
         "N-487",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2022,7 +2074,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2046,7 +2100,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2068,6 +2124,10 @@
         "N-54",
         "N-40",
         "N-3"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-13097"
       ]
     },
     {
@@ -2091,7 +2151,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2114,7 +2176,9 @@
       ],
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2140,7 +2204,9 @@
       ],
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2166,7 +2232,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2255,9 @@
       "transcript_snippet": "They have a little office in a building in Provo nearby that has apparently four agents.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2210,7 +2280,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2233,7 +2305,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2256,7 +2330,9 @@
       "transcript_snippet": "You see him walking around and texting and making calls.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2278,7 +2354,9 @@
       "transcript_snippet": "He says the battery died, but the camera had only been running for 27 minutes and these body cameras are supposed to last around 10 hours.",
       "mentions_person_refs": [
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2302,7 +2380,9 @@
         "N-748",
         "N-261",
         "N-506"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2404,9 @@
       "transcript_snippet": "But he was also a police officer just before going to Utah in San Bernardino, California.",
       "mentions_person_refs": [
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2346,7 +2428,9 @@
       "transcript_snippet": "it's a uh a database of law enforcement officers who have a documented history of misconduct, dishonesty, or integrity violations.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2369,7 +2453,9 @@
       "transcript_snippet": "I searched online and said nope that's not what they do.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2390,7 +2476,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2413,7 +2501,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2436,7 +2526,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2460,7 +2552,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-748"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2481,7 +2575,9 @@
       "transcript_snippet": "Email us more tips at Candace, sorry, Candace Owens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2505,7 +2601,9 @@
       "mentions_person_refs": [
         "N-748",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2525,7 +2623,9 @@
       "transcript_snippet": "he had a a very severe stroke, had to have brain surgery to remove the clot in the back of his um head",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2545,7 +2645,9 @@
       "transcript_snippet": "is trying to get an appointment for over 5 years to the VA",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2565,7 +2667,9 @@
       "transcript_snippet": "It's been taken care of by the Ministry of Health.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2585,7 +2689,9 @@
       "transcript_snippet": "his eyesight came back it's like a miracle once the clot was removed",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2606,7 +2712,9 @@
       "transcript_snippet": "this international institute of brain enhancement that is in Delray, Florida.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2629,7 +2737,9 @@
       "transcript_snippet": "A second source also said that a senior US military officer sent the message last week soliciting new ideas for how to deal with Iran.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2654,7 +2764,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2676,7 +2788,9 @@
         "N-5",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2697,7 +2811,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2723,7 +2839,9 @@
         "N-1",
         "N-5",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2747,7 +2865,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2769,7 +2889,9 @@
       "transcript_snippet": "Make sure we don't go to war against Iran, which would be a profound mistake for our country.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2791,7 +2913,9 @@
       "transcript_snippet": "And yet here in 2025, they do not have a nuclear bomb. So why should we trust the American intelligence without verifying it?",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2937,9 @@
       "transcript_snippet": "We're going to go make this a regional mess and try to get as many people involved as possible.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2838,7 +2964,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2856,7 +2984,9 @@
       "transcript_snippet": "as is the Mossad motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +3005,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2896,7 +3028,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2914,7 +3048,9 @@
       "transcript_snippet": "We did not have to recant on even one statement that we had made previously.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2939,7 +3075,9 @@
         "N-2",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2962,7 +3100,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2986,7 +3126,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3006,7 +3148,9 @@
       "transcript_snippet": "I mean this recent video that I revealed that's the 4K video.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3028,7 +3172,9 @@
         "N-5",
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3054,7 +3200,9 @@
       ],
       "revises_claim_refs": [
         "C-11033"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

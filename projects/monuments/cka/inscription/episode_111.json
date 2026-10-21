@@ -1833,7 +1833,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-624"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1851,7 +1853,9 @@
         "N-3",
         "N-30",
         "N-624"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1869,7 +1873,9 @@
       "transcript_snippet": "Trump administration sent an entire delegation to this same conference. Nobody reported on them.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1888,7 +1894,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1910,7 +1918,9 @@
         "N-3",
         "N-624",
         "N-647"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1933,7 +1943,9 @@
         "N-647",
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1956,7 +1968,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-647"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1979,7 +1993,9 @@
         "N-3",
         "N-30",
         "N-648"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1995,7 +2011,9 @@
       "transcript_snippet": "our American um military person had had collapsed at breakfast and he sort of said, \"Look, he's okay.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2029,9 @@
       "transcript_snippet": "they informed us that he immediately was going to have to have brain surgery. That there was a massive clot in his brain.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2029,7 +2049,9 @@
       "transcript_snippet": "He knew something was wrong and he had been trying to get an appointment with the VA for years.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2047,7 +2069,9 @@
       "transcript_snippet": "His wife then explained to me that multiple people that were in his platoon committed suicide because they similarly could not get appointments um when they knew something was wrong.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2063,7 +2087,9 @@
       "transcript_snippet": "He's He's still in recovery. Uh, he is still in Russia.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2109,9 @@
       "transcript_snippet": "I think you guys saw the headlines of Congress discreetly moves to merge US military even closer to Israel's.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2103,7 +2131,9 @@
         "N-579",
         "N-498",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2123,7 +2153,9 @@
       "transcript_snippet": "Um we could can start with the assassination of Tsar Alexander II. It was plotted by a terrorist group in Russia, known in English as the People's Will.",
       "mentions_person_refs": [
         "N-649"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2175,9 @@
       "transcript_snippet": "Among these 2,000, some radicals were 95 Jewish women who represented almost a third of the only 348 women that were in the party.",
       "mentions_person_refs": [
         "N-650"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2161,7 +2195,9 @@
       "transcript_snippet": "The assassination of the Romanov family was led by the Bolshevik executioner Yakov Yurovsky.",
       "mentions_person_refs": [
         "N-651"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2177,7 +2213,9 @@
       "transcript_snippet": "The communist regime began under Vladimir Lenin. Uh the greatest genocide of all time began. Is a better way of saying it. More than 60 million Russian Christians were then ruthlessly murdered.",
       "mentions_person_refs": [
         "N-652"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2198,7 +2236,9 @@
         "N-654",
         "N-655",
         "N-656"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2217,7 +2257,9 @@
       "mentions_person_refs": [
         "N-654",
         "N-655"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2280,9 @@
       "mentions_person_refs": [
         "N-649",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2299,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-244"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2273,7 +2319,9 @@
       "transcript_snippet": "How on Earth is this a country that is at a level four travel advisory?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2290,7 +2338,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2361,9 @@
       "transcript_snippet": "But the joy of the Lord withstands all. >> Erika Kirk protects pedophiles.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2335,7 +2387,9 @@
         "N-2",
         "N-450",
         "N-451"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2352,7 +2406,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-450"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2371,7 +2427,9 @@
         "N-3",
         "N-624",
         "N-647"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2392,7 +2450,9 @@
       "transcript_snippet": "Exodus 22:22, \"You shall not afflict any widow or fatherless child.",
       "mentions_person_refs": [
         "N-657"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2411,7 +2471,9 @@
       "transcript_snippet": "they were not happy with the numbers of young women who did not want to attend what used to be called the Young Women's Leadership Summit.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2431,7 +2493,9 @@
       "transcript_snippet": "Which reminds me, there's one thing I haven't told you guys.",
       "mentions_person_refs": [
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2450,7 +2514,9 @@
       "transcript_snippet": "many of their own chapter leaders declined to make the trip, female chapter leaders, cuz they don't like Erika and they don't like the direction that the organization is taking.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2470,7 +2536,9 @@
         "N-99",
         "N-3",
         "N-624"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2488,7 +2556,9 @@
       "transcript_snippet": "while making secret phone calls and telling people you you shouldn't uh do ads with Candace, you know, because if you want to work with us, you can't work with Candace.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2509,7 +2579,9 @@
         "N-1",
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2528,7 +2600,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2548,7 +2622,9 @@
         "N-99",
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2569,7 +2645,9 @@
         "N-550",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2666,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-658"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2608,7 +2688,9 @@
       "transcript_snippet": "My name is Vance. I live in Scottsdale, Arizona. Um I'm here working for a Christian legal organization called Alliance Defending Freedom.",
       "mentions_person_refs": [
         "N-658"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2632,7 +2714,9 @@
         "N-2",
         "N-46",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2734,9 @@
       "transcript_snippet": "I think that we've gone wrong here, that women should prioritize family and children way above career. That they should try to find their husband before they're 25.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2669,7 +2755,9 @@
       "transcript_snippet": "they at first said that they didn't want to release the video because people would say that it was AI.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2688,7 +2776,9 @@
       "transcript_snippet": "they put the actual bloody microphone that he was holding when he died in a glass encasement for donors to ooh and aah at at their annual fundraising event at Mar-a-Lago.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2707,7 +2797,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2727,7 +2819,9 @@
       "transcript_snippet": "They decided to exclusively show it to some reporters over at the Daily Mail who would in turn act as the arbiter of truth, I suppose.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2749,7 +2843,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2769,7 +2865,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2790,7 +2888,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2809,7 +2909,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2834,7 +2936,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2856,7 +2960,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +2983,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2899,7 +3007,9 @@
         "N-3",
         "N-14",
         "N-15"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +3029,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2944,7 +3056,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2962,7 +3076,9 @@
       "transcript_snippet": "we're waiting for them to respond that it's okay for us to publish the entirety of the Aspen video",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2981,7 +3097,9 @@
       "transcript_snippet": "I do think it's very strange that they entered into relationships with all these AI companies following his death who specialize in making after-death videos.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2998,7 +3116,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3016,7 +3136,9 @@
       "transcript_snippet": "I'm going to tell you guys who the donors are and I want to share the full video. I want I've reached out to the donors um hoping they can just respond.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3038,7 +3160,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3061,7 +3185,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

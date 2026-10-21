@@ -2323,7 +2323,9 @@
       "mentions_person_refs": [
         "N-153",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2344,7 +2346,9 @@
         "N-944",
         "N-153",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2367,9 @@
       "investigative_direction": "Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2382,7 +2388,9 @@
         "N-41",
         "N-69",
         "N-507"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2402,7 +2410,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2431,9 @@
       "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2438,7 +2450,9 @@
       "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2455,7 +2469,9 @@
       "investigative_direction": "Confirm against Weber State graduation records or alumni listings.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2473,7 +2489,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-507"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2508,9 @@
       "investigative_direction": "Confirm the original article, deployment list, and credentialing records.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2507,7 +2527,9 @@
       "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression.",
       "mentions_person_refs": [
         "N-505"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2525,7 +2547,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-507"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2543,7 +2567,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-507"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2563,7 +2589,9 @@
       "mentions_person_refs": [
         "N-507",
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2585,7 +2613,9 @@
       ],
       "revises_claim_refs": [
         "C-7806"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2604,7 +2634,9 @@
       "investigative_direction": "Verify the appointment date, court, and appointing authority.",
       "mentions_person_refs": [
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2623,7 +2655,9 @@
       "investigative_direction": "Confirm via FBI press releases and internal personnel announcements.",
       "mentions_person_refs": [
         "N-133"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2640,7 +2674,9 @@
       "investigative_direction": "Cross-reference Provo PD rosters and 2004 article content.",
       "mentions_person_refs": [
         "N-133"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2659,7 +2695,9 @@
         "N-505",
         "N-509",
         "N-508"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2677,7 +2715,9 @@
       "mentions_person_refs": [
         "N-509",
         "N-508"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2695,7 +2735,9 @@
       "mentions_person_refs": [
         "N-509",
         "N-510"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2715,7 +2757,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2735,7 +2779,9 @@
       "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2754,7 +2800,9 @@
       "investigative_direction": "Cross-check with travel booking records, expense reports, and any hotel worker testimony.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2774,7 +2822,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-688"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2794,7 +2844,9 @@
         "N-943",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2814,7 +2866,9 @@
         "N-165",
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2841,7 +2895,9 @@
         "N-14",
         "N-688",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2864,7 +2920,9 @@
       "mentions_person_refs": [
         "N-153",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2890,7 +2948,9 @@
       "mentions_person_refs": [
         "N-153",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2913,7 +2973,9 @@
         "N-2",
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2937,7 +2999,9 @@
         "N-944",
         "N-153",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2959,7 +3023,9 @@
       "transcript_snippet": "the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.",
       "mentions_person_refs": [
         "N-944"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2983,7 +3049,9 @@
         "N-944",
         "N-153",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3007,7 +3075,9 @@
         "N-41",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3031,7 +3101,9 @@
       "mentions_person_refs": [
         "N-41",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3052,7 +3124,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3078,7 +3152,9 @@
       "mentions_person_refs": [
         "N-153",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3099,7 +3175,9 @@
       "transcript_snippet": "the rooftop man neither assembled or disassembled his rifle on Losee.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3121,7 +3199,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3147,7 +3227,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3169,7 +3251,9 @@
       "transcript_snippet": "I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was",
       "mentions_person_refs": [
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3191,7 +3275,9 @@
       "transcript_snippet": "on that roof in that corner. And when you see the camera in the distance away, it's clearly not the best video.",
       "mentions_person_refs": [
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3213,7 +3299,9 @@
         "N-89",
         "N-606",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3236,7 +3324,9 @@
       "transcript_snippet": "Said he was wearing a black jacket and tactical gear. All he knows is he was wearing all black.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3258,7 +3348,9 @@
       "transcript_snippet": "I think it was never even actually a towel that we saw in the footage um that the rooftop jogger, the rooftop sprinter had. I think it was likely a black jacket",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3282,7 +3374,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3304,7 +3398,9 @@
       "transcript_snippet": "which was also described by my eyewitness who was never contacted for some reason.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3327,7 +3423,9 @@
       "transcript_snippet": "I think it's plausible that while he was running, he dumped his tactical gloves, and what's in his hand there is his black jacket and his backpack",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3348,7 +3446,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3369,7 +3469,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3392,7 +3494,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3415,7 +3519,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3436,7 +3542,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3459,7 +3567,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3482,7 +3592,9 @@
       "transcript_snippet": "We talked in the past about the new newer, I should say, medical examiner from July 2024.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3503,7 +3615,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3530,7 +3644,9 @@
         "N-133",
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3553,7 +3669,9 @@
       "mentions_person_refs": [
         "N-133",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3576,7 +3694,9 @@
       "mentions_person_refs": [
         "N-505",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3599,7 +3719,9 @@
       "mentions_person_refs": [
         "N-509",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3623,7 +3745,9 @@
         "N-509",
         "N-510",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3646,7 +3770,9 @@
       "mentions_person_refs": [
         "N-510",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3670,7 +3796,9 @@
         "N-508",
         "N-509",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3694,7 +3822,9 @@
         "N-509",
         "N-508",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3721,7 +3851,9 @@
         "N-253",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3744,7 +3876,9 @@
       "mentions_person_refs": [
         "N-253",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3763,7 +3897,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3785,7 +3921,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3811,7 +3949,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3838,7 +3978,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3861,7 +4003,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3885,7 +4029,9 @@
         "N-7",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3909,7 +4055,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3933,7 +4081,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3957,7 +4107,9 @@
         "N-7",
         "N-224",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3980,7 +4132,9 @@
       "transcript_snippet": "The entire Turning Point team stayed in Salt Lake City.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4003,7 +4157,9 @@
       "transcript_snippet": "The first time I talked to you, you said you spent the night in Orem. You stayed at a hotel. You may have left the hotel once for food.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4025,7 +4181,9 @@
       "transcript_snippet": "I interpreted as, \"Did you stay in Utah that night?\" as opposed to returning to Phoenix, where I live.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4047,7 +4205,9 @@
       "transcript_snippet": "We were all in to my knowledge the basic the same hotel, and it was I think in Salt Lake.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4070,7 +4230,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4093,7 +4255,9 @@
         "N-159",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4114,7 +4278,9 @@
       "mentions_person_refs": [
         "N-4",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4136,7 +4302,9 @@
       "transcript_snippet": "Please send us something to moretips@candaceowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4157,6 +4325,10 @@
       "transcript_snippet": "We definitely know what hotel the feds were staying at. We don't know what hotel Turning Point USA was staying at, and I have gone out to Turning Point staffers. They have no idea.",
       "mentions_person_refs": [
         "N-3"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-11750"
       ]
     },
     {
@@ -4178,7 +4350,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4197,7 +4371,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4221,7 +4397,9 @@
         "N-14",
         "N-688",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4243,7 +4421,9 @@
       "transcript_snippet": "And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.",
       "mentions_person_refs": [
         "N-688"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4266,7 +4446,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4291,7 +4473,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4311,7 +4495,9 @@
       "transcript_snippet": "this massive intel base, uh which directs what's going on at the border, joint task force at the border since forever.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4332,7 +4518,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4352,7 +4540,9 @@
       "transcript_snippet": "the person was willing to come forward on record and say that.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4373,7 +4563,9 @@
       "transcript_snippet": "Uh Omaha, Nebraska, one of our Egyptian plane stops.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4393,7 +4585,9 @@
       "transcript_snippet": "the scandal involving a $40 million financial fraud uh claims of abuse by high-ranking politicians and satanic ritual abuse.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4418,7 +4612,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4443,7 +4639,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4470,7 +4668,9 @@
         "N-153",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4491,7 +4691,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4514,7 +4716,9 @@
       "transcript_snippet": "Of course, Farnsworth's, big Mormon family, taking down the cameras.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4537,7 +4741,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4555,7 +4761,9 @@
       "transcript_snippet": "I would testify for the prosecution or the defense cuz the truth is the truth.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4578,7 +4786,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4603,7 +4813,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4631,7 +4843,9 @@
         "N-209",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4654,7 +4868,9 @@
         "N-11",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4674,7 +4890,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4692,7 +4910,9 @@
       "transcript_snippet": "the people who left the Pale of Settlement, left Russia after they coordinated the assassination of the Tsar.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4710,7 +4930,9 @@
       "transcript_snippet": "who does not employ anybody to go after them at all. I don't team up behind the scenes, nothing.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [
