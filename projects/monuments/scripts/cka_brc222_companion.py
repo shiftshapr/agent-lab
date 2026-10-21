@@ -228,6 +228,15 @@ def _prose_dashes(s: str) -> str:
     return s.replace("\u2014", "\u2013")
 
 
+_OTHER_VOICE_RE = re.compile(r"\b(?:clip|reads|per the|according to|quotes?|comment|post|article|document|email|text message|tweet)\b", re.I)
+
+
+def _host_voice(body: str) -> bool:
+    """True when the claim is the host's own assertion, not a clip, document, post or other speaker she relays."""
+    b = body.strip()
+    return b.startswith("The host ") and not _OTHER_VOICE_RE.search(b)
+
+
 def _split_id_list(raw: str) -> list[str]:
     if not raw or not raw.strip():
         return []
@@ -558,15 +567,28 @@ def build_package(
                 )
             )
 
-        # Supports: later/independent confirms -> prior isCorroboratedBy newer
+        # Supports: an independent voice confirms -> prior isCorroboratedBy newer. When both claims are the host's
+        # own assertions (ROADMAP 3.3), repetition is not corroboration: newer extends prior instead.
         for prior in c.supports:
+            prior_rec = claims.get(prior)
+            if prior_rec is not None and _host_voice(c.body) and _host_voice(prior_rec.body):
+                add_edge(
+                    Edge(
+                        source=c.claim_id,
+                        target=prior,
+                        relationship=terms["revises_builds_on"],
+                        episode=ep,
+                        explanation="Same host reiterates or builds on her own prior claim (not independent)",
+                    )
+                )
+                continue
             add_edge(
                 Edge(
                     source=prior,
                     target=c.claim_id,
                     relationship=terms["independent_or_later_confirms"],
                     episode=ep,
-                    explanation="Later or reinforcing claim corroborates prior",
+                    explanation="Independent or relayed source corroborates prior claim",
                 )
             )
 
